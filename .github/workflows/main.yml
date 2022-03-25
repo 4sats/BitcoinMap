@@ -12,7 +12,8 @@ jobs:
         run: |
           npm ci
           npm run build
-
+          cp -r data dist
+          
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
