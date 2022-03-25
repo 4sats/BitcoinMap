@@ -1,2 +1,0 @@
-# BitcoinMap
-A bitcoin map
