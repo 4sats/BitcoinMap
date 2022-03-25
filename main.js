@@ -89,7 +89,18 @@ const clickFeatureInfo = function (pixel) {
     return feature;
   });
   if (feature) {
-    alert(feature.get("addr:street"))
+    info.tooltip('hide');
+    $("#header").html(feature.get("name"));
+    $("#body").html(
+      "<p>Address: "+feature.get("addr:street")+" "+(feature.get("addr:housenumber") ? feature.get("addr:housenumber") : "")
+      +(feature.get("website") ? '<br>Website: <a href="'+feature.get("website")+'"  target="_blank">'+feature.get("website")+'</a>' : "")
+      +(feature.get("phone") ? '<br>Phone: <a href="tel:'+feature.get("phone").replace(" ","")+'">'+feature.get("phone")+'</a>' : "")
+      +(feature.get("email") ? '<br>Email: <a href="mailto:'+feature.get("email").replace(" ","")+'">'+feature.get("email")+'</a>' : "")
+      +"</p>"
+    );
+    $("#myModal").modal();
+    
+    //alert(feature.get("addr:street"))
   } else {
     info.tooltip('hide');
   }
