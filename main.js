@@ -89,6 +89,8 @@ const clickFeatureInfo = function (pixel) {
     return feature;
   });
   if (feature) {
+    const coordinate = feature.getGeometry().transform('EPSG:3857', 'EPSG:4326');
+    const coordinates = coordinate.getCoordinates().toString().split(",");
     info.tooltip('hide');
     $("#header").html(feature.get("name"));
     $("#body").html(
@@ -96,6 +98,7 @@ const clickFeatureInfo = function (pixel) {
       +(feature.get("website") ? '<br>Website: <a href="'+feature.get("website")+'"  target="_blank">'+feature.get("website")+'</a>' : "")
       +(feature.get("phone") ? '<br>Phone: <a href="tel:'+feature.get("phone").replace(" ","")+'">'+feature.get("phone")+'</a>' : "")
       +(feature.get("email") ? '<br>Email: <a href="mailto:'+feature.get("email").replace(" ","")+'">'+feature.get("email")+'</a>' : "")
+      +'<br> <a href="geo:'+coordinates[0]+','+coordinates[1]+'" target="_blank">Click here to open in map</a>'
       +"</p>"
     );
     $("#myModal").modal();
