@@ -89,8 +89,9 @@ const clickFeatureInfo = function (pixel) {
     return feature;
   });
   if (feature) {
-    const coordinate = feature.getGeometry().transform('EPSG:3857', 'EPSG:4326');
-    const coordinates = coordinate.getCoordinates().toString().split(",");
+    const fet = feature.clone();
+    const coordinate = fet.getGeometry().transform('EPSG:3857', 'EPSG:4326').getCoordinates();
+    const coordinates = coordinate.toString().split(",");
     info.tooltip('hide');
     $("#header").html(feature.get("name"));
     $("#body").html(
