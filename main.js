@@ -6,6 +6,7 @@ import VectorSource from 'ol/source/Vector';
 import View from 'ol/View';
 import {Circle as CircleStyle, Fill, Stroke, Style} from 'ol/style';
 import {Tile as TileLayer, Vector as VectorLayer} from 'ol/layer';
+import {transform} from 'ol/proj';
 
 const styleCache = {};
 const styleFunction = function (feature) {
@@ -92,6 +93,8 @@ const clickFeatureInfo = function (pixel) {
     const fet = feature.clone();
     const coordinate = fet.getGeometry().transform('EPSG:3857', 'EPSG:4326').getCoordinates();
     const coordinates = coordinate.toString().split(",");
+    map.getView().setCenter(transform([coordinates[0], coordinates[1]], 'EPSG:4326', 'EPSG:3857'));
+    map.getView().setZoom(map.getView().getZoom() + 3);
     info.tooltip('hide');
     $("#header").html(feature.get("name"));
     $("#body").html(
@@ -100,8 +103,6 @@ const clickFeatureInfo = function (pixel) {
       +"</p>"
     );
     $("#myModal").modal();
-    
-    //alert(feature.get("addr:street"))
   } else {
     info.tooltip('hide');
   }
