@@ -94,7 +94,7 @@ const clickFeatureInfo = function (pixel) {
     const coordinate = fet.getGeometry().transform('EPSG:3857', 'EPSG:4326').getCoordinates();
     const coordinates = coordinate.toString().split(",");
     map.getView().setCenter(transform([coordinates[0], coordinates[1]], 'EPSG:4326', 'EPSG:3857'));
-    map.getView().getZoom()<15 ? map.getView().setZoom(map.getView().getZoom() + 3):"";
+    map.getView().getZoom()<10 ? map.getView().setZoom(10):"";
     console.log(map.getView().getZoom())
     info.tooltip('hide');
     $("#header").html(feature.get("name"));
