@@ -16,8 +16,8 @@ jobs:
         python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
     - name: curl it
       run: curl https://overpass-api.de/api/interpreter?data=%5Bout%3Axml%5D%5Btimeout%3A1000%5D%3B%0A%28%0A%20%20node%5B%22payment%3Abitcoin%22%3D%22yes%22%5D%3B%0A%20%20way%5B%22payment%3Abitcoin%22%3D%22yes%22%5D%3B%0A%20%20relation%5B%22payment%3Abitcoin%22%3D%22yes%22%5D%3B%0A%29%3B%0Aout%20meta%3B%0A%3E%3B%0Aout%20meta%20qt%3B >> data/kml/export2.osm
-  #  - name: osm2kml
-   #   run: python osm2kml.py
+    - name: osm2kml
+      run: python osm2kml.py export2.osm "" name shop website phone email addr:housenumber addr:street
 
     - name: push changes to remote
       run: |
