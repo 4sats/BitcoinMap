@@ -36,7 +36,7 @@ const styleFunction = function (feature) {
 
 const vector = new VectorLayer({
   source: new VectorSource({
-    url: 'data/kml/export.kml',
+    url: 'data/kml/export2.kml',
     format: new KML({
       extractStyles: false,
     }),
@@ -95,12 +95,7 @@ const clickFeatureInfo = function (pixel) {
     info.tooltip('hide');
     $("#header").html(feature.get("name"));
     $("#body").html(
-      "<p>"+(feature.get("shop")? feature.get("shop")+"<br>":"")
-      +"Address: "+feature.get("addr:street")+" "+(feature.get("addr:housenumber") ? "No."+feature.get("addr:housenumber") : "")
-      +(feature.get("website") ? '<br>Website: <a href="'+feature.get("website")+'"  target="_blank">'+feature.get("website")+'</a>' : "")
-      +(feature.get("phone") ? '<br>Phone: <a href="tel:'+feature.get("phone").replace(" ","")+'">'+feature.get("phone")+'</a>' : "")
-      +(feature.get("email") ? '<br>Email: <a href="mailto:'+feature.get("email").replace(" ","")+'">'+feature.get("email")+'</a>' : "")
-      +'<br> <a href="https://www.openstreetmap.org/#map=19/'+coordinates[1]+'/'+coordinates[0]+'" target="_blank">Open in OSM</a>'
+      "<p>"+feature.get("description")+'<br> <a href="https://www.openstreetmap.org/#map=19/'+coordinates[1]+'/'+coordinates[0]+'" target="_blank">Open in OSM</a>'
       +'<br> <a href="https://maps.google.com/?q='+coordinates[1]+','+coordinates[0]+'" target="_blank">Open in Google Maps</a>'
       +"</p>"
     );
