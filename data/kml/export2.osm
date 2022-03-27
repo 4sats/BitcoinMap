@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-03-26T11:16:35Z"/>
+<meta osm_base="2022-03-27T05:24:40Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -29943,7 +29943,7 @@
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-02-11"/>
   </node>
-  <node id="2726873054" lat="51.9830948" lon="5.9011991" version="3" timestamp="2019-03-28T10:45:02Z" changeset="68620217" uid="9451067" user="b-jazz-bot">
+  <node id="2726873054" lat="51.9830948" lon="5.9011991" version="5" timestamp="2022-03-26T18:58:18Z" changeset="118959074" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Arnhem"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="6811LA"/>
@@ -29954,8 +29954,10 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-02-11"/>
+    <tag k="toilets:wheelchair" v="no"/>
     <tag k="twitter" v="meemetenendrink"/>
     <tag k="website" v="https://www.meemetenendrinken.nl/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2726873055" lat="51.9833051" lon="5.9016029" version="3" timestamp="2019-03-28T11:38:18Z" changeset="68621954" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Arnhem"/>
@@ -39638,13 +39640,13 @@
     <tag k="phone" v="(305) 826-8266"/>
     <tag k="website" v="http://www.dieppalaw.com/"/>
   </node>
-  <node id="2953973233" lat="53.2379977" lon="-0.5102142" version="4" timestamp="2019-03-06T17:41:52Z" changeset="67853031" uid="9451067" user="b-jazz-bot">
+  <node id="2953973233" lat="53.2379977" lon="-0.5102142" version="5" timestamp="2022-03-27T05:12:51Z" changeset="118968532" uid="213831" user="Josef73">
     <tag k="addr:city" v="Lincoln"/>
     <tag k="addr:housenumber" v="9 Newporte Business Park"/>
     <tag k="addr:postcode" v="LN2 4SY"/>
     <tag k="addr:street" v="Bishops Road"/>
     <tag k="name" v="Ink Factory"/>
-    <tag k="opening_hours" v="9am to 5pm, Monday to Friday"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+44 1522 888628"/>
     <tag k="shop" v="printer_cartridges"/>
@@ -51816,9 +51818,9 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="http://www.bundysbagels.com/"/>
   </node>
-  <node id="3423276693" lat="43.3181082" lon="76.9577878" version="3" timestamp="2021-05-14T11:34:51Z" changeset="104682003" uid="10122872" user="DiscountTaxi">
+  <node id="3423276693" lat="43.3181082" lon="76.9577878" version="4" timestamp="2022-03-26T15:54:52Z" changeset="118952935" uid="3318452" user="Kuritsyn Roman">
     <tag k="addr:city" v="Алматы"/>
-    <tag k="addr:housenumber" v="239a"/>
+    <tag k="addr:housenumber" v="239А"/>
     <tag k="addr:street" v="проспект Суюнбая"/>
     <tag k="contact:email" v="igorbarmotin@gmail.com"/>
     <tag k="contact:phone" v="+7(727)971-42-98"/>
