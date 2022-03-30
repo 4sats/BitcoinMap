@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-03-29T05:25:35Z"/>
+<meta osm_base="2022-03-30T05:25:26Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -7135,11 +7135,11 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://therocktrading.com/"/>
   </node>
-  <node id="2458542237" lat="39.9075842" lon="-75.2230791" version="3" timestamp="2019-10-13T15:09:32Z" changeset="75626567" uid="5369304" user="abergs95">
+  <node id="2458542237" lat="39.9075842" lon="-75.2230791" version="4" timestamp="2022-03-29T15:58:49Z" changeset="119077147" uid="14583145" user="VLD187">
     <tag k="addr:city" v="Philadelphia"/>
     <tag k="addr:housenumber" v="6796"/>
     <tag k="addr:postcode" v="19153"/>
-    <tag k="addr:street" v="Essington Ave"/>
+    <tag k="addr:street" v="Essington Avenue"/>
     <tag k="name" v="Elite Auto Parts"/>
     <tag k="opening_hours" v="Mo-Sa 08:00-17:00"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -32826,13 +32826,13 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="https://www.phofactorylincoln.com/"/>
   </node>
-  <node id="2763107007" lat="40.7545595" lon="-96.6699316" version="3" timestamp="2018-06-02T05:31:11Z" changeset="59477240" uid="4053097" user="strout">
+  <node id="2763107007" lat="40.7545595" lon="-96.6699316" version="4" timestamp="2022-03-30T04:55:58Z" changeset="119096001" uid="7546893" user="Sohlman">
     <tag k="addr:city" v="Lincoln"/>
     <tag k="addr:housenumber" v="3520"/>
     <tag k="addr:state" v="NE"/>
     <tag k="addr:street" v="Village Drive"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="402-420-0487"/>
+    <tag k="contact:phone" v="+1 402-420-0487"/>
     <tag k="cuisine" v="chinese"/>
     <tag k="description" v="BTC payment via Menufy."/>
     <tag k="name" v="Shen Cafe"/>
@@ -49593,17 +49593,6 @@
     <tag k="shop" v="hairdresser"/>
     <tag k="website" v="http://www.tziganeosborne.com"/>
   </node>
-  <node id="3313362071" lat="36.0843655" lon="-115.2584300" version="2" timestamp="2017-11-19T22:20:37Z" changeset="53934782" uid="5164" user="woodpeck">
-    <tag k="addr:housenumber" v="5722"/>
-    <tag k="addr:postcode" v="89113"/>
-    <tag k="addr:street" v="South Tioga Way"/>
-    <tag k="email" v="josh@liveinunity.net"/>
-    <tag k="name" v="Unity Travel"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="702-265-8166"/>
-    <tag k="shop" v="travel_agency"/>
-    <tag k="website" v="http://www.liveinunity.net"/>
-  </node>
   <node id="3313362946" lat="36.1467379" lon="-115.3009841" version="3" timestamp="2019-02-18T23:53:42Z" changeset="67333962" uid="9451067" user="b-jazz-bot">
     <tag k="addr:housenumber" v="9410"/>
     <tag k="addr:postcode" v="89117"/>
@@ -51632,13 +51621,20 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.ribhouse.be/"/>
   </node>
-  <node id="3415130323" lat="36.7185117" lon="-4.4134031" version="4" timestamp="2018-04-19T11:17:02Z" changeset="58229832" uid="865993" user="dcapillae_old">
-    <tag k="addr:city" v="Malaga"/>
-    <tag k="addr:street" v="Puerto de Malaga"/>
+  <node id="3415130323" lat="36.7185117" lon="-4.4134031" version="7" timestamp="2022-03-29T12:06:04Z" changeset="119066632" uid="10080656" user="dcapillae">
+    <tag k="addr:city" v="Málaga"/>
+    <tag k="addr:full" v="Puerto de Malaga"/>
+    <tag k="addr:postcode" v="29330"/>
+    <tag k="contact:email" v="amadeu@segwaymalagaexperience.com"/>
+    <tag k="contact:phone" v="+34 649890224"/>
+    <tag k="contact:website" v="http://segwaymalagaexperience.com/"/>
     <tag k="email" v="amadeu@segwaymalagaexperience.com"/>
     <tag k="name" v="Segway Málaga Experience"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+34 649890224"/>
+    <tag k="rental" v="segway"/>
+    <tag k="shop" v="rental"/>
     <tag k="tourism" v="yes"/>
     <tag k="website" v="segwaymalagaexperience.com"/>
   </node>
@@ -51890,18 +51886,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="(516) 557-2606"/>
     <tag k="website" v="http://www.eastmeadowcarwash.com"/>
-  </node>
-  <node id="3428943394" lat="36.7184006" lon="-4.4130284" version="5" timestamp="2019-07-19T08:31:13Z" changeset="72419512" uid="10080656" user="dcapillae">
-    <tag k="addr:city" v="Málaga"/>
-    <tag k="addr:full" v="Muelle 1"/>
-    <tag k="addr:postcode" v="29330"/>
-    <tag k="contact:email" v="amadeu@segwaymalagaexperience.com"/>
-    <tag k="contact:phone" v="+34 649890224"/>
-    <tag k="contact:website" v="http://segwaymalagaexperience.com/"/>
-    <tag k="name" v="Segway Málaga Experience"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="segway"/>
   </node>
   <node id="3429298910" lat="12.5766936" lon="-81.7027260" version="4" timestamp="2019-01-13T15:57:46Z" changeset="66277584" uid="2152306" user="islatur">
     <tag k="addr:city" v="San Andres Isla"/>
@@ -70638,12 +70622,12 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="pawnbroker"/>
   </node>
-  <node id="6789642485" lat="33.4076319" lon="-112.0009827" version="4" timestamp="2019-11-08T20:03:09Z" changeset="76828760" uid="5359" user="user_5359">
+  <node id="6789642485" lat="33.4076319" lon="-112.0009827" version="5" timestamp="2022-03-29T17:56:01Z" changeset="119082276" uid="14583145" user="VLD187">
     <tag k="addr:city" v="Phoenix"/>
     <tag k="addr:housenumber" v="4350"/>
     <tag k="addr:postcode" v="85040"/>
     <tag k="addr:state" v="AZ"/>
-    <tag k="addr:street" v="S. 38th St"/>
+    <tag k="addr:street" v="S. 38th Street"/>
     <tag k="addr:unit" v="170"/>
     <tag k="email" v="sales@8AMotors.com"/>
     <tag k="internet_access" v="yes"/>
@@ -75019,7 +75003,7 @@
     <tag k="phone" v="+51936330609"/>
     <tag k="website" v="https://www.dnela.pe"/>
   </node>
-  <node id="8566386690" lat="35.7680815" lon="51.4319346" version="2" timestamp="2022-01-21T07:36:11Z" changeset="116415985" uid="3817321" user="Hadi Omid">
+  <node id="8566386690" lat="35.7712763" lon="51.3559305" version="3" timestamp="2022-03-29T09:41:12Z" changeset="119060076" uid="12934329" user="ahmaditt">
     <tag k="addr:city" v="تهران"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="1916663114"/>
@@ -79101,6 +79085,29 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="payment:visa_debit" v="yes"/>
     <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="9620350185" lat="62.3001023" lon="25.7094401" version="2" timestamp="2022-03-29T08:41:23Z" changeset="119057475" uid="36166" user="umlaitinen">
+    <tag k="addr:city" v="Jyväskylä"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="40270"/>
+    <tag k="addr:street" v="Kirrinpolku"/>
+    <tag k="description" v="Store selling packaging materials like cardboard boxes, envelopes, empty bottles and jars."/>
+    <tag k="name" v="Pakkaustukku.fi"/>
+    <tag k="opening_hours" v="Mo-Fr 9:00-17:00"/>
+    <tag k="operator" v="Digisuomi"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="shop" v="yes"/>
+    <tag k="website" v="https://www.pakkaustukku.fi"/>
+  </node>
+  <node id="9620702550" lat="13.4940662" lon="-89.3836286" version="1" timestamp="2022-03-29T11:28:24Z" changeset="119064783" uid="4512222" user="Ravrol">
+    <tag k="description" v="Lightning supported."/>
+    <tag k="name" v="Tattoo"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="shop" v="tattoo"/>
   </node>
 
 </osm>
