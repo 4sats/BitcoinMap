@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-01T05:25:07Z"/>
+<meta osm_base="2022-04-02T05:25:00Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -13681,13 +13681,6 @@
     <tag k="studio" v="photography"/>
     <tag k="website" v="http://patrickkirkby.com/"/>
   </node>
-  <node id="2563653916" lat="40.7275685" lon="-73.9886638" version="2" timestamp="2015-03-13T22:08:47Z" changeset="29460234" uid="1679" user="andrewpmk">
-    <tag k="comment" v="selling precious metals for bitcoins"/>
-    <tag k="email" v="acarangigng@gmail.com"/>
-    <tag k="name" v="Glasnost Precious Metals"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="2563663519" lat="34.0857925" lon="-118.3544887" version="2" timestamp="2015-05-16T08:10:58Z" changeset="31195259" uid="1239795" user="release_candidate">
     <tag k="craft" v="photographer"/>
     <tag k="name" v="nybemotion photography"/>
@@ -17302,13 +17295,11 @@
     <tag k="payment:namecoin" v="yes"/>
     <tag k="website" v="http://lecivydotek.wz.cz/"/>
   </node>
-  <node id="2592045140" lat="40.0726875" lon="-76.3183977" version="5" timestamp="2016-01-16T00:06:39Z" changeset="36606603" uid="145231" user="woodpeck_repair">
+  <node id="2592045140" lat="40.0726875" lon="-76.3183977" version="6" timestamp="2022-04-01T09:30:57Z" changeset="119193611" uid="9097970" user="Allison P">
     <tag k="addr:city" v="Lancaster"/>
-    <tag k="addr:housename" v="Seisan Consulting"/>
     <tag k="addr:housenumber" v="150"/>
     <tag k="addr:postcode" v="17601"/>
     <tag k="addr:street" v="Farmington Lane"/>
-    <tag k="denomination" v="mormon"/>
     <tag k="name" v="Seisan Consulting"/>
     <tag k="office" v="it"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-17:00"/>
@@ -40977,7 +40968,7 @@
     <tag k="phone" v="+61 3 9020 2300"/>
     <tag k="website" v="https://www.millergoldtech.com/"/>
   </node>
-  <node id="2989541238" lat="35.9428279" lon="-86.8112511" version="2" timestamp="2019-02-18T03:37:31Z" changeset="67299603" uid="9451067" user="b-jazz-bot">
+  <node id="2989541238" lat="35.9483521" lon="-86.8121996" version="3" timestamp="2022-04-01T14:32:12Z" changeset="119205032" uid="15399668" user="Southern Shine">
     <tag k="addr:city" v="Franklin"/>
     <tag k="addr:housenumber" v="840"/>
     <tag k="addr:postcode" v="37067"/>
@@ -47020,13 +47011,14 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="clothes"/>
   </node>
-  <node id="3221766067" lat="-25.7777715" lon="28.3376259" version="7" timestamp="2019-03-06T17:55:31Z" changeset="67853466" uid="9451067" user="b-jazz-bot">
+  <node id="3221766067" lat="-25.7777715" lon="28.3376259" version="8" timestamp="2022-04-01T14:46:25Z" changeset="119205501" uid="8555719" user="Khathucry">
     <tag k="addr:housenumber" v="869"/>
     <tag k="addr:postcode" v="0050"/>
     <tag k="addr:street" v="Disselboom Avenue East"/>
     <tag k="amenity" v="clinic"/>
     <tag k="description" v="Gustaf Pretorius is a registered clinical psychologist (HPCSA) since 2000. He focuses mainly on Individual Psychotherapy and Couples Therapy."/>
     <tag k="email" v="navraag@psydev.co.za"/>
+    <tag k="healthcare" v="clinic"/>
     <tag k="name" v="Gustaf Pretorius Clinical Psychologist / Kliniese Sielkundige"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+27 82 320 2726"/>
