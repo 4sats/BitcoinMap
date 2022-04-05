@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
+<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-04T05:25:14Z"/>
+<meta osm_base="2022-04-05T05:25:23Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -23274,13 +23274,10 @@
     <tag k="phone" v="+1 702 388 2120"/>
     <tag k="website" v="https://www.thed.com/dining/american-coney-island-2/"/>
   </node>
-  <node id="2645270218" lat="34.1211689" lon="-117.2932125" version="5" timestamp="2015-04-23T06:37:32Z" changeset="30421516" uid="1239795" user="release_candidate">
-    <tag k="addr:city" v="San Bernardino"/>
-    <tag k="addr:housenumber" v="459"/>
-    <tag k="addr:postcode" v="92404"/>
-    <tag k="addr:street" v="West Baseline Street"/>
+  <node id="2645270218" lat="34.1211689" lon="-117.2932125" version="6" timestamp="2022-04-05T04:00:41Z" changeset="119324454" uid="1239795" user="release_candidate">
     <tag k="email" v="ThuFriendlyTax@gmail.com"/>
-    <tag k="name" v="Friendly Tax Service - Ask for Thu"/>
+    <tag k="name" v="Friendly Tax Service"/>
+    <tag k="office" v="tax_advisor"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="909-889-5333"/>
@@ -44306,19 +44303,6 @@
     <tag k="website" v="http://www.ningen.es"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3110904937" lat="-32.0116363" lon="115.9270625" version="5" timestamp="2021-02-06T21:19:36Z" changeset="98829568" uid="12617722" user="bchaller">
-    <tag k="addr:city" v="Cannington"/>
-    <tag k="addr:housenumber" v="1252"/>
-    <tag k="addr:postcode" v="6107"/>
-    <tag k="addr:street" v="Albany Highway"/>
-    <tag k="name" v="Storm Computers Pty Ltd"/>
-    <tag k="opening_hours" v="Mo-Fr 09:30-17:30; Sa-Su 09:00-17:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoincash" v="yes"/>
-    <tag k="phone" v="+61 8 9258 8422"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="https://www.stormcomputers.com.au/"/>
-  </node>
   <node id="3110921192" lat="40.6422705" lon="-3.1621071" version="3" timestamp="2014-10-04T13:11:04Z" changeset="25851102" uid="395033" user="Luis Antonio Carrasco">
     <tag k="addr:city" v="Guadalajara"/>
     <tag k="addr:housenumber" v="11"/>
@@ -47817,18 +47801,6 @@
     <tag k="opening_hours" v="Mo-Su 09:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.abirkgroup.com"/>
-  </node>
-  <node id="3245691859" lat="-37.7433938" lon="144.9660755" version="3" timestamp="2021-09-13T19:10:32Z" changeset="111161502" uid="12669335" user="bevalim">
-    <tag k="addr:city" v="Coburg"/>
-    <tag k="addr:housenumber" v="429"/>
-    <tag k="addr:postcode" v="3058"/>
-    <tag k="addr:street" v="Sydney Road"/>
-    <tag k="name" v="Another World Computer Centre"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoincash" v="yes"/>
-    <tag k="phone" v="+61 3 9354 9871"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="http://www.anotherworld.com.au"/>
   </node>
   <node id="3247228133" lat="-8.7006529" lon="115.1697448" version="2" timestamp="2015-02-07T11:43:30Z" changeset="28670729" uid="181135" user="Manu1400">
     <tag k="addr:city" v="Kuta"/>
@@ -79093,6 +79065,33 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="sport" v="yoga"/>
     <tag k="website" v="https://www.instagram.com/tanaz.yoga/"/>
+  </node>
+  <node id="9639436359" lat="43.5752916" lon="-79.6555924" version="2" timestamp="2022-04-04T15:13:40Z" changeset="119306751" uid="15470603" user="croontoon">
+    <tag k="addr:city" v="Mississauga"/>
+    <tag k="addr:housenumber" v="848"/>
+    <tag k="addr:postcode" v="L5C 2S3"/>
+    <tag k="addr:province" v="Ontario"/>
+    <tag k="addr:street" v="Burnhamthorpe Road West"/>
+    <tag k="addr:unit" v="Suite 3A"/>
+    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="currency:CAD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:INR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:aed" v="yes"/>
+    <tag k="currency:gbp" v="yes"/>
+    <tag k="currency:pkr" v="yes"/>
+    <tag k="description" v="Buy, Sell &amp; Trade Bitcoin and other Cryptocurrencies instantly in person using multiple payment methods such as Cash, Wire, E-Transfer, Debit Card, Credit Card"/>
+    <tag k="email" v="hello@coinnerds.ca"/>
+    <tag k="name" v="Coin Nerds | Buy &amp; Sell Bitcoin"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-18:00; Sa 10:00-16:00"/>
+    <tag k="operator" v="Coin Nerds"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="phone" v="+1-416-507-6447"/>
+    <tag k="website" v="https://www.coinnerds.ca"/>
   </node>
 
 </osm>
