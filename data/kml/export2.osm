@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-07T05:25:35Z"/>
+<meta osm_base="2022-04-08T05:25:38Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -14459,12 +14459,12 @@
     <tag k="website" v="http://tokyonama.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2567863801" lat="43.2023470" lon="27.9083154" version="3" timestamp="2018-10-30T16:10:39Z" changeset="64016829" uid="150201" user="plamen">
+  <node id="2567863801" lat="43.2023470" lon="27.9083154" version="4" timestamp="2022-04-07T12:53:48Z" changeset="119429232" uid="10893436" user="Dimitar155">
     <tag k="addr:city" v="Варна"/>
     <tag k="addr:country" v="BG"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="9010"/>
-    <tag k="addr:street" v="Okolchica Str"/>
+    <tag k="addr:street" v="Околчица"/>
     <tag k="name" v="Careltranslations"/>
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -29921,18 +29921,6 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://hibachijapaneseexpress.com/"/>
   </node>
-  <node id="2727039647" lat="33.9577417" lon="-83.3764666" version="1" timestamp="2014-03-19T14:44:20Z" changeset="21193585" uid="1836471" user="Blobo123">
-    <tag k="addr:housenumber" v="131"/>
-    <tag k="addr:street" v="East Broad Street"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="706-548-7441"/>
-    <tag k="cuisine" v="japanese"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Eat Hibachi"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="http://eathibachi.com/"/>
-  </node>
   <node id="2727059285" lat="34.1511309" lon="-83.9829307" version="1" timestamp="2014-03-19T15:02:20Z" changeset="21193909" uid="1836471" user="Blobo123">
     <tag k="addr:housenumber" v="5774"/>
     <tag k="addr:street" v="Holiday Road"/>
@@ -30191,7 +30179,7 @@
     <tag k="payment:source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://mokenarosatis.com/"/>
   </node>
-  <node id="2728220209" lat="41.5060416" lon="-90.5171879" version="2" timestamp="2022-01-19T20:49:55Z" changeset="116358345" uid="12270940" user="Ltg_Inrage">
+  <node id="2728220209" lat="41.5060416" lon="-90.5171879" version="2" timestamp="2022-01-19T20:49:55Z" changeset="116358345" uid="12270940" user="xem0861">
     <tag k="addr:housenumber" v="1409"/>
     <tag k="addr:street" v="5th Avenue"/>
     <tag k="amenity" v="restaurant"/>
@@ -33280,10 +33268,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="http://mercadobitcoin.com/market/rearquitectura/"/>
     <tag k="website" v="http://rearquitectura.com.mx/"/>
-  </node>
-  <node id="2779133906" lat="46.3137870" lon="16.3325319" version="2" timestamp="2014-05-15T12:38:46Z" changeset="22351656" uid="28559" user="Stemby">
-    <tag k="name" v="Croatian Bitcoin Portal ( HBP )"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="2779334339" lat="41.1218591" lon="-73.7812911" version="1" timestamp="2014-04-09T12:41:50Z" changeset="21588450" uid="1836471" user="Blobo123">
     <tag k="addr:housenumber" v="802"/>
@@ -47088,16 +47072,6 @@
     <tag k="tourism" v="gallery"/>
     <tag k="website" v="https://www.galeriadelasombro.com/"/>
   </node>
-  <node id="3227216786" lat="62.9785381" lon="23.0300310" version="1" timestamp="2014-12-09T21:18:41Z" changeset="27365825" uid="2293612" user="vraisa">
-    <tag k="addr:city" v="lapua"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="62100"/>
-    <tag k="addr:street" v="Jaakonkatu"/>
-    <tag k="name" v="Teenus"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="http://teenus.fi"/>
-  </node>
   <node id="3227579803" lat="54.1799099" lon="15.5716223" version="10" timestamp="2015-11-15T18:12:42Z" changeset="35333389" uid="1783785" user="R0bst3r">
     <tag k="addr:city" v="Kołobrzeg"/>
     <tag k="addr:housenumber" v="4"/>
@@ -52907,16 +52881,6 @@
     <tag k="name" v="Bitshop"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.bitshop.lv/"/>
-  </node>
-  <node id="3518714629" lat="36.6242405" lon="29.1125236" version="1" timestamp="2015-05-15T06:43:27Z" changeset="31162123" uid="2890559" user="felixweis">
-    <tag k="addr:city" v="Fethiye"/>
-    <tag k="addr:postcode" v="48300"/>
-    <tag k="addr:street" v="Dispanser Caddesi"/>
-    <tag k="contact:phone" v="+90 536 261 5129"/>
-    <tag k="contact:website" v="http://www.elitedivingcentre.com/"/>
-    <tag k="name" v="Elite Diving Centre"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="sport" v="scuba_diving"/>
   </node>
   <node id="3518771602" lat="39.9304596" lon="-0.1138123" version="3" timestamp="2015-05-17T10:39:28Z" changeset="31222921" uid="2915353" user="Jose Felip">
     <tag k="addr:city" v="Vila-Real"/>
@@ -79114,6 +79078,20 @@
     <tag k="phone" v="+996558136098"/>
     <tag k="shop" v="optician"/>
     <tag k="website" v="https://www.facebook.com/darkseyed"/>
+  </node>
+  <node id="9647794806" lat="-2.1790859" lon="-56.6094064" version="1" timestamp="2022-04-07T06:51:50Z" changeset="119414863" uid="3733993" user="Aleksandar1994">
+    <tag k="addr:city" v="Faro/PA"/>
+    <tag k="addr:housenumber" v="174"/>
+    <tag k="addr:postcode" v="68280000"/>
+    <tag k="addr:street" v="Rua Nossa Senhora de Fátima,"/>
+    <tag k="name" v="Comercial Nossa Sra. de Fátima"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="shop" v="supermarket"/>
   </node>
 
 </osm>
