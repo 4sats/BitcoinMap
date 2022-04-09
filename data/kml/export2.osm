@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-08T05:25:38Z"/>
+<meta osm_base="2022-04-09T05:25:09Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -2405,7 +2405,7 @@
     <tag k="phone" v="+1 303 4404227"/>
     <tag k="website" v="https://www.moesoriginalbbq.com/"/>
   </node>
-  <node id="1205027816" lat="37.7937537" lon="-122.4041745" version="4" timestamp="2019-02-19T19:30:35Z" changeset="67364763" uid="9451067" user="b-jazz-bot">
+  <node id="1205027816" lat="37.7937537" lon="-122.4041745" version="5" timestamp="2022-04-08T19:35:04Z" changeset="119482970" uid="364" user="Edward">
     <tag k="addr:city" v="San Francisco"/>
     <tag k="addr:housenumber" v="680"/>
     <tag k="addr:postcode" v="94111"/>
@@ -2424,6 +2424,7 @@
     <tag k="smoking" v="no"/>
     <tag k="tourism" v="hostel"/>
     <tag k="website" v="https://www.san-francisco-hostel.com/"/>
+    <tag k="wikidata" v="Q111121528"/>
   </node>
   <node id="1214938403" lat="-34.8661293" lon="-58.0427295" version="11" timestamp="2016-04-16T01:23:46Z" changeset="38609907" uid="1810448" user="serock">
     <tag k="addr:housename" v="Optica Agostini"/>
@@ -9060,15 +9061,6 @@
     <tag k="shop" v="bakery"/>
     <tag k="website" v="http://www.coastalcakecompany.com/"/>
   </node>
-  <node id="2528555375" lat="48.5351508" lon="-123.0158321" version="4" timestamp="2020-09-30T20:17:42Z" changeset="91787338" uid="692614" user="seattlefyi">
-    <tag k="addr:city" v="Friday Harbor"/>
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="Spring Street"/>
-    <tag k="name" v="Crystal Seas Kayaking"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="tourism" v="attraction"/>
-    <tag k="website" v="https://www.crystalseas.com/"/>
-  </node>
   <node id="2528564379" lat="49.3223381" lon="-123.0950172" version="2" timestamp="2014-11-07T06:05:32Z" changeset="26608146" uid="307202" user="alester">
     <tag k="addr:housenumber" v="814"/>
     <tag k="addr:street" v="W15th st"/>
@@ -11648,11 +11640,12 @@
     <tag k="name" v="Manaus Booking Travel Agency, Jungle Tours, River Cruises"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2554314128" lat="45.7728510" lon="15.9767375" version="3" timestamp="2020-09-15T08:59:19Z" changeset="90912202" uid="3636444" user="Muki Mačković">
+  <node id="2554314128" lat="45.7728547" lon="15.9766356" version="4" timestamp="2022-04-08T20:02:55Z" changeset="119483822" uid="3636444" user="Muki Mačković">
     <tag k="addr:city" v="Zagreb"/>
     <tag k="addr:country" v="HR"/>
     <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Aleja Pomoraca"/>
+    <tag k="addr:postcode" v="10020"/>
+    <tag k="addr:street" v="Aleja pomoraca"/>
     <tag k="name" v="Pametna Poslovna Rješenja"/>
     <tag k="note" v="Omogućujemo profitabilnije poslovanje za poduzetnike, niži porez na dobit, nastavak normalnog poslovanja preko računa za blokirane obrtnike i još mnogo toga"/>
     <tag k="office" v="yes"/>
@@ -47977,7 +47970,7 @@
     <tag k="phone" v="+393381970269"/>
     <tag k="shop" v="shoes"/>
   </node>
-  <node id="3254110482" lat="39.4957614" lon="-74.4605269" version="2" timestamp="2014-12-26T18:56:51Z" changeset="27715572" uid="2539366" user="lindasgiftsinc">
+  <node id="3254110482" lat="39.4957614" lon="-74.4605269" version="3" timestamp="2022-04-09T01:25:51Z" changeset="119489332" uid="12290" user="crystalwalrein">
     <tag k="addr:city" v="Smithville"/>
     <tag k="addr:housenumber" v="615"/>
     <tag k="addr:postcode" v="08205"/>
@@ -47987,9 +47980,10 @@
     <tag k="note" v="Nautical Gifts and Souvenirs"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="609-652-6200"/>
+    <tag k="shop" v="gift"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3254126579" lat="39.4959595" lon="-74.4608158" version="2" timestamp="2018-04-07T19:00:07Z" changeset="57898280" uid="1751737" user="Skybunny">
+  <node id="3254126579" lat="39.4959595" lon="-74.4608158" version="3" timestamp="2022-04-09T01:25:51Z" changeset="119489332" uid="12290" user="crystalwalrein">
     <tag k="addr:city" v="Smithville"/>
     <tag k="addr:housenumber" v="615"/>
     <tag k="addr:postcode" v="08205"/>
@@ -47999,6 +47993,7 @@
     <tag k="note" v="Gold, Silver, Costume Jewelry, Engraving, Trollbeads, Gifts"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="609-748-4388"/>
+    <tag k="shop" v="jewelry"/>
   </node>
   <node id="3254711920" lat="35.6883223" lon="139.7034814" version="4" timestamp="2020-05-15T16:25:24Z" changeset="85272292" uid="309382" user="Diego Sanguinetti">
     <tag k="addr:city" v="新宿区"/>
