@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-09T05:25:09Z"/>
+<meta osm_base="2022-04-10T05:24:41Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -6890,13 +6890,14 @@
     <tag k="tourism" v="apartment"/>
     <tag k="website" v="https://www.airbnb.hu/rooms/1434792"/>
   </node>
-  <node id="2443312055" lat="47.5493066" lon="19.0272363" version="5" timestamp="2015-09-09T11:27:07Z" changeset="33906234" uid="2982309" user="vasony">
+  <node id="2443312055" lat="47.5493066" lon="19.0272363" version="6" timestamp="2022-04-09T18:41:01Z" changeset="119514450" uid="9577574" user="Hungarian_user">
     <tag k="addr:city" v="Budapest"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:postcode" v="1037"/>
     <tag k="addr:street" v="Farkastorki út"/>
     <tag k="amenity" v="dentist"/>
     <tag k="description" v="Biocompatible dental solutions"/>
+    <tag k="healthcare" v="dentist"/>
     <tag k="name" v="Emident"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
