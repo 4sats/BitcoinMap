@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-10T05:24:41Z"/>
+<meta osm_base="2022-04-11T05:25:54Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -36457,11 +36457,6 @@
     <tag k="source" v="http://www.coindesk.com/chicago-sun-times-becomes-first-major-us-newspaper-accept-bitcoin/"/>
     <tag k="website" v="https://btc.suntimes.com/"/>
   </node>
-  <node id="2871493345" lat="45.4767873" lon="-122.8492408" version="5" timestamp="2015-11-07T21:19:48Z" changeset="35158388" uid="331031" user="baradam">
-    <tag k="name" v="Seven Pillars Construction, LLC"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.sevenpillarsinc.com/contact.html"/>
-  </node>
   <node id="2871576221" lat="42.3209500" lon="-83.0194596" version="5" timestamp="2014-07-13T12:21:29Z" changeset="24118799" uid="28559" user="Stemby">
     <tag k="addr:city" v="Windsor"/>
     <tag k="addr:housenumber" v="551"/>
@@ -57773,30 +57768,25 @@
     <tag k="smoking" v="yes"/>
     <tag k="takeaway" v="no"/>
   </node>
-  <node id="4598892197" lat="42.8570980" lon="25.0491671" version="6" timestamp="2021-12-19T21:09:13Z" changeset="115139564" uid="10893436" user="Dimitar155">
+  <node id="4598892197" lat="42.8570980" lon="25.0491671" version="7" timestamp="2022-04-10T19:52:39Z" changeset="119549241" uid="10893436" user="Dimitar155">
     <tag k="addr:city" v="Селище"/>
     <tag k="addr:postcode" v="5462"/>
     <tag k="addr:street" v="Караците"/>
     <tag k="beds" v="4"/>
     <tag k="description" v="The house is suitable for tourists who are going to visit Central Balkan National Park or exploring local attractions. The house is ideal for holidaymakers and perfect for people seeking privacy."/>
-    <tag k="ele" v="2"/>
     <tag k="internet_access" v="yes"/>
     <tag k="internet_access:fee" v="no"/>
     <tag k="internet_access:ssid" v="KARASHKA"/>
-    <tag k="level" v="1"/>
     <tag k="name" v="Karashka"/>
     <tag k="operator" v="Karashka.com"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:coins" v="yes"/>
-    <tag k="power" v="tower"/>
     <tag k="public_transport" v="stop"/>
     <tag k="rooms" v="3"/>
     <tag k="smoking" v="outside"/>
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="https://www.karashka.com/"/>
     <tag k="wheelchair" v="no"/>
-    <tag k="wikidata" v="Q4413837"/>
-    <tag k="wikipedia" v="bg:Селище (област Габрово)"/>
   </node>
   <node id="4610125386" lat="47.1390768" lon="7.2453205" version="9" timestamp="2020-04-18T11:44:32Z" changeset="83740206" uid="616774" user="mueschel">
     <tag k="addr:city" v="Biel/Bienne"/>
