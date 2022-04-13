@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-12T05:25:47Z"/>
+<meta osm_base="2022-04-13T05:25:39Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -9158,12 +9158,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="347-746-9796"/>
     <tag k="website" v="https://moduspos.com/"/>
-  </node>
-  <node id="2529989761" lat="40.6803123" lon="-73.9481101" version="1" timestamp="2013-11-12T23:31:38Z" changeset="18865631" uid="1804091" user="kofio">
-    <tag k="name" v="Afikyiri Edjua: Backyard Marketplace"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="website" v="http://www.edjua.com"/>
   </node>
   <node id="2530030109" lat="44.3660621" lon="-73.2326193" version="11" timestamp="2022-02-10T21:19:08Z" changeset="117263041" uid="15051551" user="KarenGis">
     <tag k="addr:city" v="Shelburne"/>
@@ -18919,10 +18913,12 @@
     <tag k="phone" v="+82 032-439-0455"/>
     <tag k="shop" v="bakery"/>
   </node>
-  <node id="2609096045" lat="53.1928171" lon="-6.1699610" version="2" timestamp="2015-06-07T17:03:47Z" changeset="31794768" uid="2008037" user="VictorIE">
+  <node id="2609096045" lat="53.1928171" lon="-6.1699610" version="3" timestamp="2022-04-13T04:26:20Z" changeset="119646910" uid="2008037" user="VictorIE">
     <tag k="addr:city" v="Enniskerry"/>
     <tag k="addr:county" v="Wicklow"/>
+    <tag k="addr:street" v="The Square"/>
     <tag k="name" v="SCO Electrical Services Ltd"/>
+    <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+353 1 4433726"/>
     <tag k="website" v="http://www.sco.ie/"/>
@@ -22493,10 +22489,11 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="citizenwebstore.com"/>
   </node>
-  <node id="2637617065" lat="40.0975418" lon="-88.2746621" version="5" timestamp="2016-10-29T19:45:23Z" changeset="43272001" uid="522859" user="yotann">
+  <node id="2637617065" lat="40.0975418" lon="-88.2746621" version="6" timestamp="2022-04-12T23:29:04Z" changeset="119642284" uid="1237170" user="Zol87">
     <tag k="addr:city" v="Champaign"/>
     <tag k="addr:housenumber" v="1715"/>
     <tag k="addr:postcode" v="61821"/>
+    <tag k="addr:state" v="IL"/>
     <tag k="addr:street" v="West Kirby Avenue"/>
     <tag k="name" v="Cheese &amp; Crackers"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -22840,18 +22837,6 @@
     <tag k="name" v="Everdreamsoft SA"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.everdreamsoft.com"/>
-  </node>
-  <node id="2641459076" lat="40.4379225" lon="-79.9215990" version="10" timestamp="2022-04-11T19:52:30Z" changeset="119593682" uid="74271" user="andrewrpucci">
-    <tag k="addr:city" v="Pittsburgh"/>
-    <tag k="addr:housenumber" v="5825"/>
-    <tag k="addr:postcode" v="15217"/>
-    <tag k="addr:street" v="Forbes Ave"/>
-    <tag k="name" v="Brands Capital Corp"/>
-    <tag k="office" v="estate_agent"/>
-    <tag k="opening_hours" v="closed || &quot;by appointment&quot;"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="(412) 226-8989"/>
-    <tag k="website" v="https://brandscapital.com/"/>
   </node>
   <node id="2641579280" lat="40.4200737" lon="-3.7004085" version="11" timestamp="2019-09-10T11:09:40Z" changeset="74303792" uid="170106" user="sanchi">
     <tag k="addr:city" v="Madrid"/>
