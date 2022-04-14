@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-13T05:25:39Z"/>
+<meta osm_base="2022-04-14T05:26:23Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -12463,15 +12463,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="tourism" v="chalet"/>
     <tag k="website" v="http://www.alojamientoruralconencanto.com/"/>
-  </node>
-  <node id="2557220402" lat="38.9742831" lon="-0.1758231" version="2" timestamp="2019-03-22T06:18:54Z" changeset="68398363" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Gandía"/>
-    <tag k="addr:housenumber" v="5a"/>
-    <tag k="addr:street" v="Jaime II"/>
-    <tag k="name" v="Acquamatter"/>
-    <tag k="note" v="Acquamatter: agua de calidad. Destilador de agua y ozonizador."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.acquamatter.com/"/>
   </node>
   <node id="2557240845" lat="41.1512234" lon="1.1070235" version="2" timestamp="2019-01-26T21:19:31Z" changeset="66664573" uid="3735848" user="lanxana">
     <tag k="addr:city" v="Tarragona"/>
@@ -75658,7 +75649,7 @@
     <tag k="payment:visa_electron" v="yes"/>
     <tag k="website" v="https://www.instagram.com/over_grill/"/>
   </node>
-  <node id="8761588374" lat="50.4428567" lon="30.4954337" version="7" timestamp="2021-11-17T11:28:27Z" changeset="113893509" uid="3281808" user="Rico557">
+  <node id="8761588374" lat="50.4428567" lon="30.4954337" version="9" timestamp="2022-04-13T13:04:30Z" changeset="119667869" uid="3281808" user="Rico557">
     <tag k="addr:housenumber" v="23/126"/>
     <tag k="addr:postcode" v="01032"/>
     <tag k="addr:street" v="Симона Петлюри вулиця"/>
@@ -75681,17 +75672,17 @@
     <tag k="currency:XRP" v="yes"/>
     <tag k="currency:fiat" v="yes"/>
     <tag k="currency:others" v="yes"/>
+    <tag k="description" v="обмін криптовалюти"/>
+    <tag k="description:en" v="cryptocurrency exchange"/>
+    <tag k="description:ru" v="обмен криптовалюты"/>
+    <tag k="description:uk" v="обмін криптовалюти"/>
     <tag k="level" v="1"/>
     <tag k="mapillary" v="7n5jx0jDBamd6WpHQzqwEE"/>
-    <tag k="name" v="4Kgroup - обмін криптовалюти"/>
-    <tag k="name:en" v="4kgroup.org - cryptocurrency exchange"/>
-    <tag k="name:ru" v="4kgroup - обмен криптовалюты"/>
-    <tag k="name:uk" v="4Kgroup - обмін криптовалюти"/>
-    <tag k="opening_hours" v="mo-fr 09:00-21:00, sa-su 10:00-20:00"/>
+    <tag k="name" v="4Kgroup"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-21:00, Sa-Su 10:00-20:00"/>
     <tag k="operator" v="4Kgroup"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="payment:dash" v="yes"/>
     <tag k="payment:ethereum" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
