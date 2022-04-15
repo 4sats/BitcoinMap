@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-14T05:26:23Z"/>
+<meta osm_base="2022-04-15T05:31:08Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -1698,7 +1698,7 @@
     <tag k="shop" v="seafood"/>
     <tag k="website" v="https://www.wedeliverlocal.co.uk/jhman-sheffield"/>
   </node>
-  <node id="768593714" lat="46.3859813" lon="11.2589603" version="6" timestamp="2020-08-07T18:53:36Z" changeset="89105913" uid="7407533" user="KonradRundfunk">
+  <node id="768593714" lat="46.3859813" lon="11.2589603" version="6" timestamp="2020-08-07T18:53:36Z" changeset="89105913" uid="7407533" user="ieiunium">
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Località San Giuseppe al Lago - St. Josef am See"/>
     <tag k="amenity" v="restaurant"/>
@@ -1730,9 +1730,10 @@
     <tag k="phone" v="+44 141 632 3427"/>
     <tag k="website" v="https://www.facebook.com/Brooklyn1931"/>
   </node>
-  <node id="796750192" lat="41.9760828" lon="2.8199838" version="4" timestamp="2016-10-01T07:11:50Z" changeset="42557687" uid="100124" user="Xevi">
+  <node id="796750192" lat="41.9760828" lon="2.8199838" version="5" timestamp="2022-04-14T19:49:44Z" changeset="119727319" uid="3417876" user="5R-MFT">
     <tag k="amenity" v="pharmacy"/>
     <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Farmàcia Simon Bombi"/>
     <tag k="name:ca" v="Farmàcia Simon Bombi"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -5658,23 +5659,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="clothes"/>
     <tag k="source" v="survey"/>
-  </node>
-  <node id="2356274533" lat="27.7713569" lon="-82.6478135" version="5" timestamp="2019-10-12T06:26:46Z" changeset="75592796" uid="8610118" user="OSMWeekly">
-    <tag k="addr:city" v="Saint Petersburg"/>
-    <tag k="addr:housenumber" v="937"/>
-    <tag k="addr:postcode" v="33705"/>
-    <tag k="addr:state" v="FL"/>
-    <tag k="addr:street" v="Central Ave"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="american"/>
-    <tag k="delivery" v="no"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="KINGS Street Food"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="1-727-914-2111"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="http://kingsdtsp.com/"/>
   </node>
   <node id="2358832731" lat="39.9330018" lon="116.4456793" version="7" timestamp="2019-03-06T01:34:20Z" changeset="67827067" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Chaoyang District, Beijing"/>
@@ -18539,7 +18523,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="computer"/>
   </node>
-  <node id="2604623154" lat="32.1200121" lon="34.7995287" version="3" timestamp="2018-12-23T12:15:36Z" changeset="65713662" uid="20518" user="Ynhockey">
+  <node id="2604623154" lat="32.1200121" lon="34.7995287" version="4" timestamp="2022-04-14T09:36:08Z" changeset="119703905" uid="10853339" user="Street_stalker_03">
     <tag k="addr:city" v="תל אביב"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:postcode" v="69395"/>
@@ -18548,7 +18532,7 @@
     <tag k="name" v="רפי קישון"/>
     <tag k="name:he" v="רפי קישון"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="03-6424191"/>
+    <tag k="phone" v="+972-3-6424191"/>
     <tag k="website" v="http://www.rafi-kishon.co.il/"/>
   </node>
   <node id="2604660163" lat="32.0929126" lon="34.8180208" version="2" timestamp="2017-06-06T09:15:48Z" changeset="49299149" uid="5816834" user="SafwatHalaby_bot">
@@ -18563,14 +18547,14 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.thewritingcompany.co.il/"/>
   </node>
-  <node id="2604706885" lat="32.0413982" lon="34.7479984" version="3" timestamp="2019-03-16T00:27:08Z" changeset="68193174" uid="9451067" user="b-jazz-bot">
+  <node id="2604706885" lat="32.0413982" lon="34.7479984" version="4" timestamp="2022-04-14T09:34:35Z" changeset="119703849" uid="10853339" user="Street_stalker_03">
     <tag k="addr:city" v="יפו"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="שתי האחיות"/>
     <tag k="name" v="DJ Yaniv Ohana"/>
     <tag k="name:en" v="DJ Yaniv Ohana"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0522510893"/>
+    <tag k="phone" v="+927-52-2510893"/>
     <tag k="shop" v="music"/>
     <tag k="website" v="https://www.djyanivohana.co.il/"/>
   </node>
@@ -47254,7 +47238,7 @@
     <tag k="phone" v="+1-416-209-7223"/>
     <tag k="website" v="http://www.kalolaw.ca"/>
   </node>
-  <node id="3235481986" lat="6.2354326" lon="-75.5605500" version="5" timestamp="2020-12-01T03:40:10Z" changeset="95076053" uid="12264657" user="isabelcgb192">
+  <node id="3235481986" lat="6.2354139" lon="-75.5605232" version="6" timestamp="2022-04-14T06:09:10Z" changeset="119695209" uid="14683756" user="FinowRiver">
     <tag k="amenity" v="school"/>
     <tag k="name" v="Escuela de Criptomonedas"/>
     <tag k="note" v="course bitcoin cryptocoins"/>
@@ -57809,19 +57793,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="art"/>
     <tag k="website" v="http://www.conceptartist.de"/>
-  </node>
-  <node id="4616819789" lat="41.9017540" lon="12.5042910" version="1" timestamp="2017-01-18T19:53:14Z" changeset="45279903" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:postcode" v="00185"/>
-    <tag k="addr:street" v="Via Milazzo"/>
-    <tag k="description" v="Struttura ricettiva"/>
-    <tag k="email" v="info@hotelrobinsonrome.com"/>
-    <tag k="name" v="Hotel Robinson"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 06 491423"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="http://www.hotelrobinsonrome.com"/>
   </node>
   <node id="4618262134" lat="13.7846033" lon="100.5356110" version="4" timestamp="2019-09-24T14:05:00Z" changeset="74860629" uid="238419" user="HubMiner">
     <tag k="addr:city" v="Bangkok"/>
@@ -74485,14 +74456,18 @@
     <tag k="tourism" v="chalet"/>
     <tag k="website" v="http://www.masiavillalonga.com"/>
   </node>
-  <node id="8481141609" lat="51.5717562" lon="6.2999026" version="1" timestamp="2021-03-02T22:51:39Z" changeset="100307357" uid="1969678" user="waldhans">
+  <node id="8481141609" lat="51.5717562" lon="6.2999026" version="2" timestamp="2022-04-14T14:54:58Z" changeset="119717051" uid="9883443" user="Mclory">
+    <tag k="addr:city" v="Kevelaer-Wetten"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="47625"/>
+    <tag k="addr:street" v="Vellarsweg"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="World House"/>
+    <tag k="name" v="World House Wetten"/>
     <tag k="note" v="Conference_and_Training_House / Meeting point for connecting people to create new perspectives"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+4928329763233"/>
-    <tag k="tourism" v="guest_house"/>
+    <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://de.world-house-wetten.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -75649,12 +75624,11 @@
     <tag k="payment:visa_electron" v="yes"/>
     <tag k="website" v="https://www.instagram.com/over_grill/"/>
   </node>
-  <node id="8761588374" lat="50.4428567" lon="30.4954337" version="9" timestamp="2022-04-13T13:04:30Z" changeset="119667869" uid="3281808" user="Rico557">
+  <node id="8761588374" lat="50.4428567" lon="30.4954337" version="10" timestamp="2022-04-14T08:07:11Z" changeset="119699837" uid="5359" user="user_5359">
     <tag k="addr:housenumber" v="23/126"/>
     <tag k="addr:postcode" v="01032"/>
     <tag k="addr:street" v="Симона Петлюри вулиця"/>
     <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:CAD" v="yes"/>
     <tag k="currency:CHF" v="yes"/>
     <tag k="currency:DASH" v="yes"/>
@@ -75668,6 +75642,7 @@
     <tag k="currency:UAH" v="yes"/>
     <tag k="currency:USD" v="yes"/>
     <tag k="currency:USDT" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="currency:XMR" v="yes"/>
     <tag k="currency:XRP" v="yes"/>
     <tag k="currency:fiat" v="yes"/>
