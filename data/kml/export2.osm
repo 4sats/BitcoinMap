@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-15T05:31:08Z"/>
+<meta osm_base="2022-04-16T05:25:23Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -58309,7 +58309,7 @@
     <tag k="shop" v="hairdresser"/>
     <tag k="website" v="http://www.olepeluqueros.es/"/>
   </node>
-  <node id="4755014779" lat="52.5220576" lon="13.4510816" version="5" timestamp="2020-06-13T18:49:26Z" changeset="86606953" uid="5555719" user="KarmaSyndicate">
+  <node id="4755014779" lat="52.5220576" lon="13.4510816" version="6" timestamp="2022-04-15T06:25:21Z" changeset="119737326" uid="1497225" user="kartonage">
     <tag k="addr:city" v="Berlin"/>
     <tag k="addr:housenumber" v="47"/>
     <tag k="addr:postcode" v="10249"/>
@@ -58317,7 +58317,7 @@
     <tag k="clothes" v="women;men;fashion"/>
     <tag k="email" v="hallo@psy7.com"/>
     <tag k="name" v="Karma Syndikat | psy7.com"/>
-    <tag k="opening_hours" v="Mo-Fr 13:00-18:00"/>
+    <tag k="opening_hours" v="Tu-Fr 13:00-18:00; PH,Sa-Mo off"/>
     <tag k="operator" v="Karma Syndikat"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
@@ -79029,6 +79029,19 @@
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="9668725399" lat="41.0362157" lon="28.9894386" version="1" timestamp="2022-04-15T18:28:07Z" changeset="119761577" uid="3100233" user="enotramone">
+    <tag k="addr:city" v="İstanbul"/>
+    <tag k="addr:district" v="Beyoğlu"/>
+    <tag k="addr:housenumber" v="47A"/>
+    <tag k="addr:neighbourhood" v="Gümüşsuyu"/>
+    <tag k="addr:street" v="Inonü Caddesi"/>
+    <tag k="amenity" v="money_transfer"/>
+    <tag k="name" v="NakitCoins"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="phone" v="+905303874520"/>
+    <tag k="website" v="https://nakitcoins.com/"/>
   </node>
 
 </osm>
