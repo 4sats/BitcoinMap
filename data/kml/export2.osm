@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-17T05:25:44Z"/>
+<meta osm_base="2022-04-18T05:27:06Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -555,29 +555,6 @@
     <tag k="healthcare" v="psychotherapist"/>
     <tag k="name" v="Psicologa Giulia Bianchi"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="310268912" lat="52.4930190" lon="13.4179531" version="24" timestamp="2021-12-23T15:38:55Z" changeset="115303617" uid="175760" user="famosm">
-    <tag k="addr:city" v="Berlin"/>
-    <tag k="addr:country" v="DE"/>
-    <tag k="addr:housenumber" v="77"/>
-    <tag k="addr:postcode" v="10967"/>
-    <tag k="addr:street" v="Graefestraße"/>
-    <tag k="addr:suburb" v="Kreuzberg"/>
-    <tag k="alt_name" v="Room77"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="brewery" v="various;yes"/>
-    <tag k="check_date:opening_hours" v="2021-08-13"/>
-    <tag k="contact:email" v="info@room77.de"/>
-    <tag k="contact:phone" v="+49-30-31102260"/>
-    <tag k="contact:website" v="http://www.room77.de/"/>
-    <tag k="contact:yelp" v="www.yelp.com/biz/room-77-berlin"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Room 77"/>
-    <tag k="opening_hours" v="Tu-Su 17:00-24:00"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="smoking" v="yes"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="310973848" lat="60.1605345" lon="24.9390492" version="11" timestamp="2017-05-28T18:37:31Z" changeset="49052100" uid="2057798" user="Sarvihepo">
     <tag k="addr:city" v="Helsinki"/>
@@ -25626,12 +25603,13 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="shop" v="car_repair"/>
   </node>
-  <node id="2681533894" lat="8.9511876" lon="-79.5347880" version="3" timestamp="2019-06-18T12:48:37Z" changeset="71364824" uid="2237750" user="chachafish">
-    <tag k="name" v="CascoStation Coworking"/>
-    <tag k="office" v="coworking"/>
+  <node id="2681533894" lat="8.9512104" lon="-79.5346043" version="4" timestamp="2022-04-17T23:38:37Z" changeset="119833946" uid="15543111" user="Peter Maris">
+    <tag k="addr:city" v="Panamá"/>
+    <tag k="addr:street" v="Calle 5ta Oeste"/>
+    <tag k="name" v="Oficinas Santa Familia"/>
+    <tag k="name:es" v="Oficinas Santa Familia"/>
+    <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+507 838-6111"/>
-    <tag k="website" v="http://cascostation.com"/>
   </node>
   <node id="2681858084" lat="55.7190434" lon="21.1213771" version="7" timestamp="2020-10-29T17:37:17Z" changeset="93249173" uid="60129" user="Tomas Straupis">
     <tag k="addr:city" v="Klaipėda"/>
@@ -46706,16 +46684,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+030 699 708 0766"/>
     <tag k="website" v="pixelicious.gr"/>
-  </node>
-  <node id="3215843496" lat="47.5674193" lon="7.5873616" version="3" timestamp="2015-07-13T21:57:54Z" changeset="32615091" uid="3060662" user="toxonaut">
-    <tag k="addr:city" v="Basel"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="4057"/>
-    <tag k="addr:street" v="Oetlingerstrasse"/>
-    <tag k="building" v="apartments"/>
-    <tag k="name" v="Cozy Apartment for short term rent"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.airbnb.com/rooms/6524165"/>
   </node>
   <node id="3215899762" lat="46.5966226" lon="25.0740563" version="5" timestamp="2016-01-12T10:32:33Z" changeset="36524902" uid="128281" user="razor74">
     <tag k="addr:city" v="Sovata"/>
@@ -79042,6 +79010,21 @@
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="phone" v="+905303874520"/>
     <tag k="website" v="https://nakitcoins.com/"/>
+  </node>
+  <node id="9672277983" lat="42.3279406" lon="21.1963204" version="1" timestamp="2022-04-17T16:58:51Z" changeset="119824560" uid="15609193" user="Auto Diagnoza Bardhi">
+    <tag k="addr:city" v="Ferizaj"/>
+    <tag k="addr:postcode" v="70000"/>
+    <tag k="addr:street" v="Ibrahim Rugova"/>
+    <tag k="name" v="Auto Diagnoza Bardhi"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="phone" v="+38345549403"/>
+    <tag k="service:vehicle:car_repair" v="yes"/>
+    <tag k="shop" v="car_repair"/>
+    <tag k="website" v="https://m.facebook.com/autodiagnoza.bardhi/"/>
   </node>
 
 </osm>
