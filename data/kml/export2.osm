@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-18T05:27:06Z"/>
+<meta osm_base="2022-04-19T05:32:54Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -2061,18 +2061,6 @@
     <tag k="short_name" v="WM"/>
     <tag k="start_date" v="2015"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="947092144" lat="37.1843837" lon="-3.6042514" version="4" timestamp="2019-07-16T20:28:28Z" changeset="72322396" uid="7543375" user="kapazao">
-    <tag k="addr:city" v="Granada"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:postcode" v="18012"/>
-    <tag k="addr:street" v="Avenida de la Constitución"/>
-    <tag k="email" v="diegofernandez@abogadosderechoshumanos.com"/>
-    <tag k="name" v="Human Rights Lawyers"/>
-    <tag k="office" v="lawyer"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+34617005023"/>
-    <tag k="website" v="http://www.abogadosderechoshumanos.com/"/>
   </node>
   <node id="963712306" lat="46.0688473" lon="11.1200802" version="9" timestamp="2017-10-03T10:57:30Z" changeset="52592457" uid="20610" user="napo">
     <tag k="addr:city" v="Trento"/>
@@ -7677,7 +7665,7 @@
     <tag k="website" v="https://www.satoshi.pl/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2485520454" lat="52.4943605" lon="13.4381122" version="3" timestamp="2018-02-06T18:59:31Z" changeset="56126186" uid="1497225" user="kartonage">
+  <node id="2485520454" lat="52.4943605" lon="13.4381122" version="4" timestamp="2022-04-18T10:04:10Z" changeset="119849468" uid="14771166" user="Andro Mappa">
     <tag k="addr:city" v="Berlin"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="4"/>
@@ -7687,7 +7675,7 @@
     <tag k="name" v="Dandy Horse Berlin"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="second_hand" v="yes"/>
-    <tag k="shop" v="boutique"/>
+    <tag k="shop" v="clothes"/>
     <tag k="smoking" v="no"/>
     <tag k="website" v="https://www.dandyhorseberlin.com/"/>
   </node>
@@ -79025,6 +79013,18 @@
     <tag k="service:vehicle:car_repair" v="yes"/>
     <tag k="shop" v="car_repair"/>
     <tag k="website" v="https://m.facebook.com/autodiagnoza.bardhi/"/>
+  </node>
+  <node id="9673774512" lat="41.0125668" lon="28.9754157" version="1" timestamp="2022-04-18T08:50:39Z" changeset="119846151" uid="3100233" user="enotramone">
+    <tag k="amenity" v="money_transfer"/>
+    <tag k="name" v="GlobalDo Coin Store"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+  </node>
+  <node id="9673774513" lat="41.0087788" lon="28.9713798" version="1" timestamp="2022-04-18T08:50:39Z" changeset="119846151" uid="3100233" user="enotramone">
+    <tag k="amenity" v="money_transfer"/>
+    <tag k="name" v="NakitCoins"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
   </node>
 
 </osm>
