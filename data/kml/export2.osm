@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-19T05:32:54Z"/>
+<meta osm_base="2022-04-20T05:44:39Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -79025,6 +79025,17 @@
     <tag k="name" v="NakitCoins"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
+  </node>
+  <node id="9677700276" lat="40.1952857" lon="44.4894375" version="1" timestamp="2022-04-19T16:06:06Z" changeset="119914625" uid="3100233" user="enotramone">
+    <tag k="addr:city" v="Երևան"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="Կիևյան փողոց"/>
+    <tag k="amenity" v="money_transfer"/>
+    <tag k="name" v="TETChange Yerevan"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="website" v="https://tetchange.com/"/>
   </node>
 
 </osm>
