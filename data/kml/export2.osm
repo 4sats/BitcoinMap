@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-21T05:46:07Z"/>
+<meta osm_base="2022-04-22T05:45:12Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -32809,13 +32809,15 @@
     <tag k="shop" v="accessories"/>
     <tag k="website" v="https://mosaika.ch/"/>
   </node>
-  <node id="2767601898" lat="40.6687020" lon="-73.7140318" version="7" timestamp="2021-05-30T19:35:48Z" changeset="105581583" uid="12470629" user="nysgissam_dead10ck">
+  <node id="2767601898" lat="40.6687020" lon="-73.7140318" version="8" timestamp="2022-04-21T16:07:28Z" changeset="120008019" uid="1679" user="andrewpmk">
     <tag k="addr:city" v="Valley Stream"/>
     <tag k="addr:housenumber" v="444"/>
     <tag k="addr:postcode" v="11580"/>
     <tag k="addr:state" v="NY"/>
     <tag k="addr:street" v="West Merrick Road"/>
     <tag k="brand" v="Acura"/>
+    <tag k="brand:wikidata" v="Q53097"/>
+    <tag k="brand:wikipedia" v="en:Acura"/>
     <tag k="designation" v="Car Dealership"/>
     <tag k="name" v="Acura of Valley Stream"/>
     <tag k="nysgissam:nysaddresspointid" v="NASS208847"/>
@@ -64809,7 +64811,7 @@
     <tag k="phone" v="+39 0302070441"/>
     <tag k="website" v="https://www.carneespirito.it/"/>
   </node>
-  <node id="5509074930" lat="-26.2897979" lon="-48.8487169" version="2" timestamp="2018-05-14T02:57:49Z" changeset="58937854" uid="2339960" user="adrianojbr">
+  <node id="5509074930" lat="-26.2896304" lon="-48.8488080" version="3" timestamp="2022-04-22T05:01:42Z" changeset="120028226" uid="2622158" user="Victor 2015">
     <tag k="addr:city" v="Joinville"/>
     <tag k="addr:door" v="Sala 3"/>
     <tag k="addr:suburb" v="América"/>
@@ -79037,6 +79039,17 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="website" v="https://tetchange.com/"/>
+  </node>
+  <node id="9682665002" lat="40.1849635" lon="44.5136484" version="1" timestamp="2022-04-21T12:32:37Z" changeset="119999307" uid="3100233" user="enotramone">
+    <tag k="addr:city" v="Երևան"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Թումանյան փողոց"/>
+    <tag k="amenity" v="money_transfer"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/bitcoin144444/"/>
+    <tag k="name" v="Bitcoin Armenia"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="website" v="https://www.coinexchange.am/"/>
   </node>
 
 </osm>
