@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-22T05:45:12Z"/>
+<meta osm_base="2022-04-23T05:24:51Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -8373,7 +8373,7 @@
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="http://www.TerreCiel.ca/gite"/>
   </node>
-  <node id="2514366262" lat="-34.2885260" lon="-59.1009446" version="4" timestamp="2015-12-31T03:43:04Z" changeset="36275450" uid="1789253" user="DiegoMax">
+  <node id="2514366262" lat="-34.2885260" lon="-59.1009446" version="5" timestamp="2022-04-22T18:46:27Z" changeset="120065916" uid="657643" user="Camello_AR">
     <tag k="addr:city" v="Capilla del Señor"/>
     <tag k="addr:housenumber" v="770"/>
     <tag k="addr:street" v="San Martín"/>
@@ -8381,7 +8381,8 @@
     <tag k="note" v="Nuestra empresa se dedica a la comercialización de productos metalúrgicos y para la construcción. Entre ellos: Hierros Chapas para techos Perfilería Mallas Perfiles C Art. Zingueria Aislantes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+54 (2323) 49-2446"/>
-    <tag k="shop" v="yes"/>
+    <tag k="shop" v="trade"/>
+    <tag k="trade" v="metal"/>
     <tag k="website" v="http://www.hierrosdsm.com.ar/"/>
   </node>
   <node id="2514373254" lat="-34.7519717" lon="-58.1883493" version="4" timestamp="2020-02-15T19:22:47Z" changeset="81052104" uid="3837224" user="MatiasJ">
@@ -65300,7 +65301,7 @@
     <tag k="website" v="http://www.ascomm.eu"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5602931341" lat="-20.2293989" lon="-40.2729049" version="2" timestamp="2018-05-07T19:59:40Z" changeset="58769259" uid="1165560" user="GustavoRPS">
+  <node id="5602931341" lat="-20.2245657" lon="-40.2782344" version="3" timestamp="2022-04-22T13:36:58Z" changeset="120051859" uid="1165560" user="GustavoRPS">
     <tag k="addr:city" v="Serra"/>
     <tag k="addr:housenumber" v="1521, Sala 206"/>
     <tag k="addr:postcode" v="29161-109"/>
@@ -79050,6 +79051,14 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="website" v="https://www.coinexchange.am/"/>
+  </node>
+  <node id="9687222834" lat="37.7760710" lon="-122.4260336" version="1" timestamp="2022-04-23T04:33:18Z" changeset="120075861" uid="15537949" user="pootriarch">
+    <tag k="addr:housenumber" v="540"/>
+    <tag k="addr:street" v="Laguna Street"/>
+    <tag k="name" v="Tumult Inc."/>
+    <tag k="office" v="company"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="website" v="https://tumult.com/"/>
   </node>
 
 </osm>
