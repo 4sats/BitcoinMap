@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-25T05:27:27Z"/>
+<meta osm_base="2022-04-26T05:28:39Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -544,7 +544,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="306047550" lat="41.8724750" lon="12.4495747" version="15" timestamp="2020-10-18T12:25:28Z" changeset="92655239" uid="257767" user="mau59">
+  <node id="306047550" lat="41.8724454" lon="12.4496528" version="16" timestamp="2022-04-25T14:43:51Z" changeset="120169882" uid="224342" user="mircozorzo">
     <tag k="addr:city" v="Roma"/>
     <tag k="addr:postcode" v="00152"/>
     <tag k="addr:street" v="Circonvallazione Gianicolense"/>
@@ -552,6 +552,7 @@
     <tag k="contact:email" v="info@intera-mente.it"/>
     <tag k="contact:website" v="http://www.intera-mente.it"/>
     <tag k="description" v="Psicologa esperta nella riduzione dello stress, tecniche di Midfulness e consulenza di coppia."/>
+    <tag k="fixme" v="posizione"/>
     <tag k="healthcare" v="psychotherapist"/>
     <tag k="name" v="Psicologa Giulia Bianchi"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -784,19 +785,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
     <tag k="phone" v="+390516143978"/>
-  </node>
-  <node id="425492855" lat="45.8947495" lon="11.0435764" version="4" timestamp="2018-07-03T11:12:32Z" changeset="60375315" uid="7595920" user="TheaV">
-    <tag k="addr:city" v="Rovereto"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:postcode" v="38068"/>
-    <tag k="addr:street" v="Corso Bettini"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="100 ONE"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
-    <tag k="shop" v="sports"/>
-    <tag k="shop_1" v="skateboard"/>
   </node>
   <node id="442258115" lat="37.7678512" lon="-122.4223164" version="4" timestamp="2015-01-07T21:13:10Z" changeset="27985314" uid="2555308" user="Jack J Jia">
     <tag k="addr:city" v="San Francisco"/>
@@ -10763,7 +10751,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://drhingora.in/"/>
   </node>
-  <node id="2551270907" lat="53.3845194" lon="14.5055757" version="5" timestamp="2018-02-10T15:20:04Z" changeset="56242788" uid="3266826" user="alpha_14">
+  <node id="2551270907" lat="53.3845194" lon="14.5055757" version="5" timestamp="2018-02-10T15:20:04Z" changeset="56242788" uid="3266826" user="Eastside_999">
     <tag k="name" v="Beverly Hills"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="beauty"/>
@@ -26180,7 +26168,8 @@
     <tag k="trade" v="industrial_equipment"/>
     <tag k="website" v="https://www.aquatechnologygroup.com/"/>
   </node>
-  <node id="2691050654" lat="-27.4800139" lon="153.0127828" version="1" timestamp="2014-02-26T13:10:30Z" changeset="20790090" uid="1951823" user="Cimarron">
+  <node id="2691050654" lat="-27.4800139" lon="153.0127828" version="2" timestamp="2022-04-25T12:02:43Z" changeset="120163310" uid="360183" user="wille">
+    <tag k="craft" v="caterer"/>
     <tag k="name" v="Blue Orange Catering"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+61412956155"/>
@@ -26968,19 +26957,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+61 401532237"/>
     <tag k="website" v="http://crochead.myshopify.com/"/>
-  </node>
-  <node id="2705754917" lat="42.6263607" lon="-83.0298666" version="10" timestamp="2019-06-13T01:13:34Z" changeset="71198590" uid="2888253" user="mapman44">
-    <tag k="addr:city" v="Utica"/>
-    <tag k="addr:housenumber" v="8255"/>
-    <tag k="addr:postcode" v="48317"/>
-    <tag k="addr:street" v="Hall Rd"/>
-    <tag k="addr:website" v="m2cert.com"/>
-    <tag k="amenity" v="clinic"/>
-    <tag k="contact:phone" v="+1 586 321-5031"/>
-    <tag k="healthcare" v="clinic"/>
-    <tag k="name" v="m2 certifications"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2705970041" lat="38.8585205" lon="-104.9211996" version="6" timestamp="2016-10-07T13:58:11Z" changeset="42710270" uid="2376" user="Bman">
     <tag k="addr:city" v="Manitou Springs"/>
@@ -28527,7 +28503,7 @@
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-02-11"/>
   </node>
-  <node id="2722877793" lat="53.4433954" lon="14.5493544" version="5" timestamp="2018-06-24T17:49:34Z" changeset="60126358" uid="3266826" user="alpha_14">
+  <node id="2722877793" lat="53.4433954" lon="14.5493544" version="5" timestamp="2018-06-24T17:49:34Z" changeset="60126358" uid="3266826" user="Eastside_999">
     <tag k="name" v="Pieczywo Myśliborskie"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="bakery"/>
@@ -55898,7 +55874,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://voyagepraguekids.com/"/>
   </node>
-  <node id="4048646869" lat="54.0873086" lon="12.1177938" version="7" timestamp="2018-06-14T23:37:33Z" changeset="59861768" uid="3266826" user="alpha_14">
+  <node id="4048646869" lat="54.0873086" lon="12.1177938" version="7" timestamp="2018-06-14T23:37:33Z" changeset="59861768" uid="3266826" user="Eastside_999">
     <tag k="addr:city" v="Rostock"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="5"/>
