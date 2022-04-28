@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-27T05:36:25Z"/>
+<meta osm_base="2022-04-28T05:47:09Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -27226,11 +27226,11 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://www.visualmarketing.com.ar/"/>
   </node>
-  <node id="2711775700" lat="50.9683804" lon="5.8294435" version="16" timestamp="2020-06-10T17:10:29Z" changeset="86474611" uid="927112" user="CartoKees">
+  <node id="2711775700" lat="50.9683804" lon="5.8294435" version="17" timestamp="2022-04-27T11:16:25Z" changeset="120254205" uid="8339" user="mtmail">
     <tag k="addr:city" v="Geleen"/>
     <tag k="addr:housename" v="Computer Center Geleen"/>
     <tag k="addr:housenumber" v="73"/>
-    <tag k="addr:postcode" v="616ED"/>
+    <tag k="addr:postcode" v="6161ED"/>
     <tag k="addr:street" v="Rijksweg Centrum"/>
     <tag k="name" v="Computer Center Geleen"/>
     <tag k="opening_hours" v="Mo-We 10:00-18:00; Th 10:00-20:00; Fr 10:00-18:00; Sa 10:00-17:00"/>
@@ -73041,26 +73041,6 @@
     <tag k="website" v="https://www.lasociedadgeografica.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="7894462747" lat="36.2857633" lon="57.6784858" version="11" timestamp="2021-08-07T20:02:59Z" changeset="109324146" uid="3707617" user="Aligh">
-    <tag k="addr:city" v="سبزوار"/>
-    <tag k="addr:street" v="مولوی"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="amenity" v="internet_cafe"/>
-    <tag k="contact:telegram" v="a707170"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="yes"/>
-    <tag k="internet_access:ssid" v="mobinnet051"/>
-    <tag k="name" v="کافی نت مبین"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="phone" v="+989053040219"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="start_date" v="2020"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="7896227562" lat="42.4335125" lon="13.9845266" version="2" timestamp="2020-09-23T02:47:13Z" changeset="91325702" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Loreto Aprutino"/>
     <tag k="addr:housenumber" v="45"/>
@@ -75744,17 +75724,23 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="start_date" v="26/10/2020"/>
   </node>
-  <node id="8852357039" lat="40.0361640" lon="15.6740780" version="1" timestamp="2021-06-21T08:42:28Z" changeset="106702032" uid="2201521" user="quibitcoin">
+  <node id="8852357039" lat="40.0356711" lon="15.6741826" version="2" timestamp="2022-04-27T11:42:51Z" changeset="120255339" uid="15731731" user="italo paesano">
     <tag k="addr:city" v="Maratea"/>
     <tag k="addr:housenumber" v="25"/>
     <tag k="addr:postcode" v="85046"/>
     <tag k="addr:street" v="Via Acquafredda Nitti"/>
     <tag k="description" v="Struttura con ampio giardino vicino le spiagge Luppa e Anginarra di Acquafredda di Maratea."/>
     <tag k="email" v="info@bbnonnavincenzamaratea.com"/>
+    <tag k="guest_house" v="bed_and_breakfast"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
     <tag k="name" v="B&amp;B Nonna Vincenza"/>
+    <tag k="operator" v="Italo Paesano"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
     <tag k="phone" v="+39 3318060984"/>
-    <tag k="tourism" v="bed_and_breakfast"/>
+    <tag k="rooms" v="5"/>
+    <tag k="tourism" v="guest_house"/>
     <tag k="website" v="https://bbnonnavincenzamaratea.com"/>
   </node>
   <node id="8862133692" lat="-34.2088283" lon="142.1383007" version="2" timestamp="2021-06-30T10:25:57Z" changeset="107199577" uid="712752" user="tastrax">
