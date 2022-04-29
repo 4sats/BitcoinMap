@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-28T05:47:09Z"/>
+<meta osm_base="2022-04-29T05:30:09Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -3759,7 +3759,7 @@
     <tag k="website" v="http://greenapplebooks.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1819819004" lat="60.1603402" lon="24.9196012" version="13" timestamp="2022-01-28T10:19:30Z" changeset="116700930" uid="8980540" user="pyyhttu">
+  <node id="1819819004" lat="60.1603402" lon="24.9196012" version="14" timestamp="2022-04-29T04:14:04Z" changeset="120329616" uid="8980540" user="pyyhttu">
     <tag k="addr:city" v="Helsinki"/>
     <tag k="addr:country" v="FI"/>
     <tag k="addr:housenumber" v="5"/>
@@ -3770,6 +3770,8 @@
     <tag k="name" v="K-Market Jätkäsaari"/>
     <tag k="opening_hours" v="Mo-Sa 07:00-23:00; Su 09:00-23:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="shop" v="convenience"/>
     <tag k="short_name" v="K-Market"/>
     <tag k="website" v="https://www.k-market.fi"/>
