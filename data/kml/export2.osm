@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-29T05:30:09Z"/>
+<meta osm_base="2022-04-30T05:26:23Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -12788,7 +12788,7 @@
     <tag k="phone" v="+61247517771"/>
     <tag k="website" v="https://www.fluxx.com.au/"/>
   </node>
-  <node id="2559341033" lat="44.2225067" lon="-123.2214800" version="2" timestamp="2020-08-13T02:35:59Z" changeset="89327685" uid="9347240" user="kfessler">
+  <node id="2559341033" lat="44.2225067" lon="-123.2214800" version="2" timestamp="2020-08-13T02:35:59Z" changeset="89327685" uid="9347240" user="efessler">
     <tag k="name" v="Elizabeth Crow Photography"/>
     <tag k="note" v="Photography Services"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -30369,18 +30369,6 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://ricebowlkc.com/"/>
   </node>
-  <node id="2729867235" lat="38.9435534" lon="-95.2421896" version="1" timestamp="2014-03-20T21:13:08Z" changeset="21217813" uid="1836471" user="Blobo123">
-    <tag k="addr:housenumber" v="2223"/>
-    <tag k="addr:street" v="Louisiana Street"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="785-838-3100"/>
-    <tag k="cuisine" v="japanese"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Don Don Japanese Rice and Noodle Bowl"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="http://eatdondon.menufy.com/"/>
-  </node>
   <node id="2729898995" lat="38.9582474" lon="-95.2780186" version="2" timestamp="2014-03-20T22:50:54Z" changeset="21219342" uid="1836471" user="Blobo123">
     <tag k="addr:housenumber" v="1410"/>
     <tag k="addr:street" v="Kasold Drive"/>
@@ -46133,13 +46121,6 @@
     <tag k="shop" v="electronics"/>
     <tag k="website" v="http://www.cellphonesolutions.biz"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="3191136296" lat="23.0425035" lon="113.1464350" version="2" timestamp="2018-08-17T01:58:19Z" changeset="61731266" uid="7490760" user="CnEnTranslateBot">
-    <tag k="addr:housenumber" v="112 北约商厦"/>
-    <tag k="addr:street" v="佛平2路"/>
-    <tag k="building" v="北约商厦"/>
-    <tag k="name" v="云集汽贸"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="3191151022" lat="23.1130476" lon="113.3624718" version="4" timestamp="2020-07-19T22:42:03Z" changeset="88208185" uid="7030314" user="Metrohsrtheedit">
     <tag k="addr:city" v="广州市"/>
@@ -71973,7 +71954,7 @@
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="shop" v="supermarket"/>
   </node>
-  <node id="7358013976" lat="47.0683151" lon="-1.3036027" version="8" timestamp="2021-07-10T07:17:57Z" changeset="107736322" uid="439947" user="StephaneP">
+  <node id="7358013976" lat="47.0683151" lon="-1.3036027" version="9" timestamp="2022-04-29T17:42:44Z" changeset="120358683" uid="12137599" user="Flrbrmd">
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="44190"/>
     <tag k="addr:street" v="Rue de la Clairière"/>
@@ -71982,6 +71963,7 @@
     <tag k="internet_access" v="yes"/>
     <tag k="internet_access:ssid" v="Alexis Léglise"/>
     <tag k="name" v="Alexis Léglise"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-12:30,13:30-18:15; Th off; Sa 09:00-12:15"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:contactless" v="yes"/>
@@ -78995,6 +78977,38 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="ref" v="667"/>
     <tag k="vending" v="condoms"/>
+  </node>
+  <node id="9702942926" lat="-20.9459213" lon="-44.9202867" version="1" timestamp="2022-04-29T12:55:51Z" changeset="120347707" uid="3733993" user="Aleksandar1994">
+    <tag k="addr:city" v="santo antônio do amparo"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:postcode" v="37262-000"/>
+    <tag k="addr:street" v="Rua José Carlos de Carvalho"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="name" v="Info Center"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:00; Sa 08:00-12:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="phone" v="+55 35 99905-3136"/>
+    <tag k="shop" v="computer"/>
+    <tag k="website" v="www.incenter.com.br"/>
+  </node>
+  <node id="9703760325" lat="36.6375107" lon="43.5267626" version="2" timestamp="2022-04-29T18:40:07Z" changeset="120360514" uid="15767465" user="Ahmed Ghazi Muhammed">
+    <tag k="addr:city" v="duhok"/>
+    <tag k="addr:housenumber" v="646B"/>
+    <tag k="addr:postcode" v="42001"/>
+    <tag k="addr:street" v="ڕێگای دهۆک-هەولێر"/>
+    <tag k="name" v="Crown Phone"/>
+    <tag k="name:ar" v="تاج موبايل"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-22:00"/>
+    <tag k="opening_hours:covid19" v="Mo-Su 08:00-20:00"/>
+    <tag k="operator" v="Ahmed Ghazi"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="phone" v="9647504230292"/>
+    <tag k="shop" v="mobile_phone"/>
   </node>
 
 </osm>
