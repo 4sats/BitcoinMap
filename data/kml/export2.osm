@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-30T05:26:23Z"/>
+<meta osm_base="2022-05-01T05:31:43Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -1268,20 +1268,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="SanGIS Addresses Public Domain (http://www.sangis.org/)"/>
     <tag k="website" v="http://www.SanMarcosDentalCenter.com"/>
-  </node>
-  <node id="600465273" lat="47.3711907" lon="8.5436743" version="21" timestamp="2021-02-24T03:27:21Z" changeset="99862876" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="addr:city" v="Zürich"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="8001"/>
-    <tag k="addr:street" v="Schoffelgasse"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="regional"/>
-    <tag k="name" v="Kafi Schoffel"/>
-    <tag k="note" v="Bitcoinpayments sponsored by: bitcoinkiosk.ch"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="uzh_landmark" v="true"/>
-    <tag k="website" v="https://www.facebook.com/kafischoffel"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="603401072" lat="49.8974627" lon="-97.2042683" version="6" timestamp="2018-10-25T14:50:08Z" changeset="63870397" uid="5633991" user="Matthew Darwin">
     <tag k="addr:city" v="Winnipeg"/>
@@ -20794,7 +20780,8 @@
     <tag k="phone" v="+31243233625"/>
     <tag k="website" v="http://cafevanoudsnijmegen.nl/"/>
   </node>
-  <node id="2622960029" lat="38.5706642" lon="-90.2847806" version="5" timestamp="2014-02-04T12:38:37Z" changeset="20371154" uid="28559" user="Stemby">
+  <node id="2622960029" lat="38.5706642" lon="-90.2847806" version="6" timestamp="2022-04-30T23:54:34Z" changeset="120402773" uid="15080312" user="CatSu">
+    <tag k="healthcare" v="counselling"/>
     <tag k="name" v="Steve Franklin, Counseling"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
@@ -43738,7 +43725,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="6503644200"/>
   </node>
-  <node id="3094200297" lat="49.1887079" lon="-123.0837660" version="5" timestamp="2022-03-24T12:49:40Z" changeset="118863784" uid="12424494" user="lovelyfurball88">
+  <node id="3094200297" lat="49.1887079" lon="-123.0837660" version="6" timestamp="2022-05-01T04:07:42Z" changeset="120405580" uid="6670496" user="Zarr">
     <tag k="addr:city" v="Richmond"/>
     <tag k="addr:housenumber" v="12760"/>
     <tag k="addr:postcode" v="V6V 1Z4"/>
@@ -43750,7 +43737,7 @@
     <tag k="opening_hours" v="Mo-Fr 08:00-16:00"/>
     <tag k="operator" v="D-Wave"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1 (604) 276 9717"/>
+    <tag k="phone" v="+1-604-276-9717"/>
     <tag k="product" v="pcb"/>
     <tag k="smoking" v="no"/>
     <tag k="website" v="http://www.omnicircuitboards.com"/>
@@ -44769,9 +44756,10 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="website" v="https://www.paulbenjamin.com.au/"/>
   </node>
-  <node id="3145113685" lat="48.1773076" lon="16.3310101" version="4" timestamp="2017-02-12T00:47:47Z" changeset="46009989" uid="85218" user="Aleks-Berlin">
+  <node id="3145113685" lat="48.1773076" lon="16.3310101" version="5" timestamp="2022-04-30T13:28:01Z" changeset="120385170" uid="1515627" user="AlbertCohen">
     <tag k="massage" v="shiatsu"/>
     <tag k="name" v="Shiatsu Praxis befreiend.at"/>
+    <tag k="opening_hours:signed" v="no"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="massage"/>
     <tag k="wheelchair" v="yes"/>
@@ -55325,7 +55313,7 @@
     <tag k="operator" v="www.coiner.fi"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="3896626705" lat="52.5328613" lon="13.3489366" version="5" timestamp="2018-04-26T14:37:02Z" changeset="58446217" uid="1814365" user="illdefined">
+  <node id="3896626705" lat="52.5328613" lon="13.3489366" version="6" timestamp="2022-04-30T16:27:10Z" changeset="120391272" uid="8141173" user="Moa21Bit">
     <tag k="addr:city" v="Berlin"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="5"/>
@@ -55343,6 +55331,7 @@
     <tag k="level" v="0"/>
     <tag k="name" v="nyantec GmbH"/>
     <tag k="office" v="it"/>
+    <tag k="opening_hours:signed" v="no"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:wire_transfer" v="yes"/>
     <tag k="source" v="local knowledge"/>
@@ -62406,12 +62395,12 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 338 4326561"/>
   </node>
-  <node id="5300765324" lat="41.8596800" lon="12.6174940" version="1" timestamp="2017-12-23T14:31:51Z" changeset="54864951" uid="2201521" user="quibitcoin">
+  <node id="5300765324" lat="41.8596800" lon="12.6174940" version="2" timestamp="2022-04-30T21:27:34Z" changeset="120400372" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Roma"/>
     <tag k="addr:housenumber" v="26"/>
     <tag k="addr:postcode" v="00133"/>
     <tag k="addr:street" v="Via Benigno Crespi"/>
-    <tag k="amenity" v="bar"/>
+    <tag k="amenity" v="cafe"/>
     <tag k="description" v="Bar Lottomatica, scommesse Replatz, bollette, ricariche, slot."/>
     <tag k="email" v="epolitano707@gmail.com"/>
     <tag k="name" v="Replatz sport bar since 1960"/>
