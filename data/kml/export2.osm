@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-03T05:30:40Z"/>
+<meta osm_base="2022-05-04T05:13:26Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -16970,7 +16970,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="newsagent"/>
   </node>
-  <node id="2589248198" lat="48.1812332" lon="16.3780132" version="4" timestamp="2019-03-29T14:36:39Z" changeset="68667633" uid="9451067" user="b-jazz-bot">
+  <node id="2589248198" lat="48.1812332" lon="16.3780132" version="5" timestamp="2022-05-03T15:45:00Z" changeset="120505317" uid="1515627" user="AlbertCohen">
     <tag k="addr:city" v="Wien"/>
     <tag k="addr:country" v="AT"/>
     <tag k="addr:housenumber" v="7/6"/>
@@ -16979,6 +16979,7 @@
     <tag k="name" v="Manuel Fallmann"/>
     <tag k="note" v="Professional experience in both Code and Graphics. My current focus is on AS3 / Air and Web Development, however I’m also available for Illustrations, UI Designs and 2D Animation."/>
     <tag k="office" v="it"/>
+    <tag k="opening_hours:signed" v="no"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="website" v="https://www.manuelfallmann.com/"/>
@@ -26642,16 +26643,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://btc.itutto.com"/>
-  </node>
-  <node id="2701669663" lat="32.2249176" lon="-110.9522080" version="3" timestamp="2019-05-22T21:19:51Z" changeset="70531220" uid="1330847" user="TheDutchMan13">
-    <tag k="email" v="rchasman@coink.io"/>
-    <tag k="name" v="Crypto Brokerage/Consultancy"/>
-    <tag k="note" v="Hi I'm Roey. I am a CSC undergrad and a crypto nut. I offer unlicensed personal crypto services, not limited to free general info, buying/selling/trading coins, mining consultations, and more. Interested/questions/concerns? Feel free to shoot me a text!"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:dogecoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="520-730-1042"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2701753415" lat="45.4585926" lon="9.2006009" version="3" timestamp="2017-09-03T19:08:10Z" changeset="51699863" uid="1476146" user="Alecs01">
     <tag k="addr:city" v="Milano"/>
@@ -50197,15 +50188,17 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="seafood"/>
   </node>
-  <node id="3365673804" lat="47.4980806" lon="19.0608740" version="8" timestamp="2020-05-12T21:34:25Z" changeset="85106729" uid="6626963" user="gabro00">
+  <node id="3365673804" lat="47.4980806" lon="19.0608740" version="9" timestamp="2022-05-03T17:45:40Z" changeset="120509115" uid="360480" user="JanCBorchardt">
     <tag k="addr:city" v="Budapest"/>
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:postcode" v="1072"/>
     <tag k="addr:street" v="Dob utca"/>
     <tag k="amenity" v="pub"/>
     <tag k="dog" v="yes"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Doblo Wine &amp; Bar"/>
     <tag k="opening_hours" v="Mo-Fr 14:00-02:00; Sa 17:00-03:00; Su 17:00-01:00"/>
+    <tag k="outdoor_seating" v="no"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+36 20 398 8863"/>
     <tag k="website" v="http://www.budapestwine.com/"/>
