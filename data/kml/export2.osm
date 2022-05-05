@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
+<osm version="0.6" generator="Overpass API 0.7.57.2 48842a1b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-04T05:13:26Z"/>
+<meta osm_base="2022-05-05T05:31:25Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -557,7 +557,7 @@
     <tag k="name" v="Psicologa Giulia Bianchi"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="310973848" lat="60.1605345" lon="24.9390492" version="11" timestamp="2017-05-28T18:37:31Z" changeset="49052100" uid="2057798" user="Sarvihepo">
+  <node id="310973848" lat="60.1605345" lon="24.9390492" version="12" timestamp="2022-05-04T13:26:23Z" changeset="120544193" uid="8980540" user="pyyhttu">
     <tag k="addr:city" v="Helsinki"/>
     <tag k="addr:country" v="FI"/>
     <tag k="addr:housenumber" v="18"/>
@@ -565,6 +565,8 @@
     <tag k="addr:street" v="Merimiehenkatu"/>
     <tag k="name" v="Beauty Lounge"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="phone" v="+358401488477"/>
     <tag k="shop" v="beauty"/>
     <tag k="website" v="http://beautylounge.fi/"/>
@@ -7248,18 +7250,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.bitvps.com/"/>
   </node>
-  <node id="2465675263" lat="40.7154852" lon="-73.9899564" version="5" timestamp="2019-02-21T05:47:51Z" changeset="67417401" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="New York"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:postcode" v="10002"/>
-    <tag k="addr:street" v="Essex Street"/>
-    <tag k="description" v="Game system/smartphone repair."/>
-    <tag k="email" v="info@xCubicle.com"/>
-    <tag k="name" v="Xcubicle"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="917-338-0645"/>
-    <tag k="website" v="https://www.xcubicle.com/"/>
-  </node>
   <node id="2465690998" lat="39.9903571" lon="-75.1651416" version="1" timestamp="2013-09-20T16:53:08Z" changeset="17943409" uid="1749374" user="Ben Harper 21">
     <tag k="name" v="Churrusco Shop"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -11525,7 +11515,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://dg-interactive.com/"/>
   </node>
-  <node id="2554300583" lat="-33.9388574" lon="18.4691741" version="10" timestamp="2022-05-02T15:37:02Z" changeset="120466789" uid="12441396" user="arkriger">
+  <node id="2554300583" lat="-33.9387808" lon="18.4692277" version="11" timestamp="2022-05-04T16:33:36Z" changeset="120552655" uid="12441396" user="arkriger">
     <tag k="addr:city" v="Cape Town"/>
     <tag k="addr:housenumber" v="76"/>
     <tag k="addr:postcode" v="7925"/>
@@ -29973,16 +29963,23 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://papasaveriosglenellyn.com/"/>
   </node>
-  <node id="2728168713" lat="41.6540600" lon="-87.9986640" version="4" timestamp="2014-11-23T02:07:16Z" changeset="26964531" uid="2229897" user="knottga3">
+  <node id="2728168713" lat="41.6540600" lon="-87.9986640" version="5" timestamp="2022-05-04T22:52:08Z" changeset="120563311" uid="1237170" user="Zol87">
+    <tag k="addr:city" v="Lemont"/>
     <tag k="addr:housenumber" v="1243"/>
+    <tag k="addr:postcode" v="60439"/>
+    <tag k="addr:state" v="IL"/>
     <tag k="addr:street" v="State Street"/>
-    <tag k="amenity" v="restaurant"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="Rosati's"/>
+    <tag k="brand:wikidata" v="Q65052579"/>
     <tag k="contact:phone" v="630-243-1500"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Rosati's Pizzeria"/>
+    <tag k="name" v="Rosati's"/>
+    <tag k="official_name" v="Rosati's Authentic Chicago Pizza"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
+    <tag k="takeaway" v="yes"/>
     <tag k="website" v="http://rosatislemont.com/"/>
   </node>
   <node id="2728196442" lat="41.5950682" lon="-88.0382360" version="2" timestamp="2021-05-31T02:28:31Z" changeset="105590413" uid="349543" user="Mundilfari">
@@ -78930,6 +78927,66 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="phone" v="9647504230292"/>
     <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="9713094979" lat="9.3134768" lon="-70.6079278" version="1" timestamp="2022-05-04T06:27:14Z" changeset="120526173" uid="4611642" user="miroslavuzice87">
+    <tag k="addr:city" v="Valera"/>
+    <tag k="addr:postcode" v="3101"/>
+    <tag k="addr:street" v="Calle 9"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="description" v="Ya abrimos nuestra segunda sucursal en el centro de Valera Productos importados al mejor precio"/>
+    <tag k="email" v="ventas@market.com.ve"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="USA MARKET"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
+    <tag k="opening_hours:covid19" v="open"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+584120175472"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="start_date" v="2022-04-26"/>
+    <tag k="website" v="www.market.com.ve"/>
+  </node>
+  <node id="9713107703" lat="9.3005863" lon="-70.6138441" version="1" timestamp="2022-05-04T06:18:18Z" changeset="120525817" uid="4611642" user="miroslavuzice87">
+    <tag k="addr:city" v="Valera"/>
+    <tag k="addr:postcode" v="3101"/>
+    <tag k="addr:street" v="Avenida Bolívar"/>
+    <tag k="description" v="Productos importados al mejor precio"/>
+    <tag k="email" v="ventas@market.com.ve"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="USA MARKET"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_debit" v="yes"/>
+    <tag k="phone" v="+584120175274"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="start_date" v="2021-02-15"/>
+    <tag k="website" v="www.market.com.ve"/>
+  </node>
+  <node id="9713321069" lat="40.9024409" lon="14.3559825" version="1" timestamp="2022-05-04T08:18:26Z" changeset="120530420" uid="2201521" user="quibitcoin">
+    <tag k="addr:city" v="Casalnuovo di Napoli"/>
+    <tag k="addr:housenumber" v="275"/>
+    <tag k="addr:postcode" v="80013"/>
+    <tag k="addr:street" v="Via Nazionale delle Puglie"/>
+    <tag k="description" v="Abbigliamento professionale, ingrosso e dettaglio. Forniture aziendali, stampa serigrafica, ricami personalizzati, gadgets aziendali. Abbigliamento, scarpe e accessori."/>
+    <tag k="email" v="info@texgroupitalia.com"/>
+    <tag k="name" v="Texgroupitalia"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 0815227724"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="website" v="http://www.texgroupitalia.com"/>
   </node>
 
 </osm>
