@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-06T05:26:59Z"/>
+<meta osm_base="2022-05-07T05:26:27Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -3070,7 +3070,7 @@
     <tag k="rooms" v="4"/>
     <tag k="tourism" v="guest_house"/>
   </node>
-  <node id="1590910234" lat="48.1466359" lon="17.1297292" version="17" timestamp="2021-10-04T21:31:07Z" changeset="112096153" uid="1617449" user="aceman444">
+  <node id="1590910234" lat="48.1466359" lon="17.1297292" version="18" timestamp="2022-05-06T07:33:27Z" changeset="120617192" uid="9641379" user="Pan Perníček">
     <tag k="brand" v="Alza"/>
     <tag k="brand:wikidata" v="Q10786832"/>
     <tag k="brand:wikipedia" v="en:Alza.cz"/>
@@ -3082,7 +3082,7 @@
     <tag k="name:cz" v="Alza.cz"/>
     <tag k="name:hu" v="Alza.hu"/>
     <tag k="name:sk" v="Alza.sk"/>
-    <tag k="opening_hours" v="Mo-Su 08:00-21:00"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:maestro" v="yes"/>
@@ -62062,11 +62062,11 @@
     <tag k="shop" v="erotic"/>
     <tag k="website" v="http://www.videomania24h.it"/>
   </node>
-  <node id="5291164118" lat="46.9921629" lon="6.9364777" version="1" timestamp="2017-12-18T08:28:33Z" changeset="54723096" uid="7276306" user="mehmetongan">
+  <node id="5291164118" lat="46.9921629" lon="6.9364777" version="2" timestamp="2022-05-06T21:18:52Z" changeset="120647512" uid="1894634" user="Wikilux">
     <tag k="addr:city" v="Neuchâtel"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="2000"/>
-    <tag k="addr:street" v="Rue des Beaux Arts"/>
+    <tag k="addr:street" v="Rue des Beaux-Arts"/>
     <tag k="description" v="UX DESIGN &amp; WEP DEVELOPMENT "/>
     <tag k="name" v="RACCOON SARL"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -78990,6 +78990,36 @@
     <tag k="phone" v="+39 0815227724"/>
     <tag k="shop" v="clothes"/>
     <tag k="website" v="http://www.texgroupitalia.com"/>
+  </node>
+  <node id="9720213433" lat="47.4187294" lon="9.3666985" version="1" timestamp="2022-05-06T10:18:48Z" changeset="120623423" uid="15860602" user="Steven Merkle">
+    <tag k="addr:city" v="St. Gallen"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="9000"/>
+    <tag k="addr:street" v="Geltenwilenstrasse"/>
+    <tag k="name" v="Sky Work Images"/>
+    <tag k="office" v="company"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+41 76 418 00 00"/>
+    <tag k="website" v="https://skyworkimages.ch/"/>
+  </node>
+  <node id="9720809405" lat="48.2064040" lon="16.3696416" version="1" timestamp="2022-05-06T14:59:12Z" changeset="120634782" uid="8772934" user="sgnak">
+    <tag k="addr:city" v="Wien"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Spiegelgasse"/>
+    <tag k="contact:email" v="office@auktioneum.com"/>
+    <tag k="contact:website" v="https://auktioneum-shop.com"/>
+    <tag k="facebook" v="s://m.facebook.com/auktioneum/"/>
+    <tag k="name" v="Auktioneum"/>
+    <tag k="operator" v="Auktioneum GmbH"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+4318909095"/>
+    <tag k="shop" v="antiques"/>
+    <tag k="webshop" v="www.auktioneum-shop.com"/>
+    <tag k="website" v="https://auktioneum.at/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
