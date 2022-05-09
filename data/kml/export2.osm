@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-08T05:26:26Z"/>
+<meta osm_base="2022-05-09T05:30:44Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -3844,9 +3844,10 @@
     <tag k="website" v="https://www.facebook.com/Ullallastore"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1879020382" lat="13.8635545" lon="100.6171651" version="2" timestamp="2015-01-14T17:16:58Z" changeset="28142816" uid="2574718" user="amadeo1988">
+  <node id="1879020382" lat="13.8635545" lon="100.6171651" version="3" timestamp="2022-05-08T12:04:26Z" changeset="120699712" uid="2104834" user="Igor Bubelov">
     <tag k="name" v="กองตำรวจสื่อสาร"/>
     <tag k="name:en" v="Logo BKK | Logo design Bangkok"/>
+    <tag k="office" v="graphic_design"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.logobkk.com"/>
   </node>
@@ -22457,19 +22458,6 @@
     <tag k="phone:mnemonic" v="+1-888-NETACOM"/>
     <tag k="website" v="www.Netacom.com"/>
   </node>
-  <node id="2639344102" lat="13.7250885" lon="100.5209142" version="2" timestamp="2018-01-28T17:59:13Z" changeset="55836199" uid="213831" user="Josef73">
-    <tag k="addr:city" v="บางรัก"/>
-    <tag k="addr:housename" v="Global Group Building"/>
-    <tag k="addr:housenumber" v="76-78"/>
-    <tag k="addr:postcode" v="10500"/>
-    <tag k="addr:street" v="ซอยปราโมทย์ ถนนสุรวงศ์"/>
-    <tag k="name" v="Global ICT (Thailand)"/>
-    <tag k="note" v="Bitcoin Exchange in Thai Baht Bitcoin payments for Google Apps Business Bitcoin payments for Web Hosting"/>
-    <tag k="office" v="it"/>
-    <tag k="opening_hours" v="Mo-Fr 08:30-17:30"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.ecoins.in.th"/>
-  </node>
   <node id="2639492391" lat="53.5474173" lon="-2.6332938" version="6" timestamp="2019-03-23T01:31:47Z" changeset="68432302" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Wigan"/>
     <tag k="addr:housenumber" v="42B"/>
@@ -24881,7 +24869,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="jphams.com"/>
   </node>
-  <node id="2670568712" lat="45.5094785" lon="12.0381052" version="8" timestamp="2016-12-27T18:01:11Z" changeset="44712242" uid="2201521" user="quibitcoin">
+  <node id="2670568712" lat="45.5094785" lon="12.0381052" version="9" timestamp="2022-05-08T16:24:50Z" changeset="120709454" uid="80863" user="Alepoz">
     <tag k="addr:city" v="Santa Maria di Sala"/>
     <tag k="addr:postcode" v="30036"/>
     <tag k="addr:street" v="Via dei Gelsi"/>
@@ -24890,7 +24878,7 @@
     <tag k="name" v="RM impianti"/>
     <tag k="note" v="Installazione e manutenzione impianti elettrici; installazione impianti antifurto, videosorveglianza e rete dati."/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 331 3547496"/>
+    <tag k="phone" v="+39 331 354 7496"/>
   </node>
   <node id="2670876975" lat="51.9095206" lon="4.4563432" version="3" timestamp="2019-03-28T01:09:58Z" changeset="68608225" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Rotterdam"/>
@@ -33941,7 +33929,7 @@
     <tag k="website" v="http://namasteclinic.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2791878069" lat="30.9909486" lon="-83.3750906" version="4" timestamp="2019-05-07T07:54:26Z" changeset="69963783" uid="1624486" user="thetornado76">
+  <node id="2791878069" lat="30.9909486" lon="-83.3750906" version="5" timestamp="2022-05-08T08:24:25Z" changeset="120692789" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Hahira"/>
     <tag k="addr:housenumber" v="300"/>
     <tag k="addr:postcode" v="31632"/>
@@ -33952,7 +33940,7 @@
     <tag k="opening_hours" v="Mo-Sa 12:00-19:00; Su 12:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="229-375-9123"/>
-    <tag k="website" v="http://sweetsbystacey.com/"/>
+    <tag k="website" v="https://sweetsbystacey.com/"/>
   </node>
   <node id="2791931015" lat="44.1075741" lon="9.8148201" version="3" timestamp="2016-12-27T22:42:49Z" changeset="44717611" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="La Spezia"/>
@@ -34963,11 +34951,12 @@
     <tag k="phone" v="08932-08932"/>
     <tag k="website" v="http://www.siamresortsgroup.com/"/>
   </node>
-  <node id="2825869731" lat="13.6117773" lon="100.3896911" version="3" timestamp="2018-12-13T08:17:05Z" changeset="65433548" uid="694726" user="aseerel4c26">
+  <node id="2825869731" lat="13.6117773" lon="100.3896911" version="4" timestamp="2022-05-08T06:16:57Z" changeset="120689835" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Bangkok"/>
     <tag k="addr:housenumber" v="355"/>
     <tag k="addr:postcode" v="10150"/>
     <tag k="addr:street" v="Samae Dam soi 5, Bang Khun Thian"/>
+    <tag k="company" v="transport"/>
     <tag k="name" v="Bangkok Limousine"/>
     <tag k="office" v="company"/>
     <tag k="opening_hours" v="10:00-23:59"/>
@@ -36120,11 +36109,11 @@
     <tag k="website" v="https://thinkingofholland.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2866562247" lat="13.7205902" lon="100.5392391" version="1" timestamp="2014-05-18T15:05:52Z" changeset="22408315" uid="533395" user="Kalon Gerber">
+  <node id="2866562247" lat="13.7205902" lon="100.5392391" version="2" timestamp="2022-05-08T10:37:31Z" changeset="120697011" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Bangkok"/>
     <tag k="addr:housenumber" v="253/4"/>
     <tag k="addr:street" v="Suanplu Soi 6,Sathorn Rd.,"/>
-    <tag k="amenity" v="Spa"/>
+    <tag k="amenity" v="spa"/>
     <tag k="name" v="The Prince - Men's Spa"/>
     <tag k="opening_hours" v="13:00 - 21:00"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -37462,6 +37451,21 @@
     <tag k="phone" v="+855 (0)88 484 0808"/>
     <tag k="shop" v="travel_agency"/>
     <tag k="website" v="http://www.asianests.com/"/>
+  </node>
+  <node id="2906016059" lat="22.3317648" lon="114.1623175" version="8" timestamp="2022-05-08T10:18:32Z" changeset="120696357" uid="6250193" user="Kovoschiz">
+    <tag k="addr:city" v="Shum Shui Po"/>
+    <tag k="addr:country" v="HK"/>
+    <tag k="addr:place" v="LG, Golden Computer Arcade"/>
+    <tag k="addr:street" v="146-152 Fuk Wa Street"/>
+    <tag k="amenity" v="atm"/>
+    <tag k="atm" v="yes"/>
+    <tag k="atm:bitcoin" v="yes"/>
+    <tag k="name" v="Bitculus Bitcoin ATM"/>
+    <tag k="note" v="Next to escalator, LG, Golden Computer Arcade"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="source" v="Kaart Ground Survey 2017"/>
+    <tag k="website" v="http://www.bitculus.com/"/>
   </node>
   <node id="2906016997" lat="18.2409545" lon="-66.0131055" version="2" timestamp="2014-06-08T23:32:40Z" changeset="22819755" uid="2052019" user="C2Square">
     <tag k="name" v="RS Performance Auto Repair Shop"/>
@@ -40810,7 +40814,7 @@
     <tag k="name" v="Marathon Coffee"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2991879246" lat="48.0417610" lon="-122.4239539" version="2" timestamp="2019-05-29T14:02:15Z" changeset="70734820" uid="8339" user="mtmail">
+  <node id="2991879246" lat="48.0417904" lon="-122.4239366" version="3" timestamp="2022-05-08T20:13:58Z" changeset="120717960" uid="384146" user="wislander">
     <tag k="addr:city" v="Langley"/>
     <tag k="addr:postcode" v="98260"/>
     <tag k="addr:state" v="WA"/>
@@ -56722,7 +56726,7 @@
     <tag k="source:date" v="2013-12-03"/>
     <tag k="website" v="https://johndoe-et-fils.com"/>
   </node>
-  <node id="4342064591" lat="22.3230973" lon="114.1607569" version="1" timestamp="2016-08-09T04:17:12Z" changeset="41337128" uid="1836965" user="Liongrass">
+  <node id="4342064591" lat="22.3230973" lon="114.1607569" version="2" timestamp="2022-05-08T07:12:37Z" changeset="120690949" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Tai Kok Tsui, Kowloon"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="合群街 Hop Kwan Street"/>
@@ -56733,7 +56737,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="takeaway" v="yes"/>
     <tag k="twitter" v="CrescentMoonHk"/>
-    <tag k="website" v="http://www.openrice.com/en/hongkong/r-the-crescent-moon-tai-kok-tsui-western-r499711"/>
+    <tag k="website" v="https://www.openrice.com/en/hongkong/r-the-crescent-moon-tai-kok-tsui-western-r499711"/>
   </node>
   <node id="4359584199" lat="23.4593184" lon="120.4434129" version="9" timestamp="2020-09-17T09:29:29Z" changeset="91036192" uid="2369700" user="daivdds">
     <tag k="addr:street" v="民生南路"/>
@@ -67701,7 +67705,7 @@
     <tag k="phone" v="+5512981501228"/>
     <tag k="website" v="https://www.gustavobarbosafotografia.com.br"/>
   </node>
-  <node id="6075173206" lat="13.7896610" lon="100.5777726" version="3" timestamp="2018-11-20T06:09:03Z" changeset="64682539" uid="9120303" user="YIB">
+  <node id="6075173206" lat="13.7896610" lon="100.5777726" version="4" timestamp="2022-05-08T10:51:09Z" changeset="120697481" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Bangkok"/>
     <tag k="addr:housenumber" v="57"/>
     <tag k="addr:street" v="ถนนสุทธิสารวินิจฉัย"/>
@@ -67712,6 +67716,7 @@
     <tag k="note" v="Ground Level at Grand Inter Resident Building. Parking Space In Front Shop."/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+66633822486"/>
+    <tag k="shop" v="hairdresser"/>
   </node>
   <node id="6078804972" lat="46.0627316" lon="14.5675524" version="1" timestamp="2018-11-21T09:43:39Z" changeset="64732491" uid="9126450" user="BexELI">
     <tag k="payment:bitcoin" v="yes"/>
@@ -73430,7 +73435,7 @@
     <tag k="phone" v="+447894438974"/>
     <tag k="website" v="https://cryptolocalatm.com"/>
   </node>
-  <node id="8104401139" lat="49.1698431" lon="-123.1361800" version="4" timestamp="2022-03-24T12:49:40Z" changeset="118863784" uid="12424494" user="lovelyfurball88">
+  <node id="8104401139" lat="49.1698431" lon="-123.1361800" version="5" timestamp="2022-05-08T09:02:44Z" changeset="120693820" uid="6670496" user="Zarr">
     <tag k="addr:housenumber" v="6000"/>
     <tag k="addr:street" v="No. 3 Road"/>
     <tag k="addr:unit" v="104"/>
@@ -73444,7 +73449,7 @@
     <tag k="opening_hours" v="Mo-Fr 09:00-19:00, Sa-Su 13:00-17:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
-    <tag k="phone" v="+1 6045007980"/>
+    <tag k="phone" v="+1-604-500-7980"/>
     <tag k="website" v="https://bitcoiniacs.com/bitcoin-atm-richmond"/>
   </node>
   <node id="8140859630" lat="37.4257271" lon="47.7019580" version="1" timestamp="2020-11-19T05:50:44Z" changeset="94411954" uid="12199445" user="webgostar">
@@ -79021,6 +79026,36 @@
     <tag k="webshop" v="www.auktioneum-shop.com"/>
     <tag k="website" v="https://auktioneum.at/"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9724646364" lat="-6.1676101" lon="106.6174758" version="1" timestamp="2022-05-08T13:15:53Z" changeset="120702264" uid="15887611" user="AlvenR">
+    <tag k="addr:city" v="Kota Tangerang"/>
+    <tag k="addr:housenumber" v="01"/>
+    <tag k="addr:postcode" v="15112"/>
+    <tag k="addr:street" v="Jalan Pada Suka I"/>
+    <tag k="description" v="Workshop Neon Sign, Custom Neon Sign, Wall Decoration"/>
+    <tag k="name" v="Flexiespop Neon Store"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
+    <tag k="opening_hours:covid19" v="open"/>
+    <tag k="operator" v="Alven"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:electronic_purses" v="yes"/>
+    <tag k="phone" v="0895365401011"/>
+    <tag k="shop" v="interior_decoration"/>
+    <tag k="website" v="flexiespop.store"/>
+  </node>
+  <node id="9724723243" lat="40.1864152" lon="44.5078828" version="1" timestamp="2022-05-08T14:11:34Z" changeset="120704197" uid="15885307" user="mikayel22">
+    <tag k="addr:city" v="Yerevan"/>
+    <tag k="addr:housenumber" v="12/13"/>
+    <tag k="addr:street" v="Saryan"/>
+    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:eur" v="yes"/>
+    <tag k="currency:rub" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
   </node>
 
 </osm>
