@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-10T05:27:39Z"/>
+<meta osm_base="2022-05-11T05:36:27Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -13824,10 +13824,10 @@
     <tag k="phone" v="+420 733 122 830"/>
     <tag k="website" v="http://www.pretiko.cz"/>
   </node>
-  <node id="2564607228" lat="53.4602855" lon="14.5517663" version="4" timestamp="2013-12-04T20:48:23Z" changeset="19278739" uid="603523" user="maciek-szn">
+  <node id="2564607228" lat="53.4602855" lon="14.5517663" version="5" timestamp="2022-05-10T08:28:11Z" changeset="120781448" uid="15513726" user="Monika G | Yanosik">
     <tag k="name" v="Remonty Szczecin"/>
     <tag k="name:de" v="Renovierungsarbeiten Stettin"/>
-    <tag k="office" v="construction_company"/>
+    <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+48 514157327"/>
     <tag k="website" v="http://www.baltic-development.pl"/>
@@ -25371,7 +25371,7 @@
     <tag k="phone" v="+61 07 3341 9166"/>
     <tag k="website" v="https://www.craftbuilt.com.au/"/>
   </node>
-  <node id="2680531654" lat="22.3496342" lon="91.8203780" version="1" timestamp="2014-02-19T12:49:20Z" changeset="20655597" uid="1651798" user="oldenburg69">
+  <node id="2680531654" lat="22.3496342" lon="91.8203780" version="2" timestamp="2022-05-11T04:14:46Z" changeset="120818059" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Chittagong"/>
     <tag k="addr:housename" v="Lalkhan Bazar"/>
     <tag k="addr:street" v="Highway Society"/>
@@ -25379,7 +25379,7 @@
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+880 1712945007"/>
-    <tag k="website" v="http://www.webguruit.com/"/>
+    <tag k="website" v="https://www.webguruit.com/"/>
   </node>
   <node id="2680538852" lat="-27.5124417" lon="153.1805172" version="4" timestamp="2020-08-06T08:35:03Z" changeset="89025176" uid="4637308" user="nuklearelement">
     <tag k="addr:housenumber" v="9/1440"/>
@@ -26146,7 +26146,7 @@
     <tag k="office" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2691870871" lat="44.1143142" lon="15.2411864" version="3" timestamp="2014-07-06T17:51:40Z" changeset="23988883" uid="181135" user="Manu1400">
+  <node id="2691870871" lat="44.1142751" lon="15.2411695" version="4" timestamp="2022-05-10T11:30:50Z" changeset="120789040" uid="14082193" user="zildyanVH">
     <tag k="addr:city" v="zadar"/>
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:postcode" v="23000"/>
@@ -28085,12 +28085,13 @@
     <tag k="source:date" v="2014-02-11"/>
     <tag k="website" v="http://www.huidverzorgingcremedelacreme.nl"/>
   </node>
-  <node id="2719883658" lat="51.9877773" lon="5.9084472" version="3" timestamp="2019-03-28T11:44:19Z" changeset="68622180" uid="9451067" user="b-jazz-bot">
+  <node id="2719883658" lat="51.9877773" lon="5.9084472" version="4" timestamp="2022-05-10T15:04:24Z" changeset="120798412" uid="10865318" user="Reisinformatiegroep">
     <tag k="addr:city" v="Arnhem"/>
     <tag k="addr:housenumber" v="59"/>
     <tag k="addr:postcode" v="6814BJ"/>
     <tag k="addr:street" v="Apeldoornseweg"/>
     <tag k="amenity" v="dentist"/>
+    <tag k="healthcare" v="dentist"/>
     <tag k="name" v="Tandartsenpraktijk Apeldoornseweg 59"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="BAG"/>
@@ -29325,14 +29326,15 @@
     <tag k="twitter" v="TheMoveArnhem"/>
     <tag k="website" v="http://www.themove.nl"/>
   </node>
-  <node id="2725644769" lat="51.9810519" lon="5.9102373" version="5" timestamp="2017-11-17T12:08:08Z" changeset="53872395" uid="192467" user="goedegazelle">
+  <node id="2725644769" lat="51.9810519" lon="5.9102373" version="6" timestamp="2022-05-10T15:04:24Z" changeset="120798412" uid="10865318" user="Reisinformatiegroep">
     <tag k="addr:city" v="Arnhem"/>
     <tag k="addr:housenumber" v="1A"/>
     <tag k="addr:postcode" v="6811DP"/>
     <tag k="addr:street" v="Klarestraat"/>
     <tag k="name" v="Mimint"/>
+    <tag k="organic" v="only"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="deli;gift;organic"/>
+    <tag k="shop" v="deli;gift;supermarket"/>
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-02-11"/>
     <tag k="website" v="http://www.mimint.nl/"/>
@@ -29630,18 +29632,19 @@
     <tag k="name" v="The Sandwicherie"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2726872491" lat="51.9835851" lon="5.9032071" version="13" timestamp="2022-01-06T10:29:26Z" changeset="115830635" uid="10875409" user="Friendly_Ghost">
+  <node id="2726872491" lat="51.9835851" lon="5.9032071" version="14" timestamp="2022-05-10T15:04:24Z" changeset="120798412" uid="10865318" user="Reisinformatiegroep">
     <tag k="addr:city" v="Arnhem"/>
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:postcode" v="6811KB"/>
     <tag k="addr:street" v="Willemsplein"/>
+    <tag k="branch" v="City Arnhem Centraal"/>
     <tag k="brand" v="Spar"/>
     <tag k="brand:wikidata" v="Q610492"/>
     <tag k="brand:wikipedia" v="nl:Spar (supermarkt)"/>
     <tag k="contact:twitter" v="@SparArnhemCentr"/>
     <tag k="email" v="luke@spararnhemcentraal.nl"/>
     <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="SPAR City Arnhem Centraal"/>
+    <tag k="name" v="Spar"/>
     <tag k="opening_hours" v="Mo-We 07:00-23:00; Th-Sa 07:00-24:00; Su 10:00-22:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:maestro" v="yes"/>
@@ -36165,7 +36168,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="smoking" v="outside"/>
   </node>
-  <node id="2868475160" lat="46.0521794" lon="14.5043142" version="6" timestamp="2017-05-29T17:28:30Z" changeset="49080126" uid="58976" user="Mark Martinec">
+  <node id="2868475160" lat="46.0521794" lon="14.5043142" version="7" timestamp="2022-05-10T13:15:33Z" changeset="120793801" uid="3834" user="StefanB">
     <tag k="addr:city" v="Ljubljana"/>
     <tag k="addr:housenumber" v="38"/>
     <tag k="addr:postcode" v="1000"/>
@@ -36177,6 +36180,7 @@
     <tag k="tourism" v="hostel"/>
     <tag k="website" v="http://hostel-tresor.si"/>
     <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q111119622"/>
   </node>
   <node id="2868480920" lat="46.0485188" lon="14.5019499" version="3" timestamp="2019-03-29T04:36:11Z" changeset="68651195" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Ljubljana"/>
@@ -59058,10 +59062,10 @@
     <tag k="phone" v="+1-305-826-8600"/>
     <tag k="website" v="https://albumcrafters.com/"/>
   </node>
-  <node id="4891828690" lat="46.1963081" lon="11.1287084" version="1" timestamp="2017-06-02T11:08:25Z" changeset="49193037" uid="4533749" user="inbitcoin">
+  <node id="4891828690" lat="46.1963081" lon="11.1287084" version="2" timestamp="2022-05-10T11:08:33Z" changeset="120788171" uid="8522139" user="mosis99">
     <tag k="addr:city" v="San Michele all'Adige"/>
     <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:postcode" v="38010"/>
+    <tag k="addr:postcode" v="38098"/>
     <tag k="addr:street" v="Via Tonale"/>
     <tag k="craft" v="brewery"/>
     <tag k="currency:XBT" v="yes"/>
@@ -60249,7 +60253,7 @@
     <tag k="phone" v="+39 049777000"/>
     <tag k="website" v="https://wise.pro/"/>
   </node>
-  <node id="5064859524" lat="40.6611602" lon="14.4393078" version="1" timestamp="2017-08-28T19:02:49Z" changeset="51519249" uid="2201521" user="quibitcoin">
+  <node id="5064859524" lat="40.6611602" lon="14.4393078" version="2" timestamp="2022-05-10T19:02:57Z" changeset="120807538" uid="12424494" user="lovelyfurball88">
     <tag k="addr:city" v="Vico Equense"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:postcode" v="80069"/>
@@ -60258,7 +60262,7 @@
     <tag k="email" v="coppolavincenzo1@alice.it"/>
     <tag k="name" v="Airbnb/Casa vacanze Tre Fratelli"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="3332869923"/>
+    <tag k="phone" v="+39 3332869923"/>
     <tag k="tourism" v="apartment"/>
   </node>
   <node id="5069371904" lat="45.8875765" lon="11.0450566" version="4" timestamp="2021-10-07T13:04:55Z" changeset="112216031" uid="8522139" user="mosis99">
@@ -67846,6 +67850,34 @@
     <tag k="phone" v="+905338707407"/>
     <tag k="tourism" v="Transportation"/>
     <tag k="website" v="https://cyprustaxi.net"/>
+  </node>
+  <node id="6107248705" lat="51.2234030" lon="6.7892977" version="3" timestamp="2022-05-10T10:08:28Z" changeset="120785792" uid="15132606" user=":DownTownBikes">
+    <tag k="addr:city" v="Düsseldorf"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="40210"/>
+    <tag k="addr:street" v="Immermannstraße"/>
+    <tag k="brand" v="TERN, QiO, Dahon, BBF, Kayza, fahrrad.de, Prophete, Pentagon"/>
+    <tag k="description" v="für Bosch E-Bikes führen wir Diagnosen durch sowie Softwareupdates.&#x0a;spezialisert auf Falträder insbesondere Dahon, BBF und TERN,&#x0a;Kooperation mit fahrrad.de / Prophete / Pentagon&#x0a;spezialisiert auf Wartung &amp; Instandsetzung"/>
+    <tag k="email" v="david@downtownbikes.de"/>
+    <tag k="name" v=":DownTownBikes &amp; falt2rad am Hbf."/>
+    <tag k="opening_hours" v="Mo-Fr 12:00-17:00"/>
+    <tag k="opening_hours:covid19" v="same"/>
+    <tag k="operator" v="David Keng"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:girocard" v="yes"/>
+    <tag k="phone" v="0211 – 26 19 49 69"/>
+    <tag k="service:bicycle:Bicycle_Sales_and_Service" v="yes"/>
+    <tag k="service:bicycle:bicycle" v="yes"/>
+    <tag k="service:bicycle:bike" v="yes"/>
+    <tag k="service:bicycle:charging" v="yes"/>
+    <tag k="service:bicycle:ebike" v="yes"/>
+    <tag k="service:bicycle:repair" v="yes"/>
+    <tag k="service:bicycle:service" v="yes"/>
+    <tag k="shop" v="bicycle"/>
+    <tag k="website" v="https://downtownbikes.de"/>
   </node>
   <node id="6109085492" lat="45.8910919" lon="11.0404194" version="2" timestamp="2019-02-25T18:51:10Z" changeset="67558723" uid="76312" user="scratera">
     <tag k="currency:XBT" v="yes"/>
