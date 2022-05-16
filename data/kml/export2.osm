@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57.2 48842a1b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-15T05:30:04Z"/>
+<meta osm_base="2022-05-16T05:31:24Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -5854,13 +5854,13 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="tourism" v="guest_house"/>
   </node>
-  <node id="2381153680" lat="49.8706005" lon="-119.5432898" version="1" timestamp="2013-07-11T11:01:57Z" changeset="16911717" uid="244754" user="Janjko">
+  <node id="2381153680" lat="49.8706005" lon="-119.5432898" version="2" timestamp="2022-05-15T22:18:48Z" changeset="121026906" uid="9451067" user="b-jazz-bot">
     <tag k="addr:housenumber" v="2306"/>
     <tag k="addr:street" v="Hayman Road"/>
     <tag k="name" v="Rollingdale Winery"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="wine"/>
-    <tag k="website" v="http://www.rollingdale.ca"/>
+    <tag k="website" v="https://www.rollingdale.ca/"/>
   </node>
   <node id="2383902858" lat="52.9545579" lon="-1.1525597" version="9" timestamp="2022-03-22T20:00:40Z" changeset="118792554" uid="242345" user="confusedbuffalo">
     <tag k="addr:city" v="Nottingham"/>
@@ -26972,18 +26972,6 @@
     <tag k="shop" v="optician"/>
     <tag k="website" v="https://www.facebook.com/OptykDoZobaczenia"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="2707957671" lat="43.7139790" lon="-70.3335761" version="5" timestamp="2020-06-02T01:21:40Z" changeset="86067866" uid="10307443" user="blackboxlogic+bot">
-    <tag k="addr:city" v="Westbrook"/>
-    <tag k="addr:housenumber" v="387"/>
-    <tag k="addr:postcode" v="04092"/>
-    <tag k="addr:state" v="ME"/>
-    <tag k="addr:street" v="Bridgton Road"/>
-    <tag k="building" v="apartments"/>
-    <tag k="building:levels" v="2"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-207-828-5700"/>
-    <tag k="website" v="https://jimvanpm.com/"/>
   </node>
   <node id="2708204213" lat="38.7285510" lon="-90.3344140" version="2" timestamp="2014-03-09T14:36:22Z" changeset="21006684" uid="1974820" user="LOGOSIdentity">
     <tag k="name" v="LOGOS Identity"/>
@@ -75658,6 +75646,19 @@
     <tag k="name" v="Prova sr"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
+  <node id="8899304770" lat="8.0358258" lon="98.8416794" version="2" timestamp="2022-05-16T03:48:49Z" changeset="121030741" uid="2104834" user="Igor Bubelov">
+    <tag k="addr:city" v="Krabi"/>
+    <tag k="addr:housenumber" v="1004"/>
+    <tag k="addr:postcode" v="81180"/>
+    <tag k="addr:street" v="Moo. 2 Soi Suan Tu Rian, Amphoe Muang"/>
+    <tag k="email" v="info.krabi@pavilionshotels.com"/>
+    <tag k="name" v="The Pavilions Anana Krabi"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bitcoincash" v="yes"/>
+    <tag k="phone" v="+66 7568 0580"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.pavilionshotels.com/anana-krabi"/>
+  </node>
   <node id="8915713782" lat="40.4864865" lon="17.6494148" version="1" timestamp="2021-07-13T07:18:17Z" changeset="107885271" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Oria"/>
     <tag k="addr:housenumber" v="8/A"/>
@@ -79026,6 +79027,19 @@
     <tag k="phone" v="+66 7637 1000"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://sripanwa.com/"/>
+  </node>
+  <node id="9742516781" lat="8.0228101" lon="98.3017026" version="1" timestamp="2022-05-16T03:37:46Z" changeset="121030562" uid="2104834" user="Igor Bubelov">
+    <tag k="addr:city" v="Phuket"/>
+    <tag k="addr:housenumber" v="31/1"/>
+    <tag k="addr:postcode" v="83000"/>
+    <tag k="addr:street" v="Moo 6 Cherngtalay Thalang"/>
+    <tag k="email" v="residences@pavilionshotels.com"/>
+    <tag k="name" v="The Pavilions Phuket"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+66 7631 7600"/>
+    <tag k="rooms" v="95"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.pavilionshotels.com/residences/phuket/"/>
   </node>
 
 </osm>
