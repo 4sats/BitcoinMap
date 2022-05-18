@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-17T05:31:53Z"/>
+<meta osm_base="2022-05-18T05:31:54Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -2787,7 +2787,7 @@
     <tag k="website" v="http://theloniousmonkfish.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1432280517" lat="37.4269015" lon="-122.1479633" version="6" timestamp="2015-01-07T20:36:50Z" changeset="27984462" uid="2555308" user="Jack J Jia">
+  <node id="1432280517" lat="37.4269015" lon="-122.1479630" version="7" timestamp="2022-05-18T05:11:11Z" changeset="121125555" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Palo Alto"/>
     <tag k="addr:housenumber" v="2123"/>
     <tag k="addr:postcode" v="94306"/>
@@ -2797,6 +2797,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="(650) 330-1201"/>
+    <tag k="shop" v="video"/>
     <tag k="website" v="http://reddoormovies.com/"/>
   </node>
   <node id="1470674920" lat="48.1471429" lon="17.1188022" version="8" timestamp="2019-03-29T20:24:47Z" changeset="68678443" uid="9451067" user="b-jazz-bot">
@@ -5482,8 +5483,9 @@
     <tag k="opening_hours" v="We, Th, Sa, Su 16:00-20:00; Fr 12:00-20:00"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2331706991" lat="44.1976381" lon="28.6274774" version="6" timestamp="2016-04-13T12:27:23Z" changeset="38523474" uid="3819711" user="Giuniet Tair">
-    <tag k="addr:housenumber" v="H8"/>
+  <node id="2331706991" lat="44.1976381" lon="28.6274774" version="7" timestamp="2022-05-17T12:51:06Z" changeset="121099345" uid="3444929" user="dodelinho">
+    <tag k="addr:city" v="Constanța"/>
+    <tag k="addr:housenumber" v="118"/>
     <tag k="addr:street" v="Strada Bogdan Petriceicu Hașdeu"/>
     <tag k="alt_name" v="Terapii Complementare"/>
     <tag k="name" v="Massage, Reiki, Reflexotherapy"/>
@@ -8868,7 +8870,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://stuartnafey.com"/>
   </node>
-  <node id="2526752943" lat="49.8807223" lon="-97.1231847" version="2" timestamp="2013-11-10T20:10:07Z" changeset="18823777" uid="28559" user="Stemby">
+  <node id="2526752943" lat="49.8807223" lon="-97.1231847" version="3" timestamp="2022-05-17T14:40:28Z" changeset="121104432" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Winnipeg"/>
     <tag k="addr:housenumber" v="284"/>
     <tag k="addr:street" v="Avenue Taché Avenue"/>
@@ -8876,7 +8878,7 @@
     <tag k="name" v="Plato’s Cave"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="books"/>
-    <tag k="website" v="http://caveofplato.com/"/>
+    <tag k="website" v="https://caveofplato.com/"/>
   </node>
   <node id="2527000230" lat="52.2515730" lon="20.9168135" version="4" timestamp="2019-12-23T16:35:01Z" changeset="78782104" uid="5060085" user="Piotr Strębski">
     <tag k="description" v="Business Process optimization - IT Systems development - Bitcoin consulting"/>
@@ -26864,17 +26866,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-573-864-5790"/>
   </node>
-  <node id="2706660870" lat="52.6586671" lon="1.3255749" version="1" timestamp="2014-03-08T08:04:08Z" changeset="20982919" uid="1651798" user="oldenburg69">
-    <tag k="addr:city" v="Norwich"/>
-    <tag k="addr:housenumber" v="211"/>
-    <tag k="addr:postcode" v="NR7 8AG"/>
-    <tag k="addr:street" v="Wroxham Road"/>
-    <tag k="landuse" v="retail"/>
-    <tag k="name" v="AFK Apparel"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+44 1603 458499"/>
-    <tag k="website" v="http://www.afkapparel.co.uk/"/>
-  </node>
   <node id="2706742255" lat="32.2327348" lon="-81.4502764" version="2" timestamp="2019-05-26T13:12:38Z" changeset="70632448" uid="8339" user="mtmail">
     <tag k="addr:city" v="Ellabell"/>
     <tag k="addr:housenumber" v="339"/>
@@ -30329,7 +30320,7 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="http://littlecaesarsleavenworth.com/"/>
   </node>
-  <node id="2730712608" lat="38.9705575" lon="-94.7616936" version="2" timestamp="2016-08-02T20:38:36Z" changeset="41201253" uid="1231252" user="M Martin">
+  <node id="2730712608" lat="38.9705575" lon="-94.7616936" version="3" timestamp="2022-05-17T20:26:21Z" changeset="121116921" uid="5446055" user="torapa">
     <tag k="addr:city" v="Lenexa"/>
     <tag k="addr:housename" v="Country Hill Shopping Center"/>
     <tag k="addr:housenumber" v="18710"/>
@@ -30341,7 +30332,6 @@
     <tag k="description" v="BTC payment via Menufy."/>
     <tag k="name" v="Panzon's"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="panzons.com"/>
   </node>
   <node id="2730836804" lat="38.9714798" lon="-94.7592574" version="1" timestamp="2014-03-21T10:42:53Z" changeset="21225043" uid="1836471" user="Blobo123">
     <tag k="addr:housenumber" v="14958"/>
@@ -46269,10 +46259,11 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="Reconocimiento cortográfico de campo 2016 por KG"/>
   </node>
-  <node id="3204251539" lat="-8.7842111" lon="115.1910613" version="3" timestamp="2014-12-23T01:46:18Z" changeset="27642585" uid="2402228" user="Bitislands">
+  <node id="3204251539" lat="-8.7842111" lon="115.1910613" version="4" timestamp="2022-05-17T10:26:34Z" changeset="121092319" uid="2104834" user="Igor Bubelov">
     <tag k="name" v="Power Trees Laundry"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+62 361 5572770"/>
+    <tag k="shop" v="laundry"/>
   </node>
   <node id="3204643240" lat="48.6490804" lon="-123.4012410" version="12" timestamp="2019-02-18T01:06:20Z" changeset="67297096" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Sidney"/>
@@ -79040,6 +79031,20 @@
     <tag k="rooms" v="95"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://www.pavilionshotels.com/residences/phuket/"/>
+  </node>
+  <node id="9749784920" lat="40.9922065" lon="29.0240364" version="1" timestamp="2022-05-17T17:47:54Z" changeset="121111680" uid="15992734" user="olicoineka">
+    <tag k="amenity" v="atm"/>
+    <tag k="brand" v="Coineka"/>
+    <tag k="cash_in" v="yes"/>
+    <tag k="currency:btc" v="yes"/>
+    <tag k="currency:eth" v="yes"/>
+    <tag k="currency:others" v="yes"/>
+    <tag k="currency:try" v="yes"/>
+    <tag k="description" v="Coineka Bitcoin &amp; Kripto ATM"/>
+    <tag k="image" v="https://coineka.com/images/atms/kadikoy-ferry-terminal/main.jpg"/>
+    <tag k="name" v="Coineka Bitcoin &amp; Kripto ATM"/>
+    <tag k="operator" v="Coineka"/>
+    <tag k="payment:bitcoin" v="yes"/>
   </node>
 
 </osm>
