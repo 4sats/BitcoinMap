@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-19T05:32:10Z"/>
+<meta osm_base="2022-05-20T05:29:57Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -8673,7 +8673,7 @@
     <tag k="source" v="Website"/>
     <tag k="website" v="http://bettertax.ca/"/>
   </node>
-  <node id="2524842307" lat="16.2532304" lon="-92.1316683" version="2" timestamp="2016-06-16T23:20:36Z" changeset="40080298" uid="4130485" user="UniversidadINFORCE">
+  <node id="2524842307" lat="16.2532304" lon="-92.1316683" version="3" timestamp="2022-05-19T09:50:47Z" changeset="121186293" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Comitán de Dominguez, Chiapas"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="30018"/>
@@ -8683,7 +8683,7 @@
     <tag k="name:es" v="Instituto de Formacion Empresarial"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="(963) 63 6 74 98"/>
-    <tag k="website" v="http://inforce.com.mx/"/>
+    <tag k="website" v="https://inforce.com.mx/"/>
   </node>
   <node id="2524859484" lat="40.8201133" lon="-73.9773778" version="3" timestamp="2019-10-16T01:38:37Z" changeset="75749035" uid="115918" user="Timothy Smith">
     <tag k="addr:city" v="Edgewater"/>
@@ -10512,18 +10512,6 @@
     <tag k="name" v="Eichenhain"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://eichenhain.com"/>
-  </node>
-  <node id="2550345856" lat="51.3875906" lon="12.3809922" version="2" timestamp="2014-10-17T16:35:05Z" changeset="26149939" uid="78269" user="tastenmensch">
-    <tag k="addr:city" v="Leipzig"/>
-    <tag k="addr:country" v="DE"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:postcode" v="04129"/>
-    <tag k="addr:street" v="Stauffacherweg"/>
-    <tag k="email" v="support@bit-card.com"/>
-    <tag k="name" v="5C-Basic GmbH &amp; Co. KG"/>
-    <tag k="office" v="marketing"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.bit-card.de"/>
   </node>
   <node id="2550365703" lat="52.2841126" lon="10.5846242" version="3" timestamp="2019-03-11T14:13:05Z" changeset="68024021" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Braunschweig"/>
@@ -16786,12 +16774,12 @@
     <tag k="shop" v="photo"/>
     <tag k="website" v="http://charliemcrae.com"/>
   </node>
-  <node id="2587540738" lat="44.4332904" lon="26.0949030" version="7" timestamp="2019-08-19T17:44:18Z" changeset="73509465" uid="226857" user="Pada">
+  <node id="2587540738" lat="44.4332904" lon="26.0949030" version="8" timestamp="2022-05-19T11:07:15Z" changeset="121189907" uid="13300009" user="Bolt026">
     <tag k="addr:city" v="București"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="050071"/>
     <tag k="addr:postcode:source" v="Date de la Poșta Română, publicate sub Licența pentru Guvernare Deschisă v1.0 la http://date.gov.ro/organization/posta-romana"/>
-    <tag k="addr:street" v="Strada Lipscani"/>
+    <tag k="addr:street" v="Strada Ion Brezoianu"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="name" v="Energiea"/>
     <tag k="opening_hours" v="Mo-Fr 12:00-00:00"/>
@@ -75853,11 +75841,13 @@
     <tag k="phone" v="55 11 94668 8713"/>
     <tag k="shop" v="baby_goods"/>
   </node>
-  <node id="9118126007" lat="53.5350717" lon="30.2214662" version="6" timestamp="2021-10-26T06:41:22Z" changeset="112977722" uid="481934" user="iWowik">
+  <node id="9118126007" lat="53.5350717" lon="30.2214662" version="7" timestamp="2022-05-20T01:31:27Z" changeset="121219189" uid="278800" user="tbicr">
     <tag k="addr:city" v="Быхов"/>
     <tag k="addr:housenumber" v="76Б"/>
     <tag k="addr:place" v="Колос"/>
     <tag k="name" v="Околица"/>
+    <tag k="name:be" v="Аколіца"/>
+    <tag k="name:ru" v="Околица"/>
     <tag k="opening_hours" v="Mo-Su 08:00-23:00"/>
     <tag k="opening_hours:covid19" v="same"/>
     <tag k="operator" v="ЧТУП «БелторгтрансПлюс»"/>
@@ -79027,6 +79017,34 @@
     <tag k="name" v="Coineka Bitcoin &amp; Kripto ATM"/>
     <tag k="operator" v="Coineka"/>
     <tag k="payment:bitcoin" v="yes"/>
+  </node>
+  <node id="9754621292" lat="38.0533668" lon="46.3892396" version="3" timestamp="2022-05-19T13:37:52Z" changeset="121196841" uid="10455890" user="vahidansari">
+    <tag k="addr:city" v="تبریز"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="5158375946"/>
+    <tag k="addr:street" v="میدان آذرآبادگان"/>
+    <tag k="branch" v="1"/>
+    <tag k="brand" v="ملیسک"/>
+    <tag k="email" v="info@melisak.ir"/>
+    <tag k="fax" v="04136628326"/>
+    <tag k="image" v="https://s6.uupload.ir/files/whatsapp_image_2022-05-19_at_5.54.32_pm_(1)_co7.jpeg"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="internet_access:ssid" v="melisak.ir"/>
+    <tag k="name" v="ملیسک فروشگاه لباس بچگانه"/>
+    <tag k="opening_hours" v="Open 14:00"/>
+    <tag k="opening_hours:covid19" v="off 21:00"/>
+    <tag k="operator" v="ملیسک"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="phone" v="09355362491"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="start_date" v="2022.04.07"/>
+    <tag k="stroller" v="no"/>
+    <tag k="website" v="https://melisak.ir"/>
+    <tag k="wheelchair" v="no"/>
   </node>
 
 </osm>
