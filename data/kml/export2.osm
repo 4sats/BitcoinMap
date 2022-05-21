@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-20T05:29:57Z"/>
+<meta osm_base="2022-05-21T05:27:04Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -4806,15 +4806,6 @@
     <tag k="name" v="Hávallagata"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="public_transport" v="stop_position"/>
-  </node>
-  <node id="2244964954" lat="41.9048511" lon="12.5045633" version="6" timestamp="2017-12-09T10:24:38Z" changeset="54480594" uid="2201521" user="quibitcoin">
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="Via Palestro"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="contact:phone" v="+39 06 49382682"/>
-    <tag k="contact:website" v="http://the-yellow.com/"/>
-    <tag k="name" v="The Yellow Bar"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="2249328556" lat="32.0714337" lon="34.7803113" version="4" timestamp="2017-06-06T09:15:40Z" changeset="49299149" uid="5816834" user="SafwatHalaby_bot">
     <tag k="amenity" v="bar"/>
@@ -10935,14 +10926,14 @@
     <tag k="shop" v="tattoo"/>
     <tag k="website" v="https://www.matthewamey.com/"/>
   </node>
-  <node id="2552020367" lat="30.6871518" lon="-88.0715189" version="5" timestamp="2014-08-04T09:16:18Z" changeset="24531112" uid="1869781" user="AndiG88">
+  <node id="2552020367" lat="30.6871518" lon="-88.0715189" version="6" timestamp="2022-05-20T18:15:43Z" changeset="121256505" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Mobile"/>
     <tag k="addr:postcode" v="36604"/>
     <tag k="name" v="Katorah Photo"/>
     <tag k="opening_hours" v="&quot;by appointment only&quot;"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="photo_studio"/>
-    <tag k="website" v="http://facebook.com/katorahphoto"/>
+    <tag k="website" v="https://facebook.com/katorahphoto"/>
   </node>
   <node id="2552065207" lat="37.9796666" lon="23.7380679" version="4" timestamp="2021-04-22T23:57:15Z" changeset="103441960" uid="9221753" user="Map-Finder">
     <tag k="addr:city" v="Athens"/>
@@ -13308,7 +13299,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://legacyofkashmir.com/"/>
   </node>
-  <node id="2563268925" lat="19.7767612" lon="-70.4473970" version="2" timestamp="2016-02-04T12:58:21Z" changeset="36997601" uid="1235654" user="discoteque">
+  <node id="2563268925" lat="19.7767612" lon="-70.4473970" version="3" timestamp="2022-05-20T12:35:21Z" changeset="121242944" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Cabarete"/>
     <tag k="addr:housename" v="Calle los Cocos 120"/>
     <tag k="addr:postcode" v="57000"/>
@@ -13318,7 +13309,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="(+1 ) 809 935 9221"/>
     <tag k="tourism" v="hostel"/>
-    <tag k="website" v="www.hookedcabarete.com"/>
+    <tag k="website" v="https://www.hookedcabarete.com/"/>
   </node>
   <node id="2563273949" lat="40.2366082" lon="-83.3671331" version="2" timestamp="2019-05-24T15:02:45Z" changeset="70589811" uid="8339" user="mtmail">
     <tag k="addr:city" v="Marysville"/>
@@ -21456,7 +21447,7 @@
     <tag k="phone" v="+1-905-473-2462"/>
     <tag k="website" v="http://www.BareBoutique.ca"/>
   </node>
-  <node id="2628991874" lat="18.4637496" lon="-69.9580662" version="4" timestamp="2022-03-03T14:09:28Z" changeset="118057555" uid="4611642" user="miroslavuzice87">
+  <node id="2628991874" lat="18.4637496" lon="-69.9580662" version="5" timestamp="2022-05-20T12:32:01Z" changeset="121242742" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Santo Domingo"/>
     <tag k="addr:housename" v="Plaza Saint Michell, Suite D-05"/>
     <tag k="addr:street" v="Avenida Nuñez de Cáceres"/>
@@ -21465,7 +21456,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="1-809-532-1814"/>
-    <tag k="website" v="http://www.bayonetrobles.com"/>
+    <tag k="website" v="https://www.bayonetrobles.com/"/>
   </node>
   <node id="2629245906" lat="39.9761173" lon="-75.1263343" version="1" timestamp="2014-01-19T23:02:46Z" changeset="20095100" uid="1828814" user="Jayzio">
     <tag k="addr:city" v="Philadelphia"/>
@@ -30240,16 +30231,26 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://ricebowlkc.com/"/>
   </node>
-  <node id="2729898995" lat="38.9582474" lon="-95.2780186" version="2" timestamp="2014-03-20T22:50:54Z" changeset="21219342" uid="1836471" user="Blobo123">
+  <node id="2729898995" lat="38.9586518" lon="-95.2781318" version="3" timestamp="2022-05-20T19:26:58Z" changeset="121258479" uid="11447701" user="jake_penguins">
+    <tag k="addr:city" v="Lawrence"/>
     <tag k="addr:housenumber" v="1410"/>
+    <tag k="addr:postcode" v="66049"/>
+    <tag k="addr:state" v="KS"/>
     <tag k="addr:street" v="Kasold Drive"/>
+    <tag k="addr:unit" v="13"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="contact:phone" v="785-843-8650"/>
+    <tag k="cuisine" v="chinese"/>
+    <tag k="delivery" v="yes"/>
     <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Jade Garden Lawrence"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="name" v="Jade Garden"/>
+    <tag k="opening_hours" v="11:00-22:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1-785-843-8650"/>
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="http://jadegardenonline.com/"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.jadegardenonline.com/"/>
   </node>
   <node id="2730044689" lat="39.5663151" lon="3.2112876" version="6" timestamp="2020-06-01T08:01:36Z" changeset="86035051" uid="1948725" user="pedrojuan01">
     <tag k="addr:city" v="Manacor"/>
@@ -65889,19 +65890,6 @@
     <tag k="phone" v="+39 0322090156"/>
     <tag k="website" v="http://www.obic.it"/>
   </node>
-  <node id="5708251408" lat="38.1069990" lon="13.3403330" version="2" timestamp="2018-10-10T14:25:38Z" changeset="63382981" uid="8934452" user="CryptoLocalATM">
-    <tag k="addr:city" v="Palermo"/>
-    <tag k="addr:housenumber" v="220"/>
-    <tag k="addr:postcode" v="90145"/>
-    <tag k="addr:street" v="Corso Calatafimi"/>
-    <tag k="description" v="Vendita Liquidi e hardware per sigarette elettroniche."/>
-    <tag k="email" v="info@lopliquids.eu"/>
-    <tag k="name" v="CryptoLocalATM - Bancomat Bitcoin - Lop Store"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0912527056"/>
-    <tag k="shop" v="e-cigarette"/>
-    <tag k="website" v="https://lopliquids.eu"/>
-  </node>
   <node id="5710611329" lat="38.1069016" lon="13.3401260" version="5" timestamp="2022-02-17T18:42:42Z" changeset="117533791" uid="10477933" user="FinixFighter">
     <tag k="addr:city" v="Palermo"/>
     <tag k="addr:housenumber" v="220"/>
@@ -74579,7 +74567,7 @@
     <tag k="shop" v="massage"/>
     <tag k="website" v="http://www.ki-shiatsu.at/"/>
   </node>
-  <node id="8589301014" lat="37.1746650" lon="-3.5991620" version="5" timestamp="2021-04-03T15:19:24Z" changeset="102240630" uid="12991594" user="RemiBit">
+  <node id="8589301014" lat="37.1746650" lon="-3.5991620" version="6" timestamp="2022-05-20T23:38:49Z" changeset="121263681" uid="6816316" user="alex_lofi">
     <tag k="addr:city" v="Granada"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="18001"/>
@@ -74587,7 +74575,7 @@
     <tag k="amenity" v="cafe"/>
     <tag k="cuisine" v="coffee_shop;breakfast;dessert;drinks"/>
     <tag k="name" v="Stories"/>
-    <tag k="opening_hours" v="Th-Tu 09:00-13:00 16:00-20:00"/>
+    <tag k="opening_hours" v="Th-Tu 09:00-13:00,16:00-20:00"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
