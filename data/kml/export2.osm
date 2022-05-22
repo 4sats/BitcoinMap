@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-21T05:27:04Z"/>
+<meta osm_base="2022-05-22T05:27:17Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -9522,7 +9522,7 @@
     <tag k="phone" v="310-278-5294"/>
     <tag k="website" v="http://www.lepetitjardinbistro.com/"/>
   </node>
-  <node id="2539219696" lat="45.4253714" lon="-117.2786760" version="4" timestamp="2014-02-07T16:02:59Z" changeset="20433169" uid="28559" user="Stemby">
+  <node id="2539219696" lat="45.4253714" lon="-117.2786760" version="5" timestamp="2022-05-21T12:15:46Z" changeset="121279819" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Enterprise"/>
     <tag k="addr:housenumber" v="118"/>
     <tag k="addr:postcode" v="97828"/>
@@ -9530,7 +9530,7 @@
     <tag k="name" v="Wallowa Valley Networks, LLC"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="888-268-1513"/>
-    <tag k="website" v="http://wallowavalley.net/"/>
+    <tag k="website" v="https://wallowavalley.net/"/>
   </node>
   <node id="2539481407" lat="18.2926074" lon="-66.3666694" version="5" timestamp="2017-05-17T13:02:43Z" changeset="48762463" uid="2545951" user="highflyer74">
     <tag k="addr:city" v="Corozal"/>
@@ -16750,7 +16750,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://bitnoni.com"/>
   </node>
-  <node id="2587463864" lat="36.7137657" lon="119.1058626" version="4" timestamp="2016-12-14T15:45:44Z" changeset="44396421" uid="1778799" user="SomeoneElse_Revert">
+  <node id="2587463864" lat="36.7137657" lon="119.1058626" version="5" timestamp="2022-05-22T01:42:49Z" changeset="121302372" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Weifang"/>
     <tag k="addr:housenumber" v="27"/>
     <tag k="addr:postcode" v="26100"/>
@@ -16763,7 +16763,7 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="13465725196"/>
     <tag k="shop" v="photo"/>
-    <tag k="website" v="http://charliemcrae.com"/>
+    <tag k="website" v="https://charliemcrae.com/"/>
   </node>
   <node id="2587540738" lat="44.4332904" lon="26.0949030" version="8" timestamp="2022-05-19T11:07:15Z" changeset="121189907" uid="13300009" user="Bolt026">
     <tag k="addr:city" v="București"/>
@@ -30203,8 +30203,11 @@
     <tag k="website" v="https://www.wigsalon.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2729751874" lat="39.0573426" lon="-94.6043757" version="3" timestamp="2022-02-25T19:27:17Z" changeset="117860362" uid="3009398" user="StackKorora">
+  <node id="2729751874" lat="39.0573426" lon="-94.6043757" version="4" timestamp="2022-05-22T04:03:17Z" changeset="121303489" uid="3009398" user="StackKorora">
+    <tag k="addr:city" v="Kansas City"/>
     <tag k="addr:housenumber" v="1610"/>
+    <tag k="addr:postcode" v="64111"/>
+    <tag k="addr:state" v="MO"/>
     <tag k="addr:street" v="West 39th Avenue"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="contact:phone" v="816-931-4455"/>
@@ -30213,6 +30216,7 @@
     <tag k="name" v="KC Smoke Burger"/>
     <tag k="opening_hours" v="Mo-Sa 11:00-21:30; Su 11:00-20:30"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1-913-206-8354"/>
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://smokeburgers.com/"/>
   </node>
@@ -42263,7 +42267,7 @@
     <tag k="name" v="Rentadesk"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="3047704789" lat="14.5575179" lon="121.0011650" version="1" timestamp="2014-08-28T16:29:57Z" changeset="25077629" uid="1651798" user="oldenburg69">
+  <node id="3047704789" lat="14.5575179" lon="121.0011650" version="2" timestamp="2022-05-21T14:10:02Z" changeset="121283918" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Makati"/>
     <tag k="addr:postcode" v="1235"/>
     <tag k="addr:street" v="Cuenca St"/>
@@ -42271,7 +42275,7 @@
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+63 2 502 5217"/>
-    <tag k="website" v="http://www.atleta.com.ph/"/>
+    <tag k="website" v="https://www.atleta.com.ph/"/>
   </node>
   <node id="3047723079" lat="14.5704898" lon="121.0235047" version="1" timestamp="2014-08-28T16:33:36Z" changeset="25077689" uid="1651798" user="oldenburg69">
     <tag k="addr:city" v="Makati"/>
