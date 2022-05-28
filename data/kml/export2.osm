@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-27T05:31:25Z"/>
+<meta osm_base="2022-05-28T05:27:39Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -107,13 +107,15 @@
     <tag k="shop" v="butcher"/>
     <tag k="website" v="http://slatersmeats.com/"/>
   </node>
-  <node id="282242218" lat="43.9928861" lon="12.6497992" version="11" timestamp="2019-03-23T19:39:24Z" changeset="68453504" uid="9451067" user="b-jazz-bot">
+  <node id="282242218" lat="43.9928861" lon="12.6497992" version="13" timestamp="2022-05-27T13:07:23Z" changeset="121576020" uid="5617767" user="DavideOnOSM">
     <tag k="description" v="Vendita assistenza e noleggio biciclette, ebike, Emtb, Haibike."/>
     <tag k="email" v="info@alebikericcione.it"/>
     <tag k="name" v="Ale bike - I Love Bike"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-12:30,15:00-19:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 0541600932"/>
     <tag k="service:bicycle:cleaning" v="yes"/>
+    <tag k="service:bicycle:pump" v="no"/>
     <tag k="service:bicycle:repair" v="yes"/>
     <tag k="service:bicycle:retail" v="yes"/>
     <tag k="service:bicycle:second_hand" v="yes"/>
@@ -8832,12 +8834,12 @@
     <tag k="phone" v="+1 514 355 5666"/>
     <tag k="website" v="http://cild.com/"/>
   </node>
-  <node id="2525756104" lat="55.7130818" lon="-4.5365982" version="2" timestamp="2013-11-10T13:55:24Z" changeset="18816699" uid="28559" user="Stemby">
+  <node id="2525756104" lat="55.7130818" lon="-4.5365982" version="3" timestamp="2022-05-27T14:29:06Z" changeset="121579755" uid="9451067" user="b-jazz-bot">
     <tag k="description" v="User Experience Consultancy Web Design &amp; Build"/>
     <tag k="name" v="Sounds Like Design"/>
     <tag k="office" v="it"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://soundslikedesign.co.uk/"/>
+    <tag k="website" v="https://soundslikedesign.co.uk/"/>
   </node>
   <node id="2525934054" lat="42.6696602" lon="18.0942158" version="3" timestamp="2019-03-20T13:21:32Z" changeset="68335710" uid="9451067" user="b-jazz-bot">
     <tag k="name" v="Lunea Apartment"/>
@@ -36333,7 +36335,7 @@
     <tag k="name" v="Rhino Custom Detailing"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2875838919" lat="55.9383643" lon="-4.5547002" version="3" timestamp="2018-12-01T20:12:45Z" changeset="65081223" uid="242345" user="confusedbuffalo">
+  <node id="2875838919" lat="55.9383643" lon="-4.5547002" version="4" timestamp="2022-05-27T14:37:41Z" changeset="121580255" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Dumbarton"/>
     <tag k="addr:housenumber" v="45-50"/>
     <tag k="addr:postcode" v="G82 1JD"/>
@@ -36344,7 +36346,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+44 1389 768333"/>
     <tag k="sport" v="skateboard"/>
-    <tag k="website" v="http://www.unit23skatepark.co.uk"/>
+    <tag k="website" v="https://unit23skatepark.co.uk/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2876050501" lat="13.7216367" lon="100.5336120" version="4" timestamp="2019-03-30T22:36:45Z" changeset="68711337" uid="9451067" user="b-jazz-bot">
@@ -41207,7 +41209,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.bitrocket.co"/>
   </node>
-  <node id="3006868965" lat="45.6515718" lon="13.7791499" version="13" timestamp="2021-01-22T20:43:35Z" changeset="97995926" uid="12294600" user="alessandrocarmeli">
+  <node id="3006868965" lat="45.6515942" lon="13.7792246" version="14" timestamp="2022-05-27T10:05:55Z" changeset="121567307" uid="11293545" user="maxdan ProtezioneCivileFVG">
     <tag k="addr:city" v="Trieste"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:postcode" v="34125"/>
@@ -55404,6 +55406,17 @@
     <tag k="shop" v="furniture"/>
     <tag k="website" v="http://lifemoveisplanejados.com.br/"/>
   </node>
+  <node id="3952174353" lat="48.9134982" lon="2.2721593" version="4" timestamp="2022-05-27T13:47:22Z" changeset="121577790" uid="224440" user="Syl">
+    <tag k="addr:city" v="Bois-Colombes"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="92270"/>
+    <tag k="addr:street" v="Rue du Général Leclerc"/>
+    <tag k="name" v="PcDuo.fr"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+33 1 80 90 50 20"/>
+    <tag k="shop" v="computer"/>
+    <tag k="website" v="https://pcduo.fr/"/>
+  </node>
   <node id="3955657883" lat="51.3311818" lon="12.3741188" version="5" timestamp="2018-10-21T12:54:39Z" changeset="63726556" uid="18069" user="Claudius Henrichs">
     <tag k="addr:city" v="Leipzig"/>
     <tag k="addr:housenumber" v="44"/>
@@ -59926,7 +59939,7 @@
     <tag k="smoking" v="outside"/>
     <tag k="takeaway" v="yes"/>
   </node>
-  <node id="5039724724" lat="-22.9406813" lon="-43.0329971" version="2" timestamp="2017-08-25T19:04:41Z" changeset="51442593" uid="616774" user="mueschel">
+  <node id="5039724724" lat="-22.9406813" lon="-43.0329971" version="3" timestamp="2022-05-27T08:32:45Z" changeset="121562277" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Niteroi"/>
     <tag k="addr:housenumber" v="339"/>
     <tag k="addr:postcode" v="24340-160"/>
@@ -59939,7 +59952,7 @@
     <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+552137410534"/>
-    <tag k="website" v="http://www.propagandanet.com.br"/>
+    <tag k="website" v="https://www.propagandanet.com.br/"/>
   </node>
   <node id="5040180356" lat="-26.2827792" lon="-48.8110762" version="4" timestamp="2018-05-14T02:35:30Z" changeset="58937600" uid="2339960" user="adrianojbr">
     <tag k="addr:door" v="Sala 7"/>
@@ -69070,7 +69083,7 @@
     <tag k="phone" v="+393332676804"/>
     <tag k="website" v="https://danielecolombo.it"/>
   </node>
-  <node id="6377112365" lat="35.6856066" lon="51.4102972" version="5" timestamp="2019-05-01T08:16:47Z" changeset="69759657" uid="47978" user="Christoph Lotz">
+  <node id="6377112365" lat="35.6856066" lon="51.4102972" version="6" timestamp="2022-05-28T02:23:23Z" changeset="121598584" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="تهران"/>
     <tag k="addr:country" v="IR"/>
     <tag k="addr:housenumber" v="7"/>
@@ -69097,7 +69110,7 @@
     <tag k="shop" v="hardware"/>
     <tag k="source" v="local knowledge"/>
     <tag k="start_date" v="میلادی 1979 - شمسی 1358"/>
-    <tag k="website" v="http://mat-credit.ir"/>
+    <tag k="website" v="https://mat-credit.ir/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="6396544882" lat="50.8247006" lon="-0.1505700" version="5" timestamp="2022-02-06T16:34:45Z" changeset="117086082" uid="84263" user="Robert Whittaker">
@@ -78997,20 +79010,6 @@
     <tag k="rooms" v="95"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://www.pavilionshotels.com/residences/phuket/"/>
-  </node>
-  <node id="9749784920" lat="40.9922065" lon="29.0240364" version="1" timestamp="2022-05-17T17:47:54Z" changeset="121111680" uid="15992734" user="olicoineka">
-    <tag k="amenity" v="atm"/>
-    <tag k="brand" v="Coineka"/>
-    <tag k="cash_in" v="yes"/>
-    <tag k="currency:btc" v="yes"/>
-    <tag k="currency:eth" v="yes"/>
-    <tag k="currency:others" v="yes"/>
-    <tag k="currency:try" v="yes"/>
-    <tag k="description" v="Coineka Bitcoin &amp; Kripto ATM"/>
-    <tag k="image" v="https://coineka.com/images/atms/kadikoy-ferry-terminal/main.jpg"/>
-    <tag k="name" v="Coineka Bitcoin &amp; Kripto ATM"/>
-    <tag k="operator" v="Coineka"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="9754621292" lat="38.0533668" lon="46.3892396" version="3" timestamp="2022-05-19T13:37:52Z" changeset="121196841" uid="10455890" user="vahidansari">
     <tag k="addr:city" v="تبریز"/>
