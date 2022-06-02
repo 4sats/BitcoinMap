@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
+<osm version="0.6" generator="Overpass API 0.7.58.2 2b5354b1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-06-01T05:52:39Z"/>
+<meta osm_base="2022-06-02T05:42:18Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -7026,22 +7026,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+447797 713 007"/>
     <tag k="website" v="http://carpediem.je/"/>
-  </node>
-  <node id="2453529412" lat="52.0768740" lon="5.1396952" version="15" timestamp="2021-12-22T07:51:27Z" changeset="115239956" uid="246711" user="Pander">
-    <tag k="brand" v="Sanshinkai Aikido"/>
-    <tag k="contact:facebook" v="http://facebook.com/SanshinkaiAikidoUtrecht"/>
-    <tag k="description" v="Aikido Switzerland - Sanshinkai group"/>
-    <tag k="email" v="utrecht@sanshinkai.eu"/>
-    <tag k="leisure" v="sports_centre"/>
-    <tag k="level" v="1"/>
-    <tag k="name" v="Sanshinkai Aikido Utrecht"/>
-    <tag k="note" v="brand should remain literally Sanshinkai Aikido description should remain Federation Name - Group Name"/>
-    <tag k="opening_hours" v="Mo 19:30-21:00; We 19:30-21:00; Th 19:30-21:00; Sa 09:00-10:30"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="smoking" v="no"/>
-    <tag k="sport" v="aikido"/>
-    <tag k="website" v="http://utrecht.sanshinkai.eu"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2453806735" lat="37.5642460" lon="-122.3239197" version="3" timestamp="2020-05-13T16:18:18Z" changeset="85155284" uid="5400451" user="Alex Kapranoff">
     <tag k="addr:city" v="San Mateo"/>
@@ -79129,6 +79113,31 @@
     <tag k="phone" v="+41565014444"/>
     <tag k="shop" v="electrical"/>
     <tag k="website" v="https://www.baris.swiss/"/>
+  </node>
+  <node id="9787544563" lat="45.1896701" lon="7.8883875" version="1" timestamp="2022-06-01T08:42:54Z" changeset="121800272" uid="2201521" user="quibitcoin">
+    <tag k="addr:city" v="Chivasso"/>
+    <tag k="addr:housenumber" v="3B"/>
+    <tag k="addr:postcode" v="10034"/>
+    <tag k="addr:street" v="Vicolo del Portone"/>
+    <tag k="description" v="Erboristeria, cosmesi profumata, consulenze rimedi naturali."/>
+    <tag k="email" v="lesherbes@inwind.it"/>
+    <tag k="name" v="Les Herbes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 0119112796"/>
+    <tag k="shop" v="herbalist"/>
+    <tag k="website" v="http://www.lesherbes.it"/>
+  </node>
+  <node id="9787549148" lat="45.3989154" lon="11.8990387" version="1" timestamp="2022-06-01T08:46:01Z" changeset="121800400" uid="2201521" user="quibitcoin">
+    <tag k="addr:city" v="Padova"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="35100"/>
+    <tag k="addr:street" v="Via Stendhal"/>
+    <tag k="description" v="Psicologa, psicoterapeuta in formazione."/>
+    <tag k="email" v="mariachiara.baio95@gmail.com"/>
+    <tag k="name" v="Maria Chiara Baio"/>
+    <tag k="office" v="therapist"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 3934532828"/>
   </node>
 
 </osm>
