@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.2 2b5354b1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-06-02T05:42:18Z"/>
+<meta osm_base="2022-06-03T05:26:02Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -3117,9 +3117,9 @@
     <tag k="smoking" v="separated"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1603701666" lat="44.4519610" lon="8.3825170" version="9" timestamp="2022-05-28T13:04:48Z" changeset="121616358" uid="16120864" user="Bagnisliguria">
+  <node id="1603701666" lat="44.4519610" lon="8.3825170" version="10" timestamp="2022-06-02T20:55:32Z" changeset="121868417" uid="47978" user="Christoph Lotz">
     <tag k="addr:city" v="Giusvalla"/>
-    <tag k="addr:country" v="Savona"/>
+    <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="17010"/>
     <tag k="addr:street" v="Loc.Vicari"/>
@@ -14067,11 +14067,13 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="supermarket"/>
   </node>
-  <node id="2566460802" lat="37.2298947" lon="-77.4000223" version="2" timestamp="2019-05-24T15:47:56Z" changeset="70591068" uid="8339" user="mtmail">
+  <node id="2566460802" lat="37.2298947" lon="-77.4000223" version="3" timestamp="2022-06-02T17:40:17Z" changeset="121862303" uid="9509339" user="Njorlpinipini">
     <tag k="addr:city" v="Petersburg"/>
     <tag k="addr:housenumber" v="111"/>
     <tag k="addr:postcode" v="23804"/>
+    <tag k="addr:state" v="VA"/>
     <tag k="addr:street" v="N Jefferson St"/>
+    <tag k="craft" v="cleaning"/>
     <tag k="name" v="Juma Carpet Care"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
@@ -19075,7 +19077,8 @@
     <tag k="name" v="Clinica Dr. Pedro L Briggs"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2610451611" lat="37.4070608" lon="-77.4780806" version="3" timestamp="2014-01-07T01:40:58Z" changeset="19855740" uid="1867866" user="vcualli">
+  <node id="2610451611" lat="37.4070608" lon="-77.4780806" version="4" timestamp="2022-06-02T11:43:21Z" changeset="121848671" uid="9509339" user="Njorlpinipini">
+    <tag k="craft" v="photographer"/>
     <tag k="name" v="Allison Patel Photography, LLC"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.allisonpatelphoto.com/"/>
@@ -29952,7 +29955,7 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://funkydesi.menufy.com/"/>
   </node>
-  <node id="2728248430" lat="41.7104431" lon="-88.1850454" version="2" timestamp="2021-07-09T03:41:05Z" changeset="107668823" uid="349543" user="Mundilfari">
+  <node id="2728248430" lat="41.7104431" lon="-88.1850454" version="3" timestamp="2022-06-02T15:37:03Z" changeset="121857369" uid="1237170" user="Zol87">
     <tag k="addr:city" v="Naperville"/>
     <tag k="addr:country" v="US"/>
     <tag k="addr:county" v="Will, IL"/>
@@ -29961,13 +29964,17 @@
     <tag k="addr:state" v="IL"/>
     <tag k="addr:street" v="95th Street"/>
     <tag k="addr:unit" v="103"/>
-    <tag k="amenity" v="restaurant"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="Rosati's"/>
+    <tag k="brand:wikidata" v="Q65052579"/>
     <tag k="contact:phone" v="630-428-0400"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Rosati's Pizzeria"/>
+    <tag k="name" v="Rosati's"/>
+    <tag k="official_name" v="Rosati's Authentic Chicago Pizza"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
+    <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://myrosatis.com/naperville95th/"/>
   </node>
   <node id="2728253779" lat="41.4972218" lon="-87.9641661" version="1" timestamp="2014-03-20T05:52:12Z" changeset="21204516" uid="1836471" user="Blobo123">
@@ -79085,9 +79092,9 @@
     <tag k="shop" v="clothes"/>
     <tag k="website" v="https://www.balenciaga.com"/>
   </node>
-  <node id="9776777591" lat="44.4519610" lon="8.3825170" version="1" timestamp="2022-05-28T13:19:11Z" changeset="121616952" uid="16120864" user="Bagnisliguria">
+  <node id="9776777591" lat="44.4519610" lon="8.3825170" version="2" timestamp="2022-06-02T20:55:32Z" changeset="121868417" uid="47978" user="Christoph Lotz">
     <tag k="addr:city" v="Giusvalla"/>
-    <tag k="addr:country" v="Savona"/>
+    <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="17010"/>
     <tag k="addr:street" v="Loc.Vicari"/>
