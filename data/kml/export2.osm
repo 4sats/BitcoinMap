@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.2 2b5354b1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-06-03T05:26:02Z"/>
+<meta osm_base="2022-06-04T05:24:50Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -24755,15 +24755,15 @@
     <tag k="phone" v="+43 732 773 928"/>
     <tag k="website" v="https://www.gmk.at/"/>
   </node>
-  <node id="2670047838" lat="42.9630079" lon="-85.6664410" version="2" timestamp="2019-02-20T05:25:15Z" changeset="67377775" uid="9451067" user="b-jazz-bot">
+  <node id="2670047838" lat="42.9630079" lon="-85.6664410" version="3" timestamp="2022-06-03T18:28:53Z" changeset="121909426" uid="11548585" user="emersonveenstra">
     <tag k="addr:city" v="Grand Rapids"/>
     <tag k="addr:housenumber" v="98"/>
     <tag k="addr:postcode" v="49503"/>
     <tag k="addr:street" v="Fulton Street East"/>
-    <tag k="landuse" v="retail"/>
     <tag k="name" v="Acton Institute Book Shop"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1 616 454 3080"/>
+    <tag k="shop" v="books"/>
     <tag k="website" v="https://shop.acton.org/"/>
   </node>
   <node id="2670083520" lat="41.1677321" lon="-8.6267444" version="3" timestamp="2019-03-22T06:28:06Z" changeset="68398571" uid="9451067" user="b-jazz-bot">
@@ -44231,13 +44231,14 @@
     <tag k="website" v="http://www.hiattautosales.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3130976731" lat="-8.7165901" lon="115.1724468" version="1" timestamp="2014-10-15T11:02:32Z" changeset="26092185" uid="2402228" user="Bitislands">
+  <node id="3130976731" lat="-8.7165901" lon="115.1724468" version="2" timestamp="2022-06-04T02:49:40Z" changeset="121921023" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Kuta"/>
     <tag k="addr:postcode" v="80361"/>
     <tag k="addr:street" v="Popies II / Benesari, Kuta"/>
     <tag k="name" v="Naruki Surfshop"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+62-361-765772"/>
+    <tag k="shop" v="surf"/>
   </node>
   <node id="3132175210" lat="41.8824027" lon="12.4762539" version="1" timestamp="2014-10-15T21:55:31Z" changeset="26106132" uid="28559" user="Stemby">
     <tag k="addr:city" v="Roma"/>
