@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.2 2b5354b1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-06-04T05:24:50Z"/>
+<meta osm_base="2022-06-05T05:25:27Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -12691,12 +12691,12 @@
     <tag k="website" v="http://www.createtank.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2559095179" lat="38.4553778" lon="27.1163320" version="2" timestamp="2013-12-01T00:18:33Z" changeset="19203173" uid="1824525" user="IKARUS MENTAL ARITMETIK">
+  <node id="2559095179" lat="38.4553778" lon="27.1163320" version="3" timestamp="2022-06-04T11:27:09Z" changeset="121935454" uid="98099" user="evgenykatyshev">
     <tag k="addr:city" v="izmir"/>
     <tag k="addr:housename" v="Baris Apt."/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="35600"/>
-    <tag k="addr:street" v="1727 Sokak"/>
+    <tag k="addr:street" v="1727. Sokak"/>
     <tag k="amenity" v="school"/>
     <tag k="name" v="ikarus mental aritmetik"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -17250,6 +17250,21 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="tourism" v="chalet"/>
     <tag k="website" v="https://www.tenerifeloca.com/en/Casita-Tabaiba/4518"/>
+  </node>
+  <node id="2596024063" lat="41.6623887" lon="-83.6413499" version="3" timestamp="2022-06-05T03:10:57Z" changeset="121958212" uid="7999614" user="matteaton">
+    <tag k="addr:city" v="Ottawa Hills"/>
+    <tag k="addr:housenumber" v="2237"/>
+    <tag k="addr:postcode" v="43606"/>
+    <tag k="addr:street" v="Evergreen Road"/>
+    <tag k="amenity" v="car_rental"/>
+    <tag k="brand" v="Avis"/>
+    <tag k="brand:wikidata" v="Q791136"/>
+    <tag k="brand:wikipedia" v="en:Avis Car Rental"/>
+    <tag k="name" v="Avis;Toledo Phone Repair"/>
+    <tag k="official_name" v="Avis Car Rental"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1-419-277-8006"/>
+    <tag k="website" v="http://toledophonerepair.com/"/>
   </node>
   <node id="2596182326" lat="40.4218186" lon="-104.7812697" version="7" timestamp="2013-12-27T01:59:01Z" changeset="19654440" uid="1857310" user="Sheep Draw Vet Hospital">
     <tag k="addr:city" v="Greeley"/>
@@ -24389,10 +24404,11 @@
     <tag k="opening_hours" v="11:00-22:30 &quot;Fr close at 23&quot;"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2668136108" lat="1.3466004" lon="103.6859726" version="11" timestamp="2020-12-01T17:36:42Z" changeset="95108516" uid="10901304" user="rouelibre1">
+  <node id="2668136108" lat="1.3466004" lon="103.6859726" version="12" timestamp="2022-06-04T10:23:31Z" changeset="121933362" uid="3627342" user="cnvery">
     <tag k="amenity" v="restaurant"/>
     <tag k="diet:vegetarian" v="only"/>
     <tag k="name" v="Canteen 1"/>
+    <tag k="name:en" v="Canteen 1"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="2668403166" lat="51.5142895" lon="-0.0769161" version="4" timestamp="2021-09-10T16:34:48Z" changeset="111032598" uid="352985" user="ecatmur">
@@ -43997,16 +44013,6 @@
     <tag k="payment:dogecoin" v="yes"/>
     <tag k="shop" v="computer"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="3112840942" lat="41.6633964" lon="-83.6384127" version="4" timestamp="2021-05-07T23:13:12Z" changeset="104344322" uid="307520" user="wolfgang8741">
-    <tag k="addr:city" v="Ottawa Hills"/>
-    <tag k="addr:housenumber" v="2237"/>
-    <tag k="addr:postcode" v="43606"/>
-    <tag k="addr:street" v="Evergreen Road"/>
-    <tag k="name" v="Toledo Phone Repair"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-419-277-8006"/>
-    <tag k="website" v="http://toledophonerepair.com/"/>
   </node>
   <node id="3113238529" lat="30.2948839" lon="-97.8229455" version="3" timestamp="2021-07-24T15:42:59Z" changeset="108537320" uid="4744872" user="Itserpol">
     <tag k="addr:city" v="West Lake Hills"/>
