@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-06-24T05:30:36Z"/>
+<meta osm_base="2022-06-25T05:25:29Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -21383,17 +21383,17 @@
     <tag k="phone" v="+34914093458"/>
     <tag k="website" v="https://www.dentanet.es/"/>
   </node>
-  <node id="2628677308" lat="40.5566024" lon="-75.0639897" version="3" timestamp="2014-01-23T02:43:09Z" changeset="20153086" uid="1892935" user="KappusFarm">
+  <node id="2628677308" lat="40.5566024" lon="-75.0639897" version="4" timestamp="2022-06-25T02:42:01Z" changeset="122823454" uid="5325538" user="RM23">
     <tag k="addr:city" v="Alexandria Township"/>
     <tag k="addr:housename" v="Kappus Farm"/>
     <tag k="addr:housenumber" v="32"/>
     <tag k="addr:postcode" v="08848"/>
     <tag k="addr:street" v="Kappus Road"/>
     <tag k="email" v="kappusfarms@gmail.com"/>
-    <tag k="landuse" v="farm"/>
     <tag k="name" v="Kappus Farm"/>
     <tag k="note" v="Americas first farm to accept bitcoin"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="place" v="farm"/>
     <tag k="website" v="https://www.facebook.com/thekappusfarm"/>
   </node>
   <node id="2628914481" lat="50.0381507" lon="14.5928513" version="3" timestamp="2014-03-28T22:45:13Z" changeset="21374544" uid="25867" user="adamos">
@@ -68446,6 +68446,16 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://cryptolocalatm.com"/>
   </node>
+  <node id="6272772980" lat="38.7229030" lon="-9.1315462" version="2" timestamp="2022-06-25T00:53:45Z" changeset="122822373" uid="8831021" user="stevenroose">
+    <tag k="amenity" v="pub"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="21 Brewpub"/>
+    <tag k="opening_hours" v="Mo-Th 16:00-23:00; Fr-Sa 16:00-01:00"/>
+    <tag k="operator" v="Gallas"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+  </node>
   <node id="6274370271" lat="47.5208464" lon="8.0554929" version="1" timestamp="2019-02-12T14:14:36Z" changeset="67133085" uid="15671" user="habi">
     <tag k="addr:city" v="Ittenthal"/>
     <tag k="addr:housenumber" v="168"/>
@@ -75703,6 +75713,28 @@
     <tag k="shop" v="rental"/>
     <tag k="website" v="https://electricridehtx.com/"/>
   </node>
+  <node id="9068655892" lat="36.8518693" lon="30.7629224" version="3" timestamp="2022-06-25T02:00:15Z" changeset="122823045" uid="16364694" user="Emre Z">
+    <tag k="addr:city" v="Antalya"/>
+    <tag k="addr:district" v="Muratpaşa"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:neighbourhood" v="Çağlayan Mahallesi"/>
+    <tag k="addr:postcode" v="07235"/>
+    <tag k="addr:street" v="Barinaklar Bulvarı"/>
+    <tag k="branch" v="https://tekce.com"/>
+    <tag k="brand" v="Antalya Homes"/>
+    <tag k="description" v="Antalya Homes is a registered brand of Tekçe Overseas Gayrimenkul AŞ which is the leading international real estate company working across the whole of Turkey.They have 14 office in Turkey and giving service in 20+ languages."/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Antalya Homes®"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bitcoincash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="phone" v="+90 242 324 54 94"/>
+    <tag k="start_date" v="2004"/>
+    <tag k="website" v="https://www.antalyahomes.com"/>
+  </node>
   <node id="9108421225" lat="-23.6892007" lon="-46.6366479" version="1" timestamp="2021-09-20T17:47:43Z" changeset="111460395" uid="14145874" user="cassio alves">
     <tag k="addr:city" v="São Paulo"/>
     <tag k="addr:housenumber" v="164"/>
@@ -79167,6 +79199,23 @@
     <tag k="rooms" v="10"/>
     <tag k="tourism" v="hostel"/>
     <tag k="website" v="https://www.swshostel.com"/>
+  </node>
+  <node id="9845580719" lat="42.5119560" lon="-84.6560793" version="1" timestamp="2022-06-25T01:39:01Z" changeset="122822870" uid="159516" user="treestryder">
+    <tag k="addr:housenumber" v="142"/>
+    <tag k="addr:street" v="South Main Street"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2022-06-24"/>
+    <tag k="cuisine" v="ice_cream"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="name" v="MOO-ville Creamery"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:ikp97oh.kk" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+1 269-275-0109"/>
+    <tag k="ref" v="The ER Store"/>
+    <tag k="website" v="https://www.moo-ville.com/"/>
   </node>
 
 </osm>
