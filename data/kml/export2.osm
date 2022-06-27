@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-06-26T05:26:59Z"/>
+<meta osm_base="2022-06-27T05:35:02Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -3379,13 +3379,14 @@
     <tag k="phone" v="+49 85449 972520-0"/>
     <tag k="website" v="http://romantikresort.de/"/>
   </node>
-  <node id="1700031390" lat="36.0713982" lon="-115.2788655" version="3" timestamp="2013-12-30T04:15:59Z" changeset="19708661" uid="1860615" user="Eveofwar">
+  <node id="1700031390" lat="36.0713982" lon="-115.2788655" version="4" timestamp="2022-06-26T21:54:05Z" changeset="122882551" uid="14825844" user="greenhillzone">
     <tag k="addr:city" v="Las Vegas"/>
     <tag k="addr:housenumber" v="6450"/>
     <tag k="addr:postcode" v="89113"/>
     <tag k="addr:street" v="South Durango Drive"/>
-    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-06-26"/>
     <tag k="cuisine" v="mexican"/>
+    <tag k="disused:amenity" v="bar"/>
     <tag k="name" v="Jalisco Cantina"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="702-312-8000"/>
@@ -11791,7 +11792,7 @@
     <tag k="shop" v="bicycle"/>
     <tag k="website" v="https://www.mika-amaro.com"/>
   </node>
-  <node id="2555501090" lat="50.1011580" lon="8.6838998" version="9" timestamp="2018-01-19T19:29:36Z" changeset="55586451" uid="567651" user="whonjayne">
+  <node id="2555501090" lat="50.1011625" lon="8.6838946" version="10" timestamp="2022-06-26T22:30:01Z" changeset="122883149" uid="7549553" user="joe2812">
     <tag k="opening_hours" v="&quot;nach Vereinbarung&quot;"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="photo"/>
@@ -26391,7 +26392,7 @@
     <tag k="phone" v="(404) 352-1140"/>
     <tag k="website" v="https://atlantakick.com/"/>
   </node>
-  <node id="2699658750" lat="33.9685598" lon="-83.3807747" version="3" timestamp="2021-07-17T16:03:08Z" changeset="108165639" uid="10359905" user="IanVG">
+  <node id="2699658750" lat="33.9685598" lon="-83.3807747" version="4" timestamp="2022-06-26T23:47:23Z" changeset="122884136" uid="12774217" user="IanVG_Import">
     <tag k="addr:city" v="Athens"/>
     <tag k="addr:housenumber" v="174"/>
     <tag k="addr:postcode" v="30601"/>
@@ -26401,6 +26402,7 @@
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="706-363-0713"/>
+    <tag k="ref:athensclarkeaddress" v="40227"/>
     <tag k="website" v="http://picobarn.com/"/>
   </node>
   <node id="2699745138" lat="29.5261838" lon="108.7810994" version="4" timestamp="2021-12-04T05:07:31Z" changeset="114544077" uid="238419" user="HubMiner">
@@ -78958,20 +78960,6 @@
     <tag k="stroller" v="no"/>
     <tag k="website" v="https://melisak.ir"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="9756411522" lat="37.3896856" lon="46.2318057" version="2" timestamp="2022-05-29T06:25:57Z" changeset="121641122" uid="4350947" user="Nima Khalili">
-    <tag k="beauty" v="cosmetics;skin_care;perfumery"/>
-    <tag k="name" v="فروشگاه آرایشی مدا کالا"/>
-    <tag k="name:en" v="Moda Kala"/>
-    <tag k="name:fa" v="مداکالا"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="+984137226941"/>
-    <tag k="shop" v="beauty"/>
-    <tag k="website" v="https://modakala.com/"/>
   </node>
   <node id="9769979930" lat="40.7635880" lon="-73.9717920" version="1" timestamp="2022-05-25T14:37:51Z" changeset="121479308" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="New York"/>
