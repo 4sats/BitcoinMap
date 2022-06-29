@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-06-28T05:34:36Z"/>
+<meta osm_base="2022-06-29T05:35:07Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -20035,8 +20035,9 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="electronics"/>
   </node>
-  <node id="2618807990" lat="43.0230298" lon="-83.6856035" version="1" timestamp="2014-01-11T17:32:02Z" changeset="19938818" uid="1878454" user="Capitol Hill Consultants LLC">
+  <node id="2618807990" lat="43.0230298" lon="-83.6856035" version="2" timestamp="2022-06-28T19:44:07Z" changeset="122972226" uid="11548585" user="emersonveenstra">
     <tag k="name" v="Capitol Hill Consultants LLC"/>
+    <tag k="office" v="it"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="website" v="http://www.capitolhillconsultants.com/"/>
@@ -21943,7 +21944,7 @@
     <tag k="phone" v="+44 20 3441 1363"/>
     <tag k="website" v="http://geekbros.co.uk"/>
   </node>
-  <node id="2633732769" lat="54.6959190" lon="25.2505862" version="8" timestamp="2020-10-28T06:54:50Z" changeset="93160027" uid="60129" user="Tomas Straupis">
+  <node id="2633732769" lat="54.6959190" lon="25.2505862" version="9" timestamp="2022-06-28T11:31:41Z" changeset="122942181" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Vilnius"/>
     <tag k="addr:contact" v="yes"/>
     <tag k="addr:housenumber" v="47"/>
@@ -21953,6 +21954,7 @@
     <tag k="name" v="Nill Nill"/>
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2633751714" lat="42.9448976" lon="17.1552761" version="1" timestamp="2014-01-23T14:01:00Z" changeset="20160321" uid="573041" user="markiol">
     <tag k="addr:housenumber" v="710"/>
@@ -79166,23 +79168,6 @@
     <tag k="rooms" v="10"/>
     <tag k="tourism" v="hostel"/>
     <tag k="website" v="https://www.swshostel.com"/>
-  </node>
-  <node id="9845580719" lat="42.5119560" lon="-84.6560793" version="1" timestamp="2022-06-25T01:39:01Z" changeset="122822870" uid="159516" user="treestryder">
-    <tag k="addr:housenumber" v="142"/>
-    <tag k="addr:street" v="South Main Street"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="check_date" v="2022-06-24"/>
-    <tag k="cuisine" v="ice_cream"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="name" v="MOO-ville Creamery"/>
-    <tag k="opening_hours" v="Mo-Sa 09:00-17:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:ikp97oh.kk" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+1 269-275-0109"/>
-    <tag k="ref" v="The ER Store"/>
-    <tag k="website" v="https://www.moo-ville.com/"/>
   </node>
   <node id="9851466892" lat="4.8300237" lon="7.0563180" version="1" timestamp="2022-06-27T19:46:25Z" changeset="122926139" uid="16360672" user="ccworld">
     <tag k="addr:city" v="Port Harcort"/>
