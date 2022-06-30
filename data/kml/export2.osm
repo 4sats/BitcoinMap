@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-06-29T05:35:07Z"/>
+<meta osm_base="2022-06-30T05:32:54Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -7181,20 +7181,17 @@
     <tag k="website" v="http://www.vancouveriphones.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2463948737" lat="1.2765731" lon="103.8458836" version="8" timestamp="2022-06-21T03:31:46Z" changeset="122644372" uid="14864469" user="duckman56">
+  <node id="2463948737" lat="1.2765731" lon="103.8458836" version="9" timestamp="2022-06-29T13:36:02Z" changeset="123003870" uid="4026892" user="Doge05">
     <tag k="addr:city" v="Singapore"/>
     <tag k="addr:housename" v="Tanjong Pagar MRT (Exchange)"/>
     <tag k="addr:housenumber" v="B1-40"/>
     <tag k="addr:postcode" v="069119"/>
     <tag k="addr:street" v="140 Maxwell Road"/>
-    <tag k="brand" v="Apple Store"/>
-    <tag k="brand:wikidata" v="Q421253"/>
     <tag k="name" v="Apple Corner"/>
     <tag k="opening_hours" v="10:00-20:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="90259090 www.apple-corner.com"/>
-    <tag k="shop" v="electronics"/>
-    <tag k="short_name" v="Apple"/>
+    <tag k="shop" v="computer"/>
   </node>
   <node id="2464259904" lat="43.5982683" lon="1.4453381" version="7" timestamp="2022-01-26T23:02:38Z" changeset="116642297" uid="10953870" user="Note Control">
     <tag k="addr:city" v="Toulouse"/>
@@ -39386,7 +39383,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.lithiumweb.com.au/"/>
   </node>
-  <node id="2964356347" lat="51.4762478" lon="-3.2543972" version="4" timestamp="2014-07-16T07:16:25Z" changeset="24175436" uid="28559" user="Stemby">
+  <node id="2964356347" lat="51.4762478" lon="-3.2543972" version="5" timestamp="2022-06-29T20:39:30Z" changeset="123019180" uid="10055101" user="Yorkshire Mapper">
     <tag k="addr:city" v="Cardiff"/>
     <tag k="addr:housenumber" v="33a"/>
     <tag k="addr:postcode" v="CF5 4LL"/>
@@ -39394,7 +39391,7 @@
     <tag k="description" v="Specialize_in_Cannabis_seeds_and_smoking_essentials"/>
     <tag k="name" v="Maryjane Essentials"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="yes"/>
+    <tag k="shop" v="cannabis"/>
   </node>
   <node id="2964630137" lat="46.0509072" lon="14.5112518" version="7" timestamp="2021-02-24T03:21:36Z" changeset="99862876" uid="1778799" user="SomeoneElse_Revert">
     <tag k="addr:city" v="Ljubljana"/>
@@ -50094,18 +50091,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+254700380009"/>
     <tag k="website" v="https://cookswell.co.ke/"/>
-  </node>
-  <node id="3377394828" lat="48.8908910" lon="2.3395767" version="2" timestamp="2015-11-29T11:10:18Z" changeset="35643877" uid="28559" user="Stemby">
-    <tag k="addr:city" v="Paris"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:postcode" v="75018"/>
-    <tag k="addr:street" v="Rue de la Fontaine du But"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="italian"/>
-    <tag k="name" v="Restaurant Il Bugigattolo"/>
-    <tag k="opening_hours" v="Mo-Tu 12:00-14:00,19:00-23:00; We 19:00-23:00; Th-Fr 12:00-14:00,19:00-23:00; Sa 19:00-23:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://ilbugigattolo.fr/"/>
   </node>
   <node id="3377839752" lat="57.1308209" lon="-2.1189598" version="3" timestamp="2019-03-23T04:44:17Z" changeset="68434444" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Aberdeen"/>
@@ -69301,11 +69286,12 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://www.digitworldsrl.com"/>
   </node>
-  <node id="6503288231" lat="45.4350370" lon="12.3409140" version="1" timestamp="2019-05-27T07:06:51Z" changeset="70650527" uid="2201521" user="quibitcoin">
+  <node id="6503288231" lat="45.4350370" lon="12.3409140" version="2" timestamp="2022-06-29T10:14:54Z" changeset="122995026" uid="16146608" user="McCio">
     <tag k="addr:city" v="Venezia"/>
     <tag k="addr:housenumber" v="4318"/>
+    <tag k="addr:neighbourhood" v="Castello"/>
+    <tag k="addr:place" v="Castello"/>
     <tag k="addr:postcode" v="30122"/>
-    <tag k="addr:street" v="Sestiere di Castello"/>
     <tag k="description" v="Negozio laboratorio di produzione gioielli in oro e pietre preziose: moretti ed altri gioielli esclusivi personalizzati realizzati a mano, teschi vanitas, corniole incise, gioielli con opali e molto altro."/>
     <tag k="email" v="info@webjewels.it"/>
     <tag k="name" v="Oreficeria Gioielleria Dogale"/>
@@ -78625,34 +78611,6 @@
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="shop" v="supermarket"/>
-  </node>
-  <node id="9652646265" lat="43.4173832" lon="-86.3552233" version="3" timestamp="2022-06-21T20:12:30Z" changeset="122684269" uid="11548585" user="emersonveenstra">
-    <tag k="addr:city" v="Montague"/>
-    <tag k="addr:housenumber" v="8744"/>
-    <tag k="addr:postcode" v="49437"/>
-    <tag k="addr:state" v="MI"/>
-    <tag k="addr:street" v="Ferry Street"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="check_date" v="2022-06-19"/>
-    <tag k="cuisine" v="coffee_shop"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="customers"/>
-    <tag k="name" v="The Book Nook &amp; Java Shop"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="(231) 894-5333"/>
-    <tag k="website" v="https://www.thebooknookjavashop.com/"/>
-  </node>
-  <node id="9652646266" lat="43.4173477" lon="-86.3550383" version="3" timestamp="2022-06-21T20:12:09Z" changeset="122684256" uid="11548585" user="emersonveenstra">
-    <tag k="amenity" v="pub"/>
-    <tag k="check_date" v="2022-06-19"/>
-    <tag k="microbrewery" v="yes"/>
-    <tag k="name" v="North Grove Brewers"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
   </node>
   <node id="9668725399" lat="41.0362157" lon="28.9894386" version="1" timestamp="2022-04-15T18:28:07Z" changeset="119761577" uid="3100233" user="enotramone">
     <tag k="addr:city" v="İstanbul"/>
