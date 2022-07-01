@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-06-30T05:32:54Z"/>
+<meta osm_base="2022-07-01T05:40:39Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -75892,19 +75892,6 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9131557166" lat="45.6574222" lon="12.8017763" version="1" timestamp="2021-09-29T09:23:31Z" changeset="111855729" uid="10082830" user="ManOfSteal">
-    <tag k="addr:city" v="San Stino di Livenza"/>
-    <tag k="addr:postcode" v="30020"/>
-    <tag k="addr:street" v="Piazzale della Repubblica"/>
-    <tag k="description" v="Sale of itinerant plants and flowers at the weekly market on Wednesdays."/>
-    <tag k="description:de" v="Verkauf von Wanderpflanzen und Blumen auf dem Wochenmarkt mittwochs."/>
-    <tag k="description:it" v="Vendita piante e fiori ambulante presso mercato settimanale del mercoledì."/>
-    <tag k="email" v="maurizio@montinofiori.it"/>
-    <tag k="name" v="MontinoFiori"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="florist"/>
-    <tag k="website" v="http://www.montinofiori.it"/>
-  </node>
   <node id="9132433077" lat="32.5217703" lon="-87.8379345" version="1" timestamp="2021-09-29T14:50:34Z" changeset="111871544" uid="9220083" user="Joyalways">
     <tag k="addr:city" v="Demopolis"/>
     <tag k="addr:housenumber" v="605"/>
@@ -79144,6 +79131,15 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+2347014568425"/>
     <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="9858146934" lat="51.7175515" lon="19.4106209" version="1" timestamp="2022-06-30T13:20:16Z" changeset="123045407" uid="2092025" user="Fan map">
+    <tag k="fixme" v="należałoby zweryfikować czy istnieje nadal"/>
+    <tag k="name" v="Agencja Interaktywna Czarny Kod"/>
+    <tag k="office" v="it"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+48 663 164 762"/>
+    <tag k="website" v="https://czarnykod.pl/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
