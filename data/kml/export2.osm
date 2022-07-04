@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-03T05:24:57Z"/>
+<meta osm_base="2022-07-04T05:38:03Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -12556,7 +12556,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.raymundmedia.de/shop"/>
   </node>
-  <node id="2558339987" lat="52.0735984" lon="4.3157913" version="9" timestamp="2022-06-06T15:01:36Z" changeset="122030084" uid="5432507" user="Knockerclot0715">
+  <node id="2558339987" lat="52.0735984" lon="4.3157913" version="10" timestamp="2022-07-03T10:47:44Z" changeset="123146502" uid="483075" user="lyctkel">
     <tag k="addr:city" v="'s-Gravenhage"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:postcode" v="2512BC"/>
@@ -12564,8 +12564,11 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="diet:vegan" v="yes"/>
     <tag k="diet:vegetarian" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
     <tag k="name" v="Kaai 13"/>
     <tag k="opening_hours" v="Mo-Su 11:00-24:00"/>
+    <tag k="outdoor_seating" v="garden;terrace"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+31 70 250 5860"/>
     <tag k="source" v="BAG"/>
@@ -17615,37 +17618,6 @@
     <tag k="source:date" v="2013-11-26"/>
     <tag k="website" v="http://de-waag.nl"/>
     <tag k="yelp" v="http://www.yelp.com/biz/stadscaf%C3%A9-de-waag-delft-2"/>
-  </node>
-  <node id="2599505947" lat="52.0149926" lon="4.3510878" version="5" timestamp="2022-01-06T10:29:26Z" changeset="115830635" uid="10875409" user="Friendly_Ghost">
-    <tag k="addr:city" v="Delft"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="2611AV"/>
-    <tag k="addr:street" v="Wateringsevest"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="bar" v="yes"/>
-    <tag k="brewery" v="yes;various;Augustiner;Heineken;grolsch"/>
-    <tag k="cuisine" v="barbecue;dubbelspieskanon;pizza"/>
-    <tag k="delivery" v="no"/>
-    <tag k="description" v="'Here at the Drosovilla we are happy to serve you the best food and drinks. We value our customers and try to guarantee their happiness by serving our specialty of the house, the Dubbelspieskanon. We hope to see you soon!"/>
-    <tag k="diet:halal" v="yes"/>
-    <tag k="diet:vegetarian" v="yes"/>
-    <tag k="email" v="drosovilla10@gmail.com"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="customers"/>
-    <tag k="internet_access:ssid" v="Drosovilla"/>
-    <tag k="min_age" v="18"/>
-    <tag k="name" v="Drosovilla"/>
-    <tag k="opening_hours" v="Tu-Su 00:00-24:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cheque" v="yes"/>
-    <tag k="ref:bag" v="503100000027122"/>
-    <tag k="reservation" v="yes"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="source" v="BAG"/>
-    <tag k="source:date" v="2013-11-26"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="2599514021" lat="52.0118691" lon="4.3627674" version="3" timestamp="2015-01-09T10:50:33Z" changeset="28016417" uid="2084575" user="Coinpluggin">
     <tag k="addr:city" v="Delft"/>
@@ -41553,17 +41525,6 @@
     <tag k="phone" v="305 735 3521"/>
     <tag k="shop" v="car"/>
     <tag k="website" v="https://www.newageautosales.com/"/>
-  </node>
-  <node id="3026819436" lat="1.3006660" lon="103.8410680" version="1" timestamp="2014-08-19T08:10:46Z" changeset="24852080" uid="1651798" user="oldenburg69">
-    <tag k="addr:city" v="Singapore"/>
-    <tag k="addr:housenumber" v="136"/>
-    <tag k="addr:postcode" v="2424"/>
-    <tag k="addr:street" v="Orchard Road"/>
-    <tag k="landuse" v="retail"/>
-    <tag k="name" v="Liana Medic Ltd"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+65 2424666"/>
-    <tag k="website" v="http://www.lianamedic.com/"/>
   </node>
   <node id="3026826523" lat="44.4196928" lon="-0.2787576" version="5" timestamp="2019-03-19T12:49:09Z" changeset="68293560" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Lignan-de-Bazas"/>
