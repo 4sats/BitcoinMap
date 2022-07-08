@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-07T05:34:24Z"/>
+<meta osm_base="2022-07-08T05:34:24Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -6306,7 +6306,7 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://rapidedge.ca/"/>
   </node>
-  <node id="2411238618" lat="42.5967057" lon="-83.1698472" version="5" timestamp="2020-12-16T05:08:47Z" changeset="95913972" uid="307520" user="wolfgang8741">
+  <node id="2411238618" lat="42.5967407" lon="-83.1698162" version="6" timestamp="2022-07-07T14:29:11Z" changeset="123323263" uid="4887951" user="Gsgeorge">
     <tag k="addr:city" v="Troy"/>
     <tag k="addr:housenumber" v="5399"/>
     <tag k="addr:postcode" v="48098"/>
@@ -6314,7 +6314,7 @@
     <tag k="addr:street" v="Crooks Rd"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
-    <tag k="name" v="Papa Romano's Pizza"/>
+    <tag k="name" v="Papa Romano's Pizza &amp; Mr. Pita"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-248-267-1212"/>
     <tag k="website" v="https://www.facebook.com/troypapas?ref=tn_tnmn"/>
@@ -29507,17 +29507,6 @@
     <tag k="website" v="https://www.spar.nl/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2726872655" lat="51.9825993" lon="5.9021143" version="2" timestamp="2014-07-14T23:10:32Z" changeset="24150989" uid="2084575" user="Coinpluggin">
-    <tag k="addr:city" v="Arnhem"/>
-    <tag k="addr:housenumber" v="33"/>
-    <tag k="addr:postcode" v="6811LA"/>
-    <tag k="addr:street" v="Coehoornstraat"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="name" v="Stella by Starlight"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="BAG"/>
-    <tag k="source:date" v="2014-02-11"/>
-  </node>
   <node id="2726873054" lat="51.9830948" lon="5.9011991" version="5" timestamp="2022-03-26T18:58:18Z" changeset="118959074" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Arnhem"/>
     <tag k="addr:housenumber" v="8"/>
@@ -50571,7 +50560,7 @@
     <tag k="shop" v="Buy and Sell Bitcoin"/>
     <tag k="website" v="http://www.StakeCo.in"/>
   </node>
-  <node id="3399774860" lat="53.3856852" lon="-2.3507619" version="6" timestamp="2017-09-16T15:13:07Z" changeset="52097736" uid="3067760" user="Rica Duchateau">
+  <node id="3399774860" lat="53.3856852" lon="-2.3507619" version="6" timestamp="2017-09-16T15:13:07Z" changeset="52097736" uid="3067760" user="Rica Zamora Duchateau">
     <tag k="addr:city" v="Altrincham"/>
     <tag k="addr:housename" v="Diadem Jewellery"/>
     <tag k="addr:housenumber" v="55"/>
@@ -69202,10 +69191,10 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
   </node>
-  <node id="6478979758" lat="54.0989299" lon="12.0726822" version="2" timestamp="2021-04-17T21:10:15Z" changeset="103117942" uid="17966" user="Protoxenus">
+  <node id="6478979758" lat="54.0988804" lon="12.0730658" version="3" timestamp="2022-07-07T11:09:19Z" changeset="123314536" uid="1241052" user="KVLA-HRO-Kro">
     <tag k="addr:city" v="Rostock"/>
     <tag k="addr:country" v="DE"/>
-    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:housenumber" v="1d"/>
     <tag k="addr:postcode" v="18069"/>
     <tag k="addr:street" v="Walter-Stoecker-Straße"/>
     <tag k="addr:suburb" v="Reutershagen"/>
@@ -79204,6 +79193,30 @@
     <tag k="phone" v="+506 22181420"/>
     <tag k="shop" v="convenience"/>
     <tag k="website" v="www.royalcanincr.com"/>
+  </node>
+  <node id="9871780015" lat="39.5570767" lon="16.1199379" version="1" timestamp="2022-07-07T07:55:36Z" changeset="123305715" uid="2201521" user="quibitcoin">
+    <tag k="addr:city" v="San Marco Argentano"/>
+    <tag k="addr:postcode" v="87018"/>
+    <tag k="addr:street" v="Via della Repubblica"/>
+    <tag k="description" v="Azienda agricola, pastificio. Bio a Km0."/>
+    <tag k="email" v="info@enobaccanti.com"/>
+    <tag k="name" v="Ojní"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 3481305685"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="https://ojni.it"/>
+  </node>
+  <node id="9871802543" lat="39.5566944" lon="16.1196507" version="1" timestamp="2022-07-07T07:59:34Z" changeset="123305871" uid="2201521" user="quibitcoin">
+    <tag k="addr:city" v="San Marco Argentano"/>
+    <tag k="addr:postcode" v="87018"/>
+    <tag k="addr:street" v="Via della Repubblica"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="description" v="Enoteca ristorante."/>
+    <tag k="email" v="info@enobaccanti.com"/>
+    <tag k="name" v="Le Baccanti"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 09841906595"/>
+    <tag k="website" v="https://enobaccanti.com"/>
   </node>
 
 </osm>
