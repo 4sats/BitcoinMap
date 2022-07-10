@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-09T05:25:02Z"/>
+<meta osm_base="2022-07-10T05:26:02Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -23908,12 +23908,13 @@
     <tag k="shop" v="clothes"/>
     <tag k="website" v="http://www.freddyallureclothing.com/"/>
   </node>
-  <node id="2657349975" lat="37.3337137" lon="-121.8941730" version="4" timestamp="2019-06-04T06:41:25Z" changeset="70910682" uid="33757" user="Minh Nguyen">
+  <node id="2657349975" lat="37.3337137" lon="-121.8941730" version="5" timestamp="2022-07-10T05:20:22Z" changeset="123419665" uid="10457019" user="impiooort">
     <tag k="addr:city" v="San Jose"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="95113"/>
     <tag k="addr:state" v="CA"/>
     <tag k="addr:street" v="Almaden Boulevard"/>
+    <tag k="addr:unit" v="1000"/>
     <tag k="name" v="Malwarebytes"/>
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -79771,6 +79772,27 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 09841906595"/>
     <tag k="website" v="https://enobaccanti.com"/>
+  </node>
+  <node id="9875911936" lat="35.5905615" lon="51.4366445" version="1" timestamp="2022-07-09T09:15:57Z" changeset="123393010" uid="11348430" user="Dayan13">
+    <tag k="addr:city" v="شهر ری"/>
+    <tag k="addr:street" v="سپاهیان انقلاب"/>
+    <tag k="brand" v="apple - samsung  - xiaomi - LG - huawei - sony - Nokia"/>
+    <tag k="description" v="خرید و فروش انواع گوشی ها و تبلت های نو و کارکرده &#x0a;خرید و فروش انواع سیم کارت های نو و کارکرده &#x0a;تعمیرات تخصصی سخت افزاری و نرم افزاری انواع گوشی و تبلت"/>
+    <tag k="name" v="موبایل دانیال"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+    <tag k="opening_hours:covid19" v="open"/>
+    <tag k="operator" v="اسماعیل یاملایی"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="02155919482"/>
+    <tag k="shop" v="mobile_phone"/>
   </node>
 
 </osm>
