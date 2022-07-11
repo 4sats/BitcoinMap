@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-10T05:26:02Z"/>
+<meta osm_base="2022-07-11T05:33:23Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -2700,7 +2700,7 @@
     <tag k="name" v="El Asador de Aranda"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="1371534685" lat="48.2029616" lon="16.3548531" version="11" timestamp="2020-05-30T14:33:10Z" changeset="85983674" uid="11268710" user="osmensch">
+  <node id="1371534685" lat="48.2029616" lon="16.3548531" version="12" timestamp="2022-07-10T13:57:46Z" changeset="123431023" uid="1727602" user="Findus23">
     <tag k="addr:city" v="Wien"/>
     <tag k="addr:country" v="AT"/>
     <tag k="addr:housenumber" v="4"/>
@@ -2712,11 +2712,13 @@
     <tag k="diet:vegan" v="yes"/>
     <tag k="diet:vegetarian" v="only"/>
     <tag k="email" v="spittelberg@taste-tian.com"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="name" v="Tian Bistro"/>
     <tag k="name:de" v="Tian Bistro"/>
     <tag k="name:en" v="Tian Bistro"/>
     <tag k="opening_hours" v="Mo 17:30-22:00; Tu-Fr 12:00-22:00; Sa-Su 10:00-22:00"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="restaurant" v="vegetarian"/>
     <tag k="toilets:wheelchair" v="no"/>
@@ -3744,19 +3746,28 @@
     <tag k="ref:mise" v="8064"/>
     <tag k="website" v="https://www.facebook.com/distributorepasquato/"/>
   </node>
-  <node id="1819811589" lat="37.7830708" lon="-122.4647069" version="3" timestamp="2021-11-24T21:42:07Z" changeset="114163779" uid="290680" user="wheelmap_visitor">
+  <node id="1819811589" lat="37.7830708" lon="-122.4647069" version="4" timestamp="2022-07-10T22:47:57Z" changeset="123449380" uid="4186070" user="user4816003805">
     <tag k="addr:city" v="San Francisco"/>
     <tag k="addr:housenumber" v="506"/>
     <tag k="addr:postcode" v="94118"/>
     <tag k="addr:state" v="CA"/>
     <tag k="addr:street" v="Clement Street"/>
+    <tag k="contact:facebook" v="Green.Apple.Books.and.Music"/>
+    <tag k="contact:instagram" v="greenapplebooks"/>
+    <tag k="contact:pinterest" v="greenapplebooks"/>
+    <tag k="contact:twitter" v="GreenAppleBooks"/>
+    <tag k="contact:youtube" v="https://www.youtube.com/user/GreenAppleBooks"/>
     <tag k="name" v="Green Apple Books"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-21:00"/>
+    <tag k="opening_hours:url" v="https://www.greenapplebooks.com/"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="(415) 387-2272"/>
+    <tag k="phone" v="+1 415 3872272"/>
     <tag k="shop" v="books"/>
-    <tag k="website" v="http://greenapplebooks.com"/>
+    <tag k="website" v="https://www.greenapplebooks.com/"/>
     <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5602289"/>
+    <tag k="wikipedia" v="en:Green Apple Books &amp; Music"/>
   </node>
   <node id="1819819004" lat="60.1603402" lon="24.9196012" version="14" timestamp="2022-04-29T04:14:04Z" changeset="120329616" uid="8980540" user="pyyhttu">
     <tag k="addr:city" v="Helsinki"/>
@@ -9763,12 +9774,13 @@
     <tag k="shop" v="alcohol"/>
     <tag k="website" v="http://www.mgtamada.com/"/>
   </node>
-  <node id="2539581911" lat="52.1454635" lon="6.1966929" version="5" timestamp="2014-02-07T19:23:31Z" changeset="20436109" uid="1880372" user="Commodoortje_BAG">
+  <node id="2539581911" lat="52.1454635" lon="6.1966929" version="6" timestamp="2022-07-10T19:21:30Z" changeset="123444445" uid="9359484" user="Tilia_J">
     <tag k="addr:city" v="Zutphen"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="7201NZ"/>
     <tag k="addr:street" v="Kruittorenhoek"/>
-    <tag k="name" v="Kruittoren"/>
+    <tag k="name" v="Taxcent"/>
+    <tag k="office" v="surveyor"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-01-22"/>
@@ -23319,16 +23331,20 @@
     <tag k="phone" v="+1-905-738-0725"/>
     <tag k="website" v="https://www.azsurplus.com/"/>
   </node>
-  <node id="2645847395" lat="44.1476461" lon="-79.3742189" version="4" timestamp="2019-02-18T09:26:59Z" changeset="67307741" uid="9451067" user="b-jazz-bot">
+  <node id="2645847395" lat="44.1476461" lon="-79.3742189" version="5" timestamp="2022-07-10T16:29:23Z" changeset="123439027" uid="1893047" user="BareOaks">
     <tag k="addr:city" v="East Gwillimbury"/>
     <tag k="addr:housenumber" v="20237"/>
     <tag k="addr:postcode" v="L0G 1V0"/>
+    <tag k="addr:province" v="Ontario"/>
     <tag k="addr:street" v="Kennedy Road"/>
     <tag k="leisure" v="park"/>
     <tag k="name" v="Bare Oaks Family Naturist Park"/>
+    <tag k="operator" v="Bare Oaks Family Naturist Park"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-905-473-6060"/>
     <tag k="website" v="https://www.bareoaks.ca/"/>
+    <tag k="wikidata" v="Q4860293"/>
+    <tag k="wikipedia" v="en:Bare Oaks Family Naturist Park"/>
   </node>
   <node id="2645909427" lat="43.6912982" lon="10.4646318" version="6" timestamp="2019-04-15T21:17:45Z" changeset="69249996" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Cascina"/>
@@ -29979,16 +29995,22 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://tomatoespizzail.com/"/>
   </node>
-  <node id="2728090470" lat="41.5489515" lon="-88.1411538" version="2" timestamp="2014-03-20T07:19:05Z" changeset="21205145" uid="1836471" user="Blobo123">
+  <node id="2728090470" lat="41.5489515" lon="-88.1411538" version="3" timestamp="2022-07-11T01:34:50Z" changeset="123451242" uid="1237170" user="Zol87">
+    <tag k="addr:city" v="Joliet"/>
     <tag k="addr:housenumber" v="1490"/>
+    <tag k="addr:state" v="IL"/>
     <tag k="addr:street" v="Cedarwood Drive"/>
-    <tag k="amenity" v="restaurant"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="Rosati's"/>
+    <tag k="brand:wikidata" v="Q65052579"/>
     <tag k="contact:phone" v="815-744-0800"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Rosati's Pizzeria"/>
+    <tag k="name" v="Rosati's"/>
+    <tag k="official_name" v="Rosati's Authentic Chicago Pizza"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
+    <tag k="takeaway" v="yes"/>
     <tag k="website" v="http://cresthillrosatis.com/"/>
   </node>
   <node id="2728124745" lat="42.0550144" lon="-88.3145800" version="1" timestamp="2014-03-20T04:26:40Z" changeset="21204012" uid="1836471" user="Blobo123">
@@ -43932,15 +43954,16 @@
     <tag k="phone" v="+90 533 566 90 79"/>
     <tag k="website" v="www.homeopatinedir.com"/>
   </node>
-  <node id="3101393429" lat="-27.4676034" lon="153.0258838" version="3" timestamp="2019-02-07T02:09:23Z" changeset="66981438" uid="9043920" user="exiy">
+  <node id="3101393429" lat="-27.4676034" lon="153.0258838" version="4" timestamp="2022-07-11T04:02:53Z" changeset="123453074" uid="1293194" user="nevw">
     <tag k="addr:city" v="Brisbane"/>
     <tag k="addr:housenumber" v="186"/>
     <tag k="addr:postcode" v="4000"/>
     <tag k="addr:street" v="Adelaide Street"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/VahoAU/"/>
     <tag k="name" v="Vaho - Unique Recycled Bags from Barcelona"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+61 7 3221 8246"/>
-    <tag k="shop" v="yes"/>
+    <tag k="shop" v="bag"/>
     <tag k="website" v="http://www.vaho.com.au"/>
   </node>
   <node id="3101537487" lat="53.8467318" lon="-1.6328738" version="4" timestamp="2017-04-03T09:00:52Z" changeset="47404723" uid="2366492" user="clairerm">
