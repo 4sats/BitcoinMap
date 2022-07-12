@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-11T05:33:23Z"/>
+<meta osm_base="2022-07-12T05:42:38Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -10008,14 +10008,15 @@
     <tag k="phone" v="+4536949690"/>
     <tag k="website" v="https://gigahost.co.uk"/>
   </node>
-  <node id="2542053567" lat="45.5269279" lon="-73.5502967" version="3" timestamp="2019-02-20T17:30:53Z" changeset="67400381" uid="9451067" user="b-jazz-bot">
+  <node id="2542053567" lat="45.4995106" lon="-73.4485392" version="4" timestamp="2022-07-11T06:11:19Z" changeset="123456318" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Montréal"/>
-    <tag k="addr:housenumber" v="2250"/>
-    <tag k="addr:postcode" v="H2K"/>
-    <tag k="addr:street" v="Boulevard de Maisonneuve Est"/>
+    <tag k="addr:housenumber" v="4400"/>
+    <tag k="addr:postcode" v="J3Y 8L4"/>
+    <tag k="addr:street" v="Boulevard Kimber"/>
     <tag k="name" v="Voxel Factory"/>
     <tag k="note" v="Voxel Factory is the first 3D printing material (ABS and PLA) supplier in Montreal."/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="shop" v="electronics"/>
     <tag k="website" v="https://www.voxelfactory.com/"/>
   </node>
   <node id="2542070442" lat="34.0915279" lon="-118.3154012" version="2" timestamp="2019-05-27T14:55:04Z" changeset="70664882" uid="8339" user="mtmail">
@@ -20097,7 +20098,7 @@
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2617613023" lat="41.7760930" lon="-72.5183380" version="2" timestamp="2019-05-26T13:07:26Z" changeset="70632338" uid="8339" user="mtmail">
+  <node id="2617613023" lat="41.7760930" lon="-72.5183380" version="3" timestamp="2022-07-11T15:15:56Z" changeset="123480230" uid="11346295" user="jnighan">
     <tag k="addr:city" v="Manchester"/>
     <tag k="addr:housenumber" v="122"/>
     <tag k="addr:postcode" v="06040"/>
@@ -28721,8 +28722,9 @@
     <tag k="website" v="http://imolle.com"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2724346310" lat="41.8152596" lon="-72.5553549" version="3" timestamp="2021-08-29T02:37:26Z" changeset="110398141" uid="187467" user="Mashin">
+  <node id="2724346310" lat="41.8152596" lon="-72.5553549" version="5" timestamp="2022-07-11T15:32:37Z" changeset="123480848" uid="11346295" user="jnighan">
     <tag k="addr:housenumber" v="800"/>
+    <tag k="addr:postcode" v="06074"/>
     <tag k="addr:state" v="CT"/>
     <tag k="addr:street" v="Evergreen Way"/>
     <tag k="amenity" v="restaurant"/>
@@ -31381,7 +31383,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="producent"/>
   </node>
-  <node id="2747411703" lat="50.1235171" lon="8.6425881" version="4" timestamp="2021-09-17T08:12:15Z" changeset="111318847" uid="290680" user="wheelmap_visitor">
+  <node id="2747411703" lat="50.1234879" lon="8.6426864" version="5" timestamp="2022-07-11T12:48:02Z" changeset="123474262" uid="132740" user="Creando">
     <tag k="addr:city" v="Frankfurt am Main"/>
     <tag k="addr:housenumber" v="81"/>
     <tag k="addr:postcode" v="60487"/>
@@ -72961,32 +72963,6 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://www.cartuccetorino.it"/>
   </node>
-  <node id="7876312109" lat="46.1679926" lon="6.1069829" version="1" timestamp="2020-09-04T18:20:24Z" changeset="90428681" uid="10920478" user="iD-w">
-    <tag k="access" v="private"/>
-    <tag k="addr:city" v="Plan-les-Ouates"/>
-    <tag k="addr:country" v="CH"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:postcode" v="1228"/>
-    <tag k="addr:street" v="Chemin du Pré-Fleuri"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/ProtonMail"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/protonmail/"/>
-    <tag k="contact:twitter" v="https://twitter.com/protonmail"/>
-    <tag k="email" v="contact@protonmail.ch"/>
-    <tag k="fee" v="yes"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="name" v="Proton Technologies AG"/>
-    <tag k="office" v="it"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="start_date" v="2016-05-16"/>
-    <tag k="surveillance" v="no"/>
-    <tag k="website" v="https://protonmail.com/"/>
-    <tag k="wikidata" v="Q96400342"/>
-    <tag k="wikipedia" v="en:Proton Technologies"/>
-  </node>
   <node id="7886405281" lat="14.5769261" lon="121.1018097" version="2" timestamp="2020-09-08T08:32:47Z" changeset="90572631" uid="7612177" user="ctboss">
     <tag k="cash_withdrawal" v="yes"/>
     <tag k="description" v="use Abra app to buy/sell cryptocurrencies with cash"/>
@@ -79816,6 +79792,44 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="02155919482"/>
     <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="9880457951" lat="46.1679949" lon="6.1030155" version="1" timestamp="2022-07-11T07:56:22Z" changeset="123460613" uid="9641379" user="Pan Perníček">
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Plan-les-Ouates"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="1228"/>
+    <tag k="addr:street" v="Route de la Galaise"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/ProtonMail"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/protonmail/"/>
+    <tag k="contact:twitter" v="https://twitter.com/protonmail"/>
+    <tag k="email" v="contact@protonmail.ch"/>
+    <tag k="fee" v="yes"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Proton Technologies AG"/>
+    <tag k="office" v="it"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="opening_hours:covid19" v="open"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="start_date" v="2016-05-16"/>
+    <tag k="surveillance" v="no"/>
+    <tag k="website" v="https://protonmail.com/"/>
+    <tag k="wikidata" v="Q96400342"/>
+    <tag k="wikipedia" v="en:Proton Technologies"/>
+  </node>
+  <node id="9881777070" lat="50.8156589" lon="4.3711922" version="1" timestamp="2022-07-11T19:56:59Z" changeset="123489931" uid="2644288" user="bxl-forever">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:email" v="lecavedelosteria@gmail.com"/>
+    <tag k="contact:phone" v="+32 2 648 13 95"/>
+    <tag k="contact:website" v="https://www.osteriaromana.be/"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="Osteria Romana"/>
+    <tag k="opening_hours" v="Mo off; Tu,We,Sa 19:00-23:30; Th,Fr 12:00-15:00,19:00-23:30; Su off"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:litecoin" v="yes"/>
+    <tag k="reservation" v="recommended"/>
+    <tag k="takeaway" v="yes"/>
   </node>
 
 </osm>
