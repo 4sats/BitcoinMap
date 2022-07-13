@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-12T05:42:38Z"/>
+<meta osm_base="2022-07-13T05:29:48Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -618,7 +618,7 @@
     <tag k="name" v="Identitätsstiftung GmbH"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="324162964" lat="60.1637353" lon="24.9456106" version="10" timestamp="2021-10-26T15:28:56Z" changeset="112998368" uid="8980540" user="pyyhttu">
+  <node id="324162964" lat="60.1637353" lon="24.9456106" version="11" timestamp="2022-07-12T14:04:03Z" changeset="123523089" uid="8980540" user="pyyhttu">
     <tag k="addr:city" v="Helsinki"/>
     <tag k="addr:country" v="FI"/>
     <tag k="addr:housenumber" v="1a"/>
@@ -631,6 +631,8 @@
     <tag k="name" v="Himalaya"/>
     <tag k="opening_hours" v="Mo-Fr 11:00-23:00; Sa-Su 12:00-23:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="website" v="www.himalaya.fi"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -1558,16 +1560,6 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="+39 02 33431871"/>
     <tag k="website" v="000000"/>
-  </node>
-  <node id="709328079" lat="59.4301367" lon="24.7438037" version="2" timestamp="2014-03-19T06:55:20Z" changeset="21186852" uid="1651798" user="oldenburg69">
-    <tag k="addr:city" v="Tallinn"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="Roosikrantsi"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="name" v="Sushi Cat"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+372 50 30 911"/>
-    <tag k="website" v="http://www.sushicat.ee/"/>
   </node>
   <node id="736620004" lat="46.7717469" lon="23.5901271" version="13" timestamp="2022-05-23T13:40:55Z" changeset="121370563" uid="3829221" user="lawrencebanks">
     <tag k="amenity" v="coworking_space"/>
