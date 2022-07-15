@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-14T05:39:35Z"/>
+<meta osm_base="2022-07-15T05:47:36Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -6267,14 +6267,11 @@
     <tag k="website" v="http://www.virtualnimeny.com"/>
     <tag k="website2" v="http://menybudoucnosti.cz/"/>
   </node>
-  <node id="2399139651" lat="54.3156663" lon="8.6080476" version="3" timestamp="2014-01-04T08:54:43Z" changeset="19800641" uid="534489" user="andreasrhodin">
-    <tag k="addr:city" v="Sankt Peter-Ording"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:postcode" v="25826"/>
-    <tag k="addr:street" v="Im Bad"/>
-    <tag k="name" v="Altes Haus 1912"/>
+  <node id="2399139651" lat="54.3156663" lon="8.6080476" version="4" timestamp="2022-07-14T05:50:37Z" changeset="123590509" uid="13382" user="Schramme">
+    <tag k="healthcare" v="sample_collection"/>
+    <tag k="healthcare:speciality" v="covid19"/>
+    <tag k="name" v="Covid-19 Teststation"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="clothes"/>
   </node>
   <node id="2400996356" lat="29.9552478" lon="-90.0671103" version="8" timestamp="2019-08-12T01:01:26Z" changeset="73253045" uid="8819980" user="AnonymousAlligator">
     <tag k="addr:city" v="New Orleans"/>
@@ -44552,11 +44549,7 @@
     <tag k="phone" v="(973) 503-1700"/>
     <tag k="website" v="http://www.eventsplus.com"/>
   </node>
-  <node id="3137791510" lat="60.4394056" lon="5.1880405" version="3" timestamp="2019-03-30T11:09:09Z" changeset="68693868" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Kleppestø"/>
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:postcode" v="5309"/>
-    <tag k="addr:street" v="Storebotn"/>
+  <node id="3137791510" lat="60.4394060" lon="5.1880400" version="4" timestamp="2022-07-14T05:46:12Z" changeset="123590373" uid="9224679" user="addr2osm">
     <tag k="name" v="Dåvøy Musikk"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.davoy.no/"/>
@@ -79763,6 +79756,40 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="reservation" v="recommended"/>
     <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="9886962050" lat="35.6569821" lon="51.4277122" version="1" timestamp="2022-07-14T10:18:26Z" changeset="123601940" uid="16541612" user="comekala">
+    <tag k="addr:city" v="شهر تهران"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="11027"/>
+    <tag k="addr:postcode" v="1416799463"/>
+    <tag k="addr:street" v="پاساژنورتهران"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="branch" v="Computers and hardware"/>
+    <tag k="brand" v="comekala"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="description" v="فروشگاه کام کالا ارئه دهنده سخت افزار کامپیوتر نوت بوک ماشین های اداری و شبکه در شهر تهران واقع در خیابان ولیعصر بازار کامپیوتر&#x0a;ما تمرکز بر سه ویژگی ینعی قابل اعتماد بودن خدمات مشتری و منحصر به فرد بودن در کنار شما خواهیم بود&#x0a;فروشگاه کام کالا در سال 98 فع"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="ele" v="3"/>
+    <tag k="email" v="kam4west@gmail.com"/>
+    <tag k="fax" v="+982188901489"/>
+    <tag k="fixme" v="+982188901489"/>
+    <tag k="image" v="https://comekala.com/wp-content/uploads/2022/07/com-kala-removebg-preview.png"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="level" v="5"/>
+    <tag k="mapillary" v="https://comekala.com/wp-content/uploads/2022/07/com-kala-removebg-preview.png"/>
+    <tag k="name" v="فروشگاه اینترنتی کام کالا"/>
+    <tag k="not:name" v="کام"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="operator" v="کمال خورشیدی"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="phone" v="+9809395071176"/>
+    <tag k="shop" v="computer"/>
+    <tag k="source" v="https://comekala.com/"/>
   </node>
 
 </osm>
