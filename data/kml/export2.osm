@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-15T05:47:36Z"/>
+<meta osm_base="2022-07-16T05:26:09Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -7000,13 +7000,15 @@
     <tag k="tourism" v="apartments"/>
     <tag k="website" v="https://www.sykescottages.co.uk/cottage/Cotswolds-Gloucestershire-Newent/The-Farmhouse-8590.html"/>
   </node>
-  <node id="2443147009" lat="56.9468150" lon="24.1115359" version="3" timestamp="2021-12-11T20:37:11Z" changeset="114830091" uid="549888" user="arcth">
+  <node id="2443147009" lat="56.9468150" lon="24.1115359" version="4" timestamp="2022-07-15T19:37:41Z" changeset="123666940" uid="15008076" user="latvia-bot">
     <tag k="addr:city" v="Rīga"/>
     <tag k="addr:country" v="LV"/>
     <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="LV-1050"/>
     <tag k="addr:street" v="Vecpilsētas iela"/>
     <tag k="name" v="Teddy Hostel"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="ref:LV:addr" v="102653734"/>
     <tag k="tourism" v="hostel"/>
     <tag k="website" v="http://teddyhostelriga.com/"/>
   </node>
@@ -10700,20 +10702,21 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.lieferservice.de"/>
   </node>
-  <node id="2550321613" lat="51.5022771" lon="9.3920817" version="3" timestamp="2013-11-27T15:33:06Z" changeset="19146272" uid="314075" user="jonasbits">
+  <node id="2550321613" lat="51.5022771" lon="9.3920817" version="4" timestamp="2022-07-15T23:32:49Z" changeset="123671880" uid="251543" user="ChrissW-R1">
     <tag k="addr:city" v="Hofgeismar"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="34369"/>
     <tag k="addr:street" v="Kastanienweg"/>
-    <tag k="contact:addr:city" v="Berlin"/>
-    <tag k="contact:addr:housenumber" v="16a"/>
-    <tag k="contact:addr:postcode" v="10245"/>
-    <tag k="contact:addr:street" v="Ehrenbergstraße"/>
-    <tag k="email" v="kontakt@eichhain.com"/>
+    <tag k="contact:city" v="Berlin"/>
+    <tag k="contact:country" v="DE"/>
+    <tag k="contact:email" v="kontakt@eichhain.com"/>
+    <tag k="contact:housenumber" v="16a"/>
+    <tag k="contact:postcode" v="10245"/>
+    <tag k="contact:street" v="Ehrenbergstraße"/>
+    <tag k="contact:website" v="http://eichenhain.com"/>
     <tag k="name" v="Eichenhain"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://eichenhain.com"/>
   </node>
   <node id="2550365703" lat="52.2841126" lon="10.5846242" version="3" timestamp="2019-03-11T14:13:05Z" changeset="68024021" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Braunschweig"/>
@@ -16143,20 +16146,19 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://www.absolutecentralstore.com"/>
   </node>
-  <node id="2577803561" lat="42.6278249" lon="-83.3249224" version="8" timestamp="2020-12-15T01:22:41Z" changeset="95839213" uid="307520" user="wolfgang8741">
+  <node id="2577803561" lat="42.6278249" lon="-83.3249224" version="9" timestamp="2022-07-15T12:25:17Z" changeset="123651228" uid="11548585" user="emersonveenstra">
     <tag k="addr:city" v="Pontiac"/>
     <tag k="addr:housename" v="The Bronx Deli - BTC &amp; LTC"/>
-    <tag k="addr:housenumber" v="."/>
+    <tag k="addr:housenumber" v="247"/>
     <tag k="addr:postcode" v="48341"/>
     <tag k="addr:state" v="MI"/>
-    <tag k="addr:street" v="247 South Telegraph Road"/>
-    <tag k="amenity" v="restaurant"/>
+    <tag k="addr:street" v="South Telegraph Road"/>
     <tag k="capacity" v="85"/>
-    <tag k="cuisine" v="The_Best_Corned Beef, Salads, and Catering"/>
-    <tag k="name" v="The Bronx Deli - We take BTC &amp; LTC"/>
+    <tag k="name" v="The Bronx Deli"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="+1-248-681-5555"/>
+    <tag k="shop" v="deli"/>
     <tag k="website" v="www.bronxdeli.com"/>
   </node>
   <node id="2577882113" lat="-33.9237029" lon="18.4210170" version="5" timestamp="2020-06-29T21:57:20Z" changeset="87315055" uid="5604097" user="Flurps">
@@ -36003,12 +36005,18 @@
     <tag k="phone" v="+31 651554319"/>
     <tag k="website" v="https://www.webplays.eu/"/>
   </node>
-  <node id="2861508690" lat="56.9533241" lon="24.1268989" version="5" timestamp="2017-05-23T09:58:37Z" changeset="48912298" uid="2012081" user="AkageMuk">
+  <node id="2861508690" lat="56.9533241" lon="24.1268989" version="6" timestamp="2022-07-15T19:37:41Z" changeset="123666940" uid="15008076" user="latvia-bot">
+    <tag k="addr:city" v="Rīga"/>
+    <tag k="addr:country" v="LV"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="LV-1011"/>
+    <tag k="addr:street" v="Lāčplēša iela"/>
     <tag k="name" v="Koks kastē"/>
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="+37129118026"/>
+    <tag k="ref:LV:addr" v="101111632"/>
     <tag k="website" v="http://kokskaste.lv"/>
   </node>
   <node id="2861646171" lat="45.8912036" lon="11.0291503" version="2" timestamp="2014-05-19T08:02:52Z" changeset="22419932" uid="893327" user="mcheckimport">
@@ -43674,8 +43682,9 @@
     <tag k="phone" v="714-655-5370"/>
     <tag k="shop" v="yes"/>
   </node>
-  <node id="3092908017" lat="56.9488241" lon="24.1058726" version="4" timestamp="2017-04-20T07:58:08Z" changeset="47962714" uid="1741781" user="Roxxor91">
+  <node id="3092908017" lat="56.9488241" lon="24.1058726" version="5" timestamp="2022-07-15T19:37:41Z" changeset="123666940" uid="15008076" user="latvia-bot">
     <tag k="addr:city" v="Rīga"/>
+    <tag k="addr:country" v="LV"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:postcode" v="LV-1050"/>
     <tag k="addr:street" v="Jauniela"/>
@@ -43684,6 +43693,7 @@
     <tag k="opening_hours" v="Fr-Sa 10:00-05:00; Su-Th 10:00-03:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+371 20448811"/>
+    <tag k="ref:LV:addr" v="101903064"/>
     <tag k="smoking" v="outside"/>
     <tag k="source" v="http://spotkafe.lv/contact"/>
     <tag k="website" v="http://www.spotkafe.lv"/>
@@ -60180,7 +60190,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="newsagent"/>
   </node>
-  <node id="5055574394" lat="45.8915854" lon="11.0374276" version="1" timestamp="2017-08-24T08:17:06Z" changeset="51398414" uid="4533749" user="inbitcoin">
+  <node id="5055574394" lat="45.8915854" lon="11.0374276" version="2" timestamp="2022-07-15T13:51:53Z" changeset="123655112" uid="1296416" user="Inaltoasinistra">
     <tag k="addr:city" v="Rovereto"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="38068"/>
@@ -60189,6 +60199,7 @@
     <tag k="email" v="info@mondocasa.biz"/>
     <tag k="name" v="Mondo Casa"/>
     <tag k="office" v="estate_agent"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-12:30,15:00-19:00; Sa 09:00-12:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
     <tag k="phone" v="+390464486626"/>
