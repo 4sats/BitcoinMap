@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-17T05:28:06Z"/>
+<meta osm_base="2022-07-18T05:40:38Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -9901,10 +9901,10 @@
     <tag k="shop" v="chocolate"/>
     <tag k="website" v="https://www.lacasitadelosbombones.com/"/>
   </node>
-  <node id="2540240564" lat="53.0285758" lon="18.6979022" version="5" timestamp="2013-11-19T23:21:15Z" changeset="19004225" uid="1811761" user="geerminal">
-    <tag k="building" v="office"/>
+  <node id="2540240564" lat="53.0285758" lon="18.6979022" version="6" timestamp="2022-07-17T07:48:17Z" changeset="123710604" uid="6549455" user="conradoos">
     <tag k="description" v="NEW MEDIA AGANCY { Social Media / Visual &amp; Concept Arts Studio / Design }"/>
     <tag k="name" v="Ninja Studio - filia w Toruniu"/>
+    <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://ninjastudio.pl"/>
   </node>
@@ -10863,16 +10863,6 @@
     <tag k="phone" v="+48 41 341 72 40"/>
     <tag k="source" v="UM Kielce"/>
     <tag k="website" v="http://www.profident.pl/"/>
-  </node>
-  <node id="2550815099" lat="51.3321799" lon="12.3373880" version="5" timestamp="2022-02-27T00:19:30Z" changeset="117895182" uid="9587204" user="Wurzel3">
-    <tag k="addr:city" v="Leipzig"/>
-    <tag k="addr:housenumber" v="41"/>
-    <tag k="addr:postcode" v="04229"/>
-    <tag k="addr:street" v="Karl-Heine-Straße"/>
-    <tag k="name" v="Datarecovery"/>
-    <tag k="office" v="it"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.datarecovery-datenrettung.de/leipzig/"/>
   </node>
   <node id="2550836494" lat="53.5645119" lon="9.9220979" version="3" timestamp="2019-03-31T15:03:01Z" changeset="68726863" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Hamburg"/>
@@ -38981,13 +38971,15 @@
     <tag k="phone" v="3035473270"/>
     <tag k="website" v="http://www.cornerstoneassociates.biz"/>
   </node>
-  <node id="2942102459" lat="32.9408071" lon="-96.9062605" version="3" timestamp="2019-02-17T20:34:31Z" changeset="67291835" uid="9451067" user="b-jazz-bot">
+  <node id="2942102459" lat="32.9408071" lon="-96.9062605" version="4" timestamp="2022-07-17T16:22:37Z" changeset="123727162" uid="1426091" user="BubbleGuppies">
     <tag k="addr:city" v="Carrollton"/>
     <tag k="addr:country" v="US"/>
     <tag k="addr:full" v="1825 Monetary Lane Suite 104"/>
     <tag k="addr:housenumber" v="1825"/>
     <tag k="addr:postcode" v="75006"/>
+    <tag k="addr:state" v="TX"/>
     <tag k="addr:street" v="Monetary Lane"/>
+    <tag k="addr:unit" v="Suite# 104"/>
     <tag k="leisure" v="hackerspace"/>
     <tag k="name" v="Dallas Makerspace"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -54402,7 +54394,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.facebook.com/altrove.birra"/>
   </node>
-  <node id="3676844353" lat="45.8997028" lon="10.8552720" version="2" timestamp="2017-05-16T23:25:24Z" changeset="48748197" uid="4533749" user="inbitcoin">
+  <node id="3676844353" lat="45.8997002" lon="10.8552906" version="3" timestamp="2022-07-17T09:10:42Z" changeset="123713290" uid="6098724" user="CCCGGG">
     <tag k="addr:city" v="Riva del Garda"/>
     <tag k="addr:housenumber" v="81"/>
     <tag k="addr:postcode" v="38066"/>
@@ -58121,15 +58113,6 @@
     <tag k="phone" v="+39 0112482589"/>
     <tag k="shop" v="shoes"/>
     <tag k="website" v="http://eliocalzature.it/"/>
-  </node>
-  <node id="4736077927" lat="45.0713293" lon="7.6820756" version="4" timestamp="2021-10-02T16:39:41Z" changeset="112008160" uid="11220113" user="ivanbranco">
-    <tag k="addr:city" v="Torino"/>
-    <tag k="addr:housenumber" v="8a"/>
-    <tag k="addr:postcode" v="10122"/>
-    <tag k="addr:street" v="Via San Tommaso"/>
-    <tag k="name" v="Valdata Gift Shop"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="chemist"/>
   </node>
   <node id="4747710522" lat="40.6976870" lon="14.4866980" version="3" timestamp="2018-08-09T14:30:33Z" changeset="61503299" uid="1462614" user="_Andrea_">
     <tag k="addr:city" v="Castellammare di Stabia"/>
