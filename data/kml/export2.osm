@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-18T05:40:38Z"/>
+<meta osm_base="2022-07-19T05:49:37Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -964,21 +964,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+64 9 378 1845"/>
     <tag k="website" v="https://www.facebook.com/pages/The-Dogs-Bollix/335625706564286"/>
-  </node>
-  <node id="468385651" lat="45.6658334" lon="13.1102731" version="4" timestamp="2018-06-27T09:42:17Z" changeset="60209656" uid="4533749" user="inbitcoin">
-    <tag k="addr:city" v="Lignano Pineta"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="33054"/>
-    <tag k="addr:street" v="Piazza Marcello D'Olivo"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="info@tendabar.it"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Tenda Bar"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
-    <tag k="phone" v="+390431422133"/>
   </node>
   <node id="470731239" lat="35.2743463" lon="-80.8215111" version="5" timestamp="2020-11-21T05:49:39Z" changeset="94532261" uid="10820890" user="Osmosefixer2021">
     <tag k="addr:city" v="Charlotte"/>
@@ -16747,17 +16732,18 @@
     <tag k="phone" v="+370 700 05030"/>
     <tag k="website" v="https://www.cherryservers.com/"/>
   </node>
-  <node id="2585170902" lat="37.1664574" lon="-3.5855470" version="5" timestamp="2020-11-20T09:42:13Z" changeset="94489948" uid="7543375" user="kapazao">
+  <node id="2585170902" lat="37.1664574" lon="-3.5855470" version="6" timestamp="2022-07-18T08:41:15Z" changeset="123751322" uid="7543375" user="kapazao">
     <tag k="addr:city" v="Granada"/>
-    <tag k="addr:housename" v="FILMOSOFIA"/>
     <tag k="addr:housenumber" v="28"/>
     <tag k="addr:postcode" v="18008"/>
     <tag k="addr:street" v="Carretera de la Sierra"/>
-    <tag k="amenity" v="school"/>
+    <tag k="amenity" v="training"/>
+    <tag k="email" v="aula@filmosofia.com"/>
     <tag k="name" v="Filmosofía"/>
     <tag k="operator" v="Filmosofía SLNE"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+34 958 37 30 30"/>
+    <tag k="training" v="audio;cine;make-up;marketing;photo"/>
     <tag k="website" v="https://filmosofia.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -29985,8 +29971,11 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://papasaverioselgin.com/"/>
   </node>
-  <node id="2728131523" lat="42.0353931" lon="-88.2610599" version="1" timestamp="2014-03-20T04:31:33Z" changeset="21204047" uid="1836471" user="Blobo123">
+  <node id="2728131523" lat="42.0353931" lon="-88.2610599" version="2" timestamp="2022-07-18T18:36:29Z" changeset="123775532" uid="1237170" user="Zol87">
+    <tag k="addr:city" v="Elgin"/>
     <tag k="addr:housenumber" v="745"/>
+    <tag k="addr:postcode" v="60120"/>
+    <tag k="addr:state" v="IL"/>
     <tag k="addr:street" v="East Chicago Street"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="contact:phone" v="847-741-7300"/>
@@ -67032,12 +67021,10 @@
     <tag k="website" v="https://neuhaus-it.de/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5986658414" lat="-23.7139643" lon="-46.6990882" version="2" timestamp="2019-03-06T03:07:28Z" changeset="67828312" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="São Paulo"/>
+  <node id="5986658414" lat="-23.7139643" lon="-46.6990882" version="3" timestamp="2022-07-18T13:59:45Z" changeset="123766008" uid="1675654" user="Fidelis Assis">
     <tag k="addr:housenumber" v="s/n"/>
     <tag k="addr:postcode" v="04801-000"/>
     <tag k="addr:street" v="Avenida Senador Teotônio Vilela"/>
-    <tag k="addr:suburb" v="Cidade Dutra"/>
     <tag k="description" v="Cidade Dutra é um distrito pertencente à subprefeitura da Capela do Socorro, localizado na Região Sul do município de São Paulo, no Brasil."/>
     <tag k="ele" v="760"/>
     <tag k="email" v="cidadedutranaweb@gmail.com"/>
@@ -67072,8 +67059,8 @@
     <tag k="payment:visa_debit" v="yes"/>
     <tag k="payment:visa_electron" v="yes"/>
     <tag k="phone" v="+55 11 3397-2700"/>
-    <tag k="place" v="suburb"/>
-    <tag k="population" v="(14°) 203.473 hab. (2010)"/>
+    <tag k="place" v="subdistrict"/>
+    <tag k="population" v="203473"/>
     <tag k="source" v="survey;local knowledge;gps;aerial imagery;streetlevel imagery"/>
     <tag k="start_date" v="1930"/>
     <tag k="tourism" v="attraction"/>
