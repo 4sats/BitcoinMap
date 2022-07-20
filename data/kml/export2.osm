@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-19T05:49:37Z"/>
+<meta osm_base="2022-07-20T05:32:19Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -4553,11 +4553,11 @@
     <tag k="website" v="https://www.anstec.de"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2163051519" lat="10.4758254" lon="-66.9458510" version="28" timestamp="2022-07-08T22:39:04Z" changeset="123383458" uid="527105" user="albertoq">
+  <node id="2163051519" lat="10.4758472" lon="-66.9459402" version="30" timestamp="2022-07-20T04:11:09Z" changeset="123830710" uid="527105" user="albertoq">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Libertador"/>
-    <tag k="addr:place" v="1"/>
+    <tag k="addr:housename" v="Estación de Servicios Paraíso"/>
     <tag k="addr:postcode" v="1020"/>
     <tag k="addr:state" v="Distrito Capital"/>
     <tag k="addr:street" v="Av. José Antonio Páez"/>
@@ -4575,6 +4575,7 @@
     <tag k="fuel:diesel" v="no"/>
     <tag k="fuel:octane_91" v="yes"/>
     <tag k="fuel:octane_95" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipMbvnLzsbJI7EIjNStpFsTmSJmyRxPmRVDIglah=w426-h240-k-no"/>
     <tag k="name" v="E/S Paraíso"/>
     <tag k="note" v="Tarifa: INTERNACIONAL a USD 0.50 por litro"/>
     <tag k="note:en" v="international rate at usd 0.50 per liter"/>
@@ -4877,11 +4878,11 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="public_transport" v="stop_position"/>
   </node>
-  <node id="2245322788" lat="10.4943470" lon="-66.9201525" version="26" timestamp="2022-07-08T22:39:04Z" changeset="123383458" uid="527105" user="albertoq">
+  <node id="2245322788" lat="10.4943800" lon="-66.9201525" version="27" timestamp="2022-07-20T04:11:09Z" changeset="123830710" uid="527105" user="albertoq">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Libertador"/>
-    <tag k="addr:place" v="1"/>
+    <tag k="addr:housename" v="Estación de Servicios Baralt"/>
     <tag k="addr:postcode" v="1014"/>
     <tag k="addr:state" v="Distrito Capital"/>
     <tag k="addr:street" v="Av. Baralt"/>
@@ -5463,11 +5464,11 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.restaurant-karakter.nl/"/>
   </node>
-  <node id="2304243139" lat="10.5181368" lon="-66.9160670" version="18" timestamp="2022-07-08T22:39:04Z" changeset="123383458" uid="527105" user="albertoq">
+  <node id="2304243139" lat="10.5181401" lon="-66.9160529" version="19" timestamp="2022-07-20T04:11:09Z" changeset="123830710" uid="527105" user="albertoq">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Libertador"/>
-    <tag k="addr:place" v="1"/>
+    <tag k="addr:housename" v="Estación de Servicios Avilago"/>
     <tag k="addr:postcode" v="1010"/>
     <tag k="addr:state" v="Distrito Capital"/>
     <tag k="addr:street" v="Av. Baralt"/>
@@ -6510,11 +6511,11 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-604-741-3451"/>
   </node>
-  <node id="2417298974" lat="10.5043891" lon="-66.8872237" version="17" timestamp="2022-07-08T22:39:04Z" changeset="123383458" uid="527105" user="albertoq">
+  <node id="2417298974" lat="10.5043377" lon="-66.8872753" version="18" timestamp="2022-07-20T04:11:09Z" changeset="123830710" uid="527105" user="albertoq">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Libertador"/>
-    <tag k="addr:place" v="1"/>
+    <tag k="addr:housename" v="Estación de Servicios Maripérez"/>
     <tag k="addr:postcode" v="1050"/>
     <tag k="addr:state" v="Distrito Capital"/>
     <tag k="addr:street" v="Av. Andrés Bello"/>
@@ -39827,11 +39828,11 @@
     <tag k="source" v="payment:bitcoin=yes"/>
     <tag k="website" v="www.hussakowski-consulting.co.uk"/>
   </node>
-  <node id="2969590433" lat="43.7894207" lon="7.6334978" version="4" timestamp="2016-12-24T22:46:15Z" changeset="44653124" uid="2201521" user="quibitcoin">
+  <node id="2969590433" lat="43.7894207" lon="7.6334978" version="5" timestamp="2022-07-19T18:44:44Z" changeset="123820699" uid="492756" user="Botaler">
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="Via Alcide de Gasperi"/>
     <tag k="description" v="Electrical material distribuition"/>
-    <tag k="name" v="EF90 ELETTROFORNITURE"/>
+    <tag k="name" v="EF90 Elettroforniture"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 0184 255112"/>
     <tag k="shop" v="electrical"/>
@@ -72360,9 +72361,10 @@
     <tag k="payment:paypal" v="yes"/>
     <tag k="shop" v="art"/>
   </node>
-  <node id="7609051610" lat="48.9989186" lon="21.2381078" version="2" timestamp="2021-06-07T03:41:37Z" changeset="105939318" uid="6297500" user="infitter">
+  <node id="7609051610" lat="48.9989186" lon="21.2381078" version="3" timestamp="2022-07-19T11:13:33Z" changeset="123802915" uid="6297500" user="infitter">
     <tag k="addr:city" v="Prešov"/>
     <tag k="addr:housenumber" v="103"/>
+    <tag k="addr:place" v="Staré mesto"/>
     <tag k="addr:postcode" v="08001"/>
     <tag k="addr:street" v="Hlavná"/>
     <tag k="email" v="info@primitivo.sk"/>
@@ -72966,6 +72968,37 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3933524126"/>
     <tag k="website" v="https://www.officinadellascarpa.it/"/>
+  </node>
+  <node id="7899135268" lat="4.9296720" lon="-52.3259807" version="8" timestamp="2022-07-19T14:56:29Z" changeset="123812334" uid="10800843" user="ponytati">
+    <tag k="addr:city" v="Cayenne"/>
+    <tag k="addr:housenumber" v="258"/>
+    <tag k="addr:postcode" v="97300"/>
+    <tag k="addr:street" v="Avenue Justin Catayée, KELEX Route de la Madeleine"/>
+    <tag k="computer:repair" v="yes"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/ponytati"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/ponyta.informatique"/>
+    <tag k="contact:linkedin" v="https://www.linkedin.com/in/ponytati"/>
+    <tag k="contact:twitter" v="https://twitter.com/ponytati"/>
+    <tag k="description" v="Entreprise Ponyta Informatique Guyane. Technicien informatique, informaticien à domicile, pour assistance, dépannage, maintenance et réparation d'ordinateur, téléphone portable smartphone, tablette... Déplacement à Cayenne, Remire-Montjoly, Matoury, Roura"/>
+    <tag k="email" v="info@ponytati.com"/>
+    <tag k="image" v="https://ponytati.com/img/depannage-informatique-guyane.jpg"/>
+    <tag k="name" v="Ponyta Informatique"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-22:00"/>
+    <tag k="operator" v="Ponyta Informatique"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+594 694 383787"/>
+    <tag k="shop" v="computer"/>
+    <tag k="short_name" v="Ponytati"/>
+    <tag k="source" v="Pages Jaunes"/>
+    <tag k="website" v="https://ponytati.com"/>
   </node>
   <node id="7900118113" lat="42.4699854" lon="44.4939898" version="1" timestamp="2020-09-12T16:07:41Z" changeset="90798137" uid="1589313" user="davidtk">
     <tag k="addr:city" v="Gudauri"/>
@@ -76794,52 +76827,6 @@
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9137563992" lat="10.4731331" lon="-66.9461989" version="5" timestamp="2022-07-08T22:39:04Z" changeset="123383458" uid="527105" user="albertoq">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:country" v="VE"/>
-    <tag k="addr:district" v="Municipio Libertador"/>
-    <tag k="addr:place" v="1"/>
-    <tag k="addr:postcode" v="1020"/>
-    <tag k="addr:state" v="Distrito Capital"/>
-    <tag k="addr:street" v="San José"/>
-    <tag k="amenity" v="fuel"/>
-    <tag k="brand" v="PDV"/>
-    <tag k="car_wash" v="no"/>
-    <tag k="charge" v="0.50 USD"/>
-    <tag k="compressed_air" v="yes"/>
-    <tag k="currency:BsF" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:others" v="no"/>
-    <tag k="fee" v="Internacional"/>
-    <tag k="fuel:cng" v="no"/>
-    <tag k="fuel:diesel" v="no"/>
-    <tag k="fuel:octane_91" v="yes"/>
-    <tag k="fuel:octane_95" v="yes"/>
-    <tag k="name" v="E/S La Vega"/>
-    <tag k="note" v="Tarifa: INTERNACIONAL a USD 0.50 por litro"/>
-    <tag k="note:en" v="international rate at usd 0.50 per liter"/>
-    <tag k="opening_hours" v="closed"/>
-    <tag k="operator" v="PDVSA"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:electronic_purses" v="no"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="self_service" v="no"/>
-    <tag k="shop" v="yes"/>
-    <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
-    <tag k="toilets" v="no"/>
-    <tag k="vacuum_cleaner" v="no"/>
-    <tag k="water_tap" v="yes"/>
-    <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="9155543623" lat="43.5184901" lon="16.4840943" version="3" timestamp="2021-10-22T05:39:51Z" changeset="112819512" uid="9451067" user="b-jazz-bot">
     <tag k="amenity" v="atm"/>
