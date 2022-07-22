@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-21T05:37:07Z"/>
+<meta osm_base="2022-07-22T05:36:09Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -3059,6 +3059,50 @@
     <tag k="payment:visa_electron" v="yes"/>
     <tag k="rooms" v="4"/>
     <tag k="tourism" v="guest_house"/>
+  </node>
+  <node id="1585874861" lat="10.5028467" lon="-66.8479456" version="14" timestamp="2022-07-22T04:14:18Z" changeset="123917952" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:country" v="VE"/>
+    <tag k="addr:district" v="Municipio Chacao"/>
+    <tag k="addr:housename" v="Estación de Servicios Ávila"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:state" v="Miranda"/>
+    <tag k="addr:street" v="Av. Luis Roche"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="PDV"/>
+    <tag k="car_wash" v="no"/>
+    <tag k="charge" v="0.50 USD"/>
+    <tag k="currency:BsF" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:others" v="no"/>
+    <tag k="fee" v="Internacional"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="no"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipMKXwAeWnVtFXC53ekALt5yQlYYM3gGb5mogy2S=w506-h240-k-no"/>
+    <tag k="name" v="E/S Ávila"/>
+    <tag k="note" v="Tarifa: INTERNACIONAL a USD 0.50 por litro"/>
+    <tag k="note:en" v="international rate at usd 0.50 per liter"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="PDVSA"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="no"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:electronic_purses" v="no"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="self_service" v="no"/>
+    <tag k="shop" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q5802027"/>
+    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="1590910234" lat="48.1466359" lon="17.1297292" version="19" timestamp="2022-06-17T07:39:58Z" changeset="122495093" uid="4815" user="*Martin*">
     <tag k="brand" v="Alza"/>
@@ -8139,7 +8183,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.supremewriting.com/"/>
   </node>
-  <node id="2496572997" lat="10.4882513" lon="-66.8567916" version="15" timestamp="2022-07-21T01:41:37Z" changeset="123870972" uid="527105" user="albertoq">
+  <node id="2496572997" lat="10.4882513" lon="-66.8567916" version="16" timestamp="2022-07-22T03:58:46Z" changeset="123917664" uid="527105" user="albertoq">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Chacao"/>
@@ -8149,6 +8193,7 @@
     <tag k="addr:street" v="Av. Andrés Galarraga"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
     <tag k="currency:EUR" v="yes"/>
@@ -8222,6 +8267,48 @@
     <tag k="wikidata" v="Q5802027"/>
     <tag k="wikipedia" v="es:Deltaven"/>
   </node>
+  <node id="2496687755" lat="10.4951716" lon="-66.8507455" version="12" timestamp="2022-07-22T03:58:46Z" changeset="123917664" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:country" v="VE"/>
+    <tag k="addr:district" v="Municipio Chacao"/>
+    <tag k="addr:housename" v="Estación de Servicios La Castellana"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:state" v="Miranda"/>
+    <tag k="addr:street" v="Av. Francisco de Miranda"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="PDV"/>
+    <tag k="car_wash" v="no"/>
+    <tag k="charge" v="0.50 USD"/>
+    <tag k="currency:BsF" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:others" v="no"/>
+    <tag k="fee" v="Internacional"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="no"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="name" v="E/S La Castellana"/>
+    <tag k="note" v="Tarifa: INTERNACIONAL a USD 0.50 por litro"/>
+    <tag k="note:en" v="international rate at usd 0.50 per liter"/>
+    <tag k="operator" v="PDVSA"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="no"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:electronic_purses" v="no"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="self_service" v="no"/>
+    <tag k="shop" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q5802027"/>
+    <tag k="wikipedia" v="es:Deltaven"/>
+  </node>
   <node id="2497029328" lat="55.6775841" lon="12.6060480" version="4" timestamp="2017-04-11T20:12:55Z" changeset="47668795" uid="603524" user="Jørn-osm">
     <tag k="ele" v="5"/>
     <tag k="name" v="Sheller Consulting"/>
@@ -8271,6 +8358,136 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2013-09-08"/>
+  </node>
+  <node id="2498628566" lat="10.4972806" lon="-66.8560526" version="12" timestamp="2022-07-22T03:58:46Z" changeset="123917664" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:country" v="VE"/>
+    <tag k="addr:district" v="Municipio Chacao"/>
+    <tag k="addr:housename" v="Estación de Servicios Country Club"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:state" v="Miranda"/>
+    <tag k="addr:street" v="Av. Blandín"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="PDV"/>
+    <tag k="car_wash" v="no"/>
+    <tag k="charge" v="0.50 USD"/>
+    <tag k="currency:BsF" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:others" v="no"/>
+    <tag k="fee" v="Internacional"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="no"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="name" v="E/S Country Club"/>
+    <tag k="note" v="Tarifa: INTERNACIONAL a USD 0.50 por litro"/>
+    <tag k="note:en" v="international rate at usd 0.50 per liter"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="PDVSA"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="no"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:electronic_purses" v="no"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="self_service" v="no"/>
+    <tag k="shop" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q5802027"/>
+    <tag k="wikipedia" v="es:Deltaven"/>
+  </node>
+  <node id="2498665364" lat="10.4975622" lon="-66.8548223" version="11" timestamp="2022-07-22T03:58:46Z" changeset="123917664" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:country" v="VE"/>
+    <tag k="addr:district" v="Municipio Chacao"/>
+    <tag k="addr:housename" v="Estación de Servicios Blandín"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:state" v="Miranda"/>
+    <tag k="addr:street" v="Av. Blandín"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="PDV"/>
+    <tag k="car_wash" v="no"/>
+    <tag k="charge" v="0.50 USD"/>
+    <tag k="currency:BsF" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:others" v="no"/>
+    <tag k="fee" v="Internacional"/>
+    <tag k="fuel:cng" v="yes"/>
+    <tag k="fuel:diesel" v="no"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipOdoWsk_5wvPn6HXzl66XH-J5DV16WBKXXgqHf5=w408-h306-k-no"/>
+    <tag k="name" v="E/S Blandín (GAS)"/>
+    <tag k="note" v="Tarifa: INTERNACIONAL a USD 0.50 por litro"/>
+    <tag k="note:en" v="international rate at usd 0.50 per liter"/>
+    <tag k="operator" v="PDVSA"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="no"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:electronic_purses" v="no"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="self_service" v="no"/>
+    <tag k="shop" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q5802027"/>
+    <tag k="wikipedia" v="es:Deltaven"/>
+  </node>
+  <node id="2499478429" lat="10.5021096" lon="-66.8498990" version="13" timestamp="2022-07-22T03:58:46Z" changeset="123917664" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:country" v="VE"/>
+    <tag k="addr:district" v="Municipio Chacao"/>
+    <tag k="addr:housename" v="Estación de Servicios Altamira"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:state" v="Miranda"/>
+    <tag k="addr:street" v="Av. San Juan Bosco"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="PDV"/>
+    <tag k="car_wash" v="no"/>
+    <tag k="charge" v="0.50 USD"/>
+    <tag k="currency:BsF" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:others" v="no"/>
+    <tag k="fee" v="Internacional"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="no"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipOG5b4LmcvxjiEYma03PhBHBlJ0ATeDMZ7hNhWh=w426-h240-k-no"/>
+    <tag k="name" v="E/S Altamira"/>
+    <tag k="note" v="Tarifa: INTERNACIONAL a USD 0.50 por litro"/>
+    <tag k="note:en" v="international rate at usd 0.50 per liter"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-22:00"/>
+    <tag k="operator" v="PDVSA"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="no"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:electronic_purses" v="no"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="self_service" v="no"/>
+    <tag k="shop" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q5802027"/>
+    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2500574302" lat="36.1704451" lon="-115.1415320" version="3" timestamp="2017-04-02T03:34:37Z" changeset="47371985" uid="624323" user="bryceco">
     <tag k="name" v="Castro's Cigars"/>
@@ -74900,7 +75117,7 @@
     <tag k="shop" v="massage"/>
     <tag k="website" v="http://www.ki-shiatsu.at/"/>
   </node>
-  <node id="8589301014" lat="37.1746650" lon="-3.5991620" version="7" timestamp="2022-05-26T22:05:40Z" changeset="121547480" uid="6816316" user="alex_lofi">
+  <node id="8589301014" lat="37.1746170" lon="-3.5990834" version="9" timestamp="2022-07-21T20:03:51Z" changeset="123908285" uid="6816316" user="alex_lofi">
     <tag k="addr:city" v="Granada"/>
     <tag k="addr:housenumber" v="10"/>
     <tag k="addr:postcode" v="18001"/>
@@ -74915,6 +75132,7 @@
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:remibit" v="yes"/>
     <tag k="payment:visa" v="yes"/>
+    <tag k="survey:date" v="2022-07-21"/>
   </node>
   <node id="8589597339" lat="35.7998825" lon="51.4489451" version="2" timestamp="2021-04-29T23:47:32Z" changeset="103873277" uid="3817321" user="Hadi Omid">
     <tag k="addr:city" v="تهران"/>
