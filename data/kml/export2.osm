@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-22T05:36:09Z"/>
+<meta osm_base="2022-07-23T05:29:23Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -17245,10 +17245,9 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="+44 113 815 2222"/>
   </node>
-  <node id="2586653992" lat="-32.0517795" lon="115.7540510" version="3" timestamp="2013-12-19T15:31:18Z" changeset="19532931" uid="1849076" user="AndrianaTreasure">
+  <node id="2586653992" lat="-32.0517795" lon="115.7540510" version="4" timestamp="2022-07-22T20:52:34Z" changeset="123955740" uid="943785" user="sb9576">
     <tag k="name" v="Treasure Gallery"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://andrianatreasure.com"/>
   </node>
   <node id="2586847495" lat="42.3788042" lon="-83.0598324" version="4" timestamp="2020-12-17T00:51:06Z" changeset="95968813" uid="307520" user="wolfgang8741">
     <tag k="addr:city" v="Detroit"/>
@@ -22868,12 +22867,12 @@
     <tag k="shop" v="florist"/>
     <tag k="website" v="https://www.flowerdeliveryhongkong.com/"/>
   </node>
-  <node id="2637912677" lat="37.5585615" lon="126.9236259" version="8" timestamp="2015-03-12T03:43:06Z" changeset="29418529" uid="365274" user="thbz">
-    <tag k="addr:city" v="서울"/>
+  <node id="2637912677" lat="37.5585615" lon="126.9236259" version="9" timestamp="2022-07-22T09:01:56Z" changeset="123928028" uid="238290" user="octel">
+    <tag k="addr:city" v="서울 마포구"/>
     <tag k="addr:housename" v="교동하우스"/>
     <tag k="addr:housenumber" v="208"/>
-    <tag k="addr:postcode" v="121-200"/>
-    <tag k="addr:street" v="동교로 (Donggyoro)"/>
+    <tag k="addr:postcode" v="03994"/>
+    <tag k="addr:street" v="동교로"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="capacity" v="150"/>
     <tag k="cuisine" v="spicy(fiery)_webfoot_octopus"/>
@@ -27298,14 +27297,16 @@
     <tag k="phone" v="+1-402-898-7663"/>
     <tag k="website" v="https://whitecastleroofing.com/"/>
   </node>
-  <node id="2705110866" lat="37.7674359" lon="127.3626173" version="7" timestamp="2019-01-08T02:37:00Z" changeset="66115078" uid="7245212" user="LuxuryCoop">
-    <tag k="addr:city" v="경기도 가평군 상면"/>
+  <node id="2705110866" lat="37.7673792" lon="127.3627225" version="8" timestamp="2022-07-22T09:01:56Z" changeset="123928028" uid="238290" user="octel">
+    <tag k="addr:city" v="가평군 상면"/>
     <tag k="addr:housename" v="팝콘하우스"/>
     <tag k="addr:housenumber" v="100"/>
-    <tag k="addr:postcode" v="477-824"/>
+    <tag k="addr:postcode" v="12448"/>
+    <tag k="addr:province" v="경기도"/>
     <tag k="addr:street" v="축령로 45번길"/>
-    <tag k="name" v="팝콘하우스(popcornhouse)"/>
-    <tag k="name:ko" v="팝콘하우스(popcornhouse)"/>
+    <tag k="name" v="팝콘하우스"/>
+    <tag k="name:en" v="popcornhouse"/>
+    <tag k="name:ko" v="팝콘하우스"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:coins" v="yes"/>
     <tag k="phone" v="+82-10-9040-0242"/>
@@ -39269,19 +39270,6 @@
     <tag k="shop" v="hifi"/>
     <tag k="website" v="http://www.audiokauppa.fi"/>
   </node>
-  <node id="2939217301" lat="35.9645626" lon="126.7100868" version="4" timestamp="2019-01-01T14:37:27Z" changeset="65933644" uid="7245212" user="LuxuryCoop">
-    <tag k="addr:city" v="군산시"/>
-    <tag k="addr:housenumber" v="8-2"/>
-    <tag k="addr:postcode" v="573-350"/>
-    <tag k="addr:street" v="서수송1로"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="name" v="Coffee Cup Story"/>
-    <tag k="name:ko" v="Coffee Cup Story"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+82634713005"/>
-    <tag k="smoking" v="outside"/>
-  </node>
   <node id="2939309826" lat="35.9275062" lon="-78.9225160" version="8" timestamp="2018-10-06T20:39:15Z" changeset="63265856" uid="4312767" user="LeifRasmussen">
     <tag k="addr:city" v="Durham"/>
     <tag k="addr:housenumber" v="5334"/>
@@ -41522,17 +41510,6 @@
     <tag k="smoking" v="yes"/>
     <tag k="source" v="survey"/>
     <tag k="website" v="http://www.landl-bar.com/"/>
-  </node>
-  <node id="3005508790" lat="36.3050229" lon="127.3839027" version="7" timestamp="2018-07-23T07:01:03Z" changeset="60973238" uid="6651133" user="Artemis64">
-    <tag k="addr:city" v="산성동"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:postcode" v="301-756"/>
-    <tag k="addr:street" v="보문산로"/>
-    <tag k="name" v="북유럽조명 단 9000원"/>
-    <tag k="name:ko" v="퍼즐조명줄레"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+82 10 4230 0345"/>
-    <tag k="website" v="http://lampjulai.com/"/>
   </node>
   <node id="3005749705" lat="-34.5969277" lon="-58.3731840" version="3" timestamp="2018-02-09T15:32:55Z" changeset="56219569" uid="1311281" user="mweper">
     <tag k="addr:city" v="Buenos Aires"/>
@@ -44510,7 +44487,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.tecnisa.com.br/"/>
   </node>
-  <node id="3114790487" lat="50.0778456" lon="14.4363945" version="3" timestamp="2021-02-08T06:43:51Z" changeset="98884811" uid="4997045" user="Tomas Jancovic">
+  <node id="3114790487" lat="50.0778456" lon="14.4363945" version="3" timestamp="2021-02-08T06:43:51Z" changeset="98884811" uid="4997045" user="Tomas_J">
     <tag k="addr:city" v="Praha"/>
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:postcode" v="12000"/>
@@ -45982,38 +45959,44 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="website" v="https://onebytetoomany.co.uk"/>
   </node>
-  <node id="3175947378" lat="37.5540303" lon="126.9377574" version="4" timestamp="2015-12-24T16:15:30Z" changeset="36147466" uid="1696339" user="topstone">
-    <tag k="addr:city" v="노고산동 (Nogosan-dong)"/>
+  <node id="3175947378" lat="37.5541044" lon="126.9378324" version="5" timestamp="2022-07-22T09:01:56Z" changeset="123928028" uid="238290" user="octel">
+    <tag k="addr:city" v="서울특별시 마포구"/>
     <tag k="addr:housenumber" v="8-7"/>
-    <tag k="addr:postcode" v="121-806"/>
-    <tag k="addr:street" v="백범로1길(Baekbeom-ro 1-gil)"/>
+    <tag k="addr:postcode" v="04102"/>
+    <tag k="addr:street" v="백범로1길"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="capacity" v="50"/>
     <tag k="cuisine" v="Japanese_Curry_&amp;_Asian_Fusions"/>
-    <tag k="name" v="Turtle's Kitchen(거북이의 주방)"/>
+    <tag k="name" v="거북이의 주방"/>
+    <tag k="name:en" v="Turtle's Kitchen"/>
+    <tag k="name:ko" v="거북이의 주방"/>
     <tag k="note" v="Bitcoin Accepted Here!"/>
     <tag k="opening_hours" v="10:00-23:30"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+82-2-701-0890"/>
     <tag k="smoking" v="outside"/>
+    <tag k="source" v="도로명주소"/>
   </node>
-  <node id="3176074369" lat="37.1867026" lon="126.6518456" version="15" timestamp="2017-02-01T16:42:16Z" changeset="45721045" uid="5185098" user="jsh123jj">
-    <tag k="addr:city" v="Hwaseong-si, Gyeonggi-do"/>
-    <tag k="addr:housenumber" v="1076"/>
-    <tag k="addr:postcode" v="445-883"/>
-    <tag k="addr:street" v="Jeon-gok-ri(전곡항마리나 요트 계류장)"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="amenity_1" v="boat_sharing"/>
+  <node id="3176074369" lat="37.1867026" lon="126.6518456" version="16" timestamp="2022-07-22T09:01:56Z" changeset="123928028" uid="238290" user="octel">
+    <tag k="addr:city" v="화성시"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="18554"/>
+    <tag k="addr:province" v="경기도"/>
+    <tag k="addr:street" v="전곡항로"/>
+    <tag k="amenity" v="cafe;boat_sharing"/>
     <tag k="cuisine" v="instant_coffee,_lots_of_chatting"/>
     <tag k="email" v="heavens7319@gmail.com"/>
     <tag k="internet_access" v="yes"/>
-    <tag k="name" v="Tiffany Yacht Charter &amp; Sailing Club"/>
+    <tag k="name" v="전곡항마리나"/>
+    <tag k="name:en" v="Tiffany Yacht Charter &amp; Sailing Club"/>
+    <tag k="name:ko" v="전곡항마리나"/>
     <tag k="note" v="You can learn how to sail in Korean waters(including Seoul Han River &amp; canals). From Yacht basics to sailing to China and Japan. Free to Join. Bitcoin Donnation Accepted."/>
     <tag k="operator" v="King Marine"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="+82 10 7193 7319"/>
     <tag k="smoking" v="yes"/>
+    <tag k="source" v="도로명주소"/>
   </node>
   <node id="3176081070" lat="41.9496752" lon="12.5582328" version="7" timestamp="2018-02-21T06:08:16Z" changeset="56539666" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Roma"/>
@@ -59671,7 +59654,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
   </node>
-  <node id="4908962622" lat="45.0652880" lon="7.6916900" version="2" timestamp="2019-01-25T17:08:15Z" changeset="66637856" uid="2201521" user="quibitcoin">
+  <node id="4908962622" lat="45.0652693" lon="7.6916760" version="3" timestamp="2022-07-22T08:29:11Z" changeset="123926584" uid="9522091" user="EdoBoo">
     <tag k="addr:city" v="Torino"/>
     <tag k="addr:housenumber" v="38"/>
     <tag k="addr:postcode" v="10123"/>
@@ -79501,10 +79484,11 @@
     <tag k="shop" v="interior_decoration"/>
     <tag k="website" v="flexiespop.store"/>
   </node>
-  <node id="9724723243" lat="40.1864152" lon="44.5078828" version="2" timestamp="2022-05-12T18:24:15Z" changeset="120901466" uid="616774" user="mueschel">
-    <tag k="addr:city" v="Yerevan"/>
+  <node id="9724723243" lat="40.1864152" lon="44.5078828" version="3" timestamp="2022-07-22T18:47:20Z" changeset="123952195" uid="2985213" user="aslanosm">
+    <tag k="addr:city" v="Երևան"/>
     <tag k="addr:housenumber" v="12/13"/>
-    <tag k="addr:street" v="Saryan"/>
+    <tag k="addr:postcode" v="0002"/>
+    <tag k="addr:street" v="Սարյանի փողոց"/>
     <tag k="amenity" v="bureau_de_change"/>
     <tag k="currency:EUR" v="yes"/>
     <tag k="currency:RUB" v="yes"/>
@@ -80121,6 +80105,24 @@
     <tag k="phone" v="+9809395071176"/>
     <tag k="shop" v="computer"/>
     <tag k="source" v="https://comekala.com/"/>
+  </node>
+  <node id="9903950906" lat="33.4971739" lon="-111.9249904" version="1" timestamp="2022-07-22T11:47:01Z" changeset="123935746" uid="16613348" user="finercustomjewelry">
+    <tag k="Category" v="Custom Jewelry"/>
+    <tag k="addr:city" v="Scottsdale"/>
+    <tag k="addr:postcode" v="85251"/>
+    <tag k="addr:state" v="AZ"/>
+    <tag k="addr:street" v="4211 N Winfield Scott Plaza, Suite A"/>
+    <tag k="description" v="Finer Custom jewelry is a unique custom design jewelry experience centered on the peace of mind and satisfaction of the clients we serve."/>
+    <tag k="name" v="Finer Custom Jewelry"/>
+    <tag k="opening_hours" v="Mon - Fri: 09:00 AM - 06:00 PM"/>
+    <tag k="payment:amex" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:venmo" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+1 480-771-8833"/>
+    <tag k="shop" v="jewelry"/>
+    <tag k="website" v="https://finercustomjewelry.com"/>
   </node>
 
 </osm>
