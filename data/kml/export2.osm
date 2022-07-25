@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-24T05:29:29Z"/>
+<meta osm_base="2022-07-25T05:37:54Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -16764,7 +16764,8 @@
     <tag k="shop" v="honey"/>
     <tag k="website" v="http://suttonhoney.com/"/>
   </node>
-  <node id="2580085196" lat="34.0174042" lon="-118.4912603" version="3" timestamp="2014-04-12T15:18:55Z" changeset="21648003" uid="1836471" user="Blobo123">
+  <node id="2580085196" lat="34.0174042" lon="-118.4912600" version="4" timestamp="2022-07-24T06:25:47Z" changeset="123997383" uid="11523236" user="willkmis">
+    <tag k="healthcare" v="alternative"/>
     <tag k="name" v="Scripting Your LifePlay - hypnosis"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://hypnosiswestlosangeles.com/"/>
@@ -25133,14 +25134,15 @@
     <tag k="phone" v="+55 83 30494222"/>
     <tag k="website" v="https://www.hostdime.com.br/"/>
   </node>
-  <node id="2669279244" lat="34.1689990" lon="-118.5021279" version="6" timestamp="2021-07-12T20:41:03Z" changeset="107861890" uid="175702" user="AxelBoldt">
+  <node id="2669279244" lat="34.1689990" lon="-118.5021270" version="7" timestamp="2022-07-25T04:07:52Z" changeset="124030496" uid="115918" user="Timothy Smith">
     <tag k="addr:city" v="Encino"/>
     <tag k="addr:housenumber" v="5363"/>
     <tag k="addr:postcode" v="91316"/>
     <tag k="addr:state" v="CA"/>
     <tag k="addr:street" v="Balboa Boulevard"/>
-    <tag k="amenity" v="doctors"/>
+    <tag k="amenity" v="dentist"/>
     <tag k="emergency" v="no"/>
+    <tag k="healthcare" v="dentist"/>
     <tag k="name" v="Gorman Dental"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="(818) 995-1891"/>
@@ -49765,7 +49767,7 @@
     <tag k="url" v="http://www.mentawai-surf-resort.com/"/>
     <tag k="website" v="http://www.mentawai-surf-resort.com/"/>
   </node>
-  <node id="3325580026" lat="54.9717907" lon="-1.6149407" version="7" timestamp="2022-06-19T16:42:07Z" changeset="122586269" uid="6816132" user="CjMalone">
+  <node id="3325580026" lat="54.9717907" lon="-1.6149407" version="8" timestamp="2022-07-24T22:35:34Z" changeset="124026188" uid="242345" user="confusedbuffalo">
     <tag k="addr:city" v="Newcastle upon Tyne"/>
     <tag k="addr:housenumber" v="81"/>
     <tag k="addr:postcode" v="NE1 5JF"/>
@@ -49776,7 +49778,7 @@
     <tag k="building:use" v="commercial"/>
     <tag k="contact:website" v="https://uk.webuy.com/site/storeDetail/?branchId=216"/>
     <tag k="name" v="CeX"/>
-    <tag k="opening_hours" v="mo-we 09:00-19:00; th 09:00-20:00; fr-sa 09:00-19:00; su 11:00-17:00"/>
+    <tag k="opening_hours" v="Mo-We 09:00-19:00; Th 09:00-20:00; Fr-Sa 09:00-19:00; Su 11:00-17:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="shop" v="electronics"/>
