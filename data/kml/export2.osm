@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-25T05:37:54Z"/>
+<meta osm_base="2022-07-26T05:46:54Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -2761,6 +2761,48 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="518-729-5950"/>
     <tag k="website" v="http://www.OrganicaGardenSupply.com"/>
+  </node>
+  <node id="1409036548" lat="10.4932851" lon="-66.8481501" version="11" timestamp="2022-07-26T03:43:30Z" changeset="124074654" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:country" v="VE"/>
+    <tag k="addr:district" v="Municipio Chacao"/>
+    <tag k="addr:housename" v="Estación de Servicios La Floresta"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:state" v="Miranda"/>
+    <tag k="addr:street" v="Av. Del Ávila"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="PDV"/>
+    <tag k="charge" v="0.50 USD"/>
+    <tag k="currency:BsF" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:others" v="no"/>
+    <tag k="fee" v="Internacional"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="no"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipNfNZSLLSzV7pdXnuxNGkieNNcYfXrsgp0h7aeo=w408-h306-k-no"/>
+    <tag k="name" v="E/S La Floresta"/>
+    <tag k="note" v="Tarifa: INTERNACIONAL a USD 0.50 por litro"/>
+    <tag k="note:en" v="international rate at usd 0.50 per liter"/>
+    <tag k="operator" v="PDVSA"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="no"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:electronic_purses" v="no"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="self_service" v="no"/>
+    <tag k="shop" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q5802027"/>
+    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="1413993833" lat="42.3641718" lon="-71.1020228" version="6" timestamp="2018-05-25T16:09:11Z" changeset="59275483" uid="409119" user="mterry">
     <tag k="addr:housenumber" v="524"/>
@@ -8642,6 +8684,49 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+56-9-58923675"/>
     <tag k="website" v="https://www.facebook.com/tkdelitte.elitte"/>
+  </node>
+  <node id="2506191436" lat="10.4977588" lon="-66.8428012" version="10" timestamp="2022-07-26T03:43:30Z" changeset="124074654" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:country" v="VE"/>
+    <tag k="addr:district" v="Municipio Chacao"/>
+    <tag k="addr:housename" v="Estación de Servicios Parque Cristal"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:state" v="Miranda"/>
+    <tag k="addr:street" v="4ª Av. de Los Palos Grandes"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="PDV"/>
+    <tag k="charge" v="0.50 USD"/>
+    <tag k="currency:BsF" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:others" v="no"/>
+    <tag k="fee" v="Internacional"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="no"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipMlhyrwH9I5WstTNYkeQV6VkkXGGAn4i7tw3vPS=w408-h544-k-no"/>
+    <tag k="name" v="E/S Parque Cristal"/>
+    <tag k="note" v="Tarifa: INTERNACIONAL a USD 0.50 por litro"/>
+    <tag k="note:en" v="international rate at usd 0.50 per liter"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="PDVSA"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="no"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:electronic_purses" v="no"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="self_service" v="no"/>
+    <tag k="shop" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q5802027"/>
+    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2507267859" lat="45.4760803" lon="-73.6228022" version="5" timestamp="2019-02-21T02:03:17Z" changeset="67414105" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Montreal"/>
@@ -39451,25 +39536,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.klammer.ch"/>
   </node>
-  <node id="2945927796" lat="-23.3309059" lon="-51.1585009" version="12" timestamp="2021-06-03T07:04:04Z" changeset="105758036" uid="7152372" user="Mxdanger">
-    <tag k="addr:city" v="Londrina"/>
-    <tag k="addr:housenumber" v="84"/>
-    <tag k="addr:postcode" v="86015-800"/>
-    <tag k="addr:street" v="Rua Antônio de Moraes Barros"/>
-    <tag k="addr:suburb" v="Petrópolis"/>
-    <tag k="amenity" v="college"/>
-    <tag k="contact:facebook" v="fb.com/DeRoseLondrina"/>
-    <tag k="description" v="Escola Credenciada e Certificada do DeRose Method. Consultoria de Alta Performance Profissional, Desportiva e Qualidade de Vida.Treinamentos para empreendedores, executivos e atletas."/>
-    <tag k="email" v="londrina.pr@metododerose.org"/>
-    <tag k="name" v="Método DeRose Londrina"/>
-    <tag k="name:en" v="DeRose Method Londrina"/>
-    <tag k="network" v="DeRose Method"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="phone" v="+55 (43) 3321-1770"/>
-    <tag k="training" v="derose_method"/>
-    <tag k="website" v="http://www.deroselondrina.com.br/"/>
-  </node>
   <node id="2946565250" lat="53.3178768" lon="-6.2407917" version="3" timestamp="2019-03-13T11:15:43Z" changeset="68095644" uid="6367" user="mackerski">
     <tag k="addr:city" v="Dublin"/>
     <tag k="addr:housenumber" v="5"/>
@@ -42375,7 +42441,7 @@
     <tag k="website" v="http://www.corpus.io"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3040304778" lat="37.5353895" lon="127.0972567" version="3" timestamp="2020-07-27T12:41:25Z" changeset="88566105" uid="476483" user="lorenzo23622">
+  <node id="3040304778" lat="37.5354100" lon="127.0973101" version="4" timestamp="2022-07-26T05:25:43Z" changeset="124076883" uid="2549066" user="Boston Green Tea">
     <tag k="name" v="복음전자"/>
     <tag k="note" v="스피커 앰프"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -49984,12 +50050,13 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="electronics"/>
   </node>
-  <node id="3328457519" lat="53.4524269" lon="-2.9919004" version="7" timestamp="2022-06-19T16:42:07Z" changeset="122586269" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Bootle"/>
+  <node id="3328457519" lat="53.4524269" lon="-2.9919004" version="8" timestamp="2022-07-25T14:50:16Z" changeset="124056182" uid="242345" user="confusedbuffalo">
+    <tag k="addr:city" v="Liverpool"/>
     <tag k="addr:housename" v="Parkside Strand Shopping Centre"/>
     <tag k="addr:housenumber" v="Unit 7"/>
     <tag k="addr:postcode" v="L20 4XX"/>
     <tag k="addr:street" v="The Hexagon"/>
+    <tag k="addr:town" v="Bootle"/>
     <tag k="branch" v="Bootle"/>
     <tag k="brand" v="CeX"/>
     <tag k="brand:wikidata" v="Q5055676"/>
@@ -70195,6 +70262,48 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://satoshicommerce.org/"/>
+  </node>
+  <node id="6621457076" lat="10.4977197" lon="-66.8401353" version="9" timestamp="2022-07-26T03:43:30Z" changeset="124074654" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:country" v="VE"/>
+    <tag k="addr:district" v="Municipio Sucre"/>
+    <tag k="addr:housename" v="Estación de Servicios Metro Eduvigis"/>
+    <tag k="addr:postcode" v="1071"/>
+    <tag k="addr:state" v="Miranda"/>
+    <tag k="addr:street" v="Av. Rómulo Gallegos"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="PDV"/>
+    <tag k="charge" v="0.50 USD"/>
+    <tag k="currency:BsF" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:others" v="no"/>
+    <tag k="fee" v="Internacional"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="no"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipNOII1JX39Ou6Xe3RO6He_yEpnW1S54CFyicjvj=w408-h306-k-no"/>
+    <tag k="name" v="E/S Metro Eduvigis"/>
+    <tag k="note" v="Tarifa: INTERNACIONAL a USD 0.50 por litro"/>
+    <tag k="note:en" v="international rate at usd 0.50 per liter"/>
+    <tag k="operator" v="PDVSA"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="no"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:electronic_purses" v="no"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="self_service" v="no"/>
+    <tag k="shop" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q5802027"/>
+    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="6636265066" lat="23.0851425" lon="-82.4987066" version="1" timestamp="2019-07-22T02:53:29Z" changeset="72496445" uid="10169589" user="adolfobarreto">
     <tag k="name" v="Pilar ROG ESTAFA"/>
