@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-26T05:46:54Z"/>
+<meta osm_base="2022-07-27T05:40:54Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -8771,6 +8771,49 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="e-cigarette"/>
     <tag k="website" v="http://savesmoking.com/"/>
+  </node>
+  <node id="2508945073" lat="10.4857854" lon="-66.8549502" version="10" timestamp="2022-07-27T01:32:07Z" changeset="124117253" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:full" v="Centro Comercial Ciudad Tamanaco, Etapa 1, Nivel C1, Chuao"/>
+    <tag k="addr:housename" v="C.C Ciudad Tamanaco"/>
+    <tag k="addr:postcode" v="1064"/>
+    <tag k="addr:street" v="Av. La Estancia"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="branch" v="CCCT"/>
+    <tag k="brand" v="Beco"/>
+    <tag k="capacity" v="100"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/TiendasBECO/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/Tiendas_BECO/"/>
+    <tag k="contact:twitter" v="https://twitter.com/Tiendas_BECO"/>
+    <tag k="contact:youtube" v="https://www.youtube.com/watch?v=I9J59fEsqKY"/>
+    <tag k="currency:BsF" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipNBRBhf0ssLaoUCJLU6m5cgSMt4kP1ui1r52ry5=w408-h725-k-no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Beco"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-20:00"/>
+    <tag k="operator" v="Centrobeco, C.A"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:wire_transfer" v="yes"/>
+    <tag k="phone" v="+58-212-9590292"/>
+    <tag k="shop" v="department_store"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="start_date" v="01-01-1961"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.beco.com.ve/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2510920977" lat="-34.5929050" lon="-58.4658057" version="5" timestamp="2020-02-22T23:18:53Z" changeset="81356529" uid="3837224" user="MatiasJ">
     <tag k="addr:city" v="CABA"/>
@@ -20820,17 +20863,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="+44 7949 774312"/>
-  </node>
-  <node id="2620029450" lat="39.2326104" lon="-121.0445686" version="1" timestamp="2014-01-12T18:07:01Z" changeset="19957544" uid="1823620" user="Orgonix23">
-    <tag k="addr:city" v="grass Valley"/>
-    <tag k="addr:housenumber" v="1451"/>
-    <tag k="addr:postcode" v="95945"/>
-    <tag k="addr:street" v="East Main Street Suite A"/>
-    <tag k="landuse" v="retail"/>
-    <tag k="name" v="Humble Fabrics and Crafts"/>
-    <tag k="note" v="Provider of New and Used Fabric and Craft Supplies."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="www.humblefabrics.com"/>
   </node>
   <node id="2620035428" lat="39.2629593" lon="-121.0199145" version="3" timestamp="2014-01-14T00:42:04Z" changeset="19982609" uid="28559" user="Stemby">
     <tag k="addr:city" v="Nevada City"/>
@@ -43576,27 +43608,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+91 992 013 1348"/>
     <tag k="website" v="http://princetechsolutions.com/"/>
-  </node>
-  <node id="3072942940" lat="52.4926495" lon="13.3701486" version="12" timestamp="2022-07-21T00:48:44Z" changeset="123870440" uid="125718" user="Fabi2">
-    <tag k="addr:city" v="Berlin"/>
-    <tag k="addr:country" v="DE"/>
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:postcode" v="10965"/>
-    <tag k="addr:street" v="Yorckstraße"/>
-    <tag k="addr:suburb" v="Schöneberg"/>
-    <tag k="description" v="Laden für Sprayerbedarf und Textildruck"/>
-    <tag k="email" v="store@legacybln.de"/>
-    <tag k="facebook" v="https://www.facebook.com/LegacyBLN"/>
-    <tag k="mobile" v="+49 177 4693940"/>
-    <tag k="name" v="Legacy BLN - Graffiti Culture &amp; Art Tools"/>
-    <tag k="opening_hours" v="Mo-Sa 12:00-20:00; PH off"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="provided_for:hiphop_culture" v="yes"/>
-    <tag k="service:press" v="yes"/>
-    <tag k="shop" v="paint"/>
-    <tag k="source" v="Geoportal Berlin / Hauskoordinaten"/>
-    <tag k="start_date" v="1993"/>
-    <tag k="website" v="https://legacybln.de/"/>
   </node>
   <node id="3072945074" lat="52.3614654" lon="4.9177744" version="6" timestamp="2022-06-06T08:31:56Z" changeset="122009168" uid="5432507" user="Knockerclot0715">
     <tag k="addr:city" v="Amsterdam"/>
@@ -80253,6 +80264,26 @@
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="website" v="https://juegosiesta.com/apuestas-deportivas/mejores-cuotas/"/>
+  </node>
+  <node id="9911287150" lat="52.4926714" lon="13.3701572" version="1" timestamp="2022-07-26T09:41:59Z" changeset="124086659" uid="1497225" user="kartonage">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:postcode" v="10965"/>
+    <tag k="addr:street" v="Yorckstraße"/>
+    <tag k="addr:suburb" v="Schöneberg"/>
+    <tag k="contact:email" v="store@legacybln.de"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/LegacyBLN"/>
+    <tag k="contact:mobile" v="+49 177 4693940"/>
+    <tag k="contact:website" v="https://legacybln.de/"/>
+    <tag k="description" v="Laden für Sprayerbedarf und Textildruck"/>
+    <tag k="name" v="Legacy"/>
+    <tag k="opening_hours" v="Mo-Sa 12:00-20:00; PH off"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="provided_for:hiphop_culture" v="yes"/>
+    <tag k="service:press" v="yes"/>
+    <tag k="shop" v="paint"/>
+    <tag k="start_date" v="1993"/>
   </node>
 
 </osm>
