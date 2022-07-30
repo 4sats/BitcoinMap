@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-29T05:37:54Z"/>
+<meta osm_base="2022-07-30T05:29:08Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -6107,7 +6107,7 @@
     <tag k="shop" v="wine"/>
     <tag k="website" v="https://www.rollingdale.ca/"/>
   </node>
-  <node id="2383902858" lat="52.9545579" lon="-1.1525597" version="9" timestamp="2022-03-22T20:00:40Z" changeset="118792554" uid="242345" user="confusedbuffalo">
+  <node id="2383902858" lat="52.9545579" lon="-1.1525597" version="10" timestamp="2022-07-29T17:20:43Z" changeset="124241108" uid="5008136" user="JayTurnr">
     <tag k="addr:city" v="Nottingham"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:postcode" v="NG1 6JD"/>
@@ -6115,8 +6115,6 @@
     <tag k="amenity" v="pub"/>
     <tag k="fhrs:id" v="1088498"/>
     <tag k="name" v="The Barrel Drop"/>
-    <tag k="old_amenity" v="fishmonger"/>
-    <tag k="old_name" v="Finest of Fish"/>
     <tag k="opening_hours" v="Mo-Su 12:00-22:00"/>
     <tag k="operator" v="info@phantompubs.com"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -6270,7 +6268,7 @@
     <tag k="office" v="lawyer"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2396588696" lat="51.0636010" lon="13.8225530" version="11" timestamp="2022-06-10T18:04:33Z" changeset="122222328" uid="1787080" user="vv01f">
+  <node id="2396588696" lat="51.0636010" lon="13.8225530" version="12" timestamp="2022-07-29T06:41:11Z" changeset="124214146" uid="1497225" user="kartonage">
     <tag k="addr:city" v="Dresden"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:postcode" v="01324"/>
@@ -6278,7 +6276,7 @@
     <tag k="contact:email" v="brotundmehrdresden@gmail.com"/>
     <tag k="contact:website" v="https://www.brotundmehr-dresden.com/pages/kontakt"/>
     <tag k="name" v="Brot und mehr"/>
-    <tag k="opening_hours" v="Di-Fr 07:30-16:00; Sa-So 07:30-10:00"/>
+    <tag k="opening_hours" v="Tu-Fr 07:30-16:00; Sa-Su 07:30-10:00"/>
     <tag k="operator" v="Manon Fischer"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
@@ -10486,7 +10484,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://kuglerartszalon.com/"/>
   </node>
-  <node id="2541760283" lat="55.6784412" lon="12.5721171" version="6" timestamp="2017-06-03T18:55:46Z" changeset="49227042" uid="603524" user="Jørn-osm">
+  <node id="2541760283" lat="55.6784146" lon="12.5720571" version="8" timestamp="2022-07-30T02:00:11Z" changeset="124252358" uid="1955517" user="nappr">
     <tag k="amenity" v="user_defined"/>
     <tag k="contact:email" v="support@gigahost.dk"/>
     <tag k="contact:phone" v="+4536949690"/>
@@ -12952,15 +12950,14 @@
     <tag k="shop" v="yes"/>
     <tag k="website" v="http://www.brassino.at"/>
   </node>
-  <node id="2556913654" lat="36.0133710" lon="-5.6074390" version="1" timestamp="2013-11-29T11:24:36Z" changeset="19176650" uid="1651798" user="oldenburg69">
+  <node id="2556913654" lat="36.0133710" lon="-5.6074390" version="2" timestamp="2022-07-29T22:44:00Z" changeset="124250216" uid="491515" user="robertogeb">
     <tag k="addr:city" v="Tarifa"/>
     <tag k="addr:housenumber" v="42"/>
     <tag k="addr:postcode" v="11380"/>
     <tag k="addr:street" v="Calle Bailén"/>
-    <tag k="landuse" v="retail"/>
     <tag k="name" v="ZAS"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://maps.google.es/local_url?dq=zas+tarifa&amp;q=http://www.robapinzas.com/&amp;oi=miw&amp;sa=X&amp;ct=miw_link&amp;cd=1&amp;cad=homepage,cid:10223968383767240545&amp;ei=Z3eYUrPlGOeliQboroGYAQ&amp;s=ANYYN7mw_O-zTedspphywVQ6xzzbWFMH4Q"/>
+    <tag k="shop" v="clothes"/>
   </node>
   <node id="2557024300" lat="42.9033717" lon="-72.2038809" version="3" timestamp="2019-01-24T14:12:12Z" changeset="66603051" uid="8339" user="mtmail">
     <tag k="addr:city" v="Marlborough"/>
@@ -38444,19 +38441,6 @@
     <tag k="source" v="http://finance.yahoo.com/news/reeds-jewelers-now-accepting-bitcoin-120000388.html"/>
     <tag k="website" v="https://www.reeds.com/"/>
   </node>
-  <node id="2910189623" lat="-41.3011978" lon="174.7796336" version="4" timestamp="2021-04-01T05:50:54Z" changeset="102095021" uid="213831" user="Josef73">
-    <tag k="addr:city" v="Wellington"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Adelaide Road"/>
-    <tag k="addr:suburb" v="Mount Cook"/>
-    <tag k="name" v="Mane Salon"/>
-    <tag k="opening_hours" v="Mo,Tu 09:30-15:00; We,Th 09:30-20:00; Fr 09:30-19:30; Sa 09:30-15:30"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+64 4 385 3258"/>
-    <tag k="ref:linz:address_id" v="365260"/>
-    <tag k="shop" v="hairdresser"/>
-    <tag k="website" v="https://manesalon.co.nz/"/>
-  </node>
   <node id="2910190238" lat="35.0712004" lon="-78.9605604" version="4" timestamp="2019-02-18T04:49:00Z" changeset="67300886" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Fayetteville"/>
     <tag k="addr:housenumber" v="419"/>
@@ -47891,11 +47875,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.m-m-m.de/"/>
   </node>
-  <node id="3242803596" lat="52.3621656" lon="9.7500656" version="2" timestamp="2019-03-11T10:25:01Z" changeset="68016677" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Hannover"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="30171"/>
-    <tag k="addr:street" v="Krausenstraße"/>
+  <node id="3242803596" lat="52.3621423" lon="9.7500408" version="3" timestamp="2022-07-29T22:13:30Z" changeset="124249698" uid="5462498" user="LutzAdam">
     <tag k="name" v="Zukunftsstark - Jens Hansen Consulting GmbH"/>
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -54990,7 +54970,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://kitsune-web.jp/"/>
   </node>
-  <node id="3722487935" lat="60.1670049" lon="24.9335378" version="5" timestamp="2021-09-14T14:50:52Z" changeset="111199854" uid="8980540" user="pyyhttu">
+  <node id="3722487935" lat="60.1670049" lon="24.9335378" version="6" timestamp="2022-07-29T20:18:18Z" changeset="124246802" uid="8980540" user="pyyhttu">
     <tag k="addr:city" v="Helsinki"/>
     <tag k="addr:country" v="FI"/>
     <tag k="addr:housenumber" v="51-53"/>
@@ -55001,6 +54981,8 @@
     <tag k="name" v="Club Capital"/>
     <tag k="opening_hours" v="Fr-Sa 22:00-04:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="website" v="https://www.clubcapital.fi/"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -65179,7 +65161,7 @@
     <tag k="website" v="https://www.facebook.com/PasticceriaDolcePisa"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5515779562" lat="44.7471747" lon="16.6746817" version="2" timestamp="2018-03-30T07:43:01Z" changeset="57653689" uid="7990335" user="GeForceOne">
+  <node id="5515779562" lat="44.7472109" lon="16.6747246" version="3" timestamp="2022-07-29T11:25:04Z" changeset="124226531" uid="11629545" user="eclipse28">
     <tag k="addr:city" v="Sanski Most"/>
     <tag k="addr:postcode" v="79260"/>
     <tag k="addr:street" v="Bulevar 5. Korpusa"/>
