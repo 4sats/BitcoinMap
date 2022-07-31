@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-30T05:29:08Z"/>
+<meta osm_base="2022-07-31T05:28:29Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -9499,14 +9499,14 @@
     <tag k="source:date" v="2014-03-24"/>
     <tag k="website" v="https://ristorantelafontana.nl/houten/"/>
   </node>
-  <node id="2525566181" lat="39.5218534" lon="-119.8168832" version="4" timestamp="2014-10-09T01:54:43Z" changeset="25952237" uid="1800480" user="Emanpa68">
+  <node id="2525566181" lat="39.5218534" lon="-119.8168832" version="5" timestamp="2022-07-30T22:30:35Z" changeset="124284599" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Reno"/>
     <tag k="addr:housenumber" v="299"/>
     <tag k="addr:postcode" v="89502"/>
     <tag k="addr:street" v="South Arlington Ave."/>
     <tag k="name" v="Storm 5 LLC"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://storm5.com"/>
+    <tag k="website" v="https://storm5.com/"/>
   </node>
   <node id="2525570100" lat="46.0610520" lon="14.4128031" version="2" timestamp="2018-09-10T16:01:23Z" changeset="62459153" uid="58976" user="Mark Martinec">
     <tag k="addr:city" v="Dobrova"/>
@@ -25738,7 +25738,7 @@
     <tag k="phone" v="+55 51 3519-3667"/>
     <tag k="website" v="http://negalize.it"/>
   </node>
-  <node id="2676990279" lat="-25.4103974" lon="-49.2050991" version="5" timestamp="2018-12-29T12:59:56Z" changeset="65864249" uid="9043280" user="santamariense_importer">
+  <node id="2676990279" lat="-25.4103974" lon="-49.2050991" version="6" timestamp="2022-07-30T12:42:55Z" changeset="124266519" uid="10460642" user="PlayzinhoAgro">
     <tag k="addr:city" v="Curitiba"/>
     <tag k="addr:housenumber" v="375"/>
     <tag k="addr:postcode" v="82820310"/>
@@ -25749,7 +25749,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:coins" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="55 41 3521-6046"/>
+    <tag k="phone" v="+55 41 3521 6046"/>
     <tag k="website" v="http://www.ETIST.com.br"/>
   </node>
   <node id="2677142662" lat="35.3382548" lon="25.1292865" version="3" timestamp="2018-03-04T12:40:40Z" changeset="56869737" uid="23785" user="greecemapper">
@@ -29642,9 +29642,9 @@
     <tag k="phone" v="401-354-7544"/>
     <tag k="website" v="https://www.snecsllc.com/"/>
   </node>
-  <node id="2725439539" lat="54.1887574" lon="-4.5705148" version="4" timestamp="2016-01-27T17:34:16Z" changeset="36841709" uid="1802093" user="Paul Berry">
+  <node id="2725439539" lat="54.1887574" lon="-4.5705148" version="5" timestamp="2022-07-30T21:37:49Z" changeset="124283562" uid="38588" user="mentor">
     <tag k="addr:city" v="Douglas"/>
-    <tag k="addr:housenumber" v="Uplands"/>
+    <tag k="addr:housename" v="Uplands"/>
     <tag k="addr:postcode" v="IM4 2DN"/>
     <tag k="addr:street" v="Ballavitchel Road"/>
     <tag k="name" v="Logs For Sale"/>
@@ -80245,6 +80245,24 @@
     <tag k="service:press" v="yes"/>
     <tag k="shop" v="paint"/>
     <tag k="start_date" v="1993"/>
+  </node>
+  <node id="9920761978" lat="50.0756499" lon="14.4269624" version="1" timestamp="2022-07-30T11:16:00Z" changeset="124264016" uid="15312507" user="POI Mapper">
+    <tag k="addr:floor" v="0"/>
+    <tag k="addr:housenumber" v="1635/35"/>
+    <tag k="addr:street" v="Ječná"/>
+    <tag k="check_date" v="2022-07-30"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/unholytattoo"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/unholytattoo"/>
+    <tag k="email" v="info@unholy.cz"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Unholy"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-19:00; Su off"/>
+    <tag k="operator" v="Unholy Tattoo S.R.O."/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+420 720 944 390"/>
+    <tag k="shop" v="tattoo"/>
+    <tag k="website" v="https://www.unholy.cz/"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
 
 </osm>
