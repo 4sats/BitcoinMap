@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-31T05:28:29Z"/>
+<meta osm_base="2022-08-01T05:58:39Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -69687,30 +69687,6 @@
     <tag k="toilets" v="yes"/>
     <tag k="website" v="https://www.bithubtaiwan.com/"/>
   </node>
-  <node id="6432196108" lat="43.9050085" lon="16.4442210" version="1" timestamp="2019-04-27T06:44:50Z" changeset="69631521" uid="9661220" user="opengas7711">
-    <tag k="access" v="customers"/>
-    <tag k="addr:city" v="Garjak"/>
-    <tag k="addr:postcode" v="21236"/>
-    <tag k="addr:street" v="Garjak"/>
-    <tag k="description" v="Welcome to Camping Peruca in Garjak, close to the town of Vrlika in the wild and romantic Dalmatian hinterland. Peruca Lake with crystal clear water and our own beach invites you to enjoy a swim.&#x0a;"/>
-    <tag k="ele" v="380"/>
-    <tag k="email" v="info@perucacamping.com"/>
-    <tag k="fee" v="yes"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="name" v="Camping Peruca"/>
-    <tag k="operator" v="Camping Peruca d.o.o"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+385 91 952 9039"/>
-    <tag k="power_supply" v="yes"/>
-    <tag k="sanitary_dump_station" v="yes"/>
-    <tag k="start_date" v="16.05.2019"/>
-    <tag k="tourism" v="camp_site"/>
-    <tag k="website" v="www.campingperuca.com"/>
-  </node>
   <node id="6450277562" lat="45.7911528" lon="15.9963692" version="1" timestamp="2019-05-05T17:44:35Z" changeset="69911117" uid="244754" user="Janjko">
     <tag k="name" v="Studio 54"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-20:00; Sa 07:00-14:00"/>
@@ -80263,6 +80239,20 @@
     <tag k="shop" v="tattoo"/>
     <tag k="website" v="https://www.unholy.cz/"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="9921897493" lat="62.2396943" lon="25.7438000" version="1" timestamp="2022-07-31T07:31:15Z" changeset="124290585" uid="11564056" user="Koistinenpäivää">
+    <tag k="addr:city" v="Jyväskylä"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="40100"/>
+    <tag k="addr:street" v="Gummeruksenkatu"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Irish Pub Lucky Baldwin's"/>
+    <tag k="opening_hours" v="Mo-Th 17:00-00:00; Fr-Sa 15:00-02:00; Su 15:00-00:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+358 50 5555694"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="website" v="http://luckyb.fi/"/>
   </node>
 
 </osm>
