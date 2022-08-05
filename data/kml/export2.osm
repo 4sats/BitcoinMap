@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-04T05:37:24Z"/>
+<meta osm_base="2022-08-05T05:41:09Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -19595,11 +19595,11 @@
     <tag k="shop" v="sports"/>
     <tag k="website" v="https://bitcoinmexi.co/negocio/vosens/"/>
   </node>
-  <node id="2612606593" lat="38.6479051" lon="-121.4811407" version="11" timestamp="2014-01-09T18:23:03Z" changeset="19904933" uid="1851026" user="dbfish">
+  <node id="2612606593" lat="38.6479051" lon="-121.4811400" version="12" timestamp="2022-08-04T16:38:55Z" changeset="124489037" uid="115918" user="Timothy Smith">
     <tag k="addr:housename" v="Pacific Western Sales"/>
     <tag k="addr:housenumber" v="833"/>
     <tag k="addr:postcode" v="95834"/>
-    <tag k="addr:street" v="N. Market Blvd"/>
+    <tag k="addr:street" v="North Market Boulevard"/>
     <tag k="amenity" v="marketplace"/>
     <tag k="name" v="Pacific Western Sales"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -38679,16 +38679,6 @@
     <tag k="shop" v="clothes"/>
     <tag k="website" v="https://www.facebook.com/TibStreet"/>
   </node>
-  <node id="2931875421" lat="47.7977474" lon="-116.8947981" version="1" timestamp="2014-06-24T21:28:04Z" changeset="23131614" uid="2145008" user="zachdoty">
-    <tag k="addr:city" v="Rathdrum"/>
-    <tag k="addr:housenumber" v="13843"/>
-    <tag k="addr:postcode" v="83858"/>
-    <tag k="addr:street" v="State Highway 41"/>
-    <tag k="name" v="Integrity CompuTech"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="http://www.integritycomputech.com/"/>
-  </node>
   <node id="2932667901" lat="52.3660869" lon="4.8954858" version="4" timestamp="2019-11-09T10:14:54Z" changeset="76838193" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Amsterdam"/>
     <tag k="addr:housenumber" v="4"/>
@@ -38997,20 +38987,21 @@
     <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
     <tag k="phone" v="+393737617889"/>
   </node>
-  <node id="2943492038" lat="43.8778735" lon="11.0764922" version="7" timestamp="2021-11-03T20:37:40Z" changeset="113348744" uid="11329839" user="giuliobranchetti">
+  <node id="2943492038" lat="43.8778735" lon="11.0764922" version="8" timestamp="2022-08-04T13:49:48Z" changeset="124482320" uid="175882" user="MarcoR">
     <tag k="addr:city" v="Prato"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="41"/>
     <tag k="addr:postcode" v="59100"/>
     <tag k="addr:street" v="Via Roubaix"/>
+    <tag k="contact:facebook" v="imaginadanza"/>
     <tag k="dance:teaching" v="yes"/>
     <tag k="leisure" v="dance"/>
     <tag k="name" v="Imaginadanza associazione scuola danza s.r.l"/>
     <tag k="name:it" v="Imaginadanza assoc. scuola danza srl"/>
-    <tag k="note" v="Accetta pagamenti in Bitcoins"/>
+    <tag k="note" v="Accetta pagamenti in Bitcoin"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 39230924"/>
-    <tag k="website" v="http://www.imaginadanza.it"/>
+    <tag k="phone" v="+39 393 9230924"/>
+    <tag k="website" v="https://www.imaginadanza.it"/>
   </node>
   <node id="2943685182" lat="48.2074385" lon="16.3786677" version="7" timestamp="2019-02-06T11:02:23Z" changeset="66960398" uid="3524812" user="SWF8">
     <tag k="addr:city" v="Wien"/>
@@ -46823,12 +46814,12 @@
     <tag k="source" v="Facebook page"/>
     <tag k="website" v="https://www.facebook.com/Four54Grill"/>
   </node>
-  <node id="3230686234" lat="38.7734874" lon="-121.2699012" version="2" timestamp="2019-02-17T18:29:53Z" changeset="67288301" uid="9451067" user="b-jazz-bot">
+  <node id="3230686234" lat="38.7734874" lon="-121.2699010" version="3" timestamp="2022-08-04T16:42:14Z" changeset="124489179" uid="115918" user="Timothy Smith">
     <tag k="addr:city" v="Roseville"/>
     <tag k="addr:housenumber" v="1151"/>
     <tag k="addr:postcode" v="95678"/>
     <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="Galleria Blvd"/>
+    <tag k="addr:street" v="Galleria Boulevard"/>
     <tag k="amenity" v="atm"/>
     <tag k="name" v="Bitcoin ATM"/>
     <tag k="note" v="Lamassu ATM on 2nd floor across from Jamba Juice, 2% over Bitstamp, $1k/daily limit, open with mall hours Mon-Sat 10:00am – 9:00pm, Sun 11:00am – 7:00pm"/>
@@ -57944,15 +57935,16 @@
     <tag k="shop" v="clothes"/>
     <tag k="website" v="https://psy7.com/"/>
   </node>
-  <node id="4766288526" lat="44.1983594" lon="12.0329415" version="5" timestamp="2022-08-03T10:17:33Z" changeset="124428965" uid="16728552" user="unmilione">
+  <node id="4766288526" lat="44.1983594" lon="12.0329415" version="6" timestamp="2022-08-04T16:22:20Z" changeset="124488469" uid="16728552" user="unmilione">
     <tag k="addr:city" v="Forlì"/>
     <tag k="addr:housenumber" v="277b"/>
     <tag k="addr:postcode" v="47121"/>
     <tag k="addr:street" v="Viale Risorgimento"/>
     <tag k="air_conditioning" v="yes"/>
-    <tag k="description" v="Agenzia di conto vendita per privati e aziende. Pubblichiamo sul nostro sito e sui principali marketplaces foto e descrizione dei vostri prodotti ponendoci come intermediari della vendita. Offriamo assistenza in transazioni online sia in vendita che in ac"/>
+    <tag k="description" v="Agenzia di conto vendita per privati e aziende. Pubblichiamo sul nostro sito e sui principali marketplaces foto e descrizione dei vostri prodotti ponendoci come intermediari della vendita. Offriamo assistenza in transazioni online in vendita e in acquisto"/>
     <tag k="email" v="info@unmilione.net"/>
     <tag k="fax" v="+39 0543 091354"/>
+    <tag k="image" v="https://unmilione.net/img/servizio/logo-16521078511.jpg"/>
     <tag k="name" v="unmilione agenzia d'affari"/>
     <tag k="opening_hours" v="Mo-Sa 09:00-12:30, 15:30-19:30; Th off; Su off"/>
     <tag k="operator" v="Luca Prestianni"/>
@@ -57961,6 +57953,7 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="phone" v="+39 0543 090105"/>
     <tag k="phone_1" v="+39 3332826865"/>
+    <tag k="ref:vatin" v="02624250300"/>
     <tag k="second_hand" v="yes"/>
     <tag k="shop" v="second_hand"/>
     <tag k="stroller" v="yes"/>
@@ -78318,6 +78311,19 @@
     <tag k="tourism" v="camp_site"/>
     <tag k="website" v="https://www.swanlake.camp/"/>
   </node>
+  <node id="9456367753" lat="49.2476650" lon="-123.1854180" version="2" timestamp="2022-08-04T19:13:18Z" changeset="124494228" uid="1836965" user="Liongrass">
+    <tag k="addr:city" v="Vancouver"/>
+    <tag k="addr:housenumber" v="4345"/>
+    <tag k="addr:postcode" v="V6S 2G0"/>
+    <tag k="addr:province" v="BC"/>
+    <tag k="addr:street" v="Dunbar Street"/>
+    <tag k="email" v="info@jdsbarbershop.com"/>
+    <tag k="name" v="JD's Barbershop Dunbar"/>
+    <tag k="opening_hours" v="Mon 10-7  Tues  9-9 Weds-Thurs 10-7 Fri-Sat 9-9 Sun 10-6"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="website" v="https://www.jdsbarbershop.com/"/>
+  </node>
   <node id="9467756907" lat="13.2970053" lon="74.7198522" version="1" timestamp="2022-02-02T06:52:30Z" changeset="116897822" uid="14996521" user="Prathik Kotian">
     <tag k="addr:city" v="Udupi"/>
     <tag k="addr:housenumber" v="13 - 55"/>
@@ -79643,6 +79649,20 @@
     <tag k="phone" v="718-981-4988"/>
     <tag k="website" v="http://bootlegmannings.com/"/>
     <tag k="yelp" v="http://www.yelp.com/biz/bootleg-mannings-staten-island-2?nb=1"/>
+  </node>
+  <node id="9932437555" lat="49.2832638" lon="-123.1069081" version="1" timestamp="2022-08-04T19:13:18Z" changeset="124494228" uid="1836965" user="Liongrass">
+    <tag k="addr:city" v="Vancouver"/>
+    <tag k="addr:housenumber" v="235"/>
+    <tag k="addr:postcode" v="V6B 2K7"/>
+    <tag k="addr:province" v="BC"/>
+    <tag k="addr:street" v="Abbott Street"/>
+    <tag k="email" v="info@jdsbarbershop.com"/>
+    <tag k="name" v="JD's Barbershop Gastown"/>
+    <tag k="opening_hours" v="Mon 10-7 Tues-Fri 9-9 Sat 10-7  Sun 10-6"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1604 331 8441"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="website" v="https://www.jdsbarbershop.com"/>
   </node>
 
 </osm>
