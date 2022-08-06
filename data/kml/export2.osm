@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-05T05:41:09Z"/>
+<meta osm_base="2022-08-06T05:25:18Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -4644,22 +4644,6 @@
     <tag k="smoking" v="no"/>
     <tag k="website" v="https://mare-nero.de/"/>
   </node>
-  <node id="2184644008" lat="49.2000920" lon="-122.9115154" version="6" timestamp="2019-05-03T23:33:25Z" changeset="69862186" uid="238419" user="HubMiner">
-    <tag k="addr:city" v="New Westminster"/>
-    <tag k="addr:housenumber" v="810"/>
-    <tag k="addr:street" v="Quayside Drive"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="capacity" v="50"/>
-    <tag k="cuisine" v="southern"/>
-    <tag k="email" v="REUPBBQ@GMAIL.COM"/>
-    <tag k="level" v="1"/>
-    <tag k="name" v="RE-UP BBQ"/>
-    <tag k="opening_hours" v="09:00-20:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-604-553-3997"/>
-    <tag k="website" v="https://reupbbq.com/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="2185635271" lat="-23.7860366" lon="-45.5616388" version="2" timestamp="2022-05-16T22:38:54Z" changeset="121072274" uid="9451067" user="b-jazz-bot">
     <tag k="addr:housenumber" v="291"/>
     <tag k="addr:street" v="Rua Colombo"/>
@@ -6144,6 +6128,43 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://bitbond.net/"/>
   </node>
+  <node id="2391018730" lat="10.4946216" lon="-66.8271075" version="11" timestamp="2022-08-05T23:50:07Z" changeset="124542864" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:country" v="VE"/>
+    <tag k="addr:postcode" v="1071"/>
+    <tag k="addr:street" v="Av. Rómulo Gallegos"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="PDV"/>
+    <tag k="charge" v="0.50 USD"/>
+    <tag k="currency:BsF" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:others" v="no"/>
+    <tag k="fee" v="Internacional"/>
+    <tag k="fuel:diesel" v="no"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="name" v="E/S Montecristo"/>
+    <tag k="note" v="Tarifa: INTERNACIONAL a USD 0.50 por litro"/>
+    <tag k="note:en" v="international rate at usd 0.50 per liter"/>
+    <tag k="operator" v="PDVSA"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="no"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:electronic_purses" v="no"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="self_service" v="no"/>
+    <tag k="shop" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q5802027"/>
+    <tag k="wikipedia" v="es:Deltaven"/>
+  </node>
   <node id="2393188815" lat="50.9214120" lon="5.8820915" version="11" timestamp="2020-06-10T15:27:43Z" changeset="86471095" uid="927112" user="CartoKees">
     <tag k="addr:city" v="Nuth"/>
     <tag k="addr:housenumber" v="1"/>
@@ -6384,18 +6405,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+48 22 8428522;+48 505011202"/>
     <tag k="website" v="https://tlumaczenia-francuski.pl/"/>
-  </node>
-  <node id="2410445958" lat="49.4214007" lon="-123.6431875" version="11" timestamp="2020-10-07T14:50:33Z" changeset="92119737" uid="596047" user="Rps333">
-    <tag k="addr:city" v="Roberts Creek"/>
-    <tag k="addr:housenumber" v="1059"/>
-    <tag k="addr:postcode" v="V0N 2W0"/>
-    <tag k="addr:street" v="Roberts Creek"/>
-    <tag k="name" v="Roberts Creek Health Food Store"/>
-    <tag k="opening_hours" v="10:00+"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-604-885-2580"/>
-    <tag k="shop" v="convenience"/>
-    <tag k="website" v="http://robertscreekhealthfoodstore.com/"/>
   </node>
   <node id="2410528130" lat="41.6424458" lon="2.3656065" version="5" timestamp="2019-08-20T08:49:13Z" changeset="73528169" uid="170106" user="sanchi">
     <tag k="addr:postcode" v="08440"/>
@@ -13185,17 +13194,6 @@
     <tag k="website" v="www.dinarbandung.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2559454242" lat="49.2045526" lon="-122.9057123" version="5" timestamp="2018-02-12T04:10:28Z" changeset="56280902" uid="5633991" user="Matthew Darwin">
-    <tag k="addr:city" v="New Westminster"/>
-    <tag k="addr:housenumber" v="407"/>
-    <tag k="addr:postcode" v="V3L 1A9"/>
-    <tag k="addr:street" v="Columbia Street"/>
-    <tag k="name" v="Gamedeals Video Games"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-604-540-0582"/>
-    <tag k="shop" v="video_games"/>
-    <tag k="website" v="http://gamedeals.ca/"/>
-  </node>
   <node id="2560046107" lat="50.0796596" lon="14.4149572" version="8" timestamp="2022-03-19T16:39:59Z" changeset="118672035" uid="12424494" user="lovelyfurball88">
     <tag k="addr:city" v="Praha"/>
     <tag k="addr:housenumber" v="7"/>
@@ -13272,11 +13270,6 @@
     <tag k="name" v="Dr. Rory Smith, Optometrist"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="931 424-8223"/>
-  </node>
-  <node id="2560853162" lat="49.2726665" lon="-123.0264445" version="3" timestamp="2022-06-05T20:31:44Z" changeset="121993819" uid="9451067" user="b-jazz-bot">
-    <tag k="name" v="Ethical Bean Coffee"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.ethicalbean.com/"/>
   </node>
   <node id="2560935406" lat="29.3891162" lon="47.9816244" version="7" timestamp="2019-09-25T19:53:58Z" changeset="74926559" uid="8988225" user="Ned_Stark">
     <tag k="attribution" v="yes"/>
@@ -13553,17 +13546,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="beauty"/>
     <tag k="website" v="http://www.castlebloom.com/"/>
-  </node>
-  <node id="2562586377" lat="49.2793756" lon="-123.0874480" version="8" timestamp="2022-08-02T01:03:29Z" changeset="124368609" uid="1836965" user="Liongrass">
-    <tag k="addr:city" v="Vancouver"/>
-    <tag k="addr:housenumber" v="799"/>
-    <tag k="addr:street" v="Keefer Street"/>
-    <tag k="name" v="Wilder Snail"/>
-    <tag k="note" v="The Wilder Snail is a popular local grocery store and cafe in Strathcona, and the first grocery store in Canada to accept Bitcoin using the Co-op's POS system. The owner, Boyd Thomson, is passionate about environmental and other causes, and the Snail has"/>
-    <tag k="opening_hours" v="Mo-Fr 08:00-18:00; Sa-Su 09:00-18:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-604-216-0640"/>
-    <tag k="website" v="https://www.wildersnail.com/"/>
   </node>
   <node id="2562624516" lat="53.5510288" lon="9.9374106" version="2" timestamp="2014-09-12T12:45:49Z" changeset="25389692" uid="507893" user="wsoroe">
     <tag k="addr:city" v="Hamburg"/>
@@ -16093,6 +16075,46 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1 2124330127"/>
     <tag k="website" v="https://paramountrugs.com/"/>
+  </node>
+  <node id="2576291673" lat="10.4868176" lon="-66.8240004" version="9" timestamp="2022-08-05T23:50:07Z" changeset="124542864" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:country" v="VE"/>
+    <tag k="addr:housename" v="Estación de Servicios Boleíta"/>
+    <tag k="addr:postcode" v="1071"/>
+    <tag k="addr:street" v="Av. Francisco de Miranda"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="PDV"/>
+    <tag k="charge" v="0.50 USD"/>
+    <tag k="currency:BsF" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:others" v="no"/>
+    <tag k="fee" v="Internacional"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="no"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipP5YvHxU5fBz-lWCXgSQH8yjrymjf5WZNUsJTBF=w408-h306-k-no"/>
+    <tag k="name" v="E/S Boleíta"/>
+    <tag k="note" v="Tarifa: INTERNACIONAL a USD 0.50 por litro"/>
+    <tag k="note:en" v="international rate at usd 0.50 per liter"/>
+    <tag k="operator" v="PDVSA"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="no"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:electronic_purses" v="no"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="self_service" v="no"/>
+    <tag k="shop" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q5802027"/>
+    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2576355932" lat="54.0580873" lon="-2.8472655" version="6" timestamp="2019-02-27T13:44:16Z" changeset="67618381" uid="161022" user="gurglypipe">
     <tag k="addr:city" v="moreambe"/>
@@ -20849,17 +20871,6 @@
     <tag k="tourism" v="apartment"/>
     <tag k="website" v="http://www.adormo.com/en/Apartment-2-Persons/6355"/>
   </node>
-  <node id="2621953193" lat="49.2811049" lon="-123.1069290" version="6" timestamp="2019-03-22T02:53:41Z" changeset="68394832" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Vancouver"/>
-    <tag k="addr:housenumber" v="81"/>
-    <tag k="addr:postcode" v="V6B 1R3"/>
-    <tag k="addr:street" v="West Pender Street"/>
-    <tag k="name" v="PrintPrint"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-604-872-8943"/>
-    <tag k="shop" v="yes"/>
-    <tag k="website" v="https://www.printprint.ca/"/>
-  </node>
   <node id="2622079533" lat="43.7180099" lon="10.9437901" version="2" timestamp="2014-01-14T11:40:27Z" changeset="19988761" uid="1882041" user="Bitcoin Hosting">
     <tag k="addr:city" v="Empoli"/>
     <tag k="addr:housename" v="WebNet di Tommaso Capretti"/>
@@ -22398,17 +22409,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.ultimatemotorstx.com/"/>
   </node>
-  <node id="2635211541" lat="49.2687296" lon="-123.1848950" version="3" timestamp="2022-08-02T01:39:48Z" changeset="124368965" uid="1836965" user="Liongrass">
-    <tag k="addr:city" v="Vancouver"/>
-    <tag k="addr:housenumber" v="3669"/>
-    <tag k="addr:postcode" v="V6R 1P2"/>
-    <tag k="addr:street" v="West 4th Avenue"/>
-    <tag k="name" v="Okanagan Estate Wine Shop"/>
-    <tag k="opening_hours" v="11:00-22:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="alcohol"/>
-    <tag k="website" v="https://okanagancellars.com/"/>
-  </node>
   <node id="2635212116" lat="-6.9734232" lon="110.4101647" version="4" timestamp="2014-01-25T07:00:15Z" changeset="20188909" uid="1901282" user="SuSEno™">
     <tag k="addr:city" v="Semarang"/>
     <tag k="addr:housename" v="Pondok Indrapasta"/>
@@ -23042,6 +23042,47 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+44 7729712291"/>
     <tag k="website" v="http://www.linklinecrew.com/files/sound-recordists/DeVere.pdf"/>
+  </node>
+  <node id="2642516853" lat="10.4923669" lon="-66.8187533" version="11" timestamp="2022-08-06T00:51:02Z" changeset="124543504" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:country" v="VE"/>
+    <tag k="addr:housename" v="Estación de Servicios Santa María"/>
+    <tag k="addr:postcode" v="1071"/>
+    <tag k="addr:street" v="Av. Rómulo Gallegos"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="PDV"/>
+    <tag k="car_wash" v="yes"/>
+    <tag k="charge" v="0.50 USD"/>
+    <tag k="currency:BsF" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:others" v="no"/>
+    <tag k="fee" v="Internacional"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="no"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipNdLRbcjGjGQJg5xCjfC_tu1GE1TX1UjYsVODcR=w408-h257-k-no"/>
+    <tag k="name" v="E/S Santa María"/>
+    <tag k="note" v="Tarifa: INTERNACIONAL a USD 0.50 por litro"/>
+    <tag k="note:en" v="international rate at usd 0.50 per liter"/>
+    <tag k="operator" v="PDVSA"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="no"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:electronic_purses" v="no"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="self_service" v="no"/>
+    <tag k="shop" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q5802027"/>
+    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2642535274" lat="43.0486045" lon="-87.9683827" version="3" timestamp="2016-03-07T05:09:30Z" changeset="37658290" uid="1743198" user="MidwestMapGeek">
     <tag k="addr:city" v="Milwaukee"/>
@@ -34353,21 +34394,6 @@
     <tag k="smoking" v="outside"/>
     <tag k="tourism" v="hotel"/>
   </node>
-  <node id="2807280509" lat="49.2320684" lon="-123.0258617" version="9" timestamp="2022-06-05T20:16:17Z" changeset="121993162" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Vancouver"/>
-    <tag k="addr:housenumber" v="3632"/>
-    <tag k="addr:postcode" v="V5R 5M2"/>
-    <tag k="addr:street" v="Kingsway"/>
-    <tag k="amenity" v="clinic"/>
-    <tag k="healthcare" v="alternative"/>
-    <tag k="healthcare:speciality" v="chiropractic"/>
-    <tag k="name" v="Spine + Muscle"/>
-    <tag k="opening_hours" v="Tu, Th 14:00-21:00; We, Fr 10:00-15:00; Sa, Su 12:00-17:00, Mo off"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-604-431-6661"/>
-    <tag k="website" v="https://www.spinemuscle.ca/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="2807630003" lat="33.5520035" lon="-84.2571198" version="3" timestamp="2020-07-11T20:49:36Z" changeset="87863586" uid="252616" user="RampagePS">
     <tag k="addr:city" v="Stockbridge"/>
     <tag k="addr:housenumber" v="5512"/>
@@ -35548,18 +35574,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-800-326-9598"/>
     <tag k="website" v="https://www.americanbullion.com/"/>
-  </node>
-  <node id="2845216562" lat="49.2824367" lon="-123.1160140" version="6" timestamp="2021-01-11T02:19:04Z" changeset="97270485" uid="3831275" user="Devicelimit">
-    <tag k="addr:city" v="Vancouver"/>
-    <tag k="addr:housenumber" v="644"/>
-    <tag k="addr:postcode" v="V6B 3K4"/>
-    <tag k="addr:province" v="BC"/>
-    <tag k="addr:street" v="Seymour St."/>
-    <tag k="name" v="The Fall Tattooing"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-604-676-3066"/>
-    <tag k="shop" v="tattoo"/>
-    <tag k="website" v="https://www.thefalltattooing.com/"/>
   </node>
   <node id="2845221347" lat="37.9580449" lon="-122.4992548" version="3" timestamp="2018-06-04T03:56:46Z" changeset="59522166" uid="5359" user="user_5359">
     <tag k="amenity" v="cafe"/>
@@ -39595,58 +39609,6 @@
     <tag k="phone" v="+1-780-483-1385"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="http://www.sandmanhotels.ca/hotels/edmonton-west/"/>
-  </node>
-  <node id="2967135523" lat="50.6719196" lon="-120.3278334" version="3" timestamp="2018-10-26T20:30:13Z" changeset="63913893" uid="5633991" user="Matthew Darwin">
-    <tag k="addr:city" v="Kamloops"/>
-    <tag k="addr:housenumber" v="550"/>
-    <tag k="addr:postcode" v="V2C 1V1"/>
-    <tag k="addr:street" v="Columbia Street"/>
-    <tag k="name" v="Sandman Inn &amp; Suites Kamloops"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-250-374-1218"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="http://www.sandmanhotels.ca/hotels/kamloops/"/>
-  </node>
-  <node id="2967149825" lat="53.9082334" lon="-122.7805520" version="6" timestamp="2021-06-18T05:23:24Z" changeset="106564472" uid="13336323" user="frederkw1">
-    <tag k="addr:city" v="Prince George"/>
-    <tag k="addr:housenumber" v="1650"/>
-    <tag k="addr:postcode" v="V2M 3C2"/>
-    <tag k="addr:street" v="Central Street East"/>
-    <tag k="email" v="reservations@sandman.ca"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Sandman Hotel &amp; Suites Prince George"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-250-563-8131"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="https://www.sandmanhotels.com/prince-george"/>
-  </node>
-  <node id="2967171571" lat="52.9638167" lon="-122.4423700" version="8" timestamp="2021-10-29T04:38:57Z" changeset="113104979" uid="13336323" user="frederkw1">
-    <tag k="addr:city" v="Quesnel"/>
-    <tag k="addr:housenumber" v="940"/>
-    <tag k="addr:postcode" v="V2J 6R8"/>
-    <tag k="addr:street" v="Chew Road North"/>
-    <tag k="brand" v="Sandman"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Sandman Hotel Quesnel"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-250-747-3511"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="https://www.sandmanhotels.com/quesnel"/>
-  </node>
-  <node id="2967229841" lat="52.1287744" lon="-122.1367685" version="8" timestamp="2021-09-27T15:56:44Z" changeset="111775592" uid="13336323" user="frederkw1">
-    <tag k="addr:city" v="Williams Lake"/>
-    <tag k="addr:housenumber" v="664"/>
-    <tag k="addr:postcode" v="V2G 1M6"/>
-    <tag k="addr:street" v="Oliver Street"/>
-    <tag k="email" v="reservations@sandman.ca"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Sandman Hotel &amp; Suites Williams Lake"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-250-392-6557"/>
-    <tag k="toilets:wheelchair" v="yes"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="https://www.sandmanhotels.com/williams-lake"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2967584835" lat="32.0711312" lon="34.7653289" version="2" timestamp="2014-09-19T11:13:38Z" changeset="25539504" uid="2045570" user="sivan00">
     <tag k="addr:city" v="תל אביב-יפו"/>
@@ -45973,6 +45935,47 @@
     <tag k="shop" v="storage_rental"/>
     <tag k="website" v="https://www.facebook.com/Colstorage"/>
   </node>
+  <node id="3192392018" lat="10.4930737" lon="-66.8309179" version="11" timestamp="2022-08-05T23:50:07Z" changeset="124542864" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:country" v="VE"/>
+    <tag k="addr:housename" v="Estación de Servicios Tauro"/>
+    <tag k="addr:postcode" v="1071"/>
+    <tag k="addr:street" v="Av. Francisco de Miranda"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="PDV"/>
+    <tag k="charge" v="0.50 USD"/>
+    <tag k="currency:BsF" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:others" v="no"/>
+    <tag k="fee" v="Internacional"/>
+    <tag k="fuel:cng" v="no"/>
+    <tag k="fuel:diesel" v="no"/>
+    <tag k="fuel:octane_91" v="yes"/>
+    <tag k="fuel:octane_92" v="yes"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipNv45mxCLjPwaqyGiQwNDe08mRhGrr36i7LL2l5=w408-h306-k-no"/>
+    <tag k="name" v="E/S Tauro"/>
+    <tag k="note" v="Tarifa: INTERNACIONAL a USD 0.50 por litro"/>
+    <tag k="note:en" v="international rate at usd 0.50 per liter"/>
+    <tag k="operator" v="PDVSA"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="no"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:electronic_purses" v="no"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="self_service" v="no"/>
+    <tag k="shop" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q5802027"/>
+    <tag k="wikipedia" v="es:Deltaven"/>
+  </node>
   <node id="3194210082" lat="38.9288482" lon="-94.7406720" version="4" timestamp="2019-05-18T14:38:40Z" changeset="70388899" uid="243003" user="skquinn">
     <tag k="addr:city" v="Lenexa"/>
     <tag k="addr:housename" v="Collector's Cache"/>
@@ -46674,18 +46677,6 @@
     <tag k="smoking" v="outside"/>
     <tag k="website" v="http://bazilika.si/cafe"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="3225462062" lat="49.2802944" lon="-123.1006504" version="7" timestamp="2019-09-13T13:56:49Z" changeset="74439880" uid="5633991" user="Matthew Darwin">
-    <tag k="addr:city" v="Vancouver"/>
-    <tag k="addr:housenumber" v="180"/>
-    <tag k="addr:postcode" v="V6A 1T3"/>
-    <tag k="addr:street" v="East Pender Street"/>
-    <tag k="leisure" v="sports_centre"/>
-    <tag k="name" v="STRETCH Yoga Studio"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-778-819-6488"/>
-    <tag k="website" v="https://www.stretchvancouver.com/"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="3225468470" lat="46.0464189" lon="14.5041820" version="3" timestamp="2021-03-24T21:19:54Z" changeset="101674777" uid="6508041" user="martianfreeloader">
     <tag k="addr:city" v="Ljubljana"/>
@@ -65047,7 +65038,7 @@
     <tag k="phone" v="9265171536"/>
     <tag k="shop" v="supermarket"/>
   </node>
-  <node id="5618206358" lat="34.0245245" lon="-118.2499844" version="5" timestamp="2019-04-04T19:43:29Z" changeset="68897156" uid="8251929" user="AthenaBitcoinInc2015">
+  <node id="5618206358" lat="34.0245960" lon="-118.2499330" version="6" timestamp="2022-08-05T22:14:42Z" changeset="124541509" uid="11523236" user="willkmis">
     <tag k="addr:city" v="Los Angeles"/>
     <tag k="addr:housenumber" v="1317"/>
     <tag k="addr:postcode" v="90021"/>
@@ -72911,6 +72902,19 @@
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="payment:dogecoin" v="yes"/>
   </node>
+  <node id="7950521585" lat="45.9292251" lon="8.4801214" version="3" timestamp="2022-08-05T12:19:07Z" changeset="124520941" uid="2201521" user="quibitcoin">
+    <tag k="addr:city" v="Baveno"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="28831"/>
+    <tag k="addr:street" v="Via Giuseppe Verdi"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian_pizza"/>
+    <tag k="email" v="pasquale_petrillo@msn.com"/>
+    <tag k="name" v="Pizzeria Fiore Di Latte"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39032380630"/>
+    <tag k="website" v="https://www.fioredilatte.it"/>
+  </node>
   <node id="7959611868" lat="47.1119706" lon="7.2274201" version="1" timestamp="2020-09-30T12:45:03Z" changeset="91769731" uid="1416503" user="asdf2">
     <tag k="name" v="Bitcoin-Schweiz.ch GmbH"/>
     <tag k="office" v="financial"/>
@@ -78570,6 +78574,24 @@
     <tag k="payment:visa_debit" v="yes"/>
     <tag k="shop" v="supermarket"/>
   </node>
+  <node id="9582167489" lat="49.2641408" lon="-123.1569873" version="3" timestamp="2022-08-05T23:12:39Z" changeset="124542407" uid="16755087" user="Coinoswallet">
+    <tag k="addr:city" v="Vancouver"/>
+    <tag k="addr:housenumber" v="2287"/>
+    <tag k="addr:province" v="BC"/>
+    <tag k="addr:street" v="West Broadway"/>
+    <tag k="air_conditioning" v="no"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="bar" v="yes"/>
+    <tag k="bicoin lightning accepted" v="yes"/>
+    <tag k="bitcoin accepted" v="yes"/>
+    <tag k="cuisine" v="mexican;tex-mex;tacos;spanish;burrito;bitcoin"/>
+    <tag k="name" v="Tacos Jorge"/>
+    <tag k="opening_hours" v="Mo-Th 15:00-01:00;Fr-Sa 15:00-02:00;Su 15:00-00:00;Mo-Su 11:00-23:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+1 778-751-0767;+1 778 751 9767"/>
+    <tag k="website" v="https://www.tacosjorge.com;www.tacosjorge.com"/>
+  </node>
   <node id="9620350185" lat="62.3001023" lon="25.7094401" version="2" timestamp="2022-03-29T08:41:23Z" changeset="119057475" uid="36166" user="umlaitinen">
     <tag k="addr:city" v="Jyväskylä"/>
     <tag k="addr:housenumber" v="5"/>
@@ -79663,6 +79685,46 @@
     <tag k="phone" v="+1604 331 8441"/>
     <tag k="shop" v="hairdresser"/>
     <tag k="website" v="https://www.jdsbarbershop.com"/>
+  </node>
+  <node id="9933827401" lat="45.3228130" lon="10.9494663" version="1" timestamp="2022-08-05T13:27:33Z" changeset="124524073" uid="2201521" user="quibitcoin">
+    <tag k="addr:city" v="Vigasio"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="37068"/>
+    <tag k="addr:street" v="Via Alzeri"/>
+    <tag k="craft" v="electrician"/>
+    <tag k="description" v="Impianti elettrici e automazione cancelli."/>
+    <tag k="email" v="info@zoccatelli.it"/>
+    <tag k="name" v="Z. M. Zoccatelli Impianti"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 3484447118"/>
+    <tag k="website" v="https://www.impiantizoccatelli.it"/>
+  </node>
+  <node id="9933829593" lat="44.1983466" lon="12.0332196" version="1" timestamp="2022-08-05T13:34:13Z" changeset="124524365" uid="2201521" user="quibitcoin">
+    <tag k="addr:city" v="Forlì"/>
+    <tag k="addr:housenumber" v="277B"/>
+    <tag k="addr:postcode" v="47121"/>
+    <tag k="addr:street" v="Viale Risorgimento"/>
+    <tag k="description" v="Vendita articoli nuovi e usati sia in negozio che online. Agenzia di conto vendita per privati e aziende, vendite in tutto il mondo."/>
+    <tag k="email" v="info@unmilione.net"/>
+    <tag k="name" v="unmilione"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 0543090105"/>
+    <tag k="shop" v="second_hand"/>
+    <tag k="website" v="https://unmilione.net"/>
+  </node>
+  <node id="9934619017" lat="49.2702568" lon="-123.1414122" version="1" timestamp="2022-08-05T22:12:21Z" changeset="124541461" uid="1836965" user="Liongrass">
+    <tag k="addr:city" v="Vancouver"/>
+    <tag k="addr:housenumber" v="1628"/>
+    <tag k="addr:postcode" v="V6J 1G1"/>
+    <tag k="addr:province" v="BC"/>
+    <tag k="addr:street" v="West 1st Avenue"/>
+    <tag k="addr:unit" v="231"/>
+    <tag k="email" v="jsilver@rolfbodywork.com"/>
+    <tag k="name" v="Rolf Bodywork"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+16047672971"/>
+    <tag k="shop" v="massage"/>
+    <tag k="website" v="https://rolfbodywork.com"/>
   </node>
 
 </osm>
