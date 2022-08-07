@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-06T05:25:18Z"/>
+<meta osm_base="2022-08-07T05:26:09Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -58730,6 +58730,22 @@
     <tag k="shop" v="bicycle"/>
     <tag k="website" v="https://cykelkok.se/cykelkoket-gamlestan"/>
   </node>
+  <node id="4855618125" lat="45.4604241" lon="10.5676697" version="2" timestamp="2022-08-06T13:51:53Z" changeset="124563301" uid="2201521" user="quibitcoin">
+    <tag k="addr:city" v="Desenzano del Garda"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="25015"/>
+    <tag k="addr:street" v="Via Parrocchiale"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="description" v="Nasce nel marzo 2015 con l’obiettivo di rendere la bruschetta la vera e propria protagonista. Nel corso degli anni siamo cresciuti, imparando diverse tecniche e lavorazioni. Oggi utilizziamo il nostro pane a lievitazione naturale e prodotti ricercati."/>
+    <tag k="email" v="info@bruschetterianose.it"/>
+    <tag k="name" v="Bruschetteria Nose"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+393896946385"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="website" v="http://www.bruschetterianose.it"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="Es gibt Sitzplätze vor der Bruschetteria, in den Gastraum führt eine Edelstahlrampe. Tische und Stühle sind teilweise eng gestellt. Zur einzigen ( Rollstuhlgerechten ) Toilette führt eine Schiebetür."/>
+  </node>
   <node id="4856400721" lat="39.6029440" lon="16.6248890" version="2" timestamp="2019-04-03T09:08:18Z" changeset="68828936" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Rossano"/>
     <tag k="addr:housenumber" v="15"/>
@@ -74009,6 +74025,49 @@
     <tag k="second_hand" v="yes"/>
     <tag k="service:vehicle:new_car_sales" v="yes"/>
     <tag k="shop" v="car"/>
+  </node>
+  <node id="8443790332" lat="10.4958004" lon="-66.8801319" version="2" timestamp="2022-08-07T04:19:45Z" changeset="124582826" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:full" v="Sabana Grande Edif. La Kapitana"/>
+    <tag k="addr:housename" v="Edificio La Kapitana"/>
+    <tag k="addr:postcode" v="1050"/>
+    <tag k="addr:street" v="Bulevar de Sabana Grande"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="brand" v="Traki"/>
+    <tag k="capacity" v="200"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/TRAKIenganchate/posts/ciudad-traki-caracas-maiquet%C3%ADa-calle-san-sebasti%C3%A1n-de-navarrete-antiguo-cine-par/519739901397417/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/trakienganchate/"/>
+    <tag k="contact:twitter" v="https://twitter.com/trakienganchate?lang=en"/>
+    <tag k="contact:youtube" v="https://www.youtube.com/channel/UCwWvColQIgu8eWlD3zBAzMg"/>
+    <tag k="currency:BsF" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="email" v="Trakiweb@traki.com"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipOUuHK-0AneWThvwIDv2FUH4kADT2DyX7Kv9Shu=w408-h305-k-no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Traki"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-19:00"/>
+    <tag k="operator" v="Traki Distribuidora, C.A"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:wire_transfer" v="yes"/>
+    <tag k="phone" v="+58-412-6080349"/>
+    <tag k="shop" v="department_store"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="start_date" v="01-01-2000"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://home.traki.com/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="8454741964" lat="41.8103960" lon="12.4810830" version="1" timestamp="2021-02-24T15:56:36Z" changeset="99916946" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Roma"/>
