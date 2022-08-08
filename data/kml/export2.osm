@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-07T05:26:09Z"/>
+<meta osm_base="2022-08-08T05:30:53Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -2969,7 +2969,7 @@
     <tag k="phone" v="406-556-2153"/>
     <tag k="shop" v="toys"/>
   </node>
-  <node id="1578098342" lat="54.3157050" lon="8.6083517" version="7" timestamp="2017-08-05T17:58:52Z" changeset="50868068" uid="4308403" user="Moledor">
+  <node id="1578098342" lat="54.3157050" lon="8.6083517" version="8" timestamp="2022-08-07T22:37:19Z" changeset="124594517" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Sankt Peter-Ording"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="17"/>
@@ -2979,6 +2979,7 @@
     <tag k="cuisine" v="regional"/>
     <tag k="name" v="Meeresbrise"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1581342044" lat="40.7616461" lon="-111.8885341" version="6" timestamp="2019-09-10T17:46:20Z" changeset="74323559" uid="243003" user="skquinn">
     <tag k="addr:city" v="Salt Lake City"/>
@@ -39336,16 +39337,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
   </node>
-  <node id="2956997791" lat="49.2094119" lon="16.6048529" version="2" timestamp="2017-09-22T09:50:13Z" changeset="52270604" uid="6694208" user="siberiantijger">
-    <tag k="addr:conscriptionnumber" v="338"/>
-    <tag k="addr:housenumber" v="338/17"/>
-    <tag k="addr:place" v="Ponava"/>
-    <tag k="addr:postcode" v="60200"/>
-    <tag k="addr:street" v="Staňkova"/>
-    <tag k="addr:streetnumber" v="17"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="ref:ruian:addr" v="19749147"/>
-  </node>
   <node id="2957914618" lat="49.5990194" lon="6.2572268" version="7" timestamp="2017-02-14T04:17:57Z" changeset="46068005" uid="40611" user="Stereo">
     <tag k="addr:city" v="Oetrange"/>
     <tag k="addr:country" v="LU"/>
@@ -49599,14 +49590,15 @@
     <tag k="phone" v="(415) 212-8266"/>
     <tag k="website" v="http://nakamotos.io/"/>
   </node>
-  <node id="3334894817" lat="59.4314341" lon="24.7741285" version="1" timestamp="2015-02-06T20:53:42Z" changeset="28661503" uid="587453" user="Otto de Voogd">
+  <node id="3334894817" lat="59.4314341" lon="24.7741285" version="2" timestamp="2022-08-07T11:16:30Z" changeset="124592762" uid="14623867" user="umKaardistaja">
     <tag k="addr:city" v="Tallinn"/>
     <tag k="addr:housenumber" v="34"/>
     <tag k="addr:postcode" v="10121"/>
     <tag k="addr:street" v="Juhan Kunderi"/>
+    <tag k="disused:shop" v="yes"/>
     <tag k="name" v="Headshop.ee"/>
+    <tag k="note" v="Shop moved to Telliskivi 51a"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="yes"/>
     <tag k="website" v="https://headshop.ee/"/>
   </node>
   <node id="3336241874" lat="38.1376267" lon="13.3072364" version="5" timestamp="2021-02-24T03:27:30Z" changeset="99862876" uid="1778799" user="SomeoneElse_Revert">
@@ -58962,7 +58954,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://bitperia.cz/board/fresh-cafe"/>
   </node>
-  <node id="4895208903" lat="49.2271739" lon="16.5925845" version="1" timestamp="2017-06-04T12:43:49Z" changeset="49241817" uid="1845158" user="Oldrich Peprla">
+  <node id="4895208903" lat="49.2271739" lon="16.5925845" version="2" timestamp="2022-08-07T08:38:10Z" changeset="124587517" uid="3272933" user="kudlav">
     <tag k="addr:city" v="Brno"/>
     <tag k="addr:housenumber" v="95"/>
     <tag k="addr:postcode" v="61200"/>
@@ -58970,7 +58962,7 @@
     <tag k="name" v="Dílna Matilda"/>
     <tag k="office" v="educational_institution"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://bitperia.cz/board/dilna-matilda"/>
+    <tag k="website" v="https://www.dilnamatilda.cz/"/>
   </node>
   <node id="4895213170" lat="49.2031193" lon="16.6544706" version="1" timestamp="2017-06-04T12:51:32Z" changeset="49241977" uid="1845158" user="Oldrich Peprla">
     <tag k="addr:city" v="Brno"/>
@@ -77119,12 +77111,13 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9158073612" lat="33.4741669" lon="-112.1090289" version="1" timestamp="2021-10-08T11:56:44Z" changeset="112261692" uid="9220083" user="Joyalways">
+  <node id="9158073612" lat="33.4741669" lon="-112.1090289" version="2" timestamp="2022-08-08T05:02:16Z" changeset="124620531" uid="292665" user="Dr Kludge">
     <tag k="addr:city" v="Phoenix"/>
+    <tag k="addr:country" v="US"/>
     <tag k="addr:housenumber" v="2308"/>
     <tag k="addr:postcode" v="85009"/>
     <tag k="addr:state" v="AZ"/>
-    <tag k="addr:street" v="NW Grand Avenue"/>
+    <tag k="addr:street" v="Grand Avenue"/>
     <tag k="amenity" v="bureau_de_change"/>
     <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
@@ -79784,6 +79777,802 @@
     <tag k="phone" v="+16047672971"/>
     <tag k="shop" v="massage"/>
     <tag k="website" v="https://rolfbodywork.com"/>
+  </node>
+  <node id="9937709256" lat="10.4980026" lon="-66.8557039" version="4" timestamp="2022-08-08T01:54:01Z" changeset="124617522" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:full" v="Av. Blandin con calle Santa Teresa, C.C San Ignacio, nivel Vivero, local Vivero 3 Sur Este. Urb. La Castellana."/>
+    <tag k="addr:housename" v="Centro San Ignacio"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Av. Blandín"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="branch" v="San Ignacio"/>
+    <tag k="capacity" v="50"/>
+    <tag k="contact:facebook" v="https://es-la.facebook.com/GoldsGymVenezuela/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/goldsgymve/?hl=es"/>
+    <tag k="contact:twitter" v="https://twitter.com/goldsgymve"/>
+    <tag k="contact:whatsapp" v="+58-412-3132544"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="description" v="Este centro cuenta con 460 metros cuadrados, y al igual que todos nuestros gimnasios, no sólo alberga equipamiento deportivo de punta, sino también ofrece distintas modalidades de entrenamiento como indoor cycling, TRX, bailoterapia y yoga, entre otras."/>
+    <tag k="fee" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipPeeW-iIZlqS4yj0C1uCj5CAEdMoMbWd-W1Hllt=w426-h240-k-no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Gold's Gym"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-21:00; Sa 08:00-16:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 08:00-13:00"/>
+    <tag k="operator" v="Gold's Gym C.A"/>
+    <tag k="operator:en" v="Gold's Gym International, Inc."/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-2645632"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="website" v="http://www.goldsgym.com.ve/index.php"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q1536234"/>
+    <tag k="wikipedia" v="en:Gold's Gym"/>
+  </node>
+  <node id="9938189487" lat="10.5084699" lon="-66.9072989" version="1" timestamp="2022-08-08T00:21:03Z" changeset="124616526" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Avenida Norte 9"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="mobile" v="+58-424-1906359"/>
+    <tag k="name" v="Gimnasio muscler"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Sa 08:00-12:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator" v="Gimnasio muscler C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938189488" lat="10.5078212" lon="-66.9078782" version="1" timestamp="2022-08-08T00:21:03Z" changeset="124616526" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Av. Este 3"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipNSVmvOKtA6P2TGA9JU5MwO2FhoWpP-KCGUkWZC=w426-h240-k-no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Gimnasio Sport Center"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00; Sa 09:00-14:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator" v="Gimnasio Sport Center C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-5622504"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938189489" lat="10.5070458" lon="-66.9101366" version="1" timestamp="2022-08-08T00:21:03Z" changeset="124616526" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Av. Urdaneta"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipOnaQ36VPPXHO2h2xPuoCUOCDerw2k-fbcwOtmg=w408-h306-k-no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Gimnasio AMO"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Sa 08:00-14:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator" v="Gimnasio AMO C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-5764618"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938189490" lat="10.4778938" lon="-66.8443353" version="1" timestamp="2022-08-08T00:21:03Z" changeset="124616526" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:housename" v="C.C Santa Marta"/>
+    <tag k="addr:postcode" v="1061"/>
+    <tag k="addr:street" v="Av. Principal de Santa Marta"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipPpR5UGDnV7bxxi0JoT8p-SSdNUDf8KPOk1qkz1=w408-h408-k-no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Gimnasio Atenea"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-20:30; Sa 07:00-14:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator" v="Gimnasio Atenea C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-9913260"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938189491" lat="10.5075245" lon="-66.9140393" version="1" timestamp="2022-08-08T00:21:03Z" changeset="124616526" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Av. Urdaneta"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipM7ekTB8iPfey4MzC57Fg8fYjjnE2uXJ7Yf-WFm=w408-h306-k-no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="mobile" v="+58-414-2449001"/>
+    <tag k="name" v="Gym Daniels Fitness Center"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Sa 08:00-14:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator" v="Gym Daniels Fitness Center C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938189496" lat="10.5106509" lon="-66.9160455" version="1" timestamp="2022-08-08T00:21:03Z" changeset="124616526" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:housename" v="Edificio Centro 2000"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Av. Oeste 5"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Gimnasio Swing Gym Center"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-20:30; Sa 08:30-12:30; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator" v="Gimnasio Swing Gym Center C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-8618425"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938189503" lat="10.5098967" lon="-66.9168998" version="1" timestamp="2022-08-08T00:21:03Z" changeset="124616526" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Avenida Baralt"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Emporio Gym"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Sa 07:00-15:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator" v="Emporio Gym C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-???"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938189504" lat="10.5098070" lon="-66.9156566" version="1" timestamp="2022-08-08T00:21:03Z" changeset="124616526" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Av. Norte 4"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Atlético Fit Gym"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator" v="Atlético Fit Gym C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-???"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938189505" lat="10.4659418" lon="-66.8994588" version="1" timestamp="2022-08-08T00:21:03Z" changeset="124616526" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:housename" v="El Laguito, Fuerte Tiuna"/>
+    <tag k="addr:postcode" v="1040"/>
+    <tag k="addr:street" v="Paseo El Laguito"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Gimnasio Laguito Fitness"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator" v="Laguito Fitness C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-???"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938189506" lat="10.4723366" lon="-66.9600485" version="2" timestamp="2022-08-08T01:54:01Z" changeset="124617522" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:full" v="C.C Caracas"/>
+    <tag k="addr:housename" v="C.C Caracas"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="2ª Av. de Montalbán"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipOtv5p_abnsYzGGonNcbTod5S4RafdPb1kjlsTY=w408-h306-k-no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Centrum Gym"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-20:30; Sa 08:00-15:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator" v="Centrum Gym C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-4434304"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="website" v="https://alefelipegomez9.wixsite.com/centrumgym"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938189507" lat="10.4826017" lon="-66.8634662" version="1" timestamp="2022-08-08T00:21:03Z" changeset="124616526" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:housename" v="Edificio Centro 398"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="California"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Gimnasio 398"/>
+    <tag k="opening_hours" v="Tu-Sa 09:00-17:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator" v="Gimnasio 398 C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-9931315"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938189508" lat="10.4780309" lon="-66.7802037" version="1" timestamp="2022-08-08T00:21:03Z" changeset="124616526" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:housename" v="C.C Tiabu"/>
+    <tag k="addr:postcode" v="1073"/>
+    <tag k="addr:street" v="Carretera Petare - Santa Lucía"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Gimnasio Mundo Atlético"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator" v="Mundo Atlético C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-5323380"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938189509" lat="10.5048582" lon="-66.9061562" version="1" timestamp="2022-08-08T00:21:03Z" changeset="124616526" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:housename" v="Edificio Astro"/>
+    <tag k="addr:postcode" v="1010"/>
+    <tag k="addr:street" v="Av. Este 0"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipO262ZvgNgh9xRzFbWh4C3H8PnIfbQESuRCjm_R=w408-h306-k-no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Gimnasio Fitness Place Sport Center"/>
+    <tag k="opening_hours" v="Mo-Fr 05:30-21:00; Sa 08:00-14:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 08:00-13:00"/>
+    <tag k="operator" v="Fitness Place Sport Center C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-5784560"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938315749" lat="10.4909121" lon="-66.9243658" version="1" timestamp="2022-08-08T02:04:21Z" changeset="124617649" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:housename" v="Edificio RGC"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="Av. Los Samanes"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipOPfHSC86-GBBVvCeqbTsGLYjt8gqZrGvI1tAKK=w408-h725-k-no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Gimnasio Darwich"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-21:00; Sa 08:00-14:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator" v="Gimnasio Darwich C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-4818677"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938321224" lat="10.4830289" lon="-66.8623772" version="1" timestamp="2022-08-08T01:54:01Z" changeset="124617522" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:housename" v="C.C La Mansión"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Av. Principal de Las Mercedes"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipO7ETr2-S7oS_O9XPEDCMzMdqFrL2LB70rwKAGs=w408-h306-k-no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Gimnasio training Studio Caracas"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-20:30; Sa 08:00-13:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 08:00-13:00"/>
+    <tag k="operator" v="training Studio Caracas C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-9934584"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="website" v="http://www.retraining.com.ve/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938321225" lat="10.4788881" lon="-66.8612252" version="1" timestamp="2022-08-08T01:54:01Z" changeset="124617522" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:housename" v="Residencias Cuyuny"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Av. La Trinidad"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipMb3R6AlBFpIOzoi78lLFrL7njmDjCewKjodvMf=w408-h271-k-no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_station"/>
+    <tag k="name" v="Complexion Estudios"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-21:00; Su 12:00-22:00;Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator" v="Complexion Estudios C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-???"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="website" v="http://www.complexionestudiosonline.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938321226" lat="10.4926356" lon="-66.8577518" version="1" timestamp="2022-08-08T01:54:01Z" changeset="124617522" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Av. Guaicaipuro"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipON-sVsucKet7THWxyxVqSfvGpjnVq4AstEcFk=w408-h272-k-no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Gimnasio Sweat Gym"/>
+    <tag k="opening_hours" v="Mo-Fr 05:45-21:00; Sa 09:00-16:00;Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator" v="Gimnasio Sweat Gym C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-2652882"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938321230" lat="10.4985222" lon="-66.8468365" version="1" timestamp="2022-08-08T01:54:01Z" changeset="124617522" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="1ª Transversal de Los Palos Grandes"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Gimnasio BP Gym"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-20:00;Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator" v="Gimnasio BP Gym C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-2841866"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938321231" lat="10.4969503" lon="-66.8462813" version="1" timestamp="2022-08-08T01:54:01Z" changeset="124617522" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:housename" v="Torre Mene Grande"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Av. Francisco de Miranda"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Gimnasio Gym Fitness"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Sa 06:00-15:00;Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator" v="Gimnasio Gym Fitness C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-2832422"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938321232" lat="10.4758379" lon="-66.9493318" version="1" timestamp="2022-08-08T01:54:01Z" changeset="124617522" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:full" v="Av. Segunda Avenida entre calles 1 y 2 Centro Comercial Uslar, Nivel Patio, Urb. Montalbán"/>
+    <tag k="addr:housename" v="C.C Uslar"/>
+    <tag k="addr:postcode" v="1020"/>
+    <tag k="addr:street" v="2ª Av. de Montalbán"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="branch" v="Montalbán 1"/>
+    <tag k="capacity" v="50"/>
+    <tag k="contact:facebook" v="https://es-la.facebook.com/GoldsGymVenezuela/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/goldsgymve/?hl=es"/>
+    <tag k="contact:twitter" v="https://twitter.com/goldsgymve"/>
+    <tag k="contact:whatsapp" v="+58-412-3132544"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="description" v="Ubicado en el Centro Comercial Uslar, cuenta con aproximadamente 1.900 mt2. Brinda a sus usuarios las mejores herramientas para ejercitarse y contar con una óptima rutina deportiva."/>
+    <tag k="fee" v="yes"/>
+    <tag k="image" v="http://www.goldsgym.com.ve/img/sede-montalban_01.jpg"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Gold's Gym"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-21:00; Sa 08:00-16:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 08:00-13:00"/>
+    <tag k="operator" v="Gold's Gym C.A"/>
+    <tag k="operator:en" v="Gold's Gym International, Inc."/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-4420422"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="website" v="http://www.goldsgym.com.ve/index.php"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q1536234"/>
+    <tag k="wikipedia" v="en:Gold's Gym"/>
+  </node>
+  <node id="9938321233" lat="10.4975200" lon="-66.8553458" version="1" timestamp="2022-08-08T01:54:01Z" changeset="124617522" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:postcode" v="1060"/>
+    <tag k="addr:street" v="Av. Blandín"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="branch" v="San Ignacio"/>
+    <tag k="capacity" v="50"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/focusfit.ve/?hl=es"/>
+    <tag k="contact:whatsapp" v="+58-414-5991697"/>
+    <tag k="currency:BsD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipPeeW-iIZlqS4yj0C1uCj5CAEdMoMbWd-W1Hllt=w426-h240-k-no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="mobile" v="+58-414-5991697"/>
+    <tag k="name" v="Gimnasio Fitness Centre"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-20:00; Sa 09:00-11:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 08:00-13:00"/>
+    <tag k="operator" v="Gimnasio Fitness Centre C.A"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="sauna" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9938349829" lat="34.0662901" lon="-118.4086671" version="1" timestamp="2022-08-08T02:28:54Z" changeset="124617935" uid="11523236" user="willkmis">
+    <tag k="addr:city" v="Beverly Hills"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:postcode" v="90212"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="South Spalding Drive"/>
+    <tag k="addr:unit" v="330"/>
+    <tag k="amenity" v="clinic"/>
+    <tag k="healthcare" v="clinic"/>
+    <tag k="healthcare:speciality" v="plastic_surgery"/>
+    <tag k="name" v="Aaron Stone MD"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="smoking" v="no"/>
   </node>
 
 </osm>
