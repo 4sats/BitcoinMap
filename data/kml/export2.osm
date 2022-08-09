@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-08T05:30:53Z"/>
+<meta osm_base="2022-08-09T05:33:24Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -39874,11 +39874,18 @@
     <tag k="smoking:outside" v="yes"/>
     <tag k="website" v="http://www.facebook.com/nonnagraz"/>
   </node>
-  <node id="2974438059" lat="56.9222726" lon="23.9794573" version="4" timestamp="2019-03-30T15:15:49Z" changeset="68700559" uid="9451067" user="b-jazz-bot">
+  <node id="2974438059" lat="56.9222726" lon="23.9794573" version="5" timestamp="2022-08-08T13:15:59Z" changeset="124640330" uid="15008076" user="latvia-bot">
+    <tag k="addr:country" v="LV"/>
+    <tag k="addr:district" v="Mārupes novads"/>
+    <tag k="addr:housename" v="Lidosta &quot;Rīga&quot; 10/1"/>
+    <tag k="addr:place" v="Lidosta &quot;Rīga&quot;"/>
+    <tag k="addr:postcode" v="LV-1053"/>
+    <tag k="addr:subdistrict" v="Mārupes pagasts"/>
     <tag k="name" v="airBaltic"/>
     <tag k="note" v="FIXME: approximate location"/>
     <tag k="opening_hours" v="Mo-Su 05:00-23:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="ref:LV:addr" v="104920380"/>
     <tag k="shop" v="travel_agency"/>
     <tag k="website" v="https://airbaltic.com/"/>
     <tag k="wikidata" v="Q300924"/>
@@ -46934,11 +46941,6 @@
     <tag k="cuisine" v="burger"/>
     <tag k="name" v="Ohnesorg Burgerbar"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="3235790061" lat="52.3674459" lon="9.7189872" version="2" timestamp="2014-12-15T08:46:08Z" changeset="27476746" uid="2397160" user="ricferrer">
-    <tag k="name" v="TUI Reisebüro"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="travel_agency"/>
   </node>
   <node id="3235809367" lat="52.3671366" lon="9.7172370" version="7" timestamp="2017-12-23T00:15:44Z" changeset="54853697" uid="7272314" user="marc__marc">
     <tag k="addr:housenumber" v="20"/>
@@ -80095,7 +80097,7 @@
     <tag k="swimming_pool" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9938189505" lat="10.4659418" lon="-66.8994588" version="1" timestamp="2022-08-08T00:21:03Z" changeset="124616526" uid="527105" user="albertoq">
+  <node id="9938189505" lat="10.4658729" lon="-66.8994868" version="2" timestamp="2022-08-08T17:09:41Z" changeset="124649907" uid="527105" user="albertoq">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:housename" v="El Laguito, Fuerte Tiuna"/>
     <tag k="addr:postcode" v="1040"/>
@@ -80105,10 +80107,13 @@
     <tag k="currency:BsD" v="yes"/>
     <tag k="currency:EUR" v="yes"/>
     <tag k="currency:USD" v="yes"/>
+    <tag k="description" v="Gym solo para Mujeres"/>
     <tag k="fee" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipOvK6XetlIYT8J3euvJT-cc5LDv7yiuLGPQFzzg=w408-h306-k-no"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="internet_access:fee" v="no"/>
     <tag k="leisure" v="fitness_centre"/>
+    <tag k="mobile" v="+58-412-6212172"/>
     <tag k="name" v="Gimnasio Laguito Fitness"/>
     <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
     <tag k="operator" v="Laguito Fitness C.A"/>
@@ -80121,8 +80126,7 @@
     <tag k="payment:notes" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="personal_trainer" v="yes"/>
-    <tag k="phone" v="+58-212-???"/>
-    <tag k="sauna" v="yes"/>
+    <tag k="sauna" v="no"/>
     <tag k="smoking" v="no"/>
     <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="sport" v="fitness"/>
@@ -80573,6 +80577,72 @@
     <tag k="name" v="Aaron Stone MD"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="smoking" v="no"/>
+  </node>
+  <node id="9938888794" lat="-17.7839520" lon="-63.1715248" version="1" timestamp="2022-08-08T09:41:51Z" changeset="124630385" uid="4611642" user="miroslavuzice87">
+    <tag k="addr:city" v="Santa Cruz de la Sierra"/>
+    <tag k="addr:housenumber" v="839"/>
+    <tag k="addr:street" v="Calle Ballivián"/>
+    <tag k="amenity" v="language_school"/>
+    <tag k="contact:email" v="escbolivia979@gmail.com"/>
+    <tag k="contact:website" v="https://englishsupportcentre.wordpress.com/"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:ssid" v="ENGLISH SUPPORT CENTRE"/>
+    <tag k="language:de" v="yes"/>
+    <tag k="language:en" v="yes"/>
+    <tag k="language:es" v="yes"/>
+    <tag k="language:fr" v="yes"/>
+    <tag k="language:pt" v="yes"/>
+    <tag k="language:zh" v="yes"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="English support centre worldwide"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-12:00"/>
+    <tag k="opening_hours:covid19" v="open"/>
+    <tag k="operator" v="ANGLIA EXAMS, UK"/>
+    <tag k="operator:type" v="business"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_debit" v="yes"/>
+    <tag k="phone" v="+591 77308866"/>
+    <tag k="start_date" v="2010/01/01"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9939048524" lat="-17.7839429" lon="-63.1714831" version="1" timestamp="2022-08-08T10:48:10Z" changeset="124633284" uid="4611642" user="miroslavuzice87">
+    <tag k="addr:city" v="Santa Cruz de la Sierra"/>
+    <tag k="addr:housenumber" v="845"/>
+    <tag k="addr:street" v="Calle Ballivián"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="bar" v="yes"/>
+    <tag k="capacity" v="20"/>
+    <tag k="cuisine" v="coffee_shop;regional"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="diet:diabetes" v="yes"/>
+    <tag k="diet:fruitarian" v="yes"/>
+    <tag k="diet:healthy" v="yes"/>
+    <tag k="diet:lacto_vegetarian" v="yes"/>
+    <tag k="diet:organic" v="yes"/>
+    <tag k="diet:sugar_free" v="yes"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="min_age" v="1"/>
+    <tag k="name" v="Green juice"/>
+    <tag k="natural" v="refrescos"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-9:30"/>
+    <tag k="opening_hours:covid19" v="open"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_debit" v="yes"/>
+    <tag k="phone" v="+59174937669"/>
+    <tag k="reservation" v="yes"/>
+    <tag k="start_date" v="2022/01/01"/>
+    <tag k="takeaway" v="yes"/>
   </node>
 
 </osm>
