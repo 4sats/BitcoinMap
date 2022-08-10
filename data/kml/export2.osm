@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-09T05:33:24Z"/>
+<meta osm_base="2022-08-10T05:26:05Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -16782,16 +16782,6 @@
     <tag k="name" v="The 7th Matrix"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://the7thMatrix.com"/>
-  </node>
-  <node id="2583517447" lat="60.2083696" lon="24.8788403" version="2" timestamp="2013-12-17T10:47:14Z" changeset="19496234" uid="1846482" user="prav@ezy">
-    <tag k="addr:city" v="Helsinki"/>
-    <tag k="addr:housenumber" v="24 A"/>
-    <tag k="addr:postcode" v="00350"/>
-    <tag k="addr:street" v="Huopalahdentie"/>
-    <tag k="name" v="EzyInsights"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+35845349101"/>
-    <tag k="website" v="www.ezyinsights.com"/>
   </node>
   <node id="2583741270" lat="43.5123712" lon="16.4438800" version="7" timestamp="2021-07-29T17:55:17Z" changeset="108840277" uid="313115" user="tomislav_parcina">
     <tag k="name" v="Frizerski studio MODELS"/>
@@ -41797,17 +41787,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://rocksilesbarcellos.daportfolio.com/gallery/847313"/>
   </node>
-  <node id="3036583990" lat="49.2829660" lon="-123.1081397" version="3" timestamp="2019-03-22T02:53:35Z" changeset="68394830" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Vancouver"/>
-    <tag k="addr:housenumber" v="70"/>
-    <tag k="addr:postcode" v="V6J 1M6"/>
-    <tag k="addr:street" v="West Cordova Street"/>
-    <tag k="name" v="Floathouse Gastown"/>
-    <tag k="note" v="Awesomeness."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-604-253-5628"/>
-    <tag k="website" v="https://floathouse.ca/"/>
-  </node>
   <node id="3037098320" lat="35.2277584" lon="-80.8379824" version="5" timestamp="2018-04-24T22:30:27Z" changeset="58391132" uid="5009402" user="WashuOtaku">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="hot_tamales"/>
@@ -43507,23 +43486,6 @@
     <tag k="note" v="Accepting Bitcoin/Cash for Psychiatric Services"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="6503644200"/>
-  </node>
-  <node id="3094200297" lat="49.1887079" lon="-123.0837660" version="6" timestamp="2022-05-01T04:07:42Z" changeset="120405580" uid="6670496" user="Zarr">
-    <tag k="addr:city" v="Richmond"/>
-    <tag k="addr:housenumber" v="12760"/>
-    <tag k="addr:postcode" v="V6V 1Z4"/>
-    <tag k="addr:street" v="Bathgate Way"/>
-    <tag k="addr:unit" v="3"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="man_made" v="works"/>
-    <tag k="name" v="Omni Circuit Boards Ltd."/>
-    <tag k="opening_hours" v="Mo-Fr 08:00-16:00"/>
-    <tag k="operator" v="D-Wave"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-604-276-9717"/>
-    <tag k="product" v="pcb"/>
-    <tag k="smoking" v="no"/>
-    <tag k="website" v="http://www.omnicircuitboards.com"/>
   </node>
   <node id="3094565361" lat="40.4238748" lon="-3.6835752" version="3" timestamp="2019-03-06T08:31:49Z" changeset="67835140" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Madrid"/>
@@ -51832,7 +51794,7 @@
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="http://outsideinn.tw/"/>
   </node>
-  <node id="3477013303" lat="50.9929040" lon="7.0441273" version="4" timestamp="2022-06-14T00:26:12Z" changeset="122347347" uid="14273846" user="Osmanu">
+  <node id="3477013303" lat="50.9929040" lon="7.0441273" version="5" timestamp="2022-08-09T10:52:55Z" changeset="124679406" uid="14273846" user="Osmanu">
     <tag k="addr:city" v="Köln"/>
     <tag k="addr:housenumber" v="51"/>
     <tag k="addr:postcode" v="51061"/>
@@ -51840,9 +51802,10 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="chinese"/>
     <tag k="name" v="Peking Garden"/>
-    <tag k="opening_hours" v="Mo-Su,PH 11:30-15:00, 17:30-23:00"/>
+    <tag k="opening_hours" v="Mo-Sa 11:30-15:00,17:30-23:00; Su 11:30-23:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.pekinggarden-koeln.de/"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="3477028267" lat="52.0621489" lon="8.3587727" version="3" timestamp="2016-02-01T14:01:41Z" changeset="36936097" uid="524500" user="wheelmap_android">
     <tag k="addr:city" v="Halle (Westf.)"/>
@@ -54798,7 +54761,7 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="phone" v="+61 424 038 600"/>
   </node>
-  <node id="3840045860" lat="48.8950535" lon="2.3171038" version="6" timestamp="2022-02-04T10:53:35Z" changeset="117000780" uid="9715697" user="VxlerieUwu">
+  <node id="3840045860" lat="48.8950535" lon="2.3171038" version="7" timestamp="2022-08-09T13:12:27Z" changeset="124685673" uid="9715697" user="VxlerieUwu">
     <tag k="addr:city" v="Paris"/>
     <tag k="addr:housenumber" v="93"/>
     <tag k="addr:postcode" v="75017"/>
@@ -54807,6 +54770,7 @@
     <tag k="capacity" v="30"/>
     <tag k="cuisine" v="italian"/>
     <tag k="delivery" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
     <tag k="name" v="Chez Gusto"/>
     <tag k="opening_hours" v="Mo-Fr 12:00-14:30 19:00-22:30"/>
     <tag k="opening_hours:covid19" v="same"/>
@@ -73260,23 +73224,6 @@
     <tag k="phone" v="+447894438974"/>
     <tag k="website" v="https://cryptolocalatm.com"/>
   </node>
-  <node id="8104401139" lat="49.1698431" lon="-123.1361800" version="5" timestamp="2022-05-08T09:02:44Z" changeset="120693820" uid="6670496" user="Zarr">
-    <tag k="addr:housenumber" v="6000"/>
-    <tag k="addr:street" v="No. 3 Road"/>
-    <tag k="addr:unit" v="104"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="cash_in" v="yes"/>
-    <tag k="currency:CAD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Requires verification by SMS message to mobile number."/>
-    <tag k="drive_through" v="no"/>
-    <tag k="name" v="Bitcoiniacs"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-19:00, Sa-Su 13:00-17:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="phone" v="+1-604-500-7980"/>
-    <tag k="website" v="https://bitcoiniacs.com/bitcoin-atm-richmond"/>
-  </node>
   <node id="8140859630" lat="37.4257271" lon="47.7019580" version="1" timestamp="2020-11-19T05:50:44Z" changeset="94411954" uid="12199445" user="webgostar">
     <tag k="addr:city" v="میانه"/>
     <tag k="addr:postcode" v="5317868510"/>
@@ -78628,23 +78575,24 @@
     <tag k="payment:visa_debit" v="yes"/>
     <tag k="shop" v="supermarket"/>
   </node>
-  <node id="9582167489" lat="49.2641408" lon="-123.1569873" version="3" timestamp="2022-08-05T23:12:39Z" changeset="124542407" uid="16755087" user="Coinoswallet">
+  <node id="9582167489" lat="49.2641408" lon="-123.1569870" version="4" timestamp="2022-08-09T21:03:14Z" changeset="124703546" uid="1836965" user="Liongrass">
     <tag k="addr:city" v="Vancouver"/>
     <tag k="addr:housenumber" v="2287"/>
+    <tag k="addr:postcode" v="V6K 2E4"/>
     <tag k="addr:province" v="BC"/>
     <tag k="addr:street" v="West Broadway"/>
     <tag k="air_conditioning" v="no"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="bar" v="yes"/>
-    <tag k="bicoin lightning accepted" v="yes"/>
-    <tag k="bitcoin accepted" v="yes"/>
-    <tag k="cuisine" v="mexican;tex-mex;tacos;spanish;burrito;bitcoin"/>
-    <tag k="name" v="Tacos Jorge"/>
-    <tag k="opening_hours" v="Mo-Th 15:00-01:00;Fr-Sa 15:00-02:00;Su 15:00-00:00;Mo-Su 11:00-23:00"/>
+    <tag k="cuisine" v="mexican;tex-mex;tacos;spanish;burrito"/>
+    <tag k="diet:meat" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="name" v="Tacos Jorge at Glitch Bar"/>
+    <tag k="opening_hours" v="Mo-Th 15:00-01:00; Fr-Sa 15:00-02:00; Su 15:00-00:00; Mo-Su 11:00-23:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+1 778-751-0767;+1 778 751 9767"/>
-    <tag k="website" v="https://www.tacosjorge.com;www.tacosjorge.com"/>
+    <tag k="website" v="https://www.tacosjorge.com"/>
   </node>
   <node id="9620350185" lat="62.3001023" lon="25.7094401" version="2" timestamp="2022-03-29T08:41:23Z" changeset="119057475" uid="36166" user="umlaitinen">
     <tag k="addr:city" v="Jyväskylä"/>
