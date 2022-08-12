@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-11T05:26:39Z"/>
+<meta osm_base="2022-08-12T05:28:55Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -10680,11 +10680,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="1-650-557-1096"/>
     <tag k="website" v="www.kuksoolwonofpacifica.com"/>
-  </node>
-  <node id="2546470741" lat="49.2701846" lon="-123.1412149" version="1" timestamp="2013-11-23T08:01:40Z" changeset="19067775" uid="1651798" user="oldenburg69">
-    <tag k="name" v="The Bitcoin Store"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.bitcoiniacs.com/"/>
   </node>
   <node id="2546476617" lat="49.8920081" lon="-119.4936050" version="2" timestamp="2013-11-25T15:11:33Z" changeset="19111221" uid="28559" user="Stemby">
     <tag k="description" v="physical bitcoin exchange"/>
@@ -30124,19 +30119,23 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="http://lockportrosatis.com/"/>
   </node>
-  <node id="2728211602" lat="41.5335855" lon="-87.8513311" version="3" timestamp="2021-09-18T02:52:59Z" changeset="111359532" uid="1237170" user="Zol87">
+  <node id="2728211602" lat="41.5335855" lon="-87.8513311" version="4" timestamp="2022-08-11T16:37:58Z" changeset="124784085" uid="1237170" user="Zol87">
     <tag k="addr:city" v="Mokena"/>
     <tag k="addr:housenumber" v="19608"/>
     <tag k="addr:postcode" v="60448"/>
     <tag k="addr:state" v="IL"/>
     <tag k="addr:street" v="South La Grange Road"/>
-    <tag k="amenity" v="restaurant"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="Rosati's"/>
+    <tag k="brand:wikidata" v="Q65052579"/>
     <tag k="contact:phone" v="708-479-9400"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Rosati's Pizzeria"/>
+    <tag k="name" v="Rosati's"/>
+    <tag k="official_name" v="Rosati's Authentic Chicago Pizza"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
+    <tag k="takeaway" v="yes"/>
     <tag k="website" v="http://mokenarosatis.com/"/>
   </node>
   <node id="2728220209" lat="41.5060416" lon="-90.5171879" version="2" timestamp="2022-01-19T20:49:55Z" changeset="116358345" uid="12270940" user="xem0861">
@@ -30172,18 +30171,6 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://myrosatis.com/naperville95th/"/>
-  </node>
-  <node id="2728253779" lat="41.4972218" lon="-87.9641661" version="1" timestamp="2014-03-20T05:52:12Z" changeset="21204516" uid="1836471" user="Blobo123">
-    <tag k="addr:housenumber" v="108"/>
-    <tag k="addr:street" v="West Illinois Highway"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="815-485-1000"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Rosati's Pizzeria"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="http://rosatisnewlenox.com/"/>
   </node>
   <node id="2728255537" lat="42.1378769" lon="-87.8494534" version="4" timestamp="2022-01-31T21:51:20Z" changeset="116841747" uid="1237170" user="Zol87">
     <tag k="addr:city" v="Northbrook"/>
@@ -39578,18 +39565,6 @@
     <tag k="phone" v="+55 47 30567670"/>
     <tag k="website" v="http://www.grupow.com.br"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="2967107500" lat="53.5404699" lon="-113.6261526" version="5" timestamp="2019-06-07T04:59:19Z" changeset="71010156" uid="2541613" user="TagaSanPedroAko">
-    <tag k="addr:city" v="Edmonton"/>
-    <tag k="addr:housenumber" v="17635"/>
-    <tag k="addr:postcode" v="T5S 1E3"/>
-    <tag k="addr:street" v="Stony Plain Road NW"/>
-    <tag k="brand" v="Sandman"/>
-    <tag k="name" v="Sandman Hotel Edmonton West"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-780-483-1385"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="http://www.sandmanhotels.ca/hotels/edmonton-west/"/>
   </node>
   <node id="2967584835" lat="32.0711312" lon="34.7653289" version="2" timestamp="2014-09-19T11:13:38Z" changeset="25539504" uid="2045570" user="sivan00">
     <tag k="addr:city" v="תל אביב-יפו"/>
@@ -51963,7 +51938,7 @@
     <tag k="phone" v="+34972223614"/>
     <tag k="website" v="http://www.caixerbtc.cat"/>
   </node>
-  <node id="3486933497" lat="41.6106496" lon="0.6340061" version="2" timestamp="2016-03-13T09:19:30Z" changeset="37796216" uid="500572" user="yopaseopor">
+  <node id="3486933497" lat="41.6105804" lon="0.6339578" version="3" timestamp="2022-08-11T15:06:49Z" changeset="124780647" uid="327111" user="blacx">
     <tag k="addr:city" v="Lleida"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="25001"/>
@@ -80591,6 +80566,39 @@
     <tag k="reservation" v="yes"/>
     <tag k="start_date" v="2022/01/01"/>
     <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="9948321786" lat="49.1913522" lon="-122.8448230" version="1" timestamp="2022-08-11T23:40:24Z" changeset="124795999" uid="1836965" user="Liongrass">
+    <tag k="addr:city" v="Surrey"/>
+    <tag k="addr:housenumber" v="10392"/>
+    <tag k="addr:postcode" v="V3T 2W5"/>
+    <tag k="addr:province" v="BC"/>
+    <tag k="addr:street" v="King George Boulevard"/>
+    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="currency:CAD" v="yes"/>
+    <tag k="currency:xtb" v="yes"/>
+    <tag k="name" v="Vancouver Bitcoin Exchange &amp; ATM"/>
+    <tag k="opening_hours" v="Mo - Fr 10am to 5:30pm"/>
+    <tag k="operator" v="Vancouver Bitcoin"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+16044960269"/>
+    <tag k="website" v="https://vancouverbitcoin.com/"/>
+  </node>
+  <node id="9948346699" lat="49.2695643" lon="-123.1459640" version="1" timestamp="2022-08-11T23:35:43Z" changeset="124795938" uid="1836965" user="Liongrass">
+    <tag k="addr:city" v="Vancouver"/>
+    <tag k="addr:housenumber" v="1807"/>
+    <tag k="addr:postcode" v="V6J3G9"/>
+    <tag k="addr:province" v="BC"/>
+    <tag k="addr:street" v="Burrard Street"/>
+    <tag k="addr:unit" v="202"/>
+    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="currency:cad" v="yes"/>
+    <tag k="name" v="Vancouver Bitcoin Retail Exchange &amp; ATM"/>
+    <tag k="opening_hours" v="Mo - Fr 10am to 5:30pm, Sa 11am to 3pm"/>
+    <tag k="operator" v="Vancouver Bitcoin"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+16045599499"/>
+    <tag k="website" v="https://vancouverbitcoin.com/"/>
   </node>
 
 </osm>
