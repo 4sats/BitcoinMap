@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-12T05:28:55Z"/>
+<meta osm_base="2022-08-13T05:25:54Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -53289,12 +53289,6 @@
     <tag k="shop" v="electronics"/>
     <tag k="website" v="https://www.owlting.com/market/vendor/7080"/>
   </node>
-  <node id="3617011613" lat="25.0600869" lon="121.4585811" version="1" timestamp="2015-06-25T08:06:22Z" changeset="32199618" uid="2525089" user="RexLi">
-    <tag k="name" v="mini bambini"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="baby_goods"/>
-    <tag k="website" v="https://www.owlting.com/market/vendor/7333"/>
-  </node>
   <node id="3617012001" lat="22.9674087" lon="120.1813185" version="1" timestamp="2015-06-25T08:00:53Z" changeset="32199552" uid="2525089" user="RexLi">
     <tag k="name" v="東春電器"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -80583,7 +80577,7 @@
     <tag k="phone" v="+16044960269"/>
     <tag k="website" v="https://vancouverbitcoin.com/"/>
   </node>
-  <node id="9948346699" lat="49.2695643" lon="-123.1459640" version="1" timestamp="2022-08-11T23:35:43Z" changeset="124795938" uid="1836965" user="Liongrass">
+  <node id="9948346699" lat="49.2695643" lon="-123.1459640" version="2" timestamp="2022-08-12T08:29:47Z" changeset="124807009" uid="5359" user="user_5359">
     <tag k="addr:city" v="Vancouver"/>
     <tag k="addr:housenumber" v="1807"/>
     <tag k="addr:postcode" v="V6J3G9"/>
@@ -80591,13 +80585,13 @@
     <tag k="addr:street" v="Burrard Street"/>
     <tag k="addr:unit" v="202"/>
     <tag k="amenity" v="bureau_de_change"/>
+    <tag k="currency:CAD" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="currency:cad" v="yes"/>
     <tag k="name" v="Vancouver Bitcoin Retail Exchange &amp; ATM"/>
-    <tag k="opening_hours" v="Mo - Fr 10am to 5:30pm, Sa 11am to 3pm"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-17:30; Sa 11:00-15:00"/>
     <tag k="operator" v="Vancouver Bitcoin"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+16045599499"/>
+    <tag k="phone" v="+1-604-559-9499"/>
     <tag k="website" v="https://vancouverbitcoin.com/"/>
   </node>
 
