@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-13T05:25:54Z"/>
+<meta osm_base="2022-08-14T05:27:09Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -15566,9 +15566,10 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://www.mikefrontend.com"/>
   </node>
-  <node id="2574407851" lat="45.4325477" lon="12.3314286" version="3" timestamp="2018-01-25T14:32:47Z" changeset="55742500" uid="6757296" user="gionax">
+  <node id="2574407851" lat="45.4325477" lon="12.3314286" version="4" timestamp="2022-08-13T11:57:57Z" changeset="124850397" uid="16146608" user="McCio">
     <tag k="addr:city" v="Venezia"/>
     <tag k="addr:housenumber" v="2672"/>
+    <tag k="addr:place" v="San Marco"/>
     <tag k="addr:postcode" v="30124"/>
     <tag k="addr:street" v="Campo San Maurizio"/>
     <tag k="description" v="Brand New Apartment for Short term"/>
@@ -15590,7 +15591,8 @@
     <tag k="tourism" v="apartment"/>
     <tag k="website" v="http://www.veniceapartmentz.com/en/Torre/6195"/>
   </node>
-  <node id="2574462124" lat="45.4407723" lon="12.3380222" version="4" timestamp="2016-12-19T20:33:00Z" changeset="44525136" uid="2201521" user="quibitcoin">
+  <node id="2574462124" lat="45.4407723" lon="12.3380222" version="5" timestamp="2022-08-13T11:44:32Z" changeset="124849904" uid="16146608" user="McCio">
+    <tag k="addr:place" v="Cannaregio"/>
     <tag k="addr:postcode" v="30121"/>
     <tag k="building" v="apartments"/>
     <tag k="internet_access" v="wlan"/>
@@ -15600,9 +15602,10 @@
     <tag k="tourism" v="apartment"/>
     <tag k="website" v="http://www.veniceapartmentz.com/en/Ca-del-Moro/6808"/>
   </node>
-  <node id="2574472346" lat="45.4393979" lon="12.3346952" version="4" timestamp="2016-12-27T17:58:16Z" changeset="44712165" uid="2201521" user="quibitcoin">
+  <node id="2574472346" lat="45.4393979" lon="12.3346952" version="5" timestamp="2022-08-13T11:36:39Z" changeset="124849705" uid="16146608" user="McCio">
     <tag k="addr:city" v="Venezia"/>
     <tag k="addr:country" v="IT"/>
+    <tag k="addr:place" v="San Polo"/>
     <tag k="addr:postcode" v="30125"/>
     <tag k="addr:street" v="Campo de la Pescaria"/>
     <tag k="internet_access" v="wlan"/>
@@ -51451,12 +51454,11 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://switchmia.com/?page=servers"/>
   </node>
-  <node id="3447333922" lat="55.7036510" lon="12.4975725" version="3" timestamp="2017-05-23T20:25:50Z" changeset="48927763" uid="69607" user="rmikke">
+  <node id="3447333922" lat="55.7036510" lon="12.4975725" version="4" timestamp="2022-08-13T16:52:18Z" changeset="124860884" uid="1288" user="Niels Elgaard Larsen">
     <tag k="amenity" v="bank"/>
     <tag k="name" v="Coinify"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://coinify.com"/>
-    <tag k="wikidata" v="Q21068341"/>
     <tag k="wikipedia" v="en:Coinify"/>
   </node>
   <node id="3447465184" lat="52.3726396" lon="4.8508686" version="8" timestamp="2022-06-06T08:32:29Z" changeset="122009168" uid="5432507" user="Knockerclot0715">
@@ -69230,10 +69232,9 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://www.digitworldsrl.com"/>
   </node>
-  <node id="6503288231" lat="45.4350370" lon="12.3409140" version="2" timestamp="2022-06-29T10:14:54Z" changeset="122995026" uid="16146608" user="McCio">
+  <node id="6503288231" lat="45.4350370" lon="12.3409140" version="3" timestamp="2022-08-13T11:17:22Z" changeset="124849060" uid="16146608" user="McCio">
     <tag k="addr:city" v="Venezia"/>
     <tag k="addr:housenumber" v="4318"/>
-    <tag k="addr:neighbourhood" v="Castello"/>
     <tag k="addr:place" v="Castello"/>
     <tag k="addr:postcode" v="30122"/>
     <tag k="description" v="Negozio laboratorio di produzione gioielli in oro e pietre preziose: moretti ed altri gioielli esclusivi personalizzati realizzati a mano, teschi vanitas, corniole incise, gioielli con opali e molto altro."/>
@@ -75823,7 +75824,7 @@
     <tag k="website" v="https://www.capitolmac.com/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="9127976167" lat="52.0164989" lon="5.1786523" version="1" timestamp="2021-09-27T21:25:31Z" changeset="111789420" uid="8647239" user="Freek Schaap">
+  <node id="9127976167" lat="52.0164989" lon="5.1786523" version="1" timestamp="2021-09-27T21:25:31Z" changeset="111789420" uid="8647239" user="Freek_">
     <tag k="addr:city" v="Houten"/>
     <tag k="addr:housenumber" v="83"/>
     <tag k="addr:postcode" v="3995XL"/>
