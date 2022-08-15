@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-14T05:27:09Z"/>
+<meta osm_base="2022-08-15T05:43:24Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -12800,7 +12800,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://pintoresreus.com/"/>
   </node>
-  <node id="2557279903" lat="50.1367424" lon="14.2770094" version="1" timestamp="2013-11-29T16:15:11Z" changeset="19180919" uid="1823157" user="Jan Menšík">
+  <node id="2557279903" lat="50.1367424" lon="14.2770094" version="2" timestamp="2022-08-14T22:56:29Z" changeset="124906058" uid="181135" user="Manu1400">
     <tag k="access" v="customers"/>
     <tag k="addr:city" v="Tuchoměřice"/>
     <tag k="addr:housename" v="Parkování u letiště Sky Parking"/>
@@ -12815,7 +12815,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+420 800 12 00 21"/>
     <tag k="supervised" v="yes"/>
-    <tag k="website" v="http://www.skyparking.cz/"/>
   </node>
   <node id="2557286531" lat="42.2337626" lon="-8.7150841" version="3" timestamp="2019-03-22T06:58:15Z" changeset="68399176" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="vigo"/>
@@ -38371,15 +38370,18 @@
     <tag k="phone" v="01800 681 9361"/>
     <tag k="website" v="https://neubox.com/"/>
   </node>
-  <node id="2916367783" lat="46.0889953" lon="-64.7761907" version="3" timestamp="2017-05-26T09:00:52Z" changeset="48995325" uid="4433679" user="bogdan_andrei">
+  <node id="2916367783" lat="46.0889953" lon="-64.7761907" version="4" timestamp="2022-08-14T16:17:21Z" changeset="124894458" uid="4389876" user="Sebastian Paczoski">
     <tag k="addr:city" v="Moncton"/>
     <tag k="addr:housenumber" v="679"/>
     <tag k="addr:postcode" v="E1C 1E3"/>
     <tag k="addr:street" v="Main Street"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="branch" v="Moncton"/>
+    <tag k="brand" v="Freshii"/>
+    <tag k="brand:wikidata" v="Q5503051"/>
     <tag k="capacity" v="30+"/>
-    <tag k="cuisine" v="international"/>
-    <tag k="name" v="Freshii Moncton"/>
+    <tag k="cuisine" v="salad"/>
+    <tag k="name" v="Freshii"/>
     <tag k="opening_hours" v="Mo-We 07:00-21:00, Th,Fr 07:00-22:00, Sa 08:00-22:00, Su 10:00-20:00"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
@@ -49334,23 +49336,6 @@
     <tag k="opening_hours" v="Tu-We 09:00-14:00; Th-Sa 09:00-21:00; Su 08:00-21:00"/>
     <tag k="operator" v="https://www.pycbitcoin.com/"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="3328393447" lat="51.6553315" lon="-0.2032455" version="5" timestamp="2022-06-19T16:42:07Z" changeset="122586269" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Barnet"/>
-    <tag k="addr:housename" v="The Spires Shopping Centre"/>
-    <tag k="addr:housenumber" v="Unit 10"/>
-    <tag k="addr:postcode" v="EN5 5XY"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="brand" v="CeX"/>
-    <tag k="brand:wikidata" v="Q5055676"/>
-    <tag k="brand:wikipedia" v="en:CeX (company)"/>
-    <tag k="contact:website" v="https://uk.webuy.com/site/storeDetail/?branchId=205"/>
-    <tag k="name" v="CeX"/>
-    <tag k="opening_hours:url" v="https://uk.webuy.com/stores/store_details.php?branchId=205"/>
-    <tag k="operator" v="CeX"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="electronics"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3328435292" lat="54.5891466" lon="-5.9628065" version="5" timestamp="2020-06-01T05:45:26Z" changeset="86029879" uid="2008037" user="VictorIE">
     <tag k="addr:city" v="Belfast"/>
