@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-15T05:43:24Z"/>
+<meta osm_base="2022-08-16T05:27:09Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -20164,16 +20164,18 @@
     <tag k="phone" v="(916) 426-6008"/>
     <tag k="website" v="http://www.capsity.com"/>
   </node>
-  <node id="2616538451" lat="52.2206675" lon="21.0160429" version="3" timestamp="2015-04-10T09:02:00Z" changeset="30113213" uid="52087" user="kocio">
+  <node id="2616538451" lat="52.2207344" lon="21.0160316" version="4" timestamp="2022-08-15T18:42:41Z" changeset="124941108" uid="67255" user="Rogoyski">
     <tag k="addr:city" v="Warszawa"/>
     <tag k="addr:housenumber" v="28"/>
     <tag k="addr:street" v="Ludwika Waryńskiego"/>
-    <tag k="amenity" v="cafe"/>
+    <tag k="check_date" v="2022-08-15"/>
+    <tag k="disused:amenity" v="cafe"/>
     <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="MiTo art.café.books"/>
+    <tag k="name" v="MiTo"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+48 22 629 08 15"/>
     <tag k="website" v="http://www.mito.art.pl/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2616868186" lat="-23.4993210" lon="-46.6174044" version="13" timestamp="2020-12-27T17:29:13Z" changeset="96492659" uid="1842197" user="O Fim">
     <tag k="addr:city" v="São Paulo"/>
@@ -71767,6 +71769,20 @@
     <tag k="second_hand" v="yes"/>
     <tag k="shop" v="mobile_phone"/>
     <tag k="website" v="https://www.facebook.com/jetblackstorephone"/>
+  </node>
+  <node id="7499178601" lat="45.7639276" lon="4.8376532" version="3" timestamp="2022-08-15T17:41:25Z" changeset="124938946" uid="4741702" user="Kazing">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="CafeComptoirBrunet"/>
+    <tag k="contact:phone" v="+33478374431"/>
+    <tag k="contact:website" v="https://bouchonlyonnaisbrunet.com"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Bouchon Comptoir Brunet"/>
+    <tag k="opening_hours" v="Th-Tu 12:00-14:00,19:00-22:30; We off"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
   </node>
   <node id="7507278566" lat="44.4924550" lon="11.3256740" version="1" timestamp="2020-05-11T14:51:34Z" changeset="85031774" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Bologna"/>
