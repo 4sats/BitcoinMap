@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-17T05:46:08Z"/>
+<meta osm_base="2022-08-18T05:42:27Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -40301,15 +40301,6 @@
     <tag k="name:ko" v="엔토더치"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2982290635" lat="35.5730025" lon="129.3578210" version="2" timestamp="2018-12-25T13:48:43Z" changeset="65760653" uid="7245212" user="LuxuryCoop">
-    <tag k="addr:city" v="울산광역시"/>
-    <tag k="addr:housenumber" v="285-3"/>
-    <tag k="addr:street" v="북구 진장동"/>
-    <tag k="name" v="씨앤텍 스마트리페어"/>
-    <tag k="name:ko" v="씨앤텍 스마트리페어"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="computer"/>
-  </node>
   <node id="2984820565" lat="39.7318185" lon="-104.9988410" version="10" timestamp="2022-05-25T21:41:09Z" changeset="121493960" uid="5446055" user="torapa">
     <tag k="addr:city" v="Denver"/>
     <tag k="addr:housenumber" v="983"/>
@@ -44510,11 +44501,12 @@
     <tag k="phone" v="+8801919972700"/>
     <tag k="website" v="https://popcorn-it.com/"/>
   </node>
-  <node id="3146401638" lat="51.8649481" lon="-2.2426888" version="4" timestamp="2017-01-27T14:44:12Z" changeset="45561688" uid="519501" user="parukhin">
+  <node id="3146401638" lat="51.8649481" lon="-2.2426888" version="5" timestamp="2022-08-17T11:58:34Z" changeset="125014562" uid="84263" user="Robert Whittaker">
     <tag k="addr:city" v="Gloucester"/>
     <tag k="addr:housenumber" v="34-38"/>
     <tag k="addr:postcode" v="GL1 1RX"/>
     <tag k="addr:street" v="Kings Walk"/>
+    <tag k="brand:wikidata" v="Q5055676"/>
     <tag k="description" v="Gaming, computing, phones, electronics and DVDs."/>
     <tag k="name" v="CeX Gloucester"/>
     <tag k="opening_hours" v="Mo-Sa 09:00-18:00; Su 11:00-17:00"/>
@@ -51338,18 +51330,20 @@
     <tag k="smoking" v="no"/>
     <tag k="website" v="http://cafe.naver.com/ozchina.cafe"/>
   </node>
-  <node id="3438308050" lat="-10.9141281" lon="-37.0528589" version="5" timestamp="2015-11-15T10:02:34Z" changeset="35324066" uid="91790" user="morray">
+  <node id="3438308050" lat="-10.9141609" lon="-37.0528940" version="6" timestamp="2022-08-17T19:22:52Z" changeset="125032515" uid="1799626" user="AjBelnuovo">
     <tag k="addr:city" v="Aracaju"/>
     <tag k="addr:housenumber" v="02"/>
     <tag k="addr:postcode" v="49010-330"/>
     <tag k="addr:street" v="Rua de Arauá"/>
     <tag k="addr:suburb" v="Centro"/>
     <tag k="amenity" v="clinic"/>
+    <tag k="healthcare" v="clinic"/>
     <tag k="healthcare:speciality" v="urology"/>
     <tag k="name" v="Doutor Rodrigo Gualberto"/>
     <tag k="operator" v="Doutor Rodrigo Gualberto"/>
+    <tag k="operator:type" v="private"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+55 79 3211-9007"/>
+    <tag k="phone" v="+55 79 3211 9007"/>
   </node>
   <node id="3438462463" lat="48.7488281" lon="-122.4802900" version="3" timestamp="2015-04-06T04:11:57Z" changeset="30006257" uid="2806891" user="_rhys">
     <tag k="addr:city" v="Bellingham"/>
@@ -80587,6 +80581,10 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-604-559-9499"/>
     <tag k="website" v="https://vancouverbitcoin.com/"/>
+  </node>
+  <node id="9959451663" lat="40.8703693" lon="14.3547704" version="1" timestamp="2022-08-17T14:54:14Z" changeset="125021869" uid="16861069" user="Blockchain New Project">
+    <tag k="name" v="Cuki Tina"/>
+    <tag k="payment:bitcoin" v="yes"/>
   </node>
 
 </osm>
