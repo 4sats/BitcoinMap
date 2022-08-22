@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-21T05:28:39Z"/>
+<meta osm_base="2022-08-22T05:48:29Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -23106,7 +23106,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.nobodysfaultproductions.com/"/>
   </node>
-  <node id="2642110538" lat="48.6345602" lon="14.1707278" version="5" timestamp="2014-06-23T18:09:54Z" changeset="23107219" uid="1942179" user="CzechAddress">
+  <node id="2642110538" lat="48.6345227" lon="14.1707662" version="6" timestamp="2022-08-21T11:47:59Z" changeset="125179942" uid="4498213" user="Jiří Podhorecký">
     <tag k="addr:conscriptionnumber" v="154"/>
     <tag k="addr:housenumber" v="154"/>
     <tag k="addr:place" v="Přední Výtoň"/>
@@ -29478,14 +29478,15 @@
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-02-11"/>
   </node>
-  <node id="2725642222" lat="51.9816485" lon="5.9106700" version="4" timestamp="2019-02-27T08:32:49Z" changeset="67607419" uid="290680" user="wheelmap_visitor">
+  <node id="2725642222" lat="51.9816485" lon="5.9106700" version="5" timestamp="2022-08-21T14:49:51Z" changeset="125186812" uid="15413470" user="invalidCards">
     <tag k="addr:city" v="Arnhem"/>
     <tag k="addr:housenumber" v="107"/>
     <tag k="addr:postcode" v="6811DZ"/>
     <tag k="addr:street" v="Beekstraat"/>
+    <tag k="check_date" v="2022-08-21"/>
+    <tag k="disused:shop" v="confectionery"/>
     <tag k="name" v="Droomtaarten"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="confectionery"/>
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-02-11"/>
     <tag k="website" v="http://www.droomtaarten.nl"/>
@@ -29727,12 +29728,13 @@
     <tag k="source:date" v="2014-02-11"/>
     <tag k="website" v="https://nozili.nl/"/>
   </node>
-  <node id="2725649617" lat="51.9829426" lon="5.9093781" version="4" timestamp="2019-03-28T11:25:54Z" changeset="68621546" uid="9451067" user="b-jazz-bot">
+  <node id="2725649617" lat="51.9829426" lon="5.9093781" version="5" timestamp="2022-08-21T14:49:51Z" changeset="125186812" uid="15413470" user="invalidCards">
     <tag k="addr:city" v="Arnhem"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="6811CV"/>
     <tag k="addr:street" v="Bovenbeekstraat"/>
     <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2022-08-21"/>
     <tag k="name" v="Njoy Café"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="BAG"/>
@@ -32669,9 +32671,9 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://skindustry.ch"/>
   </node>
-  <node id="2760155787" lat="39.0677403" lon="-94.5904185" version="1" timestamp="2014-04-02T07:37:35Z" changeset="21452204" uid="1836471" user="Blobo123">
+  <node id="2760155787" lat="39.0677403" lon="-94.5904185" version="2" timestamp="2022-08-22T05:17:13Z" changeset="125207518" uid="11550253" user="kcnorthlander42">
     <tag k="addr:housenumber" v="3260"/>
-    <tag k="addr:street" v="Broadway Street"/>
+    <tag k="addr:street" v="Broadway Boulevard"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="contact:phone" v="816-561-0707"/>
     <tag k="cuisine" v="chinese"/>
@@ -53125,7 +53127,7 @@
     <tag k="phone" v="+886226551718"/>
     <tag k="website" v="https://www.maicoin.com"/>
   </node>
-  <node id="3600775097" lat="13.3525542" lon="103.8512893" version="10" timestamp="2022-08-20T04:55:36Z" changeset="125133074" uid="16594682" user="Vathana11">
+  <node id="3600775097" lat="13.3525542" lon="103.8512893" version="11" timestamp="2022-08-21T08:30:21Z" changeset="125172998" uid="16594682" user="Vathana11">
     <tag k="addr:city" v="Siem Reap"/>
     <tag k="addr:country" v="KH"/>
     <tag k="addr:housenumber" v="896"/>
@@ -53136,6 +53138,7 @@
     <tag k="contact:phone" v="+85598870677"/>
     <tag k="internet_access" v="yes"/>
     <tag k="name" v="AngkorHUB - Coworking &amp; Café"/>
+    <tag k="name:en" v="AngkorHUB - Coworking &amp; Café"/>
     <tag k="name:km" v="អង្គរហប ការរួមការងារនិងកាហ្វេ"/>
     <tag k="opening_hours" v="08:00-20:00"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -55908,6 +55911,25 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+61433335841"/>
     <tag k="website" v="http://www.aboutinstallations.com.au"/>
+  </node>
+  <node id="4128448919" lat="44.6367111" lon="33.5210253" version="3" timestamp="2022-08-21T12:33:30Z" changeset="125181653" uid="3837881" user="guesthouse Kaskad">
+    <tag k="addr:city" v="Севастополь"/>
+    <tag k="addr:housenumber" v="119"/>
+    <tag k="addr:street" v="Симонок улица"/>
+    <tag k="email" v="kaskadsevastopol@ukr.net"/>
+    <tag k="guest_house" v="guest_house"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Guesthouse Kaskad"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="phone" v="+79787238077"/>
+    <tag k="reservation" v="yes"/>
+    <tag k="rooms" v="9"/>
+    <tag k="tourism" v="guest_house"/>
+    <tag k="website" v="Kaskadhotel.net"/>
   </node>
   <node id="4142916705" lat="51.9873615" lon="5.9231422" version="1" timestamp="2016-04-23T14:56:01Z" changeset="38814035" uid="2084575" user="Coinpluggin">
     <tag k="name" v="Het Naaicafe"/>
@@ -79833,19 +79855,6 @@
     <tag k="phone" v="+39 3484447118"/>
     <tag k="website" v="https://www.impiantizoccatelli.it"/>
   </node>
-  <node id="9933829593" lat="44.1983466" lon="12.0332196" version="1" timestamp="2022-08-05T13:34:13Z" changeset="124524365" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Forlì"/>
-    <tag k="addr:housenumber" v="277B"/>
-    <tag k="addr:postcode" v="47121"/>
-    <tag k="addr:street" v="Viale Risorgimento"/>
-    <tag k="description" v="Vendita articoli nuovi e usati sia in negozio che online. Agenzia di conto vendita per privati e aziende, vendite in tutto il mondo."/>
-    <tag k="email" v="info@unmilione.net"/>
-    <tag k="name" v="unmilione"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0543090105"/>
-    <tag k="shop" v="second_hand"/>
-    <tag k="website" v="https://unmilione.net"/>
-  </node>
   <node id="9934619017" lat="49.2702568" lon="-123.1414122" version="1" timestamp="2022-08-05T22:12:21Z" changeset="124541461" uid="1836965" user="Liongrass">
     <tag k="addr:city" v="Vancouver"/>
     <tag k="addr:housenumber" v="1628"/>
@@ -80724,7 +80733,7 @@
     <tag k="start_date" v="2022/01/01"/>
     <tag k="takeaway" v="yes"/>
   </node>
-  <node id="9948321786" lat="49.1913522" lon="-122.8448230" version="1" timestamp="2022-08-11T23:40:24Z" changeset="124795999" uid="1836965" user="Liongrass">
+  <node id="9948321786" lat="49.1913522" lon="-122.8448230" version="2" timestamp="2022-08-21T09:05:58Z" changeset="125174143" uid="616774" user="mueschel">
     <tag k="addr:city" v="Surrey"/>
     <tag k="addr:housenumber" v="10392"/>
     <tag k="addr:postcode" v="V3T 2W5"/>
@@ -80732,7 +80741,7 @@
     <tag k="addr:street" v="King George Boulevard"/>
     <tag k="amenity" v="bureau_de_change"/>
     <tag k="currency:CAD" v="yes"/>
-    <tag k="currency:xtb" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Vancouver Bitcoin Exchange &amp; ATM"/>
     <tag k="opening_hours" v="Mo - Fr 10am to 5:30pm"/>
     <tag k="operator" v="Vancouver Bitcoin"/>
