@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-22T05:48:29Z"/>
+<meta osm_base="2022-08-23T06:00:33Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -7530,17 +7530,20 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://shattoandsons.com/index.html"/>
   </node>
-  <node id="2463948737" lat="1.2765731" lon="103.8458836" version="9" timestamp="2022-06-29T13:36:02Z" changeset="123003870" uid="4026892" user="Doge05">
+  <node id="2463948737" lat="1.2765731" lon="103.8458836" version="10" timestamp="2022-08-22T15:33:15Z" changeset="125232927" uid="14864469" user="duckman56">
     <tag k="addr:city" v="Singapore"/>
     <tag k="addr:housename" v="Tanjong Pagar MRT (Exchange)"/>
     <tag k="addr:housenumber" v="B1-40"/>
     <tag k="addr:postcode" v="069119"/>
     <tag k="addr:street" v="140 Maxwell Road"/>
+    <tag k="brand" v="Apple Store"/>
+    <tag k="brand:wikidata" v="Q421253"/>
     <tag k="name" v="Apple Corner"/>
     <tag k="opening_hours" v="10:00-20:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="90259090 www.apple-corner.com"/>
-    <tag k="shop" v="computer"/>
+    <tag k="shop" v="electronics"/>
+    <tag k="short_name" v="Apple"/>
   </node>
   <node id="2464259904" lat="43.5982683" lon="1.4453381" version="7" timestamp="2022-01-26T23:02:38Z" changeset="116642297" uid="10953870" user="Note Control">
     <tag k="addr:city" v="Toulouse"/>
@@ -14955,13 +14958,12 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="website" v="http://discreetbullion.com/"/>
   </node>
-  <node id="2569345566" lat="41.9116454" lon="-87.6799447" version="4" timestamp="2020-09-25T18:42:59Z" changeset="91526950" uid="1237170" user="Zol87">
+  <node id="2569345566" lat="41.9116454" lon="-87.6799447" version="5" timestamp="2022-08-23T04:05:39Z" changeset="125250660" uid="5568963" user="chriswhy">
     <tag k="addr:city" v="Chicago"/>
     <tag k="addr:housenumber" v="1558"/>
     <tag k="addr:postcode" v="60647"/>
     <tag k="addr:state" v="IL"/>
     <tag k="addr:street" v="North Milwaukee Avenue"/>
-    <tag k="landuse" v="retail"/>
     <tag k="name" v="Hestia Tobacco"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1 312 857 5749"/>
@@ -44071,7 +44073,7 @@
     <tag k="website" v="http://mustard.cz/"/>
     <tag k="wikidata" v="Q38190763"/>
   </node>
-  <node id="3117930572" lat="18.7986724" lon="98.9752405" version="9" timestamp="2022-08-16T06:46:43Z" changeset="124955698" uid="2877241" user="nolim1t">
+  <node id="3117930572" lat="18.7986724" lon="98.9752405" version="10" timestamp="2022-08-22T17:09:13Z" changeset="125236998" uid="616774" user="mueschel">
     <tag k="addr:city" v="Chiang Mai"/>
     <tag k="addr:housenumber" v="8/8"/>
     <tag k="addr:postcode" v="50300"/>
@@ -44085,7 +44087,6 @@
     <tag k="opening_hours" v="Su 13:00-23:00; Mo 13:00-21:30; We-Th: 13:00-23:00; Fri-Sat: 13:00-00:00; Tu off"/>
     <tag k="payment:bank_transfer" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin_lightning" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:cash_app" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
@@ -61313,7 +61314,7 @@
     <tag k="social_facility" v="day_care"/>
     <tag k="website" v="http://www.assixto.it/assixto-parabiago-mi/"/>
   </node>
-  <node id="5237372322" lat="9.7020025" lon="100.0161005" version="4" timestamp="2022-08-16T06:51:30Z" changeset="124955885" uid="2877241" user="nolim1t">
+  <node id="5237372322" lat="9.7020025" lon="100.0161005" version="5" timestamp="2022-08-22T17:09:13Z" changeset="125236998" uid="616774" user="mueschel">
     <tag k="addr:housenumber" v="92/3"/>
     <tag k="addr:postcode" v="84280"/>
     <tag k="addr:street" v="Moo 1, Bantai"/>
@@ -61327,7 +61328,6 @@
     <tag k="opening_hours" v="Mo-Su 08:30-23:00"/>
     <tag k="payment:bank_transfer" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin_lightning" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
@@ -65497,9 +65497,9 @@
     <tag k="website" v="https://www.anglo-indian.shop"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="5666960725" lat="-32.9230058" lon="-60.6649067" version="2" timestamp="2018-06-15T21:11:05Z" changeset="59884137" uid="1311281" user="mweper">
+  <node id="5666960725" lat="-32.9230058" lon="-60.6649067" version="3" timestamp="2022-08-22T21:27:58Z" changeset="125245669" uid="2985830" user="AndresDuhour">
     <tag k="addr:housenumber" v="114"/>
-    <tag k="addr:street" v="Avenida Luis Cándido Carballo"/>
+    <tag k="addr:street" v="Avenida Doctor Luis Cándido Carballo"/>
     <tag k="amenity" v="payment_centre"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="BTC Group"/>
@@ -65507,9 +65507,9 @@
     <tag k="operator" v="Finance Wind"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="5666960726" lat="-32.9230080" lon="-60.6648651" version="1" timestamp="2018-06-05T14:17:08Z" changeset="59571406" uid="1311281" user="mweper">
+  <node id="5666960726" lat="-32.9230080" lon="-60.6648651" version="2" timestamp="2022-08-22T21:27:58Z" changeset="125245669" uid="2985830" user="AndresDuhour">
     <tag k="addr:housenumber" v="114"/>
-    <tag k="addr:street" v="Avenida Luis Cándido Carballo"/>
+    <tag k="addr:street" v="Avenida Doctor Luis Cándido Carballo"/>
     <tag k="amenity" v="bureau_de_change"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="BTC Group"/>
@@ -69499,6 +69499,22 @@
     <tag k="shop" v="tobacco"/>
     <tag k="website" v="http://www.herbstar.at"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6556449387" lat="49.1539679" lon="-125.9054130" version="2" timestamp="2022-08-23T00:14:37Z" changeset="125248252" uid="1836965" user="Liongrass">
+    <tag k="addr:city" v="Tofino"/>
+    <tag k="addr:housenumber" v="368"/>
+    <tag k="addr:postcode" v="V0R 2Z0"/>
+    <tag k="addr:province" v="BC"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="name" v="Bravocados"/>
+    <tag k="opening_hours" v="We-Sa 11:30-20:00, Su 10:00-16:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+1 250-725-3667"/>
+    <tag k="website" v="https://bravocadosbistro.ca/"/>
   </node>
   <node id="6557312411" lat="44.7829437" lon="10.8915836" version="1" timestamp="2019-06-19T10:57:34Z" changeset="71397130" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Carpi"/>
@@ -79374,7 +79390,7 @@
     <tag k="phone" v="+919641120243"/>
     <tag k="shop" v="bakery"/>
   </node>
-  <node id="9821661982" lat="18.7822097" lon="98.9942105" version="2" timestamp="2022-08-16T06:52:50Z" changeset="124955948" uid="2877241" user="nolim1t">
+  <node id="9821661982" lat="18.7822097" lon="98.9942105" version="3" timestamp="2022-08-22T17:09:13Z" changeset="125236998" uid="616774" user="mueschel">
     <tag k="addr:city" v="เชียงใหม่"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:postcode" v="50100"/>
@@ -79384,7 +79400,6 @@
     <tag k="name" v="Sababa Hummus Chiang Mai"/>
     <tag k="opening_hours" v="Mo-Su 11:00-21:00"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin_lightning" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:monero" v="yes"/>
