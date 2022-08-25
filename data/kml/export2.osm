@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-24T05:49:39Z"/>
+<meta osm_base="2022-08-25T06:01:05Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -3837,14 +3837,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.logobkk.com"/>
   </node>
-  <node id="1880215032" lat="37.7720246" lon="-122.4092269" version="4" timestamp="2018-12-09T00:23:49Z" changeset="65304056" uid="371121" user="AndrewSnow">
-    <tag k="addr:housenumber" v="451"/>
-    <tag k="addr:street" v="9th Street"/>
-    <tag k="name" v="Cups and Cakes Bakery"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="pastry"/>
-    <tag k="website" v="http://cupsandcakesbakery.com"/>
-  </node>
   <node id="1880754454" lat="49.2202210" lon="17.6494571" version="4" timestamp="2014-11-28T12:43:11Z" changeset="27088867" uid="2490617" user="nanostudio">
     <tag k="addr:conscriptionnumber" v="4342"/>
     <tag k="addr:country" v="CZ"/>
@@ -6124,20 +6116,6 @@
     <tag k="website" v="https://fo.am/"/>
     <tag k="wikidata" v="Q8564157"/>
     <tag k="wikipedia" v="en:Foam (organization)"/>
-  </node>
-  <node id="2389390756" lat="47.0748219" lon="15.4314698" version="7" timestamp="2019-05-06T19:04:49Z" changeset="69948354" uid="75363" user="flowolf">
-    <tag k="addr:city" v="Graz"/>
-    <tag k="addr:housename" v="Markthalle Stand"/>
-    <tag k="addr:postcode" v="8020"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="contact:phone" v="+43 650 7677910"/>
-    <tag k="name" v="Herr Siegfried"/>
-    <tag k="opening_hours" v="Mo-Fr 10:00-22:00"/>
-    <tag k="operator" v="Herr Siegfried"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="smoking" v="yes"/>
-    <tag k="source" v="survey"/>
-    <tag k="website" v="http://www.herrsiegfried.at/"/>
   </node>
   <node id="2389432028" lat="46.0751785" lon="14.5109921" version="7" timestamp="2019-10-03T07:43:52Z" changeset="75215303" uid="9133839" user="Baturina">
     <tag k="addr:city" v="Ljubljana"/>
@@ -56826,7 +56804,7 @@
     <tag k="shop" v="electronics"/>
     <tag k="website" v="http://www.yampe.com/"/>
   </node>
-  <node id="4431590693" lat="42.6669238" lon="21.1837354" version="3" timestamp="2019-03-08T14:36:18Z" changeset="67924830" uid="3377021" user="Marc Konjuhi">
+  <node id="4431590693" lat="42.6669080" lon="21.1838400" version="4" timestamp="2022-08-24T09:12:36Z" changeset="125305350" uid="4719901" user="osm_saint-louis">
     <tag k="addr:postcode" v="10000"/>
     <tag k="addr:street" v="Xhavit Ahmeti"/>
     <tag k="name" v="Turbo Klinika"/>
@@ -56885,7 +56863,7 @@
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="payment:visa" v="yes"/>
   </node>
-  <node id="4450890389" lat="42.6670163" lon="21.1837370" version="5" timestamp="2019-03-08T14:36:18Z" changeset="67924830" uid="3377021" user="Marc Konjuhi">
+  <node id="4450890389" lat="42.6670202" lon="21.1838201" version="6" timestamp="2022-08-24T09:12:36Z" changeset="125305350" uid="4719901" user="osm_saint-louis">
     <tag k="addr:postcode" v="10000"/>
     <tag k="addr:street" v="Vreshtat"/>
     <tag k="internet_access" v="wlan"/>
@@ -62921,19 +62899,6 @@
     <tag k="phone" v="+1-239-444-6116"/>
     <tag k="start_date" v="2015-01-17"/>
     <tag k="website" v="https://www.spargurtax.com"/>
-  </node>
-  <node id="5349037624" lat="45.8214880" lon="8.8349310" version="1" timestamp="2018-01-19T12:37:40Z" changeset="55577013" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Varese"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:postcode" v="21100"/>
-    <tag k="addr:street" v="Via Ernesto Cairoli"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="description" v="Hamburgheria, piadineria, stuzzicheria, focacce, panini e molto altro."/>
-    <tag k="email" v="baci_danko@hotmail.it"/>
-    <tag k="name" v="Hamburgheria italiana"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 3338069785"/>
-    <tag k="website" v="http://www.hamburgeriaitalianavarese.it"/>
   </node>
   <node id="5351518575" lat="45.3020694" lon="9.7554851" version="7" timestamp="2018-01-30T11:56:39Z" changeset="55891273" uid="616774" user="mueschel">
     <tag k="addr:city" v="Castelleone"/>
@@ -80780,6 +80745,35 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-604-559-9499"/>
     <tag k="website" v="https://vancouverbitcoin.com/"/>
+  </node>
+  <node id="9974909016" lat="52.2374693" lon="21.0027688" version="1" timestamp="2022-08-24T13:15:05Z" changeset="125316362" uid="16924672" user="Bitmona">
+    <tag k="addr:city" v="Warszawa"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="00-131"/>
+    <tag k="addr:street" v="Grzybowska"/>
+    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:PLN" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="currency:XMR" v="yes"/>
+    <tag k="currency:others" v="yes"/>
+    <tag k="email" v="kantor@bitmona.co"/>
+    <tag k="image" v="https://bitmona.co/wp-content/uploads/2022/08/bitmona_photos_3.jpg"/>
+    <tag k="name" v="Bitcoin Exchange Bitmona.co"/>
+    <tag k="name:en" v="Bitcoin Exchange Bitmona.co"/>
+    <tag k="name:pl" v="Kantor Bitcoin Bitmona.co"/>
+    <tag k="opening_hours" v="Mo-Fr 11:00-19:00, Sa 12:00-16:00"/>
+    <tag k="operator" v="Bitmona Sp. z o.o."/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:electronic_purses" v="yes"/>
+    <tag k="phone" v="+48 452 552 062"/>
+    <tag k="start_date" v="2022-08-16"/>
+    <tag k="website" v="https://bitmona.co"/>
   </node>
 
 </osm>
