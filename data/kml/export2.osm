@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-25T06:01:05Z"/>
+<meta osm_base="2022-08-26T06:05:00Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -1961,7 +1961,7 @@
     <tag k="start_date" v="2015"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="963712306" lat="46.0688473" lon="11.1200802" version="9" timestamp="2017-10-03T10:57:30Z" changeset="52592457" uid="20610" user="napo">
+  <node id="963712306" lat="46.0688473" lon="11.1200802" version="10" timestamp="2022-08-25T21:24:30Z" changeset="125380356" uid="2066198" user="rriemann">
     <tag k="addr:city" v="Trento"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="23"/>
@@ -1972,6 +1972,7 @@
     <tag k="contact:website" v="http://www.dginformatics.it/"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="DG Informatics - Apple Premium Reseller"/>
+    <tag k="opening_hours" v="Mo-Sa 09:30-13:00,14:30-19:00; Su off"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
     <tag k="shop" v="computer"/>
@@ -28806,16 +28807,6 @@
     <tag k="name" v="Knight In Shining Armor Pedicab Service"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-513-601-8294"/>
-  </node>
-  <node id="2723703592" lat="42.3161236" lon="-83.0445282" version="3" timestamp="2019-09-08T12:10:24Z" changeset="74225165" uid="5359" user="user_5359">
-    <tag k="addr:city" v="Windsor"/>
-    <tag k="addr:housenumber" v="493"/>
-    <tag k="addr:postcode" v="N9A 5P8"/>
-    <tag k="addr:street" v="University Ave W"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="disused:amenity" v="pub"/>
-    <tag k="name" v="The Windsor Beer Exchange"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="2723768648" lat="51.9908013" lon="5.8900121" version="3" timestamp="2019-03-28T09:50:29Z" changeset="68618540" uid="5768512" user="jeroenhuijben">
     <tag k="addr:city" v="Arnhem"/>
