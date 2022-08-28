@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-27T05:37:15Z"/>
+<meta osm_base="2022-08-28T05:36:52Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -25270,10 +25270,11 @@
     <tag k="payment:litecoin" v="no"/>
     <tag k="website" v="http://www.theunconventionaloven.com/"/>
   </node>
-  <node id="2671167531" lat="43.7715336" lon="11.2599932" version="5" timestamp="2019-03-17T13:28:20Z" changeset="68228300" uid="9451067" user="b-jazz-bot">
-    <tag k="name" v="Smokies"/>
+  <node id="2671167531" lat="43.7715336" lon="11.2599932" version="6" timestamp="2022-08-27T09:00:48Z" changeset="125434516" uid="219668" user="SeverinGeo">
+    <tag k="name" v="Tuscan Smoking"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="e-cigarette"/>
+    <tag k="survey:date" v="2022-08-24"/>
     <tag k="website" v="https://aziende.virgilio.it/smokies-fumare-digitale_3"/>
   </node>
   <node id="2671347808" lat="-22.9131529" lon="-43.1910626" version="8" timestamp="2019-03-22T02:36:16Z" changeset="68394513" uid="9451067" user="b-jazz-bot">
@@ -80765,6 +80766,17 @@
     <tag k="phone" v="+48 452 552 062"/>
     <tag k="start_date" v="2022-08-16"/>
     <tag k="website" v="https://bitmona.co"/>
+  </node>
+  <node id="9981584649" lat="38.2284329" lon="48.3143574" version="1" timestamp="2022-08-27T13:43:17Z" changeset="125443343" uid="16953932" user="Aminlotfi">
+    <tag k="addr:city" v="اردبیل"/>
+    <tag k="addr:street" v="بلوار بعثت"/>
+    <tag k="name" v="لوازم یدکی اکبرزاده"/>
+    <tag k="opening_hours" v="sat-thu 08:30-21:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="phone" v="00984533620543"/>
+    <tag k="shop" v="car_parts"/>
   </node>
 
 </osm>
