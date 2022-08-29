@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-28T05:36:52Z"/>
+<meta osm_base="2022-08-29T06:17:40Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -18351,18 +18351,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="702-441-0719"/>
     <tag k="website" v="http://thecrepelasvegas.com"/>
-  </node>
-  <node id="2600883439" lat="36.0297153" lon="-115.0855327" version="4" timestamp="2018-01-22T23:34:54Z" changeset="55669662" uid="7509715" user="NateTheSkate">
-    <tag k="addr:city" v="Henderson"/>
-    <tag k="addr:housenumber" v="1500"/>
-    <tag k="addr:postcode" v="89074"/>
-    <tag k="addr:street" v="North Green Valley Parkway"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="name" v="Zikiz Wraps"/>
-    <tag k="note" v="Suite 230"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="702-565-9727"/>
-    <tag k="website" v="http://zikizwraps.com/"/>
   </node>
   <node id="2600884785" lat="36.0227544" lon="-115.1747426" version="2" timestamp="2019-02-17T05:15:51Z" changeset="67269748" uid="5800005" user="b-jazz">
     <tag k="addr:city" v="Las Vegas"/>
@@ -72242,11 +72230,11 @@
     <tag k="website" v="https://funeraria-reina-de-los-angeles.negocio.site/?utm_source=gmb&amp;utm_medium=referral"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="7637736878" lat="40.0785543" lon="16.2046543" version="5" timestamp="2020-06-21T10:05:22Z" changeset="86930897" uid="11375304" user="SCAMA">
+  <node id="7637736878" lat="40.0785543" lon="16.2046543" version="6" timestamp="2022-08-28T09:17:01Z" changeset="125468713" uid="175882" user="MarcoR">
     <tag k="addr:city" v="Francavilla in Sinni"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="85034"/>
-    <tag k="addr:street" v="via Luigi Ciminelli"/>
+    <tag k="addr:street" v="Via Luigi Ciminelli"/>
     <tag k="addr:unit" v="1"/>
     <tag k="air_conditioning" v="yes"/>
     <tag k="description" v="Pratiche automobilistiche, Consulenza, Assicurazioni"/>
@@ -72258,7 +72246,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
-    <tag k="phone" v="0973577224"/>
+    <tag k="phone" v="+39 0973 577224"/>
   </node>
   <node id="7642309119" lat="47.3226973" lon="9.0877641" version="3" timestamp="2021-06-19T21:10:26Z" changeset="106646568" uid="266672" user="tf66">
     <tag k="addr:city" v="Lichtensteig"/>
@@ -80777,6 +80765,35 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="phone" v="00984533620543"/>
     <tag k="shop" v="car_parts"/>
+  </node>
+  <node id="9983431187" lat="46.3102330" lon="11.5948090" version="1" timestamp="2022-08-28T13:55:30Z" changeset="125478937" uid="2201521" user="quibitcoin">
+    <tag k="addr:city" v="Venezia"/>
+    <tag k="addr:housenumber" v="2575"/>
+    <tag k="addr:postcode" v="30121"/>
+    <tag k="addr:street" v="Cannaregio"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="description" v="Spritz, birre, vini, cocktails."/>
+    <tag k="email" v="info@massaggi-predazzo.com"/>
+    <tag k="name" v="Il Remo d'Oro"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 0415242155"/>
+  </node>
+  <node id="9984186775" lat="36.4213162" lon="52.6980034" version="2" timestamp="2022-08-28T23:05:01Z" changeset="125497901" uid="16965730" user="maha-maha">
+    <tag k="name" v="نانوایی بالا گنج افروز"/>
+    <tag k="name:en" v="Bala Ganj Afrooz Bakery"/>
+    <tag k="name:fa" v="نانوایی بالا گنج افروز"/>
+    <tag k="name:mzn" v="نانوایی بالا گنج افروز"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-12:00,18:00-20:00"/>
+    <tag k="operator" v="نانوای محل"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="shop" v="bakery"/>
+    <tag k="stroller" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
