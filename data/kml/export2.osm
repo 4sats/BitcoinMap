@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-29T06:17:40Z"/>
+<meta osm_base="2022-08-30T06:30:03Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -4459,16 +4459,6 @@
     <tag k="office" v="design_agency"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2139367705" lat="59.3347281" lon="18.0786645" version="6" timestamp="2019-03-30T13:17:00Z" changeset="68697290" uid="9451067" user="b-jazz-bot">
-    <tag k="amenity" v="cafe"/>
-    <tag k="name" v="Blueberry"/>
-    <tag k="opening_hours" v="Mo-Fr 10:00-18:00;Sa 11:00-15:00;Su off"/>
-    <tag k="operator" v="Blueberry Lifestyle"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+46-8-6612550"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="https://www.blueberrylifestyle.se/"/>
-  </node>
   <node id="2140192738" lat="49.8370839" lon="18.1822722" version="7" timestamp="2020-10-03T23:21:02Z" changeset="91916733" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Ostrava"/>
     <tag k="addr:conscriptionnumber" v="1889"/>
@@ -6768,6 +6758,20 @@
     <tag k="name" v="La Nay Ferme"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://lanayferme.com/"/>
+  </node>
+  <node id="2429591197" lat="53.3828804" lon="-1.4703441" version="4" timestamp="2022-08-29T20:31:46Z" changeset="125540450" uid="16971158" user="nathan_day">
+    <tag k="addr:city" v="Sheffield"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="S1 2EW"/>
+    <tag k="addr:street" v="St James' Street"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="bitcoin:accepted" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="fhrs:id" v="582963"/>
+    <tag k="name" v="Church House"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="source:addr" v="FHRS Open Data"/>
   </node>
   <node id="2429690872" lat="45.5370965" lon="-73.6208740" version="8" timestamp="2016-05-01T06:36:17Z" changeset="39010719" uid="39504" user="malenki">
     <tag k="addr:city" v="Montréal"/>
@@ -13296,7 +13300,7 @@
     <tag k="website" v="http://www.createtank.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2559095179" lat="38.4553778" lon="27.1163320" version="3" timestamp="2022-06-04T11:27:09Z" changeset="121935454" uid="98099" user="evgenykatyshev">
+  <node id="2559095179" lat="38.4553778" lon="27.1163320" version="4" timestamp="2022-08-29T13:06:30Z" changeset="125523365" uid="12639880" user="ErdemGns">
     <tag k="addr:city" v="izmir"/>
     <tag k="addr:housename" v="Baris Apt."/>
     <tag k="addr:housenumber" v="1"/>
@@ -13306,7 +13310,7 @@
     <tag k="name" v="ikarus mental aritmetik"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:coins" v="yes"/>
-    <tag k="phone" v="232-3670535"/>
+    <tag k="phone" v="+90 232 3670535"/>
     <tag k="website" v="http://ikarusmental.com"/>
   </node>
   <node id="2559200583" lat="-33.7000738" lon="150.5639883" version="4" timestamp="2019-03-17T08:05:05Z" changeset="68221695" uid="9451067" user="b-jazz-bot">
@@ -80794,6 +80798,38 @@
     <tag k="shop" v="bakery"/>
     <tag k="stroller" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9985802993" lat="53.4423766" lon="-2.2775673" version="4" timestamp="2022-08-29T21:54:34Z" changeset="125542489" uid="16971158" user="nathan_day">
+    <tag k="addr:city" v="Manchester"/>
+    <tag k="addr:housenumber" v="585A"/>
+    <tag k="addr:postcode" v="M21 9AF"/>
+    <tag k="addr:street" v="Wilbraham Road"/>
+    <tag k="bitcoin:accepted" v="yes"/>
+    <tag k="currency:GBP" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="currency:others" v="no"/>
+    <tag k="name" v="RJ's"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightningnfc" v="yes"/>
+    <tag k="phone" v="+44 7812 919857"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="9986879708" lat="53.5927098" lon="-2.2983901" version="1" timestamp="2022-08-29T20:44:59Z" changeset="125540807" uid="16971158" user="nathan_day">
+    <tag k="addr:city" v="Bury"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="BL9 0DA"/>
+    <tag k="addr:street" v="Broad Street"/>
+    <tag k="bitcoin:accepted" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Satoshi's Place"/>
+    <tag k="office" v="coworking"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightningnfc" v="yes"/>
+    <tag k="website" v="https://satoshisplace.co.uk/"/>
   </node>
 
 </osm>
