@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-31T06:34:54Z"/>
+<meta osm_base="2022-09-01T05:56:52Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -5896,13 +5896,19 @@
     <tag k="sport" v="yoga"/>
     <tag k="website" v="http://yogiway.eu/"/>
   </node>
-  <node id="2377017681" lat="40.4240656" lon="-3.6878536" version="2" timestamp="2014-11-06T11:24:51Z" changeset="26590574" uid="2136761" user="flix1">
-    <tag k="name" v="Loewe"/>
+  <node id="2377017681" lat="40.4240656" lon="-3.6878536" version="3" timestamp="2022-08-31T13:12:23Z" changeset="125612253" uid="2267575" user="MrPart">
+    <tag k="addr:city" v="Madrid"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Calle de Serrano"/>
+    <tag k="name" v="Rabat"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="clothes"/>
+    <tag k="shop" v="watches"/>
     <tag k="source" v="survey"/>
   </node>
-  <node id="2377017686" lat="40.4243691" lon="-3.6878288" version="4" timestamp="2020-04-28T18:36:44Z" changeset="84285406" uid="1433092" user="Osmand+">
+  <node id="2377017686" lat="40.4242627" lon="-3.6878351" version="5" timestamp="2022-08-31T13:12:23Z" changeset="125612253" uid="2267575" user="MrPart">
+    <tag k="addr:city" v="Madrid"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:street" v="Calle de Serrano"/>
     <tag k="brand" v="Prada"/>
     <tag k="brand:wikidata" v="Q193136"/>
     <tag k="brand:wikipedia" v="en:Prada"/>
@@ -34675,15 +34681,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="greengrocer"/>
     <tag k="website" v="https://www.wedeliverlocal.co.uk/avid-farm-shop"/>
-  </node>
-  <node id="2810354147" lat="53.3673197" lon="-1.5011289" version="3" timestamp="2019-03-12T04:50:48Z" changeset="68047653" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:housenumber" v="370"/>
-    <tag k="addr:street" v="Sharrow Vale Road"/>
-    <tag k="description" v="BTC payment via Wedeliverlocal."/>
-    <tag k="name" v="Sharrow Vale Hardware store"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="hardware"/>
-    <tag k="website" v="https://www.wedeliverlocal.co.uk/sharrow-wale-hardware-store"/>
   </node>
   <node id="2810401045" lat="43.6482469" lon="-79.4024153" version="4" timestamp="2018-10-25T21:54:37Z" changeset="63882879" uid="5633991" user="Matthew Darwin">
     <tag k="addr:city" v="Toronto"/>
@@ -78074,6 +78071,24 @@
     <tag k="phone" v="+39 030 2070157"/>
     <tag k="website" v="http://www.packetloss.it"/>
   </node>
+  <node id="9358308117" lat="51.3673557" lon="-0.7941157" version="3" timestamp="2022-08-31T15:05:30Z" changeset="125616963" uid="16990757" user="Bitcoinshire">
+    <tag k="addr:housenumber" v="233"/>
+    <tag k="addr:postcode" v="RG45 7AH"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="contact:facebook" v="crowthorneturkishbarbers"/>
+    <tag k="contact:instagram" v="crowthorneturkishbarbers"/>
+    <tag k="currency:GBP" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Crowthorne"/>
+    <tag k="name:en" v="Crowthorne Turkish Barbers"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00; Sa 08:00-18:00; Su 10:00-16:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightningnfc" v="yes"/>
+    <tag k="phone" v="+44 79039 94735"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="website" v="https://crowthorneturkishbarbers.nearcut.com/"/>
+  </node>
   <node id="9364710923" lat="27.9383905" lon="-82.2880750" version="2" timestamp="2021-12-25T04:43:22Z" changeset="115351029" uid="12138335" user="ryansocratic">
     <tag k="addr:city" v="Brandon"/>
     <tag k="addr:housenumber" v="220"/>
@@ -80803,7 +80818,7 @@
     <tag k="stroller" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9985802993" lat="53.4423766" lon="-2.2775673" version="5" timestamp="2022-08-30T19:04:48Z" changeset="125583720" uid="16971158" user="nathan_day">
+  <node id="9985802993" lat="53.4423766" lon="-2.2775673" version="6" timestamp="2022-08-31T09:39:49Z" changeset="125603380" uid="16971158" user="nathan_day">
     <tag k="addr:city" v="Manchester"/>
     <tag k="addr:housenumber" v="585A"/>
     <tag k="addr:postcode" v="M21 9AF"/>
@@ -80811,6 +80826,7 @@
     <tag k="currency:GBP" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="currency:others" v="no"/>
+    <tag k="description" v="Inexpensive Traditional Barbers, no appointment needed."/>
     <tag k="name" v="RJ's"/>
     <tag k="opening_hours" v="Mo-Sa 09:00-17:00"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -80849,15 +80865,68 @@
     <tag k="payment:lightningnfc" v="yes"/>
     <tag k="website" v="https://satoshisplace.co.uk/"/>
   </node>
-  <node id="9989178143" lat="40.8762787" lon="14.3439803" version="2" timestamp="2022-08-30T20:29:53Z" changeset="125586397" uid="16861069" user="Blockchain New Project">
+  <node id="9989178143" lat="40.8762787" lon="14.3439803" version="4" timestamp="2022-08-31T10:14:34Z" changeset="125604848" uid="16861069" user="Blockchain New Project">
     <tag k="addr:city" v="Volla"/>
     <tag k="addr:housenumber" v="41"/>
     <tag k="addr:postcode" v="80040"/>
     <tag k="addr:street" v="Via Dante Alighieri"/>
+    <tag k="contact:website" v="https://blockchain-new-project-4.webnode.it/"/>
     <tag k="facebook" v="https://www.facebook.com/blockchainnewproject/photos/a.115202141278196/121377300660680"/>
-    <tag k="name" v="Cartolibreria PAPIRO"/>
+    <tag k="name" v="Cartolibreria PAPIRO - Tel. 331 2830937"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://blockchain-new-project-4.webnode.it/"/>
+    <tag k="website" v="https://www.facebook.com/blockchainnewproject"/>
+  </node>
+  <node id="9990494425" lat="41.6505055" lon="41.6314533" version="1" timestamp="2022-08-31T12:06:52Z" changeset="125609386" uid="13256444" user="empty_child">
+    <tag k="addr:city" v="ბათუმი"/>
+    <tag k="addr:country" v="GE"/>
+    <tag k="addr:housenumber" v="35/6"/>
+    <tag k="addr:postcode" v="6000"/>
+    <tag k="addr:street" v="ვაჟა ფშაველას ქუჩა"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/coffeecoin_/"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="Coffee Coin"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://taplink.cc/coffeecoin"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9991716968" lat="10.4728139" lon="-66.7870363" version="1" timestamp="2022-08-31T22:59:56Z" changeset="125631649" uid="527105" user="albertoq">
+    <tag k="addr:city" v="Caracas"/>
+    <tag k="addr:postcode" v="1073"/>
+    <tag k="addr:street" v="Avenida Principal de Guaicoco"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="capacity" v="50"/>
+    <tag k="currency:BSD" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipPoXARzRvnFnw9nkh0IZGvVH82m2sbckNgc15cK=w408-h544-k-no"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Yokoshi Gym"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-13:30, 15:00-20:30; Jan 1,Apr 19,May 1,Jun 24,Jul 5,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="personal_trainer" v="yes"/>
+    <tag k="phone" v="+58-212-???"/>
+    <tag k="sauna" v="no"/>
+    <tag k="smoking" v="no"/>
+    <tag k="source" v="albertoq2004@hotmail.com"/>
+    <tag k="sport" v="fitness"/>
+    <tag k="swimming_pool" v="no"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
