@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-01T05:56:52Z"/>
+<meta osm_base="2022-09-02T06:08:38Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -7114,18 +7114,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="tourism" v="apartments"/>
     <tag k="website" v="https://www.sykescottages.co.uk/cottage/Cotswolds-Gloucestershire-Newent/The-Farmhouse-8590.html"/>
-  </node>
-  <node id="2443147009" lat="56.9468150" lon="24.1115359" version="4" timestamp="2022-07-15T19:37:41Z" changeset="123666940" uid="15008076" user="latvia-bot">
-    <tag k="addr:city" v="Rīga"/>
-    <tag k="addr:country" v="LV"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:postcode" v="LV-1050"/>
-    <tag k="addr:street" v="Vecpilsētas iela"/>
-    <tag k="name" v="Teddy Hostel"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="ref:LV:addr" v="102653734"/>
-    <tag k="tourism" v="hostel"/>
-    <tag k="website" v="http://teddyhostelriga.com/"/>
   </node>
   <node id="2443275017" lat="52.4765475" lon="13.4217795" version="8" timestamp="2016-11-01T17:06:38Z" changeset="43330829" uid="66391" user="geozeisig">
     <tag k="addr:city" v="Berlin"/>
@@ -43546,23 +43534,6 @@
     <tag k="phone" v="714-655-5370"/>
     <tag k="shop" v="yes"/>
   </node>
-  <node id="3092908017" lat="56.9488241" lon="24.1058726" version="5" timestamp="2022-07-15T19:37:41Z" changeset="123666940" uid="15008076" user="latvia-bot">
-    <tag k="addr:city" v="Rīga"/>
-    <tag k="addr:country" v="LV"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:postcode" v="LV-1050"/>
-    <tag k="addr:street" v="Jauniela"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="name" v="Spot Kafé"/>
-    <tag k="opening_hours" v="Fr-Sa 10:00-05:00; Su-Th 10:00-03:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+371 20448811"/>
-    <tag k="ref:LV:addr" v="101903064"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="source" v="http://spotkafe.lv/contact"/>
-    <tag k="website" v="http://www.spotkafe.lv"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="3093497291" lat="37.4494441" lon="-122.2308902" version="3" timestamp="2018-04-18T21:48:07Z" changeset="58216892" uid="1557342" user="boeleman81">
     <tag k="addr:city" v="Redwood City"/>
     <tag k="addr:housenumber" v="2055"/>
@@ -44025,27 +43996,6 @@
     <tag k="smoking" v="isolated"/>
     <tag k="website" v="http://mustard.cz/"/>
     <tag k="wikidata" v="Q38190763"/>
-  </node>
-  <node id="3117930572" lat="18.7986724" lon="98.9752405" version="10" timestamp="2022-08-22T17:09:13Z" changeset="125236998" uid="616774" user="mueschel">
-    <tag k="addr:city" v="Chiang Mai"/>
-    <tag k="addr:housenumber" v="8/8"/>
-    <tag k="addr:postcode" v="50300"/>
-    <tag k="addr:street" v="Ratchaphruek Road"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="bar" v="yes"/>
-    <tag k="capacity" v="70"/>
-    <tag k="cuisine" v="american;mexican"/>
-    <tag k="name" v="Corner Bistro &amp; Burrito Squad"/>
-    <tag k="name:th" v="คอนเนอร์บิสโทร"/>
-    <tag k="opening_hours" v="Su 13:00-23:00; Mo 13:00-21:30; We-Th: 13:00-23:00; Fri-Sat: 13:00-00:00; Tu off"/>
-    <tag k="payment:bank_transfer" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cash_app" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+66964976755"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="website" v="https://www.cornerbistrochiangmai.com/"/>
   </node>
   <node id="3118190053" lat="53.0105558" lon="18.6020756" version="4" timestamp="2020-02-06T19:08:52Z" changeset="80657651" uid="10319455" user="Antoni_W">
     <tag k="addr:city" v="Toruń"/>
@@ -51433,6 +51383,26 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+385 99 5629759"/>
     <tag k="website" v="http://insto.hr/"/>
+  </node>
+  <node id="3435894736" lat="36.1445505" lon="-5.3526809" version="9" timestamp="2022-09-01T17:37:25Z" changeset="125665860" uid="16995327" user="CasaHendrix">
+    <tag k="addr:street" v="Casemates Square"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="brand" v="Costa"/>
+    <tag k="brand:wikidata" v="Q608845"/>
+    <tag k="brand:wikipedia" v="en:Costa Coffee"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="currency:GBP" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Costa"/>
+    <tag k="opening_hours" v="Mo-Fr 07:45-18:00; Sa, Su 09:00-17:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+350 200 43461"/>
+    <tag k="takeaway" v="yes"/>
   </node>
   <node id="3436283414" lat="37.5940538" lon="127.0164453" version="3" timestamp="2019-02-10T06:36:11Z" changeset="67064564" uid="7245212" user="LuxuryCoop">
     <tag k="amenity" v="restaurant"/>
@@ -62495,7 +62465,7 @@
     <tag k="wikidata" v="Q180"/>
     <tag k="wikipedia" v="en:Wikimedia Foundation"/>
   </node>
-  <node id="5323408448" lat="45.5043399" lon="10.9162649" version="3" timestamp="2021-04-20T22:37:51Z" changeset="103297687" uid="7434060" user="Zamb">
+  <node id="5323408448" lat="45.5043399" lon="10.9162649" version="4" timestamp="2022-09-01T21:40:59Z" changeset="125673403" uid="175882" user="MarcoR">
     <tag k="addr:city" v="Pedemonte"/>
     <tag k="addr:housenumber" v="18"/>
     <tag k="addr:postcode" v="37029"/>
@@ -62511,7 +62481,7 @@
     <tag k="opening_hours" v="Mo-Su 18:00-21:30"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0456801000"/>
+    <tag k="phone" v="+39 045 6801000"/>
     <tag k="takeaway" v="yes"/>
   </node>
   <node id="5324150762" lat="38.8374603" lon="0.1045372" version="3" timestamp="2019-09-02T07:36:13Z" changeset="73989636" uid="293845" user="felixi">
