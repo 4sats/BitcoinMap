@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-03T05:39:09Z"/>
+<meta osm_base="2022-09-04T05:43:24Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -52462,11 +52462,16 @@
     <tag k="phone" v="+34 961154229"/>
     <tag k="website" v="https://bisnesmart.com/"/>
   </node>
-  <node id="3523496786" lat="48.0660964" lon="8.5362185" version="12" timestamp="2021-07-26T22:35:55Z" changeset="108648197" uid="3451162" user="David Hubert">
+  <node id="3523496786" lat="48.0660964" lon="8.5362185" version="13" timestamp="2022-09-03T13:04:58Z" changeset="125737316" uid="16492361" user="osmdees">
     <tag k="addr:city" v="Villingen-Schwenningen"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:county" v="Schwarzwald-Baar-Kreis"/>
+    <tag k="addr:district" v="Schwarzwald-Baar-Kreis"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="78054"/>
+    <tag k="addr:province" v="Regierungsbezierk Freiburg"/>
     <tag k="addr:street" v="Marktplatz"/>
+    <tag k="addr:suburb" v="Schwenningen"/>
     <tag k="air_conditioning" v="yes"/>
     <tag k="amenity" v="fast_food"/>
     <tag k="contact:email" v="hi@bunbunburger.de"/>
@@ -59418,10 +59423,14 @@
     <tag k="shop" v="hairdresser"/>
     <tag k="website" v="http://www.raywell-lab.com"/>
   </node>
-  <node id="4965894619" lat="48.0384702" lon="8.4189950" version="5" timestamp="2019-04-12T08:27:10Z" changeset="69141506" uid="66497" user="seichter">
+  <node id="4965894619" lat="48.0384702" lon="8.4189950" version="6" timestamp="2022-09-03T10:55:10Z" changeset="125732160" uid="16492361" user="osmdees">
     <tag k="addr:city" v="Villingen-Schwenningen"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:county" v="Schwarzwald-Baar-Kreis"/>
+    <tag k="addr:district" v="Schwarzwald-Baar-Kreis"/>
     <tag k="addr:housenumber" v="4/1"/>
     <tag k="addr:postcode" v="78052"/>
+    <tag k="addr:province" v="Regierungsbezierk Freiburg"/>
     <tag k="addr:street" v="Im Tannhörnle"/>
     <tag k="addr:suburb" v="Pfaffenweiler"/>
     <tag k="description" v="Internet of things, programming, apps, websites, internet shops and more."/>
@@ -68604,16 +68613,6 @@
     <tag k="name" v="Greengrow"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="yes"/>
-  </node>
-  <node id="6299255191" lat="45.8554340" lon="16.0810069" version="3" timestamp="2019-02-28T14:41:32Z" changeset="67653743" uid="616774" user="mueschel">
-    <tag k="addr:city" v="Zagreb"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:postcode" v="10040"/>
-    <tag k="addr:street" v="Veliki Vrh"/>
-    <tag k="description" v="Parking solutions"/>
-    <tag k="name" v="Feist d.o.o."/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="6299624285" lat="12.5766840" lon="-81.7030132" version="2" timestamp="2020-12-23T21:24:05Z" changeset="96347333" uid="2152306" user="islatur">
     <tag k="addr:housenumber" v="casa 14"/>
