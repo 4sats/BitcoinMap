@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-04T05:43:24Z"/>
+<meta osm_base="2022-09-05T06:11:25Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -10270,10 +10270,11 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://ninjastudio.pl"/>
   </node>
-  <node id="2540093791" lat="50.0577720" lon="19.9248653" version="6" timestamp="2014-06-17T18:49:41Z" changeset="22990792" uid="1722488" user="Mateusz Konieczny">
+  <node id="2540093791" lat="50.0577720" lon="19.9248653" version="7" timestamp="2022-09-04T07:18:22Z" changeset="125761557" uid="1722488" user="Mateusz Konieczny">
     <tag k="description" v="Film i fotografia reportażowa: Ślub / Wesele"/>
     <tag k="name" v="Potargane Studio"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="shop" v="yes"/>
     <tag k="website" v="http://potarganestudio.pl"/>
   </node>
   <node id="2540122308" lat="52.4997296" lon="13.3181975" version="6" timestamp="2019-03-13T02:22:51Z" changeset="68084426" uid="9451067" user="b-jazz-bot">
@@ -37638,19 +37639,6 @@
     <tag k="phone" v="(916) 723-7664"/>
     <tag k="website" v="https://www.916smog.com/"/>
   </node>
-  <node id="2908063716" lat="37.7877738" lon="-122.3998375" version="3" timestamp="2015-01-08T21:11:47Z" changeset="28006999" uid="2555308" user="Jack J Jia">
-    <tag k="addr:city" v="San Francisco"/>
-    <tag k="addr:housenumber" v="603"/>
-    <tag k="addr:street" v="Mission Street"/>
-    <tag k="name" v="imPrint CP"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:dogecoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="payment:peercoin" v="yes"/>
-    <tag k="payment:vertcoin" v="yes"/>
-    <tag k="phone" v="(415) 896-9321"/>
-    <tag k="website" v="http://imprintcp.com"/>
-  </node>
   <node id="2909098949" lat="-33.9321094" lon="18.8588189" version="6" timestamp="2020-09-30T13:54:09Z" changeset="91773139" uid="8922202" user="CJJ2501">
     <tag k="addr:city" v="Stellenbosch"/>
     <tag k="addr:housenumber" v="2"/>
@@ -47719,17 +47707,6 @@
     <tag k="website" v="https://www.promaksa.lt/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3257569661" lat="42.8123550" lon="-86.0165584" version="3" timestamp="2014-12-29T02:34:59Z" changeset="27767821" uid="2135320" user="BitcoinMaps">
-    <tag k="addr:city" v="Zeeland"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:street" v="North Elm Street"/>
-    <tag k="contact:email" v="trade@zeelandnode.io"/>
-    <tag k="contact:website" v="zeelandnode.io"/>
-    <tag k="description" v="Local Bitcoin info and trade."/>
-    <tag k="name" v="Zeeland Node"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="books"/>
-  </node>
   <node id="3257937868" lat="43.3791628" lon="17.5983652" version="8" timestamp="2018-02-11T10:46:01Z" changeset="56260017" uid="3501362" user="michalfabik">
     <tag k="addr:city" v="Široki Brijeg"/>
     <tag k="addr:housenumber" v="72"/>
@@ -47875,19 +47852,6 @@
     <tag k="name" v="bitmagnet"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
-  </node>
-  <node id="3275032716" lat="37.3526520" lon="-122.0052925" version="3" timestamp="2019-02-19T23:44:05Z" changeset="67372015" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Sunnyvale"/>
-    <tag k="addr:housenumber" v="1049"/>
-    <tag k="addr:postcode" v="94087"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="E El Camino Real"/>
-    <tag k="name" v="Mac Coins"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:dogecoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="(408) 510-0486"/>
-    <tag k="website" v="https://macscoinshop.com/"/>
   </node>
   <node id="3275051970" lat="47.2952973" lon="8.5643060" version="8" timestamp="2019-03-24T16:56:07Z" changeset="68477568" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Thalwil"/>
@@ -48614,19 +48578,6 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="(415) 347-0004"/>
     <tag k="website" v="https://zorelaw.com/"/>
-  </node>
-  <node id="3284544429" lat="37.8056346" lon="-122.4126459" version="1" timestamp="2015-01-12T19:17:27Z" changeset="28095097" uid="2555308" user="Jack J Jia">
-    <tag k="addr:city" v="San Francisco"/>
-    <tag k="addr:housenumber" v="325"/>
-    <tag k="addr:postcode" v="94133"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="Bay Street"/>
-    <tag k="name" v="Project Zen"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:dogecoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="(415) 500-4777"/>
-    <tag k="website" v="http://projectzenmassage.com"/>
   </node>
   <node id="3284569202" lat="36.1590525" lon="-115.1527778" version="2" timestamp="2015-01-12T19:27:00Z" changeset="28095411" uid="2555308" user="Jack J Jia">
     <tag k="addr:city" v="Las Vegas"/>
@@ -50711,19 +50662,7 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="smoking" v="isolated"/>
   </node>
-  <node id="3404063818" lat="42.9788902" lon="-85.6720555" version="2" timestamp="2020-12-11T00:01:20Z" changeset="95646317" uid="307520" user="wolfgang8741">
-    <tag k="addr:city" v="Grand Rapids"/>
-    <tag k="addr:housenumber" v="940"/>
-    <tag k="addr:street" v="Monroe Avenue Northwest"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="contact:email" v="services@npbitcoin.com"/>
-    <tag k="contact:phone" v="+1-616-389-3771"/>
-    <tag k="contact:website" v="npbitcoin.com"/>
-    <tag k="description" v="N&amp;P Bitcoin Consulting LLC hosts a Bitcoin ATM @ 940 Monroe in the Skywalk Deli"/>
-    <tag k="name" v="N&amp;P Bitcoin Consulting LLC"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="3404063906" lat="42.9999226" lon="-85.6522500" version="2" timestamp="2020-12-08T21:26:37Z" changeset="95512074" uid="307520" user="wolfgang8741">
+  <node id="3404063906" lat="42.9999226" lon="-85.6522500" version="3" timestamp="2022-09-04T13:50:11Z" changeset="125773702" uid="11548585" user="emersonveenstra">
     <tag k="addr:city" v="Grand Rapids"/>
     <tag k="addr:housenumber" v="2029"/>
     <tag k="addr:state" v="MI"/>
@@ -50734,7 +50673,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-616-389-3771"/>
     <tag k="shop" v="books"/>
-    <tag k="website" v="nigelmorford.wix.com/mpxglass"/>
+    <tag k="website" v="http://nigelmorford.wix.com/mpxglass"/>
   </node>
   <node id="3404126808" lat="55.6731494" lon="12.5658545" version="8" timestamp="2022-02-27T00:36:55Z" changeset="117895371" uid="1288" user="Niels Elgaard Larsen">
     <tag k="amenity" v="fast_food"/>
@@ -67396,8 +67335,9 @@
     <tag k="payment:notes" v="yes"/>
     <tag k="website" v="https://bity.com"/>
   </node>
-  <node id="6056459620" lat="46.5228060" lon="6.6267679" version="4" timestamp="2019-09-13T10:56:24Z" changeset="74431064" uid="6303523" user="Roarbane">
+  <node id="6056459620" lat="46.5228060" lon="6.6267679" version="5" timestamp="2022-09-04T18:30:48Z" changeset="125784056" uid="14184882" user="typedef">
     <tag k="amenity" v="atm"/>
+    <tag k="check_date" v="2022-09-04"/>
     <tag k="currency:CHF" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
     <tag k="currency:EUR" v="yes"/>
