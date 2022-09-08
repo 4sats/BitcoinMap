@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-07T06:31:39Z"/>
+<meta osm_base="2022-09-08T06:09:24Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -31886,13 +31886,14 @@
     <tag k="website" v="http://boulderworx.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2751149574" lat="43.3687470" lon="-5.8671550" version="2" timestamp="2014-09-29T12:33:15Z" changeset="25745654" uid="75317" user="HoloDuke">
+  <node id="2751149574" lat="43.3687236" lon="-5.8671523" version="3" timestamp="2022-09-07T07:29:32Z" changeset="125887454" uid="3699758" user="bermiego">
+    <tag k="addr:city" v="Oviedo/Uviéu"/>
     <tag k="addr:housenumber" v="77"/>
     <tag k="addr:street" v="Calle Vázquez de Mella"/>
     <tag k="contact:phone" v="+34 985277010"/>
     <tag k="description" v="Boutique infantil en la que encontrarán diseños de gran elegancia adaptados al estilo clásico."/>
     <tag k="name" v="Palmas Palmitas – Ropa infantil"/>
-    <tag k="opening_hours" v="Mo-Fr 11:00-13:30,17:00-20:00;Sa 11:00-14:00"/>
+    <tag k="opening_hours" v="Mo-Fr 11:00-13:30,17:00-20:00; Sa 11:00-14:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="clothes"/>
   </node>
@@ -51626,7 +51627,7 @@
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="http://outsideinn.tw/"/>
   </node>
-  <node id="3477013303" lat="50.9929040" lon="7.0441273" version="5" timestamp="2022-08-09T10:52:55Z" changeset="124679406" uid="14273846" user="Osmanu">
+  <node id="3477013303" lat="50.9929040" lon="7.0441273" version="6" timestamp="2022-09-07T17:38:25Z" changeset="125911700" uid="14273846" user="Osmanu">
     <tag k="addr:city" v="Köln"/>
     <tag k="addr:housenumber" v="51"/>
     <tag k="addr:postcode" v="51061"/>
@@ -51635,6 +51636,7 @@
     <tag k="cuisine" v="chinese"/>
     <tag k="name" v="Peking Garden"/>
     <tag k="opening_hours" v="Mo-Sa 11:30-15:00,17:30-23:00; Su 11:30-23:00"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.pekinggarden-koeln.de/"/>
     <tag k="wheelchair" v="no"/>
