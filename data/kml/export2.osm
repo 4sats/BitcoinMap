@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-11T05:46:13Z"/>
+<meta osm_base="2022-09-12T06:31:54Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -5076,6 +5076,20 @@
     <tag k="website" v="http://www.butteauxthai.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="2288142607" lat="46.0061878" lon="8.9655999" version="4" timestamp="2022-09-11T09:46:40Z" changeset="126042070" uid="2136761" user="flix1">
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="6900"/>
+    <tag k="addr:street" v="Viale Castagnola"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:phone" v="+41 91 9701000"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Pane e Zucchero"/>
+    <tag k="opening_hours" v="Mo-Th 07:00-00:00, Fr 07:00-01:00, Sa 15:30-01:00, Su Off"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="http://www.tamarindo.ch"/>
+  </node>
   <node id="2288925056" lat="48.2249234" lon="16.3690078" version="3" timestamp="2019-02-06T10:33:46Z" changeset="66959655" uid="3524812" user="SWF8">
     <tag k="addr:city" v="Wien"/>
     <tag k="addr:country" v="AT"/>
@@ -9997,11 +10011,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://canfone.com/"/>
   </node>
-  <node id="2537752397" lat="46.0722006" lon="14.5102311" version="1" timestamp="2013-11-18T10:48:21Z" changeset="18968958" uid="1809919" user="Moj Bitcoin">
-    <tag k="name" v="Farma kode d.o.o."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.farmakode.si"/>
-  </node>
   <node id="2537757119" lat="46.0976126" lon="14.5255762" version="1" timestamp="2013-11-18T10:52:13Z" changeset="18969027" uid="1809919" user="Moj Bitcoin">
     <tag k="name" v="Moj Bitcoin"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -10017,11 +10026,6 @@
     <tag k="phone" v="+34 653 58 24 24"/>
     <tag k="source" v="Survey"/>
     <tag k="yelp" v="http://www.yelp.com/biz/ultramarinos-barcelona-2"/>
-  </node>
-  <node id="2537812925" lat="46.0722688" lon="14.5103874" version="1" timestamp="2013-11-18T11:56:26Z" changeset="18970106" uid="1809919" user="Moj Bitcoin">
-    <tag k="name" v="Flower Servant"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.flowerservant.com"/>
   </node>
   <node id="2537869992" lat="34.0517079" lon="-118.3760041" version="5" timestamp="2021-02-18T19:25:57Z" changeset="99544969" uid="7152372" user="Mxdanger">
     <tag k="addr:city" v="Los Angeles"/>
@@ -10430,7 +10434,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="www.kleshguitars.com"/>
   </node>
-  <node id="2543702108" lat="45.5640186" lon="-73.7804732" version="3" timestamp="2017-12-27T00:31:15Z" changeset="54943542" uid="1722488" user="Mateusz Konieczny">
+  <node id="2543702108" lat="45.5638438" lon="-73.7804587" version="4" timestamp="2022-09-11T12:30:26Z" changeset="126047389" uid="549389" user="ChaireMobiliteKaligrafy">
     <tag k="amenity" v="car_rental"/>
     <tag k="name" v="Loue la vie"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -46226,15 +46230,18 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="(262) 212-7930"/>
   </node>
-  <node id="3225436961" lat="46.0721326" lon="14.5040476" version="2" timestamp="2019-03-29T04:34:43Z" changeset="68651182" uid="9451067" user="b-jazz-bot">
+  <node id="3225436961" lat="46.0721326" lon="14.5040476" version="3" timestamp="2022-09-11T19:22:40Z" changeset="126062105" uid="6508041" user="martianfreeloader">
     <tag k="addr:city" v="Ljubljana"/>
     <tag k="addr:housenumber" v="46"/>
     <tag k="addr:postcode" v="1000"/>
     <tag k="addr:street" v="Podmilščakova ulica"/>
+    <tag k="description" v="Kajtanje | Supanje | Slackline"/>
+    <tag k="email" v="info@bananaway.si"/>
     <tag k="name" v="Bananaway"/>
-    <tag k="note" v="Kajtanje | Supanje | Slackline"/>
+    <tag k="opening_hours" v="May-Sep: Mo-Fr 09:00-13:00,14:00-19:00; Sep-Apr: Mo-Fr 14:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+386 70 285 228"/>
+    <tag k="shop" v="outdoor"/>
     <tag k="website" v="https://www.bananaway.si/"/>
   </node>
   <node id="3225457854" lat="46.0546319" lon="14.5074409" version="6" timestamp="2022-04-26T21:47:46Z" changeset="120231843" uid="6508041" user="martianfreeloader">
@@ -53938,6 +53945,48 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="Bing"/>
   </node>
+  <node id="3758933750" lat="46.0062192" lon="8.9657502" version="7" timestamp="2022-09-11T09:46:40Z" changeset="126042070" uid="2136761" user="flix1">
+    <tag k="addr:city" v="Lugano"/>
+    <tag k="addr:country" v="CH"/>
+    <tag k="addr:postcode" v="6900"/>
+    <tag k="addr:street" v="Viale Castagnola"/>
+    <tag k="brand" v="Migros"/>
+    <tag k="brand:wikidata" v="Q680727"/>
+    <tag k="brand:wikipedia" v="en:Migros"/>
+    <tag k="name" v="Migros"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-19:00"/>
+    <tag k="operator" v="Migros"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3758957076" lat="46.0060800" lon="8.9668978" version="4" timestamp="2022-09-11T09:46:40Z" changeset="126042070" uid="2136761" user="flix1">
+    <tag k="name" v="Fiorista"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="florist"/>
+  </node>
+  <node id="3758958161" lat="46.0063408" lon="8.9669032" version="3" timestamp="2022-09-11T09:46:40Z" changeset="126042070" uid="2136761" user="flix1">
+    <tag k="name" v="Prestige"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="boutique"/>
+  </node>
+  <node id="3758958741" lat="46.0062290" lon="8.9669407" version="5" timestamp="2022-09-11T09:46:40Z" changeset="126042070" uid="2136761" user="flix1">
+    <tag k="addr:city" v="Lugano"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="6900"/>
+    <tag k="addr:street" v="Via delle Scuole"/>
+    <tag k="name" v="Magic travel"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="travel_agency"/>
+  </node>
+  <node id="3758959148" lat="46.0059671" lon="8.9668864" version="3" timestamp="2022-09-11T09:46:40Z" changeset="126042070" uid="2136761" user="flix1">
+    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+  </node>
   <node id="3763677670" lat="40.2550344" lon="-76.8450743" version="1" timestamp="2015-09-29T12:31:13Z" changeset="34324224" uid="1918654" user="thoerner">
     <tag k="addr:city" v="Harrisburg"/>
     <tag k="addr:housenumber" v="2501"/>
@@ -57439,6 +57488,14 @@
     <tag k="shop" v="clothes"/>
     <tag k="website" v="https://psy7.com/"/>
   </node>
+  <node id="4760805623" lat="46.0060520" lon="8.9662190" version="4" timestamp="2022-09-11T09:46:40Z" changeset="126042070" uid="2136761" user="flix1">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:website" v="https://pizzeriabreva.ch"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Breva"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+  </node>
   <node id="4766288526" lat="44.1983594" lon="12.0329415" version="6" timestamp="2022-08-04T16:22:20Z" changeset="124488469" uid="16728552" user="unmilione">
     <tag k="addr:city" v="Forlì"/>
     <tag k="addr:housenumber" v="277b"/>
@@ -58233,7 +58290,7 @@
     <tag k="shop" v="bicycle"/>
     <tag k="website" v="https://cykelkok.se/cykelkoket-gamlestan"/>
   </node>
-  <node id="4855618125" lat="45.4604241" lon="10.5676697" version="2" timestamp="2022-08-06T13:51:53Z" changeset="124563301" uid="2201521" user="quibitcoin">
+  <node id="4855618125" lat="45.4604358" lon="10.5677196" version="3" timestamp="2022-09-12T06:08:23Z" changeset="126072766" uid="139580" user="morsi">
     <tag k="addr:city" v="Desenzano del Garda"/>
     <tag k="addr:housenumber" v="44"/>
     <tag k="addr:postcode" v="25015"/>
@@ -62694,6 +62751,28 @@
     <tag k="phone" v="+39 06 6556143"/>
     <tag k="website" v="https://www.abitaresrlroma.com/"/>
   </node>
+  <node id="5382312290" lat="13.4947829" lon="-89.4391219" version="3" timestamp="2022-09-11T19:21:02Z" changeset="126062051" uid="2136761" user="flix1">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:telegram" v="+503 76562723"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="name" v="Merendero El Teco"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+  </node>
+  <node id="5382320305" lat="13.4952020" lon="-89.4393944" version="2" timestamp="2022-09-11T19:21:02Z" changeset="126062051" uid="2136761" user="flix1">
+    <tag k="name" v="Esencia Nativa"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="5382320307" lat="13.4950257" lon="-89.4392613" version="2" timestamp="2022-09-11T19:21:02Z" changeset="126062051" uid="2136761" user="flix1">
+    <tag k="name" v="El Zonteña"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="convenience"/>
+  </node>
   <node id="5387304957" lat="4.3595893" lon="-75.9310204" version="2" timestamp="2018-02-04T18:31:43Z" changeset="56063275" uid="2400609" user="unmaperomas">
     <tag k="amenity" v="brothel"/>
     <tag k="fair_trade" v="yes"/>
@@ -65704,6 +65783,15 @@
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="phone" v="+57 4 2161010"/>
     <tag k="website" v="www.esuc.edu.co"/>
+  </node>
+  <node id="5836577887" lat="37.3881577" lon="-5.9929494" version="2" timestamp="2022-09-11T09:35:26Z" changeset="126041765" uid="2136761" user="flix1">
+    <tag k="addr:city" v="Sevilla"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Calle Álvarez Quintero"/>
+    <tag k="club" v="social"/>
+    <tag k="name" v="Real Club de Andalucía - EL AERO"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
   </node>
   <node id="5842544408" lat="-22.8865356" lon="-42.9895254" version="2" timestamp="2019-03-19T05:54:17Z" changeset="68281867" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="São Gonçalo"/>
@@ -74959,6 +75047,12 @@
     <tag k="phone" v="+447894438974"/>
     <tag k="website" v="https://cryptolocalatm.com"/>
   </node>
+  <node id="8821351069" lat="50.4123051" lon="30.4420371" version="2" timestamp="2022-09-11T19:44:38Z" changeset="126062905" uid="2136761" user="flix1">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="La bellota"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+  </node>
   <node id="8824479222" lat="45.4387304" lon="10.9899665" version="1" timestamp="2021-06-11T12:29:36Z" changeset="106214650" uid="6178157" user="Tresho">
     <tag k="name" v="Confetteria Filarmonica"/>
     <tag k="opening_hours" v="09:00-12:30,15:30-19:30"/>
@@ -77980,6 +78074,11 @@
     <tag k="payment:visa_electron" v="yes"/>
     <tag k="phone" v="+994507751029"/>
     <tag k="shop" v="beverages"/>
+  </node>
+  <node id="9533858934" lat="13.4949482" lon="-89.4394822" version="2" timestamp="2022-09-11T19:21:02Z" changeset="126062051" uid="2136761" user="flix1">
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="convenience"/>
   </node>
   <node id="9537542381" lat="13.4941730" lon="-89.3834900" version="3" timestamp="2022-02-28T01:58:08Z" changeset="117926681" uid="4512222" user="Ravrol">
     <tag k="amenity" v="cafe"/>
