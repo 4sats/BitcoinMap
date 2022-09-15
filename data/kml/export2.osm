@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-14T06:16:39Z"/>
+<meta osm_base="2022-09-15T06:11:24Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -97,21 +97,6 @@
     <tag k="ref:DK:cvr:pnummer" v="1003557569"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="282242218" lat="43.9928861" lon="12.6497992" version="13" timestamp="2022-05-27T13:07:23Z" changeset="121576020" uid="5617767" user="DavideOnOSM">
-    <tag k="description" v="Vendita assistenza e noleggio biciclette, ebike, Emtb, Haibike."/>
-    <tag k="email" v="info@alebikericcione.it"/>
-    <tag k="name" v="Ale bike - I Love Bike"/>
-    <tag k="opening_hours" v="Mo-Sa 09:00-12:30,15:00-19:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0541600932"/>
-    <tag k="service:bicycle:cleaning" v="yes"/>
-    <tag k="service:bicycle:pump" v="no"/>
-    <tag k="service:bicycle:repair" v="yes"/>
-    <tag k="service:bicycle:retail" v="yes"/>
-    <tag k="service:bicycle:second_hand" v="yes"/>
-    <tag k="shop" v="bicycle"/>
-    <tag k="website" v="https://www.alebikericcione.it/"/>
-  </node>
   <node id="287008347" lat="41.7135690" lon="2.8308640" version="9" timestamp="2022-01-07T09:31:50Z" changeset="115868860" uid="8770019" user="kapazao_import">
     <tag k="addr:housenumber" v="89"/>
     <tag k="addr:postcode" v="17310"/>
@@ -127,73 +112,6 @@
     <tag k="source" v="Ministerio de Industria, Turismo y Comercio"/>
     <tag k="source:date" v="2010-07-29"/>
     <tag k="website" v="http://www.cantaulina.com/"/>
-  </node>
-  <node id="288938675" lat="46.0647594" lon="11.1504525" version="10" timestamp="2017-05-13T23:09:56Z" changeset="48661614" uid="4533749" user="inbitcoin">
-    <tag k="addr:city" v="Trento"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="38123"/>
-    <tag k="addr:street" v="Via Sommarive"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Pizzeria OroStube"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
-    <tag k="website" v="http://www.orostube.it/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="296044226" lat="52.3774607" lon="4.9080895" version="14" timestamp="2020-06-12T14:44:42Z" changeset="86572688" uid="927112" user="CartoKees">
-    <tag k="addr:city" v="Amsterdam"/>
-    <tag k="addr:housenumber" v="143"/>
-    <tag k="addr:postcode" v="1011AC"/>
-    <tag k="addr:street" v="De Ruijterkade"/>
-    <tag k="amenity" v="bicycle_rental"/>
-    <tag k="name" v="Starbikes"/>
-    <tag k="opening_hours" v="Mo-Fr 08:00-19:00; Sa,Su 09:00-19:00"/>
-    <tag k="operator" v="Linda"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="toilets:wheelchair" v="no"/>
-    <tag k="website" v="https://www.starbikesrental.com/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="296444038" lat="49.2093947" lon="16.6048043" version="11" timestamp="2019-11-23T15:49:02Z" changeset="77462063" uid="8244053" user="mahdi1234">
-    <tag k="addr:city" v="Brno"/>
-    <tag k="addr:conscriptionnumber" v="338"/>
-    <tag k="addr:country" v="CZ"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:postcode" v="60200"/>
-    <tag k="addr:street" v="Staňkova"/>
-    <tag k="addr:streetnumber" v="17"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="name" v="U Daana"/>
-    <tag k="opening_hours" v="Mo-Su 17:00-24:00"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:discover_card" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:jcb" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:visa_debit" v="yes"/>
-    <tag k="payment:visa_electron" v="yes"/>
-    <tag k="smoking" v="no"/>
-    <tag k="source:addr" v="uir_adr"/>
-    <tag k="uir_adr:ADRESA_KOD" v="19749147"/>
-  </node>
-  <node id="296447848" lat="50.0859427" lon="14.4169321" version="4" timestamp="2014-07-26T04:29:26Z" changeset="24361620" uid="2213769" user="Dimoza">
-    <tag k="addr:conscriptionnumber" v="174"/>
-    <tag k="addr:housenumber" v="174/24"/>
-    <tag k="addr:postcode" v="11000"/>
-    <tag k="addr:street" v="Karlova"/>
-    <tag k="addr:streetnumber" v="24"/>
-    <tag k="name" v="Electronic Tour Guide Rental Point, Art Elephants souvenir &amp; gift shop"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source:addr" v="uir_adr"/>
-    <tag k="uir_adr:ADRESA_KOD" v="21716277"/>
-    <tag k="website" v="https://electronictourguide.com"/>
   </node>
   <node id="296511380" lat="50.0763797" lon="14.4519843" version="10" timestamp="2017-10-27T23:08:08Z" changeset="53305851" uid="5164" user="woodpeck">
     <tag k="addr:city" v="Praha 3"/>
@@ -211,23 +129,6 @@
     <tag k="ref:ruian:addr" v="21760195"/>
     <tag k="smoking" v="no"/>
     <tag k="website" v="http://www.locusworkspace.cz"/>
-  </node>
-  <node id="296659524" lat="50.1043107" lon="14.4546440" version="3" timestamp="2020-08-05T13:28:23Z" changeset="88985130" uid="10604977" user="tula s">
-    <tag k="addr:city" v="Praha"/>
-    <tag k="addr:conscriptionnumber" v="1186"/>
-    <tag k="addr:housenumber" v="1186/47"/>
-    <tag k="addr:postcode" v="17000"/>
-    <tag k="addr:street" v="Přístavní"/>
-    <tag k="addr:streetnumber" v="47"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="sushi"/>
-    <tag k="name" v="SUSHI v DUSHI"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoincash" v="yes"/>
-    <tag k="phone" v="+420 223 000 327"/>
-    <tag k="source:addr" v="uir_adr"/>
-    <tag k="uir_adr:ADRESA_KOD" v="22308121"/>
-    <tag k="website" v="https://www.sushivdushi.org/"/>
   </node>
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -393,18 +294,6 @@
     <tag k="source:addr" v="uir_adr"/>
     <tag k="uir_adr:ADRESA_KOD" v="21904774"/>
     <tag k="website" v="www.SPYobchod.cz"/>
-  </node>
-  <node id="296828886" lat="50.0669199" lon="14.3983579" version="5" timestamp="2019-03-12T03:05:07Z" changeset="68045756" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:conscriptionnumber" v="822"/>
-    <tag k="addr:housenumber" v="822/7"/>
-    <tag k="addr:postcode" v="15000"/>
-    <tag k="addr:street" v="U Nikolajky"/>
-    <tag k="addr:streetnumber" v="7"/>
-    <tag k="name" v="Studio Najbrt"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source:addr" v="uir_adr"/>
-    <tag k="uir_adr:ADRESA_KOD" v="22083049"/>
-    <tag k="website" v="https://www.najbrt.cz/"/>
   </node>
   <node id="296843577" lat="50.1092795" lon="14.4747797" version="8" timestamp="2020-10-03T23:19:58Z" changeset="91916718" uid="102554" user="Jezevec">
     <tag k="addr:conscriptionnumber" v="1808"/>
@@ -22917,8 +22806,9 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.ozlinebtc.com"/>
   </node>
-  <node id="2643086257" lat="52.2660172" lon="21.0386277" version="7" timestamp="2022-09-09T20:17:04Z" changeset="125995152" uid="388123" user="dez">
+  <node id="2643086257" lat="52.2660172" lon="21.0386277" version="8" timestamp="2022-09-14T23:30:37Z" changeset="126200426" uid="388123" user="dez">
     <tag k="addr:city" v="Warszawa"/>
+    <tag k="addr:door" v="20"/>
     <tag k="addr:housenumber" v="8/10"/>
     <tag k="addr:street" v="Lęborska"/>
     <tag k="description" v="Fototapety, Obrazy, Naklejki Sklep"/>
@@ -50317,7 +50207,7 @@
     <tag k="phone" v="+44 800 772 3616"/>
     <tag k="website" v="http://paradisecleaning.co.uk/"/>
   </node>
-  <node id="3405540116" lat="47.5110394" lon="19.0533445" version="3" timestamp="2020-03-10T23:16:11Z" changeset="82026712" uid="6626963" user="gabro00">
+  <node id="3405540116" lat="47.5109470" lon="19.0533204" version="4" timestamp="2022-09-14T09:53:05Z" changeset="126172348" uid="36129" user="City-busz">
     <tag k="addr:city" v="Budapest"/>
     <tag k="addr:housenumber" v="23"/>
     <tag k="addr:postcode" v="1055"/>
@@ -73068,7 +72958,7 @@
     <tag k="operator" v="Cannabrig S.s. società agricola"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="8289774997" lat="46.0689582" lon="14.5185020" version="5" timestamp="2021-11-18T09:03:56Z" changeset="113934516" uid="6774109" user="rjaksic">
+  <node id="8289774997" lat="46.0689219" lon="14.5184711" version="6" timestamp="2022-09-14T21:16:32Z" changeset="126198433" uid="6508041" user="martianfreeloader">
     <tag k="addr:city" v="Ljubljana"/>
     <tag k="addr:housenumber" v="58"/>
     <tag k="addr:postcode" v="1000"/>
@@ -77556,25 +77446,6 @@
     <tag k="phone" v="+39 030 2070157"/>
     <tag k="website" v="http://www.packetloss.it"/>
   </node>
-  <node id="9358308117" lat="51.3673557" lon="-0.7941157" version="4" timestamp="2022-09-13T18:06:38Z" changeset="126146276" uid="16990757" user="Bitcoinshire">
-    <tag k="addr:housenumber" v="233"/>
-    <tag k="addr:postcode" v="RG45 7AH"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="contact:facebook" v="crowthorneturkishbarbers"/>
-    <tag k="contact:instagram" v="crowthorneturkishbarbers"/>
-    <tag k="currency:GBP" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Full range of services from hot towel &amp; wet shaves to skin fades, waxing (nose &amp; ear) and threading."/>
-    <tag k="name" v="Crowthorne  Turkish Barbers"/>
-    <tag k="name:en" v="Crowthorne Turkish Barbers"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-18:00; Sa 08:00-18:00; Su 10:00-16:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightningnfc" v="yes"/>
-    <tag k="phone" v="+44 79039 94735"/>
-    <tag k="shop" v="hairdresser"/>
-    <tag k="website" v="https://crowthorneturkishbarbers.nearcut.com/"/>
-  </node>
   <node id="9364710923" lat="27.9383905" lon="-82.2880750" version="2" timestamp="2021-12-25T04:43:22Z" changeset="115351029" uid="12138335" user="ryansocratic">
     <tag k="addr:city" v="Brandon"/>
     <tag k="addr:housenumber" v="220"/>
@@ -79853,226 +79724,6 @@
     <tag k="website" v="https://www.retraining.com.ve/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9938321225" lat="10.4788881" lon="-66.8612252" version="2" timestamp="2022-08-16T17:23:48Z" changeset="124982843" uid="616774" user="mueschel">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:housename" v="Residencias Cuyuny"/>
-    <tag k="addr:postcode" v="1060"/>
-    <tag k="addr:street" v="Av. La Trinidad"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="capacity" v="50"/>
-    <tag k="currency:BSD" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="fee" v="yes"/>
-    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipMb3R6AlBFpIOzoi78lLFrL7njmDjCewKjodvMf=w408-h271-k-no"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="leisure" v="fitness_station"/>
-    <tag k="name" v="Complexion Estudios"/>
-    <tag k="opening_hours" v="Mo-Sa 11:00-21:00; Su 12:00-22:00;Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
-    <tag k="operator" v="Complexion Estudios C.A"/>
-    <tag k="operator:type" v="private"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="personal_trainer" v="yes"/>
-    <tag k="phone" v="+58-212-???"/>
-    <tag k="sauna" v="yes"/>
-    <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
-    <tag k="sport" v="fitness"/>
-    <tag k="swimming_pool" v="no"/>
-    <tag k="website" v="http://www.complexionestudiosonline.com/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="9938321226" lat="10.4926356" lon="-66.8577518" version="2" timestamp="2022-08-16T17:23:48Z" changeset="124982843" uid="616774" user="mueschel">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:postcode" v="1060"/>
-    <tag k="addr:street" v="Av. Guaicaipuro"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="capacity" v="50"/>
-    <tag k="currency:BSD" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="fee" v="yes"/>
-    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipON-sVsucKet7THWxyxVqSfvGpjnVq4AstEcFk=w408-h272-k-no"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="leisure" v="fitness_centre"/>
-    <tag k="name" v="Gimnasio Sweat Gym"/>
-    <tag k="opening_hours" v="Mo-Fr 05:45-21:00; Sa 09:00-16:00;Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
-    <tag k="operator" v="Gimnasio Sweat Gym C.A"/>
-    <tag k="operator:type" v="private"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="personal_trainer" v="yes"/>
-    <tag k="phone" v="+58-212-2652882"/>
-    <tag k="sauna" v="yes"/>
-    <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
-    <tag k="sport" v="fitness"/>
-    <tag k="swimming_pool" v="no"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="9938321230" lat="10.4985222" lon="-66.8468365" version="2" timestamp="2022-08-16T17:23:48Z" changeset="124982843" uid="616774" user="mueschel">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:postcode" v="1060"/>
-    <tag k="addr:street" v="1ª Transversal de Los Palos Grandes"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="capacity" v="50"/>
-    <tag k="currency:BSD" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="fee" v="yes"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="leisure" v="fitness_centre"/>
-    <tag k="name" v="Gimnasio BP Gym"/>
-    <tag k="opening_hours" v="Mo-Sa 06:00-20:00;Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
-    <tag k="operator" v="Gimnasio BP Gym C.A"/>
-    <tag k="operator:type" v="private"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="personal_trainer" v="yes"/>
-    <tag k="phone" v="+58-212-2841866"/>
-    <tag k="sauna" v="yes"/>
-    <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
-    <tag k="sport" v="fitness"/>
-    <tag k="swimming_pool" v="no"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="9938321231" lat="10.4969503" lon="-66.8462813" version="2" timestamp="2022-08-16T17:23:48Z" changeset="124982843" uid="616774" user="mueschel">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:housename" v="Torre Mene Grande"/>
-    <tag k="addr:postcode" v="1060"/>
-    <tag k="addr:street" v="Av. Francisco de Miranda"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="capacity" v="50"/>
-    <tag k="currency:BSD" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="fee" v="yes"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="leisure" v="fitness_centre"/>
-    <tag k="name" v="Gimnasio Gym Fitness"/>
-    <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Sa 06:00-15:00;Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
-    <tag k="operator" v="Gimnasio Gym Fitness C.A"/>
-    <tag k="operator:type" v="private"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="personal_trainer" v="yes"/>
-    <tag k="phone" v="+58-212-2832422"/>
-    <tag k="sauna" v="yes"/>
-    <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
-    <tag k="sport" v="fitness"/>
-    <tag k="swimming_pool" v="no"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="9938321232" lat="10.4758379" lon="-66.9493318" version="2" timestamp="2022-08-16T17:23:48Z" changeset="124982843" uid="616774" user="mueschel">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:full" v="Av. Segunda Avenida entre calles 1 y 2 Centro Comercial Uslar, Nivel Patio, Urb. Montalbán"/>
-    <tag k="addr:housename" v="C.C Uslar"/>
-    <tag k="addr:postcode" v="1020"/>
-    <tag k="addr:street" v="2ª Av. de Montalbán"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="branch" v="Montalbán 1"/>
-    <tag k="capacity" v="50"/>
-    <tag k="contact:facebook" v="https://es-la.facebook.com/GoldsGymVenezuela/"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/goldsgymve/?hl=es"/>
-    <tag k="contact:twitter" v="https://twitter.com/goldsgymve"/>
-    <tag k="contact:whatsapp" v="+58-412-3132544"/>
-    <tag k="currency:BSD" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Ubicado en el Centro Comercial Uslar, cuenta con aproximadamente 1.900 mt2. Brinda a sus usuarios las mejores herramientas para ejercitarse y contar con una óptima rutina deportiva."/>
-    <tag k="fee" v="yes"/>
-    <tag k="image" v="http://www.goldsgym.com.ve/img/sede-montalban_01.jpg"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="leisure" v="fitness_centre"/>
-    <tag k="name" v="Gold's Gym"/>
-    <tag k="opening_hours" v="Mo-Fr 06:00-21:00; Sa 08:00-16:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 08:00-13:00"/>
-    <tag k="operator" v="Gold's Gym C.A"/>
-    <tag k="operator:en" v="Gold's Gym International, Inc."/>
-    <tag k="operator:type" v="private"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="personal_trainer" v="yes"/>
-    <tag k="phone" v="+58-212-4420422"/>
-    <tag k="sauna" v="yes"/>
-    <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
-    <tag k="sport" v="fitness"/>
-    <tag k="swimming_pool" v="no"/>
-    <tag k="website" v="http://www.goldsgym.com.ve/index.php"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="wikidata" v="Q1536234"/>
-    <tag k="wikipedia" v="en:Gold's Gym"/>
-  </node>
-  <node id="9938321233" lat="10.4975200" lon="-66.8553458" version="2" timestamp="2022-08-16T17:23:48Z" changeset="124982843" uid="616774" user="mueschel">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:postcode" v="1060"/>
-    <tag k="addr:street" v="Av. Blandín"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="branch" v="San Ignacio"/>
-    <tag k="capacity" v="50"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/focusfit.ve/?hl=es"/>
-    <tag k="contact:whatsapp" v="+58-414-5991697"/>
-    <tag k="currency:BSD" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="fee" v="yes"/>
-    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipPeeW-iIZlqS4yj0C1uCj5CAEdMoMbWd-W1Hllt=w426-h240-k-no"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="leisure" v="fitness_centre"/>
-    <tag k="mobile" v="+58-414-5991697"/>
-    <tag k="name" v="Gimnasio Fitness Centre"/>
-    <tag k="opening_hours" v="Mo-Fr 07:00-20:00; Sa 09:00-11:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 08:00-13:00"/>
-    <tag k="operator" v="Gimnasio Fitness Centre C.A"/>
-    <tag k="operator:type" v="private"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="personal_trainer" v="yes"/>
-    <tag k="sauna" v="yes"/>
-    <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
-    <tag k="sport" v="fitness"/>
-    <tag k="swimming_pool" v="no"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="10017788546" lat="33.5464200" lon="-79.0509747" version="2" timestamp="2022-09-12T09:47:17Z" changeset="126081180" uid="17105462" user="888towssc">
     <tag k="addr:city" v="Murrells Inlet"/>
     <tag k="addr:housenumber" v="4724"/>
@@ -80171,22 +79822,6 @@
     <tag k="service:vehicle:wrecker" v="yes"/>
     <tag k="service:vehicle:wrecking" v="yes"/>
     <tag k="shop" v="car_repair"/>
-  </node>
-  <node id="10020249729" lat="52.3983826" lon="-0.7269107" version="1" timestamp="2022-09-13T08:12:43Z" changeset="126119950" uid="17043819" user="EastMidsCrypto">
-    <tag k="addr:city" v="Kettering"/>
-    <tag k="addr:housename" v="ILLICIT SKATE SHOP, The Yards."/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="NN16 0AH"/>
-    <tag k="addr:street" v="Market Street"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="illicitskateshop@gmail.com"/>
-    <tag k="name" v="ILLICIT SKATE SHOP"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+447523772538"/>
-    <tag k="shop" v="skate_shop"/>
   </node>
 
 </osm>
