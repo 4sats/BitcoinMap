@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-16T06:15:30Z"/>
+<meta osm_base="2022-09-17T05:44:39Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -311,159 +311,6 @@
     <tag k="source:addr" v="uir_adr;mvcr:adresa"/>
     <tag k="uir_adr:ADRESA_KOD" v="22390383"/>
     <tag k="website" v="http://jeli-design.cz/"/>
-  </node>
-  <node id="297640911" lat="60.1623144" lon="24.9259094" version="9" timestamp="2021-12-15T13:40:52Z" changeset="114965438" uid="3986113" user="Riku Oja">
-    <tag k="addr:city" v="Helsinki"/>
-    <tag k="addr:country" v="FI"/>
-    <tag k="addr:housenumber" v="4 A"/>
-    <tag k="addr:postcode" v="00180"/>
-    <tag k="addr:street" v="Köydenpunojankatu"/>
-    <tag k="disused:shop" v="bicycle"/>
-    <tag k="name" v="HUG Bike Shop"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://hugbikeshop.fi/"/>
-  </node>
-  <node id="299022190" lat="50.7156495" lon="-3.5262990" version="16" timestamp="2022-02-13T18:16:08Z" changeset="117364577" uid="83127" user="sec147">
-    <tag k="addr:city" v="Exeter"/>
-    <tag k="addr:postcode" v="EX2 4DR"/>
-    <tag k="addr:street" v="Weirfield Road"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="description" v="Currently accepting Bitcoin only during CoinScrum Exeter events."/>
-    <tag k="fhrs:id" v="169175"/>
-    <tag k="name" v="Port Royal Inn"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="toilets" v="yes"/>
-    <tag k="toilets:wheelchair" v="yes"/>
-    <tag k="website" v="https://theportroyal.co.uk/"/>
-    <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q70628371"/>
-  </node>
-  <node id="301620832" lat="47.7154403" lon="9.2362658" version="3" timestamp="2022-09-02T12:24:36Z" changeset="125696846" uid="17011784" user="btc_01">
-    <tag k="addr:city" v="Uhldingen-Mühlhofen"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:postcode" v="88690"/>
-    <tag k="addr:street" v="Meersburger Straße"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="currency:XBT" v="Bitcoin"/>
-    <tag k="name" v="Schilfhütte"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:lightning" v="Pay with Lighting"/>
-    <tag k="payment:onchain" v="Pay with BTC-Onchain"/>
-  </node>
-  <node id="303179159" lat="-38.0037393" lon="-57.5619972" version="6" timestamp="2021-04-08T17:38:58Z" changeset="102582083" uid="1311281" user="mweper">
-    <tag k="addr:city" v="Mar del Plata"/>
-    <tag k="addr:housenumber" v="2755"/>
-    <tag k="addr:postcode" v="7600"/>
-    <tag k="addr:street" v="Jujuy"/>
-    <tag k="amenity" v="theatre"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Teatro El Galpón de las Artes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:ep_mercadopago" v="yes"/>
-    <tag k="start_date" v="1996"/>
-    <tag k="website" v="Https://galponartes.com"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="303254555" lat="18.0159684" lon="-63.0337915" version="7" timestamp="2019-04-15T18:12:54Z" changeset="69245433" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:street" v="Pelican Road"/>
-    <tag k="fixme" v="housenumber and exact location?"/>
-    <tag k="name" v="Villa In the Caribbean"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="tourism" v="apartment"/>
-    <tag k="website" v="https://bitcoin.travel/listings/villa-in-the-caribbean/"/>
-  </node>
-  <node id="306047550" lat="41.8724454" lon="12.4496528" version="16" timestamp="2022-04-25T14:43:51Z" changeset="120169882" uid="224342" user="mircozorzo">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:postcode" v="00152"/>
-    <tag k="addr:street" v="Circonvallazione Gianicolense"/>
-    <tag k="amenity" v="doctors"/>
-    <tag k="contact:email" v="info@intera-mente.it"/>
-    <tag k="contact:website" v="http://www.intera-mente.it"/>
-    <tag k="description" v="Psicologa esperta nella riduzione dello stress, tecniche di Midfulness e consulenza di coppia."/>
-    <tag k="fixme" v="posizione"/>
-    <tag k="healthcare" v="psychotherapist"/>
-    <tag k="name" v="Psicologa Giulia Bianchi"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="310973848" lat="60.1605345" lon="24.9390492" version="12" timestamp="2022-05-04T13:26:23Z" changeset="120544193" uid="8980540" user="pyyhttu">
-    <tag k="addr:city" v="Helsinki"/>
-    <tag k="addr:country" v="FI"/>
-    <tag k="addr:housenumber" v="18"/>
-    <tag k="addr:postcode" v="00150"/>
-    <tag k="addr:street" v="Merimiehenkatu"/>
-    <tag k="name" v="Beauty Lounge"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="phone" v="+358401488477"/>
-    <tag k="shop" v="beauty"/>
-    <tag k="website" v="http://beautylounge.fi/"/>
-  </node>
-  <node id="312483922" lat="53.8121386" lon="-1.7493694" version="3" timestamp="2019-03-23T02:40:18Z" changeset="68433144" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:housenumber" v="111"/>
-    <tag k="addr:street" v="Bolton Lane"/>
-    <tag k="description" v="BTC payment via Wedeliverlocal."/>
-    <tag k="name" v="Premier Convenience Store"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="convenience"/>
-    <tag k="website" v="https://www.wedeliverlocal.co.uk/premier-whiteways-store"/>
-  </node>
-  <node id="313120747" lat="52.3723322" lon="9.7074453" version="13" timestamp="2020-01-12T11:45:26Z" changeset="79473429" uid="8762303" user="Tigerfell">
-    <tag k="addr:city" v="Hannover"/>
-    <tag k="addr:country" v="DE"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="30451"/>
-    <tag k="addr:street" v="Grotestraße"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="regional;french"/>
-    <tag k="entrance" v="yes"/>
-    <tag k="name" v="Das kleine Museum"/>
-    <tag k="opening_hours" v="18:00+"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+49 511 2153979"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="322835095" lat="52.3702884" lon="9.7350293" version="3" timestamp="2015-05-06T10:11:17Z" changeset="30837612" uid="2597672" user="mariusbey">
-    <tag k="addr:city" v="Hannover"/>
-    <tag k="addr:country" v="DE"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:postcode" v="30159"/>
-    <tag k="addr:street" v="Karmarschstraße"/>
-    <tag k="name" v="Identitätsstiftung GmbH"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="324162964" lat="60.1637353" lon="24.9456106" version="11" timestamp="2022-07-12T14:04:03Z" changeset="123523089" uid="8980540" user="pyyhttu">
-    <tag k="addr:city" v="Helsinki"/>
-    <tag k="addr:country" v="FI"/>
-    <tag k="addr:housenumber" v="1a"/>
-    <tag k="addr:postcode" v="00120"/>
-    <tag k="addr:street" v="Ratakatu"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="nepalese"/>
-    <tag k="diet:halal" v="no"/>
-    <tag k="diet:kosher" v="no"/>
-    <tag k="name" v="Himalaya"/>
-    <tag k="opening_hours" v="Mo-Fr 11:00-23:00; Sa-Su 12:00-23:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="website" v="www.himalaya.fi"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="332787284" lat="37.7880924" lon="-122.4461765" version="4" timestamp="2019-02-18T22:13:10Z" changeset="67331907" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="San Francisco"/>
-    <tag k="addr:housenumber" v="3233"/>
-    <tag k="addr:postcode" v="94115"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="Sacramento Street"/>
-    <tag k="name" v="Pet Camp Cat Safari"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="(415) 567-0700"/>
-    <tag k="website" v="https://petcamp.com/"/>
   </node>
   <node id="358390476" lat="30.4094827" lon="-91.0684555" version="9" timestamp="2015-07-05T18:54:14Z" changeset="32432398" uid="118021" user="maggot27">
     <tag k="addr:city" v="Baton Rouge"/>
@@ -5143,51 +4990,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="supermarket"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="2303138516" lat="10.5127251" lon="-66.9263909" version="17" timestamp="2022-07-08T22:39:04Z" changeset="123383458" uid="527105" user="albertoq">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:country" v="VE"/>
-    <tag k="addr:district" v="Municipio Libertador"/>
-    <tag k="addr:place" v="1"/>
-    <tag k="addr:postcode" v="1030"/>
-    <tag k="addr:state" v="Distrito Capital"/>
-    <tag k="addr:street" v="Av. Sucre"/>
-    <tag k="amenity" v="fuel"/>
-    <tag k="brand" v="PDV"/>
-    <tag k="car_wash" v="no"/>
-    <tag k="charge" v="0.50 USD"/>
-    <tag k="compressed_air" v="yes"/>
-    <tag k="currency:BsF" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:others" v="no"/>
-    <tag k="fee" v="Internacional"/>
-    <tag k="fuel:cng" v="no"/>
-    <tag k="fuel:diesel" v="no"/>
-    <tag k="fuel:octane_91" v="yes"/>
-    <tag k="fuel:octane_95" v="yes"/>
-    <tag k="name" v="E/S Agua Salud"/>
-    <tag k="note" v="Tarifa: INTERNACIONAL a USD 0.50 por litro"/>
-    <tag k="note:en" v="international rate at usd 0.50 per liter"/>
-    <tag k="operator" v="PDVSA"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:electronic_purses" v="no"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="self_service" v="no"/>
-    <tag k="shop" v="yes"/>
-    <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
-    <tag k="toilets" v="no"/>
-    <tag k="vacuum_cleaner" v="no"/>
-    <tag k="water_tap" v="yes"/>
-    <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2303887025" lat="-23.7846928" lon="-46.6888050" version="4" timestamp="2019-02-28T12:18:13Z" changeset="67648995" uid="1722488" user="Mateusz Konieczny">
     <tag k="addr:city" v="São Paulo"/>
@@ -10649,14 +10451,13 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.coinsetter.com/"/>
   </node>
-  <node id="2547460753" lat="33.5788572" lon="-101.8677330" version="6" timestamp="2021-03-12T23:41:06Z" changeset="100937471" uid="1868422" user="falcon2">
+  <node id="2547460753" lat="33.5788572" lon="-101.8677330" version="7" timestamp="2022-09-16T17:39:13Z" changeset="126273144" uid="13007399" user="elodienix">
     <tag k="addr:city" v="Lubbock"/>
     <tag k="addr:housename" v="Peter M Studios"/>
     <tag k="addr:housenumber" v="2317"/>
     <tag k="addr:postcode" v="79401"/>
     <tag k="addr:street" v="18th Street"/>
     <tag k="name" v="Peter M Studios &amp; Photobooth"/>
-    <tag k="note" v="Best Photobooth in Lubbock!!  Awesome wedding photographer!"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1 210-219-4977"/>
     <tag k="shop" v="photo"/>
@@ -79387,42 +79188,6 @@
     <tag k="swimming_pool" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9938189505" lat="10.4658729" lon="-66.8994868" version="3" timestamp="2022-08-16T17:23:48Z" changeset="124982843" uid="616774" user="mueschel">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:housename" v="El Laguito, Fuerte Tiuna"/>
-    <tag k="addr:postcode" v="1040"/>
-    <tag k="addr:street" v="Paseo El Laguito"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="capacity" v="50"/>
-    <tag k="currency:BSD" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Gym solo para Mujeres"/>
-    <tag k="fee" v="yes"/>
-    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipOvK6XetlIYT8J3euvJT-cc5LDv7yiuLGPQFzzg=w408-h306-k-no"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="leisure" v="fitness_centre"/>
-    <tag k="mobile" v="+58-412-6212172"/>
-    <tag k="name" v="Gimnasio Laguito Fitness"/>
-    <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
-    <tag k="operator" v="Laguito Fitness C.A"/>
-    <tag k="operator:type" v="private"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="personal_trainer" v="yes"/>
-    <tag k="sauna" v="no"/>
-    <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
-    <tag k="sport" v="fitness"/>
-    <tag k="swimming_pool" v="no"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="9995629771" lat="50.0487609" lon="19.9421862" version="4" timestamp="2022-09-15T07:38:33Z" changeset="126210132" uid="17014609" user="los gorditos">
     <tag k="addr:city" v="Kraków"/>
     <tag k="addr:housenumber" v="24/LU2"/>
@@ -79452,105 +79217,6 @@
     <tag k="payment:visa_debit" v="yes"/>
     <tag k="phone" v="+48797090530"/>
     <tag k="website" v="losgorditos.pl"/>
-  </node>
-  <node id="10017788546" lat="33.5464200" lon="-79.0509747" version="2" timestamp="2022-09-12T09:47:17Z" changeset="126081180" uid="17105462" user="888towssc">
-    <tag k="addr:city" v="Murrells Inlet"/>
-    <tag k="addr:housenumber" v="4724"/>
-    <tag k="addr:postcode" v="29576"/>
-    <tag k="addr:state" v="SC"/>
-    <tag k="addr:street" v="Highway 17"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/profile.php?id=100075904572874"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/888tows"/>
-    <tag k="contact:linkedin" v="https://www.linkedin.com/in/rollback-towtruck-434755228/"/>
-    <tag k="contact:twitter" v="https://twitter.com/888Tows"/>
-    <tag k="description" v="888 TOWS 24 Hour Towing and Roadside Assistance Services are here to help with all of your Towing and Roadside Assistance needs in or near Myrtle Beach, Surfside Beach, Murrells Inlet, Garden City, Conway, Pawleys Island, Horry County, and Georgetown Coun"/>
-    <tag k="name" v="888 TOWS"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="payment:ETC" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cashapp" v="yes"/>
-    <tag k="payment:cheque" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:venmo" v="yes"/>
-    <tag k="payment:zelle" v="yes"/>
-    <tag k="phone" v="843-888-8697"/>
-    <tag k="service:vehicle:24_hour_roadside_assistance" v="yes"/>
-    <tag k="service:vehicle:24_hour_towing" v="yes"/>
-    <tag k="service:vehicle:24_hours!" v="yes"/>
-    <tag k="service:vehicle:atv_towing" v="yes"/>
-    <tag k="service:vehicle:auto_locksmith" v="yes"/>
-    <tag k="service:vehicle:auto_recycling" v="yes"/>
-    <tag k="service:vehicle:auto_repair_shop_towing" v="yes"/>
-    <tag k="service:vehicle:auto_salvage" v="yes"/>
-    <tag k="service:vehicle:auto_towing" v="yes"/>
-    <tag k="service:vehicle:auto_transport" v="yes"/>
-    <tag k="service:vehicle:auto_wrecker" v="yes"/>
-    <tag k="service:vehicle:automobile_towing" v="yes"/>
-    <tag k="service:vehicle:automotive_towing" v="yes"/>
-    <tag k="service:vehicle:bad_battery" v="yes"/>
-    <tag k="service:vehicle:battery" v="yes"/>
-    <tag k="service:vehicle:battery_jump" v="yes"/>
-    <tag k="service:vehicle:battery_service" v="yes"/>
-    <tag k="service:vehicle:blowout_service" v="yes"/>
-    <tag k="service:vehicle:boat_towing" v="yes"/>
-    <tag k="service:vehicle:car_dealer_towing" v="yes"/>
-    <tag k="service:vehicle:car_hauler" v="yes"/>
-    <tag k="service:vehicle:car_hauling" v="yes"/>
-    <tag k="service:vehicle:car_lockouts" v="yes"/>
-    <tag k="service:vehicle:car_towing" v="yes"/>
-    <tag k="service:vehicle:emergency_automobile_locksmith_service" v="yes"/>
-    <tag k="service:vehicle:flat_tire_repair" v="yes"/>
-    <tag k="service:vehicle:flatbed_towing" v="yes"/>
-    <tag k="service:vehicle:fuel" v="yes"/>
-    <tag k="service:vehicle:fuel_delivery" v="yes"/>
-    <tag k="service:vehicle:jump_start_service" v="yes"/>
-    <tag k="service:vehicle:junk_cars" v="yes"/>
-    <tag k="service:vehicle:large_vehicle_towing" v="yes"/>
-    <tag k="service:vehicle:light_duty_towing" v="yes"/>
-    <tag k="service:vehicle:local_hauling" v="yes"/>
-    <tag k="service:vehicle:lockout_service" v="yes"/>
-    <tag k="service:vehicle:long_distance_hauling" v="yes"/>
-    <tag k="service:vehicle:medium_duty_towing" v="yes"/>
-    <tag k="service:vehicle:motorcycle_towing" v="yes"/>
-    <tag k="service:vehicle:open_now" v="yes"/>
-    <tag k="service:vehicle:roadside_assistance" v="yes"/>
-    <tag k="service:vehicle:roadside_help" v="yes"/>
-    <tag k="service:vehicle:roadside_service" v="yes"/>
-    <tag k="service:vehicle:rollback" v="yes"/>
-    <tag k="service:vehicle:rollback_tow_truck" v="yes"/>
-    <tag k="service:vehicle:salvage_yard_towing" v="yes"/>
-    <tag k="service:vehicle:slingshot_towing" v="yes"/>
-    <tag k="service:vehicle:spare_tire_change" v="yes"/>
-    <tag k="service:vehicle:special_vehicle_towing" v="yes"/>
-    <tag k="service:vehicle:tire_blowout" v="yes"/>
-    <tag k="service:vehicle:tire_change" v="yes"/>
-    <tag k="service:vehicle:tire_repair_shop_towing" v="yes"/>
-    <tag k="service:vehicle:tire_service" v="yes"/>
-    <tag k="service:vehicle:tow_company" v="yes"/>
-    <tag k="service:vehicle:tow_company_near_me" v="yes"/>
-    <tag k="service:vehicle:tow_truck" v="yes"/>
-    <tag k="service:vehicle:tow_truck_near_me" v="yes"/>
-    <tag k="service:vehicle:towing" v="yes"/>
-    <tag k="service:vehicle:towing_company" v="yes"/>
-    <tag k="service:vehicle:towing_service" v="yes"/>
-    <tag k="service:vehicle:towing_service_near_me" v="yes"/>
-    <tag k="service:vehicle:trailer_towing" v="yes"/>
-    <tag k="service:vehicle:truck_towing" v="yes"/>
-    <tag k="service:vehicle:van_towing" v="yes"/>
-    <tag k="service:vehicle:vehicle_lockout" v="yes"/>
-    <tag k="service:vehicle:vehicle_purchasing" v="yes"/>
-    <tag k="service:vehicle:vehicle_recycling" v="yes"/>
-    <tag k="service:vehicle:vehicle_scrapping" v="yes"/>
-    <tag k="service:vehicle:vehicle_wrecking" v="yes"/>
-    <tag k="service:vehicle:we_buy_cars" v="yes"/>
-    <tag k="service:vehicle:winch_out" v="yes"/>
-    <tag k="service:vehicle:winch_service" v="yes"/>
-    <tag k="service:vehicle:wrecker" v="yes"/>
-    <tag k="service:vehicle:wrecking" v="yes"/>
-    <tag k="shop" v="car_repair"/>
   </node>
 
 </osm>
