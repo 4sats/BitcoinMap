@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-18T05:48:39Z"/>
+<meta osm_base="2022-09-19T06:32:43Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -311,44 +311,6 @@
     <tag k="source:addr" v="uir_adr;mvcr:adresa"/>
     <tag k="uir_adr:ADRESA_KOD" v="22390383"/>
     <tag k="website" v="http://jeli-design.cz/"/>
-  </node>
-  <node id="442258115" lat="37.7678512" lon="-122.4223164" version="4" timestamp="2015-01-07T21:13:10Z" changeset="27985314" uid="2555308" user="Jack J Jia">
-    <tag k="addr:city" v="San Francisco"/>
-    <tag k="addr:housenumber" v="302"/>
-    <tag k="addr:postcode" v="94103"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="Valencia Street"/>
-    <tag k="name" v="Skunk Funk"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="(415) 829-3298"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="http://shopskunkfunk.com"/>
-  </node>
-  <node id="445206218" lat="-37.7972600" lon="144.9788440" version="9" timestamp="2019-03-27T08:13:35Z" changeset="68576573" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Fitzroy"/>
-    <tag k="addr:housenumber" v="330"/>
-    <tag k="addr:postcode" v="3065"/>
-    <tag k="addr:street" v="Brunswick Street"/>
-    <tag k="name" v="Polyester Books"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+61394195223"/>
-    <tag k="shop" v="books"/>
-    <tag k="website" v="https://polyester.com.au/"/>
-  </node>
-  <node id="445409811" lat="51.4761828" lon="-0.0225177" version="5" timestamp="2021-09-23T14:37:44Z" changeset="111597641" uid="8404568" user="crack_squirrels">
-    <tag k="addr:city" v="London"/>
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:postcode" v="SE8 4RZ"/>
-    <tag k="addr:street" v="Deptford Church Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="fhrs:id" v="937530"/>
-    <tag k="fhrs:local_authority_id" v="PI/000201010"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="name" v="The Birds Nest"/>
-    <tag k="opening_hours" v="Mo 00:00-03:00,10:00-23:00; Tu-Th 10:00-23:00; Fr 11:00-24:00; Sa,Su 00:00-03:00,11:00-24:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="447564211" lat="52.3655461" lon="4.8917775" version="4" timestamp="2014-03-18T21:32:05Z" changeset="21182528" uid="1974371" user="florisje_BAG">
     <tag k="addr:city" v="Amsterdam"/>
@@ -47267,17 +47229,15 @@
     <tag k="shop" v="books"/>
     <tag k="website" v="http://greenapplebooks.com"/>
   </node>
-  <node id="3277693469" lat="37.7760156" lon="-122.4233024" version="2" timestamp="2015-12-02T22:15:20Z" changeset="35716397" uid="564585" user="wegavision">
+  <node id="3277693469" lat="37.7760156" lon="-122.4233020" version="3" timestamp="2022-09-19T00:56:07Z" changeset="126349268" uid="15537949" user="pootriarch">
     <tag k="addr:city" v="San Francisco"/>
     <tag k="addr:housenumber" v="330"/>
     <tag k="addr:postcode" v="94102"/>
     <tag k="addr:state" v="CA"/>
     <tag k="addr:street" v="Fell Street"/>
-    <tag k="name" v="Seasons Productions"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="(415) 992-7153"/>
-    <tag k="website" v="http://seasonsproductions.com"/>
   </node>
   <node id="3277714389" lat="38.7303934" lon="-120.8052769" version="2" timestamp="2019-02-22T08:49:00Z" changeset="67457655" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Placerville"/>
@@ -77933,14 +77893,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://tumult.com/"/>
   </node>
-  <node id="9694378842" lat="50.5478807" lon="3.7442028" version="1" timestamp="2022-04-26T06:51:49Z" changeset="120196068" uid="15703529" user="Valerian lebgdelastreetzer">
-    <tag k="amenity" v="vending_machine"/>
-    <tag k="currency:HUF" v="yes"/>
-    <tag k="operator" v="Dieu"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="ref" v="667"/>
-    <tag k="vending" v="condoms"/>
-  </node>
   <node id="9702942926" lat="-20.9459213" lon="-44.9202867" version="1" timestamp="2022-04-29T12:55:51Z" changeset="120347707" uid="3733993" user="Aleksandar1994">
     <tag k="addr:city" v="santo antônio do amparo"/>
     <tag k="addr:housenumber" v="55"/>
@@ -79075,34 +79027,6 @@
     <tag k="payment:visa_debit" v="yes"/>
     <tag k="phone" v="+48797090530"/>
     <tag k="website" v="losgorditos.pl"/>
-  </node>
-  <node id="10031849195" lat="-8.6904321" lon="115.1724154" version="1" timestamp="2022-09-17T15:38:16Z" changeset="126303775" uid="17157401" user="visabyflado">
-    <tag k="addr:city" v="Seminyak, Kuta, Kabupaten Badung, Bali, Indonesia"/>
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:postcode" v="80361"/>
-    <tag k="addr:street" v="Sunset Road"/>
-    <tag k="email" v="visa@flado.id"/>
-    <tag k="image" v="https://flado.id/wp-content/uploads/2021/04/flado-office-work-1.jpg"/>
-    <tag k="name" v="Visa Agency by Flado Indonesia"/>
-    <tag k="opening_hours" v="Mo-Fr 08:00-17:00"/>
-    <tag k="operator" v="PT Flado Indonesia Utama"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:electronic_purses" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:visa_debit" v="yes"/>
-    <tag k="payment:visa_electron" v="yes"/>
-    <tag k="phone" v="+6281239134485"/>
-    <tag k="ref:vatin" v="412216079905000"/>
-    <tag k="shop" v="travel_agency"/>
-    <tag k="website" v="https://flado.id"/>
   </node>
 
 </osm>
