@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-19T06:32:43Z"/>
+<meta osm_base="2022-09-20T06:15:23Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -2359,7 +2359,7 @@
     <tag k="source:name" v="survey"/>
     <tag k="survey:date" v="2013-10-04"/>
   </node>
-  <node id="1529563174" lat="45.8886103" lon="11.0353744" version="6" timestamp="2017-05-13T23:24:31Z" changeset="48661799" uid="4533749" user="inbitcoin">
+  <node id="1529563174" lat="45.8886103" lon="11.0353744" version="7" timestamp="2022-09-19T16:07:54Z" changeset="126376724" uid="14093483" user="Yaaaaaaaa">
     <tag k="brand" v="Aprilia;Peugeot"/>
     <tag k="clothes" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
@@ -2369,7 +2369,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
     <tag k="repair" v="yes"/>
-    <tag k="sale" v="yes"/>
     <tag k="shop" v="motorcycle"/>
   </node>
   <node id="1532795016" lat="51.0546979" lon="3.7215679" version="7" timestamp="2019-06-10T08:55:56Z" changeset="71093500" uid="9374269" user="A127">
@@ -10311,19 +10310,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://thetaxman.ca/"/>
   </node>
-  <node id="2549240429" lat="45.4305648" lon="12.3290575" version="7" timestamp="2014-04-13T13:29:04Z" changeset="21664812" uid="1476146" user="Alecs01">
-    <tag k="addr:city" v="Venezia"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="848"/>
-    <tag k="addr:postcode" v="30123"/>
-    <tag k="addr:street" v="Piscina Venier"/>
-    <tag k="description:en" v="Apartment for short term rent"/>
-    <tag k="name" v="Tourist Apartment Accademia Quiet and New"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="tourism" v="apartment"/>
-    <tag k="website" v="http://www.veniceapartmentz.com/en/Accademia/6718"/>
-  </node>
   <node id="2549901059" lat="40.7617721" lon="-111.8856369" version="5" timestamp="2017-07-23T21:43:12Z" changeset="50512083" uid="475877" user="RoadGeek_MD99">
     <tag k="addr:city" v="Salt Lake City"/>
     <tag k="addr:housename" v="The Parlour Movement"/>
@@ -15004,19 +14990,6 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://www.mikefrontend.com"/>
   </node>
-  <node id="2574407851" lat="45.4325477" lon="12.3314286" version="4" timestamp="2022-08-13T11:57:57Z" changeset="124850397" uid="16146608" user="McCio">
-    <tag k="addr:city" v="Venezia"/>
-    <tag k="addr:housenumber" v="2672"/>
-    <tag k="addr:place" v="San Marco"/>
-    <tag k="addr:postcode" v="30124"/>
-    <tag k="addr:street" v="Campo San Maurizio"/>
-    <tag k="description" v="Brand New Apartment for Short term"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="tourism" v="apartment"/>
-    <tag k="website" v="http://www.veniceapartmentz.com/en/Brand-New/7130"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="2574503939" lat="37.3728755" lon="-121.9893830" version="11" timestamp="2021-02-20T00:33:19Z" changeset="99622361" uid="537798" user="impiaaa">
     <tag k="addr:city" v="Sunnyvale"/>
     <tag k="addr:housenumber" v="1296"/>
@@ -16058,11 +16031,11 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+32 51 58 11 22"/>
   </node>
-  <node id="2581641937" lat="52.4028033" lon="7.0350603" version="5" timestamp="2020-06-07T19:36:56Z" changeset="86317908" uid="927112" user="CartoKees">
+  <node id="2581641937" lat="52.4028033" lon="7.0350603" version="6" timestamp="2022-09-19T10:27:34Z" changeset="126365040" uid="3115650" user="Hans Bieshaar">
     <tag k="addr:city" v="Denekamp"/>
     <tag k="addr:country" v="NL"/>
     <tag k="addr:housenumber" v="234A"/>
-    <tag k="addr:postcode" v="7531NM"/>
+    <tag k="addr:postcode" v="7591NM"/>
     <tag k="addr:street" v="Nordhornsestraat"/>
     <tag k="name" v="VitaminBest"/>
     <tag k="operator" v="VitaminBest"/>
@@ -23200,21 +23173,6 @@
     <tag k="name" v="Law Offices of Douglas Lloyd"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.douglloydlaw.com"/>
-  </node>
-  <node id="2655955664" lat="14.5568152" lon="121.0172611" version="6" timestamp="2019-02-04T01:30:38Z" changeset="66890016" uid="1041828" user="GOwin">
-    <tag k="addr:city" v="Makati"/>
-    <tag k="addr:housenumber" v="106"/>
-    <tag k="addr:postcode" v="1229"/>
-    <tag k="addr:street" v="Esteban"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="drink:espresso" v="served"/>
-    <tag k="drink:filter_coffee" v="served"/>
-    <tag k="email" v="hello@yardstickcoffee.com"/>
-    <tag k="microroasting" v="yes"/>
-    <tag k="name" v="Yardstick Coffee"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+632 845 0073;+63 917 723 6079"/>
-    <tag k="website" v="http://yardstickcoffee.com/"/>
   </node>
   <node id="2655969262" lat="40.3909526" lon="-3.7263528" version="2" timestamp="2019-08-10T13:49:43Z" changeset="73220666" uid="170106" user="sanchi">
     <tag k="name" v="Diseño web Joao"/>
@@ -35906,13 +35864,13 @@
     <tag k="website" v="https://www.honingklip.co.za/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2882884613" lat="14.5383298" lon="121.0557787" version="3" timestamp="2019-01-09T13:21:17Z" changeset="66161896" uid="1041828" user="GOwin">
+  <node id="2882884613" lat="14.5383298" lon="121.0557787" version="4" timestamp="2022-09-20T01:38:59Z" changeset="126401031" uid="247075" user="RamonT">
     <tag k="addr:city" v="Taguig"/>
     <tag k="addr:housenumber" v="1632"/>
     <tag k="addr:street" v="Acacia Avenue"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="chicken"/>
-    <tag k="fixme" v="move to location"/>
+    <tag k="fixme" v="restaurant closed"/>
     <tag k="name" v="Wingman - Acacia Estates"/>
     <tag k="note" v="Branch Address: Lower Ground Floor, Casa Real, ACACIA ESTATES TOWN CENTER, Acacia Avenue"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -40413,6 +40371,18 @@
     <tag k="name" v="무지개 열쇠"/>
     <tag k="name:ko" v="무지개 열쇠"/>
     <tag k="payment:bitcoin" v="yes"/>
+  </node>
+  <node id="3010651735" lat="45.4385355" lon="12.3214867" version="3" timestamp="2022-09-19T08:18:04Z" changeset="126359584" uid="17038371" user="bitcoininvenice">
+    <tag k="addr:city" v="Venezia"/>
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:street" v="Via Santa Croce"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger;sandwich"/>
+    <tag k="diet:meat" v="yes"/>
+    <tag k="name" v="Atled Meat Lab"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 041 458 8914"/>
+    <tag k="website" v="atled-meat-lab.business.site"/>
   </node>
   <node id="3011053668" lat="50.4522942" lon="-4.4873626" version="3" timestamp="2019-03-19T14:31:30Z" changeset="68297390" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Liskeard"/>
@@ -51688,16 +51658,6 @@
     <tag k="website" v="http://indaput.cz"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3556481426" lat="60.1694624" lon="24.9443140" version="1" timestamp="2015-05-29T14:49:30Z" changeset="31564650" uid="27895" user="Henu">
-    <tag k="addr:city" v="Helsinki"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="00100"/>
-    <tag k="addr:street" v="Mikonkatu"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="name" v="Time Bar"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.bigtimebar.com/"/>
-  </node>
   <node id="3557719046" lat="1.3257047" lon="103.9320408" version="5" timestamp="2021-11-21T05:24:32Z" changeset="114045359" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Singapore"/>
     <tag k="addr:housenumber" v="214"/>
@@ -55768,7 +55728,7 @@
     <tag k="phone" v="+38345577316"/>
     <tag k="shop" v="car_repair"/>
   </node>
-  <node id="4435192467" lat="42.3341440" lon="-7.8617829" version="5" timestamp="2021-12-26T23:34:06Z" changeset="115403494" uid="8770019" user="kapazao_import">
+  <node id="4435192467" lat="42.3341440" lon="-7.8617829" version="6" timestamp="2022-09-19T10:27:42Z" changeset="126365051" uid="275212" user="jeslop">
     <tag k="addr:city" v="Ourense"/>
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:postcode" v="32005"/>
@@ -55779,7 +55739,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:coins" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
-    <tag k="shop" v="Grow_Shop"/>
+    <tag k="shop" v="cannabis"/>
     <tag k="twitter" v="@grow_shop"/>
     <tag k="website" v="https://semillas-de-marihuana.com"/>
   </node>
@@ -65636,18 +65596,6 @@
     <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
     <tag k="phone" v="+390516493302"/>
   </node>
-  <node id="5951102235" lat="45.4358200" lon="12.3354890" version="2" timestamp="2018-10-03T10:20:07Z" changeset="63154172" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Venezia"/>
-    <tag k="addr:housenumber" v="4548"/>
-    <tag k="addr:postcode" v="38037"/>
-    <tag k="addr:street" v="Calle de San Luca"/>
-    <tag k="description" v="Orologi e occhiali in legno naturale."/>
-    <tag k="description:en" v="Wooden watches and sunglasses - Italian design - 100% natural wood"/>
-    <tag k="email" v="info@cherrytreevenice.com"/>
-    <tag k="name" v="CherryTree Venezia"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="watches"/>
-  </node>
   <node id="5953504088" lat="40.6424569" lon="15.8047721" version="6" timestamp="2021-08-17T20:04:44Z" changeset="109831969" uid="3306614" user="gurciln">
     <tag k="addr:city" v="Potenza"/>
     <tag k="addr:housenumber" v="247"/>
@@ -66654,19 +66602,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
     <tag k="seasonal" v="winter"/>
-  </node>
-  <node id="6119602493" lat="45.4367290" lon="12.3419420" version="1" timestamp="2018-12-05T16:50:27Z" changeset="65210816" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Venezia"/>
-    <tag k="addr:housenumber" v="4864"/>
-    <tag k="addr:postcode" v="30122"/>
-    <tag k="addr:street" v="Calle Ruga Giuffa"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="description" v="Osteria tipica veneziana. Spuntini veneziani a base di pesce, dolci e vini in un locale luminoso con specchi e arredi di legno retrò."/>
-    <tag k="email" v="osteriarugadijaffa@gmail.com"/>
-    <tag k="name" v="Osteria Ruga di Jaffa"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0412411062"/>
-    <tag k="website" v="http://www.osteriarugadijaffa.it"/>
   </node>
   <node id="6123994622" lat="-26.2935521" lon="-48.8152136" version="1" timestamp="2018-12-07T19:49:26Z" changeset="65278075" uid="6494982" user="AnderGroun">
     <tag k="addr:city" v="Joinville"/>
@@ -68290,7 +68225,7 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://www.digitworldsrl.com"/>
   </node>
-  <node id="6503288231" lat="45.4350370" lon="12.3409140" version="3" timestamp="2022-08-13T11:17:22Z" changeset="124849060" uid="16146608" user="McCio">
+  <node id="6503288231" lat="45.4350370" lon="12.3409140" version="5" timestamp="2022-09-19T09:34:41Z" changeset="126362725" uid="17038371" user="bitcoininvenice">
     <tag k="addr:city" v="Venezia"/>
     <tag k="addr:housenumber" v="4318"/>
     <tag k="addr:place" v="Castello"/>
@@ -68299,6 +68234,8 @@
     <tag k="email" v="info@webjewels.it"/>
     <tag k="name" v="Oreficeria Gioielleria Dogale"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bitcoin_lightning" v="yes"/>
+    <tag k="payment:lightningnfc" v="yes"/>
     <tag k="phone" v="+39 0415287549"/>
     <tag k="shop" v="jewelry"/>
     <tag k="website" v="http://www.gioiellivenezia.com"/>
@@ -79027,6 +78964,17 @@
     <tag k="payment:visa_debit" v="yes"/>
     <tag k="phone" v="+48797090530"/>
     <tag k="website" v="losgorditos.pl"/>
+  </node>
+  <node id="10035938701" lat="45.4542033" lon="12.3510493" version="1" timestamp="2022-09-19T08:33:21Z" changeset="126360159" uid="17038371" user="bitcoininvenice">
+    <tag k="addr:city" v="Murano"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="30141"/>
+    <tag k="addr:street" v="Ramo Domenico Gisberti"/>
+    <tag k="name" v="Sunset Yogurt"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 3703689211"/>
+    <tag k="shop" v="jewelry"/>
+    <tag k="website" v="https://sunsetyogurt.com/"/>
   </node>
 
 </osm>
