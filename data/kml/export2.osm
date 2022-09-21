@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-20T06:15:23Z"/>
+<meta osm_base="2022-09-21T06:30:24Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -311,6 +311,19 @@
     <tag k="source:addr" v="uir_adr;mvcr:adresa"/>
     <tag k="uir_adr:ADRESA_KOD" v="22390383"/>
     <tag k="website" v="http://jeli-design.cz/"/>
+  </node>
+  <node id="305737670" lat="48.1356141" lon="11.5839709" version="18" timestamp="2022-09-20T17:12:25Z" changeset="126431748" uid="6296329" user="mep1911">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="email" v="info@vegelangelo.de"/>
+    <tag k="name" v="Vegelangelo"/>
+    <tag k="opening_hours" v="Tu-Th 12:00-14:00, Mo-Sa 18:00+; Su,PH,SH off || &quot;größere Reservierungen auch außerhalb der Öffnungszeiten möglich!&quot;"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+49 89 28806836"/>
+    <tag k="website" v="https://www.vegelangelo.de"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="447564211" lat="52.3655461" lon="4.8917775" version="4" timestamp="2014-03-18T21:32:05Z" changeset="21182528" uid="1974371" user="florisje_BAG">
     <tag k="addr:city" v="Amsterdam"/>
@@ -12644,7 +12657,7 @@
     <tag k="website" v="www.dinarbandung.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2560046107" lat="50.0796596" lon="14.4149572" version="8" timestamp="2022-03-19T16:39:59Z" changeset="118672035" uid="12424494" user="lovelyfurball88">
+  <node id="2560046107" lat="50.0796596" lon="14.4149572" version="9" timestamp="2022-09-20T09:31:32Z" changeset="126413938" uid="15945994" user="Bohuslav Kovalsky">
     <tag k="addr:city" v="Praha"/>
     <tag k="addr:housenumber" v="7"/>
     <tag k="addr:postcode" v="11000"/>
@@ -12655,7 +12668,7 @@
     <tag k="internet_access:fee" v="no"/>
     <tag k="name" v="Bar No.7"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="www.facebook.com/BarNumberSeven"/>
+    <tag k="website" v="https://www.facebook.com/BarNumberSeven"/>
   </node>
   <node id="2560067669" lat="41.8819299" lon="-87.6247089" version="8" timestamp="2019-02-21T16:25:12Z" changeset="67435154" uid="243003" user="skquinn">
     <tag k="addr:city" v="Chicago"/>
@@ -27415,23 +27428,6 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="https://www.jcckitchenwestminster.com/"/>
   </node>
-  <node id="2719578493" lat="39.8775790" lon="-105.0938720" version="3" timestamp="2022-02-22T21:59:47Z" changeset="117745702" uid="12453739" user="00Sterling">
-    <tag k="addr:housenumber" v="9960"/>
-    <tag k="addr:street" v="Wadsworth Parkway"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="brand" v="Rosati's"/>
-    <tag k="brand:wikidata" v="Q65052579"/>
-    <tag k="brand:wikipedia" v="en:Rosati's Authentic Chicago Pizza"/>
-    <tag k="contact:phone" v="(303) 464-7477"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Rosati's"/>
-    <tag k="official_name" v="Rosati's Authentic Chicago Pizza"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="http://rosatisonchurch.com/"/>
-  </node>
   <node id="2719596696" lat="39.9149146" lon="-104.9942833" version="1" timestamp="2014-03-15T18:46:23Z" changeset="21122361" uid="1836471" user="Blobo123">
     <tag k="addr:housenumber" v="12010"/>
     <tag k="addr:street" v="Melody Drive"/>
@@ -34980,15 +34976,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:coins" v="yes"/>
     <tag k="website" v="http://anderson-juhasc.github.io/"/>
-  </node>
-  <node id="2854619091" lat="59.3384035" lon="18.0683080" version="6" timestamp="2015-10-07T09:56:26Z" changeset="34486868" uid="2465942" user="Coindero">
-    <tag k="amenity" v="restaurant"/>
-    <tag k="capacity" v="50"/>
-    <tag k="cuisine" v="regional"/>
-    <tag k="name" v="Babs Kök &amp; Bar"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="website" v="http://babsbar.se"/>
   </node>
   <node id="2854975347" lat="39.6325589" lon="-0.5931103" version="6" timestamp="2019-03-19T11:32:24Z" changeset="68290745" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Liria, Valencia"/>
@@ -50819,16 +50806,6 @@
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="website" v="http://www.taverne-halle.de"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="3477373737" lat="51.9807374" lon="5.9094551" version="2" timestamp="2015-04-25T22:04:23Z" changeset="30486036" uid="2776467" user="fabel31577">
-    <tag k="addr:city" v="Arnhem"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:postcode" v="6811DM"/>
-    <tag k="addr:street" v="Kerkstraat"/>
-    <tag k="name" v="Hemels Pattiserie"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="bakery"/>
-    <tag k="website" v="http://www.hemelslekker.nl/"/>
   </node>
   <node id="3479542394" lat="38.9761863" lon="23.0959305" version="2" timestamp="2015-05-15T19:31:44Z" changeset="31185420" uid="18069" user="Claudius Henrichs">
     <tag k="addr:city" v="Oreoi"/>
@@ -78242,21 +78219,6 @@
     <tag k="phone" v="+919641120243"/>
     <tag k="shop" v="bakery"/>
   </node>
-  <node id="9821661982" lat="18.7822097" lon="98.9942105" version="3" timestamp="2022-08-22T17:09:13Z" changeset="125236998" uid="616774" user="mueschel">
-    <tag k="addr:city" v="เชียงใหม่"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:postcode" v="50100"/>
-    <tag k="addr:street" v="ถนนคชสาร ซอย 5"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="middle_eastern"/>
-    <tag k="name" v="Sababa Hummus Chiang Mai"/>
-    <tag k="opening_hours" v="Mo-Su 11:00-21:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:monero" v="yes"/>
-    <tag k="phone" v="+66809208203"/>
-  </node>
   <node id="9825616629" lat="45.6864289" lon="11.5317241" version="1" timestamp="2022-06-17T14:57:56Z" changeset="122512359" uid="3923196" user="woodstockzambon">
     <tag k="addr:city" v="Sarcedo"/>
     <tag k="addr:housenumber" v="10"/>
@@ -78964,6 +78926,23 @@
     <tag k="payment:visa_debit" v="yes"/>
     <tag k="phone" v="+48797090530"/>
     <tag k="website" v="losgorditos.pl"/>
+  </node>
+  <node id="10028307586" lat="13.6520682" lon="-89.2639155" version="2" timestamp="2022-09-20T17:55:40Z" changeset="126433476" uid="17188811" user="GoodBeans El Salvador Coffee Shop">
+    <tag k="addr:street" v="Blvr. Cuscatlan, Nuevo Cuscatlan,"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:twitter" v="GoodbeansThe"/>
+    <tag k="cuisine" v="coffee"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Specialty coffee shop, home of the 10k sat cup of coffee! &#x0a;100% El Salvador Coffee. Worldwide shipping. Lightning Network bitcoin payments."/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="internet_access:ssid" v="GOODBEANS"/>
+    <tag k="name" v="The Good Beans"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-19:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
   </node>
   <node id="10035938701" lat="45.4542033" lon="12.3510493" version="1" timestamp="2022-09-19T08:33:21Z" changeset="126360159" uid="17038371" user="bitcoininvenice">
     <tag k="addr:city" v="Murano"/>
