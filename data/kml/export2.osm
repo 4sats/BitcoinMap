@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-22T06:14:30Z"/>
+<meta osm_base="2022-09-23T06:11:09Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -29374,16 +29374,20 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="http://northbrookrosatis.com/"/>
   </node>
-  <node id="2728262797" lat="41.5924478" lon="-88.2008236" version="1" timestamp="2014-03-20T06:22:35Z" changeset="21204711" uid="1836471" user="Blobo123">
+  <node id="2728262797" lat="41.5924478" lon="-88.2008236" version="2" timestamp="2022-09-22T11:52:57Z" changeset="126501998" uid="1237170" user="Zol87">
     <tag k="addr:housenumber" v="15925"/>
     <tag k="addr:street" v="S. Route 59"/>
-    <tag k="amenity" v="restaurant"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="Rosati's"/>
+    <tag k="brand:wikidata" v="Q65052579"/>
     <tag k="contact:phone" v="815-254-4500"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Rosati's Pizzeria"/>
+    <tag k="name" v="Rosati's"/>
+    <tag k="official_name" v="Rosati's Authentic Chicago Pizza"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
+    <tag k="takeaway" v="yes"/>
     <tag k="website" v="http://rosatisplainfield.com/"/>
   </node>
   <node id="2728280542" lat="41.9288280" lon="-87.8347984" version="4" timestamp="2022-02-01T00:16:18Z" changeset="116844786" uid="1237170" user="Zol87">
@@ -68123,7 +68127,7 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://www.digitworldsrl.com"/>
   </node>
-  <node id="6503288231" lat="45.4350370" lon="12.3409140" version="5" timestamp="2022-09-19T09:34:41Z" changeset="126362725" uid="17038371" user="bitcoininvenice">
+  <node id="6503288231" lat="45.4350370" lon="12.3409140" version="6" timestamp="2022-09-23T05:52:36Z" changeset="126529843" uid="553286" user="peter_2011">
     <tag k="addr:city" v="Venezia"/>
     <tag k="addr:housenumber" v="4318"/>
     <tag k="addr:place" v="Castello"/>
@@ -68133,7 +68137,7 @@
     <tag k="name" v="Oreficeria Gioielleria Dogale"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:bitcoin_lightning" v="yes"/>
-    <tag k="payment:lightningnfc" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="phone" v="+39 0415287549"/>
     <tag k="shop" v="jewelry"/>
     <tag k="website" v="http://www.gioiellivenezia.com"/>
@@ -78847,6 +78851,41 @@
     <tag k="payment:visa_debit" v="yes"/>
     <tag k="phone" v="+48797090530"/>
     <tag k="website" v="losgorditos.pl"/>
+  </node>
+  <node id="10044603969" lat="38.5673476" lon="-90.4987874" version="1" timestamp="2022-09-22T11:20:45Z" changeset="126500695" uid="17205410" user="Armourlocksmith">
+    <tag k="addr:city" v="Ballwin"/>
+    <tag k="addr:housenumber" v="1300"/>
+    <tag k="addr:postcode" v="63021"/>
+    <tag k="addr:state" v="MO"/>
+    <tag k="addr:street" v="Big Bend road"/>
+    <tag k="description" v="Armor Locksmith is a certified locksmith service provider, a 24/7 choice for service in St. Louis, MO for affordable and prompt security solutions! Since we began offering service in St Louis where we have always excelled in surpassing the basic industry"/>
+    <tag k="email" v="armourlocksmithstl@gmail.com"/>
+    <tag k="name" v="Armour Locksmith"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:diners_club_international" v="yes"/>
+    <tag k="payment:discover" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="3145300568"/>
+    <tag k="shop" v="locksmith"/>
+    <tag k="website" v="https://www.armourlocksmith.com/"/>
+  </node>
+  <node id="10045848935" lat="42.6416022" lon="21.1030346" version="2" timestamp="2022-09-22T20:44:48Z" changeset="126521265" uid="3377021" user="marcknj">
+    <tag k="addr:city" v="Fushë Kosovë"/>
+    <tag k="addr:housenumber" v="137/14"/>
+    <tag k="addr:street" v="Dardania"/>
+    <tag k="name" v="MobilShop N13"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-20:00"/>
+    <tag k="operator" v="Besfort Hajdari"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="phone" v="+38349111998"/>
+    <tag k="shop" v="mobile_phone"/>
+    <tag k="website" v="https://www.facebook.com/MobilShop.N13"/>
   </node>
 
 </osm>
