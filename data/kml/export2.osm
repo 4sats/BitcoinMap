@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-23T06:11:09Z"/>
+<meta osm_base="2022-09-24T05:53:22Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -311,169 +311,6 @@
     <tag k="source:addr" v="uir_adr;mvcr:adresa"/>
     <tag k="uir_adr:ADRESA_KOD" v="22390383"/>
     <tag k="website" v="http://jeli-design.cz/"/>
-  </node>
-  <node id="452461938" lat="48.2059194" lon="16.3530613" version="15" timestamp="2019-03-29T14:22:45Z" changeset="68667166" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Wien"/>
-    <tag k="addr:country" v="AT"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:postcode" v="1070"/>
-    <tag k="addr:street" v="Lerchenfelder Straße"/>
-    <tag k="description" v="Stadt-, Sport- &amp; Tourenräder, Fahrradtaschen, Helme, Rucksäcke, Schlösser, Werkstatt"/>
-    <tag k="email" v="wien7@citybiker.at"/>
-    <tag k="name" v="Citybiker"/>
-    <tag k="opening_hours" v="Tu-Fr 11:00-19:00; Sa 09:00-17:00"/>
-    <tag k="operator" v="Citybiker OG"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+43 (1) 5221902"/>
-    <tag k="service:bicycle:Bicycle_Sales_and_Service" v="yes"/>
-    <tag k="service:bicycle:bicycle" v="yes"/>
-    <tag k="service:bicycle:bike" v="yes"/>
-    <tag k="service:bicycle:chain_tool" v="yes"/>
-    <tag k="service:bicycle:cleaning" v="yes"/>
-    <tag k="service:bicycle:clothing" v="yes"/>
-    <tag k="service:bicycle:dealer" v="yes"/>
-    <tag k="service:bicycle:diy" v="yes"/>
-    <tag k="service:bicycle:ebike" v="yes"/>
-    <tag k="service:bicycle:parts" v="yes"/>
-    <tag k="service:bicycle:pump" v="yes"/>
-    <tag k="service:bicycle:repair" v="yes"/>
-    <tag k="service:bicycle:retail" v="yes"/>
-    <tag k="service:bicycle:sales" v="yes"/>
-    <tag k="service:bicycle:service" v="yes"/>
-    <tag k="service:bicycle:tools" v="yes"/>
-    <tag k="shop" v="bicycle"/>
-    <tag k="start_date" v="2006"/>
-    <tag k="website" v="https://citybiker.at/"/>
-  </node>
-  <node id="454929330" lat="37.5555738" lon="-122.3180960" version="2" timestamp="2015-01-08T21:37:46Z" changeset="28007604" uid="2555308" user="Jack J Jia">
-    <tag k="addr:city" v="San Mateo"/>
-    <tag k="addr:housenumber" v="1212"/>
-    <tag k="addr:postcode" v="94402"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="S El Camino Real"/>
-    <tag k="name" v="Cyclepath"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="(650) 341-0922"/>
-    <tag k="shop" v="bicycle"/>
-    <tag k="website" v="http://cyclepathsm.com"/>
-  </node>
-  <node id="460979230" lat="51.4513203" lon="7.4019835" version="10" timestamp="2018-02-24T09:06:00Z" changeset="56631053" uid="524500" user="wheelmap_android">
-    <tag k="addr:city" v="Witten"/>
-    <tag k="addr:country" v="DE"/>
-    <tag k="addr:housenumber" v="106"/>
-    <tag k="addr:postcode" v="58454"/>
-    <tag k="addr:street" v="Kreisstraße"/>
-    <tag k="addr:suburb" v="Rüdinghausen"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="contact:phone" v="+49 2302 9888776"/>
-    <tag k="contact:yelp" v="pino-pizzeria-witten"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:XBR" v="yes"/>
-    <tag k="currency:others" v="no"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="indoor" v="yes"/>
-    <tag k="level" v="0"/>
-    <tag k="name" v="Pino Pizzeria"/>
-    <tag k="name:language" v="it"/>
-    <tag k="opening_hours" v="Mo-Th 11:30-22:00; Su 12:00-21:30; Fr-Sa off"/>
-    <tag k="operator" v="Hasan Korkmaz"/>
-    <tag k="operator:type" v="private"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:girocard" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="462204266" lat="-36.8599089" lon="174.7531083" version="14" timestamp="2021-02-24T03:35:41Z" changeset="99862876" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="addr:city" v="Auckland"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="Newton Road"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="name" v="The Dog's Bollix"/>
-    <tag k="note" v="Accepts BTC for Beer/Food, Lamassu ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+64 9 378 1845"/>
-    <tag k="website" v="https://www.facebook.com/pages/The-Dogs-Bollix/335625706564286"/>
-  </node>
-  <node id="470731239" lat="35.2743463" lon="-80.8215111" version="5" timestamp="2020-11-21T05:49:39Z" changeset="94532261" uid="10820890" user="Osmosefixer2021">
-    <tag k="addr:city" v="Charlotte"/>
-    <tag k="addr:country" v="US"/>
-    <tag k="addr:housenumber" v="2200"/>
-    <tag k="addr:postcode" v="28206"/>
-    <tag k="addr:state" v="NC"/>
-    <tag k="addr:street" v="Interstate North Dr"/>
-    <tag k="name" v="iTek Graphics"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="704-357-6002"/>
-    <tag k="website" v="http://www.itekgraphics.com"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="472344178" lat="60.1616623" lon="22.7288789" version="5" timestamp="2019-03-26T19:27:34Z" changeset="68560509" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Kemiö"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:postcode" v="25700"/>
-    <tag k="addr:street" v="Arkadiantie"/>
-    <tag k="contact:phone" v="+35824206500"/>
-    <tag k="name" v="K-Market Rosmarin"/>
-    <tag k="opening_hours" v="Mo-Fr 07:00-21:00; Sa 07:00-18:00; Su 12:00-18:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="convenience"/>
-    <tag k="website" v="https://www.k-market.fi/kaupat/rosmarin/"/>
-  </node>
-  <node id="474342771" lat="51.0435443" lon="3.7253747" version="6" timestamp="2021-08-09T10:17:57Z" changeset="109395244" uid="13105061" user="Foxie Boi">
-    <tag k="amenity" v="bar"/>
-    <tag k="name" v="Pi-nuts"/>
-    <tag k="opening_hours" v="Mo-Th 16:00-24:00+"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="wifi" v="no"/>
-  </node>
-  <node id="477206722" lat="52.0717185" lon="-1.2759528" version="5" timestamp="2019-03-06T13:18:27Z" changeset="67843703" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Middleton Cheney"/>
-    <tag k="addr:housenumber" v="133"/>
-    <tag k="addr:postcode" v="OX17 2PP"/>
-    <tag k="addr:street" v="Main Road"/>
-    <tag k="amenity" v="veterinary"/>
-    <tag k="name" v="Mansion Hill Veterinary Practice"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+44 1295712110"/>
-    <tag k="website" v="https://www.mansionhillvets.co.uk/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="500004622" lat="46.5013603" lon="11.3574364" version="12" timestamp="2020-09-23T12:40:16Z" changeset="91367909" uid="1462614" user="_Andrea_">
-    <tag k="addr:city" v="Bolzano - Bozen"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:postcode" v="39100"/>
-    <tag k="addr:street" v="Via Andreas Hofer - Andreas-Hofer-Straße"/>
-    <tag k="addr:street:de" v="Andreas-Hofer-Straße"/>
-    <tag k="addr:street:it" v="Via Andreas Hofer"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="diet:vegan" v="no"/>
-    <tag k="diet:vegetarian" v="yes"/>
-    <tag k="email" v="info@batzen.it"/>
-    <tag k="fax" v="+39 0471 050951"/>
-    <tag k="microbrewery" v="yes"/>
-    <tag k="name" v="Batzenhäusl"/>
-    <tag k="opening_hours" v="Mo-Su 11:00-01:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
-    <tag k="phone" v="+39 0471 050950"/>
-    <tag k="website" v="https://www.batzen.it/"/>
-    <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q14540724"/>
-  </node>
-  <node id="534454296" lat="30.2967459" lon="-97.7416594" version="4" timestamp="2021-07-24T16:00:05Z" changeset="108537923" uid="4744872" user="Itserpol">
-    <tag k="addr:housenumber" v="3009"/>
-    <tag k="addr:street" v="Guadalupe Street"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="+1-512-474-2575"/>
-    <tag k="cuisine" v="thai"/>
-    <tag k="name" v="Thai Kitchen"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://thaikitchentx.com/"/>
   </node>
   <node id="559854617" lat="53.3436522" lon="-6.2642940" version="8" timestamp="2016-12-12T12:12:58Z" changeset="44340706" uid="4958196" user="Sadhbh O'Mahony">
     <tag k="addr:city" v="Dublin"/>
@@ -10540,13 +10377,15 @@
     <tag k="source" v="UM Kielce"/>
     <tag k="website" v="http://www.profident.pl/"/>
   </node>
-  <node id="2550836494" lat="53.5645119" lon="9.9220979" version="3" timestamp="2019-03-31T15:03:01Z" changeset="68726863" uid="9451067" user="b-jazz-bot">
+  <node id="2550836494" lat="53.5645119" lon="9.9220979" version="4" timestamp="2022-09-23T18:30:51Z" changeset="126559568" uid="10114379" user="JannikK">
     <tag k="addr:city" v="Hamburg"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="22761"/>
     <tag k="addr:street" v="Beerenweg"/>
     <tag k="level" v="0"/>
-    <tag k="name" v="DATARECOVERY Hamburg"/>
+    <tag k="name" v="DATA REVERSE Hamburg"/>
+    <tag k="old_name" v="DATARECOVERY"/>
+    <tag k="opening_hours" v="Mo,We 10:30-16:00; Th 10:30-16:00; Fr 10:30-16:00; Sa-Su &quot;Nach telefonischer Vereinbarung&quot;"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://www.datarecovery-datenrettung.de/hamburg/"/>
@@ -28438,15 +28277,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="401-354-7544"/>
     <tag k="website" v="https://www.snecsllc.com/"/>
-  </node>
-  <node id="2725439539" lat="54.1887574" lon="-4.5705148" version="5" timestamp="2022-07-30T21:37:49Z" changeset="124283562" uid="38588" user="mentor">
-    <tag k="addr:city" v="Douglas"/>
-    <tag k="addr:housename" v="Uplands"/>
-    <tag k="addr:postcode" v="IM4 2DN"/>
-    <tag k="addr:street" v="Ballavitchel Road"/>
-    <tag k="name" v="Logs For Sale"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="yes"/>
   </node>
   <node id="2725536893" lat="41.8333860" lon="-71.4732703" version="3" timestamp="2019-04-02T04:59:49Z" changeset="68777132" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Johnston"/>
@@ -77465,7 +77295,7 @@
     <tag k="payment:visa_debit" v="yes"/>
     <tag k="shop" v="supermarket"/>
   </node>
-  <node id="9582167489" lat="49.2641408" lon="-123.1569870" version="7" timestamp="2022-09-07T00:08:16Z" changeset="125878740" uid="1836965" user="Liongrass">
+  <node id="9582167489" lat="49.2641408" lon="-123.1569870" version="8" timestamp="2022-09-23T18:45:38Z" changeset="126560010" uid="503610" user="asoltys">
     <tag k="addr:city" v="Vancouver"/>
     <tag k="addr:housenumber" v="2287"/>
     <tag k="addr:postcode" v="V6K 2E4"/>
@@ -77474,6 +77304,7 @@
     <tag k="air_conditioning" v="no"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="bar" v="yes"/>
+    <tag k="coinos" v="true"/>
     <tag k="cuisine" v="mexican;tex-mex;tacos;spanish;burrito"/>
     <tag k="diet:meat" v="yes"/>
     <tag k="diet:vegetarian" v="yes"/>
