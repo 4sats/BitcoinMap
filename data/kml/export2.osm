@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-24T05:53:22Z"/>
+<meta osm_base="2022-09-25T05:47:26Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -12751,18 +12751,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://sprayable.co/"/>
   </node>
-  <node id="2562494428" lat="52.3388766" lon="-0.6535630" version="5" timestamp="2020-01-10T20:14:51Z" changeset="79433870" uid="1418967" user="RAC_UK">
-    <tag k="addr:city" v="Wellingborough"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:postcode" v="NN9 5JN"/>
-    <tag k="addr:street" v="High Street"/>
-    <tag k="addr:village" v="Finedon"/>
-    <tag k="name" v="Harrowden Books"/>
-    <tag k="note" v="Traditional bookshop selling mainly used books. Specializing in art, history, military, crime, sherlock holmes, transport, aviation. Payments in bitcoins accepted over the counter or internet."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="books"/>
-  </node>
   <node id="2562495656" lat="13.0336562" lon="80.2505994" version="1" timestamp="2013-12-03T07:22:24Z" changeset="19246471" uid="1651798" user="oldenburg69">
     <tag k="addr:city" v="chennai"/>
     <tag k="addr:housenumber" v="1"/>
@@ -20994,7 +20982,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+36 30 595 4548"/>
   </node>
-  <node id="2630584155" lat="48.8661080" lon="2.3480098" version="4" timestamp="2022-09-09T11:55:08Z" changeset="125978875" uid="95113" user="nono2357">
+  <node id="2630584155" lat="48.8661080" lon="2.3480098" version="5" timestamp="2022-09-24T18:02:43Z" changeset="126592849" uid="95113" user="nono2357">
     <tag k="addr:city" v="Paris"/>
     <tag k="addr:country" v="FR"/>
     <tag k="addr:housenumber" v="43"/>
@@ -21008,6 +20996,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+33 7 50 91 73 38"/>
     <tag k="website" v="https://www.facebook.com/pages/Sofs-Bar/186530834694794"/>
     <tag k="wheelchair" v="no"/>
@@ -21035,7 +21024,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="www.crespocenter.com"/>
   </node>
-  <node id="2630710760" lat="53.5124788" lon="-113.3293362" version="2" timestamp="2018-02-09T15:44:47Z" changeset="56219852" uid="5633991" user="Matthew Darwin">
+  <node id="2630710760" lat="53.5125173" lon="-113.3293237" version="3" timestamp="2022-09-25T01:06:20Z" changeset="126600372" uid="16755483" user="Airfall">
     <tag k="addr:city" v="Sherwood Park"/>
     <tag k="addr:housename" v="Aaron Buys Gold"/>
     <tag k="addr:housenumber" v="947"/>
@@ -21044,6 +21033,7 @@
     <tag k="name" v="Aaron Buys Gold Ltd Bitcoin Exchange &amp; Precious Metals"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-780-628-6895"/>
+    <tag k="shop" v="pawnbroker"/>
     <tag k="website" v="http://www.aaronbuysgold.com"/>
   </node>
   <node id="2630781028" lat="52.3714365" lon="4.8852390" version="5" timestamp="2020-06-13T11:31:34Z" changeset="86597011" uid="927112" user="CartoKees">
@@ -29658,7 +29648,7 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://chinainnop.com/"/>
   </node>
-  <node id="2732401769" lat="38.9243697" lon="-94.6874655" version="1" timestamp="2014-03-21T20:41:56Z" changeset="21233966" uid="1836471" user="Blobo123">
+  <node id="2732401769" lat="38.9251501" lon="-94.6874226" version="2" timestamp="2022-09-24T23:16:46Z" changeset="126599372" uid="2518150" user="AKLAB">
     <tag k="addr:housenumber" v="11176"/>
     <tag k="addr:street" v="Antioch Road"/>
     <tag k="amenity" v="restaurant"/>
@@ -47932,7 +47922,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.esdenera.com/"/>
   </node>
-  <node id="3323685961" lat="51.0682256" lon="13.7534462" version="6" timestamp="2019-05-02T08:15:58Z" changeset="69793485" uid="9575446" user="Ajarn2515">
+  <node id="3323685961" lat="51.0682256" lon="13.7534462" version="7" timestamp="2022-09-24T14:08:40Z" changeset="126583216" uid="6818744" user="philipp-rupert">
     <tag k="addr:city" v="Dresden"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="70"/>
@@ -47950,6 +47940,7 @@
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="shop" v="art"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="3325132914" lat="-1.8292911" lon="99.2568908" version="5" timestamp="2017-10-31T18:57:17Z" changeset="53404646" uid="5164" user="woodpeck">
     <tag k="addr:country" v="ID"/>
@@ -50092,7 +50083,7 @@
     <tag k="phone" v="+385 99 5629759"/>
     <tag k="website" v="http://insto.hr/"/>
   </node>
-  <node id="3435894736" lat="36.1445505" lon="-5.3526809" version="9" timestamp="2022-09-01T17:37:25Z" changeset="125665860" uid="16995327" user="CasaHendrix">
+  <node id="3435894736" lat="36.1445505" lon="-5.3526809" version="10" timestamp="2022-09-24T22:06:30Z" changeset="126598373" uid="16998970" user="CoinCornerMSW">
     <tag k="addr:street" v="Casemates Square"/>
     <tag k="amenity" v="cafe"/>
     <tag k="brand" v="Costa"/>
@@ -50108,6 +50099,7 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+350 200 43461"/>
     <tag k="takeaway" v="yes"/>
@@ -55052,8 +55044,8 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="http://www.drakiana.com/"/>
   </node>
-  <node id="4291481689" lat="45.3765452" lon="10.9197289" version="2" timestamp="2016-07-09T05:08:12Z" changeset="40605456" uid="28559" user="Stemby">
-    <tag k="addr:city" v="Villafranca di Verona"/>
+  <node id="4291481689" lat="45.3765452" lon="10.9197289" version="3" timestamp="2022-09-24T12:12:00Z" changeset="126579388" uid="852319" user="vrmap">
+    <tag k="addr:city" v="Alpo"/>
     <tag k="addr:postcode" v="37062"/>
     <tag k="addr:street" v="Via Luigi Bassani"/>
     <tag k="amenity" v="pub"/>
@@ -69469,22 +69461,6 @@
     <tag k="shop" v="wholesale"/>
     <tag k="website" v="https://tasisatimen.com"/>
   </node>
-  <node id="6934788339" lat="54.1499994" lon="-4.4804703" version="3" timestamp="2021-04-12T18:28:02Z" changeset="102821983" uid="6802608" user="Simon-v">
-    <tag k="addr:city" v="Douglas"/>
-    <tag k="addr:housenumber" v="Level 6, Victory House"/>
-    <tag k="addr:postcode" v="IM1 1EQ"/>
-    <tag k="addr:street" v="Prospect Hill"/>
-    <tag k="clothes" v="socks;Bitcoin-themed;unisexs"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="MtSocks is an online shop selling limited edition Bitcoin-themed socks. Shop for individual pairs of fun, eye-catching socks and 1-year Sockscriptions. Pay with Bitcoin only."/>
-    <tag k="email" v="help@mtsocks.com"/>
-    <tag k="name" v="MtSocks - Selling Bitcoin Socks"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="CoinCorner"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="https://www.mtsocks.com/"/>
-  </node>
   <node id="6939474534" lat="9.0035740" lon="-79.5203430" version="2" timestamp="2019-11-03T16:04:29Z" changeset="76555373" uid="616774" user="mueschel">
     <tag k="addr:city" v="Panamá"/>
     <tag k="addr:street" v="Avenida Fernández de Córdoba"/>
@@ -76104,13 +76080,13 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9158342617" lat="32.3522814" lon="-111.0463983" version="2" timestamp="2021-10-10T02:54:45Z" changeset="112319678" uid="238419" user="HubMiner">
+  <node id="9158342617" lat="32.3523216" lon="-111.0463611" version="3" timestamp="2022-09-25T04:14:22Z" changeset="126602056" uid="9941767" user="BubbaJuice">
     <tag k="addr:city" v="Tucson"/>
     <tag k="addr:housenumber" v="3780"/>
     <tag k="addr:postcode" v="85741"/>
     <tag k="addr:state" v="AZ"/>
     <tag k="addr:street" v="West Magee Road"/>
-    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="amenity" v="atm"/>
     <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
     <tag k="currency:LTC" v="yes"/>
@@ -77011,7 +76987,7 @@
     <tag k="tourism" v="camp_site"/>
     <tag k="website" v="https://www.swanlake.camp/"/>
   </node>
-  <node id="9458410453" lat="36.1410184" lon="-5.3536029" version="2" timestamp="2022-09-02T11:18:28Z" changeset="125694097" uid="16995327" user="CasaHendrix">
+  <node id="9458410453" lat="36.1410184" lon="-5.3536029" version="3" timestamp="2022-09-24T22:04:27Z" changeset="126598337" uid="16998970" user="CoinCornerMSW">
     <tag k="addr:city" v="Gibraltar"/>
     <tag k="addr:housenumber" v="154"/>
     <tag k="addr:postcode" v="GX11 1AA"/>
@@ -77024,11 +77000,12 @@
     <tag k="opening_hours" v="Mo-Sa 10:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+350 200 43461"/>
     <tag k="shop" v="confectionery"/>
   </node>
-  <node id="9458410455" lat="36.1444794" lon="-5.3532838" version="3" timestamp="2022-09-02T11:15:02Z" changeset="125693947" uid="16995327" user="CasaHendrix">
+  <node id="9458410455" lat="36.1444794" lon="-5.3532838" version="4" timestamp="2022-09-24T22:05:59Z" changeset="126598361" uid="16998970" user="CoinCornerMSW">
     <tag k="addr:city" v="Gibraltar"/>
     <tag k="addr:housenumber" v="Unit G10"/>
     <tag k="addr:postcode" v="GX11 1AA"/>
@@ -77040,6 +77017,7 @@
     <tag k="opening_hours" v="Mo-Fr 08:30-17:00; Sa-Su 09:30-15:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+35020043461"/>
     <tag k="shop" v="bakery"/>
