@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-26T06:18:22Z"/>
+<meta osm_base="2022-09-27T06:12:53Z"/>
 
   <node id="25954111" lat="-32.7187665" lon="152.1500970" version="5" timestamp="2014-10-03T17:13:18Z" changeset="25836357" uid="92274" user="adjuva">
     <tag k="addr:city" v="Nelson Bay"/>
@@ -46017,16 +46017,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://hardwrk.com/"/>
   </node>
-  <node id="3242815461" lat="52.3633011" lon="9.7197648" version="4" timestamp="2019-03-10T13:19:11Z" changeset="67988320" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Hannover"/>
-    <tag k="addr:housenumber" v="126"/>
-    <tag k="addr:postcode" v="30449"/>
-    <tag k="addr:street" v="Ricklinger Straße"/>
-    <tag k="name" v="Bureau Hardy Seiler"/>
-    <tag k="office" v="design_agency"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://hardyseiler.de/"/>
-  </node>
   <node id="3243081861" lat="32.8469852" lon="-96.7705130" version="4" timestamp="2018-05-10T04:59:57Z" changeset="58837681" uid="5359" user="user_5359">
     <tag k="addr:city" v="Dallas"/>
     <tag k="addr:housenumber" v="4925"/>
@@ -67890,21 +67880,6 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://www.digitworldsrl.com"/>
   </node>
-  <node id="6503288231" lat="45.4350370" lon="12.3409140" version="6" timestamp="2022-09-23T05:52:36Z" changeset="126529843" uid="553286" user="peter_2011">
-    <tag k="addr:city" v="Venezia"/>
-    <tag k="addr:housenumber" v="4318"/>
-    <tag k="addr:place" v="Castello"/>
-    <tag k="addr:postcode" v="30122"/>
-    <tag k="description" v="Negozio laboratorio di produzione gioielli in oro e pietre preziose: moretti ed altri gioielli esclusivi personalizzati realizzati a mano, teschi vanitas, corniole incise, gioielli con opali e molto altro."/>
-    <tag k="email" v="info@webjewels.it"/>
-    <tag k="name" v="Oreficeria Gioielleria Dogale"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin_lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="phone" v="+39 0415287549"/>
-    <tag k="shop" v="jewelry"/>
-    <tag k="website" v="http://www.gioiellivenezia.com"/>
-  </node>
   <node id="6515400293" lat="37.3091510" lon="13.6593031" version="3" timestamp="2019-06-09T08:55:40Z" changeset="71066226" uid="7134350" user="BlueWolf2K16">
     <tag k="addr:city" v="Favara"/>
     <tag k="addr:housenumber" v="190"/>
@@ -77214,7 +77189,7 @@
     <tag k="payment:visa_debit" v="yes"/>
     <tag k="shop" v="supermarket"/>
   </node>
-  <node id="9582167489" lat="49.2641408" lon="-123.1569870" version="8" timestamp="2022-09-23T18:45:38Z" changeset="126560010" uid="503610" user="asoltys">
+  <node id="9582167489" lat="49.2641408" lon="-123.1569870" version="9" timestamp="2022-09-26T21:30:08Z" changeset="126672747" uid="503610" user="asoltys">
     <tag k="addr:city" v="Vancouver"/>
     <tag k="addr:housenumber" v="2287"/>
     <tag k="addr:postcode" v="V6K 2E4"/>
@@ -77223,13 +77198,13 @@
     <tag k="air_conditioning" v="no"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="bar" v="yes"/>
-    <tag k="coinos" v="true"/>
     <tag k="cuisine" v="mexican;tex-mex;tacos;spanish;burrito"/>
     <tag k="diet:meat" v="yes"/>
     <tag k="diet:vegetarian" v="yes"/>
     <tag k="name" v="Tacos Jorge at Glitch Bar"/>
     <tag k="opening_hours" v="Mo-Th 15:00-01:00; Fr-Sa 15:00-02:00; Su 15:00-00:00; Mo-Su 11:00-23:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+1 778-751-0767;+1 778 751 9767"/>
     <tag k="website" v="https://www.tacosjorge.com"/>
@@ -78636,6 +78611,19 @@
     <tag k="phone" v="+38349111998"/>
     <tag k="shop" v="mobile_phone"/>
     <tag k="website" v="https://www.facebook.com/MobilShop.N13"/>
+  </node>
+  <node id="10049617008" lat="54.1518742" lon="-4.4785836" version="2" timestamp="2022-09-26T15:40:50Z" changeset="126661928" uid="16990757" user="Bitcoinshire">
+    <tag k="currency:GBP" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Adults and kids gaming parties, or just pop in for a play. Latest Xbox X &amp; PS4 games"/>
+    <tag k="leisure" v="amusement_arcade"/>
+    <tag k="name" v="Games Central"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightningnfc" v="yes"/>
+    <tag k="phone" v="+441624 674824"/>
+    <tag k="survey:date" v="2022-09-26"/>
+    <tag k="website" v="https://www.facebook.com/gamescentraliom/"/>
   </node>
 
 </osm>
