@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-09-29T06:31:23Z"/>
+<meta osm_base="2022-09-30T06:30:12Z"/>
 
   <node id="32928873" lat="60.4456888" lon="22.2817727" version="12" timestamp="2020-03-17T13:58:07Z" changeset="82305432" uid="5441080" user="tesp">
     <tag k="addr:city" v="Turku"/>
@@ -35138,13 +35138,14 @@
     <tag k="smoking" v="no"/>
     <tag k="website" v="https://www.thcservers.com/"/>
   </node>
-  <node id="2872848040" lat="45.8777433" lon="10.8908442" version="3" timestamp="2021-02-11T20:05:49Z" changeset="99132185" uid="4533749" user="inbitcoin">
+  <node id="2872848040" lat="45.8777433" lon="10.8908442" version="4" timestamp="2022-09-29T08:04:25Z" changeset="126767219" uid="8609512" user="angsteh">
     <tag k="addr:city" v="Nago-Torbole"/>
     <tag k="addr:housenumber" v="82"/>
     <tag k="addr:postcode" v="38069"/>
     <tag k="addr:street" v="Via San Vigilio"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Margherita Conad"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-12:30,16:00-19:30; Su 08:00-12:30"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
     <tag k="phone" v="+390464506218"/>
@@ -77116,12 +77117,7 @@
     <tag k="payment:visa_debit" v="yes"/>
     <tag k="shop" v="supermarket"/>
   </node>
-  <node id="9582167489" lat="49.2641408" lon="-123.1569870" version="9" timestamp="2022-09-26T21:30:08Z" changeset="126672747" uid="503610" user="asoltys">
-    <tag k="addr:city" v="Vancouver"/>
-    <tag k="addr:housenumber" v="2287"/>
-    <tag k="addr:postcode" v="V6K 2E4"/>
-    <tag k="addr:province" v="BC"/>
-    <tag k="addr:street" v="West Broadway"/>
+  <node id="9582167489" lat="49.2641408" lon="-123.1569870" version="10" timestamp="2022-09-29T21:09:24Z" changeset="126798570" uid="5359" user="user_5359">
     <tag k="air_conditioning" v="no"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="bar" v="yes"/>
@@ -77129,11 +77125,12 @@
     <tag k="diet:meat" v="yes"/>
     <tag k="diet:vegetarian" v="yes"/>
     <tag k="name" v="Tacos Jorge at Glitch Bar"/>
+    <tag k="note" v="payment coinos oder coins (no notes); openinghours last entry overwrte all other!"/>
     <tag k="opening_hours" v="Mo-Th 15:00-01:00; Fr-Sa 15:00-02:00; Su 15:00-00:00; Mo-Su 11:00-23:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:coinos" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+1 778-751-0767;+1 778 751 9767"/>
+    <tag k="phone" v="+1-778-751-0767;+1-778-751-9767"/>
     <tag k="website" v="https://www.tacosjorge.com"/>
   </node>
   <node id="9620350185" lat="62.3001023" lon="25.7094401" version="2" timestamp="2022-03-29T08:41:23Z" changeset="119057475" uid="36166" user="umlaitinen">
