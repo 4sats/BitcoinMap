@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-10-01T06:08:36Z"/>
+<meta osm_base="2022-10-02T05:54:22Z"/>
 
   <node id="32928873" lat="60.4456888" lon="22.2817727" version="12" timestamp="2020-03-17T13:58:07Z" changeset="82305432" uid="5441080" user="tesp">
     <tag k="addr:city" v="Turku"/>
@@ -268,6 +268,19 @@
     <tag k="uir_adr:ADRESA_KOD" v="22390383"/>
     <tag k="website" v="http://jeli-design.cz/"/>
   </node>
+  <node id="552815635" lat="52.4076949" lon="16.9270247" version="8" timestamp="2022-10-01T12:01:45Z" changeset="126857350" uid="17068121" user="MINEflow">
+    <tag k="addr:city" v="Poznań"/>
+    <tag k="addr:city:simc" v="0969400"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="61-738"/>
+    <tag k="addr:street" v="Plac Wolności"/>
+    <tag k="name" v="Pluciński"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-18:00, Sa 10:00-14:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
   <node id="569950096" lat="25.0181253" lon="121.5745838" version="12" timestamp="2019-10-25T14:25:43Z" changeset="76213490" uid="274857" user="Supaplex">
     <tag k="addr:city" v="台北市"/>
     <tag k="addr:country" v="TW"/>
@@ -309,62 +322,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.d-vino.ch/"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="588070859" lat="30.5499212" lon="-97.8533226" version="4" timestamp="2021-01-23T17:27:31Z" changeset="98029322" uid="4744872" user="Itserpol">
-    <tag k="addr:housenumber" v="1906"/>
-    <tag k="addr:street" v="South Bagdad Road"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="+1-512-528-8892"/>
-    <tag k="cuisine" v="chinese"/>
-    <tag k="name" v="Great Wall Express"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://greatwallleander.com/"/>
-  </node>
-  <node id="596045402" lat="32.7105275" lon="-117.1602840" version="3" timestamp="2015-12-02T14:09:39Z" changeset="35706869" uid="318696" user="n76">
-    <tag k="addr:city" v="San Diego"/>
-    <tag k="addr:housenumber" v="500"/>
-    <tag k="addr:postcode" v="92101"/>
-    <tag k="addr:street" v="5th Avenue"/>
-    <tag k="name" v="The Amazing Picture Booth Co."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1 619 438 0806"/>
-    <tag k="source" v="SanGIS Addresses Public Domain (http://www.sangis.org/)"/>
-    <tag k="website" v="http://www.amazingpicturebooth.com/"/>
-  </node>
-  <node id="596070949" lat="32.9499800" lon="-117.2276930" version="4" timestamp="2015-11-16T18:28:11Z" changeset="35358165" uid="318696" user="n76">
-    <tag k="addr:city" v="San Diego"/>
-    <tag k="addr:housename" v="Diego Dev"/>
-    <tag k="addr:housenumber" v="4120"/>
-    <tag k="addr:postcode" v="92130"/>
-    <tag k="addr:street" v="Via Candidiz"/>
-    <tag k="description" v="Providing website development services to small businesses. http://www.diegodev.com"/>
-    <tag k="name" v="DiegoDev Group"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="SanGIS Addresses Public Domain (http://www.sangis.org/)"/>
-  </node>
-  <node id="596101157" lat="33.1967248" lon="-117.3788832" version="8" timestamp="2019-05-20T07:38:04Z" changeset="70429813" uid="1330847" user="TheDutchMan13">
-    <tag k="addr:city" v="Oceanside"/>
-    <tag k="addr:country" v="US"/>
-    <tag k="addr:housename" v="Ares Armor"/>
-    <tag k="addr:housenumber" v="208"/>
-    <tag k="addr:postcode" v="92054"/>
-    <tag k="addr:street" v="North Freeman Street"/>
-    <tag k="name" v="Ares Armor"/>
-    <tag k="note" v="Facebook.com/aresarmor @AresArmor"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="7606502737"/>
-    <tag k="source" v="SanGIS Addresses Public Domain (http://www.sangis.org/)"/>
-    <tag k="website" v="http://aresarmor.com/"/>
-  </node>
-  <node id="596152437" lat="33.1640040" lon="-117.3484390" version="9" timestamp="2020-06-10T20:30:00Z" changeset="86482534" uid="318696" user="n76">
-    <tag k="addr:city" v="Carlsbad"/>
-    <tag k="addr:country" v="US"/>
-    <tag k="addr:housenumber" v="2755"/>
-    <tag k="addr:postcode" v="92008"/>
-    <tag k="addr:street" v="Jefferson Street"/>
-    <tag k="name" v="Heritage Senior Care"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="SanGIS Addresses Public Domain (http://www.sangis.org/)"/>
   </node>
   <node id="596189128" lat="32.7643400" lon="-117.1887090" version="5" timestamp="2020-06-16T22:21:19Z" changeset="86742477" uid="318696" user="n76">
     <tag k="addr:city" v="San Diego"/>
@@ -1756,18 +1713,6 @@
     <tag k="restaurant" v="vegetarian"/>
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="1372898402" lat="52.5177555" lon="13.4581799" version="8" timestamp="2017-02-26T02:26:35Z" changeset="46406724" uid="4179530" user="RoterEmil">
-    <tag k="addr:city" v="Berlin"/>
-    <tag k="addr:country" v="DE"/>
-    <tag k="addr:housenumber" v="93"/>
-    <tag k="addr:postcode" v="10247"/>
-    <tag k="addr:street" v="Rigaer Straße"/>
-    <tag k="addr:suburb" v="Friedrichshain"/>
-    <tag k="contact:website" v="http://www.doyouspace.net/"/>
-    <tag k="name" v="do you space"/>
-    <tag k="office" v="architect"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="1373592781" lat="47.0638844" lon="15.4423345" version="15" timestamp="2016-07-28T22:28:26Z" changeset="41096589" uid="321042" user="species">
     <tag k="addr:city" v="Graz"/>
@@ -27398,7 +27343,7 @@
     <tag k="source:date" v="2014-02-11"/>
     <tag k="website" v="https://www.cargotravelshop.nl/"/>
   </node>
-  <node id="2722835148" lat="51.9838541" lon="5.9170874" version="2" timestamp="2014-11-28T12:43:23Z" changeset="27088873" uid="2084575" user="Coinpluggin">
+  <node id="2722835148" lat="51.9838541" lon="5.9170874" version="3" timestamp="2022-10-01T15:16:53Z" changeset="126863917" uid="908119" user="EstherH">
     <tag k="addr:city" v="Arnhem"/>
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:postcode" v="6828CM"/>
@@ -27408,6 +27353,7 @@
     <tag k="shop" v="copyshop"/>
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-02-11"/>
+    <tag k="website" v="https://www.postmasters.nl/arnhem.html"/>
   </node>
   <node id="2722835244" lat="51.9838967" lon="5.9173176" version="2" timestamp="2014-10-05T08:05:27Z" changeset="25867553" uid="2084575" user="Coinpluggin">
     <tag k="addr:city" v="Arnhem"/>
@@ -32489,16 +32435,6 @@
     <tag k="name" v="Thai Passion - South"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://thaipassionsouth.menufy.com/"/>
-  </node>
-  <node id="2785136790" lat="30.4952762" lon="-97.6540163" version="3" timestamp="2021-01-23T17:27:31Z" changeset="98029322" uid="4744872" user="Itserpol">
-    <tag k="addr:housenumber" v="3720"/>
-    <tag k="addr:street" v="Gattis School Road"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="+1-512-733-2233"/>
-    <tag k="cuisine" v="thai"/>
-    <tag k="name" v="Thai Spoon"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://thaispoonrestaurant.menufy.com/"/>
   </node>
   <node id="2785168695" lat="30.2867283" lon="-97.7449806" version="4" timestamp="2020-12-30T02:06:50Z" changeset="96631810" uid="4744872" user="Itserpol">
     <tag k="addr:city" v="Austin"/>
@@ -61629,16 +61565,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 06 6556143"/>
     <tag k="website" v="https://www.abitaresrlroma.com/"/>
-  </node>
-  <node id="5382312290" lat="13.4947829" lon="-89.4391219" version="3" timestamp="2022-09-11T19:21:02Z" changeset="126062051" uid="2136761" user="flix1">
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:telegram" v="+503 76562723"/>
-    <tag k="cuisine" v="regional"/>
-    <tag k="name" v="Merendero El Teco"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="no"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
   </node>
   <node id="5382320305" lat="13.4952020" lon="-89.4393944" version="2" timestamp="2022-09-11T19:21:02Z" changeset="126062051" uid="2136761" user="flix1">
     <tag k="name" v="Esencia Nativa"/>
