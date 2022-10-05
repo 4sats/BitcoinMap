@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-10-04T05:55:02Z"/>
+<meta osm_base="2022-10-05T05:58:53Z"/>
 
   <node id="32928873" lat="60.4456888" lon="22.2817727" version="12" timestamp="2020-03-17T13:58:07Z" changeset="82305432" uid="5441080" user="tesp">
     <tag k="addr:city" v="Turku"/>
@@ -10150,14 +10150,13 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://www.datarecovery-datenrettung.de/hamburg/"/>
   </node>
-  <node id="2551078435" lat="21.2078927" lon="81.6261837" version="1" timestamp="2013-11-25T17:58:21Z" changeset="19113916" uid="1651798" user="oldenburg69">
+  <node id="2551078435" lat="21.2078927" lon="81.6261837" version="2" timestamp="2022-10-04T09:43:09Z" changeset="126984434" uid="668096" user="jmann6">
     <tag k="addr:city" v="Raipur Chhattisgarh"/>
     <tag k="addr:housename" v="Block B-8, Plot No-3"/>
     <tag k="addr:postcode" v="492013"/>
     <tag k="addr:street" v="Dhebar City Homes"/>
     <tag k="name" v="Dr. Hingora's Homeopathic Clinic"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://drhingora.in/"/>
   </node>
   <node id="2551270907" lat="53.3845194" lon="14.5055757" version="5" timestamp="2018-02-10T15:20:04Z" changeset="56242788" uid="3266826" user="Eastside_999">
     <tag k="name" v="Beverly Hills"/>
@@ -38813,22 +38812,6 @@
     <tag k="name" v="Ryan Miller, CAD Designer and Detailer"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2985958853" lat="50.7244202" lon="-3.5315494" version="8" timestamp="2022-02-06T00:48:56Z" changeset="117064930" uid="83127" user="sec147">
-    <tag k="addr:city" v="Exeter"/>
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:postcode" v="EX4 3RP"/>
-    <tag k="addr:street" v="Queen Street"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="cuisine" v="coffee_shop"/>
-    <tag k="fhrs:id" v="468181"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Devon Coffee"/>
-    <tag k="opening_hours" v="Mo-Sa 08:30-16:30; Su 10:00-16:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+44 7796 678 559"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-    <tag k="website" v="http://devoncoffee.co.uk"/>
-  </node>
   <node id="2986059623" lat="51.2186467" lon="6.7889351" version="3" timestamp="2021-06-05T17:47:38Z" changeset="105892285" uid="9397924" user="Edelsalami">
     <tag k="addr:city" v="Düsseldorf"/>
     <tag k="addr:country" v="DE"/>
@@ -47325,17 +47308,6 @@
     <tag k="tourism" v="hostel"/>
     <tag k="website" v="http://www.wildlubanzi.co.za/"/>
   </node>
-  <node id="3314377338" lat="52.3737044" lon="9.7070637" version="5" timestamp="2021-09-02T09:02:54Z" changeset="110606462" uid="14040016" user="C@rl">
-    <tag k="addr:city" v="Hannover"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:postcode" v="30451"/>
-    <tag k="addr:street" v="Limmerstraße"/>
-    <tag k="check_date:opening_hours" v="2021-09-02"/>
-    <tag k="name" v="Trionauten"/>
-    <tag k="opening_hours" v="Mo-Fr 10:30-19:30; Sa 09:00-16:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="hairdresser"/>
-  </node>
   <node id="3314917472" lat="45.6461443" lon="25.6285575" version="5" timestamp="2021-10-15T11:46:03Z" changeset="112539380" uid="14251691" user="orizont_bv">
     <tag k="addr:city" v="Brașov"/>
     <tag k="addr:housenumber" v="14"/>
@@ -53608,10 +53580,10 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.coiner.fi"/>
   </node>
-  <node id="4036822070" lat="50.0778835" lon="14.4422484" version="4" timestamp="2021-08-08T15:05:11Z" changeset="109348411" uid="163346" user="Jessica Lily">
+  <node id="4036822070" lat="50.0778835" lon="14.4422484" version="5" timestamp="2022-10-04T11:45:51Z" changeset="126983660" uid="8940770" user="pet2001">
     <tag k="contact:email" v="info@gourmetkava.cz"/>
     <tag k="name" v="GOURMETKAVA.CZ (obchod a výdejní místo)"/>
-    <tag k="opening_hours" v="We 09:30-18:30; Th 09:30-18:00; Fr 09:30-17:00; Mo,Tu 09:30-18:00"/>
+    <tag k="opening_hours" v="Mo,Tu,Th 09:30-18:00; We 09:30-18:30; Fr 09:30-17:00"/>
     <tag k="operator" v="GourmetKava s.r.o."/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+420 725 556 179"/>
@@ -73457,7 +73429,7 @@
     <tag k="payment:visa_electron" v="yes"/>
     <tag k="website" v="https://www.instagram.com/over_grill/"/>
   </node>
-  <node id="8761588374" lat="50.4428567" lon="30.4954337" version="11" timestamp="2022-05-26T18:15:46Z" changeset="121539706" uid="94578" user="andygol">
+  <node id="8761588374" lat="50.4428567" lon="30.4954337" version="12" timestamp="2022-10-04T15:34:25Z" changeset="127002189" uid="14309561" user="kmpoppe (@ Mapillary Update)">
     <tag k="addr:housenumber" v="23/126"/>
     <tag k="addr:postcode" v="01032"/>
     <tag k="addr:street" v="Симона Петлюри вулиця"/>
@@ -73485,7 +73457,7 @@
     <tag k="description:ru" v="обмен криптовалюты"/>
     <tag k="description:uk" v="обмін криптовалюти"/>
     <tag k="level" v="1"/>
-    <tag k="mapillary" v="7n5jx0jDBamd6WpHQzqwEE"/>
+    <tag k="mapillary" v="742852316396910"/>
     <tag k="name" v="4Kgroup"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-21:00, Sa-Su 10:00-20:00"/>
     <tag k="operator" v="4Kgroup"/>
@@ -74100,17 +74072,17 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9129966540" lat="32.3759748" lon="-86.3234769" version="1" timestamp="2021-09-28T16:07:11Z" changeset="111826404" uid="9220083" user="Joyalways">
+  <node id="9129966540" lat="32.3759748" lon="-86.3234769" version="2" timestamp="2022-10-04T13:28:31Z" changeset="126996212" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Montgomery"/>
     <tag k="addr:housenumber" v="215"/>
     <tag k="addr:postcode" v="36104"/>
     <tag k="addr:state" v="AL"/>
     <tag k="addr:street" v="Dickerson Street"/>
     <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
     <tag k="currency:LTC" v="yes"/>
     <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
     <tag k="email" v="support@bitcoinofamerica.org"/>
     <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
@@ -74144,17 +74116,17 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9130016554" lat="32.3085007" lon="-86.3887450" version="1" timestamp="2021-09-28T16:30:31Z" changeset="111827529" uid="9220083" user="Joyalways">
+  <node id="9130016554" lat="32.3085007" lon="-86.3887450" version="2" timestamp="2022-10-04T13:29:11Z" changeset="126996248" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Montgomery"/>
     <tag k="addr:housenumber" v="4400"/>
     <tag k="addr:postcode" v="36108"/>
     <tag k="addr:state" v="AL"/>
     <tag k="addr:street" v="Selma Highway"/>
     <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
     <tag k="currency:LTC" v="yes"/>
     <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
     <tag k="email" v="support@bitcoinofamerica.org"/>
     <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
@@ -74255,17 +74227,17 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9132529068" lat="32.3520197" lon="-86.2625101" version="1" timestamp="2021-09-29T15:25:44Z" changeset="111873074" uid="9220083" user="Joyalways">
+  <node id="9132529068" lat="32.3520197" lon="-86.2625101" version="2" timestamp="2022-10-04T13:27:47Z" changeset="126996176" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Montgomery"/>
     <tag k="addr:housenumber" v="3000"/>
     <tag k="addr:postcode" v="36106"/>
     <tag k="addr:state" v="AL"/>
     <tag k="addr:street" v="Vaughn Road"/>
     <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
     <tag k="currency:LTC" v="yes"/>
     <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
     <tag k="email" v="support@bitcoinofamerica.org"/>
     <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
@@ -76210,11 +76182,13 @@
     <tag k="phone" v="+447894438974"/>
     <tag k="website" v="https://cryptolocalatm.com"/>
   </node>
-  <node id="9397651286" lat="52.3605174" lon="9.7146754" version="2" timestamp="2022-01-13T12:37:59Z" changeset="116105194" uid="5462498" user="LutzAdam">
+  <node id="9397651286" lat="52.3605174" lon="9.7146754" version="3" timestamp="2022-10-04T13:26:03Z" changeset="126996092" uid="15587650" user="Throw77">
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Hanomaghof"/>
+    <tag k="check_date:opening_hours" v="2022-10-04"/>
     <tag k="name" v="Neoskop GmbH"/>
     <tag k="office" v="it"/>
+    <tag k="opening_hours:signed" v="no"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="Bing"/>
     <tag k="website" v="https://www.neoskop.de/"/>
