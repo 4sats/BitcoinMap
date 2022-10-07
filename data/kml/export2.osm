@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-10-06T05:51:06Z"/>
+<meta osm_base="2022-10-07T05:47:39Z"/>
 
   <node id="32928873" lat="60.4456888" lon="22.2817727" version="12" timestamp="2020-03-17T13:58:07Z" changeset="82305432" uid="5441080" user="tesp">
     <tag k="addr:city" v="Turku"/>
@@ -2776,7 +2776,7 @@
     <tag k="service" v="express"/>
     <tag k="website" v="http://www.quicktransport.at"/>
   </node>
-  <node id="1814218229" lat="45.5116551" lon="10.4049024" version="7" timestamp="2018-08-29T07:07:23Z" changeset="62093832" uid="616774" user="mueschel">
+  <node id="1814218229" lat="45.5116142" lon="10.4047716" version="8" timestamp="2022-10-06T19:13:19Z" changeset="127115862" uid="13046266" user="Kajok79">
     <tag k="addr:city" v="Bedizzole"/>
     <tag k="addr:housenumber" v="17/b"/>
     <tag k="addr:postcode" v="25081"/>
@@ -26655,30 +26655,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+49 8171 16888"/>
     <tag k="website" v="http://www.tennis-termin.de/"/>
-  </node>
-  <node id="2717024289" lat="45.5253766" lon="4.8764195" version="6" timestamp="2020-11-25T09:29:47Z" changeset="94761973" uid="12070868" user="ReDzone Prêt à porter Tendance">
-    <tag k="addr:city" v="Vienne"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:postcode" v="38200"/>
-    <tag k="addr:street" v="Rue de la Charité"/>
-    <tag k="clothes" v="men;underwear;fashion;sports;children;denim;suits;hats;yes;workwear"/>
-    <tag k="description:fr" v="🌸 Vêtements Tendance, ReD-zone.shop 📢 La sélection des marques Homme &amp; junior, Divers collections disponibles Vêtements tendance toute l'année à des prix discount 100% satisfaction garantie 🔥 📢 Livraison en toute la France via Colissimo. 👉 Jeans, Pulls, P"/>
-    <tag k="name" v="ReDzone Prêt à porter | Vetements - Tendance"/>
-    <tag k="opening_hours" v="Mo-Su 08:00-22:00"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="operator" v="ReDzone Prêt à porter | Vetements - Tendance"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:telephone_cards" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+33 6 66 01 10 64"/>
-    <tag k="second_hand" v="yes"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="https://red-zone.shop"/>
   </node>
   <node id="2717350122" lat="41.9458930" lon="-87.6544931" version="3" timestamp="2020-04-12T04:42:41Z" changeset="83416274" uid="1237170" user="Zol87">
     <tag k="addr:city" v="Chicago"/>
@@ -54610,6 +54586,19 @@
     <tag k="source:date" v="2013-12-03"/>
     <tag k="website" v="https://johndoe-et-fils.com"/>
   </node>
+  <node id="4355550468" lat="40.4794759" lon="-3.7074471" version="3" timestamp="2022-10-06T10:46:06Z" changeset="127095308" uid="2136761" user="flix1">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="brand" v="The Good Burger"/>
+    <tag k="brand:wikidata" v="Q20962086"/>
+    <tag k="brand:wikipedia" v="es:The Good Burger"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="name" v="The Good Burger"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="short_name" v="TGB"/>
+    <tag k="takeaway" v="yes"/>
+  </node>
   <node id="4359584199" lat="23.4593184" lon="120.4434129" version="9" timestamp="2020-09-17T09:29:29Z" changeset="91036192" uid="2369700" user="daivdds">
     <tag k="addr:street" v="民生南路"/>
     <tag k="atm" v="yes"/>
@@ -66371,6 +66360,25 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="yes"/>
   </node>
+  <node id="6255757078" lat="40.4800761" lon="-3.7078793" version="3" timestamp="2022-10-06T10:46:06Z" changeset="127095308" uid="2136761" user="flix1">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="brand" v="100 Montaditos"/>
+    <tag k="brand:wikidata" v="Q8355805"/>
+    <tag k="brand:wikipedia" v="en:Cervecería 100 Montaditos"/>
+    <tag k="cuisine" v="sandwich"/>
+    <tag k="name" v="100 Montaditos"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+  </node>
+  <node id="6255757718" lat="40.4793559" lon="-3.7073301" version="3" timestamp="2022-10-06T10:46:06Z" changeset="127095308" uid="2136761" user="flix1">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="brand" v="La Sureña"/>
+    <tag k="brand:wikidata" v="Q5763573"/>
+    <tag k="cuisine" v="spanish"/>
+    <tag k="name" v="La Sureña"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+  </node>
   <node id="6258363992" lat="-34.5738677" lon="-58.5062336" version="7" timestamp="2020-08-24T10:12:08Z" changeset="89849860" uid="10840499" user="Talkless">
     <tag k="addr:city" v="Buenos Aires"/>
     <tag k="addr:country" v="AR"/>
@@ -68047,7 +68055,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="pawnbroker"/>
   </node>
-  <node id="6789642485" lat="33.4075768" lon="-112.0011064" version="6" timestamp="2022-09-30T16:25:53Z" changeset="126830710" uid="17285543" user="DAutoBoy">
+  <node id="6789642485" lat="33.4076067" lon="-112.0010979" version="7" timestamp="2022-10-07T03:54:56Z" changeset="127129061" uid="1330847" user="TheDutchMan13">
     <tag k="addr:city" v="Phoenix"/>
     <tag k="addr:housenumber" v="4350"/>
     <tag k="addr:postcode" v="85040"/>
@@ -71495,14 +71503,14 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://www.rminsumos.com/"/>
   </node>
-  <node id="8239718375" lat="45.4921785" lon="12.1124226" version="1" timestamp="2020-12-18T08:36:37Z" changeset="96053794" uid="2201521" user="quibitcoin">
+  <node id="8239718375" lat="45.4921785" lon="12.1124226" version="2" timestamp="2022-10-06T20:12:33Z" changeset="127117816" uid="9925732" user="Flight777">
     <tag k="addr:city" v="Mirano"/>
     <tag k="addr:housenumber" v="53"/>
     <tag k="addr:postcode" v="30035"/>
     <tag k="addr:street" v="Via Barche"/>
     <tag k="description" v="Edilizia, ristrutturazione e piscine."/>
     <tag k="email" v="info@ecobrick.it"/>
-    <tag k="name" v="ECO-BRICK srls"/>
+    <tag k="name" v="eco-brick srls"/>
     <tag k="office" v="construction"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3311376691"/>
@@ -74016,17 +74024,17 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:ethereum" v="yes"/>
   </node>
-  <node id="9129896983" lat="33.5388593" lon="-86.8291127" version="1" timestamp="2021-09-28T15:40:02Z" changeset="111825221" uid="9220083" user="Joyalways">
+  <node id="9129896983" lat="33.5388593" lon="-86.8291127" version="2" timestamp="2022-10-07T05:27:11Z" changeset="127131674" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Birmingham"/>
     <tag k="addr:housenumber" v="1525"/>
     <tag k="addr:postcode" v="35204"/>
     <tag k="addr:state" v="AL"/>
     <tag k="addr:street" v="Finley Boulevard"/>
     <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
     <tag k="currency:LTC" v="yes"/>
     <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
     <tag k="email" v="support@bitcoinofamerica.org"/>
     <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
@@ -74082,17 +74090,17 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9130015177" lat="33.5317388" lon="-86.7696769" version="2" timestamp="2021-10-26T01:45:52Z" changeset="112971789" uid="238419" user="HubMiner">
+  <node id="9130015177" lat="33.5317388" lon="-86.7696769" version="3" timestamp="2022-10-07T05:26:04Z" changeset="127131625" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Birmingham"/>
     <tag k="addr:housenumber" v="4356"/>
     <tag k="addr:postcode" v="35222"/>
     <tag k="addr:state" v="AL"/>
     <tag k="addr:street" v="1st Avenue North"/>
     <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
     <tag k="currency:LTC" v="yes"/>
     <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
     <tag k="email" v="support@bitcoinofamerica.org"/>
     <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
@@ -74149,17 +74157,17 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9132437171" lat="33.4968701" lon="-86.8773216" version="1" timestamp="2021-09-29T15:02:58Z" changeset="111872127" uid="9220083" user="Joyalways">
+  <node id="9132437171" lat="33.4968701" lon="-86.8773216" version="2" timestamp="2022-10-07T05:28:42Z" changeset="127131744" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Birmingham"/>
     <tag k="addr:housenumber" v="2258"/>
     <tag k="addr:postcode" v="35208"/>
     <tag k="addr:state" v="AL"/>
     <tag k="addr:street" v="Bessemer Road"/>
     <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
     <tag k="currency:LTC" v="yes"/>
     <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
     <tag k="email" v="support@bitcoinofamerica.org"/>
     <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
@@ -74193,17 +74201,17 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9132493817" lat="33.4656633" lon="-86.8221976" version="1" timestamp="2021-09-29T15:12:30Z" changeset="111872541" uid="9220083" user="Joyalways">
+  <node id="9132493817" lat="33.4656633" lon="-86.8221976" version="2" timestamp="2022-10-07T05:29:24Z" changeset="127131791" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Homewood"/>
     <tag k="addr:housenumber" v="250"/>
     <tag k="addr:postcode" v="35209"/>
     <tag k="addr:state" v="AL"/>
     <tag k="addr:street" v="Green Springs Highway"/>
     <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
     <tag k="currency:LTC" v="yes"/>
     <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
     <tag k="email" v="support@bitcoinofamerica.org"/>
     <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
@@ -74259,17 +74267,17 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9132552634" lat="33.4941844" lon="-86.8287596" version="2" timestamp="2021-10-26T01:45:52Z" changeset="112971789" uid="238419" user="HubMiner">
+  <node id="9132552634" lat="33.4941844" lon="-86.8287596" version="3" timestamp="2022-10-07T05:28:05Z" changeset="127131719" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Birmingham"/>
     <tag k="addr:housenumber" v="74"/>
     <tag k="addr:postcode" v="35205"/>
     <tag k="addr:state" v="AL"/>
     <tag k="addr:street" v="6th Avenue South"/>
     <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
     <tag k="currency:LTC" v="yes"/>
     <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
     <tag k="email" v="support@bitcoinofamerica.org"/>
     <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
@@ -74413,17 +74421,17 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9135176628" lat="34.2064879" lon="-92.0075090" version="2" timestamp="2021-10-23T03:37:53Z" changeset="112861778" uid="238419" user="HubMiner">
+  <node id="9135176628" lat="34.2064879" lon="-92.0075090" version="3" timestamp="2022-10-07T05:30:57Z" changeset="127131856" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Pine Bluff"/>
     <tag k="addr:housenumber" v="2202"/>
     <tag k="addr:postcode" v="71601"/>
     <tag k="addr:state" v="AR"/>
     <tag k="addr:street" v="South Olive Street"/>
     <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
     <tag k="currency:LTC" v="yes"/>
     <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
     <tag k="email" v="support@bitcoinofamerica.org"/>
     <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
@@ -75194,7 +75202,7 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9158073612" lat="33.4741669" lon="-112.1090289" version="2" timestamp="2022-08-08T05:02:16Z" changeset="124620531" uid="292665" user="Dr Kludge">
+  <node id="9158073612" lat="33.4741669" lon="-112.1090280" version="3" timestamp="2022-10-07T05:32:13Z" changeset="127131902" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Phoenix"/>
     <tag k="addr:country" v="US"/>
     <tag k="addr:housenumber" v="2308"/>
@@ -75202,10 +75210,10 @@
     <tag k="addr:state" v="AZ"/>
     <tag k="addr:street" v="Grand Avenue"/>
     <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
     <tag k="currency:LTC" v="yes"/>
     <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
     <tag k="email" v="support@bitcoinofamerica.org"/>
     <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
@@ -78091,6 +78099,19 @@
     <tag k="name" v="Bitstop Bitcoin ATM"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
+  </node>
+  <node id="10079773758" lat="40.4258014" lon="-3.6618457" version="2" timestamp="2022-10-06T10:54:18Z" changeset="127095858" uid="2136761" user="flix1">
+    <tag k="addr:city" v="Madrid"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="28028"/>
+    <tag k="addr:street" v="Calle de Sancho Dávila"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="CIODE"/>
+    <tag k="operator" v="CIODE"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="912370179"/>
+    <tag k="website" v="https://ciode.es/"/>
   </node>
 
 </osm>
