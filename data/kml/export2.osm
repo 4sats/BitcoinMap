@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-10-07T05:47:39Z"/>
+<meta osm_base="2022-10-08T05:42:54Z"/>
 
   <node id="32928873" lat="60.4456888" lon="22.2817727" version="12" timestamp="2020-03-17T13:58:07Z" changeset="82305432" uid="5441080" user="tesp">
     <tag k="addr:city" v="Turku"/>
@@ -2180,6 +2180,28 @@
     <tag k="name" v="Az.Agr. Daniela Bagnis"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://bagnisliguria.it"/>
+  </node>
+  <node id="1611594474" lat="47.3063526" lon="11.3793945" version="13" timestamp="2022-10-07T08:59:14Z" changeset="127139928" uid="60987" user="lapistano">
+    <tag k="addr:city" v="Innsbruck"/>
+    <tag k="addr:country" v="AT"/>
+    <tag k="addr:housenumber" v="147"/>
+    <tag k="addr:postcode" v="6020"/>
+    <tag k="addr:street" v="Höhenstraße"/>
+    <tag k="addr:suburb" v="Hötting"/>
+    <tag k="cuisine" v="burger;regional;austrian;thai;local"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Alpenlounge Seegrube"/>
+    <tag k="opening_hours" v="Sa-Th 09:15-17:00; Fr 09:15-23:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="+43 664 884 478 17"/>
+    <tag k="survey:date" v="2023-09-19"/>
+    <tag k="website" v="http://www.seegrube.info/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1618338809" lat="39.7548245" lon="-104.9871350" version="6" timestamp="2022-06-21T06:05:33Z" changeset="122648509" uid="338843" user="TorCguy">
     <tag k="addr:city" v="Denver"/>
@@ -5585,7 +5607,7 @@
     <tag k="wikidata" v="Q5802027"/>
     <tag k="wikipedia" v="es:Deltaven"/>
   </node>
-  <node id="2417414871" lat="43.2116604" lon="27.9280067" version="13" timestamp="2020-07-05T09:32:11Z" changeset="87550209" uid="150201" user="plamen">
+  <node id="2417414871" lat="43.2116164" lon="27.9279826" version="14" timestamp="2022-10-07T23:52:45Z" changeset="127177032" uid="1934624" user="Boris Angelov">
     <tag k="email" v="reservations@holidaydelux.com"/>
     <tag k="name" v="HolidayDelux"/>
     <tag k="office" v="travel_agent"/>
@@ -18370,16 +18392,6 @@
     <tag k="sport" v="cycling"/>
     <tag k="website" v="https://www.bikoadventures.com/"/>
   </node>
-  <node id="2612183903" lat="7.8910478" lon="98.3031531" version="2" timestamp="2019-02-20T18:26:18Z" changeset="67402488" uid="8988838" user="VLD076">
-    <tag k="addr:city" v="Patong Beach Phuket"/>
-    <tag k="addr:housenumber" v="66/38"/>
-    <tag k="addr:postcode" v="83150"/>
-    <tag k="addr:street" v="Soi Wirakit"/>
-    <tag k="name" v="Royal Prince Residence"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="http://www.royalprincehotelphuket.com/index.html"/>
-  </node>
   <node id="2612189058" lat="40.8038243" lon="-73.9495698" version="3" timestamp="2019-05-29T15:21:33Z" changeset="70737703" uid="8339" user="mtmail">
     <tag k="addr:city" v="New York"/>
     <tag k="addr:housenumber" v="113"/>
@@ -22767,11 +22779,12 @@
     <tag k="source" v="https://www.facebook.com/Maldita.Prod"/>
     <tag k="website" v="https://vimeo.com/sblapalma"/>
   </node>
-  <node id="2657235877" lat="47.1939059" lon="-114.8914329" version="2" timestamp="2021-01-20T07:34:04Z" changeset="97817111" uid="5446055" user="torapa">
+  <node id="2657235877" lat="47.1939059" lon="-114.8914320" version="3" timestamp="2022-10-08T00:06:01Z" changeset="127177201" uid="115918" user="Timothy Smith">
     <tag k="addr:city" v="Superior"/>
     <tag k="addr:housenumber" v="207"/>
     <tag k="addr:street" v="River Street"/>
     <tag k="amenity" v="pharmacy"/>
+    <tag k="healthcare" v="pharmacy"/>
     <tag k="name" v="Mineral Pharmacy"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -26801,18 +26814,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+55 83 30494242"/>
     <tag k="website" v="https://www.tely.com.br/"/>
-  </node>
-  <node id="2719493015" lat="39.9443390" lon="-105.0121920" version="5" timestamp="2022-10-03T17:58:31Z" changeset="126951730" uid="668096" user="jmann6">
-    <tag k="addr:housenumber" v="2055"/>
-    <tag k="addr:street" v="West 136th Avenue"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="(303) 920-3636"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Rosati's Pizzeria"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="https://myrosatis.com/broomfield/"/>
   </node>
   <node id="2719507478" lat="38.9101671" lon="-104.7181790" version="6" timestamp="2022-05-09T21:19:30Z" changeset="120766129" uid="338843" user="TorCguy">
     <tag k="addr:housenumber" v="5825"/>
@@ -50336,7 +50337,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="computer"/>
   </node>
-  <node id="3509730668" lat="47.4929017" lon="8.7244099" version="6" timestamp="2019-03-19T15:00:55Z" changeset="68298410" uid="5755216" user="sovereign_ch">
+  <node id="3509730668" lat="47.4929017" lon="8.7244099" version="7" timestamp="2022-10-07T13:22:25Z" changeset="127152966" uid="15121947" user="turbotimon">
     <tag k="addr:city" v="Winterthur"/>
     <tag k="addr:housenumber" v="28h"/>
     <tag k="addr:postcode" v="8400"/>
@@ -50349,8 +50350,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+41 52 214 12 12"/>
     <tag k="website" v="http://www.posity.com/"/>
-    <tag k="wikidata" v="Q28038707"/>
-    <tag k="wikipedia" v="de:Posity"/>
   </node>
   <node id="3511350448" lat="-34.5743522" lon="-58.4418054" version="5" timestamp="2020-03-05T20:56:57Z" changeset="81838848" uid="3837224" user="MatiasJ">
     <tag k="addr:city" v="Buenos Aires"/>
@@ -68930,31 +68929,6 @@
     <tag k="shop" v="travel_agency"/>
     <tag k="website" v="https://grandislandgoa.com"/>
   </node>
-  <node id="6986046986" lat="8.0333825" lon="98.8300248" version="3" timestamp="2019-11-22T11:50:38Z" changeset="77423500" uid="616774" user="mueschel">
-    <tag k="addr:city" v="อ่าวนาง"/>
-    <tag k="addr:housenumber" v="123/7"/>
-    <tag k="addr:postcode" v="81180"/>
-    <tag k="addr:street" v="Soi Aonang 13"/>
-    <tag k="brand" v="CMAS"/>
-    <tag k="description" v="The Dive Center is under German Management by Daniel Sasse. It is based in Ao Nang in the province of Krabi Thailand. We are setting our-self apart from others due to Marine Life Protection Projects. We are situated here since over 20 years."/>
-    <tag k="email" v="info@poseidon-krabi.com"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="name" v="Poseidon Dive Center"/>
-    <tag k="name:de" v="Tauchschule Poseidon"/>
-    <tag k="name:es" v="Centro de Buceo Poseidon"/>
-    <tag k="name:fr" v="Centre de plongée Poseidon"/>
-    <tag k="opening_hours" v="Mo-Su 09:00-18:00"/>
-    <tag k="operator" v="Daniel Sasse"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+66980719035"/>
-    <tag k="scuba_diving" v="yes"/>
-    <tag k="scuba_diving:courses" v="yes"/>
-    <tag k="shop" v="scuba_diving"/>
-    <tag k="website" v="http://poseidon-krabi.com/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="7001254807" lat="45.2202330" lon="11.9920810" version="1" timestamp="2019-11-22T11:24:46Z" changeset="77422213" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Candiana"/>
     <tag k="addr:housenumber" v="30"/>
@@ -73708,19 +73682,6 @@
     <tag k="name" v="Prova sr"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="8899304770" lat="8.0358258" lon="98.8416794" version="2" timestamp="2022-05-16T03:48:49Z" changeset="121030741" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Krabi"/>
-    <tag k="addr:housenumber" v="1004"/>
-    <tag k="addr:postcode" v="81180"/>
-    <tag k="addr:street" v="Moo. 2 Soi Suan Tu Rian, Amphoe Muang"/>
-    <tag k="email" v="info.krabi@pavilionshotels.com"/>
-    <tag k="name" v="The Pavilions Anana Krabi"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoincash" v="yes"/>
-    <tag k="phone" v="+66 7568 0580"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="https://www.pavilionshotels.com/anana-krabi"/>
-  </node>
   <node id="8915713782" lat="40.4864865" lon="17.6494148" version="1" timestamp="2021-07-13T07:18:17Z" changeset="107885271" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Oria"/>
     <tag k="addr:housenumber" v="8/A"/>
@@ -75048,17 +75009,17 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9157491008" lat="33.6416020" lon="-112.0305375" version="1" timestamp="2021-10-08T08:46:57Z" changeset="112251718" uid="9220083" user="Joyalways">
+  <node id="9157491008" lat="33.6416020" lon="-112.0305370" version="2" timestamp="2022-10-08T03:09:31Z" changeset="127180276" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Phoenix"/>
     <tag k="addr:housenumber" v="17027"/>
     <tag k="addr:postcode" v="85032"/>
     <tag k="addr:state" v="AZ"/>
     <tag k="addr:street" v="North Cave Creek Road"/>
     <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
     <tag k="currency:LTC" v="yes"/>
     <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
     <tag k="email" v="support@bitcoinofamerica.org"/>
     <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
@@ -75136,17 +75097,17 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9157678916" lat="33.6412095" lon="-112.0044051" version="1" timestamp="2021-10-08T10:14:00Z" changeset="112256174" uid="9220083" user="Joyalways">
+  <node id="9157678916" lat="33.6412095" lon="-112.0044050" version="2" timestamp="2022-10-08T03:10:26Z" changeset="127180302" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Phoenix"/>
     <tag k="addr:housenumber" v="3610"/>
     <tag k="addr:postcode" v="85032"/>
     <tag k="addr:state" v="AZ"/>
     <tag k="addr:street" v="East Bell Road"/>
     <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
     <tag k="currency:LTC" v="yes"/>
     <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
     <tag k="email" v="support@bitcoinofamerica.org"/>
     <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
@@ -75158,17 +75119,17 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9157701809" lat="33.6408240" lon="-112.0476776" version="1" timestamp="2021-10-08T10:18:23Z" changeset="112256390" uid="9220083" user="Joyalways">
+  <node id="9157701809" lat="33.6408240" lon="-112.0476770" version="2" timestamp="2022-10-08T03:08:43Z" changeset="127180259" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Phoenix"/>
     <tag k="addr:housenumber" v="1602"/>
     <tag k="addr:postcode" v="85022"/>
     <tag k="addr:state" v="AZ"/>
     <tag k="addr:street" v="East Bell Road"/>
     <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
     <tag k="currency:LTC" v="yes"/>
     <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
     <tag k="email" v="support@bitcoinofamerica.org"/>
     <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
@@ -77058,7 +77019,7 @@
     <tag k="phone" v="+34 91 568 96 00"/>
     <tag k="website" v="https://www.ie.edu/es/universidad/acerca-de/estudiar-en-madrid/ie-tower/"/>
   </node>
-  <node id="9737184165" lat="7.8020760" lon="98.4108554" version="1" timestamp="2022-05-13T08:58:42Z" changeset="120924026" uid="2104834" user="Igor Bubelov">
+  <node id="9737184165" lat="7.8020760" lon="98.4108554" version="2" timestamp="2022-10-07T13:09:28Z" changeset="127152186" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Phuket"/>
     <tag k="addr:housenumber" v="88 moo 8"/>
     <tag k="addr:postcode" v="83000"/>
@@ -77067,21 +77028,9 @@
     <tag k="name" v="Sri Panwa"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+66 7637 1000"/>
+    <tag k="survey:date" v="2022-10-07"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://sripanwa.com/"/>
-  </node>
-  <node id="9742516781" lat="8.0228101" lon="98.3017026" version="1" timestamp="2022-05-16T03:37:46Z" changeset="121030562" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Phuket"/>
-    <tag k="addr:housenumber" v="31/1"/>
-    <tag k="addr:postcode" v="83000"/>
-    <tag k="addr:street" v="Moo 6 Cherngtalay Thalang"/>
-    <tag k="email" v="residences@pavilionshotels.com"/>
-    <tag k="name" v="The Pavilions Phuket"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+66 7631 7600"/>
-    <tag k="rooms" v="95"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="https://www.pavilionshotels.com/residences/phuket/"/>
   </node>
   <node id="9754621292" lat="38.0533668" lon="46.3892396" version="3" timestamp="2022-05-19T13:37:52Z" changeset="121196841" uid="10455890" user="vahidansari">
     <tag k="addr:city" v="تبریز"/>
@@ -78112,6 +78061,51 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="912370179"/>
     <tag k="website" v="https://ciode.es/"/>
+  </node>
+  <node id="10082649543" lat="24.3698833" lon="54.5082266" version="1" timestamp="2022-10-07T20:13:15Z" changeset="127170828" uid="17343275" user="salhattali">
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="branch" v="سلاش لخدمات السيارات"/>
+    <tag k="brand" v="Slash"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Slash Car Service"/>
+    <tag k="opening_hours" v="Sa-Th 08:00-13:01, 14:59-20:00"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cheque" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:discover_card" v="yes"/>
+    <tag k="payment:electronic_purses" v="yes"/>
+    <tag k="payment:ep_easycard" v="yes"/>
+    <tag k="payment:ep_ipass" v="yes"/>
+    <tag k="payment:girocard" v="yes"/>
+    <tag k="payment:jcb" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:telephone_cards" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_debit" v="yes"/>
+    <tag k="payment:visa_electron" v="yes"/>
+    <tag k="phone" v="+971507160607"/>
+    <tag k="shop" v="car_parts"/>
+  </node>
+  <node id="10082674224" lat="49.2439190" lon="-122.8942334" version="1" timestamp="2022-10-07T20:12:35Z" changeset="127170805" uid="17349975" user="CoinosSC">
+    <tag k="coinos.io" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Bitcoin Exchange"/>
+    <tag k="name" v="Bitcoin Bizaar"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="website" v="http://www.btcbazaar.ca/"/>
   </node>
 
 </osm>
