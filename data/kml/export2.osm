@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-10-09T05:47:22Z"/>
+<meta osm_base="2022-10-10T06:10:54Z"/>
 
   <node id="32928873" lat="60.4456888" lon="22.2817727" version="12" timestamp="2020-03-17T13:58:07Z" changeset="82305432" uid="5441080" user="tesp">
     <tag k="addr:city" v="Turku"/>
@@ -5092,18 +5092,18 @@
     <tag k="shop" v="alcohol"/>
     <tag k="website" v="https://www.pivoljub.si/"/>
   </node>
-  <node id="2389643553" lat="52.5431837" lon="13.4136813" version="9" timestamp="2017-02-08T00:20:47Z" changeset="45901726" uid="4179530" user="RoterEmil">
+  <node id="2389643553" lat="52.5299865" lon="13.4091651" version="11" timestamp="2022-10-09T09:45:41Z" changeset="127239163" uid="17357231" user="inglev01">
     <tag k="addr:city" v="Berlin"/>
     <tag k="addr:country" v="DE"/>
-    <tag k="addr:housenumber" v="79/79"/>
-    <tag k="addr:postcode" v="10437"/>
-    <tag k="addr:street" v="Pappelallee"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="10119"/>
+    <tag k="addr:street" v="Lottumstraße"/>
     <tag k="addr:suburb" v="Prenzlauer Berg"/>
-    <tag k="description" v="Online peer to peer Bitcoin lending"/>
-    <tag k="name" v="Bitbond.net"/>
+    <tag k="description" v="Asset tokenization | Custody solutions | on-chain settlement"/>
+    <tag k="name" v="Bitbond.com"/>
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://bitbond.net/"/>
+    <tag k="website" v="https://www.bitbond.com/"/>
   </node>
   <node id="2389792278" lat="10.4987643" lon="-66.9076350" version="18" timestamp="2022-08-20T01:58:22Z" changeset="125131213" uid="527105" user="albertoq">
     <tag k="addr:city" v="Caracas"/>
@@ -27888,6 +27888,22 @@
     <tag k="amenity" v="bar"/>
     <tag k="name" v="Café de Barron"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="source" v="BAG"/>
+    <tag k="source:date" v="2014-02-11"/>
+  </node>
+  <node id="2725642627" lat="51.9818470" lon="5.9104957" version="3" timestamp="2022-10-09T12:01:07Z" changeset="127244726" uid="17173701" user="EasySats">
+    <tag k="addr:city" v="Arnhem"/>
+    <tag k="addr:housenumber" v="113"/>
+    <tag k="addr:postcode" v="6811DZ"/>
+    <tag k="addr:street" v="Beekstraat"/>
+    <tag k="check_date" v="2022-08-21"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="De Hoppenaar"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="phone" v="+31267855643"/>
+    <tag k="shop" v="alcohol"/>
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-02-11"/>
   </node>
