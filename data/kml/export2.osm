@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-10-10T06:10:54Z"/>
+<meta osm_base="2022-10-11T06:11:38Z"/>
 
   <node id="32928873" lat="60.4456888" lon="22.2817727" version="12" timestamp="2020-03-17T13:58:07Z" changeset="82305432" uid="5441080" user="tesp">
     <tag k="addr:city" v="Turku"/>
@@ -4112,19 +4112,6 @@
     <tag k="shop" v="copyshop"/>
     <tag k="website" v="http://www.modelprinting.com/"/>
   </node>
-  <node id="2275848380" lat="-34.5429378" lon="-58.4827456" version="9" timestamp="2020-03-07T14:24:36Z" changeset="81900621" uid="3837224" user="MatiasJ">
-    <tag k="addr:city" v="Ciudad autónoma de Buenos Aires"/>
-    <tag k="addr:housenumber" v="4860"/>
-    <tag k="addr:postcode" v="1429"/>
-    <tag k="addr:street" v="Pinto"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="regional"/>
-    <tag k="name" v="AntiDomingo - Restaurante - Espacio de Arte"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+54 11 4541-5214"/>
-    <tag k="website" v="http://www.facebook.com/antidomingo"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="2276283625" lat="40.7954798" lon="-85.8241762" version="3" timestamp="2014-08-24T08:21:04Z" changeset="24972567" uid="1836471" user="Blobo123">
     <tag k="addr:city" v="Wabash"/>
     <tag k="addr:housenumber" v="231"/>
@@ -5732,19 +5719,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://lanayferme.com/"/>
   </node>
-  <node id="2429591197" lat="53.3828804" lon="-1.4703441" version="5" timestamp="2022-08-30T19:10:34Z" changeset="125583867" uid="16971158" user="nathan_day">
-    <tag k="addr:city" v="Sheffield"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="S1 2EW"/>
-    <tag k="addr:street" v="St James' Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="fhrs:id" v="582963"/>
-    <tag k="name" v="Church House"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="source:addr" v="FHRS Open Data"/>
-  </node>
   <node id="2429690872" lat="45.5370965" lon="-73.6208740" version="8" timestamp="2016-05-01T06:36:17Z" changeset="39010719" uid="39504" user="malenki">
     <tag k="addr:city" v="Montréal"/>
     <tag k="addr:housenumber" v="77"/>
@@ -5791,11 +5765,19 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://winnhost.com/"/>
   </node>
-  <node id="2430990369" lat="46.9954399" lon="8.6074956" version="5" timestamp="2022-02-03T11:22:14Z" changeset="116959174" uid="177149" user="zwis">
+  <node id="2430990369" lat="47.0041101" lon="8.6035879" version="7" timestamp="2022-10-10T07:15:21Z" changeset="127284386" uid="17369082" user="Richard Ulrich Brunnen">
+    <tag k="addr:city" v="Brunnen"/>
+    <tag k="addr:housenumber" v="19a"/>
+    <tag k="addr:postcode" v="6440"/>
+    <tag k="addr:street" v="Ballyweg"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Paraeasy"/>
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+41 (0)79 667 41 74"/>
+    <tag k="survey:date" v="2022-10-10"/>
     <tag k="website" v="http://paraeasy.ch/"/>
   </node>
   <node id="2431011784" lat="47.3057547" lon="8.0549832" version="5" timestamp="2019-03-24T10:53:26Z" changeset="68467302" uid="9451067" user="b-jazz-bot">
@@ -6923,20 +6905,6 @@
     <tag k="phone" v="+48 888-78-78-7O"/>
     <tag k="website" v="https://www.satoshi.pl/"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="2485520454" lat="52.4943605" lon="13.4381122" version="4" timestamp="2022-04-18T10:04:10Z" changeset="119849468" uid="14771166" user="Andro Mappa">
-    <tag k="addr:city" v="Berlin"/>
-    <tag k="addr:country" v="DE"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="10999"/>
-    <tag k="addr:street" v="Glogauer Straße"/>
-    <tag k="addr:suburb" v="Kreuzberg"/>
-    <tag k="name" v="Dandy Horse Berlin"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="second_hand" v="yes"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="smoking" v="no"/>
-    <tag k="website" v="https://www.dandyhorseberlin.com/"/>
   </node>
   <node id="2486351993" lat="52.2513084" lon="20.9268929" version="9" timestamp="2019-02-18T01:23:45Z" changeset="67297376" uid="69607" user="rmikke">
     <tag k="addr:city" v="Warszawa"/>
@@ -11246,10 +11214,10 @@
     <tag k="shop" v="bicycle"/>
     <tag k="website" v="https://www.mika-amaro.com"/>
   </node>
-  <node id="2555501090" lat="50.1011625" lon="8.6838946" version="10" timestamp="2022-06-26T22:30:01Z" changeset="122883149" uid="7549553" user="joe2812">
-    <tag k="opening_hours" v="&quot;nach Vereinbarung&quot;"/>
+  <node id="2555501090" lat="50.1011625" lon="8.6838946" version="11" timestamp="2022-10-10T08:12:32Z" changeset="127287110" uid="17369640" user="svmonk">
+    <tag k="name" v="Katrin Probst Photography"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="photo"/>
+    <tag k="shop" v="photography"/>
   </node>
   <node id="2555518560" lat="51.5256078" lon="-0.0682649" version="4" timestamp="2021-09-02T00:37:56Z" changeset="110588631" uid="2969887" user="eastender">
     <tag k="addr:city" v="London"/>
@@ -33948,20 +33916,6 @@
     <tag k="shop" v="farm"/>
     <tag k="website" v="http://www.olijfolie.it"/>
   </node>
-  <node id="2843283521" lat="-8.5180763" lon="115.2615466" version="10" timestamp="2021-11-28T04:36:20Z" changeset="114308052" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:city" v="Ubud"/>
-    <tag k="addr:housenumber" v="88X"/>
-    <tag k="addr:postcode" v="80571"/>
-    <tag k="addr:street" v="Jalan Monkey Forest"/>
-    <tag k="email" v="team@hubud.org"/>
-    <tag k="name" v="Hubud Co-Working Space"/>
-    <tag k="office" v="company"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+62 361978073"/>
-    <tag k="website" v="https://www.hubud.org/"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="2843713235" lat="44.5593867" lon="8.9734036" version="7" timestamp="2017-10-28T11:17:18Z" changeset="53315310" uid="893327" user="mcheckimport">
     <tag k="addr:city" v="Savignone"/>
     <tag k="addr:country" v="IT"/>
@@ -49897,18 +49851,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+584167617113 Servicio tecnico de computadoras y mas Zona norte Mcbo. Acepto Bitcoin"/>
   </node>
-  <node id="3496449896" lat="13.7449544" lon="100.5561489" version="3" timestamp="2016-01-26T21:07:00Z" changeset="36825492" uid="1686268" user="gezginrocker">
-    <tag k="addr:city" v="Bangkok"/>
-    <tag k="addr:housenumber" v="33/30"/>
-    <tag k="addr:street" v="Soi Sukhumvit 11"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:email" v="wolffsbangkok@gmail.com"/>
-    <tag k="contact:phone" v="+66 90 926 1777"/>
-    <tag k="contact:website" v="http://jazzbarbangkok.com/"/>
-    <tag k="description" v="Cajun Bar,"/>
-    <tag k="name" v="Wolff's"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="3496895894" lat="36.5459923" lon="29.1236893" version="4" timestamp="2020-08-11T08:59:56Z" changeset="89239890" uid="374342" user="hocu">
     <tag k="contact:website" v="http://www.libtour.com"/>
     <tag k="fixme" v="Is the company still active? Is this the name of the company? Internet search yields no results apart from this POI. Looks like they accept bitcoins, is this correct?"/>
@@ -60562,6 +60504,20 @@
     <tag k="start_date" v="2015-01-17"/>
     <tag k="website" v="https://www.spargurtax.com"/>
   </node>
+  <node id="5349677223" lat="50.1011483" lon="8.6838975" version="4" timestamp="2022-10-10T08:12:32Z" changeset="127287110" uid="17369640" user="svmonk">
+    <tag k="addr:city" v="Frankfurt am Main"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="60594"/>
+    <tag k="addr:street" v="Schwanthalerstraße"/>
+    <tag k="craft" v="photographer"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Katrin Probst Photography"/>
+    <tag k="opening_hours" v="&quot;on appointment&quot;"/>
+    <tag k="operator" v="Katrin Probst"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+49 162 2793461"/>
+    <tag k="website" v="http://www.katrin-probst.de"/>
+  </node>
   <node id="5351518575" lat="45.3020694" lon="9.7554851" version="7" timestamp="2018-01-30T11:56:39Z" changeset="55891273" uid="616774" user="mueschel">
     <tag k="addr:city" v="Castelleone"/>
     <tag k="addr:housenumber" v="9"/>
@@ -67759,7 +67715,7 @@
     <tag k="shop" v="car_repair"/>
     <tag k="website" v="www.dautoboys.com"/>
   </node>
-  <node id="6795431221" lat="36.5557162" lon="52.6721729" version="4" timestamp="2022-07-06T11:53:35Z" changeset="123274582" uid="9950344" user="mehdiabrash">
+  <node id="6795431221" lat="36.5557512" lon="52.6721696" version="5" timestamp="2022-10-10T09:43:54Z" changeset="127292123" uid="9950344" user="mehdiabrash">
     <tag k="addr:city" v="بابل"/>
     <tag k="addr:postcode" v="4714667571"/>
     <tag k="addr:street" v="خیابان بابل کلینیک - نرسیده به چهاراه تنددست - جنب بانک ملت"/>
@@ -70771,7 +70727,7 @@
     <tag k="shop" v="yes"/>
     <tag k="website" v="https://thebestmusic.com.br/"/>
   </node>
-  <node id="8001434388" lat="-34.5679720" lon="-58.4822006" version="3" timestamp="2021-04-08T17:38:58Z" changeset="102582083" uid="1311281" user="mweper">
+  <node id="8001434388" lat="-34.5679720" lon="-58.4822006" version="4" timestamp="2022-10-10T19:56:44Z" changeset="127321916" uid="1311281" user="mweper">
     <tag k="addr:city" v="Ciudad Autónoma de Buenos Aires"/>
     <tag k="addr:postcode" v="1430"/>
     <tag k="description" v="www.vinofino.club Vinoteca online con envíos gratis a todo el país."/>
@@ -70782,7 +70738,7 @@
     <tag k="payment:bank_transfer" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:bitcoin:online" v="yes"/>
-    <tag k="payment:ep_mercadopago" v="yes"/>
+    <tag k="payment:mercado_pago" v="yes"/>
     <tag k="shop" v="wine"/>
   </node>
   <node id="8009000931" lat="14.5797275" lon="121.1361593" version="2" timestamp="2021-05-28T13:38:34Z" changeset="105495667" uid="1488198" user="VMPanes">
@@ -73889,138 +73845,6 @@
     <tag k="email" v="support@bitcoinofamerica.org"/>
     <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
     <tag k="opening_hours" v="Mo-Su 05:00-24:00"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9132632040" lat="34.6553779" lon="-92.3627356" version="2" timestamp="2021-10-23T03:37:53Z" changeset="112861778" uid="238419" user="HubMiner">
-    <tag k="addr:city" v="Little Rock"/>
-    <tag k="addr:housenumber" v="10423"/>
-    <tag k="addr:postcode" v="72209"/>
-    <tag k="addr:state" v="AR"/>
-    <tag k="addr:street" v="Chicot Road"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="Mo-Su 05:00-01:00"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9132636401" lat="34.5999777" lon="-92.5668775" version="2" timestamp="2021-10-23T03:37:53Z" changeset="112861778" uid="238419" user="HubMiner">
-    <tag k="addr:city" v="Benton"/>
-    <tag k="addr:housenumber" v="3820"/>
-    <tag k="addr:postcode" v="72019"/>
-    <tag k="addr:state" v="AR"/>
-    <tag k="addr:street" v="Congo Road"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="Mo-Su 06:00-24:00"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9132722160" lat="34.7673738" lon="-92.2669350" version="2" timestamp="2021-10-23T03:37:53Z" changeset="112861778" uid="238419" user="HubMiner">
-    <tag k="addr:city" v="North Little Rock"/>
-    <tag k="addr:housenumber" v="1400"/>
-    <tag k="addr:postcode" v="72114"/>
-    <tag k="addr:state" v="AR"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="Mo-Su 05:00-24:00"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9132732215" lat="34.7230135" lon="-92.3425757" version="2" timestamp="2021-10-23T03:37:53Z" changeset="112861778" uid="238419" user="HubMiner">
-    <tag k="addr:city" v="Little Rock"/>
-    <tag k="addr:housenumber" v="3200"/>
-    <tag k="addr:postcode" v="72204"/>
-    <tag k="addr:state" v="AR"/>
-    <tag k="addr:street" v="South University Avenue"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="Mo-Su 06:00-24:00"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9132743612" lat="34.8326669" lon="-92.2313006" version="2" timestamp="2021-10-23T03:37:53Z" changeset="112861778" uid="238419" user="HubMiner">
-    <tag k="addr:city" v="Sherwood"/>
-    <tag k="addr:housenumber" v="8524"/>
-    <tag k="addr:postcode" v="72120"/>
-    <tag k="addr:state" v="AR"/>
-    <tag k="addr:street" v="Sylvan Hills Hwy, AR-107"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="Mo-Su 05:00-24:00"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9135170751" lat="34.7259165" lon="-92.3090320" version="2" timestamp="2021-10-23T03:37:53Z" changeset="112861778" uid="238419" user="HubMiner">
-    <tag k="addr:city" v="Little Rock"/>
-    <tag k="addr:housenumber" v="3100"/>
-    <tag k="addr:postcode" v="72204"/>
-    <tag k="addr:state" v="AR"/>
-    <tag k="addr:street" v="West Roosevelt Road"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="Mo-Sa 04:30-22:00, Su 07:00-21:00"/>
     <tag k="operator" v="Bitcoin of America"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
@@ -77616,40 +77440,6 @@
     <tag k="survey:date" v="2022-09-26"/>
     <tag k="website" v="https://www.facebook.com/gamescentraliom/"/>
   </node>
-  <node id="10058662407" lat="39.0208068" lon="-104.8154395" version="1" timestamp="2022-09-28T13:56:15Z" changeset="126742370" uid="17263748" user="balancecolorado">
-    <tag k="addr:city" v="Colorado Springs"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:postcode" v="80921"/>
-    <tag k="addr:state" v="CO"/>
-    <tag k="addr:street" v="Spectrum Loop"/>
-    <tag k="addr:unit" v="110"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/balancechiropractic_co/?hl=en"/>
-    <tag k="description" v="Balance Chiropractic is the premier Chiropractic office in Colorado Springs to focus on a UNIQUE area called Foundational Correction. If you are familiar with traditional chiropractic, most practitioners focus on increasing joint range of motion and decre"/>
-    <tag k="email" v="balance@balancecolorado.com"/>
-    <tag k="facebook" v="https://www.facebook.com/BalanceChiropracticCO/"/>
-    <tag k="healthcare" v="alternative"/>
-    <tag k="healthcare:speciality" v="chiropractic"/>
-    <tag k="language:en" v="yes"/>
-    <tag k="language:es" v="yes"/>
-    <tag k="linkedin" v="https://www.linkedin.com/company/balancecoloardo"/>
-    <tag k="name" v="Balance Chiropractic"/>
-    <tag k="opening_hours" v="Monday 08:00-11:00, 15:00-18:00, Tuesday 13:00-18:00, Wednesday 08:00-11:00, 15:00-18:00, Thursday 08:00-11:00, 15:00-18:00, Fri, Sat, Sun CLOSED"/>
-    <tag k="payment:avalanche" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cardano" v="yes"/>
-    <tag k="payment:care-credit" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:dogecoin" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:in-house-financing" v="yes"/>
-    <tag k="phone" v="719-265-0115"/>
-    <tag k="tiktok" v="https://www.tiktok.com/@balancechiropractic"/>
-    <tag k="twitter" v="https://twitter.com/balancecolorado"/>
-    <tag k="website" v="https://www.balancecolorado.com/"/>
-    <tag k="year" v="2016"/>
-    <tag k="youtube" v="https://www.youtube.com/channel/UCIwxnYlWYHh-2ymCyo5pDWw"/>
-  </node>
   <node id="10072472871" lat="44.8197462" lon="7.2854219" version="1" timestamp="2022-10-03T09:41:18Z" changeset="126926713" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Bricherasio"/>
     <tag k="addr:housenumber" v="31"/>
@@ -77736,6 +77526,17 @@
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="website" v="http://www.btcbazaar.ca/"/>
+  </node>
+  <node id="10089398245" lat="37.3918101" lon="-5.9969898" version="1" timestamp="2022-10-10T11:00:58Z" changeset="127295858" uid="2136761" user="flix1">
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:street" v="Calle San Eloy"/>
+    <tag k="amenity" v="bank"/>
+    <tag k="name" v="BitBase - Bitcoin"/>
+    <tag k="operator" v="BitBase"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="955 05 92 16"/>
+    <tag k="website" v="https://bitbase.es/"/>
   </node>
 
 </osm>
