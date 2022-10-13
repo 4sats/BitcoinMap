@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-10-12T05:54:24Z"/>
+<meta osm_base="2022-10-13T06:10:39Z"/>
 
   <node id="32928873" lat="60.4456888" lon="22.2817727" version="12" timestamp="2020-03-17T13:58:07Z" changeset="82305432" uid="5441080" user="tesp">
     <tag k="addr:city" v="Turku"/>
@@ -687,19 +687,6 @@
     <tag k="phone" v="619-255-6475"/>
     <tag k="website" v="https://rootedkavabar.com/"/>
   </node>
-  <node id="768161941" lat="53.3675802" lon="-1.4970670" version="8" timestamp="2022-10-11T09:30:00Z" changeset="127347954" uid="1802093" user="Paul Berry">
-    <tag k="addr:city" v="Sheffield"/>
-    <tag k="addr:housenumber" v="261"/>
-    <tag k="addr:postcode" v="S11 8ZE"/>
-    <tag k="addr:street" v="Sharrow Vale Road"/>
-    <tag k="contact:phone" v="+44 114 268 2225"/>
-    <tag k="description" v="BTC payment via Wedeliverlocal."/>
-    <tag k="fhrs:id" v="764189"/>
-    <tag k="name" v="J. H. Mann - Fishmonger"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="seafood"/>
-    <tag k="website" v="https://www.wedeliverlocal.co.uk/jhman-sheffield"/>
-  </node>
   <node id="768593714" lat="46.3859813" lon="11.2589603" version="6" timestamp="2020-08-07T18:53:36Z" changeset="89105913" uid="7407533" user="ieiunium">
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Località San Giuseppe al Lago - St. Josef am See"/>
@@ -1252,7 +1239,7 @@
     <tag k="phone" v="+7 812 6276037;+7 952 2763417;+7 904 6010610"/>
     <tag k="website" v="http://www.dacha-v-malinovke.ru"/>
   </node>
-  <node id="1129155319" lat="46.5183958" lon="6.6340684" version="4" timestamp="2017-04-14T19:00:38Z" changeset="47791406" uid="1717631" user="Eluc">
+  <node id="1129155319" lat="46.5183958" lon="6.6340684" version="5" timestamp="2022-10-12T13:10:18Z" changeset="127415657" uid="5544120" user="knakv">
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="1003"/>
     <tag k="addr:street" v="Rue de la Grotte"/>
@@ -1260,7 +1247,7 @@
     <tag k="name" v="QWERTZ"/>
     <tag k="opening_hours" v="Tu-Th 17:00-24:00; Fr,Sa 17:00-02:00"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.standardcafe.ch"/>
+    <tag k="website" v="http://qwertz.gg/"/>
   </node>
   <node id="1142519904" lat="48.1367553" lon="11.5658197" version="12" timestamp="2020-07-15T16:58:58Z" changeset="88043575" uid="6296329" user="mep1911">
     <tag k="addr:housenumber" v="17"/>
@@ -18955,7 +18942,7 @@
     <tag k="phone" v="+44 20 3287 2299"/>
     <tag k="website" v="http://www.yoursushi.co.uk/"/>
   </node>
-  <node id="2616958181" lat="23.4542681" lon="120.3299889" version="11" timestamp="2022-03-23T05:23:08Z" changeset="118802592" uid="274857" user="Supaplex">
+  <node id="2616958181" lat="23.4541173" lon="120.3299706" version="12" timestamp="2022-10-12T08:31:32Z" changeset="127399915" uid="274857" user="Supaplex">
     <tag k="addr:city" v="嘉義縣"/>
     <tag k="addr:country" v="TW"/>
     <tag k="addr:district" v="太保市"/>
@@ -64617,15 +64604,15 @@
     <tag k="shop" v="cosmetics"/>
     <tag k="website" v="https://barbersurgeonsguild.com"/>
   </node>
-  <node id="5994598170" lat="-20.5183096" lon="-43.6904262" version="3" timestamp="2020-02-03T14:35:06Z" changeset="80485054" uid="2082896" user="zeninguem">
+  <node id="5994598170" lat="-20.5183096" lon="-43.6904262" version="4" timestamp="2022-10-12T21:41:06Z" changeset="127437689" uid="10460642" user="PlayzinhoAgro">
     <tag k="addr:city" v="Ouro Branco"/>
     <tag k="addr:housenumber" v="263"/>
     <tag k="addr:postcode" v="36420-000"/>
     <tag k="addr:street" v="Rua Professor José Luiz"/>
     <tag k="addr:suburb" v="Centro"/>
-    <tag k="amenity" v="bank"/>
     <tag k="name" v="AWS MINING Consultoria"/>
     <tag k="name:pt" v="Consultoria da Mineradora de Bitcoins"/>
+    <tag k="office" v="company"/>
     <tag k="opening_hours" v="Mo-Su 09:00-22:00"/>
     <tag k="operator" v="Leonardo"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -74835,17 +74822,17 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9158342617" lat="32.3523216" lon="-111.0463611" version="3" timestamp="2022-09-25T04:14:22Z" changeset="126602056" uid="9941767" user="BubbaJuice">
+  <node id="9158342617" lat="32.3523216" lon="-111.0463610" version="4" timestamp="2022-10-13T04:54:54Z" changeset="127445823" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Tucson"/>
     <tag k="addr:housenumber" v="3780"/>
     <tag k="addr:postcode" v="85741"/>
     <tag k="addr:state" v="AZ"/>
     <tag k="addr:street" v="West Magee Road"/>
     <tag k="amenity" v="atm"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
     <tag k="currency:LTC" v="yes"/>
     <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
     <tag k="email" v="support@bitcoinofamerica.org"/>
     <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
