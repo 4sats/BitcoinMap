@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-10-13T06:10:39Z"/>
+<meta osm_base="2022-10-14T06:17:46Z"/>
 
   <node id="32928873" lat="60.4456888" lon="22.2817727" version="12" timestamp="2020-03-17T13:58:07Z" changeset="82305432" uid="5441080" user="tesp">
     <tag k="addr:city" v="Turku"/>
@@ -1239,16 +1239,6 @@
     <tag k="phone" v="+7 812 6276037;+7 952 2763417;+7 904 6010610"/>
     <tag k="website" v="http://www.dacha-v-malinovke.ru"/>
   </node>
-  <node id="1129155319" lat="46.5183958" lon="6.6340684" version="5" timestamp="2022-10-12T13:10:18Z" changeset="127415657" uid="5544120" user="knakv">
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:postcode" v="1003"/>
-    <tag k="addr:street" v="Rue de la Grotte"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="name" v="QWERTZ"/>
-    <tag k="opening_hours" v="Tu-Th 17:00-24:00; Fr,Sa 17:00-02:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://qwertz.gg/"/>
-  </node>
   <node id="1142519904" lat="48.1367553" lon="11.5658197" version="12" timestamp="2020-07-15T16:58:58Z" changeset="88043575" uid="6296329" user="mep1911">
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:postcode" v="80331"/>
@@ -2383,17 +2373,6 @@
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="https://azareiya.com/"/>
   </node>
-  <node id="1694591554" lat="51.5255775" lon="-0.0876143" version="7" timestamp="2021-10-06T12:03:05Z" changeset="112167001" uid="2969887" user="eastender">
-    <tag k="addr:city" v="London"/>
-    <tag k="addr:housenumber" v="5-7"/>
-    <tag k="addr:postcode" v="EC1Y 1BE"/>
-    <tag k="addr:street" v="St. Agnes Well"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="fhrs:id" v="416797"/>
-    <tag k="layer" v="-1"/>
-    <tag k="name" v="Nin Com Soup"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="1697295288" lat="48.7096216" lon="13.2427051" version="9" timestamp="2022-01-11T17:42:39Z" changeset="116034158" uid="33223" user="k127">
     <tag k="addr:city" v="Eging am See"/>
     <tag k="addr:country" v="DE"/>
@@ -2961,15 +2940,15 @@
     <tag k="specialty" v="tea"/>
     <tag k="website" v="https://www.nmteaco.com/"/>
   </node>
-  <node id="1922962173" lat="37.3744381" lon="-5.9786981" version="8" timestamp="2019-03-22T05:27:46Z" changeset="68397421" uid="9451067" user="b-jazz-bot">
+  <node id="1922962173" lat="37.3744381" lon="-5.9786981" version="9" timestamp="2022-10-13T15:43:52Z" changeset="127477714" uid="5127355" user="aTarom">
     <tag k="addr:city" v="Sevilla"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="41013"/>
     <tag k="addr:street" v="Avenida Ramón Carande"/>
     <tag k="amenity" v="doctors"/>
     <tag k="emergency" v="no"/>
-    <tag k="health_specialty" v="Angiología y Cirugía Vascular"/>
     <tag k="healthcare" v="clinic"/>
+    <tag k="healthcare:speciality" v="angiology;vascular_surgery"/>
     <tag k="name" v="Clínica Lucq"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://clinicalucq.es/"/>
@@ -4047,7 +4026,7 @@
     <tag k="opening_hours" v="Mo-Su 00:00-01:00,17:00-24:00; Fr,Sa 00:00-01:00,12:00-24:00"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2267540842" lat="40.7524774" lon="-73.9846520" version="8" timestamp="2021-01-13T19:51:12Z" changeset="97461879" uid="10112864" user="Innoventions">
+  <node id="2267540842" lat="40.7524774" lon="-73.9846520" version="9" timestamp="2022-10-13T13:22:32Z" changeset="127453576" uid="290680" user="wheelmap_visitor">
     <tag k="addr:housename" v="EVR NYC"/>
     <tag k="addr:postcode" v="10018"/>
     <tag k="addr:street" v="54th W 39th St New York, NY"/>
@@ -4057,6 +4036,7 @@
     <tag k="name" v="EVR NYC"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://evrnyc.com/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2268363960" lat="36.1258841" lon="-115.2327178" version="3" timestamp="2019-06-13T04:59:41Z" changeset="71202299" uid="2888253" user="mapman44">
     <tag k="amenity" v="dentist"/>
@@ -4585,7 +4565,7 @@
     <tag k="phone" v="+27 823521191"/>
     <tag k="website" v="http://www.fire-ice.co.za/"/>
   </node>
-  <node id="2324608137" lat="40.1949064" lon="-8.4206415" version="5" timestamp="2015-06-12T15:25:32Z" changeset="31923973" uid="249540" user="Carlos Ramos">
+  <node id="2324608137" lat="40.1949189" lon="-8.4205975" version="6" timestamp="2022-10-14T05:45:35Z" changeset="127503669" uid="47097" user="Josef K">
     <tag k="addr:city" v="Coimbra"/>
     <tag k="addr:country" v="PT"/>
     <tag k="email" v="contacto@bitcoin-portugal.com"/>
@@ -6366,20 +6346,6 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://www.wtcr.ca/"/>
   </node>
-  <node id="2460131471" lat="-33.8731346" lon="151.2206281" version="12" timestamp="2021-02-20T07:44:10Z" changeset="99629058" uid="712752" user="tastrax">
-    <tag k="addr:city" v="Woolloomooloo"/>
-    <tag k="addr:housenumber" v="129"/>
-    <tag k="addr:postcode" v="2011"/>
-    <tag k="addr:street" v="Dowling Street"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="contact:yelp" v="http://www.yelp.com/biz/old-fitzroy-hotel-woolloomooloo"/>
-    <tag k="name" v="The Old Fitzroy Hotel"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+61 2 9356 3848"/>
-    <tag k="toilets:wheelchair" v="no"/>
-    <tag k="website" v="https://oldfitzroy.com.au/"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="2460954110" lat="43.6019697" lon="1.4408606" version="5" timestamp="2020-04-09T18:34:31Z" changeset="83323453" uid="1882956" user="Tyndare">
     <tag k="addr:city" v="Toulouse"/>
     <tag k="addr:housenumber" v="45"/>
@@ -6420,16 +6386,6 @@
     <tag k="shop" v="bicycle"/>
     <tag k="source" v="King County GIS;data.seattle.gov"/>
     <tag k="website" v="http://www.counterbalancebicycles.com/"/>
-  </node>
-  <node id="2463242402" lat="40.2507868" lon="-111.6583936" version="3" timestamp="2013-12-24T06:12:23Z" changeset="19612220" uid="1842016" user="latoldinpsrntn">
-    <tag k="addr:city" v="Provo"/>
-    <tag k="addr:housenumber" v="1225"/>
-    <tag k="addr:postcode" v="84604"/>
-    <tag k="addr:street" v="North University Avenue"/>
-    <tag k="description" v="Its a food truck, check their facebook page for location"/>
-    <tag k="name" v="Sweet Burrito Provo"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.facebook.com/SweetoBurritoProvo"/>
   </node>
   <node id="2463245062" lat="40.2339429" lon="-111.6589718" version="1" timestamp="2013-09-18T19:31:51Z" changeset="17912145" uid="1749374" user="Ben Harper 21">
     <tag k="name" v="Knives4Bitcoin"/>
@@ -8929,18 +8885,6 @@
     <tag k="office" v="marketing"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.funk-e.net/"/>
-  </node>
-  <node id="2537171619" lat="52.5070107" lon="13.2995036" version="6" timestamp="2018-02-12T21:24:34Z" changeset="56306234" uid="1497225" user="kartonage">
-    <tag k="addr:city" v="Berlin"/>
-    <tag k="addr:country" v="DE"/>
-    <tag k="addr:housenumber" v="74"/>
-    <tag k="addr:postcode" v="10627"/>
-    <tag k="addr:street" v="Kantstraße"/>
-    <tag k="addr:suburb" v="Charlottenburg"/>
-    <tag k="contact:website" v="http://bitcoinsinberlin.com/"/>
-    <tag k="name" v="BitcoinCommodities"/>
-    <tag k="office" v="commodities"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="2537196472" lat="52.5663684" lon="13.5247980" version="8" timestamp="2019-03-13T08:23:02Z" changeset="68090894" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Berlin"/>
@@ -15238,18 +15182,6 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="shop" v="tobacco"/>
   </node>
-  <node id="2578603017" lat="25.7290813" lon="-80.3146398" version="6" timestamp="2017-09-08T18:06:24Z" changeset="51855536" uid="3265371" user="Andrew Matheny">
-    <tag k="addr:city" v="Miami"/>
-    <tag k="addr:postcode" v="33155"/>
-    <tag k="addr:street" v="4427 SW 74 Avenue"/>
-    <tag k="name" v="Daddy Brews"/>
-    <tag k="opening_hours" v="11:00-07:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="786-382-5161"/>
-    <tag k="shop" v="http://daddybrews.com/"/>
-    <tag k="website" v="http://daddybrews.com/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="2578627549" lat="33.2078639" lon="-97.1327778" version="5" timestamp="2022-02-10T07:39:31Z" changeset="117231910" uid="1426091" user="BubbleGuppies">
     <tag k="addr:city" v="Denton"/>
     <tag k="addr:housenumber" v="706"/>
@@ -16307,12 +16239,6 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="website" v="https://magdaleenderooytaen.webs.com/"/>
   </node>
-  <node id="2594051087" lat="33.4631956" lon="-88.8065802" version="2" timestamp="2013-12-25T21:17:42Z" changeset="19635351" uid="1855835" user="The Hummus Lady">
-    <tag k="name" v="The Hummus Lady"/>
-    <tag k="note" v="We are located at the Midweek Market in the Cotton District, every Wednesday from 4 pm to 6 pm."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.facebook.com/pages/The-Hummus-Lady/223691287672731"/>
-  </node>
   <node id="2594351027" lat="53.5669097" lon="-0.0913052" version="9" timestamp="2018-06-20T14:06:02Z" changeset="60012789" uid="101150" user="Steeley">
     <tag k="addr:city" v="Grimsby"/>
     <tag k="addr:housenumber" v="80"/>
@@ -16772,22 +16698,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+18058152200"/>
     <tag k="shop" v="hairdresser"/>
-  </node>
-  <node id="2599505748" lat="52.0112569" lon="4.3580830" version="9" timestamp="2022-06-06T15:04:09Z" changeset="122030084" uid="5432507" user="Knockerclot0715">
-    <tag k="addr:city" v="Delft"/>
-    <tag k="addr:country" v="NL"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:postcode" v="2611GP"/>
-    <tag k="addr:street" v="Markt"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="De Waag"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+31 15 213 0393"/>
-    <tag k="source" v="BAG"/>
-    <tag k="source:date" v="2013-11-26"/>
-    <tag k="website" v="http://de-waag.nl"/>
-    <tag k="yelp" v="http://www.yelp.com/biz/stadscaf%C3%A9-de-waag-delft-2"/>
   </node>
   <node id="2599514021" lat="52.0118691" lon="4.3627674" version="3" timestamp="2015-01-09T10:50:33Z" changeset="28016417" uid="2084575" user="Coinpluggin">
     <tag k="addr:city" v="Delft"/>
@@ -18133,12 +18043,13 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://teddykids.nl/"/>
   </node>
-  <node id="2610435155" lat="-22.9562854" lon="-43.1961313" version="1" timestamp="2014-01-05T03:27:21Z" changeset="19816901" uid="1867823" user="P2P">
+  <node id="2610435155" lat="-22.9562854" lon="-43.1961313" version="2" timestamp="2022-10-13T13:18:45Z" changeset="127470598" uid="10460642" user="PlayzinhoAgro">
     <tag k="addr:city" v="Rio de Janeiro"/>
     <tag k="addr:housename" v="1207"/>
     <tag k="addr:housenumber" v="445"/>
     <tag k="addr:street" v="Rua Voluntários da Pátria"/>
     <tag k="amenity" v="hospital"/>
+    <tag k="healthcare" v="hospital"/>
     <tag k="name" v="Clinica Dr. Pedro L Briggs"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
@@ -22459,13 +22370,8 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://eubitcoins.eu"/>
   </node>
-  <node id="2655212112" lat="-26.2878493" lon="-48.8407393" version="7" timestamp="2019-03-18T17:21:04Z" changeset="68266034" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Joinville"/>
+  <node id="2655212112" lat="-26.2878493" lon="-48.8407393" version="8" timestamp="2022-10-14T03:01:31Z" changeset="127499232" uid="2339960" user="adrianojbr">
     <tag k="addr:door" v="26"/>
-    <tag k="addr:housenumber" v="1700"/>
-    <tag k="addr:postcode" v="89221-007"/>
-    <tag k="addr:street" v="Rua Dona Francisca"/>
-    <tag k="addr:suburb" v="Saguaçu"/>
     <tag k="description" v="Provedor de Soluções"/>
     <tag k="name" v="Webhaus Tecnologia"/>
     <tag k="office" v="it"/>
@@ -22833,19 +22739,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="website" v="http://www.interoute.com/"/>
-  </node>
-  <node id="2661170393" lat="45.6098487" lon="9.3711365" version="3" timestamp="2018-04-01T09:41:10Z" changeset="57708082" uid="579545" user="Aury88">
-    <tag k="addr:city" v="Vimercate"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="7D"/>
-    <tag k="addr:street" v="Piazza Guglielmo Marconi"/>
-    <tag k="contact:phone" v="+39 039 2914447"/>
-    <tag k="contact:website" v="http://www.gamesacademy.it/"/>
-    <tag k="description" v="Giochi da tavolo, fumetti manga e comix, giochi di carte (Magic The Gathering, Yugioh...), gadget e altro"/>
-    <tag k="name" v="Games Academy"/>
-    <tag k="opening_hours" v="Tu-Fr 11:30-19:30; Sa 10:30-13:00,15:00-19:30"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="anime"/>
   </node>
   <node id="2661357134" lat="38.7680874" lon="-77.1140992" version="3" timestamp="2019-02-20T20:48:02Z" changeset="67407198" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Alexandria"/>
@@ -23688,17 +23581,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+44 7870605274"/>
     <tag k="website" v="https://www.store.thehealthcloud.co.uk/"/>
-  </node>
-  <node id="2670295218" lat="52.2700989" lon="8.0382575" version="3" timestamp="2019-03-28T14:58:19Z" changeset="68628932" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Osnabrück"/>
-    <tag k="addr:housenumber" v="3A"/>
-    <tag k="addr:postcode" v="49080"/>
-    <tag k="addr:street" v="Lange Straße"/>
-    <tag k="name" v="kasper/media design"/>
-    <tag k="note" v="Unsere Leidenschaft ist es, Websites zu gestalten, die für den Besucher zum Erlebnis werden. Wir entwickeln interaktive, moderne und vor allem ansprechende Websites, die das Angebot Ihres Unternehmen professionell im Internet päsentieren."/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.kaspermedia.de/"/>
   </node>
   <node id="2670562476" lat="42.4736500" lon="-83.4118391" version="3" timestamp="2014-02-23T23:14:08Z" changeset="20742589" uid="1874635" user="DetroitBitcoin">
     <tag k="name" v="J.Pham's Detroit Bitcoin Consulting"/>
@@ -26628,18 +26510,6 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://misdosgalloselcajon.com/"/>
   </node>
-  <node id="2718339850" lat="33.9045961" lon="-117.4751226" version="2" timestamp="2019-02-19T20:32:03Z" changeset="67366723" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:housenumber" v="10971"/>
-    <tag k="addr:street" v="Magnolia Avenue"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="951-351-0244"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Bambino's Pizza House"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="https://www.bambinosriverside.com/"/>
-  </node>
   <node id="2718357192" lat="33.4971149" lon="-117.1154483" version="2" timestamp="2022-07-01T12:29:41Z" changeset="123084968" uid="9451067" user="b-jazz-bot">
     <tag k="addr:housenumber" v="43053"/>
     <tag k="addr:street" v="Margarita Road"/>
@@ -27399,18 +27269,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://colombianfoodlakemary.com/"/>
-  </node>
-  <node id="2724471641" lat="27.9169917" lon="-82.7897022" version="1" timestamp="2014-03-18T01:49:40Z" changeset="21166603" uid="1836471" user="Blobo123">
-    <tag k="addr:housenumber" v="118"/>
-    <tag k="addr:street" v="West Bay Drive"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="727-586-7662"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="La Pizza Mia"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="http://lapizzamiapizzeria.us/"/>
   </node>
   <node id="2724496679" lat="27.8532512" lon="-82.2298774" version="2" timestamp="2019-02-13T02:27:24Z" changeset="67149306" uid="9438716" user="Dayt1227">
     <tag k="addr:housenumber" v="15260"/>
@@ -30469,17 +30327,6 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://darbys.menufy.com/"/>
   </node>
-  <node id="2751472654" lat="44.9561188" lon="-93.1100533" version="2" timestamp="2021-06-18T03:43:48Z" changeset="106559727" uid="175702" user="AxelBoldt">
-    <tag k="addr:housenumber" v="225"/>
-    <tag k="addr:street" v="University Avenue"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="+1-651-366-6858"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="University Buffet"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="http://universitybuffetmn.com/"/>
-  </node>
   <node id="2751477974" lat="46.6551766" lon="-95.8055553" version="2" timestamp="2021-09-06T21:05:01Z" changeset="110820917" uid="175702" user="AxelBoldt">
     <tag k="addr:housenumber" v="121"/>
     <tag k="addr:street" v="West Linden Street"/>
@@ -32914,17 +32761,6 @@
     <tag k="phone" v="+31 20 644 0618"/>
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-03-24"/>
-  </node>
-  <node id="2809862514" lat="50.8469701" lon="5.6998903" version="4" timestamp="2015-01-14T17:08:45Z" changeset="28142388" uid="2574718" user="amadeo1988">
-    <tag k="addr:city" v="Maastricht"/>
-    <tag k="addr:housenumber" v="36"/>
-    <tag k="addr:postcode" v="6221CM"/>
-    <tag k="addr:street" v="Hoge Barakken"/>
-    <tag k="name" v="Custom Logo | Logo design"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="BAG"/>
-    <tag k="source:date" v="2014-03-24"/>
-    <tag k="website" v="http://www.customlogo.nl"/>
   </node>
   <node id="2810290948" lat="51.4001815" lon="-0.4587503" version="2" timestamp="2019-03-22T21:01:14Z" changeset="68427785" uid="9451067" user="b-jazz-bot">
     <tag k="addr:housenumber" v="197"/>
@@ -38876,18 +38712,6 @@
     <tag k="shop" v="art"/>
     <tag k="website" v="http://www.artkemi.com/"/>
   </node>
-  <node id="2991692744" lat="44.9034754" lon="-93.2227408" version="4" timestamp="2014-08-20T15:06:58Z" changeset="24887286" uid="16591" user="neuhausr">
-    <tag k="addr:city" v="Minneapolis"/>
-    <tag k="addr:housenumber" v="5501"/>
-    <tag k="addr:postcode" v="55417"/>
-    <tag k="addr:street" v="34th Avenue South"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="name" v="Boss' Pizza &amp; Chicken"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1 612 727 2677"/>
-    <tag k="website" v="http://minneapolis.boss-pizza-chicken.com/"/>
-  </node>
   <node id="2991837778" lat="-34.4884114" lon="-58.4985773" version="5" timestamp="2022-06-25T22:49:05Z" changeset="122852004" uid="11572928" user="EsLoQueHay">
     <tag k="addr:city" v="Martínez"/>
     <tag k="addr:housenumber" v="1983"/>
@@ -41096,16 +40920,6 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://pazdanllc.com/"/>
   </node>
-  <node id="3071576936" lat="48.7515182" lon="-122.4781212" version="2" timestamp="2019-02-18T01:11:20Z" changeset="67297164" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Bellingham"/>
-    <tag k="addr:housenumber" v="114"/>
-    <tag k="addr:postcode" v="98225"/>
-    <tag k="addr:street" v="West Magnolia Street"/>
-    <tag k="name" v="CoinBeyond"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://coinbeyond.com/"/>
-  </node>
   <node id="3071617103" lat="44.9175227" lon="10.8063364" version="6" timestamp="2019-04-15T21:23:26Z" changeset="69250104" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Reggiolo"/>
     <tag k="addr:housenumber" v="102 E"/>
@@ -42879,21 +42693,6 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://www.hyperbit.com.br/"/>
   </node>
-  <node id="3150619185" lat="53.5470912" lon="-2.6306738" version="7" timestamp="2022-06-19T16:42:07Z" changeset="122586269" uid="6816132" user="CjMalone">
-    <tag k="addr:city" v="Wigan"/>
-    <tag k="addr:country" v="GB"/>
-    <tag k="addr:housename" v="Cex Wigan"/>
-    <tag k="addr:postcode" v="WN1 1UF"/>
-    <tag k="addr:street" v="Standishgate"/>
-    <tag k="branch" v="Wigan"/>
-    <tag k="brand" v="CeX"/>
-    <tag k="brand:wikidata" v="Q5055676"/>
-    <tag k="brand:wikipedia" v="en:CeX (company)"/>
-    <tag k="contact:website" v="https://uk.webuy.com/site/storeDetail/?branchId=91"/>
-    <tag k="name" v="CeX"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="electronics"/>
-  </node>
   <node id="3151182043" lat="10.0455142" lon="-69.4089131" version="12" timestamp="2019-03-04T01:54:16Z" changeset="67751540" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="BARQUISIMETO"/>
     <tag k="addr:postcode" v="3001"/>
@@ -43440,13 +43239,6 @@
     <tag k="name" v="Fusa"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.fusa.be/"/>
-  </node>
-  <node id="3175546187" lat="52.2744537" lon="0.3144193" version="2" timestamp="2014-11-09T08:46:45Z" changeset="26658003" uid="322785" user="BCNorwich">
-    <tag k="name" v="OneByteTooMany"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:dogecoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="website" v="https://onebytetoomany.co.uk"/>
   </node>
   <node id="3175947378" lat="37.5541044" lon="126.9378324" version="5" timestamp="2022-07-22T09:01:56Z" changeset="123928028" uid="238290" user="octel">
     <tag k="addr:city" v="서울특별시 마포구"/>
@@ -48885,23 +48677,6 @@
     <tag k="phone" v="(704) 479-8888"/>
     <tag k="website" v="https://www.waterbeancoffee.com/"/>
   </node>
-  <node id="3421820367" lat="45.5124275" lon="-122.6310167" version="5" timestamp="2021-02-20T03:46:15Z" changeset="99624340" uid="7152372" user="Mxdanger">
-    <tag k="addr:city" v="Portland"/>
-    <tag k="addr:housenumber" v="1421"/>
-    <tag k="addr:postcode" v="97214"/>
-    <tag k="addr:state" v="OR"/>
-    <tag k="addr:street" v="Southeast 33rd Avenue"/>
-    <tag k="contact:facebook" v="http://www.facebook.com/bundysbagels"/>
-    <tag k="cuisine" v="bagel"/>
-    <tag k="name" v="Bundy's Bagels"/>
-    <tag k="opening_hours" v="08:00-15:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-503-899-9452"/>
-    <tag k="phone:alternate" v="+1-503-880-8550"/>
-    <tag k="shop" v="bakery"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="http://www.bundysbagels.com/"/>
-  </node>
   <node id="3423276693" lat="43.3181082" lon="76.9577878" version="4" timestamp="2022-03-26T15:54:52Z" changeset="118952935" uid="3318452" user="Kuritsyn Roman">
     <tag k="addr:city" v="Алматы"/>
     <tag k="addr:housenumber" v="239А"/>
@@ -51307,18 +51082,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://www.owlting.com/market/vendor/6955"/>
-  </node>
-  <node id="3620490907" lat="51.8884553" lon="8.4166576" version="2" timestamp="2019-05-25T11:00:39Z" changeset="70608915" uid="67862" user="HolgerJeromin">
-    <tag k="addr:city" v="Gütersloh"/>
-    <tag k="addr:housenumber" v="250"/>
-    <tag k="addr:postcode" v="33332"/>
-    <tag k="addr:street" v="Verler Straße"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="name" v="Conkurens"/>
-    <tag k="opening_hours" v="Mo-Sa 18:00-24:00; Su 17:00-24:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.conkurens.de"/>
-    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="3621150515" lat="35.6480097" lon="139.7231062" version="3" timestamp="2019-05-15T18:30:14Z" changeset="70289092" uid="9600679" user="Yoqtan">
     <tag k="addr:city" v="港区"/>
@@ -62394,15 +62157,15 @@
     <tag k="tourism" v="apartment"/>
     <tag k="website" v="https://www.romestyleapartments.com/"/>
   </node>
-  <node id="5550143466" lat="-34.9011256" lon="-56.1913220" version="3" timestamp="2021-04-08T02:23:11Z" changeset="102513799" uid="2206701" user="bleierbega">
+  <node id="5550143466" lat="-34.9011256" lon="-56.1913220" version="4" timestamp="2022-10-13T13:42:58Z" changeset="127471640" uid="2206701" user="bleierbega">
     <tag k="addr:city" v="Montevideo"/>
     <tag k="addr:housenumber" v="1173"/>
     <tag k="addr:postcode" v="11100"/>
     <tag k="addr:street" v="Cerro Largo"/>
     <tag k="email" v="contacto@proaccesorios.com.uy"/>
     <tag k="name" v="PRO Accesorios"/>
-    <tag k="opening_hours" v="Mo-Fr 10:30-19:00"/>
-    <tag k="operator" v="PRO Accesorios"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-19:00"/>
+    <tag k="operator" v="PRO GRUPO SAS"/>
     <tag k="payment:american_express" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cabal" v="yes"/>
@@ -62903,16 +62666,6 @@
     <tag k="phone" v="+7 930 6702613"/>
     <tag k="shop" v="florist"/>
     <tag k="website" v="http://cvetmarket.plp7.ru/"/>
-  </node>
-  <node id="5642502814" lat="37.9770396" lon="23.7243770" version="5" timestamp="2019-12-07T11:05:36Z" changeset="78080700" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:housenumber" v="98"/>
-    <tag k="addr:street" v="Ερμού"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="contact:phone" v="+302111140000"/>
-    <tag k="cuisine" v="juice"/>
-    <tag k="name" v="Cardia Cafe"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="5643668261" lat="53.9471671" lon="27.6287219" version="5" timestamp="2021-09-28T11:51:02Z" changeset="111815193" uid="10732704" user="joseph83">
     <tag k="addr:city" v="Минск"/>
@@ -66110,19 +65863,6 @@
     <tag k="phone" v="+39 065404352"/>
     <tag k="website" v="https://www.ristorantedamicheleroma.it"/>
   </node>
-  <node id="6279966306" lat="37.9769139" lon="23.7162773" version="1" timestamp="2019-02-15T01:14:55Z" changeset="67212245" uid="936280" user="beatnickgr">
-    <tag k="addr:city" v="Αθήνα"/>
-    <tag k="addr:housenumber" v="3-5"/>
-    <tag k="addr:street" v="Ερυσίχθονος"/>
-    <tag k="contact:email" v="info@alexandroshairsalon.gr"/>
-    <tag k="contact:phone" v="+302103465554"/>
-    <tag k="contact:website" v="http://alexandroshairsalon.gr"/>
-    <tag k="name" v="Alexandros Hair Salon"/>
-    <tag k="opening_hours" v="Mo-We 09:00-14:30; Tu-Th 09:00-13:30; Tu-Th 16:30-20:30; Fr 09:00-18:00; Sa 08:30-15:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="shop" v="hairdresser"/>
-  </node>
   <node id="6279977527" lat="37.9759305" lon="23.7163675" version="1" timestamp="2019-02-15T01:20:32Z" changeset="67212329" uid="936280" user="beatnickgr">
     <tag k="addr:city" v="Αθήνα"/>
     <tag k="addr:housenumber" v="48"/>
@@ -66272,22 +66012,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 0372835034"/>
     <tag k="website" v="http://www.oribonetti.it"/>
-  </node>
-  <node id="6312586075" lat="11.1814713" lon="119.3915892" version="4" timestamp="2019-03-02T14:21:38Z" changeset="67714719" uid="9491851" user="Tropical Paradise">
-    <tag k="addr:city" v="El Nido"/>
-    <tag k="addr:postcode" v="5313"/>
-    <tag k="addr:street" v="Calle Hama"/>
-    <tag k="email" v="elnidoparadisetours@gmail.com"/>
-    <tag k="name" v="El Nido Paradise"/>
-    <tag k="note" v="El Nido Paradise / Tropical Paradise office is located just next to Altrove pizzeria."/>
-    <tag k="opening_hours" v="Mo-Su 07:30-21:00"/>
-    <tag k="operator" v="Tropical Paradise"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="phone" v="+63 977 472 0720"/>
-    <tag k="shop" v="travel_agency"/>
-    <tag k="website" v="https://www.elnidoparadise.com/"/>
   </node>
   <node id="6312633423" lat="9.7401160" lon="118.7446988" version="1" timestamp="2019-03-02T14:31:21Z" changeset="67714933" uid="9491851" user="Tropical Paradise">
     <tag k="addr:city" v="Puerto Princesa"/>
@@ -74062,28 +73786,6 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9135663706" lat="32.2001019" lon="-110.8917542" version="1" timestamp="2021-09-30T15:32:12Z" changeset="111923307" uid="9220083" user="Joyalways">
-    <tag k="addr:city" v="Tucson"/>
-    <tag k="addr:housenumber" v="4701"/>
-    <tag k="addr:postcode" v="85711"/>
-    <tag k="addr:state" v="AZ"/>
-    <tag k="addr:street" v="East 29th Street"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
   <node id="9135692686" lat="33.4799708" lon="-112.0297580" version="2" timestamp="2021-10-09T05:41:27Z" changeset="112288942" uid="238419" user="HubMiner">
     <tag k="addr:city" v="Phoenix"/>
     <tag k="addr:housenumber" v="2843"/>
@@ -74106,50 +73808,6 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9135708319" lat="32.2292227" lon="-110.8971996" version="2" timestamp="2021-10-09T05:40:22Z" changeset="112288931" uid="238419" user="HubMiner">
-    <tag k="addr:city" v="Tucson"/>
-    <tag k="addr:housenumber" v="4477"/>
-    <tag k="addr:postcode" v="85711"/>
-    <tag k="addr:state" v="AZ"/>
-    <tag k="addr:street" v="East 5th Street"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="Mo-Su 08:00-22:00"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9135720948" lat="32.2382043" lon="-110.9092799" version="1" timestamp="2021-09-30T15:51:42Z" changeset="111924135" uid="9220083" user="Joyalways">
-    <tag k="addr:city" v="Tucson"/>
-    <tag k="addr:housenumber" v="1204"/>
-    <tag k="addr:postcode" v="85712"/>
-    <tag k="addr:state" v="AZ"/>
-    <tag k="addr:street" v="North Alvernon Way"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
   <node id="9155543623" lat="43.5184901" lon="16.4840943" version="3" timestamp="2021-10-22T05:39:51Z" changeset="112819512" uid="9451067" user="b-jazz-bot">
     <tag k="amenity" v="atm"/>
     <tag k="name" v="Shitcoins ATM"/>
@@ -74160,50 +73818,6 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="payment:tether" v="yes"/>
     <tag k="website" v="https://shitcoins.club/"/>
-  </node>
-  <node id="9157267926" lat="32.2684192" lon="-110.9263914" version="1" timestamp="2021-10-08T07:05:44Z" changeset="112247461" uid="9220083" user="Joyalways">
-    <tag k="addr:city" v="Tucson"/>
-    <tag k="addr:housenumber" v="3370"/>
-    <tag k="addr:postcode" v="85716"/>
-    <tag k="addr:state" v="AZ"/>
-    <tag k="addr:street" v="North Country Club Road"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9157267927" lat="32.3020277" lon="-111.0267995" version="1" timestamp="2021-10-08T07:12:20Z" changeset="112247694" uid="9220083" user="Joyalways">
-    <tag k="addr:city" v="Tucson"/>
-    <tag k="addr:housenumber" v="2760"/>
-    <tag k="addr:postcode" v="85705"/>
-    <tag k="addr:state" v="AZ"/>
-    <tag k="addr:street" v="West Curtis Road"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
   <node id="9157269779" lat="33.3925137" lon="-111.8225430" version="2" timestamp="2021-10-10T02:54:45Z" changeset="112319678" uid="238419" user="HubMiner">
     <tag k="addr:city" v="Mesa"/>
@@ -74299,28 +73913,6 @@
     <tag k="addr:postcode" v="85302"/>
     <tag k="addr:state" v="AZ"/>
     <tag k="addr:street" v="West Olive Avenue"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9157356061" lat="32.2129965" lon="-110.9347161" version="1" timestamp="2021-10-08T07:39:03Z" changeset="112248612" uid="9220083" user="Joyalways">
-    <tag k="addr:city" v="Tucson"/>
-    <tag k="addr:housenumber" v="745"/>
-    <tag k="addr:postcode" v="85716"/>
-    <tag k="addr:state" v="AZ"/>
-    <tag k="addr:street" v="South Tucson Boulevard"/>
     <tag k="amenity" v="bureau_de_change"/>
     <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
@@ -74734,56 +74326,12 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9158265815" lat="32.2390786" lon="-110.9722160" version="1" timestamp="2021-10-08T13:37:02Z" changeset="112265402" uid="9220083" user="Joyalways">
-    <tag k="addr:city" v="Tucson"/>
-    <tag k="addr:housenumber" v="1345"/>
-    <tag k="addr:postcode" v="85705"/>
-    <tag k="addr:state" v="AZ"/>
-    <tag k="addr:street" v="North Stone Avenue"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
   <node id="9158267088" lat="33.4076583" lon="-111.7543872" version="1" timestamp="2021-10-08T13:33:33Z" changeset="112265283" uid="9220083" user="Joyalways">
     <tag k="addr:city" v="Mesa"/>
     <tag k="addr:housenumber" v="3565"/>
     <tag k="addr:postcode" v="85204"/>
     <tag k="addr:state" v="AZ"/>
     <tag k="addr:street" v="East Broadway Road"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9158272254" lat="32.2951015" lon="-110.9617276" version="1" timestamp="2021-10-08T13:56:08Z" changeset="112266131" uid="9220083" user="Joyalways">
-    <tag k="addr:city" v="Tucson"/>
-    <tag k="addr:housenumber" v="4851"/>
-    <tag k="addr:postcode" v="85718"/>
-    <tag k="addr:state" v="AZ"/>
-    <tag k="addr:street" v="North 1st Avenue"/>
     <tag k="amenity" v="bureau_de_change"/>
     <tag k="currency:BTC" v="yes"/>
     <tag k="currency:ETH" v="yes"/>
