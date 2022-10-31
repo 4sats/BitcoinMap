@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-10-30T05:34:25Z"/>
+<meta osm_base="2022-10-31T05:44:34Z"/>
 
   <node id="32928873" lat="60.4456888" lon="22.2817727" version="12" timestamp="2020-03-17T13:58:07Z" changeset="82305432" uid="5441080" user="tesp">
     <tag k="addr:city" v="Turku"/>
@@ -3303,13 +3303,13 @@
     <tag k="source" v="King County GIS"/>
     <tag k="website" v="https://www.seattletechnicalbooks.com/"/>
   </node>
-  <node id="2133994339" lat="48.1156027" lon="-122.7540281" version="6" timestamp="2019-08-20T21:31:45Z" changeset="73557015" uid="272570" user="Lamoreaux">
+  <node id="2133994339" lat="48.1156027" lon="-122.7540281" version="7" timestamp="2022-10-31T01:16:50Z" changeset="128269487" uid="36223" user="dalmond">
     <tag k="addr:city" v="Port Townsend"/>
     <tag k="addr:postcode" v="98368"/>
     <tag k="addr:street" v="Water Street"/>
     <tag k="name" v="The Broken Spoke"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="360-379-1295"/>
+    <tag k="phone" v="+1-360-379-1295"/>
     <tag k="shop" v="bicycle"/>
     <tag k="website" v="http://thebrokenspokept.blogspot.com/"/>
   </node>
@@ -5993,18 +5993,6 @@
     <tag k="phone" v="+33561123044"/>
     <tag k="shop" v="musical_instrument"/>
     <tag k="website" v="http://www.atelierdelaguitare.fr/"/>
-  </node>
-  <node id="2461007797" lat="63.7197471" lon="-18.5056793" version="6" timestamp="2022-05-18T12:31:50Z" changeset="121145842" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Skaftárhreppur"/>
-    <tag k="addr:housename" v="Giljaland"/>
-    <tag k="addr:postcode" v="881"/>
-    <tag k="addr:street" v="Skaftártunga"/>
-    <tag k="contact:email" v="sig.olafs@gmail.com"/>
-    <tag k="contact:phone" v="+354 487 8870"/>
-    <tag k="name" v="Giljaland Accommodation"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="tourism" v="chalet"/>
-    <tag k="website" v="https://www.giljalandrent.com/"/>
   </node>
   <node id="2462325649" lat="47.6647887" lon="-122.2958173" version="4" timestamp="2022-02-14T08:07:03Z" changeset="117381384" uid="12605741" user="Dr M0">
     <tag k="addr:city" v="Seattle"/>
@@ -10809,17 +10797,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="alcohol"/>
     <tag k="website" v="http://laprimilla.es/"/>
-  </node>
-  <node id="2556907436" lat="47.0396095" lon="15.7335631" version="4" timestamp="2019-11-04T08:04:59Z" changeset="76575221" uid="2641694" user="JM82">
-    <tag k="addr:city" v="St. Margarethen/Raab"/>
-    <tag k="addr:country" v="AT"/>
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:place" v="Kroisbach"/>
-    <tag k="addr:postcode" v="8321"/>
-    <tag k="name" v="brássino - das Olivenöl"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="yes"/>
-    <tag k="website" v="http://www.brassino.at"/>
   </node>
   <node id="2556913654" lat="36.0133710" lon="-5.6074390" version="2" timestamp="2022-07-29T22:44:00Z" changeset="124250216" uid="491515" user="robertogeb">
     <tag k="addr:city" v="Tarifa"/>
@@ -28025,17 +28002,16 @@
     <tag k="phone" v="+15012358194"/>
     <tag k="website" v="http://www.iProvOnline.com"/>
   </node>
-  <node id="2751117951" lat="48.2513773" lon="-122.4639980" version="3" timestamp="2014-03-29T23:34:05Z" changeset="21392351" uid="2007261" user="BoulderWorx">
+  <node id="2751117951" lat="48.2513773" lon="-122.4639980" version="4" timestamp="2022-10-31T01:22:46Z" changeset="128269557" uid="36223" user="dalmond">
     <tag k="addr:city" v="Camano Island"/>
     <tag k="addr:housenumber" v="325"/>
     <tag k="addr:postcode" v="98282"/>
     <tag k="addr:street" v="East North Camano Drive"/>
-    <tag k="building" v="warehouse"/>
     <tag k="craft" v="sculptor"/>
     <tag k="name" v="BoulderWorx.com"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="360 499 2998"/>
+    <tag k="phone" v="+1-360-499-2998"/>
     <tag k="website" v="http://boulderworx.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -36443,12 +36419,12 @@
     <tag k="shop" v="car_parts"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3001060214" lat="48.1072773" lon="-122.7770143" version="2" timestamp="2014-08-10T01:41:58Z" changeset="24645797" uid="2240505" user="DannyZip">
+  <node id="3001060214" lat="48.1072773" lon="-122.7770143" version="3" timestamp="2022-10-31T01:16:50Z" changeset="128269487" uid="36223" user="dalmond">
     <tag k="craft" v="boatbuilder"/>
     <tag k="description" v="Marine service, repair, and design"/>
     <tag k="name" v="P&amp;S Marine"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="360-531-0466"/>
+    <tag k="phone" v="+1-360-531-0466"/>
   </node>
   <node id="3001370333" lat="51.0819167" lon="-114.0107757" version="3" timestamp="2019-09-23T15:17:51Z" changeset="74815458" uid="5633991" user="Matthew Darwin">
     <tag k="addr:city" v="Calgary"/>
@@ -37378,7 +37354,7 @@
     <tag k="payment:litecoin" v="no"/>
     <tag k="shop" v="deli"/>
   </node>
-  <node id="3042029285" lat="48.0936731" lon="-122.8133311" version="1" timestamp="2014-08-25T19:09:13Z" changeset="25011924" uid="2240505" user="DannyZip">
+  <node id="3042029285" lat="48.0936731" lon="-122.8133311" version="2" timestamp="2022-10-31T01:14:39Z" changeset="128269452" uid="36223" user="dalmond">
     <tag k="addr:city" v="Port Townsend"/>
     <tag k="addr:housenumber" v="83"/>
     <tag k="addr:postcode" v="98368"/>
@@ -37386,7 +37362,7 @@
     <tag k="description" v="Grid tied solar and electrical services"/>
     <tag k="name" v="Power Trip Energy Corp"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="360-643-3080"/>
+    <tag k="phone" v="+1-360-643-3080"/>
     <tag k="website" v="http://www.powertripenergy.com"/>
   </node>
   <node id="3042462194" lat="39.4755230" lon="-0.3623656" version="3" timestamp="2018-12-23T13:06:02Z" changeset="65714642" uid="8278438" user="Jordi MF">
@@ -39322,18 +39298,6 @@
     <tag k="phone" v="+34 93 667 4165"/>
     <tag k="short_name" v="MoB"/>
     <tag k="website" v="https://www.mob-barcelona.com/"/>
-  </node>
-  <node id="3123246663" lat="52.3857019" lon="4.9258278" version="3" timestamp="2022-06-06T08:32:01Z" changeset="122009168" uid="5432507" user="Knockerclot0715">
-    <tag k="addr:city" v="Amsterdam"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:postcode" v="1021KM"/>
-    <tag k="addr:street" v="Gedempt Hamerkanaal"/>
-    <tag k="building" v="commercial"/>
-    <tag k="name" v="GenXs"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+31 20 205 0502"/>
-    <tag k="website" v="www.genxs.net"/>
   </node>
   <node id="3124418886" lat="-34.9113518" lon="-57.9454348" version="6" timestamp="2018-12-12T17:46:00Z" changeset="65416698" uid="466854" user="alpertron">
     <tag k="addr:city" v="La Plata"/>
@@ -45761,7 +45725,7 @@
     <tag k="phone" v="+385 99 5629759"/>
     <tag k="website" v="http://insto.hr/"/>
   </node>
-  <node id="3435894736" lat="36.1445505" lon="-5.3526809" version="10" timestamp="2022-09-24T22:06:30Z" changeset="126598373" uid="16998970" user="CoinCornerMSW">
+  <node id="3435894736" lat="36.1445505" lon="-5.3526809" version="11" timestamp="2022-10-30T13:08:38Z" changeset="128245766" uid="16995327" user="CasaHendrix">
     <tag k="addr:street" v="Casemates Square"/>
     <tag k="amenity" v="cafe"/>
     <tag k="brand" v="Costa"/>
@@ -45780,6 +45744,7 @@
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+350 200 43461"/>
+    <tag k="survey:date" v="2022-10-30"/>
     <tag k="takeaway" v="yes"/>
   </node>
   <node id="3436283414" lat="37.5940538" lon="127.0164453" version="3" timestamp="2019-02-10T06:36:11Z" changeset="67064564" uid="7245212" user="LuxuryCoop">
@@ -70807,7 +70772,7 @@
     <tag k="tourism" v="camp_site"/>
     <tag k="website" v="https://www.swanlake.camp/"/>
   </node>
-  <node id="9458410453" lat="36.1410184" lon="-5.3536029" version="3" timestamp="2022-09-24T22:04:27Z" changeset="126598337" uid="16998970" user="CoinCornerMSW">
+  <node id="9458410453" lat="36.1410184" lon="-5.3536029" version="4" timestamp="2022-10-30T13:10:06Z" changeset="128245823" uid="16995327" user="CasaHendrix">
     <tag k="addr:city" v="Gibraltar"/>
     <tag k="addr:housenumber" v="154"/>
     <tag k="addr:postcode" v="GX11 1AA"/>
@@ -70824,8 +70789,9 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+350 200 43461"/>
     <tag k="shop" v="confectionery"/>
+    <tag k="survey:date" v="2022-10-30"/>
   </node>
-  <node id="9458410455" lat="36.1444794" lon="-5.3532838" version="4" timestamp="2022-09-24T22:05:59Z" changeset="126598361" uid="16998970" user="CoinCornerMSW">
+  <node id="9458410455" lat="36.1444794" lon="-5.3532838" version="5" timestamp="2022-10-30T13:09:21Z" changeset="128245791" uid="16995327" user="CasaHendrix">
     <tag k="addr:city" v="Gibraltar"/>
     <tag k="addr:housenumber" v="Unit G10"/>
     <tag k="addr:postcode" v="GX11 1AA"/>
@@ -70841,6 +70807,7 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+35020043461"/>
     <tag k="shop" v="bakery"/>
+    <tag k="survey:date" v="2022-10-30"/>
   </node>
   <node id="9467756907" lat="13.2970053" lon="74.7198522" version="1" timestamp="2022-02-02T06:52:30Z" changeset="116897822" uid="14996521" user="Prathik Kotian">
     <tag k="addr:city" v="Udupi"/>
