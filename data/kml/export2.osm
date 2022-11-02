@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-01T05:55:38Z"/>
+<meta osm_base="2022-11-02T05:50:34Z"/>
 
   <node id="32928873" lat="60.4456888" lon="22.2817727" version="12" timestamp="2020-03-17T13:58:07Z" changeset="82305432" uid="5441080" user="tesp">
     <tag k="addr:city" v="Turku"/>
@@ -37950,18 +37950,6 @@
     <tag k="shop" v="tattoo"/>
     <tag k="website" v="http://www.waynetattoo.com.br/"/>
   </node>
-  <node id="3064183102" lat="13.7598846" lon="100.4974142" version="3" timestamp="2014-09-07T17:19:16Z" changeset="25291220" uid="533395" user="Kalon Gerber">
-    <tag k="addr:city" v="bangkok"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:postcode" v="10200"/>
-    <tag k="addr:street" v="Soi Ram Buttri"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="burger"/>
-    <tag k="name" v="PaulyBee's American Burger"/>
-    <tag k="opening_hours" v="Mo-Su 17:00-02:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+66 84 727 2246"/>
-  </node>
   <node id="3065964592" lat="37.3878996" lon="-5.9676662" version="4" timestamp="2019-08-17T08:37:18Z" changeset="73437483" uid="170106" user="sanchi">
     <tag k="building" v="office"/>
     <tag k="craft" v="photographer"/>
@@ -49443,10 +49431,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.tshwanedje.com/"/>
   </node>
-  <node id="4036218122" lat="60.1647547" lon="24.9280236" version="1" timestamp="2016-03-02T10:47:52Z" changeset="37563670" uid="1959273" user="Coiner">
-    <tag k="name" v="Bitcoin Embassy Helsinki"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="4036226757" lat="60.2043604" lon="24.6569690" version="1" timestamp="2016-03-02T10:53:51Z" changeset="37563768" uid="1959273" user="Coiner">
     <tag k="name" v="2-way Bitcoin ATM, UFF Espoontori"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -58275,37 +58259,6 @@
     <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
     <tag k="website" v="https://www.studiopeterlini.it/"/>
   </node>
-  <node id="5514874061" lat="43.7198492" lon="10.3973451" version="4" timestamp="2021-02-20T21:11:08Z" changeset="99660295" uid="12669335" user="bevalim">
-    <tag k="addr:city" v="Pisa"/>
-    <tag k="addr:housenumber" v="83"/>
-    <tag k="addr:postcode" v="56126"/>
-    <tag k="addr:street" v="Via Santa Maria"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="atm" v="yes"/>
-    <tag k="cuisine" v="coffee_shop;regional;italian;sandwich;pasta"/>
-    <tag k="diet:gluten_free" v="yes"/>
-    <tag k="diet:vegan" v="yes"/>
-    <tag k="diet:vegetarian" v="yes"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="internet_access:ssid" v="devitalia hotspot"/>
-    <tag k="name" v="Pasticceria DolcePisa"/>
-    <tag k="opening_hours" v="Mo-Su 07:20-20:00"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:apple_pay" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoincash" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:google_pay" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:nexi_pay" v="yes"/>
-    <tag k="payment:samsung_pay" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="website" v="https://www.facebook.com/PasticceriaDolcePisa"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="5515779562" lat="44.7472109" lon="16.6747246" version="3" timestamp="2022-07-29T11:25:04Z" changeset="124226531" uid="11629545" user="eclipse28">
     <tag k="addr:city" v="Sanski Most"/>
     <tag k="addr:postcode" v="79260"/>
@@ -64975,26 +64928,6 @@
     <tag k="currency:USD" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="vending" v="condoms"/>
-  </node>
-  <node id="7191469144" lat="43.7198112" lon="10.3973581" version="5" timestamp="2020-08-24T10:12:08Z" changeset="89849860" uid="10840499" user="Talkless">
-    <tag k="amenity" v="atm"/>
-    <tag k="cash_in" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="currency:doge_coin" v="yes"/>
-    <tag k="drive_through" v="yes"/>
-    <tag k="indoor" v="yes"/>
-    <tag k="network" v="BLOCKCHAIN"/>
-    <tag k="operator" v="General Bytes Pisa"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoincash" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:dogecoin" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="7206100678" lat="27.7682535" lon="-15.5485549" version="2" timestamp="2022-02-26T19:04:28Z" changeset="117889102" uid="1337142" user="Nordpfeil">
     <tag k="addr:city" v="San Bartolomé de Tirajana"/>
