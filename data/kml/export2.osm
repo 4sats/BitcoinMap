@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-04T05:33:14Z"/>
+<meta osm_base="2022-11-05T05:27:24Z"/>
 
-  <node id="32928873" lat="60.4456888" lon="22.2817727" version="12" timestamp="2020-03-17T13:58:07Z" changeset="82305432" uid="5441080" user="tesp">
-    <tag k="addr:city" v="Turku"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:postcode" v="20700"/>
-    <tag k="addr:street" v="Itäinen Pitkäkatu"/>
-    <tag k="name" v="Tietokonekauppa"/>
-    <tag k="opening_hours" v="Mo-Fr 10:00-18:00, Sa 11:00-15:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="https://tietokonekauppa.fi/"/>
-  </node>
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
     <tag k="addr:conscriptionnumber" v="460"/>
@@ -366,16 +354,21 @@
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="http://www.sandmanhotels.ca/hotels/winnipeg/"/>
   </node>
-  <node id="614215772" lat="50.9369979" lon="6.9611641" version="12" timestamp="2017-06-21T16:24:28Z" changeset="49725015" uid="16478" user="Raymond">
+  <node id="614215772" lat="50.9369979" lon="6.9611641" version="13" timestamp="2022-11-04T14:00:53Z" changeset="128485880" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Köln"/>
     <tag k="addr:housenumber" v="46"/>
     <tag k="addr:postcode" v="50667"/>
     <tag k="addr:street" v="Heumarkt"/>
     <tag k="amenity" v="pub"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Oscar Lounge"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="source" v="photography"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="http://oscarlounge.de/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -408,7 +401,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-603-846-5552"/>
   </node>
-  <node id="663434366" lat="52.2937191" lon="14.0639909" version="7" timestamp="2021-06-30T10:15:39Z" changeset="107198969" uid="13657066" user="bs324">
+  <node id="663434366" lat="52.2937191" lon="14.0639909" version="8" timestamp="2022-11-04T20:11:37Z" changeset="128499215" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Bad Saarow"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="3"/>
@@ -419,6 +412,7 @@
     <tag k="contact:phone" v="+49 33631 599 92"/>
     <tag k="contact:website" v="https://bahnhofshotel-diebuehne.de/"/>
     <tag k="cuisine" v="german"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="delivery" v="yes"/>
     <tag k="diet:vegan" v="yes"/>
     <tag k="diet:vegetarian" v="yes"/>
@@ -428,7 +422,11 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="payment:credit_cards" v="no"/>
     <tag k="payment:debit_cards" v="no"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:notes" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -1087,7 +1085,7 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://hawsib.com/"/>
   </node>
-  <node id="979110143" lat="51.3677106" lon="6.1510963" version="5" timestamp="2020-06-10T15:27:43Z" changeset="86471095" uid="927112" user="CartoKees">
+  <node id="979110143" lat="51.3677106" lon="6.1510963" version="6" timestamp="2022-11-04T11:34:13Z" changeset="128479138" uid="5432507" user="Knockerclot0715">
     <tag k="addr:city" v="Venlo"/>
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:postcode" v="5921HM"/>
@@ -1096,10 +1094,10 @@
     <tag k="cuisine" v="kebab"/>
     <tag k="name" v="Adana Grill"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="077-3967640"/>
+    <tag k="phone" v="+31 77 396 7640"/>
     <tag k="website" v="http://www.adanagrill.nl/"/>
   </node>
-  <node id="979110144" lat="51.3674702" lon="6.1511367" version="7" timestamp="2020-06-10T15:27:43Z" changeset="86471095" uid="927112" user="CartoKees">
+  <node id="979110144" lat="51.3674702" lon="6.1511367" version="8" timestamp="2022-11-04T11:34:14Z" changeset="128479138" uid="5432507" user="Knockerclot0715">
     <tag k="addr:city" v="Venlo"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="5921HM"/>
@@ -1107,7 +1105,7 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="name" v="Joseph Grill"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="077 387 5152"/>
+    <tag k="phone" v="+31 77 387 5152"/>
     <tag k="website" v="http://www.josephgrill.nl/"/>
   </node>
   <node id="983512739" lat="40.9076669" lon="-74.5519558" version="3" timestamp="2019-04-04T02:42:39Z" changeset="68863921" uid="115918" user="Timothy Smith">
@@ -1168,7 +1166,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="alcohol"/>
   </node>
-  <node id="1093781438" lat="51.0954159" lon="13.7113306" version="4" timestamp="2021-08-20T11:10:31Z" changeset="109981652" uid="1787080" user="vv01f">
+  <node id="1093781438" lat="51.0954159" lon="13.7113306" version="5" timestamp="2022-11-04T20:29:35Z" changeset="128499772" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Dresden"/>
     <tag k="addr:housenumber" v="31"/>
     <tag k="addr:postcode" v="01129"/>
@@ -1176,14 +1174,19 @@
     <tag k="contact:email" v="info@wasserwerk-trachau.de"/>
     <tag k="contact:fax" v="+49 351 33289002"/>
     <tag k="contact:phone" v="+49 351 8475445"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="name" v="Wasserwerk Trachau"/>
     <tag k="note" v="Ferienwohnung"/>
     <tag k="operator" v="Imke Dohmen"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="payment:paypal" v="yes"/>
     <tag k="payment:sepa" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="tourism" v="chalet"/>
     <tag k="website" v="http://www.wasserwerk-trachau.de/"/>
     <tag k="wheelchair" v="no"/>
@@ -1207,97 +1210,6 @@
     <tag k="source:addr" v="cuzk:ruian"/>
     <tag k="source:loc" v="survey"/>
     <tag k="website" v="http://www.umaliru.cz/"/>
-  </node>
-  <node id="1107350984" lat="60.0149367" lon="30.3317309" version="5" timestamp="2018-12-28T16:11:04Z" changeset="65845910" uid="519501" user="parukhin">
-    <tag k="description" v="Продажа земельных участков"/>
-    <tag k="email" v="info@dacha-v-malinovke.ru"/>
-    <tag k="name" v="Малиновка"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="+7 812 6276037;+7 952 2763417;+7 904 6010610"/>
-    <tag k="website" v="http://www.dacha-v-malinovke.ru"/>
-  </node>
-  <node id="1147756663" lat="46.0687513" lon="11.1224948" version="10" timestamp="2021-09-02T06:01:17Z" changeset="110596745" uid="20610" user="napo">
-    <tag k="addr:city" v="Trento"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:postcode" v="38122"/>
-    <tag k="addr:street" v="Via Paolo Oss Mazzurana"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="brewery" v="Forst"/>
-    <tag k="contact:email" v="fb.trento@forst.it"/>
-    <tag k="contact:fax" v="+39 0461 983316"/>
-    <tag k="contact:phone" v="+39 0461 235590"/>
-    <tag k="cuisine" v="german"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="diet:vegan" v="no"/>
-    <tag k="diet:vegetarian" v="yes"/>
-    <tag k="email" v="fb.trento@forst.it"/>
-    <tag k="name" v="Forsterbräu Trento"/>
-    <tag k="note" v="Ristorante Forst"/>
-    <tag k="opening_hours" v="Tu-Su 12:00-14:30,18:00-23:00"/>
-    <tag k="operator" v="In Centro S.r.l."/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
-    <tag k="phone" v="+39 0461235590"/>
-    <tag k="ref:vatin" v="IT02212190223"/>
-    <tag k="website" v="forst-trento.it"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="1172394325" lat="49.7808809" lon="14.4503536" version="6" timestamp="2014-10-27T23:58:46Z" changeset="26377441" uid="1836471" user="Blobo123">
-    <tag k="addr:conscriptionnumber" v="26"/>
-    <tag k="addr:country" v="CZ"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:place" v="Jablonná"/>
-    <tag k="addr:postcode" v="25744"/>
-    <tag k="name" v="Andrago Winery"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="ref:ruian:addr" v="14334178"/>
-    <tag k="shop" v="winery"/>
-    <tag k="website" v="http://www.andrago.cz"/>
-  </node>
-  <node id="1177132292" lat="32.0819938" lon="34.7736786" version="19" timestamp="2019-03-23T21:11:48Z" changeset="68455436" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="תל אביב"/>
-    <tag k="addr:housenumber" v="131"/>
-    <tag k="addr:street" v="דיזנגוף"/>
-    <tag k="contact:email" v="info@palaisdesthes.co.il"/>
-    <tag k="contact:phone" v="+97235221317"/>
-    <tag k="contact:website" v="http://www.palaisdesthes.co.il/"/>
-    <tag k="description:en" v="Tea shop"/>
-    <tag k="int_name" v="Le Palais des Thés"/>
-    <tag k="name" v="Palais des Thes"/>
-    <tag k="name:en" v="Palais des Thes"/>
-    <tag k="name:he" v="פלה דה תה"/>
-    <tag k="opening_hours" v="Mo-Su 09:30-20:00; Fr 09:00-15:00; Sa off"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+97235221317"/>
-    <tag k="shop" v="tea"/>
-    <tag k="website" v="https://palaisdesthes.co.il/"/>
-  </node>
-  <node id="1180644958" lat="48.8431028" lon="2.2443054" version="3" timestamp="2021-06-07T07:33:05Z" changeset="105951684" uid="10301403" user="Rémi Dupré">
-    <tag k="addr:housenumber" v="76"/>
-    <tag k="addr:street" v="Rue du Château"/>
-    <tag k="name" v="John Landot"/>
-    <tag k="opening_hours" v="Tu-Fr 09:30-19:00; Sa 08:30-19:00; PH &quot;unk&quot;"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+331 48 25 94 68"/>
-    <tag k="shop" v="hairdresser"/>
-    <tag k="source" v="survey"/>
-    <tag k="website" v="https://landot-john.business.site"/>
-  </node>
-  <node id="1185570523" lat="39.9991059" lon="-105.2539740" version="10" timestamp="2022-05-30T16:32:25Z" changeset="121729519" uid="338843" user="TorCguy">
-    <tag k="addr:city" v="Boulder"/>
-    <tag k="addr:housenumber" v="675"/>
-    <tag k="addr:street" v="30th Street"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="barbecue"/>
-    <tag k="name" v="Moe's Original Bar B Que"/>
-    <tag k="not:brand:wikidata" v="Q6889938"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1 303 440 4227"/>
-    <tag k="website" v="https://www.moesoriginalbbq.com/"/>
   </node>
   <node id="1205027816" lat="37.7937537" lon="-122.4041745" version="5" timestamp="2022-04-08T19:35:04Z" changeset="119482970" uid="364" user="Edward">
     <tag k="addr:city" v="San Francisco"/>
@@ -2152,7 +2064,7 @@
     <tag k="website" v="https://www.brennansbythebeach.com/"/>
     <tag k="wifi" v="yes"/>
   </node>
-  <node id="1667817482" lat="50.8346058" lon="12.9397345" version="9" timestamp="2022-09-10T20:17:41Z" changeset="126028971" uid="11695431" user="wielandb">
+  <node id="1667817482" lat="50.8346058" lon="12.9397345" version="10" timestamp="2022-11-04T20:33:05Z" changeset="128499894" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Chemnitz"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="40"/>
@@ -2160,12 +2072,17 @@
     <tag k="addr:street" v="Zietenstraße"/>
     <tag k="amenity" v="cafe"/>
     <tag k="contact:website" v="http://kaffeesatz-chemnitz.info"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Lese- und Kulturcafé"/>
     <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="Kaffee Satz"/>
     <tag k="opening_hours:signed" v="no"/>
     <tag k="outdoor_seating" v="no"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="wheelchair" v="limited"/>
   </node>
   <node id="1671589650" lat="37.7510094" lon="-97.2617458" version="3" timestamp="2021-07-17T19:48:12Z" changeset="108172165" uid="10481657" user="mongrels">
@@ -2317,7 +2234,7 @@
     <tag k="tourism" v="apartment"/>
     <tag k="website" v="https://www.viapunta8.com"/>
   </node>
-  <node id="1709324864" lat="51.6948766" lon="5.2187535" version="6" timestamp="2022-01-31T15:13:46Z" changeset="116827956" uid="12424494" user="lovelyfurball88">
+  <node id="1709324864" lat="51.6948766" lon="5.2187535" version="7" timestamp="2022-11-04T12:12:50Z" changeset="128479968" uid="5432507" user="Knockerclot0715">
     <tag k="addr:city" v="Vlijmen"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="5251AS"/>
@@ -2326,7 +2243,7 @@
     <tag k="cuisine" v="kebab,_pizza,_shoarma"/>
     <tag k="name" v="Eetcafe Brabant"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+31 073 - 518 51 12"/>
+    <tag k="phone" v="+31 73 518 5112"/>
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-06-02"/>
     <tag k="website" v="https://www.thuisbezorgd.nl/brabant-vlijmen-1"/>
@@ -2491,20 +2408,25 @@
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="http://www.lacasadelalmirante.com"/>
   </node>
-  <node id="1755938392" lat="50.1805534" lon="6.0220739" version="3" timestamp="2020-07-23T12:11:25Z" changeset="88402954" uid="40611" user="Stereo">
+  <node id="1755938392" lat="50.1805534" lon="6.0220739" version="4" timestamp="2022-11-04T20:56:54Z" changeset="128500644" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Huldange"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="9964"/>
     <tag k="addr:street" v="Op d'Schmëtt"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Connect-IT"/>
     <tag k="opening_hours" v="Mo-Su 10:00-19:00"/>
     <tag k="operator" v="Connect-IT"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="payment:paypal" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="ref:caclr" v="128950"/>
     <tag k="shop" v="hifi"/>
+    <tag k="survey:date" v="2022-11-04"/>
   </node>
   <node id="1765786432" lat="52.5847198" lon="13.2860195" version="7" timestamp="2022-10-16T18:53:02Z" changeset="127632454" uid="60987" user="lapistano">
     <tag k="addr:city" v="Berlin"/>
@@ -2926,19 +2848,6 @@
     <tag k="opening_hours" v="Mo-Su 07:30-14:30"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="1977814684" lat="60.0195136" lon="22.5062719" version="7" timestamp="2020-11-01T09:57:22Z" changeset="93363769" uid="5258545" user="j numminen">
-    <tag k="addr:city" v="Dalsbruk"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="25900"/>
-    <tag k="addr:street" v="Stallbacksvägen"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="international"/>
-    <tag k="name" v="Portside"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+358 2 466 1745"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="website" v="http://www.portside.fi/"/>
-  </node>
   <node id="1985330445" lat="35.6638498" lon="139.7323921" version="10" timestamp="2022-10-25T13:26:37Z" changeset="128040404" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="港区 (Minato)"/>
     <tag k="addr:country" v="JP"/>
@@ -3345,12 +3254,13 @@
     <tag k="ref:vatin" v="IT01809640228"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2155601567" lat="50.7378257" lon="7.0917980" version="14" timestamp="2020-01-18T16:01:51Z" changeset="79734454" uid="1230741" user="anstec">
+  <node id="2155601567" lat="50.7378257" lon="7.0917980" version="15" timestamp="2022-11-04T14:04:10Z" changeset="128486027" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Bonn"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:postcode" v="53111"/>
     <tag k="addr:street" v="Franzstraße"/>
     <tag k="craft" v="electronics_repair"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="anstec@gmx.de"/>
     <tag k="name" v="ANSTEC, Electronics"/>
     <tag k="opening_hours" v="24/7"/>
@@ -3358,8 +3268,12 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:coins" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:notes" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 1525 6072186"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.anstec.de"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -3439,21 +3353,26 @@
     <tag k="shop" v="beauty"/>
     <tag k="website" v="https://www.bellezzastudio.eu/"/>
   </node>
-  <node id="2171575063" lat="49.8396560" lon="8.1130554" version="7" timestamp="2021-05-14T11:39:25Z" changeset="104682174" uid="759176" user="gbm1">
+  <node id="2171575063" lat="49.8396560" lon="8.1130554" version="8" timestamp="2022-11-04T20:49:03Z" changeset="128500393" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Wörrstadt"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="55286"/>
     <tag k="addr:street" v="Obere Schulstraße"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="diet:vegan" v="yes"/>
     <tag k="diet:vegetarian" v="yes"/>
     <tag k="email" v="kontakt@mare-nero.de"/>
     <tag k="name" v="Mare Nero"/>
     <tag k="opening_hours" v="Mo off; Tu,Th,Fr 11:30-14:30,17:30-22:30; We,Sa,Su 17:30-22:30"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 6732 9385493"/>
     <tag k="smoking" v="no"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://mare-nero.de/"/>
   </node>
   <node id="2185635271" lat="-23.7860366" lon="-45.5616388" version="2" timestamp="2022-05-16T22:38:54Z" changeset="121072274" uid="9451067" user="b-jazz-bot">
@@ -4876,24 +4795,27 @@
     <tag k="office" v="lawyer"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2396588696" lat="51.0636010" lon="13.8225530" version="13" timestamp="2022-10-15T20:25:13Z" changeset="127587614" uid="668096" user="jmann6">
+  <node id="2396588696" lat="51.0636010" lon="13.8225530" version="14" timestamp="2022-11-04T20:31:23Z" changeset="128499848" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Dresden"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:postcode" v="01324"/>
     <tag k="addr:street" v="Bautzner Landstraße"/>
     <tag k="contact:email" v="brotundmehrdresden@gmail.com"/>
     <tag k="contact:website" v="https://www.brotundmehr-dresden.com/pages/kontakt"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Brot und mehr"/>
     <tag k="opening_hours" v="Tu-Fr 07:30-16:00; Sa-Su 07:30-10:00"/>
     <tag k="operator" v="Manon Fischer"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="payment:paypal" v="yes"/>
     <tag k="phone" v="+493512 68 38 13"/>
     <tag k="shop" v="bakery"/>
-    <tag k="survey:date" v="2022-10-15"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.brotundmehr-dresden.com/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -6053,10 +5975,15 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.churrascoshop.com/"/>
   </node>
-  <node id="2465924363" lat="49.9763169" lon="6.7418998" version="3" timestamp="2017-10-08T17:54:13Z" changeset="52737349" uid="1431737" user="ma-rt-in">
+  <node id="2465924363" lat="49.9763169" lon="6.7418998" version="4" timestamp="2022-11-04T20:56:21Z" changeset="128500624" uid="17441326" user="BSN21M">
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="JFF-Software"/>
     <tag k="office" v="it"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
   </node>
   <node id="2466096366" lat="39.9893136" lon="-75.0969678" version="1" timestamp="2013-09-21T01:38:58Z" changeset="17949321" uid="1749374" user="Ben Harper 21">
     <tag k="building" v="office"/>
@@ -6077,24 +6004,6 @@
     <tag k="name" v="Netsolus"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.netsolus.com/"/>
-  </node>
-  <node id="2467059186" lat="63.7188423" lon="18.7040275" version="7" timestamp="2020-02-03T15:21:09Z" changeset="80486873" uid="314075" user="jonasbits">
-    <tag k="addr:city" v="TREHÖRNINGSJÖ"/>
-    <tag k="addr:country" v="SE"/>
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:postcode" v="89054"/>
-    <tag k="addr:street" v="Djuptjärn"/>
-    <tag k="building" v="commercial"/>
-    <tag k="contact:email" v="soeren@gideget.se"/>
-    <tag k="name" v="Gide Get HB"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+4666221043"/>
-    <tag k="shop" v="convenience"/>
-    <tag k="website" v="http://gideget.se"/>
   </node>
   <node id="2467223142" lat="45.5253582" lon="-73.5975839" version="5" timestamp="2019-02-21T02:07:00Z" changeset="67414189" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Montreal"/>
@@ -8314,12 +8223,17 @@
     <tag k="source" v="Geoportal Berlin / Hauskoordinaten"/>
     <tag k="website" v="https://musikschule-kling-klang.de/"/>
   </node>
-  <node id="2537222032" lat="50.9928886" lon="12.4361553" version="4" timestamp="2014-01-05T14:46:39Z" changeset="19824249" uid="163524" user="hoda">
+  <node id="2537222032" lat="50.9928886" lon="12.4361553" version="5" timestamp="2022-11-04T20:35:42Z" changeset="128499993" uid="17441326" user="BSN21M">
     <tag k="craft" v="art"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Artefacti Ltd."/>
     <tag k="operator" v="Michael Külbel"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:litecoin" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="http://artefacti.de/"/>
   </node>
   <node id="2537329609" lat="37.3838236" lon="-122.0126427" version="4" timestamp="2020-05-30T07:16:08Z" changeset="85974101" uid="841377" user="dead10ck">
@@ -8387,17 +8301,22 @@
     <tag k="phone" v="888-268-1513"/>
     <tag k="website" v="https://wallowavalley.net/"/>
   </node>
-  <node id="2539516073" lat="49.6463986" lon="6.2254280" version="4" timestamp="2016-10-03T18:30:31Z" changeset="42612182" uid="40611" user="Stereo">
+  <node id="2539516073" lat="49.6463986" lon="6.2254280" version="5" timestamp="2022-11-04T20:55:18Z" changeset="128500582" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Senningerberg"/>
     <tag k="addr:country" v="LU"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:postcode" v="1209"/>
     <tag k="addr:street" v="Domaine des Bleuets"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="drink:wine" v="yes"/>
     <tag k="name" v="Maison Géorgienne Tamada"/>
     <tag k="note" v="Specialist in Georgian Wine."/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="alcohol"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="http://www.mgtamada.com/"/>
   </node>
   <node id="2539594499" lat="38.2384319" lon="21.7463968" version="2" timestamp="2018-10-25T16:54:06Z" changeset="63869414" uid="653" user="aitolos">
@@ -9034,28 +8953,34 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://thetaxman.ca/"/>
   </node>
-  <node id="2550174457" lat="49.9809231" lon="8.3075330" version="8" timestamp="2019-03-07T15:27:26Z" changeset="67887403" uid="9451067" user="b-jazz-bot">
+  <node id="2550174457" lat="49.9809231" lon="8.3075330" version="9" timestamp="2022-11-04T20:49:42Z" changeset="128500412" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Mainz"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="153"/>
     <tag k="addr:postcode" v="55130"/>
     <tag k="addr:street" v="Wormser Straße"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Antiquitäten • Accessoires • Möbel-RestaurationMassivholzanfertigungen • Polster-/GeflechtarbeitenAnkauf und Verkauf"/>
     <tag k="email" v="info@labelleepoque.de"/>
     <tag k="name" v="La Belle Epoque"/>
     <tag k="opening_hours" v="Mo 09:00-20:00; Tu-Fr 14:00-20:00; Sa 10:00-16:00"/>
     <tag k="operator" v="Antoine Sven Richard"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 6131 8 58 88"/>
     <tag k="shop" v="antiques"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.labelleepoque.de/"/>
   </node>
-  <node id="2550176088" lat="49.3383288" lon="10.7906007" version="4" timestamp="2014-08-20T15:04:22Z" changeset="24887221" uid="48005" user="geo-pate">
+  <node id="2550176088" lat="49.3383288" lon="10.7906007" version="5" timestamp="2022-11-04T20:16:06Z" changeset="128499339" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Heilsbronn"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="91560"/>
     <tag k="addr:street" v="Hauptstraße"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Sytemhaus"/>
     <tag k="email" v="info@bits-systemhaus.de"/>
     <tag k="fax" v="+49 9872 365 93 28"/>
@@ -9063,8 +8988,12 @@
     <tag k="office" v="it"/>
     <tag k="operator" v="Gordon Leu"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 9872 365 933 0"/>
     <tag k="shop" v="computer"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="http://www.bits-systemhaus.de"/>
   </node>
   <node id="2550177260" lat="32.8070146" lon="-96.8280238" version="6" timestamp="2019-10-25T18:54:36Z" changeset="76224726" uid="115918" user="Timothy Smith">
@@ -9079,21 +9008,26 @@
     <tag k="shop" v="antiques"/>
     <tag k="website" v="http://www.lucasstreetantiques.com/"/>
   </node>
-  <node id="2550178096" lat="51.4834901" lon="12.0043300" version="3" timestamp="2019-03-12T21:52:17Z" changeset="68079432" uid="9451067" user="b-jazz-bot">
+  <node id="2550178096" lat="51.4834901" lon="12.0043300" version="4" timestamp="2022-11-04T20:28:28Z" changeset="128499735" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Halle (Saale)"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="44"/>
     <tag k="addr:postcode" v="06116"/>
     <tag k="addr:street" v="Reideburger Straße"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="shirtzshop@gmx.de"/>
     <tag k="name" v="L&amp;H shirtzshop GmbH"/>
     <tag k="operator" v="Sven Liebich"/>
     <tag k="payment:american_express" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+49 3212 10 87 055"/>
     <tag k="shop" v="printing"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.shirtzshop.de/"/>
   </node>
   <node id="2550200889" lat="52.4045745" lon="4.8905624" version="3" timestamp="2017-12-27T14:26:39Z" changeset="54957175" uid="2127813" user="Digne">
@@ -9125,21 +9059,21 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.lahorecarpet.com/"/>
   </node>
-  <node id="2550309497" lat="52.0779072" lon="5.1431507" version="5" timestamp="2020-06-12T14:20:51Z" changeset="86571772" uid="927112" user="CartoKees">
+  <node id="2550309497" lat="52.0779072" lon="5.1431507" version="6" timestamp="2022-11-04T13:19:36Z" changeset="128483775" uid="5432507" user="Knockerclot0715">
     <tag k="addr:city" v="Utrecht"/>
     <tag k="addr:country" v="NL"/>
     <tag k="addr:housenumber" v="110"/>
     <tag k="addr:postcode" v="3584AA"/>
     <tag k="addr:street" v="Herculesplein"/>
     <tag k="email" v="info@lieferservice.de"/>
-    <tag k="fax" v="+31 53 4805861"/>
+    <tag k="fax" v="+31 53 480 5861"/>
     <tag k="name" v="Lieferservice"/>
     <tag k="office" v="marketing"/>
     <tag k="operator" v="Jitse Groen"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.lieferservice.de"/>
   </node>
-  <node id="2550321613" lat="51.5022771" lon="9.3920817" version="4" timestamp="2022-07-15T23:32:49Z" changeset="123671880" uid="251543" user="ChrissW-R1">
+  <node id="2550321613" lat="51.5022771" lon="9.3920817" version="5" timestamp="2022-11-04T20:07:05Z" changeset="128499097" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Hofgeismar"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="8"/>
@@ -9152,8 +9086,13 @@
     <tag k="contact:postcode" v="10245"/>
     <tag k="contact:street" v="Ehrenbergstraße"/>
     <tag k="contact:website" v="http://eichenhain.com"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Eichenhain"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
   </node>
   <node id="2550365703" lat="52.2841126" lon="10.5846242" version="3" timestamp="2019-03-11T14:13:05Z" changeset="68024021" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Braunschweig"/>
@@ -9271,17 +9210,22 @@
     <tag k="phone" v="+49 (0) 211 - 9385385"/>
     <tag k="website" v="https://www.ottonormalo.de/"/>
   </node>
-  <node id="2550577308" lat="50.7597719" lon="11.4890036" version="3" timestamp="2014-09-02T18:35:32Z" changeset="25188095" uid="1260280" user="jacobbraeutigam">
+  <node id="2550577308" lat="50.7597719" lon="11.4890036" version="4" timestamp="2022-11-04T20:36:53Z" changeset="128500028" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Uhlstädt-Kirchhasel"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="39a"/>
     <tag k="addr:street" v="Beutelsdorf"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="CarHifi &amp; Tuning"/>
     <tag k="email" v="info@carhifidirekt.de"/>
     <tag k="name" v="WTS"/>
     <tag k="office" v="trade"/>
     <tag k="operator" v="Inh. Dipl.Ing (FH) Marcel Wagner"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
   </node>
   <node id="2550836494" lat="53.5645119" lon="9.9220979" version="4" timestamp="2022-09-23T18:30:51Z" changeset="126559568" uid="10114379" user="JannikK">
     <tag k="addr:city" v="Hamburg"/>
@@ -9599,13 +9543,18 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.crypto-stick.com/"/>
   </node>
-  <node id="2552343449" lat="50.9929098" lon="12.4362094" version="2" timestamp="2014-01-05T14:46:39Z" changeset="19824249" uid="163524" user="hoda">
+  <node id="2552343449" lat="50.9929098" lon="12.4362094" version="3" timestamp="2022-11-04T20:35:27Z" changeset="128499981" uid="17441326" user="BSN21M">
     <tag k="craft" v="art"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="info@bg-programming.de"/>
     <tag k="name" v="Bitzon.de / BG-Programming"/>
     <tag k="operator" v="Benjamin Götze"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 3447 84 78 22"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="http://www.bitzon.de/"/>
   </node>
   <node id="2552354020" lat="40.1103871" lon="29.9978568" version="6" timestamp="2020-09-24T14:00:10Z" changeset="91441011" uid="3997418" user="Alikam">
@@ -9624,20 +9573,25 @@
     <tag k="website" v="https://www.facebook.com/istasyon.eczanesi"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2552394818" lat="50.5267082" lon="8.6638577" version="1" timestamp="2013-11-26T11:23:10Z" changeset="19124856" uid="1787080" user="vv01f">
+  <node id="2552394818" lat="50.5267082" lon="8.6638577" version="2" timestamp="2022-11-04T18:33:29Z" changeset="128496181" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Linden"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="35440"/>
     <tag k="addr:street" v="Am Pfad"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Elektronik-Versand"/>
     <tag k="name" v="chip45 GmbH &amp; Co. KG"/>
     <tag k="office" v="it"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="payment:paypal" v="yes"/>
     <tag k="payment:wire" v="yes"/>
     <tag k="shop" v="it"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="http://www.chip45.com/"/>
   </node>
   <node id="2552404512" lat="54.8522778" lon="-1.8332572" version="3" timestamp="2019-03-23T03:43:14Z" changeset="68433810" uid="9451067" user="b-jazz-bot">
@@ -9697,18 +9651,23 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.l4sb.com/"/>
   </node>
-  <node id="2552581603" lat="50.7244416" lon="7.1510618" version="3" timestamp="2015-01-29T03:13:14Z" changeset="28478873" uid="2547003" user="dalchimsky">
+  <node id="2552581603" lat="50.7244416" lon="7.1510618" version="4" timestamp="2022-11-04T14:05:23Z" changeset="128486083" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Bonn"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="74"/>
     <tag k="addr:postcode" v="53227"/>
     <tag k="addr:street" v="An der Umkehr"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="fax" v="+49 228 933 99 191"/>
     <tag k="name" v="Starkmuth Publishing"/>
     <tag k="office" v="writer"/>
     <tag k="operator" v="Dipl.-Ing. Jörg Starkmuth"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 228 933 99 190"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="http://www.starkmuth.de"/>
   </node>
   <node id="2552581919" lat="55.8639145" lon="-4.2838254" version="4" timestamp="2020-01-05T12:13:09Z" changeset="79211098" uid="53626" user="jambamkin">
@@ -10353,15 +10312,19 @@
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="www.darkstonebromelias.org"/>
   </node>
-  <node id="2555413820" lat="50.9220684" lon="6.9572049" version="9" timestamp="2022-11-03T08:50:25Z" changeset="128426501" uid="13071070" user="exarkun">
+  <node id="2555413820" lat="50.9220684" lon="6.9572049" version="10" timestamp="2022-11-04T13:58:17Z" changeset="128485788" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Köln"/>
     <tag k="addr:housenumber" v="34"/>
     <tag k="addr:postcode" v="50678"/>
     <tag k="addr:street" v="Karolingerring"/>
     <tag k="contact:email" v="info@mika-amaro.com"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="mika amaro - Urban Bikes, Fahrräder"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:litecoin" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 221 204 217 23"/>
     <tag k="sell:brooks" v="yes"/>
     <tag k="sell:gates_carbon_drive" v="yes"/>
@@ -10370,12 +10333,18 @@
     <tag k="sell:shimano" v="yes"/>
     <tag k="sell:single_speed_bike" v="yes"/>
     <tag k="shop" v="bicycle"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.mika-amaro.com"/>
   </node>
-  <node id="2555501090" lat="50.1011625" lon="8.6838946" version="11" timestamp="2022-10-10T08:12:32Z" changeset="127287110" uid="17369640" user="svmonk">
+  <node id="2555501090" lat="50.1011625" lon="8.6838946" version="12" timestamp="2022-11-04T20:52:52Z" changeset="128500513" uid="17441326" user="BSN21M">
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Katrin Probst Photography"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="photography"/>
+    <tag k="survey:date" v="2022-11-04"/>
   </node>
   <node id="2555534119" lat="45.1354272" lon="12.0837095" version="4" timestamp="2020-01-11T23:38:23Z" changeset="79463886" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Cavarzere"/>
@@ -11042,14 +11011,19 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.0011.sk"/>
   </node>
-  <node id="2558251166" lat="51.0276856" lon="7.5676903" version="4" timestamp="2019-03-09T16:08:50Z" changeset="67964349" uid="9451067" user="b-jazz-bot">
+  <node id="2558251166" lat="51.0276856" lon="7.5676903" version="5" timestamp="2022-11-04T20:03:31Z" changeset="128498997" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Gummersbach"/>
     <tag k="addr:housenumber" v="24-26"/>
     <tag k="addr:postcode" v="51643"/>
     <tag k="addr:street" v="Schützenstraße"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="RaymundMedia"/>
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.raymundmedia.de/shop"/>
   </node>
   <node id="2558339987" lat="52.0735984" lon="4.3157913" version="10" timestamp="2022-07-03T10:47:44Z" changeset="123146502" uid="483075" user="lyctkel">
@@ -14588,13 +14562,18 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="website" v="https://www.etsy.com/shop/theAnvilry"/>
   </node>
-  <node id="2586034586" lat="49.9271391" lon="8.4850837" version="1" timestamp="2013-12-19T01:30:38Z" changeset="19524666" uid="1848317" user="cgallmann">
+  <node id="2586034586" lat="49.9271391" lon="8.4850837" version="3" timestamp="2022-11-04T20:49:58Z" changeset="128500418" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Groß-Gerau"/>
     <tag k="addr:housenumber" v="72"/>
     <tag k="addr:postcode" v="64521"/>
     <tag k="addr:street" v="Frankfurter Straße"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="CG Computerservice"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="http://www.cg-computerservice.de/"/>
   </node>
   <node id="2586209311" lat="39.4521591" lon="-76.6371969" version="3" timestamp="2015-11-13T12:35:04Z" changeset="35282893" uid="2859402" user="Sarr_Cat">
@@ -15053,16 +15032,6 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="tourism" v="apartment"/>
     <tag k="website" v="https://www.adormo.com/en/6159"/>
-  </node>
-  <node id="2593897568" lat="61.2581020" lon="12.3261350" version="7" timestamp="2022-07-14T05:11:46Z" changeset="123589315" uid="9224679" user="addr2osm">
-    <tag k="addr:housename" v="summer/winter holiday house"/>
-    <tag k="name" v="Holiday house- Elvdalsvegen 18, nybergsund, Norway"/>
-    <tag k="operator" v="R. Nijman"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="+31613914809"/>
-    <tag k="tourism" v="guest_house"/>
-    <tag k="website" v="https://ski-norway.webs.com/"/>
   </node>
   <node id="2593952516" lat="51.4298884" lon="5.5845378" version="6" timestamp="2019-12-22T01:36:28Z" changeset="78724559" uid="553736" user="A67-A67">
     <tag k="addr:street" v="Rederijklaan"/>
@@ -18237,17 +18206,21 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+5493815039235;+5493815497655"/>
   </node>
-  <node id="2623235283" lat="62.3830595" lon="21.2230570" version="4" timestamp="2015-10-27T20:29:57Z" changeset="34913086" uid="520239" user="Gutsycat">
+  <node id="2623235283" lat="62.3830595" lon="21.2230570" version="5" timestamp="2022-11-04T12:18:15Z" changeset="128481209" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Kaskinen"/>
     <tag k="addr:housename" v="Butik Wasa Bank"/>
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:postcode" v="64260"/>
     <tag k="addr:street" v="Raatihuoneenkatu"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Butik Wasa Bank"/>
     <tag k="opening_hours" v="09:00-21:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+358 50 4111703"/>
-    <tag k="shop" v="boutique"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.facebook.com/pages/Butik-Wasa-Bank/185865134941183"/>
   </node>
   <node id="2623249185" lat="-37.8007406" lon="174.8764077" version="6" timestamp="2021-03-25T23:32:13Z" changeset="101749336" uid="8389777" user="kylenz_linz">
@@ -19441,7 +19414,7 @@
     <tag k="name" v="O'Caire"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2634481804" lat="51.5087052" lon="7.1015574" version="1" timestamp="2014-01-23T22:28:34Z" changeset="20168899" uid="1900186" user="Costner">
+  <node id="2634481804" lat="51.5087052" lon="7.1015574" version="2" timestamp="2022-11-04T21:00:24Z" changeset="128500760" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Gelsenkirchen"/>
     <tag k="addr:housename" v="Beisenbusch &amp; Küstner GbR"/>
     <tag k="addr:housenumber" v="41"/>
@@ -19449,8 +19422,13 @@
     <tag k="addr:street" v="Beskenstraße"/>
     <tag k="craft" v="caterer"/>
     <tag k="cuisine" v="regional"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Bang Bang Gelsen"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="http://bangbanggelsen.com/"/>
   </node>
   <node id="2634482648" lat="26.5868591" lon="-82.0348965" version="1" timestamp="2014-01-23T22:29:25Z" changeset="20168919" uid="1844441" user="mediaspree">
@@ -19978,19 +19956,24 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://highkart.com"/>
   </node>
-  <node id="2641903654" lat="50.6615453" lon="14.0088178" version="5" timestamp="2019-03-30T04:11:31Z" changeset="68685305" uid="9451067" user="b-jazz-bot">
+  <node id="2641903654" lat="50.6615453" lon="14.0088178" version="6" timestamp="2022-11-04T20:34:37Z" changeset="128499952" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Ústí nad Labem"/>
     <tag k="addr:housename" v="Provozovna PAMS"/>
     <tag k="addr:housenumber" v="49"/>
     <tag k="addr:postcode" v="40001"/>
     <tag k="addr:street" v="Jateční"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="nášivky - výšivky - vyšívání - textil"/>
     <tag k="description:de" v="Aufnäher, Stickereien, Textilien"/>
     <tag k="description:en" v="Embroidery - Textiles"/>
     <tag k="name" v="PAMS"/>
     <tag k="note" v="ISO 9001"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+420 475 669 999"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.pams.eu/"/>
   </node>
   <node id="2641921771" lat="32.0404699" lon="34.7522591" version="5" timestamp="2017-06-06T09:15:50Z" changeset="49299149" uid="5816834" user="SafwatHalaby_bot">
@@ -21648,15 +21631,20 @@
     <tag k="phone" v="+49 (0) 40 413300-0"/>
     <tag k="website" v="https://www.internetq.com/"/>
   </node>
-  <node id="2668432040" lat="50.9337790" lon="6.9384560" version="3" timestamp="2019-03-28T11:00:46Z" changeset="68620697" uid="9451067" user="b-jazz-bot">
+  <node id="2668432040" lat="50.9337790" lon="6.9384560" version="4" timestamp="2022-11-04T13:59:43Z" changeset="128485829" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Köln"/>
     <tag k="addr:housenumber" v="38a"/>
     <tag k="addr:postcode" v="50674"/>
     <tag k="addr:street" v="Engelbertstraße"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Internetq"/>
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 (0) 40 413300-0"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.internetq.com/"/>
   </node>
   <node id="2668451448" lat="41.0761905" lon="29.0104424" version="2" timestamp="2019-03-24T01:02:39Z" changeset="68458773" uid="9451067" user="b-jazz-bot">
@@ -23747,26 +23735,6 @@
     <tag k="ref:linz:address_id" v="363720"/>
     <tag k="website" v="http://www.matrix-typography.co.nz/"/>
   </node>
-  <node id="2703454280" lat="50.6406163" lon="6.7038843" version="3" timestamp="2022-09-10T09:07:06Z" changeset="126007129" uid="17083677" user="f321x">
-    <tag k="addr:city" v="Mechernich"/>
-    <tag k="addr:country" v="DE"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:postcode" v="53894"/>
-    <tag k="addr:street" v="Christian-Schlömer-Ring"/>
-    <tag k="addr:suburb" v="Obergartzem"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="info@mcchip-dkr.com"/>
-    <tag k="fax" v="+49 2256 956968"/>
-    <tag k="name" v="mcchip-dkr"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
-    <tag k="operator" v="mcchip-dkr GmbH &amp; Co. KG"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+49 2256 6699960"/>
-    <tag k="service" v="parts;tuning"/>
-    <tag k="shop" v="car_repair"/>
-    <tag k="website" v="https://mcchip-dkr.com/"/>
-  </node>
   <node id="2703534609" lat="52.4691009" lon="16.9380669" version="9" timestamp="2022-10-27T09:41:28Z" changeset="128120358" uid="10396321" user="saunter">
     <tag k="addr:city" v="Poznań"/>
     <tag k="addr:housenumber" v="17"/>
@@ -24240,7 +24208,7 @@
     <tag k="phone" v="+1-514-932-6912"/>
     <tag k="website" v="http://sigmaconcept.ca/"/>
   </node>
-  <node id="2712547858" lat="50.8642243" lon="10.6243941" version="9" timestamp="2019-08-27T12:41:50Z" changeset="73796271" uid="2127855" user="czubi">
+  <node id="2712547858" lat="50.8642243" lon="10.6243941" version="10" timestamp="2022-11-04T20:38:37Z" changeset="128500075" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Friedrichroda"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="99894"/>
@@ -24249,11 +24217,16 @@
     <tag k="contact:email" v="g.kanzler@pagrantho.eu"/>
     <tag k="contact:phone" v="+49 3623 310 600"/>
     <tag k="contact:website" v="http://www.pagrantho.eu/"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="PAGRANTHO Fenster &amp; Türen"/>
     <tag k="office" v="company"/>
     <tag k="opening_hours" v="09:00-17:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:litecoin" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
   </node>
   <node id="2712559238" lat="48.1590860" lon="10.8303499" version="7" timestamp="2019-01-31T14:18:18Z" changeset="66803837" uid="14390" user="BeKri">
     <tag k="addr:city" v="Klosterlechfeld"/>
@@ -24266,7 +24239,7 @@
     <tag k="source" v="chris@seo-coaching.de"/>
     <tag k="website" v="http://www.seo-coaching.de"/>
   </node>
-  <node id="2712591777" lat="50.8636944" lon="10.6170200" version="7" timestamp="2018-05-08T02:23:51Z" changeset="58774586" uid="6683291" user="amilen">
+  <node id="2712591777" lat="50.8636944" lon="10.6170200" version="8" timestamp="2022-11-04T20:38:18Z" changeset="128500066" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Friedrichroda"/>
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:postcode" v="99894"/>
@@ -24275,11 +24248,16 @@
     <tag k="contact:email" v="g.kanzler@pagrantho.eu"/>
     <tag k="contact:phone" v="+49 1577 332 5805"/>
     <tag k="contact:website" v="http://www.pagrantho.eu/"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="PAGRANTHO Fenster &amp; Türen"/>
     <tag k="office" v="company"/>
     <tag k="opening_hours" v="09:00-17:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:litecoin" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
   </node>
   <node id="2713366847" lat="43.7879710" lon="-88.4323927" version="8" timestamp="2016-01-28T22:28:00Z" changeset="36867147" uid="336222" user="LocalTrailgeek">
     <tag k="addr:city" v="Fond du Lac"/>
@@ -27471,16 +27449,21 @@
     <tag k="shop" v="locksmith"/>
     <tag k="website" v="https://www.surelocksmith.com/"/>
   </node>
-  <node id="2747411703" lat="50.1234879" lon="8.6426864" version="5" timestamp="2022-07-11T12:48:02Z" changeset="123474262" uid="132740" user="Creando">
+  <node id="2747411703" lat="50.1234879" lon="8.6426864" version="6" timestamp="2022-11-04T20:51:46Z" changeset="128500475" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Frankfurt am Main"/>
     <tag k="addr:housenumber" v="81"/>
     <tag k="addr:postcode" v="60487"/>
     <tag k="addr:street" v="Leipziger Straße"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Kartenvorverkauf F. Demir"/>
     <tag k="opening_hours" v="08:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:coins" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="kiosk"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2747434624" lat="-37.9952927" lon="145.1082515" version="1" timestamp="2014-03-27T13:34:40Z" changeset="21344823" uid="157750" user="blueteq">
@@ -28357,16 +28340,6 @@
     <tag k="phone" v="+1 305 240 8501"/>
     <tag k="website" v="http://miamiexoticcarrentals.me/"/>
   </node>
-  <node id="2759787930" lat="26.0580464" lon="119.3389747" version="4" timestamp="2020-07-06T05:09:55Z" changeset="87576264" uid="274857" user="Supaplex">
-    <tag k="addr:street" v="福州花鸟市场"/>
-    <tag k="designation" v="福州花鸟市场801"/>
-    <tag k="name" v="裕和轩"/>
-    <tag k="name:en" v="Yuhe-Xuan"/>
-    <tag k="name:zh" v="裕和轩"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="supermarket"/>
-    <tag k="website" v="http://www.yuhe-xuan.com"/>
-  </node>
   <node id="2760034578" lat="33.7013886" lon="-117.9151513" version="2" timestamp="2014-04-02T04:37:38Z" changeset="21450401" uid="2013011" user="eCoinduit">
     <tag k="addr:city" v="Santa Ana"/>
     <tag k="addr:housenumber" v="3400"/>
@@ -28648,7 +28621,7 @@
     <tag k="source:date" v="2014-03-24"/>
     <tag k="website" v="http://softrare.eu/"/>
   </node>
-  <node id="2762714690" lat="51.5880451" lon="4.5286544" version="4" timestamp="2022-01-06T10:29:26Z" changeset="115830635" uid="10875409" user="Friendly_Ghost">
+  <node id="2762714690" lat="51.5880451" lon="4.5286544" version="5" timestamp="2022-11-04T12:14:48Z" changeset="128479968" uid="5432507" user="Knockerclot0715">
     <tag k="addr:city" v="Oudenbosch"/>
     <tag k="addr:housenumber" v="33"/>
     <tag k="addr:postcode" v="4731HX"/>
@@ -28660,7 +28633,7 @@
     <tag k="opening_hours" v="Tu-Su 11:00-23:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="+31165 726 996"/>
+    <tag k="phone" v="+31 165 726 996"/>
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-03-24"/>
     <tag k="website" v="https://www.brasserietivoli.nl"/>
@@ -28820,17 +28793,22 @@
     <tag k="shop" v="car"/>
     <tag k="website" v="http://www.vsacura.com/"/>
   </node>
-  <node id="2768066628" lat="50.6833433" lon="7.0753786" version="2" timestamp="2019-03-09T12:20:05Z" changeset="67957323" uid="9451067" user="b-jazz-bot">
+  <node id="2768066628" lat="50.6833433" lon="7.0753786" version="3" timestamp="2022-11-04T14:06:26Z" changeset="128486130" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Bonn"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="53125"/>
     <tag k="addr:street" v="Reichsstraße"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="sunda-islands.com OHG"/>
     <tag k="opening_hours" v="Mo-Fr 10:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 228 9180045"/>
     <tag k="shop" v="travel_agency"/>
     <tag k="source" v="Eigentümer"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.sunda-islands.com/"/>
   </node>
   <node id="2770097821" lat="-22.9062296" lon="-43.1777184" version="2" timestamp="2015-07-14T05:13:36Z" changeset="32618971" uid="502691" user="ThiagoPv">
@@ -29699,16 +29677,6 @@
     <tag k="phone" v="+52 (81) 83.57.76.02"/>
     <tag k="website" v="https://xoles.com/"/>
   </node>
-  <node id="2787459920" lat="23.1086947" lon="113.1276627" version="3" timestamp="2014-04-20T01:34:49Z" changeset="21808493" uid="92274" user="adjuva">
-    <tag k="addr:city" v="Foshan"/>
-    <tag k="addr:country" v="CN"/>
-    <tag k="addr:street" v="Guangfo Load"/>
-    <tag k="name" v="Foshan Bidingxing Tech. Co., Ltd."/>
-    <tag k="name:en" v="Foshan Bidingxing Tech.Co., Ltd."/>
-    <tag k="name:zh" v="佛山币定行科技有限公司"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.bidingxing.com"/>
-  </node>
   <node id="2788928146" lat="32.0644980" lon="34.7706372" version="5" timestamp="2017-06-11T13:43:28Z" changeset="49443067" uid="1206509" user="Sanniu">
     <tag k="addr:city" v="תל אביב"/>
     <tag k="addr:housenumber" v="3"/>
@@ -29923,13 +29891,19 @@
     <tag k="payment:dogecoin" v="yes"/>
     <tag k="shop" v="hairdresser"/>
   </node>
-  <node id="2792218505" lat="50.6907012" lon="6.6490557" version="5" timestamp="2021-04-15T08:46:51Z" changeset="102979373" uid="537512" user="themartinix">
+  <node id="2792218505" lat="50.6907012" lon="6.6490557" version="6" timestamp="2022-11-04T14:10:57Z" changeset="128486341" uid="17441326" user="BSN21M">
     <tag k="amenity" v="vending_machine"/>
     <tag k="brand" v="Schwalbe"/>
-    <tag k="name" v="Bicycle tube vending machine"/>
+    <tag k="brand:wikidata" v="Q1312213"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Schwalbe"/>
     <tag k="operator" v="Fahrrad Schumacher"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="source" v="themartinix"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="vending" v="bicycle_tube"/>
   </node>
   <node id="2793350901" lat="52.6704704" lon="4.7030286" version="5" timestamp="2022-06-06T08:08:06Z" changeset="122009168" uid="5432507" user="Knockerclot0715">
@@ -30282,7 +30256,7 @@
     <tag k="shop" v="car"/>
     <tag k="website" v="http://www.lacarsrepo.com"/>
   </node>
-  <node id="2809358096" lat="51.6508334" lon="4.0340791" version="2" timestamp="2016-07-27T18:52:48Z" changeset="41069680" uid="2831457" user="AdVerburg">
+  <node id="2809358096" lat="51.6508334" lon="4.0340791" version="3" timestamp="2022-11-04T13:33:51Z" changeset="128484119" uid="5432507" user="Knockerclot0715">
     <tag k="addr:city" v="Oosterland"/>
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:postcode" v="4307BH"/>
@@ -30290,7 +30264,7 @@
     <tag k="name" v="RAPICT"/>
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+31 852 016 085"/>
+    <tag k="phone" v="+31 85 201 6085"/>
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-02-11"/>
     <tag k="website" v="https://rapict.nl/"/>
@@ -30989,13 +30963,18 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://termovizia.dobryobchod.sk"/>
   </node>
-  <node id="2836445271" lat="52.9239814" lon="9.9899122" version="2" timestamp="2016-08-13T23:59:52Z" changeset="41438317" uid="1913655" user="hotteliene">
+  <node id="2836445271" lat="52.9239814" lon="9.9899122" version="3" timestamp="2022-11-04T20:09:58Z" changeset="128499171" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Wietzendorf"/>
     <tag k="addr:housenumber" v="23"/>
     <tag k="addr:postcode" v="29649"/>
     <tag k="addr:street" v="Neues Land"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Kindertagespflege Neues Land"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
   </node>
   <node id="2837804918" lat="32.0781387" lon="34.7684723" version="2" timestamp="2017-06-06T09:16:02Z" changeset="49299149" uid="5816834" user="SafwatHalaby_bot">
     <tag k="addr:housenumber" v="43"/>
@@ -31532,7 +31511,7 @@
     <tag k="phone" v="+60 12 921 5200"/>
     <tag k="website" v="https://www.facebook.com/pages/Restaurant-Capital-Nasi-Dagang-Kelantan/116276291768020"/>
   </node>
-  <node id="2858693589" lat="51.7285562" lon="5.8818370" version="11" timestamp="2020-11-03T14:01:40Z" changeset="93487673" uid="327477" user="Sander H">
+  <node id="2858693589" lat="51.7285562" lon="5.8818370" version="12" timestamp="2022-11-04T12:16:25Z" changeset="128479968" uid="5432507" user="Knockerclot0715">
     <tag k="addr:city" v="Cuijk"/>
     <tag k="addr:country" v="NL"/>
     <tag k="addr:housenumber" v="58"/>
@@ -31541,7 +31520,7 @@
     <tag k="name" v="Hotel Taurus"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
-    <tag k="phone" v="+31 485 312070"/>
+    <tag k="phone" v="+31 485 312 070"/>
     <tag k="smoking" v="isolated"/>
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2018-03-08"/>
@@ -31604,7 +31583,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="tobacco"/>
   </node>
-  <node id="2860901578" lat="51.6941466" lon="5.0884072" version="3" timestamp="2020-06-12T15:10:27Z" changeset="86573539" uid="927112" user="CartoKees">
+  <node id="2860901578" lat="51.6941466" lon="5.0884072" version="4" timestamp="2022-11-04T12:35:19Z" changeset="128479968" uid="5432507" user="Knockerclot0715">
     <tag k="addr:city" v="Waalwijk"/>
     <tag k="addr:housenumber" v="35"/>
     <tag k="addr:postcode" v="5142EN"/>
@@ -31612,7 +31591,7 @@
     <tag k="name" v="WEBPLAYS"/>
     <tag k="office" v="Design"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+31 651554319"/>
+    <tag k="phone" v="+31 6 51554319"/>
     <tag k="website" v="https://www.webplays.eu/"/>
   </node>
   <node id="2861508690" lat="56.9533241" lon="24.1268989" version="6" timestamp="2022-07-15T19:37:41Z" changeset="123666940" uid="15008076" user="latvia-bot">
@@ -31768,16 +31747,21 @@
     <tag k="phone" v="+(66 85)429-2222"/>
     <tag k="website" v="http://www.theprincebkk.com"/>
   </node>
-  <node id="2866601643" lat="48.6288458" lon="8.0783975" version="5" timestamp="2020-04-19T13:19:35Z" changeset="83772799" uid="3232636" user="Karthoo">
+  <node id="2866601643" lat="48.6288458" lon="8.0783975" version="6" timestamp="2022-11-04T20:25:45Z" changeset="128499659" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Achern"/>
     <tag k="addr:housenumber" v="99"/>
     <tag k="addr:postcode" v="77855"/>
     <tag k="addr:street" v="Hauptstraße"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Ingenieurbüro für Kommunikation und Marketing"/>
     <tag k="name" v="evival Technologies GmbH &amp; Co. KG"/>
     <tag k="office" v="it"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
   </node>
   <node id="2866719448" lat="40.6034115" lon="109.9570278" version="2" timestamp="2014-05-18T16:35:20Z" changeset="22409785" uid="2079800" user="cangshou">
     <tag k="addr:city" v="包头市九原区"/>
@@ -32545,17 +32529,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="esperancephoto.com"/>
   </node>
-  <node id="2889340828" lat="54.3666257" lon="-2.9164353" version="5" timestamp="2019-08-24T15:15:59Z" changeset="73698342" uid="3149234" user="lakedistrict">
-    <tag k="addr:city" v="Bowness-on-Windermere"/>
-    <tag k="addr:housename" v="Sunbeam House"/>
-    <tag k="addr:postcode" v="LA23 3AP"/>
-    <tag k="addr:street" v="Lake Road"/>
-    <tag k="name" v="Impressarum"/>
-    <tag k="note" v="Bitcoin taken when owner present"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="art"/>
-    <tag k="website" v="http://www.impressarum.com/"/>
-  </node>
   <node id="2889675524" lat="36.1691770" lon="-115.1427878" version="4" timestamp="2014-12-01T22:45:29Z" changeset="27167931" uid="1408522" user="Omnific">
     <tag k="amenity" v="vending_machine"/>
     <tag k="name" v="RoboCoin BitCoin ATM Exchange Kiosk"/>
@@ -32610,7 +32583,7 @@
     <tag k="shop" v="bakery"/>
     <tag k="website" v="http://www.gothamcookies.com/"/>
   </node>
-  <node id="2894338233" lat="52.1176833" lon="11.4345452" version="11" timestamp="2021-07-10T16:58:29Z" changeset="107755672" uid="42123" user="Ropino">
+  <node id="2894338233" lat="52.1176833" lon="11.4345452" version="12" timestamp="2022-11-04T20:08:01Z" changeset="128499118" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Wanzleben-Börde"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:postcode" v="39164"/>
@@ -32618,10 +32591,15 @@
     <tag k="addr:suburb" v="Klein Rodensleben"/>
     <tag k="building" v="farm"/>
     <tag k="craft" v="beekeeper"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Honig aus eigener Imkerei"/>
     <tag k="name" v="Imkerei Fam. Roeber"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 39204 909800"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://bee.port-x.de/"/>
   </node>
   <node id="2894522445" lat="-34.6586593" lon="-58.3526396" version="3" timestamp="2020-02-15T17:54:15Z" changeset="81050290" uid="3837224" user="MatiasJ">
@@ -33785,15 +33763,20 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+603−7932 3389"/>
   </node>
-  <node id="2914488502" lat="50.0226758" lon="8.8728704" version="10" timestamp="2017-05-23T11:44:33Z" changeset="48914860" uid="2122316" user="jjraily34">
+  <node id="2914488502" lat="50.0226758" lon="8.8728704" version="11" timestamp="2022-11-04T20:50:16Z" changeset="128500429" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Rodgau"/>
     <tag k="addr:housenumber" v="28"/>
     <tag k="addr:postcode" v="63110"/>
     <tag k="addr:street" v="Hessenring"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Ladestationen &quot;Wallbox&quot; + Ladekabel &quot;Typ2&quot; für Ihr Elektroauto"/>
     <tag k="name" v="4electric.de"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="car_parts"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="http://4electric.de"/>
   </node>
   <node id="2914999600" lat="44.5507009" lon="-69.6301175" version="4" timestamp="2020-02-10T20:30:53Z" changeset="80814190" uid="10307443" user="blackboxlogic+bot">
@@ -34738,16 +34721,21 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
   </node>
-  <node id="2957914618" lat="49.5990194" lon="6.2572268" version="7" timestamp="2017-02-14T04:17:57Z" changeset="46068005" uid="40611" user="Stereo">
+  <node id="2957914618" lat="49.5990194" lon="6.2572268" version="8" timestamp="2022-11-04T20:55:03Z" changeset="128500572" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Oetrange"/>
     <tag k="addr:country" v="LU"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="5351"/>
     <tag k="addr:street" v="Am For"/>
     <tag k="building" v="house"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="ACT Sarl"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="ref:caclr" v="99553"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="http://www.actinblack.com"/>
   </node>
   <node id="2958132333" lat="41.9438285" lon="12.5188105" version="12" timestamp="2020-01-18T16:05:44Z" changeset="79734543" uid="3860151" user="Michele Aquilani">
@@ -36612,14 +36600,14 @@
     <tag k="phone" v="+16193932253"/>
     <tag k="website" v="http:/fs.thebutterzone.com"/>
   </node>
-  <node id="3014125291" lat="51.9732574" lon="5.6696496" version="3" timestamp="2020-09-12T15:26:44Z" changeset="90797230" uid="11804403" user="87856">
+  <node id="3014125291" lat="51.9732574" lon="5.6696496" version="4" timestamp="2022-11-04T11:29:56Z" changeset="128478786" uid="5432507" user="Knockerclot0715">
     <tag k="addr:city" v="Wageningen"/>
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:postcode" v="6707HT"/>
     <tag k="addr:street" v="Vergersweg"/>
     <tag k="contact:email" v="nurds@nurdspace.nl"/>
     <tag k="contact:irc" v="irc://irc.oftc.net/#nurds"/>
-    <tag k="contact:phone" v="+31317794512"/>
+    <tag k="contact:phone" v="+31 317 794 512"/>
     <tag k="contact:twitter" v="https://twitter.com/NURDspace"/>
     <tag k="contact:website" v="https://nurdspace.nl/"/>
     <tag k="drink:club-mate" v="yes"/>
@@ -37303,47 +37291,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="electronics"/>
     <tag k="website" v="http://www.addsensors.com/"/>
-  </node>
-  <node id="3046125840" lat="62.6020836" lon="29.7619182" version="8" timestamp="2021-05-11T15:03:34Z" changeset="104520151" uid="8501125" user="3Johnny">
-    <tag k="access:covid19" v="yes"/>
-    <tag k="addr:city" v="Joensuu"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:postcode" v="80100"/>
-    <tag k="addr:street" v="Kauppakatu"/>
-    <tag k="drink:coffee" v="served"/>
-    <tag k="drink:tea" v="served"/>
-    <tag k="email" v="mokkamaa@mokkamaa.fi"/>
-    <tag k="name" v="Mokkamaa"/>
-    <tag k="opening_hours" v="mo - fr 10:00-18:00, sa 10:00-15:00"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="phone" v="+358 50 562 4132"/>
-    <tag k="ref:vatin" v="FI20803361"/>
-    <tag k="shop" v="coffee;tea;chocolate"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="takeaway:covid19" v="yes"/>
-    <tag k="website" v="https://mokkamaa.fi"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="3046143368" lat="65.9437934" lon="29.2616173" version="2" timestamp="2019-12-20T09:56:02Z" changeset="78676886" uid="22190" user="JyriK">
-    <tag k="name" v="Saraste lomamökki"/>
-    <tag k="note" v="Saraste on hyvin varusteltu hirsimökki rauhallisella paikalla neljän kilometrin päässä Kuusamon keskustasta Tolpanniemessä, Kuusamojärven rannalla. Mökkiin mahtuu isompikin kaveriporukka tai vaikkapa pari perhettä. Majoitustilaa on 9+4:lle henkilölle."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="tourism" v="chalet"/>
-    <tag k="website" v="http://www.kotipalo.fi/saraste/"/>
-  </node>
-  <node id="3046153822" lat="62.4088057" lon="25.6789823" version="3" timestamp="2019-03-05T21:30:46Z" changeset="67822512" uid="9451067" user="b-jazz-bot">
-    <tag k="name" v="Skydive Jyväskylä"/>
-    <tag k="note" v="Laskuvarjohyppykursseja järjestävä kerho. &quot;Haluaisitko ihailla Jyväskylän kauniita maisemia ylhäältä päin, liikkua mielesi mukaan, nähdä auringonlaskun uudesta perspektiivistä?"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://skydivejkl.fi/"/>
-  </node>
-  <node id="3046167534" lat="60.4679197" lon="22.2075283" version="2" timestamp="2017-05-17T13:40:27Z" changeset="48763580" uid="3259673" user="theel0ja">
-    <tag k="name" v="Gigabitti"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="https://gigabitti.fi"/>
   </node>
   <node id="3046196603" lat="60.1634204" lon="22.7292882" version="3" timestamp="2014-12-12T13:47:37Z" changeset="27421582" uid="2506041" user="Sebastian Mäki">
     <tag k="addr:city" v="Kemiö"/>
@@ -38607,31 +38554,41 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.purepilates.com.br/"/>
   </node>
-  <node id="3095605051" lat="50.8303242" lon="12.9536751" version="5" timestamp="2018-12-29T19:59:43Z" changeset="65874024" uid="3963600" user="ubX6dtQlCK">
+  <node id="3095605051" lat="50.8303242" lon="12.9536751" version="6" timestamp="2022-11-04T20:33:21Z" changeset="128499904" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Chemnitz"/>
     <tag k="addr:housenumber" v="129"/>
     <tag k="addr:postcode" v="09126"/>
     <tag k="addr:street" v="Bernhardstraße"/>
     <tag k="craft" v="painter"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Benten Graffiti Chemnitz"/>
     <tag k="opening_hours" v="13:00-19:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:litecoin" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 177 5666897"/>
+    <tag k="survey:date" v="2022-11-04"/>
   </node>
-  <node id="3095624350" lat="50.8303120" lon="12.9537536" version="9" timestamp="2022-11-02T17:16:57Z" changeset="128403290" uid="716581" user="tohaase">
+  <node id="3095624350" lat="50.8303120" lon="12.9537536" version="10" timestamp="2022-11-04T20:33:37Z" changeset="128499920" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Chemnitz"/>
     <tag k="addr:housenumber" v="129"/>
     <tag k="addr:postcode" v="09126"/>
     <tag k="addr:street" v="Bernhardstraße"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="info@tattoochemnitz.de"/>
     <tag k="name" v="Benten Tattoo Chemnitz"/>
     <tag k="opening_hours" v="Mo 10:00-15:30; Tu-Th 10:00-18:00; Fr 10:00-15:30"/>
     <tag k="operator" v="Friedrich Benzler"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:litecoin" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 177 5666897"/>
     <tag k="shop" v="tattoo"/>
+    <tag k="survey:date" v="2022-11-04"/>
   </node>
   <node id="3095957334" lat="-23.5134220" lon="-46.6578020" version="3" timestamp="2019-03-06T21:09:37Z" changeset="67859505" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="São Paulo"/>
@@ -38945,22 +38902,6 @@
     <tag k="website" v="http://www.Beperk.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3112804284" lat="60.4502079" lon="22.2610678" version="3" timestamp="2021-09-24T11:32:07Z" changeset="111643131" uid="3244985" user="dremdau">
-    <tag k="addr:city" v="Turku"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:postcode" v="20100"/>
-    <tag k="addr:street" v="Yliopistonkatu"/>
-    <tag k="computer:repair" v="yes"/>
-    <tag k="contact:phone" v="+358 452577422"/>
-    <tag k="contact:twitter" v="https://twitter.com/InfoPetri"/>
-    <tag k="name" v="ATK-Huoltopalvelu Turku"/>
-    <tag k="note" v="ATK-Huoltopalvelu on auki ma-pe 10-17 ja la 10-14."/>
-    <tag k="opening_hours" v="Mo-Fr 10:00-17:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:dogecoin" v="yes"/>
-    <tag k="shop" v="computer"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="3113238529" lat="30.2948839" lon="-97.8229455" version="3" timestamp="2021-07-24T15:42:59Z" changeset="108537320" uid="4744872" user="Itserpol">
     <tag k="addr:city" v="West Lake Hills"/>
     <tag k="addr:housenumber" v="5524"/>
@@ -39184,14 +39125,19 @@
     <tag k="source" v="Alessandro Cattapan"/>
     <tag k="website" v="http://www.lacservice.com"/>
   </node>
-  <node id="3133656587" lat="58.3494092" lon="22.9245497" version="4" timestamp="2014-10-18T11:58:20Z" changeset="26168775" uid="2405365" user="Innova OÜ">
+  <node id="3133656587" lat="58.3494092" lon="22.9245497" version="5" timestamp="2022-11-04T12:24:55Z" changeset="128481501" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Turja, Saaremaa"/>
     <tag k="addr:postcode" v="94317"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Log BnB"/>
     <tag k="operator" v="Innova OÜ"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+37253437831"/>
     <tag k="smoking" v="outside"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="https://www.airbnb.com/rooms/4367053?preview"/>
   </node>
@@ -39330,11 +39276,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="(973) 503-1700"/>
     <tag k="website" v="http://www.eventsplus.com"/>
-  </node>
-  <node id="3137791510" lat="60.4394060" lon="5.1880400" version="4" timestamp="2022-07-14T05:46:12Z" changeset="123590373" uid="9224679" user="addr2osm">
-    <tag k="name" v="Dåvøy Musikk"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.davoy.no/"/>
   </node>
   <node id="3138218018" lat="37.3845454" lon="-5.9801163" version="5" timestamp="2022-03-12T15:20:47Z" changeset="118401964" uid="170106" user="sanchi">
     <tag k="name" v="Arquitecto Francisco Suárez"/>
@@ -40547,12 +40488,17 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="shop" v="music"/>
   </node>
-  <node id="3188269980" lat="49.9077043" lon="10.8315315" version="4" timestamp="2017-03-24T21:40:40Z" changeset="47135706" uid="223093" user="geow">
+  <node id="3188269980" lat="49.9077043" lon="10.8315315" version="5" timestamp="2022-11-04T20:18:54Z" changeset="128499443" uid="17441326" user="BSN21M">
     <tag k="building" v="yes"/>
     <tag k="contact:phone" v="+49 951 601323"/>
     <tag k="contact:website" v="http://www.bergblick-bischberg.de/"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Ferienwohnung Bergblick"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="tourism" v="apartment"/>
   </node>
   <node id="3189151486" lat="41.6909166" lon="-91.6027065" version="1" timestamp="2014-11-15T21:53:51Z" changeset="26809891" uid="2465942" user="Coindero">
@@ -40632,15 +40578,6 @@
     <tag k="shop" v="electronics"/>
     <tag k="website" v="http://www.cellphonesolutions.biz"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="3191151022" lat="23.1130476" lon="113.3624718" version="4" timestamp="2020-07-19T22:42:03Z" changeset="88208185" uid="7030314" user="Metrohsrtheedit">
-    <tag k="addr:city" v="广州市"/>
-    <tag k="addr:housenumber" v="红砖厂创意园南门右侧"/>
-    <tag k="addr:street" v="临江大道"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="name" v="鹅公村"/>
-    <tag k="name:zh" v="鹅公村"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="3191511767" lat="44.6983259" lon="10.6311106" version="2" timestamp="2015-10-14T18:03:27Z" changeset="34638482" uid="118021" user="maggot27">
     <tag k="addr:city" v="Reggio nell'Emilia"/>
@@ -42220,27 +42157,30 @@
     <tag k="phone" v="877-484-7787"/>
     <tag k="website" v="http://virpus.com/"/>
   </node>
-  <node id="3252247453" lat="48.0239953" lon="17.3078087" version="9" timestamp="2016-10-04T18:24:24Z" changeset="42638606" uid="3178375" user="LeTopographeFou">
+  <node id="3252247453" lat="48.0239953" lon="17.3078087" version="10" timestamp="2022-11-04T23:52:18Z" changeset="128504815" uid="2532372" user="VICTORY streetworkout &amp; fitness club">
     <tag k="addr:city" v="Šamorín"/>
     <tag k="addr:country" v="SK"/>
     <tag k="addr:housenumber" v="43"/>
     <tag k="addr:postcode" v="93101"/>
     <tag k="addr:street" v="Veterná"/>
     <tag k="addr:streetnumber" v="43"/>
-    <tag k="leisure" v="sports_centre"/>
-    <tag k="name" v="VICTORY calisthenics &amp; fitness club"/>
+    <tag k="name" v="Digital Asset s.r.o."/>
     <tag k="opening_hours" v="09:00-20:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+421 908 382 899"/>
-    <tag k="sport" v="gymnastics"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3252786364" lat="50.7537258" lon="8.0558181" version="2" timestamp="2016-09-01T14:37:47Z" changeset="41850587" uid="39717" user="M_Kucha">
+  <node id="3252786364" lat="50.7537258" lon="8.0558181" version="3" timestamp="2022-11-04T20:04:42Z" changeset="128499028" uid="17441326" user="BSN21M">
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Philipp Anderl Systemtechnik"/>
     <tag k="opening_hours" v="08:00-22:00"/>
     <tag k="operator" v="Philipp Anderl"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="computer"/>
+    <tag k="survey:date" v="2022-11-04"/>
   </node>
   <node id="3253606468" lat="45.8900918" lon="11.0411369" version="2" timestamp="2018-12-14T12:06:52Z" changeset="65470666" uid="76312" user="scratera">
     <tag k="addr:city" v="Rovereto"/>
@@ -43394,10 +43334,15 @@
     <tag k="phone" v="+55 51 3398-5357"/>
     <tag k="website" v="https://www.bitcointoyou.com/?usInd=19763"/>
   </node>
-  <node id="3301129653" lat="50.3557488" lon="11.2071030" version="3" timestamp="2017-09-24T20:26:21Z" changeset="52338602" uid="339581" user="nyuriks">
+  <node id="3301129653" lat="50.3557488" lon="11.2071030" version="4" timestamp="2022-11-04T20:06:05Z" changeset="128499071" uid="17441326" user="BSN21M">
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Networx-Online"/>
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.networx-online.de"/>
     <tag k="wikidata" v="Q2585571"/>
     <tag k="wikipedia" v="de:Wireless Internet Service Provider"/>
@@ -43609,6 +43554,15 @@
     <tag k="tourism" v="hostel"/>
     <tag k="website" v="http://www.wildlubanzi.co.za/"/>
   </node>
+  <node id="3314469267" lat="45.9642100" lon="12.5334600" version="2" timestamp="2022-11-04T11:28:36Z" changeset="128478935" uid="17579871" user="Matteo Pavanello Videomaker e pilota di droni">
+    <tag k="addr:city" v="Sacile"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="33077"/>
+    <tag k="addr:street" v="Via Venzone"/>
+    <tag k="name" v="Matteo Pavanello videomaker e pilota di droni"/>
+    <tag k="payment:bitcoin" v="yes"/>
+  </node>
   <node id="3314917472" lat="45.6461443" lon="25.6285575" version="5" timestamp="2021-10-15T11:46:03Z" changeset="112539380" uid="14251691" user="orizont_bv">
     <tag k="addr:city" v="Brașov"/>
     <tag k="addr:housenumber" v="14"/>
@@ -43729,12 +43683,13 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.esdenera.com/"/>
   </node>
-  <node id="3323685961" lat="51.0682256" lon="13.7534462" version="7" timestamp="2022-09-24T14:08:40Z" changeset="126583216" uid="6818744" user="philipp-rupert">
+  <node id="3323685961" lat="51.0682256" lon="13.7534462" version="8" timestamp="2022-11-04T20:30:01Z" changeset="128499789" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Dresden"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="70"/>
     <tag k="addr:postcode" v="01099"/>
     <tag k="addr:street" v="Alaunstraße"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Atelier Buchstabenorte"/>
     <tag k="opening_hours" v="Tu-Fr 11:00-18:00; Sa 10:00-17:00"/>
     <tag k="operator" v="Alexander Heitkamp"/>
@@ -43744,9 +43699,13 @@
     <tag k="payment:contactless" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="shop" v="art"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="3325132914" lat="-1.8292911" lon="99.2568908" version="5" timestamp="2017-10-31T18:57:17Z" changeset="53404646" uid="5164" user="woodpeck">
@@ -43921,8 +43880,9 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
   </node>
-  <node id="3331335376" lat="51.3540542" lon="6.6493601" version="4" timestamp="2020-08-10T07:42:34Z" changeset="89183587" uid="111850" user="ralrei">
+  <node id="3331335376" lat="51.3540542" lon="6.6493601" version="5" timestamp="2022-11-04T20:57:58Z" changeset="128500680" uid="17441326" user="BSN21M">
     <tag k="amenity" v="pharmacy"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description:payment" v="Bei Bezahlung mittels Bitcoin muss der Chef anwesend sein."/>
     <tag k="dispensing" v="yes"/>
     <tag k="fax" v="+49 2151 78947890"/>
@@ -43931,7 +43891,11 @@
     <tag k="opening_hours" v="Mo-Fr 08:30-19:00; Sa 08:30-16:00"/>
     <tag k="operator" v="Roman Bastian"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 2151 78947894"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.apotheke-am-markt-krefeld.de/"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -44244,15 +44208,20 @@
     <tag k="source:date" v="2014-01-22"/>
     <tag k="website" v="http://www.goede-tijden.nl/"/>
   </node>
-  <node id="3356853706" lat="48.7709479" lon="9.1570179" version="3" timestamp="2020-06-29T03:46:44Z" changeset="87267394" uid="11413879" user="Jason_C_Bourne">
+  <node id="3356853706" lat="48.7709479" lon="9.1570179" version="4" timestamp="2022-11-04T20:21:19Z" changeset="128499522" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Stuttgart"/>
     <tag k="addr:housenumber" v="77A"/>
     <tag k="addr:postcode" v="70197"/>
     <tag k="addr:street" v="Gutenbergstraße"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Simpago Softwareentwicklung"/>
     <tag k="office" v="it"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="http://www.simpago.com"/>
   </node>
   <node id="3357238890" lat="45.5719344" lon="-73.6031941" version="2" timestamp="2016-11-02T05:49:13Z" changeset="43343134" uid="1624486" user="thetornado76">
@@ -44703,11 +44672,16 @@
     <tag k="name" v="Elegant"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="3391056115" lat="49.6123438" lon="6.1278788" version="6" timestamp="2019-03-25T03:35:22Z" changeset="68491604" uid="9451067" user="b-jazz-bot">
+  <node id="3391056115" lat="49.6123438" lon="6.1278788" version="7" timestamp="2022-11-04T20:54:14Z" changeset="128500549" uid="17441326" user="BSN21M">
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Erwin Sotiri"/>
     <tag k="office" v="lawyer"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+352 26 38 98 08"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.jurisconsul.com/"/>
   </node>
   <node id="3392496119" lat="47.4255691" lon="9.3753895" version="6" timestamp="2022-09-02T21:50:06Z" changeset="125717431" uid="11236721" user="bsvka">
@@ -45764,6 +45738,26 @@
     <tag k="name" v="weed4bitcoin.com"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
+  <node id="3458017332" lat="21.8030031" lon="-79.9855436" version="10" timestamp="2022-11-04T12:58:05Z" changeset="128482847" uid="9191397" user="mlmesa">
+    <tag k="addr:city" v="Trinidad"/>
+    <tag k="addr:country" v="CU"/>
+    <tag k="addr:housenumber" v="273"/>
+    <tag k="addr:postcode" v="62600"/>
+    <tag k="addr:street" v="Francisco Javier Zerquera (Rosario)"/>
+    <tag k="artwork_type" v="painting"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Galeria R-evolución"/>
+    <tag k="opening_hours" v="08:00-23:00"/>
+    <tag k="operator" v="Rafael Alvarez Alonso"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+53 5 5223555"/>
+    <tag k="survey:date" v="2022-10-26"/>
+    <tag k="tourism" v="gallery"/>
+    <tag k="website" v="https://galeriarevolucion.softr.app/tienda"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="3463722799" lat="41.0380108" lon="-73.7020693" version="5" timestamp="2020-11-02T15:50:26Z" changeset="93429138" uid="35814" user="bingo">
     <tag k="addr:city" v="Purchase"/>
     <tag k="addr:housenumber" v="630"/>
@@ -46733,16 +46727,21 @@
     <tag k="website" v="https://neosmiles.com.sg/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3558108809" lat="50.2161744" lon="7.1029092" version="4" timestamp="2019-05-10T12:32:36Z" changeset="70107944" uid="2627060" user="elle67">
+  <node id="3558108809" lat="50.2161744" lon="7.1029092" version="5" timestamp="2022-11-04T18:31:02Z" changeset="128496113" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Leienkaul"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="1c"/>
     <tag k="addr:postcode" v="56759"/>
     <tag k="addr:street" v="Weierhof"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Hühner-Eier. Hen's eggs"/>
     <tag k="operator" v="Yannic C."/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="farm"/>
+    <tag k="survey:date" v="2022-11-04"/>
   </node>
   <node id="3558188850" lat="53.9645057" lon="-1.0833899" version="4" timestamp="2016-10-10T14:51:48Z" changeset="42777948" uid="2376" user="Bman">
     <tag k="addr:city" v="York"/>
@@ -46996,19 +46995,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+43 720 116061"/>
     <tag k="website" v="http://mattbionic.rocks"/>
-  </node>
-  <node id="3594364596" lat="57.0941605" lon="18.3018628" version="6" timestamp="2020-12-13T15:17:33Z" changeset="95758359" uid="10431041" user="joihoin">
-    <tag k="addr:city" v="Fide"/>
-    <tag k="addr:country" v="SE"/>
-    <tag k="addr:housenumber" v="212"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:email" v="emery_alexandre@hotmail.com"/>
-    <tag k="contact:phone" v="+46-730870317"/>
-    <tag k="contact:website" v="http://lilleprinsen.se"/>
-    <tag k="cuisine" v="french"/>
-    <tag k="description" v="French restaurant"/>
-    <tag k="name" v="Lille prinsen"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="3600757964" lat="25.0586512" lon="121.6131186" version="3" timestamp="2017-06-18T16:27:02Z" changeset="49638623" uid="274857" user="Supaplex">
     <tag k="addr:city" v="臺北市"/>
@@ -47908,20 +47894,6 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://adf.ly/miy2S"/>
   </node>
-  <node id="3661331931" lat="45.6609586" lon="13.0997583" version="3" timestamp="2019-03-26T01:57:59Z" changeset="68529368" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Lignano Sabbiadoro"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:postcode" v="33054"/>
-    <tag k="addr:street" v="Viale della Pittura"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="INFO@HOTELPRESIDENTLIGNANO.COM"/>
-    <tag k="name" v="Hotel President Lignano"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
-    <tag k="phone" v="+390431423932"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="https://www.hotelpresidentlignano.com/"/>
-  </node>
   <node id="3661481764" lat="52.3681753" lon="9.7204894" version="1" timestamp="2015-07-22T10:54:51Z" changeset="32798582" uid="2597672" user="mariusbey">
     <tag k="addr:city" v="Hannover"/>
     <tag k="addr:housenumber" v="2"/>
@@ -48185,12 +48157,13 @@
     <tag k="smoking" v="yes"/>
     <tag k="website" v="http://www.auersperg-linz.at/"/>
   </node>
-  <node id="3699150325" lat="49.6207341" lon="6.1226317" version="9" timestamp="2019-04-18T10:19:53Z" changeset="69338634" uid="5229804" user="dmlu">
+  <node id="3699150325" lat="49.6207341" lon="6.1226317" version="10" timestamp="2022-11-04T20:53:58Z" changeset="128500540" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Luxembourg"/>
     <tag k="addr:country" v="LU"/>
     <tag k="addr:housenumber" v="60"/>
     <tag k="addr:postcode" v="1750"/>
     <tag k="addr:street" v="Avenue Victor Hugo"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="drink:beer" v="bottled"/>
     <tag k="drink:club-mate" v="bottled"/>
     <tag k="drink:coffee" v="yes"/>
@@ -48211,14 +48184,18 @@
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="payment:ep_digicash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:maestro" v="yes"/>
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:notes" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="payment:v_pay" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+352-27-40-20-30"/>
     <tag k="smoking" v="no"/>
     <tag k="start_date" v="2015"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="http://chaosstuff.lu/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
@@ -48851,13 +48828,14 @@
     <tag k="website" v="https://decentral.ca/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="3885555553" lat="48.7739462" lon="9.1816015" version="8" timestamp="2022-07-04T11:06:51Z" changeset="123185863" uid="14749328" user="Hanf im Glück">
+  <node id="3885555553" lat="48.7739462" lon="9.1816015" version="9" timestamp="2022-11-04T20:24:52Z" changeset="128499637" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Stuttgart"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="70182"/>
     <tag k="addr:street" v="Esslinger Straße"/>
     <tag k="brand" v="Hanf im Glück"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="kontakt@hanf-im-glueck.shop"/>
     <tag k="image" v="https://hanf-im-glueck.shop/wp-content/uploads/2020/04/CBD-Shop-Stuttgart-Nacht.jpg"/>
     <tag k="name" v="Hanf im Glück CBD Shop"/>
@@ -48870,12 +48848,16 @@
     <tag k="payment:contactless" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:maestro" v="yes"/>
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:notes" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+49 1511 0363218"/>
     <tag k="shop" v="cannabis"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://hanf-im-glueck.shop/standorte/hanf-im-glueck-cbd-shop-stuttgart/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -51115,11 +51097,12 @@
     <tag k="smoking" v="separated"/>
     <tag k="takeaway" v="yes"/>
   </node>
-  <node id="4620910995" lat="51.3416439" lon="12.3784656" version="6" timestamp="2018-01-13T22:06:29Z" changeset="55417948" uid="42123" user="Ropino">
+  <node id="4620910995" lat="51.3416439" lon="12.3784656" version="7" timestamp="2022-11-04T20:36:30Z" changeset="128500021" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Leipzig"/>
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:postcode" v="04109"/>
     <tag k="addr:street" v="Nikolaistraße"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Comfortable apartments with roof terrace in the center of Leipzig."/>
     <tag k="internet_access" v="wlan"/>
     <tag k="internet_access:fee" v="no"/>
@@ -51131,9 +51114,13 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="no"/>
     <tag k="payment:debit_cards" v="no"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 176 78141821"/>
     <tag k="smoking" v="outside"/>
     <tag k="stars" v="4"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="tourism" v="hotel"/>
   </node>
   <node id="4626622590" lat="45.9925581" lon="11.3143079" version="5" timestamp="2021-06-30T16:42:38Z" changeset="107218913" uid="175702" user="AxelBoldt">
@@ -52983,10 +52970,11 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="hairdresser"/>
   </node>
-  <node id="4951448650" lat="50.6720862" lon="5.2861258" version="3" timestamp="2021-10-10T07:54:32Z" changeset="112323325" uid="2175149" user="hesdrib">
+  <node id="4951448650" lat="50.6720862" lon="5.2861258" version="4" timestamp="2022-11-04T20:57:17Z" changeset="128500657" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Bovenistier"/>
     <tag k="addr:postcode" v="4300"/>
     <tag k="addr:street" v="Rue Mignolet"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Espace de soins et de relaxation à Bovenistier. Les rituels et massages thématiques envoûtent vos 5 sens. Dans une ambiance lumineuse et sonore à chaque fois unique, venez vous évader le temps d’un instant…"/>
     <tag k="name" v="L'Amyris"/>
     <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
@@ -52994,8 +52982,12 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+32 485 61 34 96"/>
     <tag k="shop" v="massage"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://lamyris.be/"/>
   </node>
   <node id="4952565171" lat="43.6559067" lon="-79.4873328" version="7" timestamp="2021-10-26T01:43:22Z" changeset="112971763" uid="238419" user="HubMiner">
@@ -53109,13 +53101,14 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.americancrypto.com/shellnorfolk"/>
   </node>
-  <node id="4967422813" lat="50.0770759" lon="8.2370224" version="3" timestamp="2020-02-20T18:26:24Z" changeset="81286571" uid="2655344" user="rasterfahndung">
+  <node id="4967422813" lat="50.0770759" lon="8.2370224" version="4" timestamp="2022-11-04T20:49:25Z" changeset="128500403" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Wiesbaden"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="65185"/>
     <tag k="addr:street" v="Oranienstraße"/>
     <tag k="craft" v="embroiderer"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Meyni Textil Stickerei Schneiderei Textildruck"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-18:00; Sa 10:00-13:00"/>
     <tag k="operator" v="Cem Meynioglu"/>
@@ -53124,8 +53117,12 @@
     <tag k="payment:cards" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 611 3602600"/>
     <tag k="shop" v="clothes"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://meynitextil.de/"/>
   </node>
   <node id="4972467621" lat="37.6784337" lon="-1.3354431" version="6" timestamp="2021-12-26T23:34:06Z" changeset="115403494" uid="8770019" user="kapazao_import">
@@ -54453,7 +54450,7 @@
     <tag k="shop" v="boutique"/>
     <tag k="website" v="https://www.eledanishop.it/"/>
   </node>
-  <node id="5180262862" lat="50.6754185" lon="10.0984678" version="4" timestamp="2020-09-03T20:30:28Z" changeset="90379989" uid="137242" user="Rainero">
+  <node id="5180262862" lat="50.6754185" lon="10.0984678" version="5" timestamp="2022-11-04T20:05:32Z" changeset="128499056" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Dermbach"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="35"/>
@@ -54461,12 +54458,17 @@
     <tag k="addr:street" v="Dorfstraße"/>
     <tag k="addr:suburb" v="Brunnhartshausen"/>
     <tag k="amenity" v="veterinary"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Homöopathie, Dorntherapie (&quot;Einrenken&quot;), Huftherapie nach NHC, Naturheilverfahren"/>
     <tag k="email" v="mail@mobile-tierheilpraxis-starke.de"/>
     <tag k="name" v="Tierheilpraxis Starke"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:coins" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 36964 139966"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="http://mobile-tierheilpraxis-starke.de"/>
   </node>
   <node id="5183014327" lat="37.0071318" lon="-121.5691161" version="3" timestamp="2017-11-08T05:19:32Z" changeset="53599703" uid="238419" user="HubMiner">
@@ -54529,14 +54531,6 @@
     <tag k="phone" v="+39 3358068039"/>
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://www.pixelinformatica.it"/>
-  </node>
-  <node id="5190193901" lat="22.2981708" lon="114.1786118" version="3" timestamp="2019-03-30T23:31:41Z" changeset="68712043" uid="9451067" user="b-jazz-bot">
-    <tag k="clothes" v="women;men;fashion;bitcoin"/>
-    <tag k="name" v="LivingHouseOnline"/>
-    <tag k="name:zh" v="活著屋"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="https://livinghouse.hk/"/>
   </node>
   <node id="5191575435" lat="45.5109150" lon="9.1982200" version="1" timestamp="2017-10-26T18:02:23Z" changeset="53270071" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Milano"/>
@@ -55689,11 +55683,16 @@
     <tag k="operator" v="stuwo.ch"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="5295524190" lat="49.5332421" lon="8.3652677" version="5" timestamp="2020-10-04T14:38:46Z" changeset="91935409" uid="1246157" user="Jedrzej Pelka">
+  <node id="5295524190" lat="49.5332421" lon="8.3652677" version="6" timestamp="2022-11-04T20:39:59Z" changeset="128500110" uid="17441326" user="BSN21M">
+    <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="info@roor.de"/>
     <tag k="name" v="ROOR"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="tobacco"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://roor.de/"/>
   </node>
   <node id="5296583212" lat="35.4798674" lon="-97.5346371" version="4" timestamp="2020-06-25T19:24:16Z" changeset="87155987" uid="92286" user="Baloo Uriza">
@@ -55958,18 +55957,23 @@
     <tag k="phone" v="+39 0932 643100"/>
     <tag k="website" v="https://www.studioguardiano.it"/>
   </node>
-  <node id="5318604947" lat="50.9529959" lon="6.9375647" version="6" timestamp="2020-02-16T22:55:24Z" changeset="81083504" uid="5164" user="woodpeck">
+  <node id="5318604947" lat="50.9529959" lon="6.9375647" version="7" timestamp="2022-11-04T13:55:30Z" changeset="128485654" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Köln"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="50823"/>
     <tag k="addr:street" v="Am Gleisdreieck"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="info@zeitgeistreisen.de"/>
     <tag k="name" v="Zeitgeist Erlebnisreisen"/>
     <tag k="opening_hours" v="Mo-Fr 09:30-17:30"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="payment:wire_transfer" v="yes"/>
     <tag k="phone" v="+49 221 67784165"/>
     <tag k="shop" v="travel_agency"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.zeitgeistreisen.de/"/>
   </node>
   <node id="5320104524" lat="45.6086573" lon="9.2373644" version="2" timestamp="2018-01-05T10:16:42Z" changeset="55182399" uid="1476146" user="Alecs01">
@@ -56109,7 +56113,7 @@
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="http://www.statekvletice.cz"/>
   </node>
-  <node id="5328215659" lat="50.9340812" lon="6.9709617" version="9" timestamp="2021-08-08T17:25:14Z" changeset="109355995" uid="2064724" user="Zrop">
+  <node id="5328215659" lat="50.9340812" lon="6.9709617" version="10" timestamp="2022-11-04T14:01:59Z" changeset="128485930" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Köln"/>
     <tag k="addr:housenumber" v="91"/>
     <tag k="addr:postcode" v="50679"/>
@@ -56121,6 +56125,7 @@
     <tag k="contact:facebook" v="https://www.facebook.com/PartyraumKoeln"/>
     <tag k="contact:mobile" v="+491717542926"/>
     <tag k="contact:website" v="https://www.partyraumkoeln.de"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="min_age" v="18"/>
     <tag k="name" v="Partyraum Köln"/>
     <tag k="opening_hours" v="Fr-Sa 17:00-01:00"/>
@@ -56128,8 +56133,12 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="smoking" v="yes"/>
     <tag k="start_date" v="2006"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5328932421" lat="43.1931245" lon="11.7625314" version="1" timestamp="2018-01-09T08:52:45Z" changeset="55286707" uid="2201521" user="quibitcoin">
@@ -58137,18 +58146,23 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3932587129"/>
   </node>
-  <node id="5530561725" lat="51.0389768" lon="13.7242419" version="4" timestamp="2021-07-19T12:46:21Z" changeset="108254019" uid="1787080" user="vv01f">
+  <node id="5530561725" lat="51.0389768" lon="13.7242419" version="5" timestamp="2022-11-04T20:30:42Z" changeset="128499820" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Dresden"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:postcode" v="01069"/>
     <tag k="addr:street" v="Kaitzer Straße"/>
     <tag k="amenity" v="dentist"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="healthcare" v="dentist"/>
     <tag k="name" v="Zahn &amp; Art"/>
     <tag k="opening_hours" v="Mo,We,Th 09:00-18:00; Tu 08:00-20:00; Fr 08:00-15:00"/>
     <tag k="operator" v="Dipl. Stom. Heike Maresch;Lisa Henze"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 (0)351 4174931"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.dresden-zahnarzt.de"/>
   </node>
   <node id="5532314403" lat="39.5100332" lon="-119.8039900" version="4" timestamp="2020-09-17T09:54:54Z" changeset="91037820" uid="4540953" user="Adamant1">
@@ -58699,13 +58713,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="312.690.4466"/>
     <tag k="website" v="Athenabitcoin.com"/>
-  </node>
-  <node id="5620539502" lat="65.0115688" lon="25.4716432" version="2" timestamp="2019-01-04T13:47:59Z" changeset="66022111" uid="439046" user="Eliyak">
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="operator" v="Bittimaatti"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="5621661738" lat="34.3918011" lon="132.4616812" version="1" timestamp="2018-05-16T09:52:24Z" changeset="59011532" uid="8280574" user="totorotalks">
     <tag k="amenity" v="bar"/>
@@ -59647,9 +59654,10 @@
     <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="5796646813" lat="48.8498723" lon="9.8781269" version="3" timestamp="2018-07-30T18:20:46Z" changeset="61204199" uid="8560815" user="charlydelta">
+  <node id="5796646813" lat="48.8498723" lon="9.8781269" version="4" timestamp="2022-11-04T20:14:13Z" changeset="128499291" uid="17441326" user="BSN21M">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="pizza;italian"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Pizzeria Sul Monte Am Berg"/>
     <tag k="opening_hours" v="Su-Th 16:30-22:00; Fr,Sa 16:30-23:00"/>
@@ -59658,10 +59666,14 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:giropay" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="payment:paypal" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+49 7175 919222"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="takeaway" v="only"/>
     <tag k="website" v="https://www.pizzeria-sul-monte.de/"/>
   </node>
@@ -62398,8 +62410,7 @@
     <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="6468437134" lat="22.6219380" lon="120.2865588" version="1" timestamp="2019-05-12T18:07:52Z" changeset="70167174" uid="1812543" user="zzanzare">
-    <tag k="amenity" v="atm"/>
+  <node id="6468437134" lat="22.6219380" lon="120.2865588" version="2" timestamp="2022-11-04T22:06:14Z" changeset="128502640" uid="1836965" user="Liongrass">
     <tag k="operator" v="Bitcoin ATM"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
@@ -62631,7 +62642,7 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.blackcoffee.sk/"/>
   </node>
-  <node id="6533499850" lat="50.6722831" lon="6.7889321" version="3" timestamp="2021-11-13T17:18:22Z" changeset="113738641" uid="14455677" user="Protor">
+  <node id="6533499850" lat="50.6722831" lon="6.7889321" version="4" timestamp="2022-11-04T14:07:48Z" changeset="128486209" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Euskirchen"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="6"/>
@@ -62643,6 +62654,7 @@
     <tag k="contact:phone" v="+49 2251 1461660"/>
     <tag k="contact:website" v="https://pizza-haus-euskirchen.de/"/>
     <tag k="cuisine" v="pizza"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="delivery" v="yes"/>
     <tag k="name" v="Pizza Haus"/>
     <tag k="opening_hours" v="Mo,We-Sa 11:00-22:00; PH,Su 12:00-22:00; Tu off"/>
@@ -62652,11 +62664,15 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:girocard" v="yes"/>
     <tag k="payment:klarna" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="payment:paypal" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+49 2251 1461661"/>
     <tag k="start_date" v="2019"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.lieferando.de/pizza-haus-euskirchen"/>
   </node>
   <node id="6549092248" lat="48.2393895" lon="16.3682920" version="6" timestamp="2019-12-30T10:59:11Z" changeset="79009915" uid="616774" user="mueschel">
@@ -64271,12 +64287,17 @@
     <tag k="stroller" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="7018007453" lat="50.1066892" lon="8.6934314" version="3" timestamp="2019-11-28T20:16:06Z" changeset="77697856" uid="2146151" user="Joško Horvat">
+  <node id="7018007453" lat="50.1066892" lon="8.6934314" version="4" timestamp="2022-11-04T20:52:07Z" changeset="128500486" uid="17441326" user="BSN21M">
     <tag k="amenity" v="bureau_de_change"/>
     <tag k="contact:phone" v="+49 174 1001113"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Bitcoin Store Frankfurt"/>
     <tag k="opening_hours" v="Mo-Fr 10:00-23:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
   </node>
   <node id="7019029234" lat="45.4640470" lon="9.1872480" version="1" timestamp="2019-11-29T09:42:46Z" changeset="77717782" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Milano"/>
@@ -66370,13 +66391,14 @@
     <tag k="phone" v="3491768495"/>
     <tag k="website" v="http://www.svelettrotecnica.it"/>
   </node>
-  <node id="8075561346" lat="51.4264648" lon="6.8628630" version="3" timestamp="2020-12-18T16:25:15Z" changeset="96081602" uid="42123" user="Ropino">
+  <node id="8075561346" lat="51.4264648" lon="6.8628630" version="4" timestamp="2022-11-04T21:00:07Z" changeset="128500751" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Mülheim an der Ruhr"/>
     <tag k="addr:housenumber" v="103"/>
     <tag k="addr:postcode" v="45479"/>
     <tag k="addr:street" v="Duisburger Straße"/>
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="pizza"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="delivery" v="yes"/>
     <tag k="drive_through" v="no"/>
     <tag k="email" v="kontakt@pizzateam-milano.de"/>
@@ -66390,12 +66412,16 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:ep_geldkarte" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:notes" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="payment:paypal" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+49 208 426845"/>
     <tag k="ref:vatin" v="120/5189/2009"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.pizzeria-milano-muelheim-an-der-ruhr.de/"/>
     <tag k="wheelchair" v="yes"/>
@@ -67131,19 +67157,24 @@
     <tag k="website" v="https://pontoonnation.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8418043474" lat="49.4528592" lon="11.0611202" version="1" timestamp="2021-02-12T11:54:10Z" changeset="99173764" uid="497849" user="pyram">
+  <node id="8418043474" lat="49.4528592" lon="11.0611202" version="2" timestamp="2022-11-04T20:16:59Z" changeset="128499371" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Nürnberg"/>
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:postcode" v="90429"/>
     <tag k="addr:street" v="Moltkestraße"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Finanzoo GmbH"/>
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:ethereum" v="yes"/>
     <tag k="payment:iota" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="start_date" v="06.06.2016"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.finanzoo.de"/>
   </node>
   <node id="8425061576" lat="35.3318098" lon="33.3314070" version="2" timestamp="2021-02-15T10:31:30Z" changeset="99300764" uid="12665352" user="hzt12345">
@@ -67352,17 +67383,22 @@
     <tag k="tourism" v="chalet"/>
     <tag k="website" v="http://www.masiavillalonga.com"/>
   </node>
-  <node id="8481141609" lat="51.5717562" lon="6.2999026" version="2" timestamp="2022-04-14T14:54:58Z" changeset="119717051" uid="9883443" user="Mclory">
+  <node id="8481141609" lat="51.5717562" lon="6.2999026" version="3" timestamp="2022-11-04T21:00:56Z" changeset="128500775" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Kevelaer-Wetten"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="47625"/>
     <tag k="addr:street" v="Vellarsweg"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="internet_access:fee" v="no"/>
     <tag k="name" v="World House Wetten"/>
     <tag k="note" v="Conference_and_Training_House / Meeting point for connecting people to create new perspectives"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+4928329763233"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://de.world-house-wetten.com/"/>
     <tag k="wheelchair" v="yes"/>
@@ -68848,32 +68884,42 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.studioepicoco.net"/>
   </node>
-  <node id="8932901140" lat="51.0597924" lon="13.7426033" version="3" timestamp="2022-11-02T22:18:40Z" changeset="128412366" uid="9423654" user="e0tkpv35">
+  <node id="8932901140" lat="51.0597924" lon="13.7426033" version="4" timestamp="2022-11-04T20:30:25Z" changeset="128499803" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Dresden"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:postcode" v="01097"/>
     <tag k="addr:street" v="Hauptstraße"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="theodoros.vichos@web.de"/>
     <tag k="name" v="Sokrates"/>
     <tag k="opening_hours" v="Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su,PH off"/>
     <tag k="operator" v="Theodoros „Theo“ Vichos"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 176 81471522"/>
     <tag k="shop" v="farm"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="url" v="https://www.neustadt-ticker.de/160973/alltag/vorgestellt/reif-von-der-insel-honig-und-olivenoel"/>
   </node>
-  <node id="8933065434" lat="51.2010857" lon="13.1655246" version="2" timestamp="2021-07-19T12:54:26Z" changeset="108254468" uid="1787080" user="vv01f">
+  <node id="8933065434" lat="51.2010857" lon="13.1655246" version="3" timestamp="2022-11-04T20:06:33Z" changeset="128499079" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Ostrau"/>
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:postcode" v="04749"/>
     <tag k="addr:street" v="Güterbahnhofstraße"/>
     <tag k="amenity" v="dentist"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="healthcare" v="dentist"/>
     <tag k="name" v="Zahn &amp; Art - Zahnärztliche Gemeinschaftspraxis"/>
     <tag k="opening_hours" v="Mo 08:30-19:00, Tu 12:00-19:00, We 8:30-14:00, Th 12:00-19:00, Fr 8:30-14:00"/>
     <tag k="operator" v="Heike Maresch &amp; Lisa Henze"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.dresden-zahnarzt.de/zahnarztpraxis-ostrau"/>
   </node>
   <node id="8933125059" lat="51.0553807" lon="13.7168108" version="3" timestamp="2021-08-03T12:21:04Z" changeset="109092893" uid="13866772" user="Ambrosia &amp; Nektar">
@@ -68891,15 +68937,20 @@
     <tag k="shop" v="food"/>
     <tag k="website" v="https://ambrosia-nektar.eu"/>
   </node>
-  <node id="8933151059" lat="51.0846524" lon="13.7109635" version="4" timestamp="2021-07-20T19:56:11Z" changeset="108337475" uid="1337142" user="Nordpfeil">
+  <node id="8933151059" lat="51.0846524" lon="13.7109635" version="5" timestamp="2022-11-04T20:32:14Z" changeset="128499872" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Dresden"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="01139"/>
     <tag k="addr:street" v="Henricistraße"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="info@dresdentech.de"/>
     <tag k="name" v="DresdenTech UG"/>
     <tag k="office" v="it"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://dresdentech.de/"/>
   </node>
   <node id="8946357422" lat="40.4184313" lon="-3.7050677" version="1" timestamp="2021-07-24T10:49:57Z" changeset="108527565" uid="491515" user="robertogeb">
@@ -69540,7 +69591,7 @@
     <tag k="phone" v="888-502-5003"/>
     <tag k="website" v="https://www.bitcoinofamerica.org/"/>
   </node>
-  <node id="9174513637" lat="51.0844763" lon="13.7078460" version="2" timestamp="2021-10-18T11:30:25Z" changeset="112648744" uid="1787080" user="vv01f">
+  <node id="9174513637" lat="51.0844763" lon="13.7078460" version="3" timestamp="2022-11-04T20:31:58Z" changeset="128499864" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Dresden"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="228"/>
@@ -69548,11 +69599,16 @@
     <tag k="addr:street" v="Leipziger Straße"/>
     <tag k="amenity" v="bar"/>
     <tag k="contact:phone" v="+491723440807"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="delivery" v="no"/>
     <tag k="name" v="Petzis Sportsbar"/>
     <tag k="opening_hours" v="Di-Do 17:00-0:00, Fr 17:00-02:00, Sa 12:30-02:00, Su 12:30-00:00"/>
     <tag k="operator" v="Felix Petzold"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://petzis-sportsbar-dresden.eatbu.com/"/>
   </node>
   <node id="9180470640" lat="41.9204912" lon="12.5105348" version="3" timestamp="2021-10-20T17:51:45Z" changeset="112756076" uid="113909" user="Giardia">
@@ -70645,23 +70701,6 @@
     <tag k="name" v="Khana Khazana"/>
     <tag k="opening_hours" v="Tu-Fr 11:30-15:00,17:30-21:30; Sa-Su 12:00-15:00,17:30-22:30"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="9620350185" lat="62.3001023" lon="25.7094401" version="2" timestamp="2022-03-29T08:41:23Z" changeset="119057475" uid="36166" user="umlaitinen">
-    <tag k="addr:city" v="Jyväskylä"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:postcode" v="40270"/>
-    <tag k="addr:street" v="Kirrinpolku"/>
-    <tag k="description" v="Store selling packaging materials like cardboard boxes, envelopes, empty bottles and jars."/>
-    <tag k="name" v="Pakkaustukku.fi"/>
-    <tag k="opening_hours" v="Mo-Fr 9:00-17:00"/>
-    <tag k="operator" v="Digisuomi"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="shop" v="yes"/>
-    <tag k="website" v="https://www.pakkaustukku.fi"/>
   </node>
   <node id="9620702550" lat="13.4940662" lon="-89.3836286" version="1" timestamp="2022-03-29T11:28:24Z" changeset="119064783" uid="4512222" user="Ravrol">
     <tag k="description" v="Lightning supported."/>
@@ -71942,6 +71981,26 @@
     <tag k="phone" v="+39 3933560497"/>
     <tag k="shop" v="farm"/>
     <tag k="website" v="https://www.baccablu.it"/>
+  </node>
+  <node id="10082243731" lat="38.7227357" lon="-9.1462637" version="2" timestamp="2022-11-05T03:09:19Z" changeset="128507288" uid="17585055" user="4eversov">
+    <tag k="addr:city" v="Lisboa"/>
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:postcode" v="1150-281"/>
+    <tag k="addr:street" v="Rua Rodrigues Sampaio"/>
+    <tag k="addr:unit" v="1F"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Conscious Alignment work, Biodynamic Craniosacral Therapy, Myofascial Release, Counselling, Rolfing, EFT (tapping), Quantum Touch"/>
+    <tag k="email" v="info@conscious-alignment.com"/>
+    <tag k="healthcare" v="alternative"/>
+    <tag k="healthcare:speciality" v="general"/>
+    <tag k="name" v="Conscious Alignment"/>
+    <tag k="opening_hours" v="By appointment only"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+351-968-859-055"/>
+    <tag k="website" v="https://lisbon.conscious-alignment.com/"/>
   </node>
   <node id="10108117024" lat="44.7019860" lon="10.6451034" version="1" timestamp="2022-10-17T08:35:28Z" changeset="127656703" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Reggio Emilia"/>
