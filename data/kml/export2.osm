@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-10T05:34:54Z"/>
+<meta osm_base="2022-11-11T05:32:09Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -1954,6 +1954,36 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="Reconocimiento cartográfico de campo 2016 por KG."/>
   </node>
+  <node id="1627064948" lat="32.0526331" lon="34.7724332" version="13" timestamp="2022-11-10T21:47:26Z" changeset="128752523" uid="8639761" user="Astrr232">
+    <tag k="addr:city" v="Tel Aviv"/>
+    <tag k="addr:country" v="IL"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:street" v="שוקן"/>
+    <tag k="addr:street:en" v="Shoken"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="alt_name" v="Tel Aviv Makers International"/>
+    <tag k="charge" v="300 ILS"/>
+    <tag k="fee" v="yes"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="internet_access:ssid" v="tami"/>
+    <tag k="leisure" v="hackerspace"/>
+    <tag k="name" v="Tel Aviv Makers Intl."/>
+    <tag k="name:en" v="TAMI"/>
+    <tag k="operator" v="Tel Aviv Makers Intl."/>
+    <tag k="payment:bank_transfer" v="yes"/>
+    <tag k="payment:bit" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:patreon" v="yes"/>
+    <tag k="payment:paybox" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="phone" v="+97233726660"/>
+    <tag k="source" v="Tel Aviv municipality"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="url" v="http://telavivmakers.org/"/>
+    <tag k="website" v="https://telavivmakers.org/"/>
+  </node>
   <node id="1637944090" lat="55.8582587" lon="-4.2203888" version="6" timestamp="2021-10-03T00:54:07Z" changeset="112018518" uid="3472118" user="Ossian Lore">
     <tag k="addr:city" v="Glasgow"/>
     <tag k="addr:housenumber" v="350A"/>
@@ -2917,23 +2947,6 @@
     <tag k="start_date" v="2019-12-08"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://aldo.kg"/>
-  </node>
-  <node id="2035703150" lat="50.1045085" lon="14.4771762" version="5" timestamp="2020-01-13T15:19:10Z" changeset="79522134" uid="10604977" user="tula s">
-    <tag k="addr:city" v="Praha 8"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="18000"/>
-    <tag k="addr:street" v="Vacínova"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="email" v="decada@decada.cz"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Decada"/>
-    <tag k="opening_hours" v="Mo-Fr 8:00-0:00, Sa-Su 16:00-0:00"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoincash" v="yes"/>
-    <tag k="phone" v="+420 774 446 474"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="http://www.decada.cz"/>
   </node>
   <node id="2050878473" lat="46.2113057" lon="6.1485351" version="10" timestamp="2020-09-09T14:31:47Z" changeset="90652344" uid="4680758" user="nitram1234">
     <tag k="addr:city" v="Genève"/>
@@ -9824,7 +9837,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.heatsynclabs.org/"/>
   </node>
-  <node id="2553200179" lat="46.5144355" lon="-122.8878288" version="2" timestamp="2014-01-08T06:47:42Z" changeset="19876534" uid="1820031" user="gaussboys">
+  <node id="2553200179" lat="46.5144355" lon="-122.8878288" version="3" timestamp="2022-11-11T02:06:43Z" changeset="128756592" uid="36223" user="dalmond">
     <tag k="addr:city" v="Winlock"/>
     <tag k="addr:housename" v="Gaussboys Super Magnets"/>
     <tag k="addr:housenumber" v="603"/>
@@ -9832,7 +9845,7 @@
     <tag k="addr:street" v="North Military Road"/>
     <tag k="name" v="Gaussboys Super Magnets"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="866 840 4400"/>
+    <tag k="phone" v="+1-866-840-4400"/>
     <tag k="website" v="http://www.gaussboys.com"/>
   </node>
   <node id="2553278861" lat="42.6929578" lon="23.3524136" version="5" timestamp="2017-07-17T13:56:13Z" changeset="50351932" uid="2060187" user="Стоян">
@@ -42226,13 +42239,7 @@
     <tag k="phone" v="877-484-7787"/>
     <tag k="website" v="http://virpus.com/"/>
   </node>
-  <node id="3252247453" lat="48.0239953" lon="17.3078087" version="10" timestamp="2022-11-04T23:52:18Z" changeset="128504815" uid="2532372" user="VICTORY streetworkout &amp; fitness club">
-    <tag k="addr:city" v="Šamorín"/>
-    <tag k="addr:country" v="SK"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:postcode" v="93101"/>
-    <tag k="addr:street" v="Veterná"/>
-    <tag k="addr:streetnumber" v="43"/>
+  <node id="3252247453" lat="48.0239953" lon="17.3078087" version="11" timestamp="2022-11-10T10:58:56Z" changeset="128727369" uid="7169223" user="Klerik7">
     <tag k="name" v="Digital Asset s.r.o."/>
     <tag k="opening_hours" v="09:00-20:00"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -44268,12 +44275,13 @@
     <tag k="source:date" v="2014-01-22"/>
     <tag k="website" v="http://www.goede-tijden.nl/"/>
   </node>
-  <node id="3356853706" lat="48.7709479" lon="9.1570179" version="4" timestamp="2022-11-04T20:21:19Z" changeset="128499522" uid="17441326" user="BSN21M">
+  <node id="3356853706" lat="48.7709479" lon="9.1570179" version="5" timestamp="2022-11-10T13:51:17Z" changeset="128735235" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Stuttgart"/>
-    <tag k="addr:housenumber" v="77A"/>
-    <tag k="addr:postcode" v="70197"/>
-    <tag k="addr:street" v="Gutenbergstraße"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="70567"/>
+    <tag k="addr:street" v="Mühlhaldenstraße"/>
     <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="service@simpago.com"/>
     <tag k="name" v="Simpago Softwareentwicklung"/>
     <tag k="office" v="it"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
@@ -44281,7 +44289,8 @@
     <tag k="payment:lightning" v="no"/>
     <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:onchain" v="yes"/>
-    <tag k="survey:date" v="2022-11-04"/>
+    <tag k="phone" v="+49 (711) 72232967"/>
+    <tag k="survey:date" v="2022-11-10"/>
     <tag k="website" v="http://www.simpago.com"/>
   </node>
   <node id="3357238890" lat="45.5719344" lon="-73.6031941" version="2" timestamp="2016-11-02T05:49:13Z" changeset="43343134" uid="1624486" user="thetornado76">
