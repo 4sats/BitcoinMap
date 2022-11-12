@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-11T05:32:09Z"/>
+<meta osm_base="2022-11-12T05:28:29Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -1954,7 +1954,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="Reconocimiento cartográfico de campo 2016 por KG."/>
   </node>
-  <node id="1627064948" lat="32.0526331" lon="34.7724332" version="13" timestamp="2022-11-10T21:47:26Z" changeset="128752523" uid="8639761" user="Astrr232">
+  <node id="1627064948" lat="32.0526331" lon="34.7724332" version="14" timestamp="2022-11-11T13:15:44Z" changeset="128776817" uid="8639761" user="Astrr232">
     <tag k="addr:city" v="Tel Aviv"/>
     <tag k="addr:country" v="IL"/>
     <tag k="addr:housenumber" v="19"/>
@@ -1978,11 +1978,11 @@
     <tag k="payment:patreon" v="yes"/>
     <tag k="payment:paybox" v="yes"/>
     <tag k="payment:paypal" v="yes"/>
-    <tag k="phone" v="+97233726660"/>
+    <tag k="phone" v="+972 3-372-6660"/>
     <tag k="source" v="Tel Aviv municipality"/>
-    <tag k="tourism" v="attraction"/>
     <tag k="url" v="http://telavivmakers.org/"/>
     <tag k="website" v="https://telavivmakers.org/"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="1637944090" lat="55.8582587" lon="-4.2203888" version="6" timestamp="2021-10-03T00:54:07Z" changeset="112018518" uid="3472118" user="Ossian Lore">
     <tag k="addr:city" v="Glasgow"/>
@@ -9283,11 +9283,6 @@
     <tag k="shop" v="t-shirts"/>
     <tag k="website" v="https://pirateprintingcompany.com/"/>
   </node>
-  <node id="2551319336" lat="37.7947048" lon="-122.4181336" version="1" timestamp="2013-11-25T19:50:25Z" changeset="19115931" uid="1818653" user="Jwolb">
-    <tag k="name" v="Trading Volatility LLC"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.tradingvolatility.net/"/>
-  </node>
   <node id="2551425287" lat="38.9986843" lon="-94.7785510" version="8" timestamp="2016-05-02T18:08:36Z" changeset="39047566" uid="81676" user="Peter Dobratz">
     <tag k="addr:city" v="Shawnee"/>
     <tag k="addr:housename" v="Barley's Brewhaus"/>
@@ -10215,19 +10210,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+30 2312206406"/>
     <tag k="website" v="https://www.softweb.gr/"/>
-  </node>
-  <node id="2554690723" lat="37.7951834" lon="-122.4235389" version="1" timestamp="2013-11-27T21:48:34Z" changeset="19150594" uid="1821190" user="joepo415">
-    <tag k="addr:city" v="San Francisco"/>
-    <tag k="addr:housename" v="Oxbridge House"/>
-    <tag k="addr:housenumber" v="2115"/>
-    <tag k="addr:postcode" v="94109"/>
-    <tag k="addr:street" v="Van Ness Avenue"/>
-    <tag k="name" v="Oxbridge House"/>
-    <tag k="note" v="Oxbridge House is San Francisco's #1 Precious Metals Company, Coin Dealer, and Gold Buyer. We buy, sell and trade precious metals, rare coins, diamonds, paper money, jewelry, flatware, and much more. We currently accept BTC as payment for all products."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="4154096086"/>
-    <tag k="website" v="http://oxbridgehouse.com"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2555080960" lat="59.3098057" lon="18.0219065" version="4" timestamp="2019-03-30T13:15:12Z" changeset="68697248" uid="9451067" user="b-jazz-bot">
     <tag k="amenity" v="chriopractic"/>
@@ -13027,18 +13009,6 @@
     <tag k="phone" v="+44 116 253 0203"/>
     <tag k="website" v="http://www.horusmusic.co.uk/"/>
   </node>
-  <node id="2572784852" lat="37.8065386" lon="-122.4194931" version="3" timestamp="2019-02-22T08:30:37Z" changeset="67457029" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="San Francisco"/>
-    <tag k="addr:housenumber" v="1335"/>
-    <tag k="addr:postcode" v="94133"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="Columbus Avenue"/>
-    <tag k="landuse" v="retail"/>
-    <tag k="name" v="NOMAD"/>
-    <tag k="note" v="Always have an iPhone cable on you. CHARGECARD | CHARGEKEY The worlds most portable Lightning cable for iPhone &amp; Micro USB."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://hellonomad.com/"/>
-  </node>
   <node id="2572790731" lat="42.6354547" lon="-71.9093365" version="3" timestamp="2019-05-30T13:42:09Z" changeset="70771259" uid="8339" user="mtmail">
     <tag k="addr:city" v="Ashburnham"/>
     <tag k="addr:housenumber" v="41"/>
@@ -14510,8 +14480,8 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="tourism" v="apartment"/>
   </node>
-  <node id="2584452840" lat="53.9150284" lon="27.5786039" version="8" timestamp="2021-09-28T11:50:53Z" changeset="111815193" uid="10732704" user="joseph83">
-    <tag k="addr:city" v="Минск"/>
+  <node id="2584452840" lat="53.9150284" lon="27.5786039" version="9" timestamp="2022-11-12T00:27:13Z" changeset="128797466" uid="278800" user="tbicr">
+    <tag k="addr:city" v="Мінск"/>
     <tag k="addr:city:ru" v="Минск"/>
     <tag k="addr:country" v="BY"/>
     <tag k="addr:housenumber" v="21А"/>
@@ -26023,12 +25993,12 @@
     <tag k="phone" v="+62 85885887889"/>
     <tag k="website" v="http://r2plan.com/"/>
   </node>
-  <node id="2726868042" lat="48.8359585" lon="2.3467604" version="3" timestamp="2020-10-27T19:42:38Z" changeset="93140920" uid="1842888" user="nihombashi19">
-    <tag k="addr:city" v="Paris"/>
-    <tag k="addr:housenumber" v="87"/>
-    <tag k="addr:postcode" v="75013"/>
-    <tag k="addr:street" v="Rue Broca"/>
+  <node id="2726868042" lat="48.8359585" lon="2.3467604" version="4" timestamp="2022-11-11T08:28:07Z" changeset="128765105" uid="172867" user="AmiFritz">
     <tag k="amenity" v="fast_food"/>
+    <tag k="contact:city" v="Paris"/>
+    <tag k="contact:housenumber" v="87"/>
+    <tag k="contact:postcode" v="75013"/>
+    <tag k="contact:street" v="Rue Broca"/>
     <tag k="cuisine" v="sandwich"/>
     <tag k="name" v="The Sandwicherie"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -37552,49 +37522,36 @@
     <tag k="tourism" v="hostel"/>
     <tag k="website" v="http://www.hostellagares.com.ar/"/>
   </node>
-  <node id="3049730337" lat="37.7720696" lon="-122.4315534" version="3" timestamp="2017-10-22T21:49:39Z" changeset="53163319" uid="371121" user="AndrewSnow">
+  <node id="3049730337" lat="37.7720696" lon="-122.4315530" version="4" timestamp="2022-11-11T18:58:42Z" changeset="128789374" uid="1836965" user="Liongrass">
     <tag k="addr:housenumber" v="566"/>
     <tag k="addr:street" v="Haight Street"/>
     <tag k="description" v="Laundry Locker operates 24 x 7 kiosks for dropping off and picking up your dry cleaning and wash &amp; fold at your convenience. Registered customers can access our kiosks anytime."/>
     <tag k="name" v="Laundry Locker Kiosk"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="laundry"/>
     <tag k="website" v="https://laundrylocker.com"/>
   </node>
-  <node id="3049749734" lat="37.8008533" lon="-122.4125162" version="4" timestamp="2018-05-31T20:11:40Z" changeset="59442288" uid="1722488" user="Mateusz Konieczny">
+  <node id="3049749734" lat="37.8008533" lon="-122.4125160" version="5" timestamp="2022-11-11T18:51:38Z" changeset="128789140" uid="1836965" user="Liongrass">
     <tag k="addr:housenumber" v="775"/>
     <tag k="addr:street" v="Filbert Street"/>
     <tag k="description" v="Laundry Locker operates 24 x 7 kiosks for dropping off and picking up your dry cleaning and wash &amp; fold . Registered customers can access our kiosks anytime."/>
     <tag k="name" v="Laundry Locker Kiosk"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="laundry"/>
     <tag k="website" v="https://laundrylocker.com"/>
   </node>
-  <node id="3049754029" lat="37.7711852" lon="-122.4223428" version="2" timestamp="2016-04-04T03:53:31Z" changeset="38279954" uid="363327" user="dvjohnston">
+  <node id="3049754029" lat="37.7711852" lon="-122.4223420" version="3" timestamp="2022-11-11T19:01:18Z" changeset="128789467" uid="1836965" user="Liongrass">
     <tag k="addr:housenumber" v="145"/>
     <tag k="addr:street" v="Valencia Street"/>
     <tag k="description" v="Laundry Locker operates 24 x 7 kiosks for dropping off and picking up your dry cleaning and wash &amp; fold at your convenience. Registered customers can access our kiosks anytime."/>
     <tag k="name" v="Laundry Locker Kiosk"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="laundry"/>
     <tag k="website" v="https://laundrylocker.com"/>
   </node>
-  <node id="3049754030" lat="37.7991297" lon="-122.4335788" version="1" timestamp="2014-08-30T01:31:19Z" changeset="25109229" uid="1836471" user="Blobo123">
+  <node id="3049754030" lat="37.7991297" lon="-122.4335780" version="2" timestamp="2022-11-11T19:00:25Z" changeset="128789447" uid="1836965" user="Liongrass">
     <tag k="addr:housenumber" v="2069"/>
     <tag k="addr:street" v="Greenwich Street"/>
     <tag k="description" v="Laundry Locker operates 24 x 7 kiosks for dropping off and picking up your dry cleaning and wash &amp; fold at your convenience. Registered customers can access our kiosks anytime."/>
     <tag k="name" v="Laundry Locker Kiosk"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="laundry"/>
-    <tag k="website" v="https://laundrylocker.com"/>
-  </node>
-  <node id="3049761192" lat="37.7847888" lon="-122.3887839" version="2" timestamp="2019-10-18T03:39:33Z" changeset="75869036" uid="153669" user="dchiles">
-    <tag k="addr:housenumber" v="140"/>
-    <tag k="addr:street" v="Brannan Street"/>
-    <tag k="description" v="Laundry Locker operates 24 x 7 kiosks for dropping off and picking up your dry cleaning and wash &amp; fold at your convenience. Registered customers can access our kiosks anytime."/>
-    <tag k="name" v="Laundry Locker Kiosk"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="laundry"/>
     <tag k="website" v="https://laundrylocker.com"/>
   </node>
   <node id="3050068280" lat="39.7808373" lon="-105.0054640" version="10" timestamp="2019-04-15T11:45:18Z" changeset="69231937" uid="2237750" user="chachafish">
@@ -40504,7 +40461,7 @@
     <tag k="phone" v="+1 415 285-8588"/>
     <tag k="website" v="http://www.sanfranciscoautorepaircenter.com/"/>
   </node>
-  <node id="3186114966" lat="37.8076369" lon="-122.4155301" version="2" timestamp="2015-01-31T19:51:16Z" changeset="28531394" uid="181135" user="Manu1400">
+  <node id="3186114966" lat="37.8076369" lon="-122.4155300" version="3" timestamp="2022-11-11T18:52:08Z" changeset="128789154" uid="1836965" user="Liongrass">
     <tag k="addr:city" v="San Francisco"/>
     <tag k="addr:housenumber" v="2730"/>
     <tag k="addr:state" v="CA"/>
@@ -40513,7 +40470,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="(415) 776-5308"/>
-    <tag k="shop" v="supermarket"/>
   </node>
   <node id="3186321075" lat="46.0463623" lon="14.5081955" version="8" timestamp="2021-02-24T03:29:14Z" changeset="99862876" uid="1778799" user="SomeoneElse_Revert">
     <tag k="addr:city" v="Ljubljana"/>
@@ -41321,19 +41277,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="shoes"/>
     <tag k="website" v="http://shopluya.com"/>
-  </node>
-  <node id="3223601052" lat="47.4993213" lon="19.0789696" version="9" timestamp="2020-05-12T21:34:25Z" changeset="85106729" uid="6626963" user="gabro00">
-    <tag k="addr:city" v="Budapest"/>
-    <tag k="addr:country" v="HU"/>
-    <tag k="addr:postcode" v="1081"/>
-    <tag k="addr:street" v="Rákóczi út"/>
-    <tag k="amenity" v="car_rental"/>
-    <tag k="location" v="47.499405, 19.079266"/>
-    <tag k="name" v="P-rendszám Car Rental"/>
-    <tag k="opening_hours:signed" v="no"/>
-    <tag k="operator" v="P-rendszám"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+36 70 202 2072"/>
   </node>
   <node id="3224101164" lat="47.5041177" lon="19.0908142" version="7" timestamp="2021-01-30T14:41:40Z" changeset="98416921" uid="3335899" user="GBAB">
     <tag k="contact:facebook" v="https://facebook.com/ArvaCsivavakEgyesulete/"/>
@@ -42572,29 +42515,6 @@
     <tag k="phone" v="(415) 988-7360"/>
     <tag k="shop" v="e-cigarette"/>
     <tag k="website" v="https://yelp.com/biz/vape-city-daly-city-2"/>
-  </node>
-  <node id="3275326695" lat="37.8079709" lon="-122.4169755" version="1" timestamp="2015-01-07T22:00:47Z" changeset="27986340" uid="2555308" user="Jack J Jia">
-    <tag k="addr:city" v="San Francisco"/>
-    <tag k="addr:housenumber" v="285A"/>
-    <tag k="addr:postcode" v="94133"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="Jefferson Street"/>
-    <tag k="name" v="The Fine Art Gallery"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="(888) 423-3174"/>
-  </node>
-  <node id="3275330461" lat="37.8081733" lon="-122.4151273" version="2" timestamp="2019-02-18T22:25:44Z" changeset="67332168" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="San Francisco"/>
-    <tag k="addr:housenumber" v="155"/>
-    <tag k="addr:postcode" v="94133"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="Jefferson Street"/>
-    <tag k="name" v="Digital Photo &amp; Video Center"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="(415) 771-0104"/>
-    <tag k="website" v="https://yelp.com/biz/digital-photo-and-video-center-san-francisco"/>
   </node>
   <node id="3275552269" lat="37.3519710" lon="-121.9815776" version="2" timestamp="2019-02-17T18:05:47Z" changeset="67287518" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Santa Clara"/>
@@ -45085,7 +45005,7 @@
     <tag k="phone" v="+36 1 250 4322;+36 30 317 3552"/>
     <tag k="website" v="http://webdiag.hu/"/>
   </node>
-  <node id="3406206893" lat="37.7903704" lon="-122.4207504" version="1" timestamp="2015-03-18T21:54:54Z" changeset="29580808" uid="2135320" user="BitcoinMaps">
+  <node id="3406206893" lat="37.7903704" lon="-122.4207500" version="2" timestamp="2022-11-11T18:56:35Z" changeset="128789303" uid="1836965" user="Liongrass">
     <tag k="addr:city" v="San Francisco"/>
     <tag k="addr:housenumber" v="1435"/>
     <tag k="addr:street" v="Polk Street"/>
@@ -45094,7 +45014,6 @@
     <tag k="description" v="Full Service Hair Salon.  Open  7 days week.  Affordable rates.  Since 1984."/>
     <tag k="name" v="MANEFRAME Hairdooz"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="hairdresser"/>
   </node>
   <node id="3406437127" lat="25.7759632" lon="-80.1931007" version="2" timestamp="2016-11-18T00:55:23Z" changeset="43750752" uid="3975710" user="jlevente_imports">
     <tag k="name" v="SwitchMIA Miami Colocation"/>
@@ -49903,8 +49822,9 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="smoking" v="isolated"/>
   </node>
-  <node id="4211986089" lat="52.6372706" lon="13.2051209" version="10" timestamp="2022-10-16T18:59:43Z" changeset="127632923" uid="60987" user="lapistano">
+  <node id="4211986089" lat="52.6372706" lon="13.2051209" version="11" timestamp="2022-11-11T17:27:51Z" changeset="128786534" uid="4798255" user="tecmap15">
     <tag k="addr:city" v="Hennigsdorf"/>
+    <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="4c"/>
     <tag k="addr:postcode" v="16761"/>
     <tag k="addr:street" v="Postplatz"/>
@@ -57196,8 +57116,8 @@
     <tag k="office" v="lawyer"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="5393950523" lat="53.9398349" lon="27.5976260" version="5" timestamp="2021-09-28T11:51:00Z" changeset="111815193" uid="10732704" user="joseph83">
-    <tag k="addr:city" v="Минск"/>
+  <node id="5393950523" lat="53.9398349" lon="27.5976260" version="6" timestamp="2022-11-12T00:27:27Z" changeset="128797469" uid="278800" user="tbicr">
+    <tag k="addr:city" v="Мінск"/>
     <tag k="addr:city:ru" v="Минск"/>
     <tag k="addr:country" v="BY"/>
     <tag k="addr:housenumber" v="5-2"/>
@@ -57228,8 +57148,8 @@
     <tag k="website" v="https://pieraklad.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5393950524" lat="53.9398176" lon="27.5977047" version="6" timestamp="2021-09-28T11:51:00Z" changeset="111815193" uid="10732704" user="joseph83">
-    <tag k="addr:city" v="Минск"/>
+  <node id="5393950524" lat="53.9398176" lon="27.5977047" version="7" timestamp="2022-11-12T00:27:27Z" changeset="128797469" uid="278800" user="tbicr">
+    <tag k="addr:city" v="Мінск"/>
     <tag k="addr:city:ru" v="Минск"/>
     <tag k="addr:country" v="BY"/>
     <tag k="addr:housenumber" v="5-2"/>
@@ -58904,8 +58824,8 @@
     <tag k="shop" v="florist"/>
     <tag k="website" v="http://cvetmarket.plp7.ru/"/>
   </node>
-  <node id="5643668261" lat="53.9471671" lon="27.6287219" version="5" timestamp="2021-09-28T11:51:02Z" changeset="111815193" uid="10732704" user="joseph83">
-    <tag k="addr:city" v="Минск"/>
+  <node id="5643668261" lat="53.9471671" lon="27.6287219" version="6" timestamp="2022-11-12T00:27:37Z" changeset="128797471" uid="278800" user="tbicr">
+    <tag k="addr:city" v="Мінск"/>
     <tag k="addr:city:ru" v="Минск"/>
     <tag k="addr:country" v="BY"/>
     <tag k="addr:housenumber" v="55Б"/>
@@ -60552,13 +60472,13 @@
     <tag k="operator" v="Bitcoin ATM"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="6018533356" lat="53.8873170" lon="27.4556715" version="5" timestamp="2021-11-10T15:33:08Z" changeset="113613779" uid="388123" user="dez">
-    <tag k="addr:city" v="Минск"/>
+  <node id="6018533356" lat="53.8873170" lon="27.4556715" version="7" timestamp="2022-11-12T01:21:52Z" changeset="128798140" uid="278800" user="tbicr">
+    <tag k="addr:city" v="Мінск"/>
     <tag k="addr:city:ru" v="Минск"/>
     <tag k="addr:country" v="BY"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:postcode" v="220018"/>
-    <tag k="addr:street" v="улица Шаранговича"/>
+    <tag k="addr:street" v="вуліца Шаранговіча"/>
     <tag k="description" v="Шиномонтаж"/>
     <tag k="description:be" v="Шынамантаж"/>
     <tag k="description:ru" v="Шиномонтаж"/>
@@ -69266,10 +69186,10 @@
     <tag k="phone" v="55 11 94668 8713"/>
     <tag k="shop" v="baby_goods"/>
   </node>
-  <node id="9118126007" lat="53.5350717" lon="30.2214662" version="7" timestamp="2022-05-20T01:31:27Z" changeset="121219189" uid="278800" user="tbicr">
-    <tag k="addr:city" v="Быхов"/>
+  <node id="9118126007" lat="53.5350717" lon="30.2214662" version="8" timestamp="2022-11-12T00:29:34Z" changeset="128797510" uid="278800" user="tbicr">
+    <tag k="addr:city" v="Быхаў"/>
     <tag k="addr:housenumber" v="76Б"/>
-    <tag k="addr:place" v="Колос"/>
+    <tag k="addr:place" v="Колас"/>
     <tag k="name" v="Околица"/>
     <tag k="name:be" v="Аколіца"/>
     <tag k="name:ru" v="Околица"/>
@@ -70842,6 +70762,22 @@
     <tag k="opening_hours" v="Tu-Fr 11:30-15:00,17:30-21:30; Sa-Su 12:00-15:00,17:30-22:30"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
+  <node id="9582167489" lat="49.2641408" lon="-123.1569870" version="16" timestamp="2022-11-11T17:33:19Z" changeset="128786730" uid="16755087" user="Coinoswallet">
+    <tag k="addr:city" v="Vancouver"/>
+    <tag k="addr:housenumber" v="2010"/>
+    <tag k="addr:province" v="BC"/>
+    <tag k="addr:street" v="East Kent South"/>
+    <tag k="air_conditioning" v="no"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Kangen Krusade"/>
+    <tag k="note" v="payment coinos oder coins (no notes); openinghours last entry overwrte all other!"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="604-537-6787"/>
+    <tag k="survey:date" v="2022-09-06"/>
+    <tag k="website" v="https://www.facebook.com/groups/Kangenkru"/>
+  </node>
   <node id="9620702550" lat="13.4940662" lon="-89.3836286" version="1" timestamp="2022-03-29T11:28:24Z" changeset="119064783" uid="4512222" user="Ravrol">
     <tag k="description" v="Lightning supported."/>
     <tag k="name" v="Tattoo"/>
@@ -72233,6 +72169,24 @@
     <tag k="phone" v="1 (236) 838-1656"/>
     <tag k="shop" v="hairdresser"/>
     <tag k="website" v="https://cryptobarbershops.com/"/>
+  </node>
+  <node id="10176360570" lat="25.9884512" lon="-80.2452005" version="1" timestamp="2022-11-11T19:15:36Z" changeset="128789917" uid="16755087" user="Coinoswallet">
+    <tag k="addr:city" v="Hollywood"/>
+    <tag k="addr:housenumber" v="1241"/>
+    <tag k="addr:state" v="Florida"/>
+    <tag k="addr:street" v="Sable Palm Drive"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Simona Flowers Design"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+1 786-857-1718"/>
+    <tag k="shop" v="florist"/>
+    <tag k="survey:date" v="2022-11-11"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
