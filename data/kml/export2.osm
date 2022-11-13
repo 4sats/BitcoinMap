@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-12T05:28:29Z"/>
+<meta osm_base="2022-11-13T05:28:38Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -14480,13 +14480,13 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="tourism" v="apartment"/>
   </node>
-  <node id="2584452840" lat="53.9150284" lon="27.5786039" version="9" timestamp="2022-11-12T00:27:13Z" changeset="128797466" uid="278800" user="tbicr">
+  <node id="2584452840" lat="53.9150284" lon="27.5786039" version="10" timestamp="2022-11-12T08:34:44Z" changeset="128803939" uid="278800" user="tbicr">
     <tag k="addr:city" v="Мінск"/>
     <tag k="addr:city:ru" v="Минск"/>
     <tag k="addr:country" v="BY"/>
     <tag k="addr:housenumber" v="21А"/>
     <tag k="addr:postcode" v="220005"/>
-    <tag k="addr:street" v="Красная улица"/>
+    <tag k="addr:street" v="Чырвоная вуліца"/>
     <tag k="description" v="Spacious Studio apartment for short term rent"/>
     <tag k="internet_access" v="yes"/>
     <tag k="name" v="Apartment rental"/>
@@ -24664,6 +24664,18 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 0541 478040"/>
     <tag k="website" v="https://www.hi-net.it/"/>
+  </node>
+  <node id="2718109273" lat="44.0601434" lon="12.5676513" version="4" timestamp="2022-11-12T22:32:08Z" changeset="128829402" uid="2201521" user="quibitcoin">
+    <tag k="addr:city" v="Rimini"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="113"/>
+    <tag k="addr:postcode" v="47921"/>
+    <tag k="addr:street" v="Corso d'Augusto"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Mythos cafe"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="source:wheelchair" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2718172593" lat="44.0417980" lon="12.5857355" version="6" timestamp="2022-09-10T00:06:28Z" changeset="125999349" uid="1467637" user="Simone Gliori">
     <tag k="addr:city" v="Rimini"/>
@@ -57116,13 +57128,13 @@
     <tag k="office" v="lawyer"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="5393950523" lat="53.9398349" lon="27.5976260" version="6" timestamp="2022-11-12T00:27:27Z" changeset="128797469" uid="278800" user="tbicr">
+  <node id="5393950523" lat="53.9398349" lon="27.5976260" version="7" timestamp="2022-11-12T08:34:55Z" changeset="128803942" uid="278800" user="tbicr">
     <tag k="addr:city" v="Мінск"/>
     <tag k="addr:city:ru" v="Минск"/>
     <tag k="addr:country" v="BY"/>
     <tag k="addr:housenumber" v="5-2"/>
     <tag k="addr:postcode" v="220113"/>
-    <tag k="addr:street" v="улица Мележа"/>
+    <tag k="addr:street" v="вуліца Мележа"/>
     <tag k="description" v="Бюро перакладаў / Бюро переводов / Translation Company"/>
     <tag k="email" v="a@pieraklad.com"/>
     <tag k="level" v="5"/>
@@ -57148,13 +57160,13 @@
     <tag k="website" v="https://pieraklad.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5393950524" lat="53.9398176" lon="27.5977047" version="7" timestamp="2022-11-12T00:27:27Z" changeset="128797469" uid="278800" user="tbicr">
+  <node id="5393950524" lat="53.9398176" lon="27.5977047" version="8" timestamp="2022-11-12T08:35:10Z" changeset="128803953" uid="278800" user="tbicr">
     <tag k="addr:city" v="Мінск"/>
     <tag k="addr:city:ru" v="Минск"/>
     <tag k="addr:country" v="BY"/>
     <tag k="addr:housenumber" v="5-2"/>
     <tag k="addr:postcode" v="220113"/>
-    <tag k="addr:street" v="улица Мележа"/>
+    <tag k="addr:street" v="вуліца Мележа"/>
     <tag k="description" v="Студыя графічнага дызайна / Graphic Design Studio"/>
     <tag k="email" v="mail@foxcolor.by"/>
     <tag k="level" v="5"/>
@@ -58824,13 +58836,13 @@
     <tag k="shop" v="florist"/>
     <tag k="website" v="http://cvetmarket.plp7.ru/"/>
   </node>
-  <node id="5643668261" lat="53.9471671" lon="27.6287219" version="6" timestamp="2022-11-12T00:27:37Z" changeset="128797471" uid="278800" user="tbicr">
+  <node id="5643668261" lat="53.9471671" lon="27.6287219" version="7" timestamp="2022-11-12T08:35:18Z" changeset="128803955" uid="278800" user="tbicr">
     <tag k="addr:city" v="Мінск"/>
     <tag k="addr:city:ru" v="Минск"/>
     <tag k="addr:country" v="BY"/>
     <tag k="addr:housenumber" v="55Б"/>
     <tag k="addr:postcode" v="220103"/>
-    <tag k="addr:street" v="улица Калиновского"/>
+    <tag k="addr:street" v="вуліца Каліноўскага"/>
     <tag k="description" v="Магазин масок, костюмов и атрибутики для фанатов аниме, сериалов и игр."/>
     <tag k="email" v="info@superlama.by"/>
     <tag k="level" v="2"/>
@@ -69071,12 +69083,14 @@
     <tag k="payment:visa_electron" v="yes"/>
     <tag k="shop" v="pastry"/>
   </node>
-  <node id="8989603620" lat="35.7971600" lon="51.4939958" version="2" timestamp="2022-08-18T10:08:43Z" changeset="125054050" uid="13891856" user="VapeIran">
+  <node id="8989603620" lat="35.7971593" lon="51.4939977" version="3" timestamp="2022-11-12T15:37:58Z" changeset="128817676" uid="13891856" user="VapeIran">
     <tag k="addr:city" v="Tehran"/>
     <tag k="addr:housenumber" v="ساختمان اجلاس"/>
     <tag k="addr:street" v="تقاطع گلچین شمالی و  صدرنژاد"/>
     <tag k="brand" v="ویپ ایران"/>
     <tag k="name" v="ویپ ایران"/>
+    <tag k="name:en" v="VapeIran"/>
+    <tag k="name:fa" v="ویپ ایران"/>
     <tag k="opening_hours" v="Sa-Th 10:00-20:00"/>
     <tag k="opening_hours:covid19" v="open"/>
     <tag k="operator" v="VapeIran Showroom"/>
@@ -69084,7 +69098,6 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="phone" v="+982122497496"/>
-    <tag k="shop" v="e-cigarette"/>
     <tag k="website" v="https://vapeiran.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
