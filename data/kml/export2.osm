@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-13T05:28:38Z"/>
+<meta osm_base="2022-11-14T05:35:16Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -1954,30 +1954,36 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="Reconocimiento cartográfico de campo 2016 por KG."/>
   </node>
-  <node id="1627064948" lat="32.0526331" lon="34.7724332" version="14" timestamp="2022-11-11T13:15:44Z" changeset="128776817" uid="8639761" user="Astrr232">
+  <node id="1627064948" lat="32.0526331" lon="34.7724332" version="16" timestamp="2022-11-13T18:49:04Z" changeset="128859097" uid="8639761" user="Astrr232">
     <tag k="addr:city" v="Tel Aviv"/>
     <tag k="addr:country" v="IL"/>
+    <tag k="addr:floor" v="G"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:street" v="שוקן"/>
     <tag k="addr:street:en" v="Shoken"/>
     <tag k="air_conditioning" v="yes"/>
     <tag k="alt_name" v="Tel Aviv Makers International"/>
+    <tag k="alt_name:en" v="TAMI"/>
     <tag k="charge" v="300 ILS"/>
+    <tag k="check_date" v="2022-11-13"/>
     <tag k="fee" v="yes"/>
     <tag k="internet_access" v="yes"/>
     <tag k="internet_access:fee" v="no"/>
     <tag k="internet_access:ssid" v="tami"/>
     <tag k="leisure" v="hackerspace"/>
+    <tag k="level" v="0"/>
     <tag k="name" v="Tel Aviv Makers Intl."/>
-    <tag k="name:en" v="TAMI"/>
+    <tag k="name:en" v="Tel Aviv Makers Intl."/>
+    <tag k="opening_hours" v="No specific schedule. Ask if someone is there in the chat or call the landline."/>
     <tag k="operator" v="Tel Aviv Makers Intl."/>
     <tag k="payment:bank_transfer" v="yes"/>
     <tag k="payment:bit" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:patreon" v="yes"/>
     <tag k="payment:paybox" v="yes"/>
     <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+972 3-372-6660"/>
     <tag k="source" v="Tel Aviv municipality"/>
     <tag k="url" v="http://telavivmakers.org/"/>
@@ -22354,17 +22360,6 @@
     <tag k="shop" v="printing"/>
     <tag k="website" v="https://www.nonsolograficadimiele.it/"/>
   </node>
-  <node id="2678532808" lat="53.0231856" lon="-1.4841425" version="6" timestamp="2021-08-08T10:13:27Z" changeset="109338983" uid="417748" user="Dave Venables">
-    <tag k="addr:city" v="Belper"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="DE56 1PW"/>
-    <tag k="addr:street" v="King Street"/>
-    <tag k="name" v="Sound-Hub Studios"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+44 7515 560693"/>
-    <tag k="website" v="https://www.sound-hub.com/"/>
-  </node>
   <node id="2678538138" lat="38.0974089" lon="13.3184074" version="4" timestamp="2019-04-21T21:12:27Z" changeset="69434503" uid="3335899" user="GBAB">
     <tag k="amenity" v="studio"/>
     <tag k="contact:email" v="ivanlaine@live.it"/>
@@ -24665,15 +24660,18 @@
     <tag k="phone" v="+39 0541 478040"/>
     <tag k="website" v="https://www.hi-net.it/"/>
   </node>
-  <node id="2718109273" lat="44.0601434" lon="12.5676513" version="4" timestamp="2022-11-12T22:32:08Z" changeset="128829402" uid="2201521" user="quibitcoin">
+  <node id="2718109273" lat="44.0601434" lon="12.5676513" version="5" timestamp="2022-11-13T14:31:52Z" changeset="128849720" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Rimini"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="113"/>
     <tag k="addr:postcode" v="47921"/>
     <tag k="addr:street" v="Corso d'Augusto"/>
     <tag k="amenity" v="cafe"/>
+    <tag k="description" v="Colazioni e aperitivi."/>
+    <tag k="email" v="mingo.mattia@gmail.com"/>
     <tag k="name" v="Mythos cafe"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 3423284951"/>
     <tag k="source:wheelchair" v="survey"/>
     <tag k="wheelchair" v="yes"/>
   </node>
@@ -37534,38 +37532,6 @@
     <tag k="tourism" v="hostel"/>
     <tag k="website" v="http://www.hostellagares.com.ar/"/>
   </node>
-  <node id="3049730337" lat="37.7720696" lon="-122.4315530" version="4" timestamp="2022-11-11T18:58:42Z" changeset="128789374" uid="1836965" user="Liongrass">
-    <tag k="addr:housenumber" v="566"/>
-    <tag k="addr:street" v="Haight Street"/>
-    <tag k="description" v="Laundry Locker operates 24 x 7 kiosks for dropping off and picking up your dry cleaning and wash &amp; fold at your convenience. Registered customers can access our kiosks anytime."/>
-    <tag k="name" v="Laundry Locker Kiosk"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://laundrylocker.com"/>
-  </node>
-  <node id="3049749734" lat="37.8008533" lon="-122.4125160" version="5" timestamp="2022-11-11T18:51:38Z" changeset="128789140" uid="1836965" user="Liongrass">
-    <tag k="addr:housenumber" v="775"/>
-    <tag k="addr:street" v="Filbert Street"/>
-    <tag k="description" v="Laundry Locker operates 24 x 7 kiosks for dropping off and picking up your dry cleaning and wash &amp; fold . Registered customers can access our kiosks anytime."/>
-    <tag k="name" v="Laundry Locker Kiosk"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://laundrylocker.com"/>
-  </node>
-  <node id="3049754029" lat="37.7711852" lon="-122.4223420" version="3" timestamp="2022-11-11T19:01:18Z" changeset="128789467" uid="1836965" user="Liongrass">
-    <tag k="addr:housenumber" v="145"/>
-    <tag k="addr:street" v="Valencia Street"/>
-    <tag k="description" v="Laundry Locker operates 24 x 7 kiosks for dropping off and picking up your dry cleaning and wash &amp; fold at your convenience. Registered customers can access our kiosks anytime."/>
-    <tag k="name" v="Laundry Locker Kiosk"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://laundrylocker.com"/>
-  </node>
-  <node id="3049754030" lat="37.7991297" lon="-122.4335780" version="2" timestamp="2022-11-11T19:00:25Z" changeset="128789447" uid="1836965" user="Liongrass">
-    <tag k="addr:housenumber" v="2069"/>
-    <tag k="addr:street" v="Greenwich Street"/>
-    <tag k="description" v="Laundry Locker operates 24 x 7 kiosks for dropping off and picking up your dry cleaning and wash &amp; fold at your convenience. Registered customers can access our kiosks anytime."/>
-    <tag k="name" v="Laundry Locker Kiosk"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://laundrylocker.com"/>
-  </node>
   <node id="3050068280" lat="39.7808373" lon="-105.0054640" version="10" timestamp="2019-04-15T11:45:18Z" changeset="69231937" uid="2237750" user="chachafish">
     <tag k="addr:city" v="Denver"/>
     <tag k="addr:housenumber" v="4640"/>
@@ -40473,16 +40439,6 @@
     <tag k="phone" v="+1 415 285-8588"/>
     <tag k="website" v="http://www.sanfranciscoautorepaircenter.com/"/>
   </node>
-  <node id="3186114966" lat="37.8076369" lon="-122.4155300" version="3" timestamp="2022-11-11T18:52:08Z" changeset="128789154" uid="1836965" user="Liongrass">
-    <tag k="addr:city" v="San Francisco"/>
-    <tag k="addr:housenumber" v="2730"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="Taylor Street"/>
-    <tag k="name" v="Wharf Liquors &amp; Deli"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="(415) 776-5308"/>
-  </node>
   <node id="3186321075" lat="46.0463623" lon="14.5081955" version="8" timestamp="2021-02-24T03:29:14Z" changeset="99862876" uid="1778799" user="SomeoneElse_Revert">
     <tag k="addr:city" v="Ljubljana"/>
     <tag k="addr:housenumber" v="23"/>
@@ -42734,16 +42690,6 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="(415) 824-7729"/>
     <tag k="website" v="http://zootsuitstore.com"/>
-  </node>
-  <node id="3277693469" lat="37.7760156" lon="-122.4233020" version="3" timestamp="2022-09-19T00:56:07Z" changeset="126349268" uid="15537949" user="pootriarch">
-    <tag k="addr:city" v="San Francisco"/>
-    <tag k="addr:housenumber" v="330"/>
-    <tag k="addr:postcode" v="94102"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="Fell Street"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="(415) 992-7153"/>
   </node>
   <node id="3277714389" lat="38.7303934" lon="-120.8052769" version="2" timestamp="2019-02-22T08:49:00Z" changeset="67457655" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Placerville"/>
@@ -45016,16 +44962,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+36 1 250 4322;+36 30 317 3552"/>
     <tag k="website" v="http://webdiag.hu/"/>
-  </node>
-  <node id="3406206893" lat="37.7903704" lon="-122.4207500" version="2" timestamp="2022-11-11T18:56:35Z" changeset="128789303" uid="1836965" user="Liongrass">
-    <tag k="addr:city" v="San Francisco"/>
-    <tag k="addr:housenumber" v="1435"/>
-    <tag k="addr:street" v="Polk Street"/>
-    <tag k="contact:email" v="garyrbeach@gmail.com"/>
-    <tag k="contact:phone" v="415.441.4279"/>
-    <tag k="description" v="Full Service Hair Salon.  Open  7 days week.  Affordable rates.  Since 1984."/>
-    <tag k="name" v="MANEFRAME Hairdooz"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="3406437127" lat="25.7759632" lon="-80.1931007" version="2" timestamp="2016-11-18T00:55:23Z" changeset="43750752" uid="3975710" user="jlevente_imports">
     <tag k="name" v="SwitchMIA Miami Colocation"/>
@@ -51077,8 +51013,9 @@
     <tag k="smoking" v="separated"/>
     <tag k="takeaway" v="yes"/>
   </node>
-  <node id="4620910995" lat="51.3416439" lon="12.3784656" version="7" timestamp="2022-11-04T20:36:30Z" changeset="128500021" uid="17441326" user="BSN21M">
+  <node id="4620910995" lat="51.3416439" lon="12.3784656" version="8" timestamp="2022-11-13T17:31:33Z" changeset="128856624" uid="4798255" user="tecmap15">
     <tag k="addr:city" v="Leipzig"/>
+    <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:postcode" v="04109"/>
     <tag k="addr:street" v="Nikolaistraße"/>
@@ -70775,22 +70712,6 @@
     <tag k="opening_hours" v="Tu-Fr 11:30-15:00,17:30-21:30; Sa-Su 12:00-15:00,17:30-22:30"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="9582167489" lat="49.2641408" lon="-123.1569870" version="16" timestamp="2022-11-11T17:33:19Z" changeset="128786730" uid="16755087" user="Coinoswallet">
-    <tag k="addr:city" v="Vancouver"/>
-    <tag k="addr:housenumber" v="2010"/>
-    <tag k="addr:province" v="BC"/>
-    <tag k="addr:street" v="East Kent South"/>
-    <tag k="air_conditioning" v="no"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Kangen Krusade"/>
-    <tag k="note" v="payment coinos oder coins (no notes); openinghours last entry overwrte all other!"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coinos" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="604-537-6787"/>
-    <tag k="survey:date" v="2022-09-06"/>
-    <tag k="website" v="https://www.facebook.com/groups/Kangenkru"/>
-  </node>
   <node id="9620702550" lat="13.4940662" lon="-89.3836286" version="1" timestamp="2022-03-29T11:28:24Z" changeset="119064783" uid="4512222" user="Ravrol">
     <tag k="description" v="Lightning supported."/>
     <tag k="name" v="Tattoo"/>
@@ -71741,6 +71662,26 @@
     <tag k="phone" v="+39 3484447118"/>
     <tag k="website" v="https://www.impiantizoccatelli.it"/>
   </node>
+  <node id="9934619017" lat="49.2702568" lon="-123.1414120" version="7" timestamp="2022-11-14T04:13:43Z" changeset="128870925" uid="16755087" user="Coinoswallet">
+    <tag k="addr:city" v="Vancouver"/>
+    <tag k="addr:housenumber" v="1628"/>
+    <tag k="addr:postcode" v="V6J 1G1"/>
+    <tag k="addr:province" v="BC"/>
+    <tag k="addr:street" v="West 1st Avenue"/>
+    <tag k="addr:unit" v="231"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="jsilver@rolfbodywork.com"/>
+    <tag k="name" v="Rolf Bodywork"/>
+    <tag k="operator" v="Jessica"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+1-604-767-2971"/>
+    <tag k="shop" v="massage"/>
+    <tag k="survey:date" v="2022-10-16"/>
+    <tag k="website" v="https://rolfbodywork.com"/>
+  </node>
   <node id="9937709256" lat="10.4980026" lon="-66.8557039" version="5" timestamp="2022-08-16T17:23:48Z" changeset="124982843" uid="616774" user="mueschel">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:full" v="Av. Blandin con calle Santa Teresa, C.C San Ignacio, nivel Vivero, local Vivero 3 Sur Este. Urb. La Castellana."/>
@@ -72183,14 +72124,14 @@
     <tag k="shop" v="hairdresser"/>
     <tag k="website" v="https://cryptobarbershops.com/"/>
   </node>
-  <node id="10176360570" lat="25.9884512" lon="-80.2452005" version="1" timestamp="2022-11-11T19:15:36Z" changeset="128789917" uid="16755087" user="Coinoswallet">
+  <node id="10176360570" lat="25.9884512" lon="-80.2452005" version="2" timestamp="2022-11-14T04:07:58Z" changeset="128870796" uid="16755087" user="Coinoswallet">
     <tag k="addr:city" v="Hollywood"/>
     <tag k="addr:housenumber" v="1241"/>
     <tag k="addr:state" v="Florida"/>
     <tag k="addr:street" v="Sable Palm Drive"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Simona Flowers Design"/>
-    <tag k="opening_hours" v="24/7"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00 On Appointment"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:coinos" v="yes"/>
