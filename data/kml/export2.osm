@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-14T05:35:16Z"/>
+<meta osm_base="2022-11-15T05:25:37Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -5484,30 +5484,6 @@
     <tag k="name" v="AKG Guitar Lessons"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://akgguitar.com/"/>
-  </node>
-  <node id="2441495282" lat="1.2821538" lon="103.8507830" version="3" timestamp="2013-09-02T14:32:11Z" changeset="17637051" uid="28559" user="Stemby">
-    <tag k="addr:city" v="Singapore"/>
-    <tag k="addr:housename" v="#08-01A Far East Finance Building"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:postcode" v="048545"/>
-    <tag k="addr:street" v="Robinson Road"/>
-    <tag k="name" v="Coin Republic"/>
-    <tag k="note" v="Rapid Net Profits Pte. Ltd."/>
-    <tag k="office" v="it"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://coinrepublic.com/"/>
-  </node>
-  <node id="2441537400" lat="1.3227994" lon="103.8681975" version="3" timestamp="2013-09-02T14:33:34Z" changeset="17637073" uid="28559" user="Stemby">
-    <tag k="addr:city" v="Singapore"/>
-    <tag k="addr:housename" v="#19-3329"/>
-    <tag k="addr:housenumber" v="59B"/>
-    <tag k="addr:postcode" v="331059"/>
-    <tag k="addr:street" v="Gelyang Bahru"/>
-    <tag k="name" v="FYB-SG Bitcoin Exchange"/>
-    <tag k="note" v="DEALWORKS PTE. LTD."/>
-    <tag k="office" v="it"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.fybsg.com/"/>
   </node>
   <node id="2441788994" lat="39.0379364" lon="-80.4592545" version="5" timestamp="2019-09-14T00:18:21Z" changeset="74457803" uid="243003" user="skquinn">
     <tag k="addr:city" v="Weston"/>
@@ -14193,8 +14169,11 @@
     <tag k="phone" v="+523222232424"/>
     <tag k="website" v="https://bitcoinmexi.co/negocio/india-gate/"/>
   </node>
-  <node id="2580021134" lat="34.0469941" lon="-118.4633361" version="3" timestamp="2014-04-12T15:17:54Z" changeset="21647983" uid="1836471" user="Blobo123">
-    <tag k="name" v="Scripting Your LifePlay - hypnosis"/>
+  <node id="2580021134" lat="34.0469941" lon="-118.4633360" version="4" timestamp="2022-11-14T05:42:19Z" changeset="128872816" uid="11523236" user="willkmis">
+    <tag k="fixme" v="verify, website doesn't work"/>
+    <tag k="healthcare" v="alternative"/>
+    <tag k="healthcare:speciality" v="hypnosis"/>
+    <tag k="name" v="Scripting Your LifePlay"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://hypnosiswestlosangeles.com/"/>
   </node>
@@ -15070,8 +15049,9 @@
     <tag k="source:date" v="2016-09-29"/>
     <tag k="website" v="https://www.doubleme3d.nl/"/>
   </node>
-  <node id="2595613964" lat="53.5582915" lon="9.8090979" version="8" timestamp="2022-11-05T15:39:05Z" changeset="128525961" uid="17441326" user="BSN21M">
+  <node id="2595613964" lat="53.5582915" lon="9.8090979" version="9" timestamp="2022-11-14T09:20:44Z" changeset="128879993" uid="671198" user="L-Klitschi">
     <tag k="addr:city" v="Hamburg"/>
+    <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="22587"/>
     <tag k="addr:street" v="Bremers Weg"/>
@@ -36392,7 +36372,7 @@
     <tag k="shop" v="beauty"/>
     <tag k="website" v="http://www.lawlesssalon.com.au/"/>
   </node>
-  <node id="3006161376" lat="-27.4578505" lon="153.0362601" version="4" timestamp="2020-08-06T08:35:03Z" changeset="89025176" uid="4637308" user="nuklearelement">
+  <node id="3006161376" lat="-27.4578505" lon="153.0362601" version="5" timestamp="2022-11-15T05:10:41Z" changeset="128918024" uid="9451067" user="b-jazz-bot">
     <tag k="addr:housenumber" v="5G"/>
     <tag k="addr:postcode" v="4006"/>
     <tag k="addr:street" v="Winn Street"/>
@@ -36402,7 +36382,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+61 410 526 082"/>
     <tag k="shop" v="jewelry"/>
-    <tag k="website" v="http://www.missbond.com.au/"/>
+    <tag k="website" v="https://www.missbond.com.au/"/>
   </node>
   <node id="3006422718" lat="45.8392525" lon="8.9978468" version="5" timestamp="2014-09-05T20:35:56Z" changeset="25256446" uid="2265854" user="G4rp">
     <tag k="addr:city" v="Novazzano"/>
@@ -40960,13 +40940,6 @@
     <tag k="phone" v="+54 11 4331-5469"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="http://www.o-baires.com/"/>
-  </node>
-  <node id="3210755444" lat="51.9836350" lon="5.9152866" version="4" timestamp="2016-04-23T14:15:36Z" changeset="38814035" uid="2084575" user="Coinpluggin">
-    <tag k="name" v="H. van Hunen"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+31 26 442 1217"/>
-    <tag k="shop" v="electronics"/>
-    <tag k="website" v="http://www.vanhunen.nl/"/>
   </node>
   <node id="3210834902" lat="-30.0126696" lon="-51.1342406" version="5" timestamp="2016-11-30T19:38:10Z" changeset="44068192" uid="816543" user="portalaventura">
     <tag k="addr:city" v="Porto Alegre"/>
@@ -56365,16 +56338,18 @@
     <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
     <tag k="phone" v="+39023560223"/>
   </node>
-  <node id="5347077322" lat="44.6759670" lon="8.4694870" version="1" timestamp="2018-01-18T14:26:07Z" changeset="55551175" uid="2201521" user="quibitcoin">
+  <node id="5347077322" lat="44.6759598" lon="8.4694221" version="3" timestamp="2022-11-14T18:06:26Z" changeset="128903811" uid="14617702" user="Đuro Jiří">
     <tag k="addr:city" v="Acqui Terme"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:postcode" v="15011"/>
     <tag k="addr:street" v="Via Giacomo Bove"/>
+    <tag k="contact:facebook" v="https://m.facebook.com/GastronomiaMiraggio/"/>
     <tag k="description" v="Vasta selezione di piatti pronti d'asporto, specialità nazionali ed internazionali."/>
     <tag k="email" v="info@gastronomiamiraggio.it"/>
     <tag k="name" v="Gastronomia Miraggio"/>
+    <tag k="opening_hours" v="Mo,Tu,Th-Sa 09:00-13:00,16:30-19:30; Su 09:30-13:00; We off"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0144470629"/>
+    <tag k="phone" v="+39 0144 470629"/>
     <tag k="shop" v="deli"/>
     <tag k="website" v="http://www.gastronomiamiraggio.it"/>
   </node>
@@ -71999,19 +71974,6 @@
     <tag k="swimming_pool" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="10072472871" lat="44.8197462" lon="7.2854219" version="1" timestamp="2022-10-03T09:41:18Z" changeset="126926713" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Bricherasio"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:postcode" v="10060"/>
-    <tag k="addr:street" v="Strada Rivà"/>
-    <tag k="description" v="Azienda agricola con prodotti di stagione e trasformati, location per matrimoni, B&amp;B."/>
-    <tag k="email" v="agri.baccablu@libero.it"/>
-    <tag k="name" v="Agriturismo Bacca Blu"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 3933560497"/>
-    <tag k="shop" v="farm"/>
-    <tag k="website" v="https://www.baccablu.it"/>
-  </node>
   <node id="10082243731" lat="38.7227357" lon="-9.1462637" version="3" timestamp="2022-11-05T14:47:12Z" changeset="128523750" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Lisboa"/>
     <tag k="addr:housenumber" v="76"/>
@@ -72141,6 +72103,19 @@
     <tag k="shop" v="florist"/>
     <tag k="survey:date" v="2022-11-11"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10183246147" lat="39.2423450" lon="8.9975970" version="1" timestamp="2022-11-14T14:28:29Z" changeset="128894528" uid="2201521" user="quibitcoin">
+    <tag k="addr:city" v="Assemini"/>
+    <tag k="addr:postcode" v="09032"/>
+    <tag k="addr:street" v="Z.i. 4, Str. Consortile Macchiareddu"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Produzione polistirolo espanso."/>
+    <tag k="email" v="alexitalia@tiscali.it"/>
+    <tag k="industrial" v="packaging"/>
+    <tag k="name" v="Alexitalia"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 3388821215"/>
+    <tag k="website" v="https://www.alexitalia.it"/>
   </node>
 
 </osm>
