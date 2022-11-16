@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-15T05:25:37Z"/>
+<meta osm_base="2022-11-16T05:26:38Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -1917,15 +1917,18 @@
     <tag k="smoking" v="separated"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1603701666" lat="44.4519610" lon="8.3825170" version="10" timestamp="2022-06-02T20:55:32Z" changeset="121868417" uid="47978" user="Christoph Lotz">
+  <node id="1603701666" lat="44.4519610" lon="8.3825170" version="11" timestamp="2022-11-15T15:28:35Z" changeset="128948000" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Giusvalla"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="17010"/>
-    <tag k="addr:street" v="Loc.Vicari"/>
-    <tag k="description" v="laboratorio cosmetici artigianali"/>
-    <tag k="name" v="Az.Agr. Daniela Bagnis"/>
+    <tag k="addr:street" v="Località Vicari"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Laboratorio produzione cosmetici 100% handmade."/>
+    <tag k="name" v="Azienda Agricola Daniela Bagnis"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 3332471926"/>
+    <tag k="shop" v="cosmetics"/>
     <tag k="website" v="https://bagnisliguria.it"/>
   </node>
   <node id="1618338809" lat="39.7548245" lon="-104.9871350" version="6" timestamp="2022-06-21T06:05:33Z" changeset="122648509" uid="338843" user="TorCguy">
@@ -3196,22 +3199,6 @@
     <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wifi" v="no"/>
-  </node>
-  <node id="2151018561" lat="45.8881405" lon="11.0443447" version="12" timestamp="2019-10-27T18:36:05Z" changeset="76273113" uid="1296416" user="Inaltoasinistra">
-    <tag k="addr:city" v="Rovereto"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:postcode" v="38068"/>
-    <tag k="addr:street" v="Piazza Malfatti"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Mani Al Cielo"/>
-    <tag k="operator" v="Giampaolo Rossi"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
-    <tag k="phone" v="+39 340 5998774"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2151019684" lat="45.8885794" lon="11.0445839" version="5" timestamp="2022-02-28T15:37:41Z" changeset="117949031" uid="330007" user="pikappa79">
     <tag k="addr:city" v="Rovereto"/>
@@ -19101,7 +19088,7 @@
     <tag k="phone" v="+1 972 881 8273"/>
     <tag k="website" v="https://www.www.artisanvaporcompany.com/"/>
   </node>
-  <node id="2631731265" lat="-34.6182669" lon="-58.3743206" version="6" timestamp="2020-03-06T16:08:03Z" changeset="81876041" uid="3837224" user="MatiasJ">
+  <node id="2631731265" lat="-34.6182669" lon="-58.3743367" version="7" timestamp="2022-11-15T11:01:26Z" changeset="128933184" uid="331218" user="AgusQui">
     <tag k="addr:city" v="Ciudad Autonoma de Buenos Aires"/>
     <tag k="addr:housenumber" v="886"/>
     <tag k="addr:street" v="Perú"/>
@@ -42110,7 +42097,7 @@
     <tag k="phone" v="(205) 510-0053"/>
     <tag k="website" v="https://www.facebook.com/CrestwoodTavernBirmingham"/>
   </node>
-  <node id="3251588817" lat="47.4932599" lon="-122.2938260" version="4" timestamp="2020-10-14T08:16:58Z" changeset="92458088" uid="35814" user="bingo">
+  <node id="3251588817" lat="47.4932599" lon="-122.2938260" version="5" timestamp="2022-11-16T04:20:24Z" changeset="128968058" uid="36223" user="dalmond">
     <tag k="addr:city" v="Tukwila"/>
     <tag k="addr:housenumber" v="12201"/>
     <tag k="addr:postcode" v="98168"/>
@@ -42120,7 +42107,7 @@
     <tag k="name" v="Virpus Networks"/>
     <tag k="office" v="it"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="877-484-7787"/>
+    <tag k="phone" v="+1-877-484-7787"/>
     <tag k="website" v="http://virpus.com/"/>
   </node>
   <node id="3252247453" lat="48.0239953" lon="17.3078087" version="11" timestamp="2022-11-10T10:58:56Z" changeset="128727369" uid="7169223" user="Klerik7">
