@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-16T05:26:38Z"/>
+<meta osm_base="2022-11-17T05:26:39Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -28392,7 +28392,7 @@
     <tag k="phone" v="+1-866-798-3180"/>
     <tag k="website" v="http://everythingfilemaker.com/"/>
   </node>
-  <node id="2760113713" lat="-33.7975347" lon="151.1975480" version="5" timestamp="2019-12-04T02:21:18Z" changeset="77905764" uid="7523" user="inas">
+  <node id="2760113713" lat="-33.7975347" lon="151.1975480" version="6" timestamp="2022-11-17T01:44:44Z" changeset="129016222" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="North Willoughby"/>
     <tag k="addr:country" v="AU"/>
     <tag k="addr:housenumber" v="236"/>
@@ -28404,6 +28404,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+61 (02) 9419 7411"/>
     <tag k="website" v="https://forsyth.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2760117912" lat="39.0993202" lon="-94.5569445" version="2" timestamp="2020-09-14T03:57:57Z" changeset="90837984" uid="694737" user="Sabra Sharaya">
     <tag k="addr:city" v="Kansas City"/>
@@ -44112,24 +44113,6 @@
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-01-22"/>
     <tag k="website" v="http://www.goede-tijden.nl/"/>
-  </node>
-  <node id="3356853706" lat="48.7709479" lon="9.1570179" version="5" timestamp="2022-11-10T13:51:17Z" changeset="128735235" uid="17441326" user="BSN21M">
-    <tag k="addr:city" v="Stuttgart"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:postcode" v="70567"/>
-    <tag k="addr:street" v="Mühlhaldenstraße"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="service@simpago.com"/>
-    <tag k="name" v="Simpago Softwareentwicklung"/>
-    <tag k="office" v="it"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="no"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+49 (711) 72232967"/>
-    <tag k="survey:date" v="2022-11-10"/>
-    <tag k="website" v="http://www.simpago.com"/>
   </node>
   <node id="3357238890" lat="45.5719344" lon="-73.6031941" version="2" timestamp="2016-11-02T05:49:13Z" changeset="43343134" uid="1624486" user="thetornado76">
     <tag k="addr:city" v="Montréal"/>
@@ -71960,6 +71943,28 @@
     <tag k="sport" v="fitness"/>
     <tag k="swimming_pool" v="no"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10028307586" lat="13.6520682" lon="-89.2639155" version="7" timestamp="2022-11-17T00:43:02Z" changeset="129016982" uid="17188811" user="GoodBeans El Salvador Coffee Shop">
+    <tag k="addr:city" v="Nuevo Cuscatlan"/>
+    <tag k="addr:street" v="Blvr. Cuscatlan, Nuevo Cuscatlan,"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:twitter" v="GoodbeansThe"/>
+    <tag k="cuisine" v="coffee;dessert;cafe"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Specialty coffee shop in El Salvador.&#x0a;100% El Salvador Coffee. Worldwide shipping. Lightning Network bitcoin payments."/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="internet_access:ssid" v="GOODBEANS"/>
+    <tag k="name" v="Good Beans El Salvador Coffee Shop"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-19:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="survey:date" v="2022-11-14"/>
+    <tag k="website" v="https://633476c8322bc.site123.me"/>
   </node>
   <node id="10082243731" lat="38.7227357" lon="-9.1462637" version="3" timestamp="2022-11-05T14:47:12Z" changeset="128523750" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Lisboa"/>
