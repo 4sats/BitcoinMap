@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-17T05:26:39Z"/>
+<meta osm_base="2022-11-18T05:26:14Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -4642,7 +4642,7 @@
     <tag k="source" v="survey 2013"/>
     <tag k="website" v="http://markhachem.com/"/>
   </node>
-  <node id="2389275239" lat="50.8549773" lon="4.3415480" version="10" timestamp="2021-07-21T13:03:38Z" changeset="108367369" uid="2644288" user="bxl-forever">
+  <node id="2389275239" lat="50.8549773" lon="4.3415480" version="11" timestamp="2022-11-17T23:44:13Z" changeset="129063764" uid="10209781" user="Jhowie_Nitnek">
     <tag k="addr:city" v="Molenbeek-Saint-Jean - Sint-Jans-Molenbeek"/>
     <tag k="addr:country" v="BE"/>
     <tag k="addr:housenumber" v="30-34"/>
@@ -4653,8 +4653,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="ref:UrbIS" v="8316349"/>
     <tag k="website" v="https://fo.am/"/>
-    <tag k="wikidata" v="Q8564157"/>
-    <tag k="wikipedia" v="en:Foam (organization)"/>
   </node>
   <node id="2389432028" lat="46.0751785" lon="14.5109921" version="7" timestamp="2019-10-03T07:43:52Z" changeset="75215303" uid="9133839" user="Baturina">
     <tag k="addr:city" v="Ljubljana"/>
@@ -53734,18 +53732,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="photo"/>
   </node>
-  <node id="5082249825" lat="44.1875825" lon="12.1283025" version="3" timestamp="2018-07-04T14:41:38Z" changeset="60409568" uid="1476146" user="Alecs01">
-    <tag k="addr:city" v="Forlimpopoli"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="47034"/>
-    <tag k="addr:street" v="Via Monte Grappa"/>
-    <tag k="description" v="Assistenza computer, laboratorio informatico."/>
-    <tag k="email" v="info.informaticalab@gmai.com"/>
-    <tag k="name" v="Informatica Lab"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 3458438331"/>
-    <tag k="shop" v="computer"/>
-  </node>
   <node id="5083062422" lat="43.1471940" lon="12.2494470" version="3" timestamp="2019-09-05T13:11:35Z" changeset="74133848" uid="8553447" user="jimmy_conway">
     <tag k="addr:city" v="Magione"/>
     <tag k="addr:housenumber" v="8"/>
@@ -65976,18 +65962,23 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="start_date" v="2015-01-01"/>
   </node>
-  <node id="7938117286" lat="45.5858387" lon="10.2854244" version="5" timestamp="2021-08-11T08:12:01Z" changeset="109501860" uid="219054" user="Duke Apollo">
+  <node id="7938117286" lat="45.5858387" lon="10.2854244" version="6" timestamp="2022-11-17T09:51:58Z" changeset="129031703" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Nave"/>
     <tag k="addr:housenumber" v="46d"/>
     <tag k="addr:postcode" v="25075"/>
     <tag k="addr:street" v="Via Brescia"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="info@tecnicocomputer.com"/>
     <tag k="name" v="Punto Com Informatica"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:contanti" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
     <tag k="payment:satispay" v="yes"/>
     <tag k="shop" v="computer"/>
+    <tag k="survey:date" v="2022-11-17"/>
     <tag k="website" v="https://www.ricondizionatipro.it"/>
   </node>
   <node id="7946356355" lat="35.8361020" lon="50.9440160" version="2" timestamp="2020-09-29T10:53:13Z" changeset="91701647" uid="616774" user="mueschel">
