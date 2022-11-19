@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-18T05:26:14Z"/>
+<meta osm_base="2022-11-19T05:26:09Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -4206,15 +4206,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+27 823521191"/>
     <tag k="website" v="http://www.fire-ice.co.za/"/>
-  </node>
-  <node id="2324608137" lat="40.1949189" lon="-8.4205975" version="6" timestamp="2022-10-14T05:45:35Z" changeset="127503669" uid="47097" user="Josef K">
-    <tag k="addr:city" v="Coimbra"/>
-    <tag k="addr:country" v="PT"/>
-    <tag k="email" v="contacto@bitcoin-portugal.com"/>
-    <tag k="name" v="Carregador Telemóveis Bitcoin"/>
-    <tag k="operator" v="Bitcoin-Portugal.com"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://carregador.bitcoin-portugal.com"/>
   </node>
   <node id="2325789000" lat="46.9191885" lon="7.7237104" version="5" timestamp="2021-10-02T22:02:53Z" changeset="112016507" uid="14224150" user="ThurmSignau">
     <tag k="addr:housenumber" v="66"/>
@@ -12527,10 +12518,11 @@
     <tag k="shop" v="alcohol"/>
     <tag k="website" v="http://www.ovaille.com/"/>
   </node>
-  <node id="2567910213" lat="32.0695492" lon="34.7723065" version="3" timestamp="2017-06-06T09:15:47Z" changeset="49299149" uid="5816834" user="SafwatHalaby_bot">
+  <node id="2567910213" lat="32.0695492" lon="34.7723065" version="4" timestamp="2022-11-18T15:46:27Z" changeset="129092165" uid="8639761" user="Astrr232">
     <tag k="addr:city" v="Aviv-Yafo"/>
     <tag k="addr:housenumber" v="17"/>
     <tag k="addr:postcode" v="65231"/>
+    <tag k="addr:street" v="שינקין"/>
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="Shenkin 17"/>
     <tag k="name:en" v="Shenkin 17"/>
@@ -44847,17 +44839,22 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://www.qvistconsult.com/"/>
   </node>
-  <node id="3405198500" lat="49.5873963" lon="17.3001969" version="1" timestamp="2015-03-18T11:47:21Z" changeset="29565118" uid="2135320" user="BitcoinMaps">
+  <node id="3405198500" lat="49.5873963" lon="17.3001969" version="2" timestamp="2022-11-18T13:04:01Z" changeset="129086366" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Olomouc"/>
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:street" v="Pavelkova"/>
     <tag k="contact:email" v="obchod@onyx.cz"/>
     <tag k="contact:phone" v="+420587406800, 844114814"/>
     <tag k="contact:website" v="www.onyx.cz"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="IT services, ISP, education"/>
     <tag k="name" v="ONYX engineering, spol. s r.o."/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="electronics"/>
+    <tag k="survey:date" v="2022-11-18"/>
   </node>
   <node id="3405464562" lat="47.5017938" lon="19.0578154" version="2" timestamp="2020-03-10T23:16:11Z" changeset="82026712" uid="6626963" user="gabro00">
     <tag k="addr:city" v="Budapest"/>
@@ -60523,12 +60520,13 @@
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="shop" v="supermarket"/>
   </node>
-  <node id="6037717457" lat="39.5566155" lon="16.1196300" version="3" timestamp="2022-07-06T16:13:19Z" changeset="123284549" uid="16467461" user="Jack181993">
+  <node id="6037717457" lat="39.5566155" lon="16.1196300" version="4" timestamp="2022-11-18T09:38:47Z" changeset="129077938" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="San Marco Argentano"/>
     <tag k="addr:postcode" v="87018"/>
     <tag k="addr:street" v="Via Roma"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="regional;italian"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="diet:gluten_free" v="yes"/>
     <tag k="diet:healthy" v="yes"/>
     <tag k="diet:vegan" v="yes"/>
@@ -60537,7 +60535,11 @@
     <tag k="opening_hours" v="Mo-Su 19:00-24:00"/>
     <tag k="operator" v="Brusco A."/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
     <tag k="phone" v="+3909841906595"/>
+    <tag k="survey:date" v="2022-11-18"/>
     <tag k="website" v="http://www.enobaccanti.com/"/>
   </node>
   <node id="6041399348" lat="46.9859918" lon="28.8593400" version="2" timestamp="2021-08-30T14:32:32Z" changeset="110465373" uid="14022317" user="Flori Flowers MD">
@@ -72027,11 +72029,11 @@
     <tag k="survey:date" v="2022-10-21"/>
     <tag k="website" v="https://www.sup-onlineacademy.com/"/>
   </node>
-  <node id="10151215686" lat="51.7335120" lon="0.4795091" version="3" timestamp="2022-11-07T17:50:49Z" changeset="128608289" uid="17609254" user="BloodIron">
+  <node id="10151215686" lat="51.7335120" lon="0.4795091" version="4" timestamp="2022-11-18T10:03:25Z" changeset="129078981" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Chelmsford"/>
     <tag k="addr:housename" v="Kenmore House"/>
     <tag k="addr:postcode" v="CM2 6HX"/>
-    <tag k="addr:street" v="Navigation Road"/>
+    <tag k="addr:street" v="Navigation Yard"/>
     <tag k="amenity" v="clinic"/>
     <tag k="currency:GBP" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
@@ -72046,7 +72048,7 @@
     <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="01245 963333"/>
-    <tag k="survey:date" v="2022-11-01"/>
+    <tag k="survey:date" v="2022-11-18"/>
     <tag k="website" v="https://chelmsfordosteopathicpractice.co.uk/"/>
   </node>
   <node id="10152048559" lat="49.2515390" lon="-123.0783620" version="2" timestamp="2022-11-03T19:07:23Z" changeset="128452201" uid="1836965" user="Liongrass">
@@ -72099,6 +72101,16 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3388821215"/>
     <tag k="website" v="https://www.alexitalia.it"/>
+  </node>
+  <node id="10200957331" lat="40.1949256" lon="-8.4205967" version="1" timestamp="2022-11-19T03:38:24Z" changeset="129109412" uid="47097" user="Josef K">
+    <tag k="addr:city" v="Coimbra"/>
+    <tag k="addr:country" v="PT"/>
+    <tag k="email" v="contacto@bitcoin-portugal.com"/>
+    <tag k="fixme" v="still exists? Check on the ground"/>
+    <tag k="name" v="Carregador Telemóveis Bitcoin"/>
+    <tag k="operator" v="Bitcoin-Portugal.com"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="website" v="http://carregador.bitcoin-portugal.com"/>
   </node>
 
 </osm>
