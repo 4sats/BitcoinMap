@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-19T05:26:09Z"/>
+<meta osm_base="2022-11-20T05:25:52Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -5833,6 +5833,16 @@
     <tag k="source" v="King County GIS;data.seattle.gov"/>
     <tag k="website" v="http://www.counterbalancebicycles.com/"/>
   </node>
+  <node id="2463242402" lat="40.2507868" lon="-111.6583936" version="5" timestamp="2022-11-19T08:46:03Z" changeset="129114174" uid="2104834" user="Igor Bubelov">
+    <tag k="addr:city" v="Provo"/>
+    <tag k="addr:housenumber" v="1225"/>
+    <tag k="addr:postcode" v="84604"/>
+    <tag k="addr:street" v="North University Avenue"/>
+    <tag k="description" v="Its a food truck, check their facebook page for location"/>
+    <tag k="name" v="Sweet Burrito Provo"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="website" v="https://www.facebook.com/SweetoBurritoProvo"/>
+  </node>
   <node id="2463245062" lat="40.2339429" lon="-111.6589718" version="1" timestamp="2013-09-18T19:31:51Z" changeset="17912145" uid="1749374" user="Ben Harper 21">
     <tag k="name" v="Knives4Bitcoin"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -9153,12 +9163,13 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://businessintheblack.com/"/>
   </node>
-  <node id="2550513499" lat="48.1968388" lon="12.4858809" version="2" timestamp="2019-03-11T23:54:13Z" changeset="68042365" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Kraiburg-Frauendorf"/>
+  <node id="2550513499" lat="48.1968388" lon="12.4858809" version="3" timestamp="2022-11-19T16:41:48Z" changeset="129130998" uid="3249777" user="opendcc">
+    <tag k="addr:city" v="Kraiburg"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="84559"/>
     <tag k="addr:street" v="Auersdorfer Straße"/>
+    <tag k="addr:suburb" v="Frauendorf"/>
     <tag k="description" v="Perlen, Glanz &amp; mehr"/>
     <tag k="email" v="info@glanzfee.de"/>
     <tag k="fax" v="+49 8638 - 9847986"/>
@@ -19287,7 +19298,7 @@
     <tag k="phone" v="+1 802-776-8025"/>
     <tag k="website" v="https://www.vermontlanterns.com/"/>
   </node>
-  <node id="2633336820" lat="47.5534542" lon="-122.3866031" version="3" timestamp="2022-05-19T05:03:15Z" changeset="121173481" uid="9451067" user="b-jazz-bot">
+  <node id="2633336820" lat="47.5534542" lon="-122.3866031" version="4" timestamp="2022-11-20T03:34:10Z" changeset="129143537" uid="36223" user="dalmond">
     <tag k="addr:city" v="Seattle"/>
     <tag k="addr:housename" v="The Point Joint"/>
     <tag k="addr:housenumber" v="5410"/>
@@ -19297,7 +19308,7 @@
     <tag k="healthcare:speciality" v="acupuncture"/>
     <tag k="name" v="The Point Joint"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="206-200-3467"/>
+    <tag k="phone" v="+1-206-200-3467"/>
     <tag k="website" v="https://seattlepointjoint.com/"/>
   </node>
   <node id="2633526490" lat="40.2996728" lon="-76.9362232" version="5" timestamp="2019-02-18T08:28:32Z" changeset="67305895" uid="9451067" user="b-jazz-bot">
@@ -39458,7 +39469,7 @@
     <tag k="website" v="https://barzdaskuciai.lt/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="3148121631" lat="47.5891674" lon="-122.3813676" version="7" timestamp="2021-02-20T03:46:15Z" changeset="99624340" uid="7152372" user="Mxdanger">
+  <node id="3148121631" lat="47.5891674" lon="-122.3813676" version="8" timestamp="2022-11-20T03:50:55Z" changeset="129143722" uid="36223" user="dalmond">
     <tag k="addr:city" v="Seattle"/>
     <tag k="addr:housenumber" v="1619"/>
     <tag k="addr:postcode" v="98126"/>
@@ -39474,7 +39485,7 @@
     <tag k="name" v="Moondrop Coffee &amp; Tea"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="(206) 430-5839"/>
+    <tag k="phone" v="+1-206-430-5839"/>
     <tag k="website" v="https://www.moondropcoffee.com/"/>
   </node>
   <node id="3148254379" lat="37.3751132" lon="-6.0023066" version="5" timestamp="2019-08-26T10:50:34Z" changeset="73745380" uid="170106" user="sanchi">
@@ -46614,15 +46625,18 @@
     <tag k="shop" v="farm"/>
     <tag k="survey:date" v="2022-11-04"/>
   </node>
-  <node id="3558188850" lat="53.9645057" lon="-1.0833899" version="4" timestamp="2016-10-10T14:51:48Z" changeset="42777948" uid="2376" user="Bman">
+  <node id="3558188850" lat="53.9645057" lon="-1.0833899" version="5" timestamp="2022-11-19T18:00:46Z" changeset="129133343" uid="17731991" user="Pilirani Kayin">
     <tag k="addr:city" v="York"/>
     <tag k="addr:housenumber" v="64"/>
     <tag k="addr:postcode" v="YO31 7EQ"/>
     <tag k="addr:street" v="Gillygate"/>
+    <tag k="email" v="hello@cuthairsalonyork.co.uk"/>
     <tag k="name" v="Cut"/>
     <tag k="opening_hours" v="09:00-19:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+44 1904 675333"/>
     <tag k="shop" v="hairdresser"/>
+    <tag k="website" v="http://cuthairsalonyork.co.uk"/>
   </node>
   <node id="3559302881" lat="34.1396277" lon="-118.3786666" version="3" timestamp="2019-02-17T17:34:24Z" changeset="67286601" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Studio City"/>
@@ -47026,7 +47040,7 @@
     <tag k="shop" v="yes"/>
     <tag k="website" v="https://www.owlting.com/market/vendor/6947"/>
   </node>
-  <node id="3616763069" lat="23.9758509" lon="121.6053821" version="4" timestamp="2019-08-09T07:56:56Z" changeset="73182135" uid="274857" user="Supaplex">
+  <node id="3616763069" lat="23.9758711" lon="121.6054632" version="5" timestamp="2022-11-19T10:02:10Z" changeset="129116883" uid="274857" user="Supaplex">
     <tag k="amenity" v="restaurant"/>
     <tag k="name" v="戴記扁食"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -68957,6 +68971,71 @@
     <tag k="payment:visa_debit" v="yes"/>
     <tag k="payment:visa_electron" v="yes"/>
     <tag k="shop" v="pastry"/>
+  </node>
+  <node id="8985883271" lat="36.2029120" lon="57.6800086" version="3" timestamp="2022-11-19T21:33:58Z" changeset="129138968" uid="13885579" user="سازینی | sazyny">
+    <tag k="addr:city" v="سبزوار"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="9614964765"/>
+    <tag k="addr:street" v="بسیج مستضعفین(جنوبی)"/>
+    <tag k="branch" v="سازینی"/>
+    <tag k="brand" v="سازینی"/>
+    <tag k="contact:instagram" v="http://www.instagram.com/sazyny"/>
+    <tag k="contact:telegram" v="http://www.t.me/sazyny"/>
+    <tag k="description" v="تولید کننده صنایع چوبی&#x0a;Manufacturer of wood industries"/>
+    <tag k="email" v="info@sazyny.com"/>
+    <tag k="image" v="https://lh3.googleusercontent.com/p/AF1QipNdYTaUp86HLD3y1Gi7ABPH6o-U3HpqjhdVPDSW=s1244-w750-h1244"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="سازینی"/>
+    <tag k="name:en" v="sazyny"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="opening_hours:covid19" v="24/7"/>
+    <tag k="operator" v="mohammad khosrozadeh"/>
+    <tag k="payment:account_cards" v="yes"/>
+    <tag k="payment:alipay" v="yes"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:apple_pay" v="yes"/>
+    <tag k="payment:bancomat" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:blik" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cheque" v="yes"/>
+    <tag k="payment:clipper" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:discover_card" v="yes"/>
+    <tag k="payment:dkv" v="yes"/>
+    <tag k="payment:electronic_purses" v="yes"/>
+    <tag k="payment:ep_easycard" v="yes"/>
+    <tag k="payment:ep_geldkarte" v="yes"/>
+    <tag k="payment:ep_ipass" v="yes"/>
+    <tag k="payment:girocard" v="yes"/>
+    <tag k="payment:google_pay" v="yes"/>
+    <tag k="payment:jcb" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:mastercard_contactless" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:prepaid_ticket" v="yes"/>
+    <tag k="payment:telephone_cards" v="yes"/>
+    <tag k="payment:unionpay" v="yes"/>
+    <tag k="payment:uta" v="yes"/>
+    <tag k="payment:v_pay" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_debit" v="yes"/>
+    <tag k="payment:visa_electron" v="yes"/>
+    <tag k="payment:wechat" v="yes"/>
+    <tag k="phone" v="+985144450477"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="stroller" v="yes"/>
+    <tag k="website" v="https://sazyny.com"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="8989603620" lat="35.7971593" lon="51.4939977" version="3" timestamp="2022-11-12T15:37:58Z" changeset="128817676" uid="13891856" user="VapeIran">
     <tag k="addr:city" v="Tehran"/>
