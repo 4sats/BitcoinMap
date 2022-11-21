@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-20T05:25:52Z"/>
+<meta osm_base="2022-11-21T05:27:08Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -6428,22 +6428,21 @@
     <tag k="name" v="Amir"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2493523507" lat="45.8877941" lon="11.0445419" version="15" timestamp="2021-05-25T16:48:29Z" changeset="105305491" uid="4769623" user="OpenVegeMap">
+  <node id="2493523507" lat="45.8877941" lon="11.0445419" version="16" timestamp="2022-11-20T13:55:44Z" changeset="129157343" uid="77904" user="Kristjan ESPERANTO">
     <tag k="addr:city" v="Rovereto"/>
     <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="38068"/>
     <tag k="addr:street" v="Piazza Malfatti"/>
-    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/ortodipitagora"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Vegan Restaurant - Ristorante Vegano"/>
-    <tag k="diet:vegan" v="yes"/>
-    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="disused:amenity" v="restaurant"/>
     <tag k="email" v="ortodipitagora@gmail.com"/>
     <tag k="name" v="l'Orto di Pitagora"/>
     <tag k="opening_hours" v="Th-Sa 12:00-14:00,20:00-23:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
     <tag k="phone" v="+39 334 9534672"/>
-    <tag k="website" v="https://www.facebook.com/ortodipitagora"/>
   </node>
   <node id="2496251031" lat="40.3747232" lon="-3.6485303" version="2" timestamp="2015-10-09T11:31:53Z" changeset="34527927" uid="71626" user="Almorca">
     <tag k="addr:housenumber" v="70"/>
@@ -10511,12 +10510,13 @@
     <tag k="shop" v="yes"/>
     <tag k="website" v="http://www.mooz.co.il/"/>
   </node>
-  <node id="2556132735" lat="32.0684618" lon="34.7662789" version="6" timestamp="2020-11-21T21:58:17Z" changeset="94563237" uid="10901304" user="rouelibre1">
+  <node id="2556132735" lat="32.0684702" lon="34.7662864" version="7" timestamp="2022-11-20T14:08:05Z" changeset="129157748" uid="77904" user="Kristjan ESPERANTO">
     <tag k="addr:city" v="Tel Aviv"/>
     <tag k="addr:housenumber" v="23"/>
     <tag k="addr:street" v="Simtat HaCarmel"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="capacity" v="30"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/anat.galbi"/>
     <tag k="diet:vegan" v="yes"/>
     <tag k="name" v="גלבי - אוכל ביתי"/>
     <tag k="name:en" v="Galbi Restaurant"/>
@@ -10524,7 +10524,6 @@
     <tag k="note" v="This is a vegan friendly small restaurant with home cooking and home atmosphere."/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+972-52-409-7455"/>
-    <tag k="website" v="https://www.facebook.com/anat.galbi"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2556150251" lat="38.0622767" lon="-84.5014611" version="4" timestamp="2016-03-21T00:59:05Z" changeset="37966655" uid="3687930" user="Omnific_lexingtonimport">
@@ -12354,13 +12353,14 @@
     <tag k="phone" v="626-794-4900"/>
     <tag k="website" v="www.connectionzpcrepair.com"/>
   </node>
-  <node id="2567013748" lat="48.1860638" lon="17.1346479" version="5" timestamp="2021-11-05T20:58:02Z" changeset="113427070" uid="29717" user="eumiro">
+  <node id="2567013748" lat="48.1860306" lon="17.1348811" version="6" timestamp="2022-11-21T00:24:57Z" changeset="129173824" uid="1617449" user="aceman444">
     <tag k="addr:city" v="Bratislava"/>
     <tag k="addr:housename" v="Light Park"/>
     <tag k="addr:housenumber" v="90"/>
     <tag k="addr:postcode" v="831 02"/>
     <tag k="addr:street" v="Račianska"/>
     <tag k="addr:streetnumber" v="90"/>
+    <tag k="level" v="1"/>
     <tag k="name" v="MODANT"/>
     <tag k="opening_hours" v="Mo-Fr 10:00-19:00; Sa 10:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -50002,13 +50002,14 @@
     <tag k="school" v="music"/>
     <tag k="website" v="http://www.violinteacherhongkong.com/"/>
   </node>
-  <node id="4296128736" lat="22.2845726" lon="114.1537866" version="2" timestamp="2022-09-05T22:23:46Z" changeset="125833009" uid="1836965" user="Liongrass">
+  <node id="4296128736" lat="22.2850244" lon="114.1537202" version="3" timestamp="2022-11-20T10:00:43Z" changeset="129149853" uid="261189" user="Wright One">
     <tag k="addr" v="Shop 19, 1/F"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Wing Kut Street"/>
     <tag k="amenity" v="atm"/>
     <tag k="atm" v="yes"/>
     <tag k="atm:bitcoin" v="yes"/>
+    <tag k="level" v="1"/>
     <tag k="name" v="HK Bitcoin ATM Central"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://hkbitcoinatm.com/"/>
@@ -55378,7 +55379,7 @@
     <tag k="shop_1" v="games"/>
     <tag k="website" v="http://www.torastore.com"/>
   </node>
-  <node id="5293846631" lat="34.6702057" lon="33.0404389" version="8" timestamp="2018-03-14T19:16:46Z" changeset="57188170" uid="119313" user="muffu">
+  <node id="5293846631" lat="34.6702057" lon="33.0404389" version="9" timestamp="2022-11-20T08:15:10Z" changeset="129147021" uid="13796022" user="Layft Greater">
     <tag k="addr:city" v="Limasol - Λεμεσός"/>
     <tag k="addr:housenumber" v="D1"/>
     <tag k="addr:postcode" v="3601"/>
@@ -55391,7 +55392,7 @@
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+357 25051515"/>
-    <tag k="shop" v="jewelry"/>
+    <tag k="was:shop" v="stationery"/>
     <tag k="website" v="https://www.ancora1919.com"/>
   </node>
   <node id="5293931269" lat="45.4062408" lon="11.2465163" version="3" timestamp="2019-03-21T00:03:28Z" changeset="68357291" uid="9451067" user="b-jazz-bot">
