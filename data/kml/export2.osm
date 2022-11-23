@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-22T05:27:04Z"/>
+<meta osm_base="2022-11-23T05:25:39Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -1120,49 +1120,6 @@
     <tag k="amenity" v="cafe"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-  </node>
-  <node id="1033910278" lat="28.1000502" lon="-82.3995584" version="4" timestamp="2020-02-16T14:12:30Z" changeset="81072122" uid="586204" user="Net-net">
-    <tag k="addr:housenumber" v="16049"/>
-    <tag k="addr:street" v="Tampa Palms Boulevard West"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="chinese"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="China City"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1 813 979 0406"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="http://chinacity-tampa.com/"/>
-  </node>
-  <node id="1037073559" lat="55.7776743" lon="37.5807577" version="4" timestamp="2019-12-12T17:53:41Z" changeset="78332220" uid="830106" user="literan">
-    <tag k="addr:city" v="Москва"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="125040"/>
-    <tag k="addr:street" v="Ленинградский проспект"/>
-    <tag k="amenity" v="pharmacy"/>
-    <tag k="contact:phone" v="+7 495 9450825"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="healthcare" v="pharmacy"/>
-    <tag k="name" v="Farmacy.ru"/>
-    <tag k="opening_hours" v="Mo-Fr 08:00-22:00; Sa,Su 10:00-21:00"/>
-    <tag k="operator" v="ООО &quot;Евро Фарм&quot;"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="website" v="https://farmacy.ru"/>
-  </node>
-  <node id="1072618109" lat="-37.7943310" lon="144.9300567" version="10" timestamp="2022-06-08T08:56:44Z" changeset="122106788" uid="3680450" user="Alafoss">
-    <tag k="addr:city" v="Kensington"/>
-    <tag k="addr:housenumber" v="483"/>
-    <tag k="addr:postcode" v="3031"/>
-    <tag k="addr:street" v="Macaulay Road"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:AUD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Macaulay Cleanskins &amp; BitRocket Bitcoin ATM"/>
-    <tag k="opening_hours" v="Mo-Su 12:30-22:30"/>
-    <tag k="operator" v="BitRocket"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="alcohol"/>
   </node>
   <node id="1093781438" lat="51.0954159" lon="13.7113306" version="5" timestamp="2022-11-04T20:29:35Z" changeset="128499772" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Dresden"/>
@@ -24681,7 +24638,7 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="https://eaglesrestaurant.menufy.com/"/>
   </node>
-  <node id="2718293394" lat="33.3755829" lon="-86.8087366" version="4" timestamp="2021-09-24T23:24:01Z" changeset="111669754" uid="338843" user="TorCguy">
+  <node id="2718293394" lat="33.3755829" lon="-86.8087366" version="5" timestamp="2022-11-22T19:10:37Z" changeset="129252076" uid="2137840" user="rza31">
     <tag k="addr:housenumber" v="3250"/>
     <tag k="addr:street" v="Riverchase Galleria"/>
     <tag k="amenity" v="restaurant"/>
@@ -24689,6 +24646,7 @@
     <tag k="cuisine" v="japanese"/>
     <tag k="description" v="BTC payment via Menufy."/>
     <tag k="name" v="Stix"/>
+    <tag k="opening_hours" v="Tu-Fr 16:00-21:00; Sa,Su 11:30-21:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:bitcoincash" v="yes"/>
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
@@ -35224,23 +35182,6 @@
     <tag k="smoking:outside" v="yes"/>
     <tag k="website" v="http://www.facebook.com/nonnagraz"/>
   </node>
-  <node id="2974438059" lat="56.9222726" lon="23.9794573" version="5" timestamp="2022-08-08T13:15:59Z" changeset="124640330" uid="15008076" user="latvia-bot">
-    <tag k="addr:country" v="LV"/>
-    <tag k="addr:district" v="Mārupes novads"/>
-    <tag k="addr:housename" v="Lidosta &quot;Rīga&quot; 10/1"/>
-    <tag k="addr:place" v="Lidosta &quot;Rīga&quot;"/>
-    <tag k="addr:postcode" v="LV-1053"/>
-    <tag k="addr:subdistrict" v="Mārupes pagasts"/>
-    <tag k="name" v="airBaltic"/>
-    <tag k="note" v="FIXME: approximate location"/>
-    <tag k="opening_hours" v="Mo-Su 05:00-23:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="ref:LV:addr" v="104920380"/>
-    <tag k="shop" v="travel_agency"/>
-    <tag k="website" v="https://airbaltic.com/"/>
-    <tag k="wikidata" v="Q300924"/>
-    <tag k="wikipedia" v="en:AirBaltic"/>
-  </node>
   <node id="2974468973" lat="40.4996879" lon="-74.4532542" version="3" timestamp="2015-05-23T11:17:05Z" changeset="31395056" uid="68982" user="kisaa">
     <tag k="addr:city" v="New Brunswick"/>
     <tag k="addr:housenumber" v="139"/>
@@ -42725,14 +42666,14 @@
     <tag k="phone" v="(415) 282-0700"/>
     <tag k="website" v="https://petcamp.com/"/>
   </node>
-  <node id="3277803123" lat="37.4519620" lon="-122.1852155" version="1" timestamp="2015-01-09T01:54:15Z" changeset="28010557" uid="2555308" user="Jack J Jia">
+  <node id="3277803123" lat="37.4519620" lon="-122.1852150" version="2" timestamp="2022-11-22T17:01:38Z" changeset="129248114" uid="15105740" user="PeteZivkov">
     <tag k="addr:city" v="Menlo Park"/>
     <tag k="addr:housenumber" v="1137"/>
     <tag k="addr:postcode" v="94025"/>
     <tag k="addr:state" v="CA"/>
     <tag k="addr:street" v="Chestnut Street"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="Singaporean,_Malaysian,_Seafood"/>
+    <tag k="cuisine" v="asian;indonesian"/>
     <tag k="name" v="Shiok Singapore Kitchen"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
@@ -46361,14 +46302,11 @@
     <tag k="phone" v="+34 961154229"/>
     <tag k="website" v="https://bisnesmart.com/"/>
   </node>
-  <node id="3523496786" lat="48.0660964" lon="8.5362185" version="13" timestamp="2022-09-03T13:04:58Z" changeset="125737316" uid="16492361" user="osmdees">
+  <node id="3523496786" lat="48.0660964" lon="8.5362185" version="14" timestamp="2022-11-22T09:09:26Z" changeset="129228967" uid="16492361" user="osmdees">
     <tag k="addr:city" v="Villingen-Schwenningen"/>
     <tag k="addr:country" v="DE"/>
-    <tag k="addr:county" v="Schwarzwald-Baar-Kreis"/>
-    <tag k="addr:district" v="Schwarzwald-Baar-Kreis"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="78054"/>
-    <tag k="addr:province" v="Regierungsbezierk Freiburg"/>
     <tag k="addr:street" v="Marktplatz"/>
     <tag k="addr:suburb" v="Schwenningen"/>
     <tag k="air_conditioning" v="yes"/>
@@ -52943,14 +52881,11 @@
     <tag k="shop" v="hairdresser"/>
     <tag k="website" v="http://www.raywell-lab.com"/>
   </node>
-  <node id="4965894619" lat="48.0384702" lon="8.4189950" version="6" timestamp="2022-09-03T10:55:10Z" changeset="125732160" uid="16492361" user="osmdees">
+  <node id="4965894619" lat="48.0384702" lon="8.4189950" version="7" timestamp="2022-11-22T09:09:26Z" changeset="129228967" uid="16492361" user="osmdees">
     <tag k="addr:city" v="Villingen-Schwenningen"/>
     <tag k="addr:country" v="DE"/>
-    <tag k="addr:county" v="Schwarzwald-Baar-Kreis"/>
-    <tag k="addr:district" v="Schwarzwald-Baar-Kreis"/>
     <tag k="addr:housenumber" v="4/1"/>
     <tag k="addr:postcode" v="78052"/>
-    <tag k="addr:province" v="Regierungsbezierk Freiburg"/>
     <tag k="addr:street" v="Im Tannhörnle"/>
     <tag k="addr:suburb" v="Pfaffenweiler"/>
     <tag k="description" v="Internet of things, programming, apps, websites, internet shops and more."/>
