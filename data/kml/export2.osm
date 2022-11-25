@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-24T05:24:58Z"/>
+<meta osm_base="2022-11-25T05:25:09Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -22174,18 +22174,6 @@
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2677147031" lat="38.1327233" lon="-78.4352907" version="3" timestamp="2019-05-26T14:42:40Z" changeset="70634243" uid="8339" user="mtmail">
-    <tag k="addr:city" v="Charlottesville"/>
-    <tag k="addr:housenumber" v="3502"/>
-    <tag k="addr:postcode" v="22911"/>
-    <tag k="addr:state" v="VA"/>
-    <tag k="addr:street" v="Seminole Trail"/>
-    <tag k="landuse" v="retail"/>
-    <tag k="name" v="JCSGold"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1 434 979 2646"/>
-    <tag k="website" v="https://jcsgold.com/"/>
-  </node>
   <node id="2677342846" lat="18.4748727" lon="-69.9136608" version="6" timestamp="2015-07-05T09:40:04Z" changeset="32421967" uid="161619" user="FvGordon">
     <tag k="addr:city" v="santo domingo"/>
     <tag k="addr:housename" v="Colectivo 28c"/>
@@ -32173,20 +32161,6 @@
     <tag k="source" v="http://www.reddit.com/r/Bitcoin/comments/26izvf/this_brewery_near_cape_town_accepts_bitcoin_for/"/>
     <tag k="website" v="https://www.honingklip.co.za/"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="2882884613" lat="14.5383298" lon="121.0557787" version="4" timestamp="2022-09-20T01:38:59Z" changeset="126401031" uid="247075" user="RamonT">
-    <tag k="addr:city" v="Taguig"/>
-    <tag k="addr:housenumber" v="1632"/>
-    <tag k="addr:street" v="Acacia Avenue"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="chicken"/>
-    <tag k="fixme" v="restaurant closed"/>
-    <tag k="name" v="Wingman - Acacia Estates"/>
-    <tag k="note" v="Branch Address: Lower Ground Floor, Casa Real, ACACIA ESTATES TOWN CENTER, Acacia Avenue"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+63 4637670"/>
-    <tag k="source" v="http://cointelegraph.com/news/111496/wingman_restaurant_in_philippines_accepting_bitcoin"/>
-    <tag k="website" v="https://www.facebook.com/wingmangrill"/>
   </node>
   <node id="2882910520" lat="19.4158148" lon="-99.1785914" version="1" timestamp="2014-05-27T06:08:31Z" changeset="22575942" uid="1836471" user="Blobo123">
     <tag k="email" v="info@fixiebike.es"/>
@@ -62391,7 +62365,7 @@
     <tag k="payment:visa_electron" v="yes"/>
     <tag k="shop" v="sοuvenir shop"/>
   </node>
-  <node id="6524214550" lat="48.1569502" lon="17.1297676" version="5" timestamp="2021-04-05T18:19:09Z" changeset="102351782" uid="2048097" user="FishDoctor">
+  <node id="6524214550" lat="48.1570298" lon="17.1297475" version="6" timestamp="2022-11-24T22:26:32Z" changeset="129345191" uid="29762" user="Jose Riha">
     <tag k="addr:city" v="Bratislava"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="821 08"/>
@@ -72041,6 +72015,21 @@
     <tag k="operator" v="Bitcoin-Portugal.com"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://carregador.bitcoin-portugal.com"/>
+  </node>
+  <node id="10214805586" lat="17.5125410" lon="78.4978285" version="1" timestamp="2022-11-24T14:39:14Z" changeset="129329209" uid="3733993" user="Aleksandar1994">
+    <tag k="addr:city" v="old alwal- secunderabad"/>
+    <tag k="addr:housenumber" v="shop no7,Padmanayaka complex"/>
+    <tag k="addr:postcode" v="500010"/>
+    <tag k="addr:street" v="HT road"/>
+    <tag k="clothes" v="children;babies;fashion;frock;leggins;shorts;rompers;tshirts;shirts;caps;mittens;bibs;hoodies;sweatshirts;sets;trackpants;bags;innerwears;towels"/>
+    <tag k="name" v="MaMa kids wear"/>
+    <tag k="operator" v="Reddy"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:net_banking" v="yes"/>
+    <tag k="payment:upi" v="yes"/>
+    <tag k="phone" v="+90 6302 1913"/>
+    <tag k="shop" v="clothes"/>
   </node>
 
 </osm>
