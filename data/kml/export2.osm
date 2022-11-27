@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-26T05:23:54Z"/>
+<meta osm_base="2022-11-27T05:24:24Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -22282,6 +22282,16 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://coinshost.com/"/>
   </node>
+  <node id="2680503713" lat="30.6835885" lon="76.7364979" version="6" timestamp="2022-11-26T23:11:52Z" changeset="129418187" uid="11327915" user="Soshal Distan Singh">
+    <tag k="addr:city" v="Mohali, Punjab"/>
+    <tag k="addr:housenumber" v="SC21"/>
+    <tag k="addr:street" v="Phase 10"/>
+    <tag k="name" v="Richest Technologies Pvt. Ltd."/>
+    <tag k="office" v="company"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+91 8427741155"/>
+    <tag k="website" v="https://richestsoft.com/"/>
+  </node>
   <node id="2680511449" lat="-27.6106693" lon="153.1162408" version="3" timestamp="2020-08-06T08:35:03Z" changeset="89025176" uid="4637308" user="nuklearelement">
     <tag k="addr:housenumber" v="2958"/>
     <tag k="addr:postcode" v="4119"/>
@@ -28924,15 +28934,7 @@
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="http://www.nh-hoteles.es/nh/es/hoteles/espana/madrid/nh-sanvy.html"/>
   </node>
-  <node id="2777352715" lat="48.1282045" lon="17.1215230" version="10" timestamp="2020-12-08T20:35:11Z" changeset="95510343" uid="1944033" user="Dodko">
-    <tag k="addr:city" v="Bratislava"/>
-    <tag k="addr:conscriptionnumber" v="3783"/>
-    <tag k="addr:country" v="SK"/>
-    <tag k="addr:housenumber" v="3783/7"/>
-    <tag k="addr:postcode" v="851 04"/>
-    <tag k="addr:street" v="Bosákova"/>
-    <tag k="addr:streetnumber" v="7"/>
-    <tag k="addr:suburb" v="Petržalka"/>
+  <node id="2777352715" lat="48.1282045" lon="17.1215230" version="11" timestamp="2022-11-26T11:40:19Z" changeset="129398871" uid="1617449" user="aceman444">
     <tag k="name" v="Servis Mobilov"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-19:00"/>
     <tag k="payment:bitcoin" v="yes"/>
