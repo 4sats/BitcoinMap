@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-28T05:25:39Z"/>
+<meta osm_base="2022-11-29T05:24:56Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -9261,14 +9261,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-514-558-1360"/>
     <tag k="website" v="http://www.360media.ca"/>
-  </node>
-  <node id="2551785333" lat="40.7644280" lon="-111.8742232" version="5" timestamp="2014-01-22T23:44:43Z" changeset="20152036" uid="1818853" user="SEO for BTC">
-    <tag k="name" v="Visible HQ - SEO and Marketing"/>
-    <tag k="note" v="Visible HQ will help you rank your website safely, and build authority.  Get your business seen online, pay with bitcoins.  Based in SLC, available worldwide."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="801-674-8165"/>
-    <tag k="website" v="http://www.visiblehq.com"/>
   </node>
   <node id="2551905141" lat="35.1242577" lon="-106.5513629" version="5" timestamp="2019-05-26T16:48:20Z" changeset="70636804" uid="8339" user="mtmail">
     <tag k="addr:city" v="Albuquerque"/>
@@ -37136,13 +37128,22 @@
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="3045785534" lat="48.7352912" lon="44.4889440" version="3" timestamp="2016-01-30T15:23:18Z" changeset="36899807" uid="519501" user="parukhin">
+  <node id="3045785534" lat="48.7354850" lon="44.4886345" version="4" timestamp="2022-11-28T12:39:42Z" changeset="129475431" uid="17819348" user="Детский сад № 263">
     <tag k="addr:city" v="Волгоград"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="403003"/>
     <tag k="addr:street" v="Рионская улица"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:diameter" v="К-100"/>
+    <tag k="fire_hydrant:housenumber" v="3 - 5"/>
+    <tag k="fire_hydrant:pressure" v="2"/>
+    <tag k="fire_hydrant:street" v="Рионская"/>
+    <tag k="fire_operator" v="RU-VGG-1-21"/>
     <tag k="name" v="addSensors"/>
+    <tag k="note" v="У мусорных баков"/>
+    <tag k="operator" v="ВКХ"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="ref" v="186"/>
     <tag k="shop" v="electronics"/>
     <tag k="website" v="http://www.addsensors.com/"/>
   </node>
@@ -49967,14 +49968,18 @@
     <tag k="short_name" v="TGB"/>
     <tag k="takeaway" v="yes"/>
   </node>
-  <node id="4359584199" lat="23.4593184" lon="120.4434129" version="10" timestamp="2022-10-17T04:47:01Z" changeset="127647094" uid="274857" user="Supaplex">
+  <node id="4359584199" lat="23.4593184" lon="120.4434129" version="11" timestamp="2022-11-29T04:04:05Z" changeset="129500476" uid="274857" user="Supaplex">
     <tag k="addr:street" v="民生南路"/>
     <tag k="atm" v="yes"/>
     <tag k="brand" v="全家便利商店"/>
     <tag k="brand:en" v="FamilyMart"/>
     <tag k="brand:ja" v="ファミリーマート"/>
+    <tag k="brand:wikidata" v="Q10891564"/>
+    <tag k="brand:zh" v="全家便利商店"/>
     <tag k="level" v="1"/>
     <tag k="name" v="全家便利商店"/>
+    <tag k="name:en" v="FamilyMart"/>
+    <tag k="name:zh" v="全家便利商店"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:coins" v="yes"/>
@@ -65153,12 +65158,13 @@
     <tag k="phone" v="+593996720552"/>
     <tag k="shop" v="supermarket"/>
   </node>
-  <node id="7660154838" lat="50.3884511" lon="18.8823044" version="5" timestamp="2022-11-27T17:19:34Z" changeset="129442515" uid="11410610" user="gabinetpsychiatra">
+  <node id="7660154838" lat="50.3884511" lon="18.8823044" version="6" timestamp="2022-11-28T09:45:01Z" changeset="129468048" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Bytom"/>
     <tag k="addr:housenumber" v="196/12"/>
     <tag k="addr:postcode" v="41-914"/>
     <tag k="addr:street" v="Strzelców Bytomskich"/>
     <tag k="amenity" v="doctors"/>
+    <tag k="check_date:currency:XBT" v="2022-11-28"/>
     <tag k="email" v="praktyka@gabinetpsychiatra.pl"/>
     <tag k="healthcare" v="doctor"/>
     <tag k="healthcare:speciality" v="psychiatry"/>
@@ -65174,7 +65180,6 @@
     <tag k="phone" v="+48509122806"/>
     <tag k="source" v="owner"/>
     <tag k="start_date" v="2004-02-01"/>
-    <tag k="survey:date" v="2022-10-21"/>
     <tag k="website" v="https://gabinetpsychiatra.pl"/>
   </node>
   <node id="7661223556" lat="45.4393660" lon="9.2147110" version="1" timestamp="2020-06-28T17:38:46Z" changeset="87256887" uid="2201521" user="quibitcoin">
