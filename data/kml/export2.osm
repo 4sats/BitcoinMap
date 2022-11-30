@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-29T05:24:56Z"/>
+<meta osm_base="2022-11-30T05:25:39Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -3745,7 +3745,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.cohendwilawyer.com/"/>
   </node>
-  <node id="2286779111" lat="48.8281338" lon="2.3500786" version="9" timestamp="2018-11-23T08:14:12Z" changeset="64808365" uid="224440" user="Syl">
+  <node id="2286779111" lat="48.8281338" lon="2.3500786" version="10" timestamp="2022-11-29T21:42:42Z" changeset="129537132" uid="95113" user="nono2357">
     <tag k="addr:housenumber" v="43"/>
     <tag k="addr:street" v="Rue des Cinq Diamants"/>
     <tag k="amenity" v="restaurant"/>
@@ -3757,7 +3757,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+33 1 53 80 35 24"/>
     <tag k="toilets:wheelchair" v="no"/>
-    <tag k="website" v="http://www.butteauxthai.com/"/>
+    <tag k="website" v="http://butteauxthai.fr/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="2288142607" lat="46.0061878" lon="8.9655999" version="5" timestamp="2022-09-27T09:19:47Z" changeset="126688877" uid="7729955" user="Stefano Bottani">
@@ -33749,10 +33749,20 @@
     <tag k="tourism" v="hostel"/>
     <tag k="website" v="https://www.wildspiritlodge.co.za/"/>
   </node>
-  <node id="2919117118" lat="-27.5951360" lon="-48.5546573" version="11" timestamp="2022-03-03T23:34:54Z" changeset="118074036" uid="2339960" user="adrianojbr">
+  <node id="2919117118" lat="-27.5951360" lon="-48.5546573" version="12" timestamp="2022-11-29T11:06:47Z" changeset="129515983" uid="17441326" user="BSN21M">
+    <tag k="addr:city" v="Florianópolis"/>
+    <tag k="addr:street" v="Rua Felipe Schmidt"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2022-11-29"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="contato@pcfloripa.com.br"/>
     <tag k="name" v="PC Floripa"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-18:00; Sa 09:00-12:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="+55 48 3065 9056"/>
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://www.pcfloripa.com.br/"/>
   </node>
@@ -71996,6 +72006,23 @@
     <tag k="payment:upi" v="yes"/>
     <tag k="phone" v="+90 6302 1913"/>
     <tag k="shop" v="clothes"/>
+  </node>
+  <node id="10224946445" lat="46.5882530" lon="-123.2784380" version="3" timestamp="2022-11-29T06:28:20Z" changeset="129504129" uid="17826671" user="JohnBrown1800">
+    <tag k="addr:city" v="Chehalis"/>
+    <tag k="addr:housenumber" v="173"/>
+    <tag k="addr:postcode" v="98532"/>
+    <tag k="addr:state" v="WA"/>
+    <tag k="addr:street" v="Beam Road"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="brewery" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Jones Creek Brewery"/>
+    <tag k="opening_hours" v="Fri, Sat, Sun"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="survey:date" v="2022-08-01"/>
+    <tag k="website" v="http://jonescreek.beer"/>
   </node>
 
 </osm>
