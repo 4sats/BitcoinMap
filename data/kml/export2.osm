@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-30T05:25:39Z"/>
+<meta osm_base="2022-12-01T05:26:19Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -48873,10 +48873,15 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="reservation" v="yes"/>
   </node>
-  <node id="3968941760" lat="50.0973770" lon="14.4065880" version="2" timestamp="2022-11-02T17:19:12Z" changeset="128403378" uid="2929493" user="Perlover">
+  <node id="3968941760" lat="50.0973770" lon="14.4065880" version="3" timestamp="2022-11-30T11:55:20Z" changeset="129558768" uid="17441326" user="BSN21M">
+    <tag k="addr:city" v="Praha"/>
+    <tag k="addr:postcode" v="16000"/>
+    <tag k="addr:street" v="Milady Horákové"/>
+    <tag k="check_date:currency:XBT" v="2022-11-30"/>
     <tag k="contact:mobile" v="+420 608 973 439"/>
     <tag k="contact:phone" v="+420 224 316 793"/>
     <tag k="contact:website" v="http://www.trsalon.cz/"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="level" v="1"/>
     <tag k="name" v="T &amp; R Salon"/>
     <tag k="opening_hours" v="Mo,Tu,We 09:00-18:00; Fr,Sa 10:00-16:00"/>
@@ -48885,6 +48890,8 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:cashless" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+420 224 316 793"/>
     <tag k="shop" v="hairdresser"/>
     <tag k="website" v="http://www.trsalon.cz/"/>
@@ -52066,22 +52073,6 @@
     <tag k="service:bicycle:wash" v="yes"/>
     <tag k="shop" v="bicycle"/>
     <tag k="website" v="https://cykelkok.se/cykelkoket-gamlestan"/>
-  </node>
-  <node id="4855618125" lat="45.4604358" lon="10.5677196" version="3" timestamp="2022-09-12T06:08:23Z" changeset="126072766" uid="139580" user="morsi">
-    <tag k="addr:city" v="Desenzano del Garda"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:postcode" v="25015"/>
-    <tag k="addr:street" v="Via Parrocchiale"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="description" v="Nasce nel marzo 2015 con l’obiettivo di rendere la bruschetta la vera e propria protagonista. Nel corso degli anni siamo cresciuti, imparando diverse tecniche e lavorazioni. Oggi utilizziamo il nostro pane a lievitazione naturale e prodotti ricercati."/>
-    <tag k="email" v="info@bruschetterianose.it"/>
-    <tag k="name" v="Bruschetteria Nose"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+393896946385"/>
-    <tag k="toilets:wheelchair" v="yes"/>
-    <tag k="website" v="http://www.bruschetterianose.it"/>
-    <tag k="wheelchair" v="yes"/>
-    <tag k="wheelchair:description" v="Es gibt Sitzplätze vor der Bruschetteria, in den Gastraum führt eine Edelstahlrampe. Tische und Stühle sind teilweise eng gestellt. Zur einzigen ( Rollstuhlgerechten ) Toilette führt eine Schiebetür."/>
   </node>
   <node id="4856400721" lat="39.6029440" lon="16.6248890" version="2" timestamp="2019-04-03T09:08:18Z" changeset="68828936" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Rossano"/>
@@ -65764,13 +65755,14 @@
     <tag k="wikidata" v="Q58024"/>
     <tag k="wikipedia" v="pt:EBay"/>
   </node>
-  <node id="7906008744" lat="54.6811339" lon="25.3003451" version="2" timestamp="2020-10-03T06:35:09Z" changeset="91891593" uid="60129" user="Tomas Straupis">
+  <node id="7906008744" lat="54.6811339" lon="25.3003451" version="3" timestamp="2022-11-30T08:56:28Z" changeset="129551539" uid="17516939" user="Benediktas">
     <tag k="addr:city" v="Vilnius"/>
     <tag k="addr:contact" v="yes"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Polocko g."/>
     <tag k="description" v="Sveiki! Mes esame Galerija Paveikslai.lt ir šioje paskyroje dalinamės akimirkomis iš meniško pasaulio, kuris mus supa kiekvieną dieną! www.paveikslai.lt"/>
     <tag k="email" v="info@paveikslai.lt"/>
+    <tag k="fee" v="no"/>
     <tag k="name" v="Meno Galerija Paveikslai.lt"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
     <tag k="operator" v="Paveikslai.lt"/>
@@ -65802,25 +65794,6 @@
     <tag k="name" v="Datamind - Advanced Data Recovery Services"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="start_date" v="2015-01-01"/>
-  </node>
-  <node id="7938117286" lat="45.5858387" lon="10.2854244" version="6" timestamp="2022-11-17T09:51:58Z" changeset="129031703" uid="17441326" user="BSN21M">
-    <tag k="addr:city" v="Nave"/>
-    <tag k="addr:housenumber" v="46d"/>
-    <tag k="addr:postcode" v="25075"/>
-    <tag k="addr:street" v="Via Brescia"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="info@tecnicocomputer.com"/>
-    <tag k="name" v="Punto Com Informatica"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:contanti" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:onchain" v="no"/>
-    <tag k="payment:satispay" v="yes"/>
-    <tag k="shop" v="computer"/>
-    <tag k="survey:date" v="2022-11-17"/>
-    <tag k="website" v="https://www.ricondizionatipro.it"/>
   </node>
   <node id="7946356355" lat="35.8361020" lon="50.9440160" version="2" timestamp="2020-09-29T10:53:13Z" changeset="91701647" uid="616774" user="mueschel">
     <tag k="addr:city" v="کرج"/>
@@ -70449,14 +70422,14 @@
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://suslumarket.com/"/>
   </node>
-  <node id="9532018672" lat="40.5339529" lon="49.7838996" version="3" timestamp="2022-06-23T21:22:02Z" changeset="122776214" uid="15153847" user="MahirMammadli">
+  <node id="9532018672" lat="40.5339529" lon="49.7838996" version="4" timestamp="2022-11-30T14:18:04Z" changeset="129563890" uid="15153847" user="MahirMammadli">
     <tag k="addr:city" v="Novxanı"/>
     <tag k="air_conditioning" v="yes"/>
     <tag k="currency:AZN" v="yes"/>
     <tag k="image" v="https://ibb.co/pzYxsnH"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="Johnnie Walker Şərab Evi"/>
+    <tag k="name" v="Şərab Evi Johnnie Walker"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="opening_hours:covid19" v="same"/>
     <tag k="payment:bitcoin" v="yes"/>
