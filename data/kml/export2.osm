@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-01T05:26:19Z"/>
+<meta osm_base="2022-12-02T05:22:59Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -34567,14 +34567,19 @@
     <tag k="phone" v="(305) 826-8266"/>
     <tag k="website" v="http://www.dieppalaw.com/"/>
   </node>
-  <node id="2955614537" lat="40.4322425" lon="-3.6869353" version="5" timestamp="2015-04-29T12:05:22Z" changeset="30617064" uid="2867311" user="makalu61">
+  <node id="2955614537" lat="40.4322425" lon="-3.6869353" version="6" timestamp="2022-12-01T11:06:01Z" changeset="129598284" uid="17441326" user="BSN21M">
     <tag k="addr:housenumber" v="61"/>
     <tag k="addr:street" v="Calle Serrano"/>
     <tag k="amenity" v="bank"/>
     <tag k="atm" v="yes"/>
+    <tag k="check_date:currency:XBT" v="2022-12-01"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Cajero Bitcoin ABC Serrano"/>
     <tag k="operator" v="ATMs BITCOIN EXCHANGE SL"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+34972223194"/>
     <tag k="website" v="http://www.cajerobtc.com"/>
   </node>
@@ -38052,11 +38057,11 @@
     <tag k="phone" v="+34 915240615"/>
     <tag k="website" v="https://www.ieb.es/"/>
   </node>
-  <node id="3082291798" lat="27.2443198" lon="-80.2384702" version="3" timestamp="2014-09-18T00:38:00Z" changeset="25511831" uid="2341582" user="PiotDave">
+  <node id="3082291798" lat="27.2443198" lon="-80.2384702" version="4" timestamp="2022-12-01T21:54:46Z" changeset="129621586" uid="26726" user="lonvia">
     <tag k="addr:city" v="Jensen Beach"/>
     <tag k="addr:housenumber" v="1004"/>
     <tag k="addr:postcode" v="34952"/>
-    <tag k="addr:street" v="Jensen Beach Blvd"/>
+    <tag k="addr:street" v="Jensen Beach Boulevard"/>
     <tag k="name" v="Hunter Naturals"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="(772) 232-6615"/>
@@ -39926,17 +39931,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="smoking" v="outside"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="3172043287" lat="50.8865993" lon="5.6517366" version="2" timestamp="2022-06-14T11:57:33Z" changeset="122367464" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:city" v="Lanaken"/>
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:postcode" v="3620"/>
-    <tag k="addr:street" v="Europaplein"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="name" v="Grandcafé Chaplin"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.chaplinlanaken.be/"/>
-    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="3172852994" lat="39.3380889" lon="-74.4753690" version="4" timestamp="2019-05-25T17:42:59Z" changeset="70615930" uid="243003" user="skquinn">
     <tag k="addr:city" v="Ventnor City"/>
