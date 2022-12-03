@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-02T05:22:59Z"/>
+<meta osm_base="2022-12-03T05:23:30Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -2453,28 +2453,6 @@
     <tag k="shop" v="coffee_roasting"/>
     <tag k="website" v="https://recesscoffee.com/"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="1794094864" lat="45.1825979" lon="5.7165919" version="15" timestamp="2022-11-09T11:40:32Z" changeset="128683123" uid="17441326" user="BSN21M">
-    <tag k="addr:city" v="Grenoble"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="38000"/>
-    <tag k="addr:street" v="Rue Irvoy"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="crepe"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Le K-barré"/>
-    <tag k="opening_hours" v="Tu-Sa 12:00-14:00,19:00-22:00; Su 12:00-14:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+33 4 76 22 04 55"/>
-    <tag k="survey:date" v="2022-11-09"/>
-    <tag k="takeaway:covid19" v="only"/>
-    <tag k="website" v="https://lekbarre.eatbu.com/"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="1797680224" lat="40.7389191" lon="-73.9907073" version="4" timestamp="2020-07-28T12:31:46Z" changeset="88620822" uid="11547411" user="heey8th">
     <tag k="addr:city" v="New York"/>
@@ -38727,16 +38705,22 @@
     <tag k="website" v="http://www.Beperk.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3113238529" lat="30.2948839" lon="-97.8229455" version="3" timestamp="2021-07-24T15:42:59Z" changeset="108537320" uid="4744872" user="Itserpol">
+  <node id="3113238529" lat="30.2948839" lon="-97.8229455" version="4" timestamp="2022-12-02T23:34:14Z" changeset="129662373" uid="1408522" user="Omnific">
     <tag k="addr:city" v="West Lake Hills"/>
     <tag k="addr:housenumber" v="5524"/>
-    <tag k="addr:street" v="Bee Caves Road"/>
+    <tag k="addr:postcode" v="78746"/>
+    <tag k="addr:street" v="Bee Cave Road"/>
     <tag k="contact:email" v="marketing@momentsfromtheheart.com"/>
     <tag k="contact:phone" v="+1-512-850-4530"/>
     <tag k="contact:website" v="https://momentsfromtheheart.com"/>
     <tag k="craft" v="photographer"/>
+    <tag k="landuse" v="retail"/>
     <tag k="name" v="Moments from the Heart Photography Studio"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+1 512-850-4530"/>
+    <tag k="website" v="https://momentsfromtheheart.com"/>
   </node>
   <node id="3114642031" lat="-34.6204477" lon="-58.3712674" version="9" timestamp="2020-03-05T20:56:57Z" changeset="81838848" uid="3837224" user="MatiasJ">
     <tag k="addr:city" v="Ciudad Autonoma de Buenos Aires"/>
@@ -42568,7 +42552,7 @@
     <tag k="phone" v="(415) 282-0700"/>
     <tag k="website" v="https://petcamp.com/"/>
   </node>
-  <node id="3277803123" lat="37.4519620" lon="-122.1852150" version="2" timestamp="2022-11-22T17:01:38Z" changeset="129248114" uid="15105740" user="PeteZivkov">
+  <node id="3277803123" lat="37.4520222" lon="-122.1852914" version="3" timestamp="2022-12-02T18:50:57Z" changeset="129654780" uid="15105740" user="PeteZivkov">
     <tag k="addr:city" v="Menlo Park"/>
     <tag k="addr:housenumber" v="1137"/>
     <tag k="addr:postcode" v="94025"/>
@@ -68087,18 +68071,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="pet"/>
   </node>
-  <node id="8665531300" lat="40.4047421" lon="-3.6908242" version="2" timestamp="2022-10-03T10:24:42Z" changeset="126928721" uid="2136761" user="flix1">
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Calle del General Lacy"/>
-    <tag k="amenity" v="bank"/>
-    <tag k="atm" v="yes"/>
-    <tag k="currency:BCH" v="yes"/>
-    <tag k="name" v="BitBase ATM"/>
-    <tag k="operator" v="BitBase"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="website" v="https://bitbase.es/en/bitcoin-atms#madrid"/>
-  </node>
   <node id="8671374900" lat="47.0822460" lon="7.5854803" version="15" timestamp="2021-04-28T13:52:51Z" changeset="103781918" uid="13187528" user="Zahnarztpraxis Meier">
     <tag k="addr:city" v="Kirchberg BE"/>
     <tag k="addr:housenumber" v="6"/>
@@ -70524,6 +70496,30 @@
     <tag k="opening_hours" v="Tu-Fr 11:30-15:00,17:30-21:30; Sa-Su 12:00-15:00,17:30-22:30"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
+  <node id="9620350185" lat="62.3001023" lon="25.7094401" version="4" timestamp="2022-12-02T10:08:52Z" changeset="129637606" uid="36166" user="umlaitinen">
+    <tag k="addr:city" v="Jyväskylä"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="40270"/>
+    <tag k="addr:street" v="Kirrinpolku"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Store selling packaging materials like cardboard boxes, envelopes, empty bottles and jars."/>
+    <tag k="name" v="Pakkaustukku.fi"/>
+    <tag k="opening_hours" v="Mo-Fr 9:00-17:00"/>
+    <tag k="operator" v="Digisuomi"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="shop" v="yes"/>
+    <tag k="survey:date" v="2022-11-04"/>
+    <tag k="website" v="https://www.pakkaustukku.fi"/>
+  </node>
   <node id="9620702550" lat="13.4940662" lon="-89.3836286" version="1" timestamp="2022-03-29T11:28:24Z" changeset="119064783" uid="4512222" user="Ravrol">
     <tag k="description" v="Lightning supported."/>
     <tag k="name" v="Tattoo"/>
@@ -71812,7 +71808,7 @@
     <tag k="swimming_pool" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="10028307586" lat="13.6520682" lon="-89.2639155" version="7" timestamp="2022-11-17T00:43:02Z" changeset="129016982" uid="17188811" user="GoodBeans El Salvador Coffee Shop">
+  <node id="10028307586" lat="13.6520682" lon="-89.2639155" version="8" timestamp="2022-12-02T11:16:55Z" changeset="129640057" uid="668096" user="jmann6">
     <tag k="addr:city" v="Nuevo Cuscatlan"/>
     <tag k="addr:street" v="Blvr. Cuscatlan, Nuevo Cuscatlan,"/>
     <tag k="amenity" v="cafe"/>
@@ -71831,7 +71827,7 @@
     <tag k="payment:contactless" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="survey:date" v="2022-11-14"/>
+    <tag k="survey:date" v="2022-12-02"/>
     <tag k="website" v="https://633476c8322bc.site123.me"/>
   </node>
   <node id="10082243731" lat="38.7227357" lon="-9.1462637" version="3" timestamp="2022-11-05T14:47:12Z" changeset="128523750" uid="17441326" user="BSN21M">
