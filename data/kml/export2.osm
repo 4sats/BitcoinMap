@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-03T05:23:30Z"/>
+<meta osm_base="2022-12-04T05:23:05Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -13915,13 +13915,6 @@
     <tag k="phone" v="+54 11 6091-2221"/>
     <tag k="website" v="http://www.nxnetsolutions.com"/>
   </node>
-  <node id="2578039279" lat="44.8120232" lon="20.4587127" version="4" timestamp="2018-08-21T15:43:29Z" changeset="61860628" uid="7608768" user="Blyatman">
-    <tag k="addr:city" v="Belgrade"/>
-    <tag k="addr:postcode" v="11000"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="name" v="Le Garage"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="2578190998" lat="53.3441494" lon="-6.2477058" version="7" timestamp="2019-03-27T05:08:05Z" changeset="68572736" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Dublin"/>
     <tag k="addr:housenumber" v="31;30a;28"/>
@@ -17492,7 +17485,7 @@
     <tag k="phone" v="+40 332 411 808"/>
     <tag k="website" v="http://www.panoterm.ro/contact-en/"/>
   </node>
-  <node id="2619167792" lat="45.0803784" lon="7.5083358" version="14" timestamp="2022-10-27T09:46:28Z" changeset="128120583" uid="1096195" user="Dardy">
+  <node id="2619167792" lat="45.0804106" lon="7.5082473" version="15" timestamp="2022-12-03T22:09:12Z" changeset="129690404" uid="1096195" user="Dardy">
     <tag k="addr:city" v="Rivoli"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="242"/>
@@ -34641,15 +34634,6 @@
     <tag k="phone" v="414 877 0999"/>
     <tag k="shop" v="tobacco"/>
     <tag k="start_date" v="2014-04-20"/>
-  </node>
-  <node id="2961496048" lat="38.6094194" lon="-90.2008614" version="3" timestamp="2018-02-06T18:33:06Z" changeset="56125338" uid="5295542" user="Kinhu">
-    <tag k="addr:city" v="St. Louis"/>
-    <tag k="addr:housenumber" v="1705"/>
-    <tag k="addr:postcode" v="63104"/>
-    <tag k="addr:street" v="South 7th Street"/>
-    <tag k="name" v="Riley's Florist"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="florist"/>
   </node>
   <node id="2962403895" lat="52.7013823" lon="41.4727444" version="2" timestamp="2016-06-24T20:12:49Z" changeset="40269440" uid="1781497" user="lcat">
     <tag k="name" v="Компьютерная помощь"/>
@@ -65804,20 +65788,6 @@
     <tag k="shop" v="wine"/>
     <tag k="survey:date" v="2022-11-08"/>
   </node>
-  <node id="7949460179" lat="19.4117283" lon="-99.1646611" version="3" timestamp="2022-11-23T18:46:18Z" changeset="129293823" uid="17573979" user="AndrejStacks">
-    <tag k="addr:city" v="México, Distrito Federal"/>
-    <tag k="addr:housenumber" v="191"/>
-    <tag k="addr:postcode" v="06700"/>
-    <tag k="addr:street" v="Medellín"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="min_age" v="18"/>
-    <tag k="name" v="Bitcoin Embassy Bar"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:dogecoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="survey:date" v="2022-04-25"/>
-  </node>
   <node id="7950521585" lat="45.9292251" lon="8.4801214" version="3" timestamp="2022-08-05T12:19:07Z" changeset="124520941" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Baveno"/>
     <tag k="addr:housenumber" v="5"/>
@@ -66028,14 +65998,20 @@
     <tag k="payment:mercado_pago" v="yes"/>
     <tag k="shop" v="wine"/>
   </node>
-  <node id="8009000931" lat="14.5797275" lon="121.1361593" version="2" timestamp="2021-05-28T13:38:34Z" changeset="105495667" uid="1488198" user="VMPanes">
-    <tag k="description" v="use Abra app to buy/sell cryptocurrencies with cash"/>
-    <tag k="name" v="Tambunting Tikling"/>
+  <node id="8009000931" lat="14.5797275" lon="121.1361593" version="3" timestamp="2022-12-03T05:24:57Z" changeset="129666087" uid="1041828" user="GOwin">
+    <tag k="addr:street" v="Ortigas Avenue Extension"/>
+    <tag k="brand" v="Tambunting"/>
+    <tag k="brand:wikidata" v="Q7681088"/>
+    <tag k="brand:wikipedia" v="en:Tambunting"/>
+    <tag k="mapillary" v="358505373012181"/>
+    <tag k="money_transfer" v="palawan_express;western_union"/>
+    <tag k="name" v="Tambunting"/>
     <tag k="payment:abra" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="shop" v="pawnbroker"/>
+    <tag k="source" v="interpolation"/>
     <tag k="website" v="https://www.abra.com/"/>
   </node>
   <node id="8010821915" lat="21.1321372" lon="72.8009007" version="1" timestamp="2020-10-15T18:39:05Z" changeset="92539023" uid="11994724" user="Etherbit">
@@ -70496,30 +70472,6 @@
     <tag k="opening_hours" v="Tu-Fr 11:30-15:00,17:30-21:30; Sa-Su 12:00-15:00,17:30-22:30"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="9620350185" lat="62.3001023" lon="25.7094401" version="4" timestamp="2022-12-02T10:08:52Z" changeset="129637606" uid="36166" user="umlaitinen">
-    <tag k="addr:city" v="Jyväskylä"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:postcode" v="40270"/>
-    <tag k="addr:street" v="Kirrinpolku"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Store selling packaging materials like cardboard boxes, envelopes, empty bottles and jars."/>
-    <tag k="name" v="Pakkaustukku.fi"/>
-    <tag k="opening_hours" v="Mo-Fr 9:00-17:00"/>
-    <tag k="operator" v="Digisuomi"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="shop" v="yes"/>
-    <tag k="survey:date" v="2022-11-04"/>
-    <tag k="website" v="https://www.pakkaustukku.fi"/>
-  </node>
   <node id="9620702550" lat="13.4940662" lon="-89.3836286" version="1" timestamp="2022-03-29T11:28:24Z" changeset="119064783" uid="4512222" user="Ravrol">
     <tag k="description" v="Lightning supported."/>
     <tag k="name" v="Tattoo"/>
@@ -71807,6 +71759,22 @@
     <tag k="sport" v="fitness"/>
     <tag k="swimming_pool" v="no"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10026183852" lat="49.8523686" lon="-119.6296540" version="2" timestamp="2022-12-04T00:46:48Z" changeset="129692426" uid="16755087" user="Coinoswallet">
+    <tag k="addr:city" v="West Kelowna"/>
+    <tag k="addr:housenumber" v="3077"/>
+    <tag k="addr:street" v="Stoneridge Drive"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="jessie@adelasbedandbreakfast.ca"/>
+    <tag k="name" v="Adela's Bed and Breakfast"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+1 250 707 1515"/>
+    <tag k="rooms" v="3"/>
+    <tag k="survey:date" v="2022-12-03"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.adelasbedandbreakfast.ca/"/>
   </node>
   <node id="10028307586" lat="13.6520682" lon="-89.2639155" version="8" timestamp="2022-12-02T11:16:55Z" changeset="129640057" uid="668096" user="jmann6">
     <tag k="addr:city" v="Nuevo Cuscatlan"/>
