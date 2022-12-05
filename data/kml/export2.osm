@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-04T05:23:05Z"/>
+<meta osm_base="2022-12-05T05:24:26Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -500,18 +500,21 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://himalayanpeople.com/"/>
   </node>
-  <node id="679513132" lat="51.0342775" lon="-114.1918172" version="5" timestamp="2019-09-18T14:20:43Z" changeset="74630446" uid="5633991" user="Matthew Darwin">
+  <node id="679513132" lat="51.0342775" lon="-114.1918170" version="6" timestamp="2022-12-04T22:35:53Z" changeset="129720308" uid="10036384" user="michael60634">
     <tag k="addr:city" v="Calgary"/>
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:street" v="Springborough Boulevard SW"/>
     <tag k="addr:unit" v="160"/>
     <tag k="amenity" v="cafe"/>
+    <tag k="brand" v="Waves Coffee House"/>
+    <tag k="brand:wikidata" v="Q114096538"/>
     <tag k="cuisine" v="coffee_shop"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="name" v="Waves Coffee House"/>
     <tag k="opening_hours" v="Mo-Fr 06:00-22:00, Sa-Su 07:00-22:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="takeaway" v="yes"/>
   </node>
   <node id="687312669" lat="55.6772854" lon="12.5693007" version="5" timestamp="2022-02-21T01:49:57Z" changeset="117659779" uid="1288" user="Niels Elgaard Larsen">
     <tag k="amenity" v="bar"/>
