@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-05T05:24:26Z"/>
+<meta osm_base="2022-12-06T05:23:08Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -14529,7 +14529,7 @@
     <tag k="shop" v="photo"/>
     <tag k="website" v="https://charliemcrae.com/"/>
   </node>
-  <node id="2587540738" lat="44.4332904" lon="26.0949030" version="9" timestamp="2022-09-21T11:35:53Z" changeset="126461224" uid="128281" user="razor74">
+  <node id="2587540738" lat="44.4332904" lon="26.0949030" version="9" timestamp="2022-09-21T11:35:53Z" changeset="126461224" uid="128281" user="rarad74">
     <tag k="addr.source:street" v="survey"/>
     <tag k="addr:city" v="București"/>
     <tag k="addr:housenumber" v="4"/>
@@ -40846,7 +40846,7 @@
     <tag k="phone" v="+030 699 708 0766"/>
     <tag k="website" v="pixelicious.gr"/>
   </node>
-  <node id="3215899762" lat="46.5966226" lon="25.0740563" version="5" timestamp="2016-01-12T10:32:33Z" changeset="36524902" uid="128281" user="razor74">
+  <node id="3215899762" lat="46.5966226" lon="25.0740563" version="5" timestamp="2016-01-12T10:32:33Z" changeset="36524902" uid="128281" user="rarad74">
     <tag k="addr:city" v="Sovata"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:postcode" v="545500"/>
@@ -64731,20 +64731,6 @@
     <tag k="shop" v="mobile_phone"/>
     <tag k="website" v="https://www.facebook.com/jetblackstorephone"/>
   </node>
-  <node id="7499178601" lat="45.7639276" lon="4.8376532" version="3" timestamp="2022-08-15T17:41:25Z" changeset="124938946" uid="4741702" user="Kazing">
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:facebook" v="CafeComptoirBrunet"/>
-    <tag k="contact:phone" v="+33478374431"/>
-    <tag k="contact:website" v="https://bouchonlyonnaisbrunet.com"/>
-    <tag k="cuisine" v="regional"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Bouchon Comptoir Brunet"/>
-    <tag k="opening_hours" v="Th-Tu 12:00-14:00,19:00-22:30; We off"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-  </node>
   <node id="7507278566" lat="44.4924550" lon="11.3256740" version="1" timestamp="2020-05-11T14:51:34Z" changeset="85031774" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Bologna"/>
     <tag k="addr:housenumber" v="40/A"/>
@@ -69646,11 +69632,12 @@
     <tag k="tourism" v="apartment"/>
     <tag k="website" v="http://www.ilnidodellostriscignl.it"/>
   </node>
-  <node id="9289282581" lat="20.6435214" lon="-87.0619660" version="2" timestamp="2021-11-28T03:49:23Z" changeset="114312307" uid="2149480" user="Osoverflow">
+  <node id="9289282581" lat="20.6435214" lon="-87.0619660" version="3" timestamp="2022-12-05T17:41:46Z" changeset="129750816" uid="77904" user="Kristjan ESPERANTO">
     <tag k="addr:city" v="Playa del Carmen"/>
     <tag k="addr:postcode" v="77728"/>
     <tag k="addr:street" v="Avenida 10 Norte, Calle 70 Nte"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/profile.php?id=100063488646547"/>
     <tag k="contact:google_plus" v="JWVQ+88 Playa del Carmen, Quintana Roo"/>
     <tag k="cuisine" v="german;italian;spanish;mexican"/>
     <tag k="diet:non-vegetarian" v="yes"/>
@@ -69660,15 +69647,15 @@
     <tag k="opening_hours:covid19" v="same"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="+529841976695"/>
-    <tag k="website" v="https://www.facebook.com/Schnitzel-Garten-Playa-Del-Carmen-2074353255956170/"/>
+    <tag k="phone" v="+52 9841976695"/>
   </node>
-  <node id="9290834919" lat="20.6341263" lon="-87.0677239" version="1" timestamp="2021-11-28T16:15:09Z" changeset="114329876" uid="2149480" user="Osoverflow">
+  <node id="9290834919" lat="20.6341263" lon="-87.0677239" version="2" timestamp="2022-12-05T17:42:35Z" changeset="129750839" uid="77904" user="Kristjan ESPERANTO">
     <tag k="addr:city" v="Playa del Carmen"/>
     <tag k="addr:housenumber" v="43"/>
     <tag k="addr:postcode" v="77720"/>
     <tag k="addr:street" v="Calle 34 Norte"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/profile.php?id=100064831760437"/>
     <tag k="contact:google_plus" v="JWMJ+JW Playa del Carmen, Quintana Roo"/>
     <tag k="cuisine" v="seafood;mexican;international"/>
     <tag k="description" v="Food &amp; Drinks"/>
@@ -69680,8 +69667,7 @@
     <tag k="opening_hours:covid19" v="same"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="+529841984480"/>
-    <tag k="website" v="https://www.facebook.com/Zitla-Ceiba-102162245292883/"/>
+    <tag k="phone" v="+52 984 1984480"/>
   </node>
   <node id="9291022212" lat="20.7276599" lon="-103.5442724" version="1" timestamp="2021-11-28T17:53:33Z" changeset="114332726" uid="2149480" user="Osoverflow">
     <tag k="addr:city" v="Zapopan"/>
@@ -71446,7 +71432,7 @@
     <tag k="survey:date" v="2022-10-16"/>
     <tag k="website" v="https://rolfbodywork.com"/>
   </node>
-  <node id="9937709256" lat="10.4980026" lon="-66.8557039" version="5" timestamp="2022-08-16T17:23:48Z" changeset="124982843" uid="616774" user="mueschel">
+  <node id="9937709256" lat="10.4980026" lon="-66.8557039" version="6" timestamp="2022-12-05T08:36:46Z" changeset="129731241" uid="1722488" user="Mateusz Konieczny">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:full" v="Av. Blandin con calle Santa Teresa, C.C San Ignacio, nivel Vivero, local Vivero 3 Sur Este. Urb. La Castellana."/>
     <tag k="addr:housename" v="Centro San Ignacio"/>
@@ -71454,6 +71440,8 @@
     <tag k="addr:street" v="Av. Blandín"/>
     <tag k="air_conditioning" v="yes"/>
     <tag k="branch" v="San Ignacio"/>
+    <tag k="brand:wikidata" v="Q1536234"/>
+    <tag k="brand:wikipedia" v="en:Gold's Gym"/>
     <tag k="capacity" v="50"/>
     <tag k="contact:facebook" v="https://es-la.facebook.com/GoldsGymVenezuela/"/>
     <tag k="contact:instagram" v="https://www.instagram.com/goldsgymve/?hl=es"/>
@@ -71489,8 +71477,6 @@
     <tag k="swimming_pool" v="no"/>
     <tag k="website" v="http://www.goldsgym.com.ve/index.php"/>
     <tag k="wheelchair" v="yes"/>
-    <tag k="wikidata" v="Q1536234"/>
-    <tag k="wikipedia" v="en:Gold's Gym"/>
   </node>
   <node id="9938189487" lat="10.5084699" lon="-66.9072989" version="2" timestamp="2022-08-16T17:23:48Z" changeset="124982843" uid="616774" user="mueschel">
     <tag k="addr:city" v="Caracas"/>
