@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-06T05:23:08Z"/>
+<meta osm_base="2022-12-07T05:23:31Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -54031,9 +54031,10 @@
     <tag k="start_date" v="1982"/>
     <tag k="website" v="https://www.paolosaba.it/"/>
   </node>
-  <node id="5169622321" lat="4.8142856" lon="-75.6991209" version="3" timestamp="2017-12-21T14:41:11Z" changeset="54816636" uid="2400609" user="unmaperomas">
+  <node id="5169622321" lat="4.8142856" lon="-75.6991209" version="4" timestamp="2022-12-06T13:33:46Z" changeset="129784058" uid="12958636" user="FOSStreetMap">
     <tag k="addr:city" v="Pereira"/>
     <tag k="addr:housenumber" v="25 - 15"/>
+    <tag k="addr:postcode" v="660002"/>
     <tag k="addr:street" v="Carrera 8"/>
     <tag k="internet_access" v="no"/>
     <tag k="lit" v="yes"/>
@@ -64445,10 +64446,13 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://sunex.ch/sunex.html"/>
   </node>
-  <node id="7288951960" lat="50.1000750" lon="14.4490968" version="1" timestamp="2020-03-12T16:02:35Z" changeset="82120371" uid="5748" user="pschonmann">
+  <node id="7288951960" lat="50.1000750" lon="14.4490968" version="4" timestamp="2022-12-06T13:20:20Z" changeset="129783636" uid="746938" user="aloxe">
     <tag k="amenity" v="atm"/>
+    <tag k="cash_in" v="no"/>
+    <tag k="check_date" v="2022-12-06"/>
     <tag k="fee:buy" v="2%"/>
     <tag k="fee:sell" v="1.7%"/>
+    <tag k="operator" v="hello bank"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:dash" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
