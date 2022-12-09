@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-08T05:24:24Z"/>
+<meta osm_base="2022-12-09T05:23:56Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -48306,16 +48306,18 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="phone" v="+61 424 038 600"/>
   </node>
-  <node id="3840045860" lat="48.8950535" lon="2.3171038" version="8" timestamp="2022-11-05T18:36:53Z" changeset="128532139" uid="9715697" user="VxlerieUwu">
-    <tag k="addr:city" v="Paris"/>
-    <tag k="addr:housenumber" v="93"/>
-    <tag k="addr:postcode" v="75017"/>
-    <tag k="addr:street" v="Rue de la Jonquière"/>
+  <node id="3840045860" lat="48.8950535" lon="2.3171038" version="9" timestamp="2022-12-08T17:25:50Z" changeset="129870275" uid="172867" user="AmiFritz">
     <tag k="amenity" v="restaurant"/>
     <tag k="capacity" v="30"/>
+    <tag k="contact:city" v="Paris"/>
     <tag k="contact:facebook" v="chezgustoparis"/>
+    <tag k="contact:housenumber" v="93"/>
     <tag k="contact:instagram" v="chezgusto"/>
+    <tag k="contact:phone" v="+33 9 80 67 61 17"/>
+    <tag k="contact:postcode" v="75017"/>
+    <tag k="contact:street" v="Rue de la Jonquière"/>
     <tag k="contact:twitter" v="GustoParis"/>
+    <tag k="contact:website" v="http://www.chezgusto.fr/"/>
     <tag k="cuisine" v="italian"/>
     <tag k="delivery" v="yes"/>
     <tag k="internet_access" v="wlan"/>
@@ -48325,10 +48327,8 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+33 9 80 67 61 17"/>
     <tag k="smoking" v="outside"/>
     <tag k="takeaway" v="yes"/>
-    <tag k="website" v="http://www.chezgusto.fr/"/>
   </node>
   <node id="3863223634" lat="45.9695769" lon="12.6750287" version="4" timestamp="2017-05-25T11:59:58Z" changeset="48971757" uid="616774" user="mueschel">
     <tag k="addr:city" v="Pordenone"/>
@@ -71753,22 +71753,6 @@
     <tag k="sport" v="fitness"/>
     <tag k="swimming_pool" v="no"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="10026183852" lat="49.8523686" lon="-119.6296540" version="2" timestamp="2022-12-04T00:46:48Z" changeset="129692426" uid="16755087" user="Coinoswallet">
-    <tag k="addr:city" v="West Kelowna"/>
-    <tag k="addr:housenumber" v="3077"/>
-    <tag k="addr:street" v="Stoneridge Drive"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="jessie@adelasbedandbreakfast.ca"/>
-    <tag k="name" v="Adela's Bed and Breakfast"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coinos" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+1 250 707 1515"/>
-    <tag k="rooms" v="3"/>
-    <tag k="survey:date" v="2022-12-03"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="https://www.adelasbedandbreakfast.ca/"/>
   </node>
   <node id="10028307586" lat="13.6520682" lon="-89.2639155" version="8" timestamp="2022-12-02T11:16:55Z" changeset="129640057" uid="668096" user="jmann6">
     <tag k="addr:city" v="Nuevo Cuscatlan"/>
