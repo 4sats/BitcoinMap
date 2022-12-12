@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-11T05:23:31Z"/>
+<meta osm_base="2022-12-12T05:24:52Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -10173,7 +10173,7 @@
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="www.darkstonebromelias.org"/>
   </node>
-  <node id="2555413820" lat="50.9220684" lon="6.9572049" version="10" timestamp="2022-11-04T13:58:17Z" changeset="128485788" uid="17441326" user="BSN21M">
+  <node id="2555413820" lat="50.9220684" lon="6.9572049" version="11" timestamp="2022-12-11T14:14:30Z" changeset="129963840" uid="357344" user="RotBlau">
     <tag k="addr:city" v="Köln"/>
     <tag k="addr:housenumber" v="34"/>
     <tag k="addr:postcode" v="50678"/>
@@ -10193,6 +10193,7 @@
     <tag k="sell:riemenantrieb" v="yes"/>
     <tag k="sell:shimano" v="yes"/>
     <tag k="sell:single_speed_bike" v="yes"/>
+    <tag k="service:bicycle:pump" v="no"/>
     <tag k="shop" v="bicycle"/>
     <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="https://www.mika-amaro.com"/>
@@ -39738,8 +39739,9 @@
     <tag k="shop" v="car"/>
     <tag k="website" v="https://www.facebook.com/picarsautomotores"/>
   </node>
-  <node id="3166978504" lat="37.8546999" lon="-122.2662860" version="5" timestamp="2021-09-02T17:30:31Z" changeset="110632709" uid="4043746" user="squidpickles">
+  <node id="3166978504" lat="37.8546999" lon="-122.2662860" version="6" timestamp="2022-12-11T23:45:22Z" changeset="129979641" uid="9473778" user="jmarchon">
     <tag k="addr:city" v="Berkeley"/>
+    <tag k="addr:country" v="US"/>
     <tag k="addr:housenumber" v="3015"/>
     <tag k="addr:state" v="CA"/>
     <tag k="addr:street" v="Shattuck Avenue"/>
@@ -71905,6 +71907,25 @@
     <tag k="payment:lightning_contactless" v="no"/>
     <tag k="survey:date" v="2022-08-01"/>
     <tag k="website" v="http://jonescreek.beer"/>
+  </node>
+  <node id="10253218895" lat="35.7679037" lon="50.0635081" version="1" timestamp="2022-12-11T14:00:35Z" changeset="129963428" uid="9431166" user="arman-s">
+    <tag k="addr:city" v="بوئین زهرا"/>
+    <tag k="addr:street" v="طالقانی"/>
+    <tag k="email" v="info@forimall.com"/>
+    <tag k="image" v="https://forimall.com/wp-content/uploads/2020/05/Untitled-1.png"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="فروشگاه لوازم یدکی تراکتور فوری مال"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="phone" v="+98-283-422-2021"/>
+    <tag k="shop" v="car_parts"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="website" v="https://forimall.com"/>
   </node>
 
 </osm>
