@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-12T05:24:52Z"/>
+<meta osm_base="2022-12-13T05:24:34Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -30377,6 +30377,27 @@
     <tag k="phone" v="+972-53-7931393"/>
     <tag k="shop" v="car_repair"/>
     <tag k="website" v="http://www.carsforum.co.il/cars/מדריך-עסקים/1037/מוסך-ימית"/>
+  </node>
+  <node id="2821956700" lat="51.6441662" lon="4.4377770" version="6" timestamp="2022-12-12T14:18:25Z" changeset="130000798" uid="3634" user="Marcel van der Boom">
+    <tag k="addr:city" v="Fijnaart"/>
+    <tag k="addr:housename" v="'t Kwartier"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="4793RE"/>
+    <tag k="addr:street" v="Kwartiersedijk"/>
+    <tag k="check_date:opening_hours" v="2022-01-13"/>
+    <tag k="company" v="software_development"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="software engineering"/>
+    <tag k="email" v="info@hsdev.com"/>
+    <tag k="name" v="HS-Development B.V."/>
+    <tag k="office" v="company"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+31 168 468 822"/>
+    <tag k="source" v="BAG"/>
+    <tag k="source:date" v="2017-01-31"/>
+    <tag k="start_date" v="1927"/>
+    <tag k="website" v="https://www.hsdev.com/"/>
   </node>
   <node id="2822003076" lat="37.7938085" lon="-122.4011128" version="2" timestamp="2022-05-26T01:23:51Z" changeset="121497637" uid="15537949" user="pootriarch">
     <tag k="addr:city" v="San Francisco"/>
@@ -70440,12 +70461,6 @@
     <tag k="name" v="Khana Khazana"/>
     <tag k="opening_hours" v="Tu-Fr 11:30-15:00,17:30-21:30; Sa-Su 12:00-15:00,17:30-22:30"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="9620702550" lat="13.4940662" lon="-89.3836286" version="1" timestamp="2022-03-29T11:28:24Z" changeset="119064783" uid="4512222" user="Ravrol">
-    <tag k="description" v="Lightning supported."/>
-    <tag k="name" v="Tattoo"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="tattoo"/>
   </node>
   <node id="9622918604" lat="35.7802777" lon="51.4624255" version="2" timestamp="2022-03-30T06:10:19Z" changeset="119098413" uid="12795630" user="farbodf">
     <tag k="addr:city" v="تهران"/>
