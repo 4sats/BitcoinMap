@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-14T05:24:24Z"/>
+<meta osm_base="2022-12-15T05:24:06Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -18026,10 +18026,11 @@
     <tag k="name" v="Steve Franklin, Counseling"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2623049108" lat="-26.8384875" lon="-65.2260134" version="4" timestamp="2019-04-30T14:41:22Z" changeset="69737574" uid="8648323" user="Juan Manuel Dócile">
+  <node id="2623049108" lat="-26.8384875" lon="-65.2260134" version="5" timestamp="2022-12-14T17:18:59Z" changeset="130084043" uid="1777006" user="Diego Krein">
     <tag k="addr:city" v="San Miguel de Tucumán"/>
     <tag k="addr:housenumber" v="838"/>
     <tag k="addr:street" v="Libertad"/>
+    <tag k="craft" v="hvac"/>
     <tag k="name" v="ServiTuc – Instalación de aires acondicionados"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+5493815039235;+5493815497655"/>
@@ -62754,26 +62755,6 @@
     <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
     <tag k="phone" v="+39 0575 323666"/>
   </node>
-  <node id="6777069676" lat="41.6959778" lon="44.8023950" version="3" timestamp="2022-12-13T09:32:05Z" changeset="130028258" uid="17972970" user="TheFuzzStone">
-    <tag k="addr:city" v="Tbilisi"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Pushkin"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:GEL" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Bitcoin, Ethereum, Tether USDT crypto exchnage (no KYC)&#x0a;&#x0a;Contacts:&#x0a;* Telegram: https://t.me/LeonsPaid&#x0a;* Site: LeonsPaid.com"/>
-    <tag k="name" v="Leon's Paid"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:btc" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:crypto" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:monero" v="yes"/>
-    <tag k="payment:tether" v="yes"/>
-    <tag k="payment:usdt" v="yes"/>
-    <tag k="payment:xmr" v="yes"/>
-  </node>
   <node id="6778342663" lat="40.5227455" lon="-111.8983061" version="3" timestamp="2019-09-16T10:21:46Z" changeset="74523071" uid="616774" user="mueschel">
     <tag k="addr:city" v="Draper"/>
     <tag k="addr:housenumber" v="12577 S"/>
@@ -71894,47 +71875,6 @@
     <tag k="shop" v="car_parts"/>
     <tag k="toilets" v="yes"/>
     <tag k="website" v="https://forimall.com"/>
-  </node>
-  <node id="10259156474" lat="41.7032315" lon="44.8037080" version="2" timestamp="2022-12-13T09:33:45Z" changeset="130028321" uid="17972970" user="TheFuzzStone">
-    <tag k="addr:city" v="Tbilisi"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:street" v="Davit Agmashenebeli Avenue"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:GEL" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Bitcoin, Ethereum, Tether USDT crypto exchnage (no KYC)&#x0a;&#x0a;Contacts:&#x0a;* Telegram: https://t.me/LeonsPaid&#x0a;* Site: LeonsPaid.com"/>
-    <tag k="name" v="Leon's Paid"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:btc" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:crypto" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:monero" v="yes"/>
-    <tag k="payment:tether" v="yes"/>
-    <tag k="payment:usdt" v="yes"/>
-    <tag k="payment:xmr" v="yes"/>
-  </node>
-  <node id="10259169245" lat="41.7064182" lon="44.7843803" version="2" timestamp="2022-12-13T10:33:17Z" changeset="130030476" uid="16971158" user="nathan_day">
-    <tag k="addr:city" v="Tbilisi"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Erekle Tatishvili"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:GEL" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:USDT" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin, Ethereum, Tether USDT crypto exchnage (no KYC)&#x0a;&#x0a;Contacts:&#x0a;* Telegram: https://t.me/LeonsPaid&#x0a;* Site: LeonsPaid.com"/>
-    <tag k="name" v="Leon's Paid"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:crypto" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:monero" v="yes"/>
-    <tag k="payment:tether" v="yes"/>
-    <tag k="payment:usdt" v="yes"/>
-    <tag k="payment:xmr" v="yes"/>
-    <tag k="source" v="local knowledge"/>
   </node>
 
 </osm>
