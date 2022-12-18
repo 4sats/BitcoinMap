@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-17T05:22:07Z"/>
+<meta osm_base="2022-12-18T05:21:39Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -2498,16 +2498,6 @@
     <tag k="website" v="https://www.franzoesisch-lernen.at"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1859124624" lat="45.7703000" lon="-73.9786730" version="2" timestamp="2014-02-16T21:12:30Z" changeset="20604453" uid="1938349" user="Perron Hosting">
-    <tag k="addr:city" v="Saint-Jérôme"/>
-    <tag k="addr:housenumber" v="1025"/>
-    <tag k="addr:street" v="Avenue du Parc"/>
-    <tag k="name" v="PerronHosting.com"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="source" v="NRCan-CanVec-10.0"/>
-    <tag k="website" v="http://www.perronhosting.com"/>
-  </node>
   <node id="1863930494" lat="60.1937920" lon="24.9560260" version="10" timestamp="2019-03-30T16:23:42Z" changeset="68702443" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Helsinki"/>
     <tag k="addr:country" v="FI"/>
@@ -4955,11 +4945,12 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://laptopstore.gr/"/>
   </node>
-  <node id="2422699726" lat="40.7155919" lon="8.5835674" version="4" timestamp="2018-02-22T13:19:47Z" changeset="56579911" uid="1462614" user="_Andrea_">
+  <node id="2422699726" lat="40.7155919" lon="8.5835674" version="5" timestamp="2022-12-17T11:52:40Z" changeset="130183503" uid="17375742" user="matg83">
     <tag k="addr:city" v="Sassari"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="07100"/>
     <tag k="addr:street" v="Via Nenni"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Hote, ristorante, centro congressi, parcheggio."/>
     <tag k="email" v="hotel.marini.ss@gmail.com"/>
     <tag k="name" v="Hotel Marini"/>
@@ -6691,13 +6682,14 @@
     <tag k="phone" v="+34966807353"/>
     <tag k="website" v="http://www.polloexpresss.com"/>
   </node>
-  <node id="2503805885" lat="39.2163311" lon="9.1115068" version="6" timestamp="2019-03-23T13:52:52Z" changeset="68444870" uid="9451067" user="b-jazz-bot">
+  <node id="2503805885" lat="39.2163311" lon="9.1115068" version="7" timestamp="2022-12-17T11:52:40Z" changeset="130183503" uid="17375742" user="matg83">
     <tag k="addr:city" v="Cagliari"/>
     <tag k="addr:housenumber" v="10,12"/>
     <tag k="addr:postcode" v="09124"/>
     <tag k="addr:street" v="Vico Carlo Felice"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="italian"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="info@enorestaurant.it"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="internet_access:fee" v="no"/>
@@ -8376,12 +8368,6 @@
     <tag k="name" v="Loue la vie"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.louelavie.ca/"/>
-  </node>
-  <node id="2543716574" lat="45.6177466" lon="-73.8424903" version="1" timestamp="2013-11-21T18:11:02Z" changeset="19041053" uid="1651798" user="oldenburg69">
-    <tag k="name" v="SIMPLE COMPTABILITÉ INC."/>
-    <tag k="note" v="Accounting services Corporate taxes Special tax Trusts"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.simplecomptabilite.com/"/>
   </node>
   <node id="2543864736" lat="32.4749985" lon="-99.7123610" version="4" timestamp="2019-05-31T09:26:33Z" changeset="70801630" uid="3755477" user="ent8r">
     <tag k="addr:city" v="Abilene"/>
@@ -14050,10 +14036,11 @@
     <tag k="tourism" v="apartment"/>
     <tag k="website" v="http://www.adormo.com/en/Apartment-Colosseo-Colosseum/5946"/>
   </node>
-  <node id="2583422856" lat="41.8953848" lon="12.4925316" version="8" timestamp="2021-09-28T10:28:48Z" changeset="111811330" uid="546" user="Alessandro Frigeri">
+  <node id="2583422856" lat="41.8953848" lon="12.4925316" version="9" timestamp="2022-12-17T11:52:40Z" changeset="130183503" uid="17375742" user="matg83">
     <tag k="addr:city" v="Roma"/>
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:street" v="Via degli Zingari"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Libreria Libri Necessari"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="second_hand" v="yes"/>
@@ -24390,10 +24377,11 @@
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="https://www.bb-santostefano.it/"/>
   </node>
-  <node id="2720926259" lat="40.6255632" lon="14.3764984" version="11" timestamp="2017-05-13T15:33:19Z" changeset="48652476" uid="28559" user="Stemby">
+  <node id="2720926259" lat="40.6255632" lon="14.3764984" version="12" timestamp="2022-12-17T11:52:40Z" changeset="130183503" uid="17375742" user="matg83">
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:postcode" v="80067"/>
     <tag k="addr:street" v="Viale Enrico Caruso"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="guest_house" v="bed_and_breakfast"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="name" v="La Magnolia Bed &amp; Breakfast"/>
@@ -32531,12 +32519,13 @@
     <tag k="phone" v="+1-612-810-4040"/>
     <tag k="website" v="http://www.cd-fulfillment.com/"/>
   </node>
-  <node id="2904559330" lat="39.2182706" lon="9.1115402" version="7" timestamp="2018-08-15T18:30:12Z" changeset="61693956" uid="1476146" user="Alecs01">
+  <node id="2904559330" lat="39.2182706" lon="9.1115402" version="8" timestamp="2022-12-17T11:52:40Z" changeset="130183503" uid="17375742" user="matg83">
     <tag k="addr:city" v="Cagliari"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="09124"/>
     <tag k="addr:street" v="Vico Vittorio Emanuele II"/>
     <tag k="amenity" v="pub"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="paninoteca_birreria_fai_da_te"/>
     <tag k="name" v="Spillaus"/>
     <tag k="opening_hours" v="20:00 - 03:00"/>
@@ -34494,13 +34483,14 @@
     <tag k="name" v="Criari Camisetas Personalizadas"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2965247814" lat="41.8993424" lon="12.5360477" version="5" timestamp="2017-01-29T15:25:03Z" changeset="45623234" uid="2201521" user="quibitcoin">
+  <node id="2965247814" lat="41.8993424" lon="12.5360477" version="6" timestamp="2022-12-17T11:52:40Z" changeset="130183503" uid="17375742" user="matg83">
     <tag k="addr:city" v="Roma"/>
     <tag k="addr:housenumber" v="56"/>
     <tag k="addr:postcode" v="00159"/>
     <tag k="addr:street" v="Via Domenico Cucchiari"/>
     <tag k="amenity" v="bar"/>
     <tag k="brewery" v="various"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Beer Time"/>
     <tag k="opening_hours" v="Mo-Su 17:00-00:00"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -36075,18 +36065,6 @@
     <tag k="name" v="무지개 열쇠"/>
     <tag k="name:ko" v="무지개 열쇠"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="3010651735" lat="45.4385355" lon="12.3214867" version="3" timestamp="2022-09-19T08:18:04Z" changeset="126359584" uid="17038371" user="bitcoininvenice">
-    <tag k="addr:city" v="Venezia"/>
-    <tag k="addr:housenumber" v="220"/>
-    <tag k="addr:street" v="Via Santa Croce"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="burger;sandwich"/>
-    <tag k="diet:meat" v="yes"/>
-    <tag k="name" v="Atled Meat Lab"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 041 458 8914"/>
-    <tag k="website" v="atled-meat-lab.business.site"/>
   </node>
   <node id="3011361047" lat="45.5919785" lon="-73.5815241" version="2" timestamp="2019-02-20T17:35:06Z" changeset="67400528" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Saint-Léonard"/>
@@ -46947,21 +46925,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://99bitcoins.com"/>
   </node>
-  <node id="3624451806" lat="45.2692394" lon="-72.4977970" version="8" timestamp="2019-02-18T06:04:18Z" changeset="67302355" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:housenumber" v="572"/>
-    <tag k="addr:postcode" v="J0E 1R0"/>
-    <tag k="addr:street" v="Chemin Lakeside"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="Hôtel Suites Lac-Brome"/>
-    <tag k="operator" v="Mamadou Sow"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-888-922-0404"/>
-    <tag k="rooms" v="38"/>
-    <tag k="stars" v="4"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="https://www.hotelsuiteslacbrome.com/en"/>
-  </node>
   <node id="3627365341" lat="54.6851569" lon="25.2793192" version="4" timestamp="2021-11-19T17:08:02Z" changeset="113999929" uid="9509339" user="Njorlpinipini">
     <tag k="amenity" v="dentist"/>
     <tag k="healthcare" v="dentist"/>
@@ -53164,6 +53127,36 @@
     <tag k="phone" v="+39 081 8623942"/>
     <tag k="website" v="http://www.ibtweb.it"/>
   </node>
+  <node id="5104280108" lat="45.6252408" lon="-122.6729767" version="7" timestamp="2022-12-17T18:15:53Z" changeset="130193168" uid="6649938" user="brizguitar">
+    <tag k="addr:city" v="Vancouver"/>
+    <tag k="addr:housenumber" v="506"/>
+    <tag k="addr:postcode" v="98660"/>
+    <tag k="addr:state" v="WA"/>
+    <tag k="addr:street" v="Washington Street"/>
+    <tag k="check_date:currency:XBT" v="2022-11-29"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Briz Loan &amp; Guitar"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-18:00"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:apple_pay" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:google_pay" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:mastercard_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+1 360 699 5626"/>
+    <tag k="shop" v="musical_instrument"/>
+    <tag k="shop_1" v="pawnbroker"/>
+    <tag k="website" v="http://briz.us/"/>
+  </node>
   <node id="5108761484" lat="-25.4934773" lon="-49.2575766" version="6" timestamp="2021-02-22T02:12:45Z" changeset="99705879" uid="7152372" user="Mxdanger">
     <tag k="addr:city" v="Curitiba"/>
     <tag k="addr:housenumber" v="1411"/>
@@ -59224,12 +59217,13 @@
     <tag k="phone" v="+603-7886 7322"/>
     <tag k="website" v="https://www.miningpuppets.com"/>
   </node>
-  <node id="5949063053" lat="45.4388580" lon="12.3212920" version="2" timestamp="2021-09-20T19:57:19Z" changeset="111464898" uid="11220113" user="ivanbranco">
+  <node id="5949063053" lat="45.4388580" lon="12.3212920" version="3" timestamp="2022-12-17T11:52:40Z" changeset="130183503" uid="17375742" user="matg83">
     <tag k="addr:city" v="Venezia"/>
     <tag k="addr:housenumber" v="231"/>
     <tag k="addr:place" v="Santa Croce"/>
     <tag k="addr:postcode" v="30135"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Osteria veneziana."/>
     <tag k="email" v="info@zanze.it"/>
     <tag k="name" v="Zanze XVI"/>
@@ -71471,6 +71465,23 @@
     <tag k="shop" v="car_parts"/>
     <tag k="toilets" v="yes"/>
     <tag k="website" v="https://forimall.com"/>
+  </node>
+  <node id="10269677786" lat="45.5152985" lon="10.2661419" version="3" timestamp="2022-12-17T15:27:20Z" changeset="130189179" uid="194751" user="Goffredo">
+    <tag k="addr:city" v="Brescia"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="25134"/>
+    <tag k="addr:street" v="Via Fratelli Oscar e Olves Di Prata"/>
+    <tag k="description:it" v="Consulenza ingegneristica ed impiantistica per la progettazione, realizzazione e manutenzione di impianti di prime e seconde piogge, sollevamento, filtrazione, lavaggio, trattamento e depurazione biologica o chimico–fisica."/>
+    <tag k="email" v="info@tecamb.it"/>
+    <tag k="fax" v="+39 030 2310794"/>
+    <tag k="name" v="Tecnologie Ambientali s.r.l."/>
+    <tag k="office" v="company"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 030 2310794"/>
+    <tag k="ref:vatin" v="IT03323830178"/>
+    <tag k="start_date" v="1995-06-07"/>
+    <tag k="website" v="https://www.tecamb.it/"/>
   </node>
 
 </osm>
