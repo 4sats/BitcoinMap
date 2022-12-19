@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-18T05:21:39Z"/>
+<meta osm_base="2022-12-19T05:23:23Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -56387,7 +56387,7 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="shop" v="supermarket"/>
   </node>
-  <node id="5401318320" lat="53.6556454" lon="-1.5158343" version="2" timestamp="2021-05-28T05:25:02Z" changeset="105462703" uid="10149683" user="The_Wakefield_Mapper">
+  <node id="5401318320" lat="53.6556454" lon="-1.5158343" version="2" timestamp="2021-05-28T05:25:02Z" changeset="105462703" uid="10149683" user="WakefieldMapper">
     <tag k="addr:city" v="Wakefield"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="WF4 3BB"/>
@@ -71482,6 +71482,17 @@
     <tag k="ref:vatin" v="IT03323830178"/>
     <tag k="start_date" v="1995-06-07"/>
     <tag k="website" v="https://www.tecamb.it/"/>
+  </node>
+  <node id="10272038772" lat="48.8671819" lon="2.3595822" version="1" timestamp="2022-12-18T21:55:01Z" changeset="130225025" uid="7550430" user="Britzz">
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="75003"/>
+    <tag k="addr:street" v="Rue Notre-Dame de Nazareth"/>
+    <tag k="name" v="Beaubien"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+33 9 80 36 00 72"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="website" v="https://beaubienstore.com/"/>
   </node>
 
 </osm>
