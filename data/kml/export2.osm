@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-20T05:23:23Z"/>
+<meta osm_base="2022-12-21T05:22:35Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -1169,44 +1169,6 @@
     <tag k="source:loc" v="survey"/>
     <tag k="website" v="http://www.umaliru.cz/"/>
   </node>
-  <node id="1205027816" lat="37.7937537" lon="-122.4041745" version="5" timestamp="2022-04-08T19:35:04Z" changeset="119482970" uid="364" user="Edward">
-    <tag k="addr:city" v="San Francisco"/>
-    <tag k="addr:housenumber" v="680"/>
-    <tag k="addr:postcode" v="94111"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="Sacramento Street"/>
-    <tag k="description" v="Small budget travel hostel with a great travelers community. "/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="layer" v="4"/>
-    <tag k="name" v="Pacific Tradewinds Hostel"/>
-    <tag k="operator" v="Pacific Tradewinds Hostel, LLC"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="phone" v="+1 415-433-7970"/>
-    <tag k="rooms" v="4"/>
-    <tag k="smoking" v="no"/>
-    <tag k="tourism" v="hostel"/>
-    <tag k="website" v="https://www.san-francisco-hostel.com/"/>
-    <tag k="wikidata" v="Q111121528"/>
-  </node>
-  <node id="1218671130" lat="46.0560672" lon="11.1292710" version="10" timestamp="2021-09-11T09:52:14Z" changeset="111055419" uid="8445331" user="JuaFritz">
-    <tag k="addr:city" v="Trento"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:postcode" v="38122"/>
-    <tag k="addr:street" v="Via Antonio Fogazzaro"/>
-    <tag k="contact:email" v="andrea@bellezzastudio.it"/>
-    <tag k="contact:phone" v="+39 0461 933380"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Studio Bellezza"/>
-    <tag k="opening_hours" v="08:00-19:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
-    <tag k="ref:it:vat" v="02206750222"/>
-    <tag k="shop" v="hairdresser"/>
-    <tag k="unisex" v="yes"/>
-    <tag k="website" v="https://www.bellezzastudio.eu/"/>
-  </node>
   <node id="1230340912" lat="44.4947352" lon="11.3274549" version="5" timestamp="2018-07-25T11:48:30Z" changeset="61053483" uid="1462614" user="_Andrea_">
     <tag k="addr:city" v="Bologna"/>
     <tag k="addr:housenumber" v="8/A"/>
@@ -1224,21 +1186,6 @@
     <tag k="website" v="http://lafrascabologna.it"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1243877429" lat="47.9860263" lon="10.1798307" version="5" timestamp="2014-04-23T20:53:15Z" changeset="21895452" uid="58440" user="andbox">
-    <tag k="addr:city" v="Memmingen"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="87700"/>
-    <tag k="addr:street" v="Zwinggasse"/>
-    <tag k="craft" v="goldsmith"/>
-    <tag k="description" v="Goldschmiede &amp; Altelier"/>
-    <tag k="email" v="atelier69@msn.com"/>
-    <tag k="name" v="Ulrich Buhmann"/>
-    <tag k="operator" v="Ulrich Buhmann"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+49 8331 48747"/>
-    <tag k="shop" v="jewelry"/>
-    <tag k="website" v="http://www.schmuckkraftwerk.de/"/>
-  </node>
   <node id="1245024653" lat="30.3958149" lon="-97.7196383" version="7" timestamp="2022-11-06T12:40:03Z" changeset="128553440" uid="12056179" user="Milroy1812">
     <tag k="addr:housenumber" v="11101"/>
     <tag k="addr:street" v="Burnet Road"/>
@@ -1249,36 +1196,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://north.bamboobistroonline.menufy.com/"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="1245556962" lat="50.0834600" lon="14.4803200" version="6" timestamp="2018-07-07T17:36:43Z" changeset="60493790" uid="4710396" user="Lairen">
-    <tag k="addr:city" v="Prague"/>
-    <tag k="addr:country" v="CZ"/>
-    <tag k="addr:housenumber" v="3155"/>
-    <tag k="addr:postcode" v="13000"/>
-    <tag k="addr:street" v="Pod Kapličkou"/>
-    <tag k="addr:unit" v="20"/>
-    <tag k="contact:email" v="rada@brmlab.cz"/>
-    <tag k="contact:phone" v="+420608801582"/>
-    <tag k="contact:website" v="http://brmlab.cz/"/>
-    <tag k="description" v="Brmlab is a non-profit, community-run hackerspace in Prague. We provide a space where people who make things can come to share tools and knowledge."/>
-    <tag k="drink:club-mate" v="yes"/>
-    <tag k="email" v="brmlab@brmlab.cz"/>
-    <tag k="leisure" v="hackerspace"/>
-    <tag k="level" v="2"/>
-    <tag k="name" v="brmlab"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="phone" v="+420 608 801 582"/>
-    <tag k="website" v="https://brmlab.cz/"/>
-  </node>
-  <node id="1249568437" lat="30.3986564" lon="-97.7474271" version="4" timestamp="2021-01-23T17:27:31Z" changeset="98029322" uid="4744872" user="Itserpol">
-    <tag k="addr:housenumber" v="10710"/>
-    <tag k="addr:street" v="Research Boulevard"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="contact:phone" v="+1-512-342-2252"/>
-    <tag k="name" v="Bombay Bistro"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://bombay-bistro-research.menufy.com/"/>
   </node>
   <node id="1251043594" lat="53.8716062" lon="10.6681963" version="12" timestamp="2022-11-05T15:40:20Z" changeset="128526039" uid="17441326" user="BSN21M">
     <tag k="check_date" v="2012-06-29"/>
@@ -1329,16 +1246,6 @@
     <tag k="wikidata" v="Q825232"/>
     <tag k="wikipedia" v="de:Computerspielemuseum Berlin"/>
   </node>
-  <node id="1313989921" lat="43.5495948" lon="-79.5876526" version="9" timestamp="2019-09-03T02:40:46Z" changeset="74017655" uid="5633991" user="Matthew Darwin">
-    <tag k="addr:city" v="Mississauga"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:postcode" v="L5H 1E9"/>
-    <tag k="addr:street" v="Lakeshore Road West"/>
-    <tag k="name" v="Euro Flowers"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="florist"/>
-    <tag k="website" v="https://www.euroflowers.ca/"/>
-  </node>
   <node id="1315119882" lat="27.7739180" lon="-82.6336130" version="9" timestamp="2021-10-04T23:38:24Z" changeset="112098432" uid="55916" user="maxolasersquad">
     <tag k="addr:city" v="Saint Petersburg"/>
     <tag k="addr:housenumber" v="111"/>
@@ -1358,26 +1265,6 @@
     <tag k="smoking" v="outside"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1318116512" lat="46.0384428" lon="11.1230431" version="12" timestamp="2021-01-17T21:19:24Z" changeset="97653261" uid="11449631" user="SimoGine">
-    <tag k="addr:city" v="Trento"/>
-    <tag k="amenity" v="fuel"/>
-    <tag k="brand" v="Agip Eni"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="info@petrol-airport.it"/>
-    <tag k="fuel:GTL_diesel" v="yes"/>
-    <tag k="fuel:cng" v="yes"/>
-    <tag k="fuel:diesel" v="yes"/>
-    <tag k="fuel:diesel:class2" v="yes"/>
-    <tag k="fuel:octane_100" v="yes"/>
-    <tag k="fuel:octane_95" v="yes"/>
-    <tag k="name" v="Area di Servizio Petrol-Airport"/>
-    <tag k="operator" v="Petrol-Airport S.A.S. di Degasperi Diego, Tomasi Luca &amp; C."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
-    <tag k="ref:mise" v="8259"/>
-    <tag k="source" v="MISE - Ministero Sviluppo Economico"/>
-    <tag k="website" v="http://petrol-airport.it/"/>
-  </node>
   <node id="1324781959" lat="55.6787751" lon="12.5803397" version="18" timestamp="2022-02-21T19:48:16Z" changeset="117698631" uid="1288" user="Niels Elgaard Larsen">
     <tag k="amenity" v="bar"/>
     <tag k="fvst:navnelbnr" v="116955"/>
@@ -1392,21 +1279,6 @@
     <tag k="website" v="http://www.toga.dk/"/>
     <tag k="wikidata" v="Q16324763"/>
     <tag k="wikipedia" v="da:Toga Vinstue"/>
-  </node>
-  <node id="1351488951" lat="46.0931109" lon="11.1121903" version="3" timestamp="2020-02-20T17:53:45Z" changeset="81285092" uid="4533749" user="inbitcoin">
-    <tag k="addr:city" v="Trento"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:postcode" v="38121"/>
-    <tag k="addr:street" v="Via Giancarlo Maroni"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="e-commerce articoli equitazione e sportivi"/>
-    <tag k="name" v="La selleria on line"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
-    <tag k="shop" v="sports"/>
-    <tag k="sport" v="equestrian"/>
-    <tag k="website" v="https://www.laselleriaonline.it/"/>
   </node>
   <node id="1358364139" lat="39.0408401" lon="-94.4176410" version="4" timestamp="2017-12-13T02:46:27Z" changeset="54583983" uid="1561092" user="sannkc">
     <tag k="addr:housenumber" v="4376"/>
@@ -1475,24 +1347,6 @@
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1373592781" lat="47.0638844" lon="15.4423345" version="15" timestamp="2016-07-28T22:28:26Z" changeset="41096589" uid="321042" user="species">
-    <tag k="addr:city" v="Graz"/>
-    <tag k="addr:country" v="AT"/>
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:postcode" v="8010"/>
-    <tag k="addr:street" v="Schießstattgasse"/>
-    <tag k="commons" v="workshop"/>
-    <tag k="description" v="Offene Werkstatt"/>
-    <tag k="identity" v="commons"/>
-    <tag k="name" v="Fahrradküche Graz"/>
-    <tag k="opening_hours" v="Th 17:00-21:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="provides" v="objects_of_utility;learning_opportunities"/>
-    <tag k="shop" v="bicycle"/>
-    <tag k="source" v="survey"/>
-    <tag k="website" v="http://www.fahrradkueche.com/"/>
-  </node>
   <node id="1397247512" lat="59.3117663" lon="18.0788131" version="4" timestamp="2015-02-02T16:46:15Z" changeset="28570768" uid="76269" user="Snusmumriken">
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="Twang"/>
@@ -1511,18 +1365,6 @@
     <tag k="name" v="The French Press Cafe &amp; Creperie"/>
     <tag k="opening_hours" v="07:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="1404744875" lat="42.6402694" lon="-73.7843840" version="5" timestamp="2021-02-06T14:08:06Z" changeset="98814859" uid="12470629" user="nysgissam_dead10ck">
-    <tag k="addr:city" v="Albany"/>
-    <tag k="addr:housenumber" v="467"/>
-    <tag k="addr:postcode" v="12209"/>
-    <tag k="addr:state" v="NY"/>
-    <tag k="addr:street" v="Delaware Avenue"/>
-    <tag k="name" v="Organica: Garden Supply &amp; Hydroponics"/>
-    <tag k="nysgissam:nysaddresspointid" v="ALBA010632"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="518-729-5950"/>
-    <tag k="website" v="http://www.OrganicaGardenSupply.com"/>
   </node>
   <node id="1409036548" lat="10.4932851" lon="-66.8481501" version="11" timestamp="2022-07-26T03:43:30Z" changeset="124074654" uid="527105" user="albertoq">
     <tag k="addr:city" v="Caracas"/>
@@ -1737,7 +1579,7 @@
     <tag k="name" v="Coffee Station"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="1573003147" lat="45.6722947" lon="-111.0740457" version="5" timestamp="2016-02-29T00:38:20Z" changeset="37511844" uid="21063" user="davidfg4">
+  <node id="1573003147" lat="45.6722947" lon="-111.0740450" version="6" timestamp="2022-12-20T15:35:07Z" changeset="130296002" uid="17462838" user="MountainCitadel">
     <tag k="addr:city" v="Bozeman"/>
     <tag k="addr:housenumber" v="2740"/>
     <tag k="addr:postcode" v="59718"/>
@@ -1747,7 +1589,7 @@
     <tag k="opening_hours" v="12:00-22:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="406-556-2153"/>
-    <tag k="shop" v="toys"/>
+    <tag k="shop" v="games"/>
   </node>
   <node id="1578098342" lat="54.3157050" lon="8.6083517" version="8" timestamp="2022-08-07T22:37:19Z" changeset="124594517" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Sankt Peter-Ording"/>
@@ -2121,15 +1963,6 @@
     <tag k="shop" v="jewelry"/>
     <tag k="start_date" v="1942"/>
     <tag k="website" v="https://www.gygax.com"/>
-  </node>
-  <node id="1680610339" lat="42.8747552" lon="24.6391290" version="4" timestamp="2019-03-05T02:08:54Z" changeset="67788199" uid="9451067" user="b-jazz-bot">
-    <tag k="name" v="Азарея"/>
-    <tag k="name:en" v="Azareiya"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+359 886 447 943"/>
-    <tag k="source" v="GPS"/>
-    <tag k="tourism" v="guest_house"/>
-    <tag k="website" v="https://azareiya.com/"/>
   </node>
   <node id="1697295288" lat="48.7096216" lon="13.2427051" version="9" timestamp="2022-01-11T17:42:39Z" changeset="116034158" uid="33223" user="k127">
     <tag k="addr:city" v="Eging am See"/>
@@ -3268,24 +3101,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="tourism" v="apartment"/>
     <tag k="website" v="https://www.hiresicily.com/"/>
-  </node>
-  <node id="2194020257" lat="50.4474730" lon="30.5158687" version="14" timestamp="2022-05-26T18:15:46Z" changeset="121539706" uid="94578" user="andygol">
-    <tag k="addr:housenumber" v="49а"/>
-    <tag k="addr:postcode" v="01001"/>
-    <tag k="addr:street" v="Володимирська вулиця"/>
-    <tag k="alt_name" v="Tsiferblat"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="int_name" v="Clockface"/>
-    <tag k="internet_access" v="free"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="Циферблат"/>
-    <tag k="name:en" v="Ziferblat"/>
-    <tag k="name:uk" v="Циферблат"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-23:00; Sa-Su 11:00-23:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+380 63 745 4434"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="website" v="http://kiev.ziferblat.net"/>
   </node>
   <node id="2194699111" lat="45.8900714" lon="11.0411859" version="3" timestamp="2018-12-14T12:06:52Z" changeset="65470666" uid="76312" user="scratera">
     <tag k="addr:city" v="Rovereto"/>
@@ -4706,18 +4521,6 @@
     <tag k="wikidata" v="Q5802027"/>
     <tag k="wikipedia" v="es:Deltaven"/>
   </node>
-  <node id="2398070810" lat="13.7254794" lon="100.5338981" version="4" timestamp="2019-03-30T22:35:58Z" changeset="68711314" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Bangkok"/>
-    <tag k="addr:street" v="Soi Phipat 2"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="international"/>
-    <tag k="name" v="Eat Me Restaurant"/>
-    <tag k="name:en" v="Eat Me Restaurant"/>
-    <tag k="opening_hours" v="Mo-Su 15:00-01:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+66 812936326"/>
-    <tag k="website" v="https://eatmerestaurant.com/"/>
-  </node>
   <node id="2398324330" lat="53.0786473" lon="-7.8818318" version="2" timestamp="2013-07-27T15:16:26Z" changeset="17114996" uid="28559" user="Stemby">
     <tag k="contact:phone" v="+353 57 9120976"/>
     <tag k="contact:website" v="http://irishfarmhouseholiday.com/"/>
@@ -5378,20 +5181,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="sport" v="scuba_diving"/>
     <tag k="website" v="https://www.diveadventurestulum.com/"/>
-  </node>
-  <node id="2443091577" lat="-22.9657072" lon="-43.1796703" version="3" timestamp="2019-03-16T01:10:30Z" changeset="68193643" uid="9451067" user="b-jazz-bot">
-    <tag k="fixme" v="address and exact location?"/>
-    <tag k="name" v="Copa Apartments"/>
-    <tag k="office" v="travel_agent"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://copaapartments.com/"/>
-  </node>
-  <node id="2443122637" lat="51.9298963" lon="-2.4055537" version="3" timestamp="2019-03-22T18:14:34Z" changeset="68422175" uid="9451067" user="b-jazz-bot">
-    <tag k="fixme" v="address and exact location?"/>
-    <tag k="name" v="The Farmhouse"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="tourism" v="apartments"/>
-    <tag k="website" v="https://www.sykescottages.co.uk/cottage/Cotswolds-Gloucestershire-Newent/The-Farmhouse-8590.html"/>
   </node>
   <node id="2443304597" lat="47.6473422" lon="18.3277058" version="4" timestamp="2020-04-30T22:33:39Z" changeset="84441899" uid="1617449" user="aceman444">
     <tag k="addr:street" v="Vágó utca"/>
@@ -6992,11 +6781,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="pastry"/>
   </node>
-  <node id="2514105389" lat="52.3901816" lon="4.8790378" version="2" timestamp="2013-10-30T20:56:12Z" changeset="18624550" uid="1790813" user="peperhuis">
-    <tag k="name" v="Peperhuis.nl"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://peperhuis.nl"/>
-  </node>
   <node id="2514136830" lat="45.6220729" lon="8.8521463" version="5" timestamp="2013-11-04T10:09:34Z" changeset="18708984" uid="28559" user="Stemby">
     <tag k="addr:city" v="Busto Arsizio"/>
     <tag k="addr:housenumber" v="19"/>
@@ -7618,15 +7402,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="310-278-5294"/>
     <tag k="website" v="https://www.lepetitjardinla.com/"/>
-  </node>
-  <node id="2529598418" lat="-27.6042151" lon="-48.4701453" version="4" timestamp="2017-06-27T00:11:42Z" changeset="49849655" uid="2339960" user="adrianojbr">
-    <tag k="addr:housenumber" v="148"/>
-    <tag k="addr:street" v="Rua das Palmeiras"/>
-    <tag k="name" v="Caracol Hostel"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+55 48 3232-5840"/>
-    <tag k="tourism" v="hostel"/>
-    <tag k="website" v="https://www.facebook.com/CaracolHostel"/>
   </node>
   <node id="2529911478" lat="40.7724202" lon="-73.9208813" version="2" timestamp="2019-02-20T13:39:21Z" changeset="67392148" uid="9451067" user="b-jazz-bot">
     <tag k="name" v="Modus POS LLC"/>
@@ -9431,18 +9206,6 @@
     <tag k="survey:date" v="2022-11-04"/>
     <tag k="website" v="http://www.starkmuth.de"/>
   </node>
-  <node id="2552581919" lat="55.8639145" lon="-4.2838254" version="4" timestamp="2020-01-05T12:13:09Z" changeset="79211098" uid="53626" user="jambamkin">
-    <tag k="addr:city" v="Glasgow"/>
-    <tag k="addr:housename" v="Unit 2, Studio 17"/>
-    <tag k="addr:housenumber" v="1103"/>
-    <tag k="addr:postcode" v="G3 8ND"/>
-    <tag k="addr:street" v="Argyle Street"/>
-    <tag k="name" v="Level Up"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+44 845 459 0078"/>
-    <tag k="website" v="https://www.thisislevelup.com/"/>
-  </node>
   <node id="2552584877" lat="49.5932711" lon="17.2273231" version="9" timestamp="2015-04-01T10:19:50Z" changeset="29900969" uid="1819624" user="Masáže Navrátil">
     <tag k="addr:city" v="Olomouc"/>
     <tag k="addr:housename" v="U Kovárny"/>
@@ -9899,12 +9662,6 @@
     <tag k="name" v="Advance Disposal Inc. - Dumpster Rental"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.wastemanagementdumpsters.net/"/>
-  </node>
-  <node id="2554513035" lat="38.9059129" lon="-77.0418924" version="2" timestamp="2015-03-13T22:23:08Z" changeset="29460628" uid="1679" user="andrewpmk">
-    <tag k="name" v="Bitcoin Solutions"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://bitcoindc.com"/>
   </node>
   <node id="2554520397" lat="52.2801839" lon="4.7462920" version="2" timestamp="2019-03-25T20:35:17Z" changeset="68522101" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Schiphol-Rijk"/>
@@ -11324,17 +11081,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.brscpa.com/"/>
   </node>
-  <node id="2562856919" lat="29.7806769" lon="-96.1571874" version="3" timestamp="2019-05-30T14:21:27Z" changeset="70772960" uid="8339" user="mtmail">
-    <tag k="addr:city" v="Sealy"/>
-    <tag k="addr:housenumber" v="14396"/>
-    <tag k="addr:postcode" v="77474"/>
-    <tag k="addr:state" v="TX"/>
-    <tag k="addr:street" v="Highway 1458"/>
-    <tag k="name" v="American Home &amp; Habitat Inc."/>
-    <tag k="note" v="Specialized Textile Outfitters™. Stuff you won't find in a regular fabric store."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.ahh.biz/"/>
-  </node>
   <node id="2562870059" lat="30.6659672" lon="-88.0902513" version="2" timestamp="2015-04-28T16:19:55Z" changeset="30586223" uid="1679" user="andrewpmk">
     <tag k="addr:city" v="Alabama"/>
     <tag k="addr:housenumber" v="716"/>
@@ -11773,11 +11519,6 @@
   <node id="2564367642" lat="43.3544816" lon="-3.0085259" version="2" timestamp="2013-12-08T14:35:25Z" changeset="19341547" uid="181135" user="Manu1400">
     <tag k="name" v="Lindau tejidos."/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="2564375199" lat="35.6734112" lon="139.7340202" version="2" timestamp="2022-10-26T16:57:10Z" changeset="128093846" uid="2104834" user="Igor Bubelov">
-    <tag k="name" v="Syncimage Corporation"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://syncimage.com/"/>
   </node>
   <node id="2564384790" lat="47.3613209" lon="9.0732411" version="4" timestamp="2019-03-21T00:34:39Z" changeset="68357723" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Bütschwil"/>
@@ -12748,23 +12489,6 @@
     <tag k="phone" v="+92 (0)3452980575"/>
     <tag k="website" v="http://symbolizers.com/"/>
   </node>
-  <node id="2573184461" lat="48.1416650" lon="17.1699280" version="5" timestamp="2017-05-19T00:10:26Z" changeset="48806577" uid="1617449" user="aceman444">
-    <tag k="addr:city" v="Bratislava"/>
-    <tag k="addr:country" v="SK"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:postcode" v="821 05"/>
-    <tag k="addr:street" v="Domkárska"/>
-    <tag k="addr:streetnumber" v="6"/>
-    <tag k="description" v="Indoor golf driving range"/>
-    <tag k="golf:course" v="driving_range"/>
-    <tag k="leisure" v="pitch"/>
-    <tag k="name" v="Golf Aréna"/>
-    <tag k="opening_hours" v="Mo-Fr 15:00-21:00; Sa,Su 10:00-21:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+421914148986"/>
-    <tag k="sport" v="golf"/>
-    <tag k="website" v="http://www.golfarena.sk/"/>
-  </node>
   <node id="2573211756" lat="35.4765647" lon="-80.8923301" version="7" timestamp="2019-02-20T03:40:32Z" changeset="67375873" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Cornelius"/>
     <tag k="addr:country" v="US"/>
@@ -13067,18 +12791,6 @@
     <tag k="name" v="GRKreations, Inc."/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.grkreationsdirect.com"/>
-  </node>
-  <node id="2574700930" lat="34.9516797" lon="-120.4335972" version="4" timestamp="2020-01-24T15:29:47Z" changeset="80041383" uid="74746" user="vogelfreier">
-    <tag k="addr:city" v="Santa Maria"/>
-    <tag k="addr:housenumber" v="379"/>
-    <tag k="addr:postcode" v="93454"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="East Main Street"/>
-    <tag k="name" v="Appletree Clothing"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1 8057390100"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="http://www.appletreeclothing.com/"/>
   </node>
   <node id="2574715432" lat="36.0675767" lon="-119.0160916" version="2" timestamp="2019-05-29T14:09:06Z" changeset="70735049" uid="8339" user="mtmail">
     <tag k="addr:city" v="Porterville"/>
@@ -15258,20 +14970,6 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://www.nickhard.com.ar/"/>
   </node>
-  <node id="2600833590" lat="36.5299491" lon="-83.3433808" version="6" timestamp="2018-07-13T15:01:15Z" changeset="60691055" uid="5359" user="user_5359">
-    <tag k="addr:city" v="Sneedville"/>
-    <tag k="addr:housenumber" v="6280"/>
-    <tag k="addr:postcode" v="37869"/>
-    <tag k="addr:street" v="Snake Hollow Rd"/>
-    <tag k="description" v="Only licensed Acupuncturist and licensed Massage Therapist in Hancock County, TN and many surrounding counties."/>
-    <tag k="name" v="Appalachian Wellness Center"/>
-    <tag k="opening_hours" v="&quot;By Appointment Only&quot;"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="+1-423-300-0786"/>
-    <tag k="source" v="Steven Schwartz, L.AC, L.MT., MSAOM"/>
-    <tag k="website" v="http://www.appalachianwellnesscenter.com"/>
-  </node>
   <node id="2600858539" lat="37.7543058" lon="-81.2170620" version="5" timestamp="2020-09-07T11:29:26Z" changeset="90527517" uid="35814" user="bingo">
     <tag k="addr:city" v="Beckley"/>
     <tag k="addr:housenumber" v="1934"/>
@@ -15673,17 +15371,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+33 661200040"/>
     <tag k="website" v="http://www.monfilmvideo.com/"/>
-  </node>
-  <node id="2602979462" lat="33.8633688" lon="-117.8667570" version="3" timestamp="2019-05-27T15:09:42Z" changeset="70665285" uid="8339" user="mtmail">
-    <tag k="addr:city" v="Placentia"/>
-    <tag k="addr:housenumber" v="330e"/>
-    <tag k="addr:postcode" v="92870"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="Orangethorpe Avenue"/>
-    <tag k="name" v="GoGreenSolar"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="(866) 798-4435"/>
-    <tag k="website" v="https://www.gogreensolar.com/"/>
   </node>
   <node id="2602987968" lat="33.7461980" lon="-117.8663132" version="3" timestamp="2019-05-27T15:09:42Z" changeset="70665285" uid="8339" user="mtmail">
     <tag k="addr:city" v="Santa Ana"/>
@@ -18026,17 +17713,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1 978 740 0195"/>
     <tag k="website" v="https://www.apexproduction.com/"/>
-  </node>
-  <node id="2624680727" lat="44.4259466" lon="7.3990832" version="3" timestamp="2015-05-12T14:09:49Z" changeset="31054945" uid="2153674" user="achim becker">
-    <tag k="addr:city" v="Valgrana"/>
-    <tag k="addr:housenumber" v="53"/>
-    <tag k="addr:postcode" v="12020"/>
-    <tag k="addr:street" v="Frazione Bottonasco"/>
-    <tag k="craft" v="handicraft"/>
-    <tag k="name" v="Lidia Marti"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 328 7127966"/>
-    <tag k="website" v="http://www.lidiamarti.it/"/>
   </node>
   <node id="2624759810" lat="39.6319052" lon="-106.2903100" version="5" timestamp="2022-10-02T16:22:44Z" changeset="126900963" uid="668096" user="jmann6">
     <tag k="name" v="Vail Spot"/>
@@ -20497,13 +20173,6 @@
     <tag k="name" v="WXPI Williamsport Community Radio 88.5 FM"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.wxpiradio.org"/>
-  </node>
-  <node id="2656508190" lat="52.3066120" lon="4.6317515" version="2" timestamp="2019-03-25T20:22:47Z" changeset="68521666" uid="9451067" user="b-jazz-bot">
-    <tag k="name" v="Norge Reiser"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="travel_agency"/>
-    <tag k="source" v="www.norgereiser.nl"/>
-    <tag k="website" v="https://www.norgereiser.nl/"/>
   </node>
   <node id="2656518202" lat="52.3672636" lon="6.6005690" version="3" timestamp="2022-11-09T11:37:12Z" changeset="128682963" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Wierden"/>
@@ -23064,18 +22733,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1 877 321 2251"/>
     <tag k="website" v="https://www.parkerweb.com/"/>
-  </node>
-  <node id="2699637059" lat="36.1709972" lon="-81.6715930" version="4" timestamp="2019-12-08T05:38:52Z" changeset="78101683" uid="338843" user="TorCguy">
-    <tag k="addr:city" v="Blowing Rock"/>
-    <tag k="addr:housenumber" v="173"/>
-    <tag k="addr:postcode" v="28605"/>
-    <tag k="addr:state" v="NC"/>
-    <tag k="addr:street" v="Vail Drive"/>
-    <tag k="name" v="Councill Fine Art Studio, LLC"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1 404 210 0866"/>
-    <tag k="website" v="https://councill.net/"/>
   </node>
   <node id="2699643407" lat="36.3109065" lon="-81.6286862" version="2" timestamp="2019-06-04T16:58:09Z" changeset="70930284" uid="8339" user="mtmail">
     <tag k="addr:city" v="Todd"/>
@@ -31334,17 +30991,6 @@
     <tag k="shop" v="gift"/>
     <tag k="website" v="https://thinkingofholland.com/"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="2866562247" lat="13.7205902" lon="100.5392391" version="2" timestamp="2022-05-08T10:37:31Z" changeset="120697011" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Bangkok"/>
-    <tag k="addr:housenumber" v="253/4"/>
-    <tag k="addr:street" v="Suanplu Soi 6,Sathorn Rd.,"/>
-    <tag k="amenity" v="spa"/>
-    <tag k="name" v="The Prince - Men's Spa"/>
-    <tag k="opening_hours" v="13:00 - 21:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+(66 85)429-2222"/>
-    <tag k="website" v="http://www.theprincebkk.com"/>
   </node>
   <node id="2866601643" lat="48.6288458" lon="8.0783975" version="6" timestamp="2022-11-04T20:25:45Z" changeset="128499659" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Achern"/>
@@ -51415,17 +51061,6 @@
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="http://bbvalichalet.it"/>
   </node>
-  <node id="4823861580" lat="45.0675125" lon="7.5836970" version="2" timestamp="2022-12-16T08:21:53Z" changeset="130144525" uid="18002371" user="gianotek">
-    <tag k="addr:city" v="Grugliasco"/>
-    <tag k="addr:housenumber" v="59F"/>
-    <tag k="addr:postcode" v="10095"/>
-    <tag k="addr:street" v="Via Michelangelo"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="name" v="Pizzeria Michelangelo"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="3775533447"/>
-    <tag k="website" v="http://pizzeriaristorantemichelangelo.it/"/>
-  </node>
   <node id="4824578832" lat="45.4746568" lon="9.1917054" version="2" timestamp="2018-02-20T08:53:47Z" changeset="56514018" uid="4533749" user="inbitcoin">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:country" v="IT"/>
@@ -59867,19 +59502,6 @@
     <tag k="name" v="Hotel Sheraton Presidente"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="tourism" v="hotel"/>
-  </node>
-  <node id="6054921369" lat="45.0630022" lon="7.5772359" version="2" timestamp="2019-11-14T21:01:16Z" changeset="77094896" uid="1096195" user="Dardy">
-    <tag k="addr:city" v="Grugliasco"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="10095"/>
-    <tag k="addr:street" v="Via Giovanni Lupo"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="infoenryluxurydealer@gmail.com"/>
-    <tag k="name" v="Enry Luxury Dealer"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
-    <tag k="phone" v="+393289758857"/>
-    <tag k="shop" v="jewelry"/>
   </node>
   <node id="6056377515" lat="47.4933429" lon="8.7092703" version="7" timestamp="2019-06-20T14:36:05Z" changeset="71447504" uid="5755216" user="sovereign_ch">
     <tag k="amenity" v="atm"/>
