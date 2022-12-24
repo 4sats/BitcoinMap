@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-23T05:23:21Z"/>
+<meta osm_base="2022-12-24T05:22:19Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -5187,11 +5187,6 @@
     <tag k="name:en" v="October Bar"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://bitcoin.travel/listings/october-bar/"/>
-  </node>
-  <node id="2443417792" lat="-26.0787750" lon="27.9743119" version="3" timestamp="2019-03-06T17:48:03Z" changeset="67853240" uid="9451067" user="b-jazz-bot">
-    <tag k="name" v="Shawson Plastics"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.shawsonplastics.co.za/"/>
   </node>
   <node id="2443425266" lat="-33.9710175" lon="18.4730030" version="4" timestamp="2014-02-07T15:35:52Z" changeset="20432748" uid="28559" user="Stemby">
     <tag k="description" v="Search Engine Optimization and Internet Marketing"/>
@@ -10938,12 +10933,19 @@
     <tag k="survey:date" v="2022-11-05"/>
     <tag k="website" v="http://www.flexcard.de/"/>
   </node>
-  <node id="2562673593" lat="55.7416792" lon="12.5799785" version="12" timestamp="2017-06-09T18:27:34Z" changeset="49404497" uid="603524" user="Jørn-osm">
+  <node id="2562673593" lat="55.7416792" lon="12.5799785" version="14" timestamp="2022-12-23T20:14:15Z" changeset="130435666" uid="603524" user="Jørn-osm">
+    <tag k="check_date:currency:XBT" v="2022-12-23"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="morten@holdvejret.dk"/>
     <tag k="name" v="SwimOuts Butik"/>
     <tag k="opening_hours" v="00:00-24:00 &quot;webshop&quot;"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="+45 27 21 90 43"/>
     <tag k="shop" v="sports"/>
-    <tag k="website" v="http://www.shop.swimout.dk"/>
+    <tag k="website" v="https://swimout.dk"/>
   </node>
   <node id="2562677182" lat="43.5092204" lon="16.4381985" version="7" timestamp="2020-01-31T19:36:56Z" changeset="80390944" uid="8189075" user="Badojo">
     <tag k="name" v="Vision Optika"/>
@@ -11601,13 +11603,6 @@
     <tag k="name" v="Folklore Design"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://folkloredesign.com.au"/>
-  </node>
-  <node id="2565536418" lat="55.9245071" lon="12.4863919" version="6" timestamp="2019-02-27T22:14:59Z" changeset="67633291" uid="1288" user="Niels Elgaard Larsen">
-    <tag k="name" v="3D-Vizual"/>
-    <tag k="note" v="3D-Visualizations - Architecture"/>
-    <tag k="office" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.3d-vizual.dk"/>
   </node>
   <node id="2565662614" lat="47.6401196" lon="9.1940089" version="3" timestamp="2022-05-05T16:27:33Z" changeset="120597070" uid="135562" user="Seetroll">
     <tag k="addr:city" v="Kreuzlingen"/>
@@ -54265,19 +54260,6 @@
     <tag k="shop" v="doors"/>
     <tag k="website" v="https://aaronoverheaddoors.com"/>
   </node>
-  <node id="5415957929" lat="54.3589945" lon="9.6539661" version="7" timestamp="2022-05-11T06:52:27Z" changeset="120823194" uid="519916" user="googlenaut">
-    <tag k="addr:city" v="Alt Duvenstedt"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:postcode" v="24791"/>
-    <tag k="addr:street" v="Hinterende"/>
-    <tag k="contact:facebook" v="www.facebook.com/jowfoto"/>
-    <tag k="contact:website" v="https://jonatan-wille.de/"/>
-    <tag k="craft" v="photographer"/>
-    <tag k="name" v="Jonatan Wille Fotografie"/>
-    <tag k="opening_hours" v="&quot;Nach Terminabsprache&quot;"/>
-    <tag k="operator" v="Jonatan Wille"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="5418395323" lat="38.9151360" lon="16.5698270" version="2" timestamp="2018-02-17T14:56:19Z" changeset="56441771" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Catanzaro"/>
     <tag k="addr:housenumber" v="94"/>
@@ -65487,21 +65469,6 @@
     <tag k="source" v="NRCan-CanVec-10.0;local knowledge"/>
     <tag k="website" v="www.starlitemarina.com"/>
   </node>
-  <node id="8833775481" lat="-31.6485260" lon="-60.7072691" version="1" timestamp="2021-06-15T00:47:24Z" changeset="106362223" uid="13451879" user="nicolaspapini">
-    <tag k="addr:city" v="Santa Fe"/>
-    <tag k="addr:housenumber" v="2343"/>
-    <tag k="addr:postcode" v="S3000"/>
-    <tag k="addr:street" v="San Martín"/>
-    <tag k="min_age" v="18"/>
-    <tag k="name" v="Eroticos Sex Shop"/>
-    <tag k="opening_hours" v="Mo-Fr 14:00-17:00, Sa 10:00-13:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="shop" v="erotic"/>
-    <tag k="website" v="https://eroticos.com.ar"/>
-  </node>
   <node id="8843256031" lat="-22.7615938" lon="-43.4506516" version="3" timestamp="2021-06-17T21:59:02Z" changeset="106553938" uid="3984659" user="DressyPear4">
     <tag k="contact:email" v="gerencia@souzaengenhariaemanutencao.com.br"/>
     <tag k="contact:instagram" v="https://www.instagram.com/souzaengenhariarj/"/>
@@ -65591,26 +65558,6 @@
     <tag k="office" v="accountant"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.studioepicoco.net"/>
-  </node>
-  <node id="8932901140" lat="51.0597924" lon="13.7426033" version="4" timestamp="2022-11-04T20:30:25Z" changeset="128499803" uid="17441326" user="BSN21M">
-    <tag k="addr:city" v="Dresden"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:postcode" v="01097"/>
-    <tag k="addr:street" v="Hauptstraße"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="theodoros.vichos@web.de"/>
-    <tag k="name" v="Sokrates"/>
-    <tag k="opening_hours" v="Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su,PH off"/>
-    <tag k="operator" v="Theodoros „Theo“ Vichos"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="no"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+49 176 81471522"/>
-    <tag k="shop" v="farm"/>
-    <tag k="survey:date" v="2022-11-04"/>
-    <tag k="url" v="https://www.neustadt-ticker.de/160973/alltag/vorgestellt/reif-von-der-insel-honig-und-olivenoel"/>
   </node>
   <node id="8933065434" lat="51.2010857" lon="13.1655246" version="3" timestamp="2022-11-04T20:06:33Z" changeset="128499079" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Ostrau"/>
