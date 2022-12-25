@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-24T05:22:19Z"/>
+<meta osm_base="2022-12-25T05:22:46Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -33,20 +33,6 @@
     <tag k="name" v="STM Kiosk - Erfrischungen, Tabak, Zeitschriften"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="kiosk"/>
-  </node>
-  <node id="270376208" lat="52.3679569" lon="9.7208159" version="7" timestamp="2020-05-22T14:06:20Z" changeset="85616391" uid="1219639" user="pzumk">
-    <tag k="addr:city" v="Hannover"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="Schwarzer Bär"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="name" v="The Harp"/>
-    <tag k="opening_hours" v="Mo 16:30-01:00, Tu-Su 12:00-20:00"/>
-    <tag k="payment:apple_pay" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:girocard" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="smoking" v="outside"/>
   </node>
   <node id="279471686" lat="55.6786451" lon="12.5789419" version="12" timestamp="2022-02-27T12:59:48Z" changeset="117907192" uid="1288" user="Niels Elgaard Larsen">
     <tag k="amenity" v="pub"/>
@@ -384,22 +370,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-780-433-3096"/>
     <tag k="website" v="https://remedycafe.ca/"/>
-  </node>
-  <node id="660838616" lat="44.2744446" lon="-71.5403094" version="6" timestamp="2021-12-27T16:42:48Z" changeset="115434860" uid="307520" user="wolfgang8741">
-    <tag k="addr:city" v="Twin Mountain"/>
-    <tag k="addr:housename" v="Twin Mountain Country Store"/>
-    <tag k="addr:housenumber" v="P.O. Box 308"/>
-    <tag k="addr:postcode" v="03595"/>
-    <tag k="addr:street" v="130 Route 3 North"/>
-    <tag k="amenity" v="fuel"/>
-    <tag k="brand" v="Irving"/>
-    <tag k="brand:wikidata" v="Q1673286"/>
-    <tag k="brand:wikipedia" v="en:Irving Oil"/>
-    <tag k="building" v="commercial"/>
-    <tag k="food" v="deli"/>
-    <tag k="name" v="Irving"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-603-846-5552"/>
   </node>
   <node id="663434366" lat="52.2937191" lon="14.0639909" version="8" timestamp="2022-11-04T20:11:37Z" changeset="128499215" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Bad Saarow"/>
@@ -1366,7 +1336,7 @@
     <tag k="opening_hours" v="07:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="1409036548" lat="10.4932851" lon="-66.8481501" version="11" timestamp="2022-07-26T03:43:30Z" changeset="124074654" uid="527105" user="albertoq">
+  <node id="1409036548" lat="10.4932851" lon="-66.8481501" version="12" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Chacao"/>
@@ -1376,6 +1346,8 @@
     <tag k="addr:street" v="Av. Del Ávila"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
     <tag k="currency:EUR" v="yes"/>
@@ -1403,10 +1375,7 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="1413993833" lat="42.3641718" lon="-71.1020228" version="7" timestamp="2022-10-16T23:34:28Z" changeset="127641582" uid="17422908" user="Sophia McMonagle">
     <tag k="addr:housenumber" v="524"/>
@@ -1622,7 +1591,7 @@
     <tag k="rooms" v="4"/>
     <tag k="tourism" v="guest_house"/>
   </node>
-  <node id="1585874861" lat="10.5028467" lon="-66.8479456" version="14" timestamp="2022-07-22T04:14:18Z" changeset="123917952" uid="527105" user="albertoq">
+  <node id="1585874861" lat="10.5028467" lon="-66.8479456" version="15" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Chacao"/>
@@ -1632,6 +1601,8 @@
     <tag k="addr:street" v="Av. Luis Roche"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
@@ -1661,10 +1632,7 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="1590910234" lat="48.1466359" lon="17.1297292" version="19" timestamp="2022-06-17T07:39:58Z" changeset="122495093" uid="4815" user="*Martin*">
     <tag k="brand" v="Alza"/>
@@ -2975,7 +2943,7 @@
     <tag k="website" v="https://www.anstec.de"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2163051519" lat="10.4758472" lon="-66.9459402" version="30" timestamp="2022-07-20T04:11:09Z" changeset="123830710" uid="527105" user="albertoq">
+  <node id="2163051519" lat="10.4758472" lon="-66.9459402" version="31" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Libertador"/>
@@ -2985,6 +2953,8 @@
     <tag k="addr:street" v="Av. José Antonio Páez"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="compressed_air" v="yes"/>
@@ -3013,13 +2983,10 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="toilets" v="no"/>
     <tag k="vacuum_cleaner" v="no"/>
     <tag k="water_tap" v="yes"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2166427051" lat="-37.8304900" lon="144.9568940" version="7" timestamp="2016-05-06T02:18:14Z" changeset="39133346" uid="3007" user="Hotwheelz">
     <tag k="addr:city" v="South Melbourne"/>
@@ -3205,7 +3172,7 @@
     <tag k="phone" v="+381 63326075"/>
     <tag k="website" v="http://www.ineo.rs/"/>
   </node>
-  <node id="2245322788" lat="10.4943800" lon="-66.9201525" version="28" timestamp="2022-07-21T00:47:15Z" changeset="123870421" uid="527105" user="albertoq">
+  <node id="2245322788" lat="10.4943800" lon="-66.9201525" version="29" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Libertador"/>
@@ -3215,6 +3182,8 @@
     <tag k="addr:street" v="Av. Baralt"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="compressed_air" v="yes"/>
@@ -3244,13 +3213,10 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="toilets" v="no"/>
     <tag k="vacuum_cleaner" v="no"/>
     <tag k="water_tap" v="yes"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2249328556" lat="32.0714337" lon="34.7803113" version="4" timestamp="2017-06-06T09:15:40Z" changeset="49299149" uid="5816834" user="SafwatHalaby_bot">
     <tag k="amenity" v="bar"/>
@@ -3298,12 +3264,14 @@
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="http://www.hotelvitral.com/"/>
   </node>
-  <node id="2264067712" lat="10.4727833" lon="-66.8067822" version="14" timestamp="2022-08-20T01:58:22Z" changeset="125131213" uid="527105" user="albertoq">
+  <node id="2264067712" lat="10.4727833" lon="-66.8067822" version="15" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:postcode" v="1073"/>
     <tag k="addr:street" v="Av. Tamanaco"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
     <tag k="currency:EUR" v="yes"/>
@@ -3327,10 +3295,7 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2264596312" lat="43.7198511" lon="10.3973046" version="10" timestamp="2022-07-01T10:36:55Z" changeset="123080354" uid="332066" user="Tyde">
     <tag k="amenity" v="atm"/>
@@ -3775,7 +3740,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.restaurant-karakter.nl/"/>
   </node>
-  <node id="2304243139" lat="10.5181401" lon="-66.9160529" version="20" timestamp="2022-07-21T00:47:15Z" changeset="123870421" uid="527105" user="albertoq">
+  <node id="2304243139" lat="10.5181401" lon="-66.9160529" version="21" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Libertador"/>
@@ -3785,6 +3750,8 @@
     <tag k="addr:street" v="Av. Baralt"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="compressed_air" v="yes"/>
@@ -3814,13 +3781,10 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="toilets" v="no"/>
     <tag k="vacuum_cleaner" v="no"/>
     <tag k="water_tap" v="yes"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2306079328" lat="-41.2744749" lon="173.2858799" version="7" timestamp="2018-06-11T16:17:16Z" changeset="59747475" uid="118021" user="maggot27">
     <tag k="addr:city" v="Nelson"/>
@@ -4347,7 +4311,7 @@
     <tag k="shop" v="alcohol"/>
     <tag k="website" v="https://www.pivoljub.si/"/>
   </node>
-  <node id="2389792278" lat="10.4987643" lon="-66.9076350" version="18" timestamp="2022-08-20T01:58:22Z" changeset="125131213" uid="527105" user="albertoq">
+  <node id="2389792278" lat="10.4987643" lon="-66.9076350" version="19" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Libertador"/>
@@ -4356,6 +4320,8 @@
     <tag k="addr:street" v="Av. Lecuna"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="compressed_air" v="no"/>
@@ -4383,21 +4349,20 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="toilets" v="no"/>
     <tag k="vacuum_cleaner" v="no"/>
     <tag k="water_tap" v="no"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
-  <node id="2391018730" lat="10.4946216" lon="-66.8271075" version="11" timestamp="2022-08-05T23:50:07Z" changeset="124542864" uid="527105" user="albertoq">
+  <node id="2391018730" lat="10.4946216" lon="-66.8271075" version="12" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:postcode" v="1071"/>
     <tag k="addr:street" v="Av. Rómulo Gallegos"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
     <tag k="currency:EUR" v="yes"/>
@@ -4423,10 +4388,7 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2395659878" lat="-16.5000010" lon="-68.1458878" version="3" timestamp="2014-04-22T20:36:18Z" changeset="21872323" uid="1836471" user="Blobo123">
     <tag k="addr:city" v="La Paz"/>
@@ -4477,7 +4439,7 @@
     <tag k="website" v="https://www.brotundmehr-dresden.com/"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2397989645" lat="10.4974738" lon="-66.9013071" version="21" timestamp="2022-08-20T01:58:22Z" changeset="125131213" uid="527105" user="albertoq">
+  <node id="2397989645" lat="10.4974738" lon="-66.9013071" version="22" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Libertador"/>
@@ -4486,6 +4448,8 @@
     <tag k="addr:street" v="Av. Lecuna"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="compressed_air" v="no"/>
@@ -4513,13 +4477,10 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="toilets" v="no"/>
     <tag k="vacuum_cleaner" v="no"/>
     <tag k="water_tap" v="no"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2398324330" lat="53.0786473" lon="-7.8818318" version="2" timestamp="2013-07-27T15:16:26Z" changeset="17114996" uid="28559" user="Stemby">
     <tag k="contact:phone" v="+353 57 9120976"/>
@@ -4671,7 +4632,7 @@
     <tag k="phone" v="+1 509 3822520"/>
     <tag k="website" v="http://manilabaycafe.com/"/>
   </node>
-  <node id="2417298974" lat="10.5043377" lon="-66.8872753" version="18" timestamp="2022-07-20T04:11:09Z" changeset="123830710" uid="527105" user="albertoq">
+  <node id="2417298974" lat="10.5043377" lon="-66.8872753" version="19" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Libertador"/>
@@ -4681,6 +4642,8 @@
     <tag k="addr:street" v="Av. Andrés Bello"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="compressed_air" v="yes"/>
@@ -4708,13 +4671,10 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="toilets" v="no"/>
     <tag k="vacuum_cleaner" v="no"/>
     <tag k="water_tap" v="yes"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2417414871" lat="43.2116164" lon="27.9279826" version="14" timestamp="2022-10-07T23:52:45Z" changeset="127177032" uid="1934624" user="Boris Angelov">
     <tag k="email" v="reservations@holidaydelux.com"/>
@@ -4813,7 +4773,7 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://www.computershop.pisa.it/"/>
   </node>
-  <node id="2426931328" lat="10.4870369" lon="-66.8692662" version="14" timestamp="2022-07-21T01:19:11Z" changeset="123870762" uid="527105" user="albertoq">
+  <node id="2426931328" lat="10.4870369" lon="-66.8692662" version="15" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Baruta"/>
@@ -4823,6 +4783,8 @@
     <tag k="addr:street" v="Harward"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
     <tag k="currency:EUR" v="yes"/>
@@ -4850,10 +4812,7 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2427120184" lat="47.0516746" lon="21.9180194" version="5" timestamp="2020-01-26T07:17:15Z" changeset="80089338" uid="1778799" user="SomeoneElse_Revert">
     <tag k="Clasificar" v="3"/>
@@ -4956,7 +4915,7 @@
     <tag k="toilets:wheelchair" v="no"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2435940454" lat="10.5017885" lon="-66.8725574" version="21" timestamp="2022-08-20T01:58:22Z" changeset="125131213" uid="527105" user="albertoq">
+  <node id="2435940454" lat="10.5017885" lon="-66.8725574" version="22" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Libertador"/>
@@ -4965,6 +4924,8 @@
     <tag k="addr:street" v="Av. Los Mangos"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="compressed_air" v="no"/>
@@ -4993,13 +4954,10 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="toilets" v="no"/>
     <tag k="vacuum_cleaner" v="no"/>
     <tag k="water_tap" v="no"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2439718515" lat="43.6633694" lon="-111.3075235" version="5" timestamp="2019-02-17T08:47:36Z" changeset="67273136" uid="5800005" user="b-jazz">
     <tag k="fixme" v="exact location and address?"/>
@@ -5567,7 +5525,7 @@
     <tag k="name" v="Puppy Paws"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2468885510" lat="10.4880880" lon="-66.8678404" version="12" timestamp="2022-07-21T01:19:11Z" changeset="123870762" uid="527105" user="albertoq">
+  <node id="2468885510" lat="10.4880880" lon="-66.8678404" version="13" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:housename" v="Estación de Servicios El Rosal"/>
@@ -5575,6 +5533,8 @@
     <tag k="addr:street" v="Av. Guaicaipuro"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
     <tag k="currency:EUR" v="yes"/>
@@ -5602,10 +5562,7 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2469625366" lat="6.2449132" lon="-75.5648017" version="2" timestamp="2022-05-12T02:39:32Z" changeset="120864261" uid="9451067" user="b-jazz-bot">
     <tag k="name" v="Mata Candelas"/>
@@ -6055,7 +6012,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.supremewriting.com/"/>
   </node>
-  <node id="2496572997" lat="10.4882513" lon="-66.8567916" version="16" timestamp="2022-07-22T03:58:46Z" changeset="123917664" uid="527105" user="albertoq">
+  <node id="2496572997" lat="10.4882513" lon="-66.8567916" version="17" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Chacao"/>
@@ -6065,6 +6022,8 @@
     <tag k="addr:street" v="Av. Andrés Galarraga"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
@@ -6093,12 +6052,9 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
-  <node id="2496573022" lat="10.4875115" lon="-66.8574140" version="12" timestamp="2022-07-21T03:54:27Z" changeset="123872524" uid="527105" user="albertoq">
+  <node id="2496573022" lat="10.4875115" lon="-66.8574140" version="13" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Chacao"/>
@@ -6108,6 +6064,8 @@
     <tag k="addr:street" v="Av. Andrés Galarraga"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="yes"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
@@ -6134,12 +6092,9 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
-  <node id="2496687755" lat="10.4951716" lon="-66.8507455" version="12" timestamp="2022-07-22T03:58:46Z" changeset="123917664" uid="527105" user="albertoq">
+  <node id="2496687755" lat="10.4951716" lon="-66.8507455" version="13" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Chacao"/>
@@ -6149,6 +6104,8 @@
     <tag k="addr:street" v="Av. Francisco de Miranda"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
@@ -6176,10 +6133,7 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2497029328" lat="55.6775841" lon="12.6060480" version="4" timestamp="2017-04-11T20:12:55Z" changeset="47668795" uid="603524" user="Jørn-osm">
     <tag k="ele" v="5"/>
@@ -6217,7 +6171,7 @@
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2013-09-08"/>
   </node>
-  <node id="2498628566" lat="10.4972806" lon="-66.8560526" version="12" timestamp="2022-07-22T03:58:46Z" changeset="123917664" uid="527105" user="albertoq">
+  <node id="2498628566" lat="10.4972806" lon="-66.8560526" version="13" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Chacao"/>
@@ -6227,6 +6181,8 @@
     <tag k="addr:street" v="Av. Blandín"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
@@ -6255,12 +6211,9 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
-  <node id="2498665364" lat="10.4975622" lon="-66.8548223" version="11" timestamp="2022-07-22T03:58:46Z" changeset="123917664" uid="527105" user="albertoq">
+  <node id="2498665364" lat="10.4975622" lon="-66.8548223" version="12" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Chacao"/>
@@ -6270,6 +6223,8 @@
     <tag k="addr:street" v="Av. Blandín"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
@@ -6298,12 +6253,9 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
-  <node id="2499478429" lat="10.5021096" lon="-66.8498990" version="13" timestamp="2022-07-22T03:58:46Z" changeset="123917664" uid="527105" user="albertoq">
+  <node id="2499478429" lat="10.5021096" lon="-66.8498990" version="14" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Chacao"/>
@@ -6313,6 +6265,8 @@
     <tag k="addr:street" v="Av. San Juan Bosco"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
@@ -6342,10 +6296,7 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2500574302" lat="36.1704451" lon="-115.1415320" version="3" timestamp="2017-04-02T03:34:37Z" changeset="47371985" uid="624323" user="bryceco">
     <tag k="name" v="Castro's Cigars"/>
@@ -6471,12 +6422,6 @@
     <tag k="shop" v="pet"/>
     <tag k="website" v="https://telepienso.com"/>
   </node>
-  <node id="2505154980" lat="36.7224679" lon="-4.4831773" version="2" timestamp="2020-09-30T09:22:02Z" changeset="91757228" uid="10080656" user="dcapillae">
-    <tag k="amenity" v="dancing_school"/>
-    <tag k="name" v="Clases de Salsa en Málaga"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://clasesdesalsaenmalaga.com"/>
-  </node>
   <node id="2505159241" lat="36.7283489" lon="-4.5326313" version="2" timestamp="2020-09-30T09:23:59Z" changeset="91757351" uid="10080656" user="dcapillae">
     <tag k="name" v="Dr. Pet"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -6495,7 +6440,7 @@
     <tag k="phone" v="+56-9-58923675"/>
     <tag k="website" v="https://www.facebook.com/tkdelitte.elitte"/>
   </node>
-  <node id="2506191436" lat="10.4977588" lon="-66.8428012" version="10" timestamp="2022-07-26T03:43:30Z" changeset="124074654" uid="527105" user="albertoq">
+  <node id="2506191436" lat="10.4977588" lon="-66.8428012" version="11" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Chacao"/>
@@ -6505,6 +6450,8 @@
     <tag k="addr:street" v="4ª Av. de Los Palos Grandes"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
     <tag k="currency:EUR" v="yes"/>
@@ -6533,10 +6480,7 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2507267859" lat="45.4760803" lon="-73.6228022" version="5" timestamp="2019-02-21T02:03:17Z" changeset="67414105" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Montreal"/>
@@ -6582,7 +6526,7 @@
     <tag k="shop" v="e-cigarette"/>
     <tag k="website" v="http://savesmoking.com/"/>
   </node>
-  <node id="2508945073" lat="10.4857854" lon="-66.8549502" version="10" timestamp="2022-07-27T01:32:07Z" changeset="124117253" uid="527105" user="albertoq">
+  <node id="2508945073" lat="10.4857854" lon="-66.8549502" version="11" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:full" v="Centro Comercial Ciudad Tamanaco, Etapa 1, Nivel C1, Chuao"/>
     <tag k="addr:housename" v="C.C Ciudad Tamanaco"/>
@@ -6595,7 +6539,6 @@
     <tag k="contact:facebook" v="https://www.facebook.com/TiendasBECO/"/>
     <tag k="contact:instagram" v="https://www.instagram.com/Tiendas_BECO/"/>
     <tag k="contact:twitter" v="https://twitter.com/Tiendas_BECO"/>
-    <tag k="contact:youtube" v="https://www.youtube.com/watch?v=I9J59fEsqKY"/>
     <tag k="currency:BsF" v="yes"/>
     <tag k="currency:EUR" v="yes"/>
     <tag k="currency:USD" v="yes"/>
@@ -6619,7 +6562,6 @@
     <tag k="phone" v="+58-212-9590292"/>
     <tag k="shop" v="department_store"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="start_date" v="01-01-1961"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.beco.com.ve/"/>
@@ -6761,12 +6703,6 @@
     <tag k="name" v="Homestead"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://homesteadnola.com"/>
-  </node>
-  <node id="2514268484" lat="43.6423248" lon="-79.3744899" version="3" timestamp="2014-04-04T01:00:30Z" changeset="21486767" uid="1679" user="andrewpmk">
-    <tag k="name" v="WebRocker - Web Design, Development, Internet Marketing Services"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://webrockerinc.com/"/>
   </node>
   <node id="2514354008" lat="-31.4377660" lon="-64.1422711" version="3" timestamp="2013-12-12T10:09:36Z" changeset="19409991" uid="1836471" user="Blobo123">
     <tag k="name" v="Mercadito Natural"/>
@@ -13065,7 +13001,7 @@
     <tag k="phone" v="+1 2124330127"/>
     <tag k="website" v="https://paramountrugs.com/"/>
   </node>
-  <node id="2576291673" lat="10.4868176" lon="-66.8240004" version="9" timestamp="2022-08-05T23:50:07Z" changeset="124542864" uid="527105" user="albertoq">
+  <node id="2576291673" lat="10.4868176" lon="-66.8240004" version="10" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:housename" v="Estación de Servicios Boleíta"/>
@@ -13073,6 +13009,8 @@
     <tag k="addr:street" v="Av. Francisco de Miranda"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
     <tag k="currency:EUR" v="yes"/>
@@ -13100,10 +13038,7 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2576355932" lat="54.0580873" lon="-2.8472655" version="6" timestamp="2019-02-27T13:44:16Z" changeset="67618381" uid="161022" user="gurglypipe">
     <tag k="addr:city" v="moreambe"/>
@@ -19146,7 +19081,7 @@
     <tag k="shop" v="kiosk"/>
     <tag k="website" v="http://www.bitcoinkiosk.ch/"/>
   </node>
-  <node id="2642516853" lat="10.4923669" lon="-66.8187533" version="11" timestamp="2022-08-06T00:51:02Z" changeset="124543504" uid="527105" user="albertoq">
+  <node id="2642516853" lat="10.4923669" lon="-66.8187533" version="12" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:housename" v="Estación de Servicios Santa María"/>
@@ -19154,6 +19089,8 @@
     <tag k="addr:street" v="Av. Rómulo Gallegos"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="yes"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
@@ -19182,10 +19119,7 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="2642535274" lat="43.0486045" lon="-87.9683827" version="3" timestamp="2016-03-07T05:09:30Z" changeset="37658290" uid="1743198" user="MidwestMapGeek">
     <tag k="addr:city" v="Milwaukee"/>
@@ -34707,7 +34641,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://bitpay.com"/>
   </node>
-  <node id="3044750815" lat="10.4487535" lon="-66.9877759" version="10" timestamp="2022-07-08T22:39:04Z" changeset="123383458" uid="527105" user="albertoq">
+  <node id="3044750815" lat="10.4487535" lon="-66.9877759" version="11" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Libertador"/>
@@ -34718,6 +34652,8 @@
     <tag k="addr:street" v="Autopista: Francisco Fajardo"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="compressed_air" v="yes"/>
@@ -34747,13 +34683,10 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="toilets" v="no"/>
     <tag k="vacuum_cleaner" v="no"/>
     <tag k="water_tap" v="yes"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="3045536212" lat="37.9587691" lon="23.7227108" version="2" timestamp="2015-12-16T23:10:13Z" changeset="35999736" uid="23785" user="greecemapper">
     <tag k="addr:city" v="Athens"/>
@@ -37894,7 +37827,7 @@
     <tag k="shop" v="storage_rental"/>
     <tag k="website" v="https://www.facebook.com/Colstorage"/>
   </node>
-  <node id="3192392018" lat="10.4930737" lon="-66.8309179" version="11" timestamp="2022-08-05T23:50:07Z" changeset="124542864" uid="527105" user="albertoq">
+  <node id="3192392018" lat="10.4930737" lon="-66.8309179" version="12" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:housename" v="Estación de Servicios Tauro"/>
@@ -37902,6 +37835,8 @@
     <tag k="addr:street" v="Av. Francisco de Miranda"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
     <tag k="currency:EUR" v="yes"/>
@@ -37930,10 +37865,7 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="3194210082" lat="38.9288482" lon="-94.7406720" version="4" timestamp="2019-05-18T14:38:40Z" changeset="70388899" uid="243003" user="skquinn">
     <tag k="addr:city" v="Lenexa"/>
@@ -38766,12 +38698,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1 502-264-2353"/>
     <tag k="website" v="http://webdesignpop.com"/>
-  </node>
-  <node id="3235785924" lat="52.3676228" lon="9.7199541" version="1" timestamp="2014-12-15T08:42:09Z" changeset="27476673" uid="2397160" user="ricferrer">
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="burger"/>
-    <tag k="name" v="Ohnesorg Burgerbar"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="3235809367" lat="52.3671366" lon="9.7172370" version="7" timestamp="2017-12-23T00:15:44Z" changeset="54853697" uid="7272314" user="marc__marc">
     <tag k="addr:housenumber" v="20"/>
@@ -43416,23 +43342,6 @@
     <tag k="wikidata" v="Q1713594"/>
     <tag k="wikipedia" v="de:TAK (Kabarettbühne)"/>
   </node>
-  <node id="3512715250" lat="52.3671165" lon="9.7170930" version="1" timestamp="2015-05-12T16:33:18Z" changeset="31058410" uid="1181386" user="hirtem">
-    <tag k="addr:city" v="Hannover"/>
-    <tag k="addr:country" v="DE"/>
-    <tag k="addr:housenumber" v="20a"/>
-    <tag k="addr:postcode" v="30449"/>
-    <tag k="addr:street" v="Falkenstraße"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="Insider"/>
-    <tag k="opening_hours" v="Tu-Fr 15:00-24:00; Sa 14:00-24:00; Su 00:00-03:00,15:00-21:00"/>
-    <tag k="operator" v="Sabira Globisch"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="smoking" v="yes"/>
-    <tag k="sport" v="darts"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
   <node id="3514910125" lat="47.1416346" lon="9.5202688" version="5" timestamp="2019-02-02T16:56:58Z" changeset="66860086" uid="3524812" user="SWF8">
     <tag k="addr:city" v="Vaduz"/>
     <tag k="addr:country" v="LI"/>
@@ -45484,7 +45393,7 @@
     <tag k="website" v="https://chainblock.it"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3798603107" lat="10.4582090" lon="-66.9131360" version="15" timestamp="2022-07-08T22:39:04Z" changeset="123383458" uid="527105" user="albertoq">
+  <node id="3798603107" lat="10.4582090" lon="-66.9131360" version="16" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Libertador"/>
@@ -45495,6 +45404,8 @@
     <tag k="addr:street" v="Autopista Valle - Coche"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="compressed_air" v="yes"/>
@@ -45524,13 +45435,10 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="toilets" v="yes"/>
     <tag k="vacuum_cleaner" v="no"/>
     <tag k="water_tap" v="yes"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="3806001862" lat="45.9695214" lon="12.6748597" version="2" timestamp="2017-12-19T18:41:50Z" changeset="54767442" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Pordenone"/>
@@ -46690,7 +46598,7 @@
     <tag k="wikidata" v="Q5719205"/>
     <tag k="wikipedia" v="es:Bar El Cairo"/>
   </node>
-  <node id="4207915392" lat="10.5114737" lon="-66.9386752" version="15" timestamp="2022-07-08T22:39:04Z" changeset="123383458" uid="527105" user="albertoq">
+  <node id="4207915392" lat="10.5114737" lon="-66.9386752" version="16" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Libertador"/>
@@ -46700,6 +46608,8 @@
     <tag k="addr:street" v="Real de los Flores"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="compressed_air" v="yes"/>
@@ -46728,13 +46638,10 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="toilets" v="no"/>
     <tag k="vacuum_cleaner" v="no"/>
     <tag k="water_tap" v="yes"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="4209211044" lat="21.8821833" lon="-102.2923415" version="3" timestamp="2018-09-13T22:51:48Z" changeset="62567532" uid="8819854" user="Puma Osorio">
     <tag k="addr:city" v="Aguascalientes"/>
@@ -59667,7 +59574,7 @@
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://satoshicommerce.org/"/>
   </node>
-  <node id="6621457076" lat="10.4977197" lon="-66.8401353" version="9" timestamp="2022-07-26T03:43:30Z" changeset="124074654" uid="527105" user="albertoq">
+  <node id="6621457076" lat="10.4977197" lon="-66.8401353" version="10" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Sucre"/>
@@ -59677,6 +59584,8 @@
     <tag k="addr:street" v="Av. Rómulo Gallegos"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
     <tag k="currency:EUR" v="yes"/>
@@ -59704,10 +59613,7 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="6636265066" lat="23.0851425" lon="-82.4987066" version="2" timestamp="2022-09-13T21:48:19Z" changeset="126154266" uid="14738282" user="Lol59">
     <tag k="name" v="Pilar SNET ROG"/>
@@ -63393,31 +63299,6 @@
     <tag k="phone" v="+49 821 81549940"/>
     <tag k="website" v="https://studionapoli.de"/>
   </node>
-  <node id="8279006396" lat="36.7193016" lon="-4.4304368" version="3" timestamp="2020-12-31T15:36:09Z" changeset="96741519" uid="2771691" user="minold1">
-    <tag k="addr:city" v="Málaga"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="29007"/>
-    <tag k="addr:street" v="Calle Doña Enriqueta"/>
-    <tag k="amenity" v="language_school"/>
-    <tag k="description:en" v="Spanish courses in Malaga Spain and online. All levels, whole year."/>
-    <tag k="description:es" v="Cursos de español en Málaga, España, y en línea. Todos los niveles, todo el año."/>
-    <tag k="email" v="academia@aifp.org"/>
-    <tag k="image" v="https://www.aifp.org/imagenes/muelle1-estudiantes-2k.jpg"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="language:de" v="yes"/>
-    <tag k="language:en" v="yes"/>
-    <tag k="language:es" v="yes"/>
-    <tag k="name" v="Spanish School AIFP de Pepe"/>
-    <tag k="office" v="educational_institution"/>
-    <tag k="operator" v="Academia AIFP de Pepe"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="+34952227699"/>
-    <tag k="website" v="https://aifp.org"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="8285704219" lat="45.6882334" lon="9.3471917" version="2" timestamp="2022-01-23T19:39:24Z" changeset="116512657" uid="28559" user="Stemby">
     <tag k="addr:housenumber" v="37"/>
     <tag k="addr:street" v="Via Adda"/>
@@ -63933,7 +63814,7 @@
     <tag k="website" v="https://home.traki.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8443790332" lat="10.4958004" lon="-66.8801319" version="2" timestamp="2022-08-07T04:19:45Z" changeset="124582826" uid="527105" user="albertoq">
+  <node id="8443790332" lat="10.4958004" lon="-66.8801319" version="3" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:full" v="Sabana Grande Edif. La Kapitana"/>
     <tag k="addr:housename" v="Edificio La Kapitana"/>
@@ -63945,7 +63826,6 @@
     <tag k="contact:facebook" v="https://www.facebook.com/TRAKIenganchate/posts/ciudad-traki-caracas-maiquet%C3%ADa-calle-san-sebasti%C3%A1n-de-navarrete-antiguo-cine-par/519739901397417/"/>
     <tag k="contact:instagram" v="https://www.instagram.com/trakienganchate/"/>
     <tag k="contact:twitter" v="https://twitter.com/trakienganchate?lang=en"/>
-    <tag k="contact:youtube" v="https://www.youtube.com/channel/UCwWvColQIgu8eWlD3zBAzMg"/>
     <tag k="currency:BsF" v="yes"/>
     <tag k="currency:EUR" v="yes"/>
     <tag k="currency:USD" v="yes"/>
@@ -63970,7 +63850,6 @@
     <tag k="phone" v="+58-412-6080349"/>
     <tag k="shop" v="department_store"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="start_date" v="01-01-2000"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://home.traki.com/"/>
@@ -64020,7 +63899,7 @@
     <tag k="survey:date" v="2022-11-05"/>
     <tag k="website" v="http://www.tandartspraktijkhageland.be/"/>
   </node>
-  <node id="8460141640" lat="10.4417423" lon="-66.9901181" version="6" timestamp="2022-07-08T22:39:04Z" changeset="123383458" uid="527105" user="albertoq">
+  <node id="8460141640" lat="10.4417423" lon="-66.9901181" version="7" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Libertador"/>
@@ -64031,6 +63910,8 @@
     <tag k="addr:street" v="Distribuidor: Caricuao"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="compressed_air" v="yes"/>
@@ -64060,13 +63941,10 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="toilets" v="no"/>
     <tag k="vacuum_cleaner" v="no"/>
     <tag k="water_tap" v="yes"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="8463374018" lat="40.0323768" lon="-0.1926021" version="2" timestamp="2021-02-27T11:43:00Z" changeset="100093711" uid="12752824" user="Masia Villalonga">
     <tag k="addr:city" v="l´Alcora"/>
@@ -65903,415 +65781,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:ethereum" v="yes"/>
   </node>
-  <node id="9129896983" lat="33.5388593" lon="-86.8291127" version="2" timestamp="2022-10-07T05:27:11Z" changeset="127131674" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Birmingham"/>
-    <tag k="addr:housenumber" v="1525"/>
-    <tag k="addr:postcode" v="35204"/>
-    <tag k="addr:state" v="AL"/>
-    <tag k="addr:street" v="Finley Boulevard"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24x7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9129931812" lat="32.3700017" lon="-86.1405527" version="2" timestamp="2022-10-02T16:58:56Z" changeset="126902284" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Montgomery"/>
-    <tag k="addr:housenumber" v="9250"/>
-    <tag k="addr:postcode" v="36117"/>
-    <tag k="addr:state" v="AL"/>
-    <tag k="addr:street" v="Atlanta Highway"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9129966540" lat="32.3759748" lon="-86.3234769" version="2" timestamp="2022-10-04T13:28:31Z" changeset="126996212" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Montgomery"/>
-    <tag k="addr:housenumber" v="215"/>
-    <tag k="addr:postcode" v="36104"/>
-    <tag k="addr:state" v="AL"/>
-    <tag k="addr:street" v="Dickerson Street"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9130015177" lat="33.5317388" lon="-86.7696769" version="3" timestamp="2022-10-07T05:26:04Z" changeset="127131625" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Birmingham"/>
-    <tag k="addr:housenumber" v="4356"/>
-    <tag k="addr:postcode" v="35222"/>
-    <tag k="addr:state" v="AL"/>
-    <tag k="addr:street" v="1st Avenue North"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="Mo-Su 05:00-23:00"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9130016554" lat="32.3085007" lon="-86.3887450" version="2" timestamp="2022-10-04T13:29:11Z" changeset="126996248" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Montgomery"/>
-    <tag k="addr:housenumber" v="4400"/>
-    <tag k="addr:postcode" v="36108"/>
-    <tag k="addr:state" v="AL"/>
-    <tag k="addr:street" v="Selma Highway"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9132433077" lat="32.5217703" lon="-87.8379345" version="2" timestamp="2022-10-05T15:20:44Z" changeset="127053127" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Demopolis"/>
-    <tag k="addr:housenumber" v="605"/>
-    <tag k="addr:postcode" v="36732"/>
-    <tag k="addr:state" v="AL"/>
-    <tag k="addr:street" v="N Walnut Avenue"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="image" v="https://www.google.co.in/search?q=bitcoin+of+america&amp;client=safari&amp;channel=iphone_bm&amp;sxsrf=AOaemvLUWD8NZ8MjhRV_TJg_edaAo6xtFQ:1632926853415&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwiLu6rItqTzAhXa6nMBHa0kDEEQ_AUoA3oECAEQBQ&amp;biw=1380&amp;bih=776&amp;dpr=1#imgrc=_dJYkfha"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9132437171" lat="33.4968701" lon="-86.8773216" version="2" timestamp="2022-10-07T05:28:42Z" changeset="127131744" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Birmingham"/>
-    <tag k="addr:housenumber" v="2258"/>
-    <tag k="addr:postcode" v="35208"/>
-    <tag k="addr:state" v="AL"/>
-    <tag k="addr:street" v="Bessemer Road"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9132480953" lat="33.5057524" lon="-86.8496512" version="2" timestamp="2022-10-05T15:28:35Z" changeset="127053570" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Birmingham"/>
-    <tag k="addr:housenumber" v="800"/>
-    <tag k="addr:postcode" v="35204"/>
-    <tag k="addr:state" v="AL"/>
-    <tag k="addr:street" v="3rd Avenue West"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9132493817" lat="33.4656633" lon="-86.8221976" version="2" timestamp="2022-10-07T05:29:24Z" changeset="127131791" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Homewood"/>
-    <tag k="addr:housenumber" v="250"/>
-    <tag k="addr:postcode" v="35209"/>
-    <tag k="addr:state" v="AL"/>
-    <tag k="addr:street" v="Green Springs Highway"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9132529068" lat="32.3520197" lon="-86.2625101" version="2" timestamp="2022-10-04T13:27:47Z" changeset="126996176" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Montgomery"/>
-    <tag k="addr:housenumber" v="3000"/>
-    <tag k="addr:postcode" v="36106"/>
-    <tag k="addr:state" v="AL"/>
-    <tag k="addr:street" v="Vaughn Road"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9132533065" lat="33.5516261" lon="-86.7377670" version="2" timestamp="2022-10-05T15:21:37Z" changeset="127053179" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Birmingham"/>
-    <tag k="addr:housenumber" v="6805"/>
-    <tag k="addr:postcode" v="35206"/>
-    <tag k="addr:state" v="AL"/>
-    <tag k="addr:street" v="1st Avenue North"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9132552634" lat="33.4941844" lon="-86.8287596" version="3" timestamp="2022-10-07T05:28:05Z" changeset="127131719" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Birmingham"/>
-    <tag k="addr:housenumber" v="74"/>
-    <tag k="addr:postcode" v="35205"/>
-    <tag k="addr:state" v="AL"/>
-    <tag k="addr:street" v="6th Avenue South"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="Mo-Su 05:00-24:00"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9135176628" lat="34.2064879" lon="-92.0075090" version="3" timestamp="2022-10-07T05:30:57Z" changeset="127131856" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Pine Bluff"/>
-    <tag k="addr:housenumber" v="2202"/>
-    <tag k="addr:postcode" v="71601"/>
-    <tag k="addr:state" v="AR"/>
-    <tag k="addr:street" v="South Olive Street"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="Mo-Sa 08:30-21:00, Su 11:00-18:00"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9155543623" lat="43.5184901" lon="16.4840943" version="3" timestamp="2021-10-22T05:39:51Z" changeset="112819512" uid="9451067" user="b-jazz-bot">
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="Shitcoins ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:dash" v="no"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="payment:tether" v="yes"/>
-    <tag k="website" v="https://shitcoins.club/"/>
-  </node>
-  <node id="9157491008" lat="33.6416020" lon="-112.0305370" version="2" timestamp="2022-10-08T03:09:31Z" changeset="127180276" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Phoenix"/>
-    <tag k="addr:housenumber" v="17027"/>
-    <tag k="addr:postcode" v="85032"/>
-    <tag k="addr:state" v="AZ"/>
-    <tag k="addr:street" v="North Cave Creek Road"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9157678916" lat="33.6412095" lon="-112.0044050" version="2" timestamp="2022-10-08T03:10:26Z" changeset="127180302" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Phoenix"/>
-    <tag k="addr:housenumber" v="3610"/>
-    <tag k="addr:postcode" v="85032"/>
-    <tag k="addr:state" v="AZ"/>
-    <tag k="addr:street" v="East Bell Road"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9157701809" lat="33.6408240" lon="-112.0476770" version="2" timestamp="2022-10-08T03:08:43Z" changeset="127180259" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Phoenix"/>
-    <tag k="addr:housenumber" v="1602"/>
-    <tag k="addr:postcode" v="85022"/>
-    <tag k="addr:state" v="AZ"/>
-    <tag k="addr:street" v="East Bell Road"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9158073612" lat="33.4741669" lon="-112.1090280" version="3" timestamp="2022-10-07T05:32:13Z" changeset="127131902" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Phoenix"/>
-    <tag k="addr:country" v="US"/>
-    <tag k="addr:housenumber" v="2308"/>
-    <tag k="addr:postcode" v="85009"/>
-    <tag k="addr:state" v="AZ"/>
-    <tag k="addr:street" v="Grand Avenue"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
-  <node id="9158342617" lat="32.3523216" lon="-111.0463610" version="4" timestamp="2022-10-13T04:54:54Z" changeset="127445823" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Tucson"/>
-    <tag k="addr:housenumber" v="3780"/>
-    <tag k="addr:postcode" v="85741"/>
-    <tag k="addr:state" v="AZ"/>
-    <tag k="addr:street" v="West Magee Road"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin of America is one most popular Bitcoin ATM operators with huge network of crypto ATMs and tablet locations around the United States. Receive your BTC instantly!"/>
-    <tag k="email" v="support@bitcoinofamerica.org"/>
-    <tag k="name" v="Bitcoin of America Bitcoin ATM"/>
-    <tag k="opening_hours" v="Mo-Th 06:00-20:00, Fr-Sa 06:00-21:00, Su 06:00-20:00"/>
-    <tag k="operator" v="Bitcoin of America"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="888-502-5003"/>
-    <tag k="website" v="https://www.bitcoinofamerica.org/"/>
-  </node>
   <node id="9174513637" lat="51.0844763" lon="13.7078460" version="3" timestamp="2022-11-04T20:31:58Z" changeset="128499864" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Dresden"/>
     <tag k="addr:country" v="DE"/>
@@ -67541,7 +67010,7 @@
     <tag k="phone" v="+905303874520"/>
     <tag k="website" v="https://nakitcoins.com/"/>
   </node>
-  <node id="9672096323" lat="10.3807768" lon="-66.9642869" version="5" timestamp="2022-08-20T01:57:29Z" changeset="125131207" uid="527105" user="albertoq">
+  <node id="9672096323" lat="10.3807768" lon="-66.9642869" version="6" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="San Antonio de Los Altos"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:postcode" v="1204"/>
@@ -67549,6 +67018,8 @@
     <tag k="alt_name" v="E/S La Oveja Negra"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="currency:BsF" v="yes"/>
     <tag k="currency:EUR" v="yes"/>
@@ -67578,10 +67049,7 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="9672277983" lat="42.3280080" lon="21.1964116" version="2" timestamp="2022-08-23T13:55:36Z" changeset="125273557" uid="4719901" user="osm_saint-louis">
     <tag k="addr:city" v="Ferizaj"/>
@@ -67832,7 +67300,7 @@
     <tag k="website" v="https://melisak.ir"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9765730160" lat="10.5134108" lon="-66.9149880" version="4" timestamp="2022-07-27T05:47:47Z" changeset="124121481" uid="527105" user="albertoq">
+  <node id="9765730160" lat="10.5134108" lon="-66.9149880" version="5" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:district" v="Municipio Libertador"/>
@@ -67841,6 +67309,8 @@
     <tag k="addr:street" v="Avenida Norte 4"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="compressed_air" v="yes"/>
@@ -67869,13 +67339,10 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="toilets" v="no"/>
     <tag k="vacuum_cleaner" v="no"/>
     <tag k="water_tap" v="yes"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="9769979930" lat="40.7635880" lon="-73.9717920" version="1" timestamp="2022-05-25T14:37:51Z" changeset="121479308" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="New York"/>
@@ -68187,7 +67654,7 @@
     <tag k="shop" v="convenience"/>
     <tag k="website" v="https://www.royalcanincr.com/"/>
   </node>
-  <node id="9871391304" lat="10.0906558" lon="-69.2105857" version="2" timestamp="2022-07-08T22:39:04Z" changeset="123383458" uid="527105" user="albertoq">
+  <node id="9871391304" lat="10.0906558" lon="-69.2105857" version="3" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Barquisimeto"/>
     <tag k="addr:country" v="VE"/>
     <tag k="addr:place" v="Caseteja"/>
@@ -68195,6 +67662,8 @@
     <tag k="addr:street" v="Autopista Cimarrón Andresote"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="PDV"/>
+    <tag k="brand:wikidata" v="Q5802027"/>
+    <tag k="brand:wikipedia" v="es:Deltaven"/>
     <tag k="car_wash" v="no"/>
     <tag k="charge" v="0.50 USD"/>
     <tag k="compressed_air" v="yes"/>
@@ -68223,12 +67692,9 @@
     <tag k="self_service" v="no"/>
     <tag k="shop" v="yes"/>
     <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
     <tag k="vacuum_cleaner" v="no"/>
     <tag k="water_tap" v="yes"/>
     <tag k="wheelchair" v="limited"/>
-    <tag k="wikidata" v="Q5802027"/>
-    <tag k="wikipedia" v="es:Deltaven"/>
   </node>
   <node id="9871780015" lat="39.5570767" lon="16.1199379" version="1" timestamp="2022-07-07T07:55:36Z" changeset="123305715" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="San Marco Argentano"/>
