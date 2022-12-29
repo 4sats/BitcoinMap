@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-28T05:23:16Z"/>
+<meta osm_base="2022-12-29T05:23:47Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -2030,7 +2030,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.ru-sprachstudio.ch/"/>
   </node>
-  <node id="1771089204" lat="43.0413920" lon="-76.1187824" version="10" timestamp="2021-06-01T00:19:56Z" changeset="105648034" uid="12470629" user="nysgissam_dead10ck">
+  <node id="1771089204" lat="43.0413920" lon="-76.1187824" version="11" timestamp="2022-12-28T23:48:47Z" changeset="130622432" uid="77904" user="Kristjan ESPERANTO">
     <tag k="addr:city" v="Syracuse"/>
     <tag k="addr:country" v="US"/>
     <tag k="addr:housenumber" v="110"/>
@@ -2046,7 +2046,7 @@
     <tag k="nysgissam:nysaddresspointid" v="ONON187668"/>
     <tag k="opening_hours" v="Mo-Su 10:00-24:00"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="315 410 0090"/>
+    <tag k="phone" v="+1 315-410-0090"/>
     <tag k="shop" v="coffee_roasting"/>
     <tag k="website" v="https://recesscoffee.com/"/>
     <tag k="wheelchair" v="yes"/>
@@ -2320,17 +2320,17 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.boca-gastrobar.de"/>
   </node>
-  <node id="1973299158" lat="27.7713577" lon="-82.6414109" version="8" timestamp="2019-02-25T03:05:18Z" changeset="67533532" uid="8610118" user="OSMWeekly">
+  <node id="1973299158" lat="27.7713577" lon="-82.6414109" version="9" timestamp="2022-12-28T19:38:47Z" changeset="130615975" uid="77904" user="Kristjan ESPERANTO">
     <tag k="addr:city" v="Saint Petersburg"/>
     <tag k="addr:housenumber" v="571"/>
     <tag k="addr:state" v="FL"/>
     <tag k="addr:street" v="Central Avenue"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="(727)894-5990"/>
+    <tag k="contact:phone" v="+1 727-894-5990"/>
     <tag k="cuisine" v="thai"/>
     <tag k="diet:vegetarian" v="yes"/>
     <tag k="name" v="9 Bangkok Thai Restaurant"/>
-    <tag k="opening_hours" v="Mo-Th 11:00-14:30,17:00-21:30;Fr-Sa 11:00-14:30,17:00-22:00"/>
+    <tag k="opening_hours" v="Mo-Th 11:00-14:30,17:00-21:30; Fr-Sa 11:00-14:30,17:00-22:00"/>
     <tag k="outdoor_seating" v="no"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="smoking" v="no"/>
@@ -2795,13 +2795,14 @@
     <tag k="phone" v="+393381970269"/>
     <tag k="shop" v="shoes"/>
   </node>
-  <node id="2206971358" lat="27.7712825" lon="-82.6539520" version="8" timestamp="2021-10-04T23:38:24Z" changeset="112098432" uid="55916" user="maxolasersquad">
+  <node id="2206971358" lat="27.7712825" lon="-82.6539520" version="9" timestamp="2022-12-28T19:39:33Z" changeset="130616001" uid="77904" user="Kristjan ESPERANTO">
     <tag k="addr:city" v="Saint Petersburg"/>
     <tag k="addr:housenumber" v="1437"/>
     <tag k="addr:postcode" v="33705"/>
     <tag k="addr:state" v="FL"/>
     <tag k="addr:street" v="Central Avenue"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/brooklynsouthcheese/"/>
     <tag k="cuisine" v="sandwich"/>
     <tag k="diet:vegan" v="no"/>
     <tag k="diet:vegetarian" v="yes"/>
@@ -2809,10 +2810,9 @@
     <tag k="opening_hours" v="Mo-We 10:00-18:00; Th,Fr 10:00-21:00; Sa 10:00-16:00"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="(727) 914-4967"/>
+    <tag k="phone" v="+1 727-914-4967"/>
     <tag k="smoking" v="outside"/>
     <tag k="takeaway" v="yes"/>
-    <tag k="website" v="https://www.facebook.com/pages/Brooklyn-South/450217021791221"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2209127103" lat="50.6385357" lon="3.0687399" version="5" timestamp="2021-12-21T08:27:27Z" changeset="115196471" uid="172867" user="AmiFritz">
@@ -4274,20 +4274,6 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="tourism" v="apartment"/>
     <tag k="website" v="https://www.vrbo.com/73892"/>
-  </node>
-  <node id="2439828699" lat="40.4983219" lon="-111.8847053" version="6" timestamp="2019-06-09T05:21:41Z" changeset="71063293" uid="2888253" user="mapman44">
-    <tag k="addr:city" v="Draper"/>
-    <tag k="addr:housenumber" v="13955"/>
-    <tag k="addr:postcode" v="84020"/>
-    <tag k="addr:state" v="UT"/>
-    <tag k="addr:street" v="S Bangerter Parkway"/>
-    <tag k="brand" v="Jiffy Lube"/>
-    <tag k="brand:wikidata" v="Q6192247"/>
-    <tag k="brand:wikipedia" v="en:Jiffy Lube"/>
-    <tag k="building" v="yes"/>
-    <tag k="name" v="Jiffy Lube"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="car_repair"/>
   </node>
   <node id="2440664011" lat="37.7587119" lon="-122.4178384" version="1" timestamp="2013-08-31T18:24:50Z" changeset="17607806" uid="1715009" user="RenSylvain">
     <tag k="building" v="house"/>
@@ -9364,7 +9350,7 @@
     <tag k="office" v="lawyer"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2558806888" lat="45.7759391" lon="14.2089087" version="3" timestamp="2014-01-19T14:52:43Z" changeset="20085882" uid="128017" user="wmann">
+  <node id="2558806888" lat="45.7759148" lon="14.2089228" version="4" timestamp="2022-12-28T05:29:01Z" changeset="130582959" uid="2146151" user="Joško Horvat">
     <tag k="name" v="ProteusLab"/>
     <tag k="office" v="it"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -15965,35 +15951,6 @@
     <tag k="phone" v="5618332886"/>
     <tag k="website" v="www.theinsurance4u.com"/>
   </node>
-  <node id="2622372991" lat="40.9155356" lon="14.7838057" version="5" timestamp="2019-07-12T07:53:06Z" changeset="72166727" uid="1624486" user="thetornado76">
-    <tag k="addr:city" v="Avellino"/>
-    <tag k="addr:housename" v="c/o Studio Psicologi associati"/>
-    <tag k="addr:housenumber" v="3/1"/>
-    <tag k="addr:postcode" v="83100"/>
-    <tag k="addr:street" v="Via Sottotenente Giovanni Iannaccone"/>
-    <tag k="amenity" v="doctors"/>
-    <tag k="description" v="Psicologa psicoterapeuta cognitivo-comportamentale."/>
-    <tag k="healthcare" v="doctor"/>
-    <tag k="healthcare:speciality" v="psychiatry"/>
-    <tag k="name" v="Dott.ssa Simona Guglielmucci"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="+39 347 589 4998"/>
-  </node>
-  <node id="2622393444" lat="41.8550212" lon="12.5627506" version="5" timestamp="2019-05-01T09:19:56Z" changeset="69760918" uid="1624486" user="thetornado76">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:postcode" v="00175"/>
-    <tag k="addr:street" v="Via Quintilio Varo"/>
-    <tag k="amenity" v="doctors"/>
-    <tag k="contact:phone" v="+39 347 589 4998"/>
-    <tag k="description" v="Psicologa psicoterapeuta cognitivo-comportamentale."/>
-    <tag k="healthcare" v="doctor"/>
-    <tag k="healthcare:speciality" v="psychiatry"/>
-    <tag k="name" v="Dott.ssa Simona Guglielmucci"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-  </node>
   <node id="2622401951" lat="25.6364239" lon="-80.3867961" version="3" timestamp="2019-05-29T15:11:53Z" changeset="70737385" uid="8339" user="mtmail">
     <tag k="addr:city" v="Miami"/>
     <tag k="addr:housenumber" v="14157"/>
@@ -16350,15 +16307,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="shoes"/>
     <tag k="website" v="http://www.ventemamita.com"/>
-  </node>
-  <node id="2625352733" lat="45.4294073" lon="-75.6928184" version="9" timestamp="2019-06-22T08:05:43Z" changeset="71503988" uid="3199858" user="Mateusz Konieczny - bot account">
-    <tag k="addr:housenumber" v="89"/>
-    <tag k="addr:street" v="Clarence Street"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="description" v="Located inside Clock Tower Brew Pub"/>
-    <tag k="name" v="BitAccess Bitcoin ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.bitaccess.co/"/>
   </node>
   <node id="2625391485" lat="38.6080150" lon="-90.3206249" version="1" timestamp="2014-01-17T00:07:19Z" changeset="20043397" uid="1889223" user="VarietyClub">
     <tag k="addr:city" v="Maplewood"/>
@@ -18863,30 +18811,6 @@
     <tag k="shop" v="mobile_phone"/>
     <tag k="website" v="http://iPhix.no"/>
   </node>
-  <node id="2663639900" lat="38.8189134" lon="-77.1040669" version="4" timestamp="2018-03-31T05:39:56Z" changeset="57679896" uid="7637564" user="rusefkuma">
-    <tag k="addr:city" v="Alexandria"/>
-    <tag k="addr:housenumber" v="845"/>
-    <tag k="addr:state" v="VA"/>
-    <tag k="addr:street" v="North Howard Street"/>
-    <tag k="amenity" v="school"/>
-    <tag k="designation" v="preschool"/>
-    <tag k="name" v="Creative Play School"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="703-751-3388"/>
-    <tag k="website" v="http://creativeplayschool.biz"/>
-  </node>
-  <node id="2663676935" lat="38.8248736" lon="-77.0596409" version="5" timestamp="2021-07-12T11:54:50Z" changeset="107837277" uid="5215025" user="RunTrails">
-    <tag k="addr:city" v="Alexandria"/>
-    <tag k="addr:housenumber" v="100"/>
-    <tag k="addr:postcode" v="22301"/>
-    <tag k="addr:street" v="East Windsor Avenue"/>
-    <tag k="amenity" v="school"/>
-    <tag k="designation" v="Preschool / Aftercare"/>
-    <tag k="name" v="Creative Play School"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="703-836-7090"/>
-    <tag k="website" v="http://creativeplayschool.biz"/>
-  </node>
   <node id="2664021065" lat="43.6862617" lon="-79.4134188" version="5" timestamp="2019-03-19T03:45:24Z" changeset="68279734" uid="9451067" user="b-jazz-bot">
     <tag k="name" v="Rescope Design"/>
     <tag k="office" v="company"/>
@@ -20153,21 +20077,6 @@
     <tag k="phone" v="+1-204-963-7355"/>
     <tag k="website" v="http://www.joshnekrep.com"/>
   </node>
-  <node id="2683026884" lat="30.2666660" lon="-97.7420565" version="4" timestamp="2014-04-26T14:33:06Z" changeset="21955558" uid="28559" user="Stemby">
-    <tag k="addr:city" v="Austin"/>
-    <tag k="addr:housename" v="HandleBar"/>
-    <tag k="addr:housenumber" v="121"/>
-    <tag k="addr:postcode" v="78701"/>
-    <tag k="addr:street" v="East 5th Street"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="cash_in" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Bitcoin ATM"/>
-    <tag k="opening_hours" v="Mo-Sa 14:00-02:00; Su 12:00-02:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="website" v="http://mylocalbitcoinatm.com/"/>
-  </node>
   <node id="2683028886" lat="39.1222948" lon="-77.2350793" version="4" timestamp="2019-02-20T21:16:34Z" changeset="67408126" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Gaithersburg"/>
     <tag k="addr:postcode" v="20878"/>
@@ -20982,18 +20891,6 @@
     <tag k="opening_hours" v="We,Th 16:00-21:00; Fr-Sa 16:00-23:00; Su 13:00-21:00; Mo-Tu closed"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://bitcoinpuertori.co/listings/yias-chef-tino/"/>
-  </node>
-  <node id="2700745338" lat="30.2235953" lon="-97.7671829" version="2" timestamp="2019-06-22T08:12:52Z" changeset="71504096" uid="3199858" user="Mateusz Konieczny - bot account">
-    <tag k="addr:city" v="Austin"/>
-    <tag k="addr:housename" v="Central Texas Gun Works"/>
-    <tag k="addr:housenumber" v="321"/>
-    <tag k="addr:postcode" v="78704"/>
-    <tag k="addr:street" v="West Ben White Boulevard, #203"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="Bitcoin ATM"/>
-    <tag k="operator" v="Coin Vault ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.coinvaultatm.com/"/>
   </node>
   <node id="2701154177" lat="-6.1848967" lon="106.8374622" version="1" timestamp="2014-03-04T11:40:39Z" changeset="20908326" uid="1651798" user="oldenburg69">
     <tag k="addr:city" v="Jakarta"/>
@@ -22272,17 +22169,6 @@
     <tag k="phone" v="3032800100"/>
     <tag k="shop" v="anime"/>
     <tag k="website" v="https://mkt.com/boss-stage-arcade"/>
-  </node>
-  <node id="2722769627" lat="-37.8838685" lon="145.0782706" version="9" timestamp="2015-05-08T23:11:40Z" changeset="30922816" uid="1981763" user="rosscampbell">
-    <tag k="atm" v="yes"/>
-    <tag k="description" v="Bitcoin Teller Machines &amp; Website Intergration."/>
-    <tag k="name" v=":: Bitcoin ATM ::  Operated by Cryptolink"/>
-    <tag k="note" v="Bitcoin Teller Machine located inside Mr Pilgrim Cafe.  Fast anonymous purchase of bitcoin. No ID Required."/>
-    <tag k="opening_hours" v="Mr Pilgrim opening hours."/>
-    <tag k="operator" v="Cryptolink"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="website" v="http://www.cryptolink.net.au"/>
   </node>
   <node id="2722820127" lat="-27.4585750" lon="153.0363692" version="5" timestamp="2019-12-14T04:56:23Z" changeset="78399155" uid="461130" user="Fizzie41">
     <tag k="addr:city" v="Brisbane"/>
@@ -23635,7 +23521,7 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://ricebowlkc.com/"/>
   </node>
-  <node id="2729898995" lat="38.9586518" lon="-95.2781318" version="3" timestamp="2022-05-20T19:26:58Z" changeset="121258479" uid="11447701" user="jake_penguins">
+  <node id="2729898995" lat="38.9586518" lon="-95.2781318" version="4" timestamp="2022-12-28T21:59:09Z" changeset="130620138" uid="77904" user="Kristjan ESPERANTO">
     <tag k="addr:city" v="Lawrence"/>
     <tag k="addr:housenumber" v="1410"/>
     <tag k="addr:postcode" v="66049"/>
@@ -23643,7 +23529,7 @@
     <tag k="addr:street" v="Kasold Drive"/>
     <tag k="addr:unit" v="13"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="785-843-8650"/>
+    <tag k="contact:phone" v="+1 785-843-8650"/>
     <tag k="cuisine" v="chinese"/>
     <tag k="delivery" v="yes"/>
     <tag k="description" v="BTC payment via Menufy."/>
@@ -23651,7 +23537,6 @@
     <tag k="name" v="Jade Garden"/>
     <tag k="opening_hours" v="11:00-22:00"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-785-843-8650"/>
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.jadegardenonline.com/"/>
@@ -23680,21 +23565,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://wildpho.com/"/>
-  </node>
-  <node id="2730693695" lat="39.3278122" lon="-94.9211598" version="4" timestamp="2020-01-25T22:27:27Z" changeset="80085522" uid="7480943" user="cropmapper">
-    <tag k="addr:housenumber" v="707"/>
-    <tag k="addr:street" v="Metropolitan Avenue"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="brand" v="Little Caesars"/>
-    <tag k="brand:wikidata" v="Q1393809"/>
-    <tag k="contact:phone" v="913-682-2888"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Little Caesars"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="http://littlecaesarsleavenworth.com/"/>
   </node>
   <node id="2730712608" lat="38.9705575" lon="-94.7616936" version="3" timestamp="2022-05-17T20:26:21Z" changeset="121116921" uid="5446055" user="torapa">
     <tag k="addr:city" v="Lenexa"/>
@@ -23744,21 +23614,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://changswokolathe.com/"/>
-  </node>
-  <node id="2731043382" lat="38.8841285" lon="-94.8067382" version="4" timestamp="2020-01-25T22:27:27Z" changeset="80085522" uid="7480943" user="cropmapper">
-    <tag k="addr:housenumber" v="600"/>
-    <tag k="addr:street" v="East Santa Fe Street"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="brand" v="Little Caesars"/>
-    <tag k="brand:wikidata" v="Q1393809"/>
-    <tag k="contact:phone" v="913-780-5999"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Little Caesars"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="http://littlecaesarssantafe.com/"/>
   </node>
   <node id="2731148883" lat="38.9093109" lon="-94.7663088" version="2" timestamp="2014-04-12T17:53:03Z" changeset="21650733" uid="396746" user="DigitalDan">
     <tag k="addr:housenumber" v="11953"/>
@@ -28105,7 +27960,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.zauber.es"/>
   </node>
-  <node id="2848342461" lat="47.2250881" lon="8.8338872" version="20" timestamp="2020-09-20T20:22:54Z" changeset="91187775" uid="317694" user="dbrgn">
+  <node id="2848342461" lat="47.2250881" lon="8.8338872" version="21" timestamp="2022-12-28T15:30:59Z" changeset="130607574" uid="317694" user="dbrgn">
     <tag k="addr:city" v="Jona"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="8645"/>
@@ -28114,7 +27969,7 @@
     <tag k="craft" v="electronics_repair"/>
     <tag k="drink:beer" v="yes"/>
     <tag k="drink:club-mate" v="yes"/>
-    <tag k="drink:espresso" v="yes"/>
+    <tag k="drink:coffee" v="yes"/>
     <tag k="leisure" v="hackerspace"/>
     <tag k="level" v="-1"/>
     <tag k="name" v="Coredump Hacker- und Makerspace"/>
@@ -28485,17 +28340,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.keksargaebed.hu"/>
   </node>
-  <node id="2863468926" lat="34.8581067" lon="136.5250470" version="1" timestamp="2014-05-17T04:14:08Z" changeset="22382426" uid="2079145" user="Raimu">
-    <tag k="addr:city" v="Suzuka"/>
-    <tag k="addr:housenumber" v="5769-9"/>
-    <tag k="addr:postcode" v="513-0825"/>
-    <tag k="addr:street" v="Sumiyoshi"/>
-    <tag k="building" v="office"/>
-    <tag k="name" v="Raimu, Inc. (Robocoin ATM)"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+81-59-378-6648"/>
-    <tag k="website" v="http://www55.atpages.jp/robocoin/"/>
-  </node>
   <node id="2863510616" lat="40.7749016" lon="-73.9119381" version="5" timestamp="2016-10-02T19:24:09Z" changeset="42589859" uid="3178375" user="LeTopographeFou">
     <tag k="addr:city" v="Astoria"/>
     <tag k="addr:housenumber" v="22-49"/>
@@ -28521,14 +28365,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+351 224 057734"/>
     <tag k="website" v="http://www.tek4shop.com"/>
-  </node>
-  <node id="2865312433" lat="46.3313177" lon="-79.4652823" version="5" timestamp="2019-12-28T23:32:04Z" changeset="78967900" uid="5789626" user="DannyMcD">
-    <tag k="addr:street" v="112 Spencer Ave"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="BitAccess Bitcoin ATM"/>
-    <tag k="operator" v="Crypto-Kiosk"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.crypto-kiosk.ca"/>
   </node>
   <node id="2865584564" lat="39.1068802" lon="-76.8497071" version="3" timestamp="2014-06-05T23:34:13Z" changeset="22765222" uid="1836471" user="Blobo123">
     <tag k="addr:city" v="Laurel"/>
@@ -29117,19 +28953,6 @@
     <tag k="name" v="Thompson Photography"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2884944001" lat="47.3849692" lon="8.5208927" version="4" timestamp="2018-01-18T12:46:28Z" changeset="55548916" uid="1234273" user="d_berger">
-    <tag k="addr:city" v="Zürich"/>
-    <tag k="addr:housenumber" v="93"/>
-    <tag k="addr:postcode" v="8005"/>
-    <tag k="addr:street" v="Viaduktstrasse"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="Bitcoin ATM - Bitcoin Suisse AG"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-19:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="phone" v="+41 79 196 08 82"/>
-    <tag k="website" v="https://bitcoinsuisse.ch/"/>
-  </node>
   <node id="2885053255" lat="45.6173889" lon="9.4548558" version="4" timestamp="2018-07-04T12:32:16Z" changeset="60407881" uid="4413023" user="realjep">
     <tag k="addr:city" v="Busnago"/>
     <tag k="addr:housenumber" v="2"/>
@@ -29284,11 +29107,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="esperancephoto.com"/>
   </node>
-  <node id="2889675524" lat="36.1691770" lon="-115.1427878" version="4" timestamp="2014-12-01T22:45:29Z" changeset="27167931" uid="1408522" user="Omnific">
-    <tag k="amenity" v="vending_machine"/>
-    <tag k="name" v="RoboCoin BitCoin ATM Exchange Kiosk"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="2889681908" lat="36.1694379" lon="-115.1413590" version="5" timestamp="2022-02-20T17:28:32Z" changeset="117647916" uid="11449922" user="Franck Durand Robin">
     <tag k="aerialway" v="zip_line"/>
     <tag k="name" v="Slotzilla Zipline"/>
@@ -29389,16 +29207,6 @@
     <tag k="internet_access:fee" v="no"/>
     <tag k="name" v="Mr Pilgrim"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="2895257558" lat="-33.8706558" lon="151.2079719" version="3" timestamp="2016-05-06T02:21:24Z" changeset="39133378" uid="1466296" user="BalancingBean">
-    <tag k="addr:city" v="Sydney"/>
-    <tag k="addr:postcode" v="2000"/>
-    <tag k="addr:street" v="Pitt Street"/>
-    <tag k="amenity" v="atm;bureau_de_change"/>
-    <tag k="name" v="Australian Bitcoin ATMs"/>
-    <tag k="note" v="Australia's first bitcoin automatic teller machine, administered by ABA Technologies."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://abatech.com.au/"/>
   </node>
   <node id="2895792107" lat="26.7093804" lon="-80.0509985" version="4" timestamp="2017-02-13T19:07:38Z" changeset="46058262" uid="52797" user="hofoen">
     <tag k="addr:city" v="West Palm Beach"/>
@@ -29649,12 +29457,6 @@
     <tag k="source:date" v="2014-06-06"/>
     <tag k="website" v="https://www.autogreven.nl/"/>
   </node>
-  <node id="2903361247" lat="45.4237223" lon="-75.6811485" version="5" timestamp="2019-09-12T13:47:28Z" changeset="74394659" uid="215433" user="zzptichka">
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="Bitcoin ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-  </node>
   <node id="2903608857" lat="-28.0064261" lon="153.4300337" version="5" timestamp="2019-03-27T08:38:49Z" changeset="68577298" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Surfers Paradise"/>
     <tag k="addr:housenumber" v="11/9"/>
@@ -29779,19 +29581,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+64 7 929 8570"/>
     <tag k="website" v="https://www.craftytrout.co.nz/"/>
-  </node>
-  <node id="2910233849" lat="35.6619472" lon="139.7347039" version="4" timestamp="2014-09-07T17:47:19Z" changeset="25291809" uid="1716608" user="rauschwerk">
-    <tag k="amenity" v="atm"/>
-    <tag k="cash_in" v="yes"/>
-    <tag k="currency:JPY" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Bitcoin ATM"/>
-    <tag k="operator" v="Robocoin"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coins" v="no"/>
-    <tag k="payment:credit_cards" v="no"/>
-    <tag k="payment:debit_cards" v="no"/>
-    <tag k="payment:notes" v="yes"/>
   </node>
   <node id="2911703845" lat="30.6726361" lon="-96.3696534" version="8" timestamp="2020-10-03T21:34:01Z" changeset="91915349" uid="1868422" user="falcon2">
     <tag k="addr:city" v="Bryan"/>
@@ -29973,16 +29762,6 @@
     <tag k="name" v="Freshii"/>
     <tag k="opening_hours" v="Mo-We 07:00-21:00, Th,Fr 07:00-22:00, Sa 08:00-22:00, Su 10:00-20:00"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="2916594970" lat="53.5272754" lon="-113.2943741" version="2" timestamp="2019-03-06T06:49:39Z" changeset="67832513" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:housenumber" v="2016"/>
-    <tag k="addr:street" v="Sherwood Drive"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="description" v="Located in Franklin's Inn. Available 24/7/365."/>
-    <tag k="name" v="Bitcoin Solutions ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.reddit.com/r/Bitcoin/comments/285ja2/247_bitcoin_atm_available_for_edmonton_and_area/"/>
-    <tag k="website" v="https://www.btcsolutions.ca/"/>
   </node>
   <node id="2918056723" lat="40.4198264" lon="-3.6913229" version="5" timestamp="2017-01-31T14:38:42Z" changeset="45687021" uid="526776" user="Graeme Herbert">
     <tag k="addr:city" v="Madrid"/>
@@ -30175,21 +29954,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="computer"/>
   </node>
-  <node id="2928687515" lat="35.6596347" lon="139.7238133" version="7" timestamp="2022-10-26T17:06:33Z" changeset="128094206" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Minato-Ku"/>
-    <tag k="addr:housenumber" v="3-24-20-2F"/>
-    <tag k="addr:postcode" v="106-0031"/>
-    <tag k="addr:street" v="Nishiazabu"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="capacity" v="200 max."/>
-    <tag k="cuisine" v="french"/>
-    <tag k="name" v="Veranda (Robocoin ATM)"/>
-    <tag k="opening_hours" v="Mo-Sa 18:00-05:00; Su 18:00-24:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+81-3-5414-7095"/>
-    <tag k="smoking" v="yes"/>
-    <tag k="website" v="https://www.veranda.jp"/>
-  </node>
   <node id="2928888919" lat="-31.4511776" lon="152.8861265" version="2" timestamp="2015-05-25T23:44:04Z" changeset="31460275" uid="67896" user="mrpulley">
     <tag k="amenity" v="cafe"/>
     <tag k="cuisine" v="coffee_shop"/>
@@ -30256,18 +30020,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="website" v="http://bquery.com"/>
-  </node>
-  <node id="2934605621" lat="52.1180029" lon="-106.6564905" version="6" timestamp="2019-09-25T00:12:32Z" changeset="74880837" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Saskatoon"/>
-    <tag k="addr:housenumber" v="721"/>
-    <tag k="addr:street" v="Broadway Avenue"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="description" v="Buy/Sell Bitcoin for cash!"/>
-    <tag k="email" v="info@btcsolutions.ca"/>
-    <tag k="name" v="Bitcoin Solutions ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-780-982-1540"/>
-    <tag k="website" v="https://www.btcsolutions.ca/atm/sk"/>
   </node>
   <node id="2934892546" lat="-34.8135646" lon="-58.5393416" version="4" timestamp="2022-09-11T03:40:10Z" changeset="126035095" uid="418336" user="Matias 18">
     <tag k="addr:country" v="AR"/>
@@ -30487,17 +30239,6 @@
     <tag k="tourism" v="apartment"/>
     <tag k="website" v="http://www.vienna-apartment.co.at/stubenbastei-10-1010-wien/"/>
   </node>
-  <node id="2944009994" lat="42.6541036" lon="-73.7504418" version="4" timestamp="2014-12-22T19:02:51Z" changeset="27636438" uid="599436" user="zeromap">
-    <tag k="addr:city" v="Albany"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:postcode" v="12207"/>
-    <tag k="addr:street" v="Clinton Square"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="PYC Bitcoin ATM"/>
-    <tag k="opening_hours" v="06:00-20:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.pycbitcoin.com/"/>
-  </node>
   <node id="2944881926" lat="26.3066548" lon="-80.1039017" version="3" timestamp="2014-07-03T02:07:49Z" changeset="23736050" uid="2161478" user="mikempn">
     <tag k="name" v="Hurricane Impact Window"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -30558,18 +30299,6 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="phone" v="+39 010 2473385"/>
     <tag k="website" v="http://www.officineiadr.com"/>
-  </node>
-  <node id="2949102933" lat="40.4857097" lon="-3.3605936" version="4" timestamp="2021-09-15T18:15:43Z" changeset="111257437" uid="3392826" user="Hugoren Martinako">
-    <tag k="addr:city" v="Alcalá de Henares"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:street" v="Avenida de Guadalajara"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="contact:email" v="atm@btcpoint.org"/>
-    <tag k="contact:phone" v="+34931645921"/>
-    <tag k="contact:website" v="http://btcpoint.org"/>
-    <tag k="description" v="BTCPoint ATM in Bar La Complutense, operated by iberobit. You can both Buy and Sell bitcoin"/>
-    <tag k="name" v="Iberobit Bitcoin ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="2949185337" lat="42.9578415" lon="-83.8325628" version="4" timestamp="2022-12-09T16:23:48Z" changeset="129907048" uid="11548585" user="emersonveenstra">
     <tag k="addr:city" v="Swartz Creek"/>
@@ -31605,30 +31334,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://bitteller.ca/"/>
   </node>
-  <node id="2987860272" lat="43.5205760" lon="-80.2116604" version="4" timestamp="2019-08-28T21:27:41Z" changeset="73858123" uid="6461817" user="iwismer">
-    <tag k="addr:city" v="Guelph"/>
-    <tag k="addr:housenumber" v="1027"/>
-    <tag k="addr:street" v="Gordon Street"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="BitAccess Bitcoin ATM"/>
-    <tag k="operator" v="CoinCulture Inc."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://coinculture.info/#convenience"/>
-  </node>
-  <node id="2987873891" lat="43.1195966" lon="-79.2723133" version="1" timestamp="2014-07-30T16:05:20Z" changeset="24446436" uid="2210086" user="BitAccess">
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="BitAccess Bitcoin ATM"/>
-    <tag k="operator" v="CanadianBitcoin"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.canadianbitcoins.com/"/>
-  </node>
-  <node id="2987879400" lat="43.6854524" lon="-79.7456356" version="2" timestamp="2019-01-11T03:51:44Z" changeset="66215009" uid="9266764" user="DannyMcD_imports">
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="BitAccess Bitcoin ATM"/>
-    <tag k="operator" v="Resillient 21"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.resilient21.com/"/>
-  </node>
   <node id="2988612945" lat="47.0536120" lon="8.3070458" version="13" timestamp="2017-01-07T17:29:02Z" changeset="44984144" uid="2298977" user="PeZa">
     <tag k="addr:city" v="Luzern"/>
     <tag k="addr:housenumber" v="51"/>
@@ -32039,15 +31744,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-360-531-0466"/>
   </node>
-  <node id="3001370533" lat="51.0819167" lon="-114.0107757" version="2" timestamp="2014-08-07T15:46:38Z" changeset="24598656" uid="1836471" user="Blobo123">
-    <tag k="addr:city" v="Calgary"/>
-    <tag k="addr:housenumber" v="2020"/>
-    <tag k="addr:street" v="32 Avenue Northeast"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="description" v="Lamassu Bitcoin ATM in Music Centre Canada."/>
-    <tag k="name" v="Bitcoin ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="3003820825" lat="41.4796113" lon="-73.2101140" version="7" timestamp="2021-08-29T02:37:26Z" changeset="110398141" uid="187467" user="Mashin">
     <tag k="addr:city" v="Southbury"/>
     <tag k="addr:housenumber" v="100"/>
@@ -32325,17 +32021,6 @@
     <tag k="name" v="무지개 열쇠"/>
     <tag k="name:ko" v="무지개 열쇠"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="3011361047" lat="45.5919785" lon="-73.5815241" version="2" timestamp="2019-02-20T17:35:06Z" changeset="67400528" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Saint-Léonard"/>
-    <tag k="addr:housenumber" v="6245"/>
-    <tag k="addr:postcode" v="H1P 1X7"/>
-    <tag k="addr:street" v="Boulevard Métropolitain Est"/>
-    <tag k="description" v="Instacoin Bitcoin ATM selling Bitcoin for cash at Touchez boutique inside the Marché aux Puces Métropolitain (Kiosk #633, Red Section). Easy access via door #5."/>
-    <tag k="name" v="Instacoin Bitcoin ATM - Marché aux Puces Métropolitain (Touchez, kiosk 633, Section Rouge)"/>
-    <tag k="note" v="Instacoin Bitcoin ATM selling Bitcoin for cash at Touchez boutique inside the Marché aux Puces Métropolitain (Kiosk #633, Red Section). Easy access via door #5."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.instacoinatm.com/"/>
   </node>
   <node id="3011524472" lat="-34.5969930" lon="-58.3731649" version="5" timestamp="2019-07-18T03:33:12Z" changeset="72370818" uid="238419" user="HubMiner">
     <tag k="addr:city" v="Buenos Aires"/>
@@ -32769,19 +32454,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="website" v="https://www.schally.at/"/>
-  </node>
-  <node id="3035125813" lat="45.4559509" lon="-73.4642446" version="2" timestamp="2019-02-19T14:16:36Z" changeset="67354723" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Brossard"/>
-    <tag k="addr:housenumber" v="7681"/>
-    <tag k="addr:postcode" v="J4Y 1A2"/>
-    <tag k="addr:street" v="Boulevard Taschereau"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="description" v="Instacoin ATM selling Bitcoin inside Pasta Tutti Giorni restaurant. Quick access to ATM via the secondary entrance at the back of the building."/>
-    <tag k="name" v="Instacoin Bitcoin ATM - Pasta Tutti Giorni"/>
-    <tag k="note" v="Instacoin ATM selling Bitcoin inside Pasta Tutti Giorni restaurant. Quick access to ATM via the secondary entrance at the back of the building."/>
-    <tag k="operator" v="Instacoin"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.instacoinatm.com/"/>
   </node>
   <node id="3035418101" lat="-30.0517400" lon="-51.2262065" version="14" timestamp="2018-10-13T19:01:32Z" changeset="63492553" uid="1624486" user="thetornado76">
     <tag k="addr:city" v="porto alegre"/>
@@ -33455,7 +33127,7 @@
     <tag k="name" v="Cervecería Porter"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="3061322764" lat="46.0497594" lon="14.4974804" version="9" timestamp="2022-12-21T14:35:03Z" changeset="130336604" uid="17607387" user="Sraumf_complete">
+  <node id="3061322764" lat="46.0497594" lon="14.4974804" version="10" timestamp="2022-12-28T20:56:08Z" changeset="130618396" uid="77904" user="Kristjan ESPERANTO">
     <tag k="addr:city" v="Ljubljana"/>
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:postcode" v="1000"/>
@@ -33467,7 +33139,7 @@
     <tag k="name" v="Bazilika Bistro"/>
     <tag k="opening_hours" v="Mo-Th 08:00-24:00; Fr,Sa 08:00-22:00"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="01 244 6275"/>
+    <tag k="phone" v="+386 1 244 62 75"/>
     <tag k="website" v="http://www.bazilika.si/bistro"/>
     <tag k="wheelchair" v="no"/>
   </node>
@@ -33825,19 +33497,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="computer"/>
   </node>
-  <node id="3080433851" lat="45.5613600" lon="-73.7415195" version="3" timestamp="2021-10-01T19:46:19Z" changeset="111979363" uid="12669335" user="bevalim">
-    <tag k="addr:city" v="Laval"/>
-    <tag k="addr:housenumber" v="1739"/>
-    <tag k="addr:postcode" v="H7T 2Y5"/>
-    <tag k="addr:street" v="Avenue Pierre Péladeau"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:BCH" v="yes"/>
-    <tag k="name" v="Instacoin ATM"/>
-    <tag k="note" v="Guichet Bitcoin au Houston Avenue Bar &amp; Grill. Visitez notre site web pour notre prix du Bitcoin."/>
-    <tag k="operator" v="Instacoin"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.instacoinatm.com/bitcoin-laval-houston-en.html"/>
-  </node>
   <node id="3080522720" lat="-34.5860020" lon="-58.4368850" version="5" timestamp="2019-03-12T15:57:54Z" changeset="68067787" uid="1733007" user="lislis">
     <tag k="addr:city" v="CABA"/>
     <tag k="addr:housenumber" v="1554"/>
@@ -34192,42 +33851,6 @@
     <tag k="phone" v="+34 650 84 47 35"/>
     <tag k="website" v="http://elcuentobar.es"/>
   </node>
-  <node id="3095605051" lat="50.8303242" lon="12.9536751" version="6" timestamp="2022-11-04T20:33:21Z" changeset="128499904" uid="17441326" user="BSN21M">
-    <tag k="addr:city" v="Chemnitz"/>
-    <tag k="addr:housenumber" v="129"/>
-    <tag k="addr:postcode" v="09126"/>
-    <tag k="addr:street" v="Bernhardstraße"/>
-    <tag k="craft" v="painter"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Benten Graffiti Chemnitz"/>
-    <tag k="opening_hours" v="13:00-19:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="no"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+49 177 5666897"/>
-    <tag k="survey:date" v="2022-11-04"/>
-  </node>
-  <node id="3095624350" lat="50.8303120" lon="12.9537536" version="10" timestamp="2022-11-04T20:33:37Z" changeset="128499920" uid="17441326" user="BSN21M">
-    <tag k="addr:city" v="Chemnitz"/>
-    <tag k="addr:housenumber" v="129"/>
-    <tag k="addr:postcode" v="09126"/>
-    <tag k="addr:street" v="Bernhardstraße"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="info@tattoochemnitz.de"/>
-    <tag k="name" v="Benten Tattoo Chemnitz"/>
-    <tag k="opening_hours" v="Mo 10:00-15:30; Tu-Th 10:00-18:00; Fr 10:00-15:30"/>
-    <tag k="operator" v="Friedrich Benzler"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="no"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+49 177 5666897"/>
-    <tag k="shop" v="tattoo"/>
-    <tag k="survey:date" v="2022-11-04"/>
-  </node>
   <node id="3095964260" lat="-30.9821620" lon="-64.4876035" version="2" timestamp="2015-03-02T06:38:47Z" changeset="29191604" uid="1810448" user="serock">
     <tag k="addr:city" v="La Cumbre"/>
     <tag k="addr:housenumber" v="180"/>
@@ -34306,10 +33929,6 @@
     <tag k="name" v="Paradise house, rent per day"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.airbnb.com.ar/rooms/826559"/>
-  </node>
-  <node id="3099848334" lat="32.8119449" lon="-96.8130064" version="1" timestamp="2014-09-28T03:23:00Z" changeset="25717298" uid="2362823" user="coinvaultatm">
-    <tag k="name" v="CoinVault ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="3099851250" lat="32.8119449" lon="-96.8130064" version="2" timestamp="2016-10-24T17:34:04Z" changeset="43131783" uid="4018842" user="Stephen214">
     <tag k="addr:city" v="Dallas"/>
@@ -34439,26 +34058,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="305-234-8800"/>
     <tag k="website" v="https://aviatorservices.com/"/>
-  </node>
-  <node id="3108006787" lat="40.4210147" lon="-3.6916172" version="1" timestamp="2014-10-02T20:45:05Z" changeset="25819392" uid="2136761" user="flix1">
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="Bitcoin ATM"/>
-    <tag k="operator" v="Bitcoin Spain - Robocoin"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.bitcoinspain.info/"/>
-  </node>
-  <node id="3109205859" lat="45.8166261" lon="15.9764444" version="5" timestamp="2014-11-13T17:36:37Z" changeset="26760707" uid="2442674" user="AppAmapper">
-    <tag k="addr:city" v="Zagreb"/>
-    <tag k="addr:housenumber" v="68"/>
-    <tag k="addr:postcode" v="10000"/>
-    <tag k="addr:street" v="Ulica Ivana Tkalčića"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="History's Bitcoin ATM"/>
-    <tag k="note" v="Location of bitcoin ATM."/>
-    <tag k="operator" v="EasyBit"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="smoking" v="yes"/>
-    <tag k="website" v="http://www.easybitllc.com/"/>
   </node>
   <node id="3110629769" lat="43.2278294" lon="76.9579245" version="2" timestamp="2021-02-18T17:16:08Z" changeset="99539385" uid="10122872" user="DiscountTaxi">
     <tag k="addr:city" v="Алматы"/>
@@ -34902,15 +34501,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+34 628587377"/>
     <tag k="website" v="http://www.franciscosuarez.es"/>
-  </node>
-  <node id="3140206292" lat="45.4878564" lon="-73.5865138" version="3" timestamp="2014-11-18T17:40:49Z" changeset="26869241" uid="1679" user="andrewpmk">
-    <tag k="addr:unit" v="194"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="Montreal Bitcoin ATM Suite #194"/>
-    <tag k="opening_hours" v="Mo-Su 9:00-21:00"/>
-    <tag k="operator" v="Montreal Bitcoin Brokers"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.facebook.com/montrealbitcoin"/>
   </node>
   <node id="3141196332" lat="10.4721562" lon="-66.8378676" version="11" timestamp="2022-06-06T00:24:52Z" changeset="121998701" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Caracas"/>
@@ -35865,13 +35455,6 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://www.facebook.com/GamerZoneCabradeBolones?ref=hl"/>
   </node>
-  <node id="3184899124" lat="33.9418476" lon="-84.5230241" version="5" timestamp="2021-11-11T05:30:49Z" changeset="113635154" uid="238419" user="HubMiner">
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="Marietta Vape Bar's Bitcoin ATM"/>
-    <tag k="opening_hours" v="Mo-Th 09:00-22:00; Fr 09:00-23:59; Sa 09:00-23:59; Su 12:00-20:00"/>
-    <tag k="operator" v="EasyBit"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="3184900237" lat="55.6813666" lon="12.5827510" version="2" timestamp="2015-04-03T20:16:26Z" changeset="29960145" uid="1124" user="Jesper Henriksen">
     <tag k="amenity" v="atm"/>
     <tag k="fixme" v="Check that this is still operated by EasyBit"/>
@@ -36040,22 +35623,6 @@
     <tag k="tourism" v="hostel"/>
     <tag k="website" v="https://www.thegreenbackpackers.com/"/>
   </node>
-  <node id="3190260903" lat="45.5176045" lon="-122.6778212" version="9" timestamp="2019-06-13T06:50:13Z" changeset="71204922" uid="9465017" user="tguen">
-    <tag k="addr:city" v="Portland"/>
-    <tag k="addr:housenumber" v="700"/>
-    <tag k="addr:postcode" v="97204"/>
-    <tag k="addr:state" v="OR"/>
-    <tag k="addr:street" v="Southwest 5th Avenue"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin Exchange ATM"/>
-    <tag k="level" v="-1"/>
-    <tag k="name" v="Robocoin ATM"/>
-    <tag k="operator" v="BitcoinNW"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.bitcoinnw.com/"/>
-  </node>
   <node id="3190341575" lat="34.9751223" lon="-92.0197827" version="4" timestamp="2014-11-16T18:55:31Z" changeset="26828826" uid="2467422" user="eckszkhan">
     <tag k="addr:city" v="Cabot"/>
     <tag k="addr:housenumber" v="104"/>
@@ -36205,21 +35772,6 @@
     <tag k="name" v="Blocklogic d.o.o."/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.blocklogic.net/"/>
-  </node>
-  <node id="3199165326" lat="45.5139191" lon="-73.5729378" version="4" timestamp="2021-09-28T21:57:19Z" changeset="111839018" uid="12669335" user="bevalim">
-    <tag k="addr:city" v="Montréal"/>
-    <tag k="addr:housenumber" v="3608"/>
-    <tag k="addr:postcode" v="H2X 2V4"/>
-    <tag k="addr:province" v="QC"/>
-    <tag k="addr:street" v="Boulevard Saint-Laurent"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:BCH" v="yes"/>
-    <tag k="name" v="Instacoin Bitcoin ATM"/>
-    <tag k="note" v="Bitcoin ATM in La Belle Province."/>
-    <tag k="opening_hours" v="Su-We 11:00-05:00; Th-Sa 11:00-06:00"/>
-    <tag k="operator" v="Instacoin"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.instacoinatm.com/bitcoin-montreal-belleprovince-en.html"/>
   </node>
   <node id="3199477661" lat="40.3798251" lon="-3.6311906" version="3" timestamp="2022-02-15T11:03:02Z" changeset="117430812" uid="71626" user="Almorca">
     <tag k="addr:housenumber" v="18"/>
@@ -36819,43 +36371,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.bitbnk1.com/"/>
   </node>
-  <node id="3230686234" lat="38.7734874" lon="-121.2699010" version="3" timestamp="2022-08-04T16:42:14Z" changeset="124489179" uid="115918" user="Timothy Smith">
-    <tag k="addr:city" v="Roseville"/>
-    <tag k="addr:housenumber" v="1151"/>
-    <tag k="addr:postcode" v="95678"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="Galleria Boulevard"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="Bitcoin ATM"/>
-    <tag k="note" v="Lamassu ATM on 2nd floor across from Jamba Juice, 2% over Bitstamp, $1k/daily limit, open with mall hours Mon-Sat 10:00am – 9:00pm, Sun 11:00am – 7:00pm"/>
-    <tag k="operator" v="Coinucopia.io"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://coinucopia.io/"/>
-  </node>
-  <node id="3230690627" lat="37.3256822" lon="-121.9443490" version="3" timestamp="2019-02-18T22:56:20Z" changeset="67332802" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Santa Clara"/>
-    <tag k="addr:housenumber" v="2855"/>
-    <tag k="addr:postcode" v="95050"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="Stevens Creek Boulevard"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="Bitcoin ATM"/>
-    <tag k="note" v="Westfield Valley Fair Mall, Second floor near IT'SUGAR, Mon-Fri 9:00am – 10:00pm, Sun 9:00am – 9:00pm"/>
-    <tag k="operator" v="Coinucopia.io"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://coinucopia.io/"/>
-  </node>
-  <node id="3230835784" lat="38.7319684" lon="-9.1453634" version="7" timestamp="2016-10-15T21:25:08Z" changeset="42926191" uid="4168865" user="Soniafromberlin">
-    <tag k="addr:city" v="Lisboa"/>
-    <tag k="addr:housenumber" v="42E"/>
-    <tag k="addr:postcode" v="1050-250"/>
-    <tag k="addr:street" v="Avenida Fontes Pereira de Melo"/>
-    <tag k="name" v="Bitcoin Já - 2 way Bitcoin ATM"/>
-    <tag k="name:en" v="bitcoin ATM"/>
-    <tag k="note" v="Lobby do @Cinema no Centro Comercial Saldanha Residence."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.facebook.com/bitcoinja"/>
-  </node>
   <node id="3231345171" lat="-8.5207677" lon="115.2625864" version="2" timestamp="2019-03-23T05:44:54Z" changeset="68435164" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Ubud"/>
     <tag k="addr:street" v="Jl. Raya Pengosekan"/>
@@ -36891,15 +36406,6 @@
     <tag k="opening_hours" v="19:30 - 24:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 0706848243"/>
-  </node>
-  <node id="3233673139" lat="39.1078420" lon="-94.5842685" version="2" timestamp="2021-07-13T19:37:28Z" changeset="107931371" uid="175702" user="AxelBoldt">
-    <tag k="addr:city" v="Kansas City"/>
-    <tag k="addr:housenumber" v="500"/>
-    <tag k="addr:postcode" v="64105"/>
-    <tag k="addr:state" v="MO"/>
-    <tag k="addr:street" v="Delaware Street"/>
-    <tag k="name" v="Bitcoin ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="3233702538" lat="-25.3017990" lon="-57.5905632" version="5" timestamp="2019-08-30T13:40:51Z" changeset="73924131" uid="2296781" user="Belore">
     <tag k="addr:city" v="Asunción"/>
@@ -38158,13 +37664,6 @@
     <tag k="shop" v="car_repair"/>
     <tag k="website" v="http://soundandalarm.com"/>
   </node>
-  <node id="3277889160" lat="37.5852055" lon="127.0285571" version="4" timestamp="2018-12-04T12:49:40Z" changeset="65159393" uid="5251768" user="youngwoonbyeon">
-    <tag k="addr:city" v="우정정보통신관"/>
-    <tag k="addr:street" v="고려대"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="코인플러그 ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="3278365051" lat="46.0463702" lon="14.5081713" version="5" timestamp="2022-01-22T20:36:39Z" changeset="116479686" uid="6508041" user="martianfreeloader">
     <tag k="addr:housenumber" v="23"/>
     <tag k="addr:street" v="Gornji trg"/>
@@ -38888,19 +38387,6 @@
     <tag k="sport" v="fitness,_pilaes,_box,_zumba,_dance,_aerobic"/>
     <tag k="website" v="http://www.energym.ro/"/>
   </node>
-  <node id="3315165606" lat="45.4874177" lon="-73.8479387" version="2" timestamp="2019-02-18T06:09:00Z" changeset="67302459" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Dollard-Des Ormeaux"/>
-    <tag k="addr:housenumber" v="4701"/>
-    <tag k="addr:postcode" v="H9H 2A7"/>
-    <tag k="addr:province" v="QC"/>
-    <tag k="addr:street" v="Boulevard Saint-Jean"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="Instacoin Bitcoin ATM - Dépanneur JMI"/>
-    <tag k="operator" v="Instacoin"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://instacoinatm.com/bitcoin-ddo-en.html"/>
-    <tag k="website" v="https://www.instacoinatm.com/"/>
-  </node>
   <node id="3315840540" lat="36.8149049" lon="-76.2073549" version="2" timestamp="2016-04-16T05:48:36Z" changeset="38611860" uid="1408522" user="Omnific">
     <tag k="addr:housenumber" v="6200"/>
     <tag k="addr:postcode" v="23464"/>
@@ -38959,18 +38445,6 @@
     <tag k="phone" v="0475-47-3807"/>
     <tag k="website" v="http://www.ringoya-mobara.com/"/>
   </node>
-  <node id="3321422902" lat="45.5671758" lon="-73.5877164" version="3" timestamp="2019-02-20T17:34:22Z" changeset="67400513" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Montréal"/>
-    <tag k="addr:housenumber" v="4212"/>
-    <tag k="addr:province" v="QC"/>
-    <tag k="addr:street" v="Rue Jean-Talon Est"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="Instacoin - Guichet Bitcoin ATM - Posteramic"/>
-    <tag k="operator" v="Instacoin"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-800-686-9159"/>
-    <tag k="website" v="https://www.instacoinatm.com/"/>
-  </node>
   <node id="3323108530" lat="52.3799494" lon="9.6846386" version="1" timestamp="2015-01-31T10:51:09Z" changeset="28520661" uid="2397160" user="ricferrer">
     <tag k="addr:city" v="Hannover"/>
     <tag k="addr:housenumber" v="88a"/>
@@ -38981,7 +38455,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.studiodreimann.com"/>
   </node>
-  <node id="3323112477" lat="52.3687960" lon="9.7082926" version="2" timestamp="2015-02-01T13:00:27Z" changeset="28544574" uid="2397160" user="ricferrer">
+  <node id="3323112477" lat="52.3687655" lon="9.7082368" version="3" timestamp="2022-12-28T14:53:42Z" changeset="130605982" uid="11575009" user="Nortix08">
     <tag k="addr:city" v="Hannover"/>
     <tag k="addr:housenumber" v="14a"/>
     <tag k="addr:postcode" v="30449"/>
@@ -39058,29 +38532,10 @@
     <tag k="shop" v="bicycle"/>
     <tag k="website" v="http://www.urbanbiking.com"/>
   </node>
-  <node id="3327717369" lat="45.4679415" lon="-73.8834120" version="2" timestamp="2019-02-20T17:23:03Z" changeset="67400110" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Pierrefonds"/>
-    <tag k="addr:housenumber" v="17528"/>
-    <tag k="addr:postcode" v="H9J 3C8"/>
-    <tag k="addr:province" v="QC"/>
-    <tag k="addr:street" v="Boulevard Gouin Ouest"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="Instacoin Bitcoin ATM - Dépanneur 7-11"/>
-    <tag k="operator" v="Instacoin"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.instacoinatm.com/"/>
-  </node>
   <node id="3328031679" lat="37.4773157" lon="127.0440117" version="1" timestamp="2015-02-03T07:23:32Z" changeset="28583152" uid="2626321" user="WPJH">
     <tag k="amenity" v="cafe"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="name" v="twin275"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="3328375789" lat="42.8037698" lon="-73.9024297" version="2" timestamp="2015-10-11T12:08:48Z" changeset="34567954" uid="599436" user="zeromap">
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="PYC Bitcoin ATM"/>
-    <tag k="opening_hours" v="Tu-We 09:00-14:00; Th-Sa 09:00-21:00; Su 08:00-21:00"/>
-    <tag k="operator" v="https://www.pycbitcoin.com/"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="3328569058" lat="42.6281354" lon="23.3737665" version="4" timestamp="2019-03-27T10:27:20Z" changeset="68580878" uid="9451067" user="b-jazz-bot">
@@ -39456,18 +38911,6 @@
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-01-22"/>
     <tag k="website" v="http://www.goede-tijden.nl/"/>
-  </node>
-  <node id="3357238890" lat="45.5719344" lon="-73.6031941" version="2" timestamp="2016-11-02T05:49:13Z" changeset="43343134" uid="1624486" user="thetornado76">
-    <tag k="addr:city" v="Montréal"/>
-    <tag k="addr:housenumber" v="5181"/>
-    <tag k="addr:postcode" v="H1Z 3T5"/>
-    <tag k="addr:province" v="QC"/>
-    <tag k="addr:street" v="Boulevard Pie-IX"/>
-    <tag k="name" v="Autcoinage Bitcoin ATM / Depanneur X-Ellent"/>
-    <tag k="opening_hours" v="Su-Sa 07:00-23:00"/>
-    <tag k="operator" v="Autcoinage Bitcoin ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="convenience"/>
   </node>
   <node id="3358645882" lat="51.0525147" lon="3.7489213" version="6" timestamp="2022-11-05T19:38:47Z" changeset="128534113" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Sint-Amandsberg"/>
@@ -40374,16 +39817,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="books"/>
   </node>
-  <node id="3418499659" lat="28.5242864" lon="-81.3493568" version="2" timestamp="2015-03-26T21:17:12Z" changeset="29764254" uid="2784340" user="BitcoinsOrlando">
-    <tag k="addr:city" v="Orlando"/>
-    <tag k="addr:housenumber" v="2603"/>
-    <tag k="addr:postcode" v="32806"/>
-    <tag k="addr:street" v="Curry Ford Rd"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="Bitcoin ATM - Coins and Currency of Orlando"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://bitcoinsorlando.com"/>
-  </node>
   <node id="3420414108" lat="28.4947597" lon="-81.3739854" version="2" timestamp="2016-04-03T10:40:13Z" changeset="38264445" uid="126806" user="JeopardyTempest">
     <tag k="addr:city" v="Orlando"/>
     <tag k="addr:housenumber" v="4733"/>
@@ -40393,17 +39826,6 @@
     <tag k="name" v="Computer Tech Solutions"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://bitcoinsorlando.com"/>
-  </node>
-  <node id="3420853202" lat="35.6564205" lon="139.7335299" version="14" timestamp="2016-05-25T08:46:31Z" changeset="39551437" uid="2787097" user="fujicrypto">
-    <tag k="addr:housenumber" v="東京都港区麻布十番二丁目５番２号 JMNビル３階"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="designation" v="Bitcoin ATM"/>
-    <tag k="drive_through" v="yes"/>
-    <tag k="fee" v="10%"/>
-    <tag k="name" v="Fujicrypto Co.,Ltd. (Bitcoin ATM)"/>
-    <tag k="operator" v="Bitcoin Machine"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.fujicrypto.com"/>
   </node>
   <node id="3421701009" lat="35.4429858" lon="-80.8640806" version="2" timestamp="2019-02-20T03:40:34Z" changeset="67375873" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Huntersville"/>
@@ -40541,18 +39963,6 @@
     <tag k="tourism" v="hostel"/>
     <tag k="website" v="www.bluealmondhostel.com"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="3429304693" lat="36.6137004" lon="-4.5025663" version="3" timestamp="2015-03-31T20:28:37Z" changeset="29890189" uid="1730788" user="Jan Knoester">
-    <tag k="addr:city" v="Torremolinos"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:street" v="Calle Decano Higueras del Castillo"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="contact:email" v="gerardus44@gmail.com"/>
-    <tag k="contact:phone" v="+34 629466525"/>
-    <tag k="name" v="Euro Cafe / bitcoin atm"/>
-    <tag k="note" v="Lamassu btm"/>
-    <tag k="operator" v="jan"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="3429515106" lat="43.2448968" lon="13.5865871" version="8" timestamp="2021-04-07T20:06:20Z" changeset="102504741" uid="7562272" user="Riccardo Pastocchi">
     <tag k="addr:city" v="Monte San Giusto"/>
@@ -40840,16 +40250,6 @@
     <tag k="payment:credit_cards" v="no"/>
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="http://www.barjavelles.fr"/>
-  </node>
-  <node id="3455005399" lat="38.5287929" lon="-121.4724458" version="2" timestamp="2019-02-17T18:25:44Z" changeset="67288161" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Sacramento"/>
-    <tag k="addr:housenumber" v="5127"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="Franklin Boulevard"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="Bitcoin ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://coinucopia.io/"/>
   </node>
   <node id="3455365698" lat="45.5242830" lon="-122.4782720" version="2" timestamp="2019-01-04T13:12:40Z" changeset="66020957" uid="439046" user="Eliyak">
     <tag k="highway" v="turning_circle"/>
@@ -41201,23 +40601,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+34972223614"/>
     <tag k="website" v="http://www.caixerbtc.cat"/>
-  </node>
-  <node id="3486933497" lat="41.6105804" lon="0.6339578" version="3" timestamp="2022-08-11T15:06:49Z" changeset="124780647" uid="327111" user="blacx">
-    <tag k="addr:city" v="Lleida"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="25001"/>
-    <tag k="addr:street" v="Carrer del Riu Llobregat"/>
-    <tag k="amenity" v="bank"/>
-    <tag k="atm" v="yes"/>
-    <tag k="contact:email" v="miqueljpavon@gmail.com"/>
-    <tag k="contact:phone" v="+34972223194"/>
-    <tag k="contact:website" v="http://www.caixerbtc.cat"/>
-    <tag k="description" v="Bitcoin ATM for buy and sell"/>
-    <tag k="description:ca" v="Caixer de bitcoin per a compres i vendes"/>
-    <tag k="description:es" v="cajero bitcoin para compras y ventas"/>
-    <tag k="name" v="Caixer bitcoin ATM Importmatica"/>
-    <tag k="operator" v="ATMs BITCOIN EXCHANGE SL"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="3487410193" lat="38.1042573" lon="15.6441114" version="5" timestamp="2020-04-18T13:46:57Z" changeset="83743713" uid="1476146" user="Alecs01">
     <tag k="addr:city" v="Reggio di Calabria"/>
@@ -42728,19 +42111,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="gift"/>
   </node>
-  <node id="3632184129" lat="45.4712096" lon="-73.6142205" version="2" timestamp="2019-02-20T17:27:42Z" changeset="67400278" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Montréal"/>
-    <tag k="addr:housenumber" v="5626"/>
-    <tag k="addr:postcode" v="H4A 1W5"/>
-    <tag k="addr:province" v="Quebec"/>
-    <tag k="addr:street" v="Rue Sherbrooke Ouest"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="Instacoin Bitcoin ATM - Dépanneur NDG à Gogo"/>
-    <tag k="operator" v="Instacoin"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://instacoinatm.com/bitcoin-ndg-en.html"/>
-    <tag k="website" v="https://www.instacoinatm.com/"/>
-  </node>
   <node id="3650444746" lat="52.3734792" lon="9.7224603" version="2" timestamp="2021-01-17T14:42:38Z" changeset="97640440" uid="44217" user="kjon">
     <tag k="addr:city" v="Hannover"/>
     <tag k="addr:housenumber" v="6A"/>
@@ -42878,19 +42248,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="0343 4240156"/>
     <tag k="shop" v="variety_store"/>
-  </node>
-  <node id="3656504290" lat="48.1849452" lon="16.3763103" version="7" timestamp="2021-12-22T10:26:51Z" changeset="115247689" uid="273212" user="Jakub Trojan">
-    <tag k="amenity" v="atm"/>
-    <tag k="check_date" v="2021-12-22"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="indoor" v="yes"/>
-    <tag k="name" v="Bitcoin ATM Vienna Main Station (Trafik Wasinger)"/>
-    <tag k="opening_hours" v="07:00-23:30"/>
-    <tag k="operator" v="Coinfinity"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3658091545" lat="28.5819064" lon="77.3137283" version="3" timestamp="2019-08-18T04:34:28Z" changeset="73455532" uid="238419" user="HubMiner">
     <tag k="addr:city" v="Noida"/>
@@ -43473,15 +42830,6 @@
     <tag k="phone" v="+39 091 8480119"/>
     <tag k="website" v="http://fabrizio.computer"/>
   </node>
-  <node id="3789959661" lat="39.8837799" lon="-104.9989140" version="2" timestamp="2019-02-19T03:01:35Z" changeset="67337310" uid="9451067" user="b-jazz-bot">
-    <tag k="amenity" v="atm"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="name" v="Bitcoin ATM (buy only)"/>
-    <tag k="note" v="GenesisCoin one-way machine (with paper wallet and receipt printing) inside Boss Stage | Anime + Arcade"/>
-    <tag k="operator" v="XBTeller"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.xbteller.com/"/>
-  </node>
   <node id="3793967889" lat="45.7209710" lon="8.8345030" version="5" timestamp="2016-12-26T14:50:13Z" changeset="44684006" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Carnago"/>
     <tag k="addr:housenumber" v="40"/>
@@ -43494,20 +42842,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 331 9664007"/>
     <tag k="shop" v="massage"/>
-  </node>
-  <node id="3796135257" lat="43.7714863" lon="11.2599164" version="4" timestamp="2021-11-30T09:16:39Z" changeset="114378820" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:city" v="Firenze"/>
-    <tag k="addr:housenumber" v="72R"/>
-    <tag k="addr:postcode" v="50122"/>
-    <tag k="addr:street" v="Borgo degli Albizi"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin ATM di Chainblock, situato all'interno di Tuscan Smoking."/>
-    <tag k="email" v="info@chainblock.it"/>
-    <tag k="name" v="Chainblock ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://chainblock.it"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3806001862" lat="45.9695214" lon="12.6748597" version="2" timestamp="2017-12-19T18:41:50Z" changeset="54767442" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Pordenone"/>
@@ -43788,31 +43122,6 @@
     <tag k="website" v="https://hanf-im-glueck.shop/standorte/hanf-im-glueck-cbd-shop-stuttgart/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3896279979" lat="60.2109796" lon="25.0797809" version="5" timestamp="2018-11-29T16:12:29Z" changeset="65015618" uid="7500180" user="kartoittaja2">
-    <tag k="addr:city" v="Helsinki"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:postcode" v="00930"/>
-    <tag k="addr:street" v="Turunlinnantie"/>
-    <tag k="amenity" v="bank"/>
-    <tag k="atm" v="yes"/>
-    <tag k="name" v="2-Way Bitcoin ATM"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-20:00; Sa 9:00-18:00; Su 12:00-18:00"/>
-    <tag k="operator" v="www.coiner.fi"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="3896296907" lat="61.5010905" lon="23.7589572" version="2" timestamp="2018-11-03T12:20:11Z" changeset="64138716" uid="1690544" user="hkmpr">
-    <tag k="addr:city" v="Tampere"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:postcode" v="33210"/>
-    <tag k="addr:street" v="Itäinenkatu"/>
-    <tag k="amenity" v="bank"/>
-    <tag k="atm" v="yes"/>
-    <tag k="name" v="2-way Bitcoin ATM"/>
-    <tag k="opening_hours" v="Mo - Fr 7:30 - 21:00; Sa 10:00 - 21:00; Su 11:00 - 21:00"/>
-    <tag k="operator" v="www.coiner.fi"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="3896626705" lat="52.5328613" lon="13.3489366" version="7" timestamp="2022-11-05T15:29:58Z" changeset="128525494" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Berlin"/>
     <tag k="addr:country" v="DE"/>
@@ -43903,20 +43212,6 @@
     <tag k="phone" v="(215) 413-0375"/>
     <tag k="shop" v="clothes"/>
     <tag k="website" v="https://www.deliciousboutique.com/"/>
-  </node>
-  <node id="3915654066" lat="39.9631422" lon="-75.1413227" version="2" timestamp="2019-02-20T22:51:38Z" changeset="67410469" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Philadelphia"/>
-    <tag k="addr:housenumber" v="800"/>
-    <tag k="addr:postcode" v="19123"/>
-    <tag k="addr:state" v="PA"/>
-    <tag k="addr:street" v="North 2nd Street"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="PHLBitcoin ATM"/>
-    <tag k="note" v="Inside Liberties Parcel"/>
-    <tag k="operator" v="PHLBitcoin"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="(215) 621-8354"/>
-    <tag k="website" v="https://www.phlbitcoin.com/"/>
   </node>
   <node id="3921279444" lat="35.9113153" lon="-79.0609806" version="5" timestamp="2018-09-06T23:13:08Z" changeset="62357634" uid="4312767" user="LeifRasmussen">
     <tag k="addr:city" v="Chapel Hill"/>
@@ -44186,11 +43481,6 @@
     <tag k="office" v="it"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.tshwanedje.com/"/>
-  </node>
-  <node id="4036226757" lat="60.2043604" lon="24.6569690" version="1" timestamp="2016-03-02T10:53:51Z" changeset="37563768" uid="1959273" user="Coiner">
-    <tag k="name" v="2-way Bitcoin ATM, UFF Espoontori"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.coiner.fi"/>
   </node>
   <node id="4036822070" lat="50.0778835" lon="14.4422484" version="5" timestamp="2022-10-04T11:45:51Z" changeset="126983660" uid="8940770" user="pet2001">
     <tag k="contact:email" v="info@gourmetkava.cz"/>
@@ -44947,18 +44237,6 @@
     <tag k="school" v="music"/>
     <tag k="website" v="http://www.violinteacherhongkong.com/"/>
   </node>
-  <node id="4296128736" lat="22.2850244" lon="114.1537202" version="3" timestamp="2022-11-20T10:00:43Z" changeset="129149853" uid="261189" user="Wright One">
-    <tag k="addr" v="Shop 19, 1/F"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Wing Kut Street"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="atm" v="yes"/>
-    <tag k="atm:bitcoin" v="yes"/>
-    <tag k="level" v="1"/>
-    <tag k="name" v="HK Bitcoin ATM Central"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://hkbitcoinatm.com/"/>
-  </node>
   <node id="4299019556" lat="41.5140723" lon="-83.4620555" version="6" timestamp="2020-01-02T11:03:59Z" changeset="79109770" uid="1723055" user="Johnny Mapperseed">
     <tag k="addr:city" v="Perrysburg"/>
     <tag k="addr:housenumber" v="3511a"/>
@@ -44996,18 +44274,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+55 31 99105-5689"/>
     <tag k="website" v="https://www.facebook.com/MateusXHenriques/"/>
-  </node>
-  <node id="4308867590" lat="-33.8635575" lon="151.2076466" version="4" timestamp="2018-09-10T12:27:44Z" changeset="62452390" uid="3800987" user="John Bek">
-    <tag k="addr:city" v="Sydney"/>
-    <tag k="addr:housenumber" v="234"/>
-    <tag k="addr:postcode" v="2000"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="City Convenience Store &amp; BitRocket Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="BitRocket"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="convenience"/>
   </node>
   <node id="4314158290" lat="25.1030349" lon="55.1765229" version="9" timestamp="2021-04-10T05:59:30Z" changeset="102681380" uid="1308582" user="Orionist">
     <tag k="addr:city" v="Dubai"/>
@@ -47141,21 +46407,6 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.facebook.com/SushibarSatzuma"/>
   </node>
-  <node id="4883970326" lat="46.0521108" lon="14.5043262" version="2" timestamp="2017-05-29T17:28:33Z" changeset="49080126" uid="58976" user="Mark Martinec">
-    <tag k="addr:city" v="Ljubljana"/>
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:postcode" v="1000"/>
-    <tag k="addr:street" v="Čopova ulica"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="currency:others" v="no"/>
-    <tag k="name" v="Bitnik bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bitnik d. o. o."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://bitnik.eu"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
   <node id="4885405749" lat="37.9697642" lon="22.9774503" version="2" timestamp="2017-06-06T10:42:48Z" changeset="49301363" uid="616774" user="mueschel">
     <tag k="addr:city" v="Λουτράκι"/>
     <tag k="addr:housenumber" v="11"/>
@@ -47572,12 +46823,6 @@
     <tag k="website" v="https://fb.me/consultoriopirani"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4933305050" lat="39.1274320" lon="-84.5173529" version="4" timestamp="2019-01-04T13:54:17Z" changeset="66022351" uid="439046" user="Eliyak">
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Black Frog Bitcoin ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="4935386453" lat="42.6109670" lon="23.3995246" version="2" timestamp="2019-03-23T23:48:51Z" changeset="68458068" uid="9451067" user="b-jazz-bot">
     <tag k="email" v="daniel@iristech.co"/>
     <tag k="name" v="Iris"/>
@@ -47772,16 +47017,6 @@
     <tag k="website" v="https://paranoid-internet.de/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4966820008" lat="36.9125432" lon="-76.2557703" version="3" timestamp="2021-08-30T21:56:04Z" changeset="110481477" uid="12669335" user="bevalim">
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:BCH" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="currency:others" v="yes"/>
-    <tag k="name" v="American Crypto ATM"/>
-    <tag k="operator" v="Black Frog ATMs"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.americancrypto.com/shellnorfolk"/>
-  </node>
   <node id="4967422813" lat="50.0770759" lon="8.2370224" version="4" timestamp="2022-11-04T20:49:25Z" changeset="128500403" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Wiesbaden"/>
     <tag k="addr:country" v="DE"/>
@@ -47879,28 +47114,6 @@
     <tag k="name" v="Storm Club"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="www.stormclub.cz"/>
-  </node>
-  <node id="4986389383" lat="-33.8983357" lon="151.2130595" version="4" timestamp="2021-11-18T02:09:56Z" changeset="113923473" uid="69399" user="tenzarelli">
-    <tag k="addr:city" v="Waterloo"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:postcode" v="2017"/>
-    <tag k="addr:street" v="Crystal Street"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="brand" v="BitRocket"/>
-    <tag k="currency:AUD" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="indoor" v="yes"/>
-    <tag k="level" v="0"/>
-    <tag k="name" v="BitRocket Bitcoin ATM at Crystal Mart Convenience Store"/>
-    <tag k="opening_hours" v="Mo-Su 06:00-24:00"/>
-    <tag k="operator" v="BitRocket Bitcoin ATM at Crystal Mart Convenience"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="phone" v="+61409733315"/>
-    <tag k="website" v="https://www.bitrocket.co"/>
   </node>
   <node id="4989822868" lat="48.2028621" lon="16.3715251" version="5" timestamp="2019-04-25T15:17:47Z" changeset="69569396" uid="1864709" user="Linie29">
     <tag k="description" v="Praxis für Psychotherapie, Paartherapie, Sexualtherapie und Hypnotherapie"/>
@@ -53211,28 +52424,6 @@
     <tag k="phone" v="9265171536"/>
     <tag k="shop" v="supermarket"/>
   </node>
-  <node id="5618206358" lat="34.0245960" lon="-118.2499330" version="6" timestamp="2022-08-05T22:14:42Z" changeset="124541509" uid="11523236" user="willkmis">
-    <tag k="addr:city" v="Los Angeles"/>
-    <tag k="addr:housenumber" v="1317"/>
-    <tag k="addr:postcode" v="90021"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="East Washington Boulevard"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="cash_in" v="yes"/>
-    <tag k="currency:BCH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="email" v="support@athenabitcoin.com"/>
-    <tag k="name" v="Athena Bitcoin ATM"/>
-    <tag k="network" v="Athena Bitcoin Inc."/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Athena Bitcoin ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-312690-4466"/>
-    <tag k="website" v="Athenabitcoin.com"/>
-  </node>
   <node id="5618257369" lat="34.0489560" lon="-117.2998564" version="5" timestamp="2019-02-22T08:54:01Z" changeset="67457836" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Colton"/>
     <tag k="addr:housenumber" v="1703 E."/>
@@ -53304,47 +52495,6 @@
     <tag k="wikidata" v="Q80955"/>
     <tag k="wikipedia" v="en:Santos FC"/>
   </node>
-  <node id="5620495188" lat="41.9172409" lon="-87.6997032" version="4" timestamp="2019-01-04T14:30:42Z" changeset="66023467" uid="439046" user="Eliyak">
-    <tag k="addr:city" v="Chicago"/>
-    <tag k="addr:housenumber" v="2901"/>
-    <tag k="addr:postcode" v="60647"/>
-    <tag k="addr:state" v="IL"/>
-    <tag k="addr:street" v="West Armitage Avenue"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:BCH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="email" v="support@athenabitcoin.com"/>
-    <tag k="name" v="Athena Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Athena Bitcoin Inc"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-312-690-4466"/>
-    <tag k="website" v="Athenabitcoin.com"/>
-  </node>
-  <node id="5620503155" lat="41.9316459" lon="-87.7131630" version="7" timestamp="2021-08-05T04:40:14Z" changeset="109174613" uid="1237170" user="Zol87">
-    <tag k="addr:city" v="Chicago"/>
-    <tag k="addr:housenumber" v="3145"/>
-    <tag k="addr:postcode" v="60647"/>
-    <tag k="addr:state" v="IL"/>
-    <tag k="addr:street" v="West Diversey Avenue"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="cash_in" v="yes"/>
-    <tag k="currency:BCH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="email" v="Support@athenabitcoin.com"/>
-    <tag k="name" v="Athena Bitcoin ATM"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Athena Bitcoin Inc."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="312.690.4466"/>
-    <tag k="website" v="Athenabitcoin.com"/>
-  </node>
   <node id="5621661738" lat="34.3918011" lon="132.4616812" version="1" timestamp="2018-05-16T09:52:24Z" changeset="59011532" uid="8280574" user="totorotalks">
     <tag k="amenity" v="bar"/>
     <tag k="name" v="Sky"/>
@@ -53388,24 +52538,6 @@
     <tag k="shop" v="cannabis"/>
     <tag k="website" v="http://www.facebook.com/greenovaIT"/>
   </node>
-  <node id="5627090343" lat="4.6774097" lon="-74.0479676" version="4" timestamp="2019-05-17T17:10:13Z" changeset="70366621" uid="8251929" user="AthenaBitcoinInc2015">
-    <tag k="addr:city" v="Bogotá"/>
-    <tag k="addr:housenumber" v="11a98"/>
-    <tag k="addr:street" v="Calle 93B"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:BCH" v="yes"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="name" v="Athena Bitcoin ATM"/>
-    <tag k="opening_hours" v="Mo-Su 09:00-12:00"/>
-    <tag k="operator" v="Athena Bitcoin Inc."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="54 011 48080605"/>
-    <tag k="support" v="soporte@athenabitcoin.com.ar"/>
-    <tag k="website" v="https://athenabitcoin.com.ar/"/>
-  </node>
   <node id="5629979212" lat="-41.2745353" lon="173.2858810" version="3" timestamp="2018-05-22T08:45:42Z" changeset="59173669" uid="7406858" user="rkuske">
     <tag k="addr:city" v="Nelson"/>
     <tag k="addr:housenumber" v="258"/>
@@ -53415,25 +52547,6 @@
     <tag k="name" v="Kuske Individual Eyewear"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="ref:linz:address_id" v="317851"/>
-  </node>
-  <node id="5632877418" lat="41.8689382" lon="-87.6396307" version="4" timestamp="2019-09-28T10:21:52Z" changeset="75036470" uid="6802608" user="Simon-v">
-    <tag k="addr:city" v="Chicago"/>
-    <tag k="addr:housenumber" v="1100"/>
-    <tag k="addr:postcode" v="60607"/>
-    <tag k="addr:state" v="IL"/>
-    <tag k="addr:street" v="South Canal Street"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:LTC" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="email" v="support@athenabitcoin.com"/>
-    <tag k="name" v="Athena Bitcon ATM"/>
-    <tag k="opening_hours" v="Mo-Su 9:00-21:00"/>
-    <tag k="operator" v="Athena Bitcoin Inc."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-312-690-4466"/>
-    <tag k="website" v="https://athenabitcoin.com"/>
   </node>
   <node id="5641200301" lat="56.2479442" lon="43.9893704" version="3" timestamp="2020-10-21T06:01:56Z" changeset="92804720" uid="519501" user="parukhin">
     <tag k="addr:city" v="нижний новгород"/>
@@ -53521,17 +52634,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:bitcoincash" v="yes"/>
     <tag k="website" v="http://bohemiaboardsandbrews.com"/>
-  </node>
-  <node id="5659828840" lat="42.9153270" lon="-72.2474853" version="3" timestamp="2021-12-27T17:11:15Z" changeset="115435959" uid="307520" user="wolfgang8741">
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="email" v="shirebtc@gmail.com"/>
-    <tag k="name" v="Shire Bitcoin ATM"/>
-    <tag k="operator" v="Crypto Shire Society"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-603-513-2449"/>
-    <tag k="website" v="https://shiresociety.com/crypto/"/>
   </node>
   <node id="5666120259" lat="52.1357671" lon="-0.4661667" version="3" timestamp="2018-12-02T14:17:28Z" changeset="65096486" uid="242345" user="confusedbuffalo">
     <tag k="addr:city" v="Bedford"/>
@@ -53693,20 +52795,6 @@
     <tag k="phone" v="+55 (68) 99203-0057"/>
     <tag k="shop" v="beauty"/>
   </node>
-  <node id="5669582020" lat="45.5353860" lon="10.1455100" version="1" timestamp="2018-06-06T12:25:20Z" changeset="59601099" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Roncadelle"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:postcode" v="25030"/>
-    <tag k="addr:street" v="Via Cascina Fiorita"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="ATM - cambio contanti in Bitcoin, Ethereum e Litecoin."/>
-    <tag k="email" v="pmandbr@gmail.com"/>
-    <tag k="name" v="Crypto ATM Brescia"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 3317043573"/>
-    <tag k="website" v="https://www.lasvegasgamesefood.it/atm-bitcoin"/>
-  </node>
   <node id="5678464417" lat="-19.9751951" lon="-43.9765926" version="2" timestamp="2018-12-04T21:57:58Z" changeset="65176053" uid="6309267" user="aoalmeida">
     <tag k="addr:city" v="Belo Horizonte"/>
     <tag k="addr:housenumber" v="147"/>
@@ -53836,19 +52924,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 0322090156"/>
     <tag k="website" v="http://www.obic.it"/>
-  </node>
-  <node id="5710611329" lat="38.1069016" lon="13.3401260" version="5" timestamp="2022-02-17T18:42:42Z" changeset="117533791" uid="10477933" user="FinixFighter">
-    <tag k="addr:city" v="Palermo"/>
-    <tag k="addr:housenumber" v="220"/>
-    <tag k="addr:postcode" v="90145"/>
-    <tag k="addr:street" v="Corso Calatafimi"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bancomat ATM di CryptoLocalAtm. Criptovalute supportate: Bitcoin, Ethereum, Litecoin, Dogecoin, Bitcoin Cash, Dash."/>
-    <tag k="email" v="support@cryptolocalatm.com"/>
-    <tag k="name" v="CryptoLocalATM (Lop Store)"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://cryptolocalatm.com"/>
   </node>
   <node id="5711151255" lat="45.9568651" lon="12.6595614" version="2" timestamp="2018-07-31T09:29:47Z" changeset="61222095" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Pordenone"/>
@@ -55008,14 +54083,6 @@
     <tag k="shop" v="electronics"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="6016058869" lat="45.4262932" lon="-75.6859282" version="1" timestamp="2018-10-26T18:41:07Z" changeset="63910375" uid="5789626" user="DannyMcD">
-    <tag k="addr:housenumber" v="487"/>
-    <tag k="addr:street" v="Cumberland Street"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="name" v="Bitcoin ATM @ Remac Convenience Store"/>
-    <tag k="operator" v="Bitcoin ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="6018533356" lat="53.8873170" lon="27.4556715" version="7" timestamp="2022-11-12T01:21:52Z" changeset="128798140" uid="278800" user="tbicr">
     <tag k="addr:city" v="Мінск"/>
     <tag k="addr:city:ru" v="Минск"/>
@@ -56007,71 +55074,6 @@
     <tag k="payment:bitcoin:operator" v="inbitcoin.it"/>
     <tag k="website" v="inlogica.it"/>
   </node>
-  <node id="6236530963" lat="45.4973980" lon="9.2213390" version="1" timestamp="2019-01-25T16:57:28Z" changeset="66637540" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:postcode" v="20127"/>
-    <tag k="addr:street" v="Via Merano"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin ATM di Chainblock, situato all'interno di Talent Garden."/>
-    <tag k="email" v="info@chainblock.it"/>
-    <tag k="name" v="Chainblock ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://chainblock.it"/>
-  </node>
-  <node id="6236532945" lat="45.4438590" lon="9.2080820" version="1" timestamp="2019-01-25T16:59:01Z" changeset="66637597" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:postcode" v="20139"/>
-    <tag k="addr:street" v="Via Arcivescovo Calabiana"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin ATM di Chainblock, situato all'interno di Talent Garden."/>
-    <tag k="email" v="info@chainblock.it"/>
-    <tag k="name" v="Chainblock ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://chainblock.it"/>
-  </node>
-  <node id="6236567436" lat="45.4393580" lon="10.8643980" version="1" timestamp="2019-01-25T17:10:51Z" changeset="66637926" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Sona"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="37060"/>
-    <tag k="addr:street" v="Via Trentino"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin ATM di Chainblock, situato all'interno del centro commerciale La Grande Mela."/>
-    <tag k="email" v="info@chainblock.it"/>
-    <tag k="name" v="Chainblock ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://chainblock.it"/>
-  </node>
-  <node id="6236571090" lat="44.6953230" lon="8.0338830" version="1" timestamp="2019-01-25T17:13:05Z" changeset="66637999" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Alba"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:postcode" v="12051"/>
-    <tag k="addr:street" v="Corso Italia"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin ATM di Chainblock, situato presso la sede dell'associazione Bitcoin Center."/>
-    <tag k="email" v="info@chainblock.it"/>
-    <tag k="name" v="Chainblock ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://chainblock.it"/>
-  </node>
-  <node id="6236578883" lat="39.2213850" lon="9.1214010" version="1" timestamp="2019-01-25T17:17:49Z" changeset="66638125" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Cagliari"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:postcode" v="09127"/>
-    <tag k="addr:street" v="Via Ottone Bacaredda"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin ATM di Chainblock, situato presso la sede dell'associazione &quot;100% Biodegradabile&quot;."/>
-    <tag k="email" v="info@chainblock.it"/>
-    <tag k="name" v="Chainblock ATM"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://chainblock.it"/>
-  </node>
   <node id="6237130421" lat="21.8629311" lon="-102.2843891" version="3" timestamp="2020-08-26T18:05:14Z" changeset="89985439" uid="9965337" user="ReedtheRiver">
     <tag k="addr:city" v="Aguascalientes"/>
     <tag k="addr:housenumber" v="504"/>
@@ -56224,19 +55226,6 @@
     <tag k="phone" v="+39 0381346301"/>
     <tag k="shop" v="beauty"/>
   </node>
-  <node id="6263584248" lat="41.8684550" lon="12.4432070" version="3" timestamp="2021-01-14T21:29:50Z" changeset="97516767" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="240 B"/>
-    <tag k="addr:postcode" v="00151"/>
-    <tag k="addr:street" v="Viale dei Colli Portuensi"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bancomat ATM di CryptoLocalAtm. Criptovalute supportate: Bitcoin, Ethereum, Litecoin, Dogecoin, Bitcoin Cash, Dash."/>
-    <tag k="email" v="support@cryptolocalatm.com"/>
-    <tag k="name" v="CryptoLocalATM c/o Nuvole d'aromi 2.0"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://cryptolocalatm.com"/>
-  </node>
   <node id="6274370271" lat="47.5208464" lon="8.0554929" version="1" timestamp="2019-02-12T14:14:36Z" changeset="67133085" uid="15671" user="habi">
     <tag k="addr:city" v="Ittenthal"/>
     <tag k="addr:housenumber" v="168"/>
@@ -56298,19 +55287,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="6295687143" lat="39.2354660" lon="9.0980040" version="1" timestamp="2019-02-22T13:34:48Z" changeset="67466396" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Cagliari"/>
-    <tag k="addr:housenumber" v="7A"/>
-    <tag k="addr:postcode" v="09122"/>
-    <tag k="addr:street" v="Via San Michele"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bancomat ATM di CryptoLocalAtm. Criptovalute supportate: Bitcoin, Ethereum, Litecoin, Dogecoin, Bitcoin Cash, Dash."/>
-    <tag k="email" v="support@cryptolocalatm.com"/>
-    <tag k="name" v="CryptoLocalATM c/o Aspiro Store"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://cryptolocalatm.com"/>
   </node>
   <node id="6297671100" lat="37.9610149" lon="23.6755122" version="2" timestamp="2019-02-23T16:43:17Z" changeset="67498045" uid="936280" user="beatnickgr">
     <tag k="addr:city" v="Άγιος Ιωάννης Ρέντη"/>
@@ -58039,19 +57015,6 @@
     <tag k="opening_hours" v="Mo 09:00-12:00, 14:30-19:30; Tu 09:00-17:00; We 09:00-12:00, 15:00-19:00; Tu 11:00-19:00; We 09:00-13:00, 15:30-19:00"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="6902000257" lat="40.8258050" lon="14.2044445" version="2" timestamp="2019-10-21T11:47:56Z" changeset="75993119" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Napoli"/>
-    <tag k="addr:housenumber" v="4-6-8"/>
-    <tag k="addr:postcode" v="80125"/>
-    <tag k="addr:street" v="Via Giulio Cesare"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="ATM della famiglia CryptoLocalATM situato all'interno del negozio di autoricambi R.A.M.I.R.A.. Criptovalute supportate: Bitcoin, Ethereum, Litecoin, Dogecoin, Bitcoin Cash, Dash, Monero."/>
-    <tag k="email" v="support@cryptolocalatm.com"/>
-    <tag k="name" v="CryptoLocalATM c/o R.A.M.I.R.A."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://cryptolocalatm.com"/>
-  </node>
   <node id="6909254568" lat="41.7084262" lon="44.7939305" version="1" timestamp="2019-10-23T14:02:30Z" changeset="76107565" uid="10405454" user="golivan">
     <tag k="addr:city" v="Tbilisi"/>
     <tag k="addr:housenumber" v="4"/>
@@ -58528,19 +57491,6 @@
     <tag k="phone" v="+996555424140"/>
     <tag k="shop" v="clothes"/>
     <tag k="website" v="https://www.instagram.com/purpur_kgz/"/>
-  </node>
-  <node id="7055327145" lat="41.9047103" lon="12.4465247" version="1" timestamp="2019-12-13T19:04:06Z" changeset="78389740" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="86"/>
-    <tag k="addr:postcode" v="00136"/>
-    <tag k="addr:street" v="Via Angelo Emo"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="ATM compra &amp; vendi. L'ATM è situato all'interno del negozio di sigarette elettroniche Luxury Vape. Criptovalute supportate: Bitcoin, Ethereum, Litecoin, Dogecoin, Bitcoin Cash, Dash, Monero."/>
-    <tag k="email" v="support@cryptolocalatm.com"/>
-    <tag k="name" v="CryptoLocalATM c/o Luxury Vape"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://cryptolocalatm.com"/>
   </node>
   <node id="7056211216" lat="41.3760960" lon="-83.6496457" version="3" timestamp="2021-07-09T06:02:55Z" changeset="107676990" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Bowling Green"/>
@@ -59563,19 +58513,6 @@
     <tag k="sport" v="yoga"/>
     <tag k="website" v="https://www.mypersonalhealthtraining.com"/>
   </node>
-  <node id="7661223557" lat="43.5531120" lon="10.3115160" version="5" timestamp="2022-03-24T22:39:45Z" changeset="118885462" uid="175882" user="MarcoR">
-    <tag k="addr:city" v="Livorno"/>
-    <tag k="addr:housenumber" v="58/60"/>
-    <tag k="addr:postcode" v="57123"/>
-    <tag k="addr:street" v="Viale Avvalorati"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="description" v="Bitcoin ATM che permette di acquistare Bitcoin, Ethereum, Litecoin, Dogecoin, Bitcoin Cash, Dash, Monero. L'ATM è situato all'interno del negozio di informatica Essedi Shop."/>
-    <tag k="email" v="support@cryptolocalatm.com"/>
-    <tag k="name" v="CryptoLocalATM C/o Essedi shop"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+44 789 4438974"/>
-    <tag k="website" v="https://cryptolocalatm.com"/>
-  </node>
   <node id="7662839838" lat="41.8865753" lon="-87.6346264" version="1" timestamp="2020-06-29T03:48:10Z" changeset="87267438" uid="1237170" user="Zol87">
     <tag k="addr:city" v="Chicago"/>
     <tag k="addr:housenumber" v="211"/>
@@ -59987,19 +58924,6 @@
     <tag k="service:vehicle:tyres" v="yes"/>
     <tag k="website" v="https://www.vrom.ro/"/>
   </node>
-  <node id="7889635660" lat="44.4248440" lon="8.8140640" version="1" timestamp="2020-09-09T09:29:31Z" changeset="90634776" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Genova"/>
-    <tag k="addr:housenumber" v="235R"/>
-    <tag k="addr:postcode" v="16156"/>
-    <tag k="addr:street" v="Lungomare di Pegli"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin ATM che permette di acquistare Bitcoin, Ethereum, Litecoin, Dogecoin, Bitcoin Cash, Dash, Monero. L'ATM è situato all'interno del negozio Ottico Rattaro."/>
-    <tag k="email" v="support@cryptolocalatm.com"/>
-    <tag k="name" v="CryptoLocalATM C/o Ottico Rattaro"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://cryptolocalatm.com"/>
-  </node>
   <node id="7891030816" lat="40.4292522" lon="-3.7013682" version="3" timestamp="2020-09-09T18:16:42Z" changeset="90660844" uid="11788280" user="Pedro_GF">
     <tag k="addr:city" v="Madrid"/>
     <tag k="addr:country" v="ES"/>
@@ -60278,19 +59202,6 @@
     <tag k="smoking" v="outside"/>
     <tag k="tourism" v="hostel"/>
   </node>
-  <node id="7985349866" lat="45.4312724" lon="9.2017584" version="1" timestamp="2020-10-07T15:12:14Z" changeset="92120577" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="207"/>
-    <tag k="addr:postcode" v="20141"/>
-    <tag k="addr:street" v="Via Giuseppe Ripamonti"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin ATM che permette di acquistare Bitcoin, Ethereum, Litecoin, Dogecoin, Bitcoin Cash, Dash, Monero. L'ATM è situato all'interno del negozio Euroumby SAS."/>
-    <tag k="email" v="support@cryptolocalatm.com"/>
-    <tag k="name" v="CryptoLocalATM C/o Euroumby SAS"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://cryptolocalatm.com"/>
-  </node>
   <node id="7986991548" lat="36.2952179" lon="59.5759913" version="4" timestamp="2022-01-08T14:26:35Z" changeset="115911819" uid="404146" user="HFatemi">
     <tag k="addr:city" v="مشهد"/>
     <tag k="addr:housenumber" v="150.3"/>
@@ -60495,20 +59406,6 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://www.niennaonline.com"/>
     <tag k="website:stock" v="nienna online"/>
-  </node>
-  <node id="8103860029" lat="40.8508540" lon="14.2722630" version="1" timestamp="2020-11-10T16:15:47Z" changeset="93872698" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Napoli"/>
-    <tag k="addr:housenumber" v="179"/>
-    <tag k="addr:postcode" v="80142"/>
-    <tag k="addr:street" v="Corso Arnaldo Lucci"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin ATM della famiglia CryptoLocalATM, situato alla stazione centrale di P.zza Garibaldi di Napoli, all'interno della biglietteria Ticket Office. Criptovalute supportate: Bitcoin, Ethereum, Litecoin, Dogecoin, Bitcoin Cash, Dash, Monero."/>
-    <tag k="email" v="support@cryptolocalatm.com"/>
-    <tag k="name" v="CryptoLocalATM - Bitcoin ATM Bancomat C/o BIGLIETTERIA Ticket Office"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+447894438974"/>
-    <tag k="website" v="https://cryptolocalatm.com"/>
   </node>
   <node id="8140859630" lat="37.4257271" lon="47.7019580" version="1" timestamp="2020-11-19T05:50:44Z" changeset="94411954" uid="12199445" user="webgostar">
     <tag k="addr:city" v="میانه"/>
@@ -61053,18 +59950,6 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="shop" v="lottery"/>
   </node>
-  <node id="8401720364" lat="-32.9518087" lon="-60.6508836" version="1" timestamp="2021-02-07T10:53:20Z" changeset="98845176" uid="1311281" user="mweper">
-    <tag k="addr:housenumber" v="1389"/>
-    <tag k="addr:street" v="Manuel Dorrego"/>
-    <tag k="amenity" v="payment_centre"/>
-    <tag k="brand" v="Pluspago Santa Fe"/>
-    <tag k="name" v="Pluspagos Santa Fe"/>
-    <tag k="operator" v="Lotería Joker Apuestas"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-  </node>
   <node id="8401720365" lat="-32.9521457" lon="-60.6367266" version="1" timestamp="2021-02-07T10:53:20Z" changeset="98845176" uid="1311281" user="mweper">
     <tag k="addr:housenumber" v="1208"/>
     <tag k="addr:street" v="Maipú"/>
@@ -61074,18 +59959,6 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="shop" v="lottery"/>
   </node>
-  <node id="8401720366" lat="-32.9521782" lon="-60.6367063" version="1" timestamp="2021-02-07T10:53:20Z" changeset="98845176" uid="1311281" user="mweper">
-    <tag k="addr:housenumber" v="1208"/>
-    <tag k="addr:street" v="Maipú"/>
-    <tag k="amenity" v="payment_centre"/>
-    <tag k="brand" v="Pluspago Santa Fe"/>
-    <tag k="name" v="Pluspagos Santa Fe"/>
-    <tag k="operator" v="Lotería Joker Apuestas"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-  </node>
   <node id="8401720367" lat="-32.9547448" lon="-60.6388356" version="1" timestamp="2021-02-07T10:53:20Z" changeset="98845176" uid="1311281" user="mweper">
     <tag k="addr:housenumber" v="1482"/>
     <tag k="addr:street" v="José de San Martín"/>
@@ -61094,18 +59967,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="shop" v="lottery"/>
-  </node>
-  <node id="8401720368" lat="-32.9547774" lon="-60.6388153" version="1" timestamp="2021-02-07T10:53:20Z" changeset="98845176" uid="1311281" user="mweper">
-    <tag k="addr:housenumber" v="1482"/>
-    <tag k="addr:street" v="José de San Martín"/>
-    <tag k="amenity" v="payment_centre"/>
-    <tag k="brand" v="Pluspago Santa Fe"/>
-    <tag k="name" v="Pluspagos Santa Fe"/>
-    <tag k="operator" v="Lotería Joker Apuestas"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
   </node>
   <node id="8404697472" lat="-15.8700614" lon="-47.9736278" version="1" timestamp="2021-02-08T11:15:20Z" changeset="98905087" uid="12625916" user="MODESTO Hamburgueria">
     <tag k="addr:city" v="Núcleo Bandeirante"/>
@@ -61390,28 +60251,6 @@
     <tag k="phone" v="+39 3755478869"/>
     <tag k="website" v="https://managerads.it"/>
   </node>
-  <node id="8482518035" lat="41.8918919" lon="12.5137556" version="1" timestamp="2021-03-03T10:49:41Z" changeset="100343104" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:postcode" v="00185"/>
-    <tag k="addr:street" v="Via Germano Sommeiller"/>
-    <tag k="description" v="Locazione stanze, posti letto."/>
-    <tag k="email" v="easyromerooms@gmail.com"/>
-    <tag k="name" v="Easy Rome Rooms"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="tourism" v="apartment"/>
-  </node>
-  <node id="8482519678" lat="41.8738739" lon="12.4376341" version="1" timestamp="2021-03-03T10:51:33Z" changeset="100343243" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="52"/>
-    <tag k="addr:postcode" v="00152"/>
-    <tag k="addr:street" v="Via Federico Ozanam"/>
-    <tag k="description" v="Stanze o posti letto per medio lunghi periodi."/>
-    <tag k="email" v="easyromerooms@gmail.com"/>
-    <tag k="name" v="Easy Rome Rooms"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="tourism" v="apartment"/>
-  </node>
   <node id="8492117525" lat="34.8172818" lon="-82.3691094" version="2" timestamp="2021-09-04T19:49:51Z" changeset="110729328" uid="9580498" user="AndyEye">
     <tag k="addr:city" v="Greenville"/>
     <tag k="addr:housenumber" v="862"/>
@@ -61553,20 +60392,6 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="10:30-20:30"/>
     <tag k="website" v="https://www.chengsbeijingaz.com"/>
-  </node>
-  <node id="8509556444" lat="41.9243669" lon="12.5155088" version="3" timestamp="2021-12-03T09:14:31Z" changeset="114514253" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:postcode" v="00198"/>
-    <tag k="addr:street" v="Piazza Annibaliano"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin ATM che permette di acquistare Bitcoin, Ethereum, Litecoin, Dogecoin, Bitcoin Cash, Dash, Monero. L'ATM è situato all'interno del negozio Assistenza Computer Roma."/>
-    <tag k="email" v="support@cryptolocalatm.com"/>
-    <tag k="name" v="CryptoLocalATM c/o Melaggiusti"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+447894438974"/>
-    <tag k="website" v="https://cryptolocalatm.com"/>
   </node>
   <node id="8509610856" lat="41.9762030" lon="12.4403320" version="1" timestamp="2021-03-12T09:07:52Z" changeset="100893986" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Roma"/>
@@ -62448,30 +61273,6 @@
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://Aria-Pro.ir"/>
   </node>
-  <node id="8753097385" lat="45.0704013" lon="11.7863931" version="1" timestamp="2021-05-21T13:24:26Z" changeset="105092995" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Rovigo"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="45100"/>
-    <tag k="addr:street" v="Via Marcello Grimani"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin ATM che permette di acquistare Bitcoin, Ethereum, Litecoin, Dogecoin, Bitcoin Cash, Dash, Monero. L'ATM è situato all'interno della TABACCHERIA ZIOSMOKE."/>
-    <tag k="email" v="support@cryptolocalatm.com"/>
-    <tag k="name" v="CryptoLocalATM c/o TABACCHERIA ZIOSMOKE"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+447894438974"/>
-    <tag k="website" v="https://cryptolocalatm.com"/>
-  </node>
-  <node id="8753137143" lat="37.5119040" lon="15.0850215" version="2" timestamp="2021-07-16T16:45:10Z" changeset="108129525" uid="743479" user="fayor">
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin ATM che permette di acquistare Bitcoin, Ethereum, Litecoin, Dogecoin, Bitcoin Cash, Dash, Monero. L'ATM è situato all'interno del negozio INVESTIGATU."/>
-    <tag k="email" v="support@cryptolocalatm.com"/>
-    <tag k="name" v="CryptoLocalATM c/o INVESTIGATU"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+447894438974"/>
-    <tag k="website" v="https://cryptolocalatm.com"/>
-  </node>
   <node id="8753152316" lat="45.5318205" lon="10.8131651" version="1" timestamp="2021-05-21T13:28:04Z" changeset="105093179" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Dolcè"/>
     <tag k="addr:housenumber" v="508"/>
@@ -62818,19 +61619,6 @@
     <tag k="phone" v="+34 91 436 4340"/>
     <tag k="website" v="http://www.hardrock.com/locations/cafes3/cafe.aspx?LocationID=40&amp;MIBEnumID=3"/>
     <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="8946987624" lat="40.6078275" lon="22.9630596" version="1" timestamp="2021-07-24T18:35:32Z" changeset="108542448" uid="12858253" user="greece1821">
-    <tag k="amenity" v="atm"/>
-    <tag k="cash_in" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Cryptocurrency ATM (Bitcoin, Ethereum, etc.)"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="image" v="https://api.bcash.eu/upload/images/uJv3ciuUzYxpVsnr.jpg"/>
-    <tag k="name" v="Bcash Bitcoin ATM"/>
-    <tag k="network" v="Bcash"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Bcash"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="8949647894" lat="37.9038824" lon="-76.8659448" version="4" timestamp="2021-12-15T01:31:56Z" changeset="114944559" uid="6641970" user="CurlingMan13">
     <tag k="amenity" v="charging_station"/>
@@ -63190,52 +61978,6 @@
     <tag k="shop" v="mobile_phone"/>
     <tag k="start_date" v="2010-08-26"/>
     <tag k="website" v="https://ardinmobile.com"/>
-  </node>
-  <node id="9262212334" lat="-33.8975220" lon="151.2133040" version="3" timestamp="2021-11-18T02:09:56Z" changeset="113923473" uid="69399" user="tenzarelli">
-    <tag k="access:covid19" v="yes"/>
-    <tag k="addr:city" v="Waterloo"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="2017"/>
-    <tag k="addr:street" v="Crystal Street"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="brand" v="BitRocket"/>
-    <tag k="currency:AUD" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="indoor" v="yes"/>
-    <tag k="level" v="0"/>
-    <tag k="name" v="BitRocket Bitcoin ATM at Coles (Meriton) Waterloo"/>
-    <tag k="opening_hours" v="Mo-Su 07:00-23:45"/>
-    <tag k="operator" v="BitRocket Bitcoin ATM at Coles Meriton Waterloo"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="phone" v="+61409733315"/>
-    <tag k="website" v="https://www.bitrocket.co"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="9262266013" lat="-33.8759706" lon="151.2059241" version="2" timestamp="2021-11-18T02:21:33Z" changeset="113923619" uid="69399" user="tenzarelli">
-    <tag k="addr:city" v="Sydney"/>
-    <tag k="addr:housenumber" v="537"/>
-    <tag k="addr:postcode" v="2000"/>
-    <tag k="addr:street" v="George Street"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="brand" v="BitRocket"/>
-    <tag k="cash_in" v="yes"/>
-    <tag k="currency:AUD" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="indoor" v="yes"/>
-    <tag k="level" v="0"/>
-    <tag k="name" v="BitRocket Bitcoin ATM at Crystal Mart Convenience Store"/>
-    <tag k="network" v="BitRocket"/>
-    <tag k="opening_hours" v="Mo-Su 08:00-22:00"/>
-    <tag k="operator" v="BitRocket Bitcoin ATM at Skyview Shopping Plaza George St Kent St CBD"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+61409733315"/>
-    <tag k="website" v="https://www.bitrocket.co"/>
   </node>
   <node id="9265449551" lat="3.4663122" lon="-76.5278490" version="2" timestamp="2021-11-19T02:42:28Z" changeset="113970417" uid="14483268" user="INTEGRAL TECNOLOGIA">
     <tag k="addr:city" v="Cali"/>
@@ -63649,21 +62391,6 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="self_service" v="no"/>
   </node>
-  <node id="9391569155" lat="45.6688905" lon="12.2412925" version="2" timestamp="2022-11-24T04:07:27Z" changeset="129304617" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Treviso"/>
-    <tag k="addr:housenumber" v="54"/>
-    <tag k="addr:postcode" v="31100"/>
-    <tag k="addr:street" v="Viale Bartolomeo D'Alviano"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="check_date:currency:XBT" v="2022-11-24"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoin ATM che permette di acquistare Bitcoin, Ethereum, Litecoin, Dogecoin, Bitcoin Cash, Dash, Monero. L'ATM è situato all'interno del BAR 98."/>
-    <tag k="email" v="support@cryptolocalatm.com"/>
-    <tag k="name" v="CryptoLocalATM c/o BAR 98"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+447894438974"/>
-    <tag k="website" v="https://cryptolocalatm.com"/>
-  </node>
   <node id="9397651286" lat="52.3605174" lon="9.7146754" version="3" timestamp="2022-10-04T13:26:03Z" changeset="126996092" uid="15587650" user="Throw77">
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:street" v="Hanomaghof"/>
@@ -63737,18 +62464,6 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="ref" v="E002481-2"/>
   </node>
-  <node id="9414058239" lat="8.7832490" lon="-82.4339349" version="2" timestamp="2022-03-14T14:08:23Z" changeset="118471621" uid="7160908" user="Alvarado2510">
-    <tag k="amenity" v="atm"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="indoor" v="yes"/>
-    <tag k="name" v="Bitcoin ATM Hotel Central Boquete"/>
-    <tag k="operator" v="CryptoCanal.io"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:credit_cards" v="no"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-  </node>
   <node id="9414649033" lat="50.4124090" lon="30.4422070" version="3" timestamp="2022-10-05T10:34:54Z" changeset="127040459" uid="2136761" user="flix1">
     <tag k="amenity" v="cafe"/>
     <tag k="brand" v="Aroma Kava"/>
@@ -63799,7 +62514,7 @@
     <tag k="shop" v="electronics"/>
     <tag k="website" v="https://ftrokenya.com"/>
   </node>
-  <node id="9445593413" lat="46.2145992" lon="-95.9970046" version="3" timestamp="2022-02-27T15:36:35Z" changeset="117912703" uid="9451067" user="b-jazz-bot">
+  <node id="9445593413" lat="46.2145992" lon="-95.9970046" version="4" timestamp="2022-12-28T11:08:41Z" changeset="130595532" uid="16891173" user="Lesiakower">
     <tag k="access" v="customers"/>
     <tag k="addr:city" v="Fergus Falls"/>
     <tag k="addr:housenumber" v="17463"/>
@@ -63809,7 +62524,6 @@
     <tag k="capacity:caravans" v="5"/>
     <tag k="capacity:persons" v="15"/>
     <tag k="charge" v="34 USD"/>
-    <tag k="description" v="We are a family-operated resort &amp; campground on Swan Lake, located a few miles south of Fergus Falls, MN. We offer lakeside cabins, tenting, and full hook-up, pull-through camping sites."/>
     <tag k="email" v="hello@swanlake.camp"/>
     <tag k="fee" v="yes"/>
     <tag k="name" v="Swan Lake Resort &amp; Campground"/>
@@ -65413,106 +64127,6 @@
     <tag k="phone" v="+1 855 558 6580"/>
     <tag k="website" v="https://paydepot.com/"/>
   </node>
-  <node id="10287520696" lat="-23.7688312" lon="-46.6768360" version="1" timestamp="2022-12-26T12:41:54Z" changeset="130514891" uid="10396321" user="saunter">
-    <tag k="addr:city" v="São Paulo"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:postcode" v="04853-070"/>
-    <tag k="addr:street" v="Rua Rufino Zado"/>
-    <tag k="addr:suburb" v="Jardim Noronha"/>
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="denomination" v="roman_catholic"/>
-    <tag k="description" v="Paróquia Santa Edwiges - Setor Varginha - Diocese de Santo Amaro - Igreja Católica Apostólica Romana"/>
-    <tag k="ele" v="760"/>
-    <tag k="email" v="santaedwiges@santoamaro.org.br"/>
-    <tag k="fax" v="+55 11 5932-5102"/>
-    <tag k="fixme" v="Forania Varginha"/>
-    <tag k="level" v="5"/>
-    <tag k="name" v="Paróquia Santa Edwiges"/>
-    <tag k="note" v="A Igreja Católica, chamada também de Igreja Católica Romana e Igreja Católica Apostólica Romana, é uma Igreja cristã com aproximadamente dois mil anos, colocada sob a autoridade suprema visível do Papa, Bispo de Roma e sucessor do apóstolo Pedro."/>
-    <tag k="payment:account_cards" v="yes"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:amex" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cheque" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:discover_card" v="yes"/>
-    <tag k="payment:dkv" v="yes"/>
-    <tag k="payment:electronic_purses" v="yes"/>
-    <tag k="payment:girocard" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:pikepass" v="yes"/>
-    <tag k="payment:uta" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:visa_debit" v="yes"/>
-    <tag k="payment:visa_electron" v="yes"/>
-    <tag k="phone" v="+55 11 5932-5102"/>
-    <tag k="religion" v="christian"/>
-    <tag k="service_times" v="07:00 ás 23:00"/>
-    <tag k="source" v="pmsp;survey;local knowledge;gps;aerial imagery;streetlevel imagery"/>
-    <tag k="start_date" v="24/03/2003"/>
-    <tag k="tourism" v="attraction"/>
-    <tag k="website" v="http://www.diocesedesantoamaro.org.br"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="10287524503" lat="-23.7853172" lon="-46.7104247" version="1" timestamp="2022-12-26T12:41:38Z" changeset="130514882" uid="10396321" user="saunter">
-    <tag k="addr:city" v="São Paulo"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:postcode" v="04865-150"/>
-    <tag k="addr:street" v="Rua Forte de Sepetuba"/>
-    <tag k="addr:suburb" v="Jardim Iporã"/>
-    <tag k="amenity" v="place_of_worship"/>
-    <tag k="denomination" v="roman_catholic"/>
-    <tag k="description" v="Paróquia São João Bosco - Setor Varginha - Diocese de Santo Amaro - Igreja Católica Apostólica Romana"/>
-    <tag k="ele" v="760"/>
-    <tag k="email" v="saojoaobosco@santoamaro.org.br"/>
-    <tag k="fax" v="+55 11 5979-2946"/>
-    <tag k="fixme" v="Forania Varginha"/>
-    <tag k="level" v="3"/>
-    <tag k="name" v="Paróquia São João Bosco"/>
-    <tag k="note" v="A Igreja Católica, chamada também de Igreja Católica Romana e Igreja Católica Apostólica Romana, é uma Igreja cristã com aproximadamente dois mil anos, colocada sob a autoridade suprema visível do Papa, Bispo de Roma e sucessor do apóstolo Pedro."/>
-    <tag k="payment:account_cards" v="yes"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:amex" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cheque" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:discover_card" v="yes"/>
-    <tag k="payment:dkv" v="yes"/>
-    <tag k="payment:electronic_purses" v="yes"/>
-    <tag k="payment:girocard" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:pikepass" v="yes"/>
-    <tag k="payment:uta" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:visa_debit" v="yes"/>
-    <tag k="payment:visa_electron" v="yes"/>
-    <tag k="phone" v="+55 11 5979-2946"/>
-    <tag k="religion" v="christian"/>
-    <tag k="service_times" v="07:00 ás 23:00"/>
-    <tag k="source" v="pmsp;survey;local knowledge;gps;aerial imagery;streetlevel imagery"/>
-    <tag k="start_date" v="31/01/2003"/>
-    <tag k="tourism" v="attraction"/>
-    <tag k="website" v="http://www.diocesedesantoamaro.org.br"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="10288114682" lat="40.4347988" lon="-74.2094780" version="1" timestamp="2022-12-26T20:08:02Z" changeset="130529286" uid="18062435" user="groeline561">
     <tag k="amenity" v="atm"/>
     <tag k="opening_hours" v="Mo-Sa 06:00-18:00, Su 06:00-15:00"/>
@@ -65753,6 +64367,118 @@
   <node id="10290659575" lat="40.2920738" lon="-74.0031700" version="1" timestamp="2022-12-28T05:22:47Z" changeset="130582812" uid="18062435" user="groeline561">
     <tag k="amenity" v="atm"/>
     <tag k="opening_hours" v="Mo-Sa 09:00-21:00; Su 10:00-19:00"/>
+    <tag k="operator" v="Pay Depot"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1 855 558 6580"/>
+    <tag k="website" v="https://paydepot.com/"/>
+  </node>
+  <node id="10290677215" lat="39.7188077" lon="-75.0770200" version="1" timestamp="2022-12-28T05:28:11Z" changeset="130582936" uid="18062435" user="groeline561">
+    <tag k="amenity" v="atm"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-20:00"/>
+    <tag k="operator" v="Pay Depot"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1 855 558 6580"/>
+    <tag k="website" v="https://paydepot.com/"/>
+  </node>
+  <node id="10290682508" lat="40.8807530" lon="-74.1447207" version="1" timestamp="2022-12-28T05:53:44Z" changeset="130583495" uid="18062435" user="groeline561">
+    <tag k="amenity" v="atm"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Pay Depot"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1 855 558 6580"/>
+    <tag k="website" v="https://paydepot.com/"/>
+  </node>
+  <node id="10290713682" lat="39.7359446" lon="-75.0474908" version="1" timestamp="2022-12-28T05:44:00Z" changeset="130583273" uid="18062435" user="groeline561">
+    <tag k="amenity" v="atm"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-18:00; Su 10:00-16:00"/>
+    <tag k="operator" v="Pay Depot"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1 855 558 6580"/>
+    <tag k="website" v="https://paydepot.com/"/>
+  </node>
+  <node id="10290724934" lat="40.4299652" lon="-74.1327189" version="1" timestamp="2022-12-28T05:25:56Z" changeset="130582877" uid="18062435" user="groeline561">
+    <tag k="amenity" v="atm"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-22:00"/>
+    <tag k="operator" v="Pay Depot"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1 855 558 6580"/>
+    <tag k="website" v="https://paydepot.com/"/>
+  </node>
+  <node id="10290745239" lat="40.5214742" lon="-74.8563517" version="1" timestamp="2022-12-28T06:01:10Z" changeset="130583680" uid="18062435" user="groeline561">
+    <tag k="amenity" v="atm"/>
+    <tag k="opening_hours" v="Mo-Sa 06:00-16:00"/>
+    <tag k="operator" v="Pay Depot"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1 855 558 6580"/>
+    <tag k="website" v="https://paydepot.com/"/>
+  </node>
+  <node id="10290757669" lat="40.5170092" lon="-74.4896164" version="1" timestamp="2022-12-28T05:58:24Z" changeset="130583613" uid="18062435" user="groeline561">
+    <tag k="amenity" v="atm"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Pay Depot"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1 855 558 6580"/>
+    <tag k="website" v="https://paydepot.com/"/>
+  </node>
+  <node id="10290759421" lat="40.3030897" lon="-74.3033278" version="1" timestamp="2022-12-28T05:56:25Z" changeset="130583565" uid="18062435" user="groeline561">
+    <tag k="amenity" v="atm"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Pay Depot"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1 855 558 6580"/>
+    <tag k="website" v="https://paydepot.com/"/>
+  </node>
+  <node id="10290765835" lat="39.7037540" lon="-75.1068083" version="1" timestamp="2022-12-28T05:55:14Z" changeset="130583531" uid="18062435" user="groeline561">
+    <tag k="amenity" v="atm"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Pay Depot"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1 855 558 6580"/>
+    <tag k="website" v="https://paydepot.com/"/>
+  </node>
+  <node id="10291897278" lat="40.5590381" lon="-74.2852466" version="1" timestamp="2022-12-28T19:03:19Z" changeset="130614967" uid="18062435" user="groeline561">
+    <tag k="amenity" v="atm"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-21:00"/>
+    <tag k="operator" v="Pay Depot"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1 855 558 6580"/>
+    <tag k="website" v="https://paydepot.com/"/>
+  </node>
+  <node id="10291928077" lat="40.0441293" lon="-74.1272527" version="1" timestamp="2022-12-28T19:07:46Z" changeset="130615056" uid="18062435" user="groeline561">
+    <tag k="amenity" v="atm"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Pay Depot"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1 855 558 6580"/>
+    <tag k="website" v="https://paydepot.com/"/>
+  </node>
+  <node id="10291937576" lat="40.7855478" lon="-74.1849956" version="1" timestamp="2022-12-28T19:05:21Z" changeset="130615005" uid="18062435" user="groeline561">
+    <tag k="amenity" v="atm"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Pay Depot"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1 855 558 6580"/>
+    <tag k="website" v="https://paydepot.com/"/>
+  </node>
+  <node id="10291950899" lat="39.6663412" lon="-75.6026095" version="1" timestamp="2022-12-28T19:24:08Z" changeset="130615524" uid="18062435" user="groeline561">
+    <tag k="amenity" v="atm"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Pay Depot"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1 855 558 6580"/>
+    <tag k="website" v="https://paydepot.com/"/>
+  </node>
+  <node id="10291959770" lat="39.9674414" lon="-75.0035813" version="1" timestamp="2022-12-28T19:21:23Z" changeset="130615448" uid="18062435" user="groeline561">
+    <tag k="amenity" v="atm"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-12:00"/>
+    <tag k="operator" v="Pay Depot"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+1 855 558 6580"/>
+    <tag k="website" v="https://paydepot.com/"/>
+  </node>
+  <node id="10291962688" lat="39.9320246" lon="-74.9609166" version="1" timestamp="2022-12-28T19:11:45Z" changeset="130615185" uid="18062435" user="groeline561">
+    <tag k="amenity" v="atm"/>
+    <tag k="opening_hours" v="24/7"/>
     <tag k="operator" v="Pay Depot"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1 855 558 6580"/>
