@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-03T05:23:31Z"/>
+<meta osm_base="2023-01-04T05:23:23Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -1090,7 +1090,7 @@
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="http://www.ecohotelgora.com/"/>
   </node>
-  <node id="1270188822" lat="52.5176913" lon="13.4419715" version="17" timestamp="2022-11-05T15:30:38Z" changeset="128525540" uid="17441326" user="BSN21M">
+  <node id="1270188822" lat="52.5176913" lon="13.4419715" version="18" timestamp="2023-01-03T09:12:46Z" changeset="130817362" uid="542549" user="Jan Tietje">
     <tag k="addr:city" v="Berlin"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:housenumber" v="93a"/>
@@ -1107,7 +1107,7 @@
     <tag k="name:fr" v="Musée du jeu vidéo Berlin"/>
     <tag k="name:nl" v="Computerspellenmuseum Berlijn"/>
     <tag k="name:ru" v="музей компьютерных игр"/>
-    <tag k="opening_hours" v="We-Mo 10:00-20:00; PH Tu off"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
     <tag k="operator" v="Gameshouse gGmbH"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
@@ -4462,11 +4462,6 @@
     <tag k="shop" v="bicycle"/>
     <tag k="source" v="King County GIS;data.seattle.gov"/>
     <tag k="website" v="http://www.counterbalancebicycles.com/"/>
-  </node>
-  <node id="2463245062" lat="40.2339429" lon="-111.6589718" version="1" timestamp="2013-09-18T19:31:51Z" changeset="17912145" uid="1749374" user="Ben Harper 21">
-    <tag k="name" v="Knives4Bitcoin"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.knives4bitcoin.com/"/>
   </node>
   <node id="2463255338" lat="33.0618314" lon="-117.3015836" version="1" timestamp="2013-09-18T19:42:45Z" changeset="17912328" uid="1749374" user="Ben Harper 21">
     <tag k="name" v="Shatto &amp; Sons Custom T-shirt Shop"/>
@@ -8791,17 +8786,6 @@
     <tag k="phone" v="1 530 863 0202"/>
     <tag k="website" v="www.orgonix23.com"/>
   </node>
-  <node id="2558184470" lat="40.2341354" lon="-111.6589654" version="3" timestamp="2019-05-25T12:24:39Z" changeset="70610171" uid="8339" user="mtmail">
-    <tag k="addr:city" v="Provo"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:postcode" v="84606"/>
-    <tag k="addr:street" v="North University Avenue"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="name" v="Black Sheep Cafe"/>
-    <tag k="note" v="Southwestern restaurant in Provo, Utah."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.urbanspoon.com/r/54/1657582/restaurant/Salt-Lake-City/Black-Sheep-Cafe-Provo"/>
-  </node>
   <node id="2558207279" lat="48.1561701" lon="17.1103149" version="5" timestamp="2015-07-08T13:36:45Z" changeset="32495662" uid="29762" user="Jose Riha">
     <tag k="addr:city" v="Bratislava"/>
     <tag k="addr:conscriptionnumber" v="3131"/>
@@ -11333,9 +11317,10 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://www.argentinavirtual.net/"/>
   </node>
-  <node id="2576573743" lat="17.5101187" lon="-88.2114903" version="3" timestamp="2014-05-03T07:08:15Z" changeset="22098266" uid="261617" user="azimut400gon">
+  <node id="2576573743" lat="17.5101187" lon="-88.2114903" version="4" timestamp="2023-01-04T02:05:23Z" changeset="130848370" uid="4751364" user="CharliePlett">
     <tag k="name" v="service station/tyre repair"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="shop" v="tyres"/>
   </node>
   <node id="2576576410" lat="40.3901436" lon="-3.6658899" version="8" timestamp="2021-04-14T08:48:04Z" changeset="102915157" uid="71626" user="Almorca">
     <tag k="addr:city" v="Madrid"/>
@@ -22498,30 +22483,6 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://thaiorchidks.com/"/>
   </node>
-  <node id="2731032775" lat="38.8936869" lon="-94.7969295" version="2" timestamp="2021-12-22T06:27:09Z" changeset="115236779" uid="55958" user="elyk">
-    <tag k="addr:housenumber" v="812"/>
-    <tag k="addr:street" v="North Ridgeview Road"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="913-390-8668"/>
-    <tag k="cuisine" v="chinese"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Chang's Wok"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="http://changswokolathe.com/"/>
-  </node>
-  <node id="2731148883" lat="38.9093109" lon="-94.7663088" version="2" timestamp="2014-04-12T17:53:03Z" changeset="21650733" uid="396746" user="DigitalDan">
-    <tag k="addr:housenumber" v="11953"/>
-    <tag k="addr:street" v="South Strang Line Road"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="913-780-2800"/>
-    <tag k="cuisine" v="sushi"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Sake Lounge"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="http://sakeolathe.menufy.com/"/>
-  </node>
   <node id="2731190432" lat="38.8833871" lon="-94.7998414" version="1" timestamp="2014-03-21T14:01:40Z" changeset="21227837" uid="1836471" user="Blobo123">
     <tag k="addr:housenumber" v="1103"/>
     <tag k="addr:street" v="East Santa Fe Street"/>
@@ -22593,18 +22554,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://geospizzaop.com/"/>
-  </node>
-  <node id="2733144799" lat="38.9265622" lon="-94.7211894" version="2" timestamp="2015-03-07T19:18:11Z" changeset="29315272" uid="2538098" user="opksteve">
-    <tag k="addr:housenumber" v="11729"/>
-    <tag k="addr:street" v="College Boulevard"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="913-469-1541"/>
-    <tag k="cuisine" v="chinese"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Nan Jing Restaurant"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="http://nanjingrestaurant.com/"/>
   </node>
   <node id="2733153870" lat="38.9282863" lon="-94.6983331" version="2" timestamp="2020-12-04T07:48:48Z" changeset="95275959" uid="2518150" user="AKLAB">
     <tag k="addr:housenumber" v="9928"/>
@@ -23736,22 +23685,6 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://greenriverchinese.com/"/>
   </node>
-  <node id="2760119318" lat="38.9987102" lon="-94.5425623" version="4" timestamp="2020-05-01T20:48:03Z" changeset="84493066" uid="10661773" user="Local-Mapper">
-    <tag k="addr:housenumber" v="3800"/>
-    <tag k="addr:street" v="East Gregory Boulevard"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="brand" v="Krispy Krunchy Chicken"/>
-    <tag k="brand:wikidata" v="Q65087447"/>
-    <tag k="brand:wikipedia" v="en:Krispy Krunchy Chicken"/>
-    <tag k="contact:phone" v="816-822-9432"/>
-    <tag k="cuisine" v="chicken"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Krispy Krunchy Chicken"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="http://krispycrunchychickenkc.com/"/>
-  </node>
   <node id="2760131148" lat="39.1061439" lon="-94.5407174" version="1" timestamp="2014-04-02T07:04:03Z" changeset="21451829" uid="1836471" user="Blobo123">
     <tag k="addr:housenumber" v="3405"/>
     <tag k="addr:street" v="Independence Avenue"/>
@@ -24120,10 +24053,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="434-219-0521"/>
     <tag k="website" v="http://www.vapocalypse.com"/>
-  </node>
-  <node id="2776237131" lat="19.3709484" lon="-99.1666932" version="1" timestamp="2014-04-07T21:28:55Z" changeset="21561115" uid="2021972" user="99Percent">
-    <tag k="name" v="Fantastico"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="2776271739" lat="40.7316402" lon="-73.9495325" version="3" timestamp="2021-02-21T20:49:05Z" changeset="99698608" uid="1954307" user="daniel_solow">
     <tag k="name" v="Spleenless Audio Mastering and Audio Restoration"/>
@@ -31886,11 +31815,12 @@
     <tag k="phone" v="+55 84 2010-3030"/>
     <tag k="website" v="http://www.2ti.com.br"/>
   </node>
-  <node id="3090170681" lat="40.2631805" lon="-111.6627830" version="10" timestamp="2021-10-07T01:59:25Z" changeset="112192539" uid="115918" user="Timothy Smith">
+  <node id="3090170681" lat="40.2631805" lon="-111.6627830" version="11" timestamp="2023-01-03T18:00:29Z" changeset="130836947" uid="17462838" user="MountainCitadel">
     <tag k="addr:city" v="Provo"/>
     <tag k="addr:housenumber" v="247"/>
     <tag k="addr:postcode" v="84604"/>
     <tag k="addr:street" v="West 2230 North"/>
+    <tag k="check_date" v="2023-01-3"/>
     <tag k="name" v="Massage and Bodywork - Experience The Difference LLC"/>
     <tag k="note" v="Inside Adagio Suite 201A"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -34037,12 +33967,13 @@
     <tag k="website" v="https://lojaodasbaterias.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3207833367" lat="38.9902774" lon="-94.6681796" version="3" timestamp="2019-02-18T20:04:43Z" changeset="67328322" uid="115918" user="Timothy Smith">
+  <node id="3207833367" lat="38.9902774" lon="-94.6681796" version="4" timestamp="2023-01-03T18:12:28Z" changeset="130837340" uid="17462838" user="MountainCitadel">
     <tag k="addr:city" v="Overland Park"/>
     <tag k="addr:housenumber" v="7620"/>
     <tag k="addr:postcode" v="66204"/>
     <tag k="addr:state" v="KS"/>
     <tag k="addr:street" v="Metcalf Avenue Suite E"/>
+    <tag k="name" v="We Buy Gold"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:coins" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
@@ -38455,17 +38386,16 @@
     <tag k="website" v="http://www.electrovibe.com.br"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3486805193" lat="25.8931971" lon="-80.1251651" version="2" timestamp="2017-09-07T20:29:47Z" changeset="51824408" uid="3265371" user="Andrew Matheny">
+  <node id="3486805193" lat="25.8931971" lon="-80.1251651" version="3" timestamp="2023-01-03T08:13:42Z" changeset="130815540" uid="8085973" user="Lejun">
     <tag k="addr:city" v="Bal Harbour"/>
     <tag k="addr:housenumber" v="9595"/>
     <tag k="addr:street" v="Harding ave"/>
     <tag k="contact:email" v="info@grayandsons.com"/>
     <tag k="contact:phone" v="(305) 865-0999"/>
     <tag k="contact:website" v="http://www.grayandsons.com"/>
-    <tag k="description" v="We sell luxury watches and jewelry. Rolex, Patek Philippe, Cartier"/>
     <tag k="name" v="Gray&amp;Sons"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="books"/>
+    <tag k="shop" v="watches"/>
   </node>
   <node id="3486896699" lat="-24.7885972" lon="-65.4086375" version="5" timestamp="2015-06-02T18:13:54Z" changeset="31672246" uid="26299" user="uboot">
     <tag k="addr:city" v="Salta Capital"/>
@@ -56349,8 +56279,11 @@
     <tag k="takeaway" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="7804882754" lat="50.8419170" lon="2.8717373" version="1" timestamp="2020-08-11T20:39:17Z" changeset="89269221" uid="253266" user="Sanderd17">
+  <node id="7804882754" lat="50.8419170" lon="2.8717373" version="2" timestamp="2023-01-03T13:17:40Z" changeset="130826412" uid="170722" user="JosV">
+    <tag k="addr:city" v="Ieper"/>
+    <tag k="addr:country" v="BE"/>
     <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:postcode" v="8900"/>
     <tag k="addr:street" v="Dikkebusseweg"/>
     <tag k="entrance" v="yes"/>
     <tag k="name" v="Kapsalon Extrême"/>
@@ -59865,13 +59798,12 @@
     <tag k="shop" v="mobile_phone"/>
     <tag k="website" v="www.техностор.net"/>
   </node>
-  <node id="9377277153" lat="21.0509502" lon="-86.8491955" version="2" timestamp="2022-01-05T17:37:19Z" changeset="115806608" uid="10633796" user="Kevin Donald">
+  <node id="9377277153" lat="21.0509502" lon="-86.8491955" version="3" timestamp="2023-01-03T08:08:35Z" changeset="130815388" uid="8085973" user="Lejun">
     <tag k="addr:city" v="Cancún"/>
     <tag k="addr:housenumber" v="01 L3-02"/>
     <tag k="addr:postcode" v="77560"/>
     <tag k="addr:street" v="S2-1 LOCAL 1, MZ, Luis Donaldo Colosio SM-305"/>
     <tag k="amenity" v="car_rental"/>
-    <tag k="description" v="City Car Rental is renowned for its multiple benefits, and a wide variety of cars available for rent, as well as its multiple options when it comes to booking. Don't hesitate to rent with us today"/>
     <tag k="email" v="local@citycarrental.com"/>
     <tag k="name" v="City Car Rental"/>
     <tag k="name:es" v="City Car Rental - Renta de Autos en Cancún"/>
