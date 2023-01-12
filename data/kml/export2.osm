@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-11T05:24:24Z"/>
+<meta osm_base="2023-01-12T05:24:24Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -491,14 +491,14 @@
     <tag k="website" v="https://chaoscc.ro/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="757471219" lat="43.6196966" lon="13.5114812" version="13" timestamp="2022-02-04T02:39:05Z" changeset="116986639" uid="2464108" user="la terrazza ancona">
+  <node id="757471219" lat="43.6197123" lon="13.5114319" version="14" timestamp="2023-01-11T19:02:07Z" changeset="131158363" uid="2464108" user="la terrazza ancona">
     <tag k="addr:city" v="Ancona"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:postcode" v="60121"/>
     <tag k="addr:street" v="Piazza del Plebiscito"/>
     <tag k="amenity" v="pub"/>
     <tag k="brewery" v="various;craft_beer;Extraomnes;eastside"/>
-    <tag k="description" v="Le migliori birre artigianali dall'Italia e dal Mondo. Cerchiamo di trasmettere la nostra passione per la birra nella piazza più bella della città."/>
+    <tag k="description" v="Le migliori birre artigianali dall'Italia e dal Mondo. &#x0a;Cocktail e Gin Tonic.&#x0a;Cerchiamo di trasmettere la nostra passione per la birra nella piazza più bella della città."/>
     <tag k="email" v="amarillo.ancona@gmail.com"/>
     <tag k="image" v="https://www.google.com/maps/uv?pb=!1s0x132d7fbb7bea08cd%3A0xac833e4531c05f6d!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNkUmI3LXnSGWUMSl1ekEksOm_bOu5_i8BmL502%3Dw443-h250-k-no!5samarillo%20beer%20bar%20ancona%20-%20Cerca%20con%20Googl"/>
     <tag k="internet_access" v="yes"/>
@@ -1071,19 +1071,6 @@
     <tag k="website" v="https://www.themadmonkfish.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="1432280517" lat="37.4269015" lon="-122.1479630" version="7" timestamp="2022-05-18T05:11:11Z" changeset="121125555" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Palo Alto"/>
-    <tag k="addr:housenumber" v="2123"/>
-    <tag k="addr:postcode" v="94306"/>
-    <tag k="addr:street" v="El Camino Real"/>
-    <tag k="description" v="Independent video store in Palo Alto with over 30,000 hand-picked DVD selection"/>
-    <tag k="name" v="Red Door Movie Rental"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="(650) 330-1201"/>
-    <tag k="shop" v="video"/>
-    <tag k="website" v="http://reddoormovies.com/"/>
-  </node>
   <node id="1470674920" lat="48.1471429" lon="17.1188022" version="8" timestamp="2019-03-29T20:24:47Z" changeset="68678443" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Bratislava"/>
     <tag k="addr:conscriptionnumber" v="2356"/>
@@ -1454,19 +1441,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+49 85449 972520-0"/>
     <tag k="website" v="http://romantikresort.de/"/>
-  </node>
-  <node id="1700031390" lat="36.0713982" lon="-115.2788655" version="4" timestamp="2022-06-26T21:54:05Z" changeset="122882551" uid="14825844" user="greenhillzone">
-    <tag k="addr:city" v="Las Vegas"/>
-    <tag k="addr:housenumber" v="6450"/>
-    <tag k="addr:postcode" v="89113"/>
-    <tag k="addr:street" v="South Durango Drive"/>
-    <tag k="check_date" v="2022-06-26"/>
-    <tag k="cuisine" v="mexican"/>
-    <tag k="disused:amenity" v="bar"/>
-    <tag k="name" v="Jalisco Cantina"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="702-312-8000"/>
-    <tag k="website" v="http://jaliscocantina.com/"/>
   </node>
   <node id="1704852291" lat="44.5409622" lon="11.2462469" version="4" timestamp="2018-07-08T15:52:12Z" changeset="60512548" uid="24126" user="dforsi">
     <tag k="addr:city" v="Bologna"/>
@@ -23657,7 +23631,7 @@
     <tag k="website" v="http://www.klippt.com.au"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2807858958" lat="-27.5358690" lon="151.9046083" version="2" timestamp="2019-08-20T03:49:13Z" changeset="73520683" uid="238419" user="HubMiner">
+  <node id="2807858958" lat="-27.5359534" lon="151.9045050" version="3" timestamp="2023-01-12T04:56:28Z" changeset="131169712" uid="7644291" user="Tech Dec">
     <tag k="addr:city" v="Toowoomba"/>
     <tag k="addr:housenumber" v="546"/>
     <tag k="addr:street" v="Bridge Street"/>
@@ -36964,17 +36938,19 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.instacoinatm.com/bitcoin-ahuntsic-cartierville-en.html"/>
   </node>
-  <node id="3578770317" lat="45.4584903" lon="9.2110173" version="6" timestamp="2019-11-29T23:27:26Z" changeset="77745868" uid="2201521" user="quibitcoin">
+  <node id="3578770317" lat="45.4584903" lon="9.2110173" version="9" timestamp="2023-01-11T12:12:52Z" changeset="131143255" uid="2971006" user="Davide Briani">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="25"/>
     <tag k="addr:postcode" v="20135"/>
     <tag k="addr:street" v="Via Spartaco"/>
-    <tag k="consulting" v="marketing"/>
     <tag k="name" v="Davide Briani"/>
-    <tag k="note" v="Il mio lavoro consiste nell'aiutare giovani, professionisti e società che intendono creare nuove opportunità di business a dare vita alle loro idee."/>
+    <tag k="note" v="Freelance Business Consultant"/>
+    <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+39 329 211 6070"/>
-    <tag k="website" v="https://www.davidebriani.com"/>
+    <tag k="twitter" v="https://twitter.com/briani_davide"/>
+    <tag k="website" v="https://briani.org"/>
   </node>
   <node id="3580267501" lat="39.4672607" lon="-0.3666390" version="3" timestamp="2019-04-24T09:05:24Z" changeset="69517854" uid="1947020" user="editemapes">
     <tag k="addr:city" v="Valencia"/>
@@ -38007,12 +37983,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 366 3722400"/>
     <tag k="website" v="http://www.computerokay.it"/>
-  </node>
-  <node id="3672483080" lat="-45.9034968" lon="170.5015593" version="7" timestamp="2019-03-17T07:30:47Z" changeset="68221098" uid="9451067" user="b-jazz-bot">
-    <tag k="name" v="Futurehealth NZ LTD"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:notes" v="Manuka Honey, Hemp seed oil, Olive Oil natural Soap"/>
-    <tag k="website" v="https://futurehealth.co.nz/"/>
   </node>
   <node id="3672820841" lat="45.6655004" lon="13.7736957" version="12" timestamp="2020-01-30T18:52:11Z" changeset="80332586" uid="3335899" user="GBAB">
     <tag k="addr:city" v="Trieste"/>
