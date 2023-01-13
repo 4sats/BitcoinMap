@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-12T05:24:24Z"/>
+<meta osm_base="2023-01-13T05:24:27Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -2157,7 +2157,7 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="ref:ruian:addr" v="25742493"/>
   </node>
-  <node id="2131651302" lat="47.6226867" lon="-122.3128920" version="11" timestamp="2022-03-10T04:30:59Z" changeset="118302573" uid="11390451" user="markkerrigan">
+  <node id="2131651302" lat="47.6226867" lon="-122.3128920" version="12" timestamp="2023-01-12T20:47:17Z" changeset="131204349" uid="226159" user="michael_kirk">
     <tag k="addr:city" v="Seattle"/>
     <tag k="addr:housenumber" v="425"/>
     <tag k="addr:postcode" v="98112"/>
@@ -2173,7 +2173,7 @@
     <tag k="phone" v="+1 206 322 1058"/>
     <tag k="shop" v="books"/>
     <tag k="source" v="King County GIS"/>
-    <tag k="website" v="https://www.seattletechnicalbooks.com/"/>
+    <tag k="website" v="https://www.adasbooks.com"/>
   </node>
   <node id="2133994339" lat="48.1156027" lon="-122.7540281" version="7" timestamp="2022-10-31T01:16:50Z" changeset="128269487" uid="36223" user="dalmond">
     <tag k="addr:city" v="Port Townsend"/>
@@ -4968,7 +4968,7 @@
     <tag k="website" v="https://patrickdobbins.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2519654523" lat="48.1476337" lon="17.1260727" version="9" timestamp="2019-10-04T09:49:56Z" changeset="75271966" uid="587752" user="d-sky">
+  <node id="2519654523" lat="48.1476337" lon="17.1260727" version="10" timestamp="2023-01-12T22:11:59Z" changeset="131206619" uid="1617449" user="aceman444">
     <tag k="addr:city" v="Bratislava"/>
     <tag k="addr:country" v="SK"/>
     <tag k="addr:housenumber" v="3"/>
@@ -4982,7 +4982,7 @@
     <tag k="cuisine" v="sandwich"/>
     <tag k="diet:vegetarian" v="yes"/>
     <tag k="name" v="Subway"/>
-    <tag k="opening_hours" v="Mo-Fr 07:00-22:00; Sa,Su 09:00-22:00"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-20:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="payment:worldcoin" v="yes"/>
@@ -6796,7 +6796,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.getaspark.com"/>
   </node>
-  <node id="2552783091" lat="30.3800983" lon="-86.8635037" version="7" timestamp="2016-05-02T18:08:33Z" changeset="39047566" uid="81676" user="Peter Dobratz">
+  <node id="2552783091" lat="30.3800983" lon="-86.8635037" version="8" timestamp="2023-01-12T19:02:42Z" changeset="131201223" uid="1884235" user="Graptemys">
     <tag k="addr:city" v="Navarre"/>
     <tag k="addr:housename" v="Pier Bar"/>
     <tag k="addr:housenumber" v="8579"/>
@@ -6804,7 +6804,7 @@
     <tag k="addr:street" v="Gulf Boulevard"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="capacity" v="150"/>
-    <tag k="cuisine" v="pizza;burgers"/>
+    <tag k="cuisine" v="pizza;burger"/>
     <tag k="name" v="Pier Bar"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="wheelchair" v="yes"/>
@@ -9692,7 +9692,7 @@
     <tag k="phone" v="+92 (0)3452980575"/>
     <tag k="website" v="http://symbolizers.com/"/>
   </node>
-  <node id="2573211756" lat="35.4765647" lon="-80.8923301" version="7" timestamp="2019-02-20T03:40:32Z" changeset="67375873" uid="9451067" user="b-jazz-bot">
+  <node id="2573211756" lat="35.4765647" lon="-80.8923301" version="8" timestamp="2023-01-12T18:15:25Z" changeset="131199846" uid="1884235" user="Graptemys">
     <tag k="addr:city" v="Cornelius"/>
     <tag k="addr:country" v="US"/>
     <tag k="addr:housenumber" v="19420"/>
@@ -9700,7 +9700,7 @@
     <tag k="addr:state" v="NC"/>
     <tag k="addr:street" v="Jetton Road"/>
     <tag k="amenity" v="cafe"/>
-    <tag k="cuisine" v="Coffee"/>
+    <tag k="cuisine" v="coffee"/>
     <tag k="name" v="Waterbean Coffee"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1 828-305-9999"/>
@@ -18328,20 +18328,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+61412956155"/>
   </node>
-  <node id="2691601693" lat="48.1480341" lon="17.1251684" version="5" timestamp="2021-11-05T20:58:02Z" changeset="113427070" uid="29717" user="eumiro">
-    <tag k="addr:city" v="Bratislava"/>
-    <tag k="addr:country" v="SK"/>
-    <tag k="addr:housenumber" v="8A"/>
-    <tag k="addr:postcode" v="821 08"/>
-    <tag k="addr:street" v="Karadžičova"/>
-    <tag k="addr:streetnumber" v="8A"/>
-    <tag k="email" v="info@goldsilver.sk"/>
-    <tag k="name" v="GoldSilver.sk s.r.o."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+421 907 697 988"/>
-    <tag k="shop" v="jewelry"/>
-    <tag k="website" v="http://www.goldsilver.sk"/>
-  </node>
   <node id="2691615900" lat="26.5830485" lon="-81.8753866" version="5" timestamp="2014-03-30T23:48:38Z" changeset="21410709" uid="1956105" user="Sweetwater Technologies">
     <tag k="addr:city" v="Fort Myers"/>
     <tag k="addr:housenumber" v="5264"/>
@@ -23328,13 +23314,13 @@
     <tag k="website" v="http://namasteclinic.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2791878069" lat="30.9909486" lon="-83.3750906" version="6" timestamp="2022-08-26T23:26:33Z" changeset="125426364" uid="338843" user="TorCguy">
+  <node id="2791878069" lat="30.9909486" lon="-83.3750906" version="7" timestamp="2023-01-12T18:15:25Z" changeset="131199846" uid="1884235" user="Graptemys">
     <tag k="addr:city" v="Hahira"/>
     <tag k="addr:housenumber" v="300"/>
     <tag k="addr:postcode" v="31632"/>
     <tag k="addr:street" v="West Main Street"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="ice_cream;candy;snow_cones;milkshakes"/>
+    <tag k="cuisine" v="ice_cream;candy;snow_cone;milkshake"/>
     <tag k="name" v="Stacey's Sweets"/>
     <tag k="opening_hours" v="Mo-Sa 12:00-19:00; Su 12:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -28875,9 +28861,9 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://rocksilesbarcellos.daportfolio.com/gallery/847313"/>
   </node>
-  <node id="3037098320" lat="35.2277584" lon="-80.8379824" version="5" timestamp="2018-04-24T22:30:27Z" changeset="58391132" uid="5009402" user="WashuOtaku">
+  <node id="3037098320" lat="35.2277584" lon="-80.8379824" version="6" timestamp="2023-01-12T18:15:25Z" changeset="131199846" uid="1884235" user="Graptemys">
     <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="hot_tamales"/>
+    <tag k="cuisine" v="tamales"/>
     <tag k="name" v="The Masa Casa"/>
     <tag k="note" v="This is a food cart and hours are sporadic due to other events the Masa Casa may have going on."/>
     <tag k="opening_hours" v="Sa 11:00-14:00"/>
@@ -29302,14 +29288,14 @@
     <tag k="phone" v="+1 816 805 4153"/>
     <tag k="website" v="https://nblmt.weebly.com/"/>
   </node>
-  <node id="3050499177" lat="34.2470788" lon="-77.9462250" version="2" timestamp="2022-09-09T14:31:21Z" changeset="125984259" uid="9509339" user="Njorlpinipini">
+  <node id="3050499177" lat="34.2470788" lon="-77.9462250" version="3" timestamp="2023-01-12T18:15:25Z" changeset="131199846" uid="1884235" user="Graptemys">
     <tag k="addr:city" v="Wilmington"/>
     <tag k="addr:housenumber" v="1001"/>
     <tag k="addr:postcode" v="28401"/>
     <tag k="addr:state" v="NC"/>
     <tag k="addr:street" v="North 4th Street"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="Fine_Dining"/>
+    <tag k="cuisine" v="fine_dining"/>
     <tag k="name" v="Canape"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="910-769-3713"/>
@@ -38063,18 +38049,6 @@
     <tag k="phone" v="(859) 685-7439"/>
     <tag k="website" v="https://www.devicepitstop.com/store/lexington/"/>
   </node>
-  <node id="3684963126" lat="-34.5871459" lon="-58.4287321" version="8" timestamp="2019-10-04T23:55:29Z" changeset="75306702" uid="8648323" user="Juan Manuel Dócile">
-    <tag k="addr:city" v="Buenos Aires"/>
-    <tag k="addr:housenumber" v="4848"/>
-    <tag k="addr:postcode" v="6660"/>
-    <tag k="addr:street" v="Costa Rica"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="name" v="Mercado Negro"/>
-    <tag k="operator" v="Mercado Negro"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="smoking" v="no"/>
-    <tag k="url" v="http://mercadonegro.club"/>
-  </node>
   <node id="3688115120" lat="50.4750242" lon="30.4461288" version="7" timestamp="2022-05-26T18:38:28Z" changeset="121540884" uid="94578" user="andygol">
     <tag k="name" v="Воронов Глеб"/>
     <tag k="name:en" v="Voronov Gleb"/>
@@ -41192,7 +41166,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="mall"/>
   </node>
-  <node id="4902755391" lat="25.1279770" lon="55.2125014" version="6" timestamp="2022-11-03T10:54:15Z" changeset="128432117" uid="9451067" user="b-jazz-bot">
+  <node id="4902755391" lat="25.1279838" lon="55.2125014" version="7" timestamp="2023-01-12T09:15:49Z" changeset="131178064" uid="16853655" user="LatrobeValley">
     <tag k="addr:city" v="القوز الصناعية"/>
     <tag k="addr:street" v="Street 4"/>
     <tag k="email" v="Info@andaleebcars.com"/>
@@ -52432,8 +52406,9 @@
     <tag k="payment:mercado_pago" v="yes"/>
     <tag k="shop" v="wine"/>
   </node>
-  <node id="8009000931" lat="14.5797275" lon="121.1361593" version="3" timestamp="2022-12-03T05:24:57Z" changeset="129666087" uid="1041828" user="GOwin">
+  <node id="8009000931" lat="14.5797275" lon="121.1361593" version="4" timestamp="2023-01-13T04:20:16Z" changeset="131212457" uid="1041828" user="GOwin">
     <tag k="addr:street" v="Ortigas Avenue Extension"/>
+    <tag k="addr:town" v="Taytay"/>
     <tag k="brand" v="Tambunting"/>
     <tag k="brand:wikidata" v="Q7681088"/>
     <tag k="brand:wikipedia" v="en:Tambunting"/>
@@ -55569,13 +55544,13 @@
     <tag k="start_date" v="2022-10-01"/>
     <tag k="website" v="https://penobit.com"/>
   </node>
-  <node id="9573487725" lat="40.4243238" lon="-86.9078392" version="1" timestamp="2022-03-12T18:13:46Z" changeset="118408006" uid="9625789" user="AwwJeez">
+  <node id="9573487725" lat="40.4243238" lon="-86.9078392" version="2" timestamp="2023-01-12T20:32:07Z" changeset="131203900" uid="1884235" user="Graptemys">
     <tag k="addr:city" v="West Lafayette"/>
     <tag k="addr:housenumber" v="108"/>
     <tag k="addr:postcode" v="47906"/>
     <tag k="addr:street" v="Northwestern Avenue"/>
     <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="Indian_Grill"/>
+    <tag k="cuisine" v="indian;grill"/>
     <tag k="name" v="Khana Khazana"/>
     <tag k="opening_hours" v="Tu-Fr 11:30-15:00,17:30-21:30; Sa-Su 12:00-15:00,17:30-22:30"/>
     <tag k="payment:bitcoin" v="yes"/>
