@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-13T05:24:27Z"/>
+<meta osm_base="2023-01-14T05:22:52Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -26924,14 +26924,16 @@
     <tag k="tourism" v="chalet"/>
     <tag k="website" v="https://la-palma-fincas.com/ferienhaus-fincas/garafia/shangri-la"/>
   </node>
-  <node id="2951721201" lat="37.5415927" lon="-77.4455177" version="4" timestamp="2020-07-06T10:43:33Z" changeset="87595729" uid="1507438" user="RVA_101">
-    <tag k="addr:city" v="Richmond"/>
+  <node id="2951721201" lat="37.5415927" lon="-77.4455177" version="5" timestamp="2023-01-13T20:15:55Z" changeset="131243959" uid="1408522" user="Omnific">
+    <tag k="addr:city" v="Richmond City"/>
     <tag k="addr:housenumber" v="113"/>
+    <tag k="addr:postcode" v="23220"/>
     <tag k="addr:state" v="VA"/>
     <tag k="addr:street" v="South Foushee Street"/>
     <tag k="craft" v="brewery"/>
     <tag k="name" v="Triple Crossing Beer - Downtown"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="source" v="esri_USDOT_Virgina"/>
   </node>
   <node id="2952051616" lat="-27.4676969" lon="153.0253150" version="2" timestamp="2018-07-30T10:47:31Z" changeset="61190497" uid="315009" user="yaleman">
     <tag k="addr:city" v="Brisbane"/>
@@ -28481,25 +28483,6 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="phone" v="+16193932253"/>
     <tag k="website" v="http:/fs.thebutterzone.com"/>
-  </node>
-  <node id="3014125291" lat="51.9732574" lon="5.6696496" version="5" timestamp="2022-12-30T09:50:32Z" changeset="130678521" uid="18129236" user="Kevin(NURDS)">
-    <tag k="addr:city" v="Wageningen"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:postcode" v="6707HT"/>
-    <tag k="addr:street" v="Vergersweg"/>
-    <tag k="contact:email" v="nurds@nurdspace.nl"/>
-    <tag k="contact:irc" v="irc://irc.oftc.net/#nurds"/>
-    <tag k="contact:phone" v="+31 317 794 512"/>
-    <tag k="contact:twitter" v="https://twitter.com/NURDspace"/>
-    <tag k="contact:website" v="https://nurdspace.nl/"/>
-    <tag k="drink:club-mate" v="yes"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="leisure" v="hackerspace"/>
-    <tag k="name" v="NURDSpace"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="BAG;local knowledge"/>
-    <tag k="source:date" v="2014-08-13"/>
-    <tag k="website" v="https://www.nurdspace.nl"/>
   </node>
   <node id="3016247866" lat="35.7645774" lon="-78.7422433" version="7" timestamp="2021-11-24T04:45:21Z" changeset="114164583" uid="238419" user="HubMiner">
     <tag k="addr:city" v="Cary"/>
@@ -35275,17 +35258,6 @@
     <tag k="shop" v="Buy and Sell Bitcoin"/>
     <tag k="website" v="http://www.StakeCo.in"/>
   </node>
-  <node id="3399774860" lat="53.3856852" lon="-2.3507619" version="6" timestamp="2017-09-16T15:13:07Z" changeset="52097736" uid="3067760" user="Rica Zamora Duchateau">
-    <tag k="addr:city" v="Altrincham"/>
-    <tag k="addr:housename" v="Diadem Jewellery"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:postcode" v="WA14 1DS"/>
-    <tag k="addr:street" v="Stamford New Road"/>
-    <tag k="name" v="Diadem Jewellery"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+44 161 465 3896"/>
-    <tag k="shop" v="jewelry"/>
-  </node>
   <node id="3401336967" lat="27.7713527" lon="-82.6430144" version="2" timestamp="2021-05-17T14:39:40Z" changeset="104832692" uid="55916" user="maxolasersquad">
     <tag k="addr:city" v="Saint Petersburg"/>
     <tag k="addr:housenumber" v="669"/>
@@ -37809,12 +37781,12 @@
     <tag k="name" v="Supermarket Orchid"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="3655258249" lat="55.8850809" lon="12.5102027" version="3" timestamp="2017-06-28T16:29:50Z" changeset="49896505" uid="603524" user="Jørn-osm">
+  <node id="3655258249" lat="55.8850809" lon="12.5102027" version="4" timestamp="2023-01-13T17:46:18Z" changeset="131239604" uid="1288" user="Niels Elgaard Larsen">
     <tag k="name" v="Betal med bitcoins overalt"/>
+    <tag k="office" v="company"/>
     <tag k="operator" v="Steffen Sølling"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+45 60 89 66 70"/>
-    <tag k="shop" v="yes"/>
     <tag k="website" v="https://betalmedbitcoinsoveralt.wordpress.com/"/>
   </node>
   <node id="3655291501" lat="45.9810439" lon="6.9254145" version="2" timestamp="2019-03-24T06:50:42Z" changeset="68462254" uid="9451067" user="b-jazz-bot">
@@ -41660,8 +41632,8 @@
     <tag k="phone" v="+39 075 5011619"/>
     <tag k="website" v="http://www.caseificioferretti.it"/>
   </node>
-  <node id="5001062689" lat="37.5547914" lon="-77.4849609" version="3" timestamp="2018-06-22T14:36:52Z" changeset="60078234" uid="6523991" user="Robin Townsend">
-    <tag k="addr:city" v="Richmond"/>
+  <node id="5001062689" lat="37.5547914" lon="-77.4849609" version="4" timestamp="2023-01-13T23:50:21Z" changeset="131248978" uid="1408522" user="Omnific">
+    <tag k="addr:city" v="Richmond City"/>
     <tag k="addr:country" v="US"/>
     <tag k="addr:housenumber" v="3324"/>
     <tag k="addr:postcode" v="23221"/>
@@ -41682,6 +41654,7 @@
     <tag k="payment:venmo" v="yes"/>
     <tag k="phone" v="+1 804 586 9482"/>
     <tag k="shop" v="mobile_phone"/>
+    <tag k="source" v="esri_USDOT_Virgina"/>
     <tag k="website" v="https://www.fruitfixed.com/"/>
   </node>
   <node id="5007341207" lat="50.0752439" lon="14.4515052" version="5" timestamp="2022-10-27T11:22:34Z" changeset="128122947" uid="8940770" user="pet2001">
@@ -45720,29 +45693,6 @@
     <tag k="phone" v="+1-512-381-7120"/>
     <tag k="website" v="https://www.vesselcoworking.com"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="5457392672" lat="46.5506564" lon="15.6634587" version="2" timestamp="2018-03-05T17:11:18Z" changeset="56909602" uid="7709007" user="patrikslo">
-    <tag k="addr:city" v="Maribor"/>
-    <tag k="addr:housenumber" v="4a"/>
-    <tag k="addr:postcode" v="2000"/>
-    <tag k="addr:street" v="Osojnikova ulica"/>
-    <tag k="description" v="Kitesurf,Windsurf,SUP,Wetsuits,ION,Neil Pryde,Cabrinha,North Sails,Fanatic.Free Worldwide delivery from 199 €"/>
-    <tag k="email" v="info@surfnow.eu"/>
-    <tag k="name" v="Surfnow.eu Webshop"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Surfnow d.o.o."/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:corion" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:visa_debit" v="yes"/>
-    <tag k="payment:visa_electron" v="yes"/>
-    <tag k="phone" v="+38651363580"/>
-    <tag k="shop" v="water_sports"/>
-    <tag k="website" v="https://www.surfnow.eu"/>
   </node>
   <node id="5457800104" lat="28.6785913" lon="-13.9371557" version="4" timestamp="2019-03-17T03:47:27Z" changeset="68218778" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Lajarares"/>
@@ -56583,6 +56533,27 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
+  </node>
+  <node id="10548606693" lat="29.3983964" lon="71.7582471" version="1" timestamp="2023-01-13T11:14:56Z" changeset="131224959" uid="18263261" user="Rohan Ghalib">
+    <tag k="addr:city" v="Bahawalpur"/>
+    <tag k="addr:housenumber" v="House no 132,"/>
+    <tag k="addr:postcode" v="63100"/>
+    <tag k="addr:street" v="Block E, Gechs"/>
+    <tag k="atm" v="no"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="name" v="TagLao Head Quarters"/>
+    <tag k="operator" v="Tezistan Technologies"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:unionpay" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+923252975751"/>
+    <tag k="shop" v="supermarket"/>
   </node>
 
 </osm>
