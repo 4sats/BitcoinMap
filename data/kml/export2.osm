@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-15T05:22:24Z"/>
+<meta osm_base="2023-01-16T05:23:37Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -876,30 +876,6 @@
     <tag k="shop" v="department_store"/>
     <tag k="source" v="http://newsbtc.com/2014/03/10/pounce-teams-coinbase-allow-shopping-target-major-retailers-using-bitcoin/"/>
   </node>
-  <node id="987950846" lat="52.5494566" lon="13.4146805" version="8" timestamp="2023-01-14T21:04:36Z" changeset="131279379" uid="18263258" user="lipa swiss">
-    <tag k="addr:city" v="Berlin"/>
-    <tag k="addr:housenumber" v="78"/>
-    <tag k="addr:postcode" v="10439"/>
-    <tag k="addr:street" v="Schönhauser Allee"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="brand" v="Subway"/>
-    <tag k="brand:wikidata" v="Q244457"/>
-    <tag k="brand:wikipedia" v="en:Subway (restaurant)"/>
-    <tag k="cuisine" v="sandwich"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="layer" v="-2"/>
-    <tag k="name" v="Subway"/>
-    <tag k="opening_hours" v="Mo-Su,PH 08:00-22:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:onchain" v="no"/>
-    <tag k="phone" v="+4915141823251"/>
-    <tag k="survey:date" v="2023-01-11"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="https://restaurants.subway.com/de/deutschland/be/berlin/schonhauser-allee-78?utm_source=yxt-goog&amp;utm_medium=local&amp;utm_term=acq&amp;utm_content=44583&amp;utm_campaign=evergreen-2020&amp;y_source=1_MTQ5MjU3MTUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="992864819" lat="40.4011040" lon="-3.6867402" version="3" timestamp="2022-09-09T16:14:37Z" changeset="125988015" uid="2136761" user="flix1">
     <tag k="amenity" v="cafe"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -941,25 +917,6 @@
     <tag k="smoking" v="outside"/>
     <tag k="website" v="http://lafrascabologna.it"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="1234120491" lat="47.0494630" lon="8.3088867" version="10" timestamp="2023-01-14T20:55:35Z" changeset="131279188" uid="18263258" user="lipa swiss">
-    <tag k="addr:city" v="Luzern"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="6003"/>
-    <tag k="addr:street" v="Frankenstrasse"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="contact:phone" v="+41 78 868 06 77"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="das weisse schaf"/>
-    <tag k="opening_hours" v="Mo-Th 17:00-24:00; Fr,Sa 17:00-03:00; Su off"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:onchain" v="no"/>
-    <tag k="survey:date" v="2023-01-12"/>
-    <tag k="website" v="https://www.dasweisseschaf.ch/"/>
-    <tag k="wheelchair" v="limited"/>
-    <tag k="wifi" v="no"/>
   </node>
   <node id="1245024653" lat="30.3958149" lon="-97.7196383" version="7" timestamp="2022-11-06T12:40:03Z" changeset="128553440" uid="12056179" user="Milroy1812">
     <tag k="addr:housenumber" v="11101"/>
@@ -1538,19 +1495,6 @@
     <tag k="stars" v="3"/>
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="http://apartman.ajaj.sk"/>
-  </node>
-  <node id="1712043067" lat="39.9665561" lon="-75.1391589" version="4" timestamp="2017-11-29T18:25:20Z" changeset="54185054" uid="2253140" user="thespacelink">
-    <tag k="addr:city" v="Philadelphia"/>
-    <tag k="addr:housename" v="The Piazza At Schmidts"/>
-    <tag k="addr:housenumber" v="1050"/>
-    <tag k="addr:postcode" v="19123"/>
-    <tag k="addr:street" v="North Hancock Street"/>
-    <tag k="cuisine" v="burger"/>
-    <tag k="disused:amenity" v="restaurant"/>
-    <tag k="name" v="PYT"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="215-964-9009"/>
-    <tag k="website" v="http://pytphilly.com/"/>
   </node>
   <node id="1721445031" lat="37.4855589" lon="-122.2264733" version="4" timestamp="2015-01-30T09:16:02Z" changeset="28500898" uid="439947" user="StephaneP">
     <tag k="addr:city" v="Redwood City"/>
@@ -14791,17 +14735,6 @@
     <tag k="phone" v="1-809-532-1814"/>
     <tag k="website" v="https://www.bayonetrobles.com/"/>
   </node>
-  <node id="2629245906" lat="39.9761173" lon="-75.1263343" version="1" timestamp="2014-01-19T23:02:46Z" changeset="20095100" uid="1828814" user="Jayzio">
-    <tag k="addr:city" v="Philadelphia"/>
-    <tag k="addr:housenumber" v="2432"/>
-    <tag k="addr:postcode" v="19125"/>
-    <tag k="addr:street" v="East Norris Street"/>
-    <tag k="contact:phone" v="(267) 210-3248"/>
-    <tag k="email" v="dennis.daly.16@facebook.com"/>
-    <tag k="name" v="Periphery Gallery"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.newsworks.org/index.php/local/view-finders/61700-fishtown-artist-turns-home-into-gallery-space-for-first-friday-photos"/>
-  </node>
   <node id="2629379729" lat="25.7794434" lon="-80.1401270" version="3" timestamp="2015-05-25T09:27:25Z" changeset="31439682" uid="213831" user="Josef73">
     <tag k="addr:city" v="Miami Beach"/>
     <tag k="addr:housenumber" v="915"/>
@@ -17216,18 +17149,6 @@
     <tag k="phone" v="+1 616 454 3080"/>
     <tag k="shop" v="books"/>
     <tag k="website" v="https://shop.acton.org/"/>
-  </node>
-  <node id="2670083520" lat="41.1677321" lon="-8.6267444" version="3" timestamp="2019-03-22T06:28:06Z" changeset="68398571" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Porto"/>
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:street" v="Rua Zentral Pebble"/>
-    <tag k="name" v="Kreative Gourmet"/>
-    <tag k="official_name" v="Kreative Gourmet, Lda."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+351 229 536 108"/>
-    <tag k="shop" v="convenience"/>
-    <tag k="source" v="http://www.creative-gourmet.com/pages/page-contact"/>
-    <tag k="website" v="https://www.creative-gourmet.com/"/>
   </node>
   <node id="2670089275" lat="34.6962913" lon="33.0325414" version="1" timestamp="2014-02-13T12:46:49Z" changeset="20540621" uid="1651798" user="oldenburg69">
     <tag k="addr:city" v="Limassol"/>
@@ -22161,22 +22082,6 @@
     <tag k="website" v="https://forsyth.com.au/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2760117912" lat="39.0993202" lon="-94.5569445" version="2" timestamp="2020-09-14T03:57:57Z" changeset="90837984" uid="694737" user="Sabra Sharaya">
-    <tag k="addr:city" v="Kansas City"/>
-    <tag k="addr:housenumber" v="2120"/>
-    <tag k="addr:postcode" v="64127"/>
-    <tag k="addr:state" v="MO"/>
-    <tag k="addr:street" v="East 12th Street"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="816-421-2955"/>
-    <tag k="cuisine" v="chinese"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Green River Chinese &amp; Vietnamese"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+18164212955"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="http://greenriverchinese.com/"/>
-  </node>
   <node id="2760131148" lat="39.1061439" lon="-94.5407174" version="1" timestamp="2014-04-02T07:04:03Z" changeset="21451829" uid="1836471" user="Blobo123">
     <tag k="addr:housenumber" v="3405"/>
     <tag k="addr:street" v="Independence Avenue"/>
@@ -22200,25 +22105,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://northchinakc.com/"/>
-  </node>
-  <node id="2760135936" lat="39.1065387" lon="-94.5626357" version="4" timestamp="2021-02-13T04:14:07Z" changeset="99202228" uid="10661773" user="Local-Mapper">
-    <tag k="addr:housenumber" v="1447"/>
-    <tag k="addr:street" v="Independence Avenue"/>
-    <tag k="alt_name" v="Phở Hoà"/>
-    <tag k="alt_name:en" v="Pho Hoa"/>
-    <tag k="alt_name:vi" v="Phở Hoà"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="brand" v="Phở Hòa"/>
-    <tag k="brand:wikidata" v="Q55629932"/>
-    <tag k="brand:wikipedia" v="en:Phở Hòa"/>
-    <tag k="contact:phone" v="+1-816-842-6800"/>
-    <tag k="cuisine" v="vietnamese;noodle"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Phở Hòa"/>
-    <tag k="name:vi" v="Phở Hòa"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="http://phohoakc.com/"/>
   </node>
   <node id="2760146275" lat="39.0571737" lon="-94.6057602" version="1" timestamp="2014-04-02T07:24:39Z" changeset="21452059" uid="1836471" user="Blobo123">
     <tag k="addr:housenumber" v="1715"/>
@@ -27036,12 +26922,13 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://bennictool.com/"/>
   </node>
-  <node id="2962927856" lat="26.7739384" lon="-80.1067021" version="3" timestamp="2014-07-14T18:23:31Z" changeset="24145985" uid="2184282" user="Kristof Toth">
+  <node id="2962927856" lat="26.7739384" lon="-80.1067021" version="4" timestamp="2023-01-15T17:24:18Z" changeset="131307033" uid="9509339" user="KenBaird01">
     <tag k="addr:city" v="West Palm Beach"/>
     <tag k="addr:housenumber" v="4423"/>
     <tag k="addr:postcode" v="33407"/>
     <tag k="addr:street" v="Westroads Drive"/>
     <tag k="name" v="Toth Realty"/>
+    <tag k="office" v="estate_agent"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="website" v="http://www.tothrealty.com"/>
@@ -50985,20 +50872,6 @@
     <tag k="payment:visa_electron" v="yes"/>
     <tag k="shop" v="hairdresser"/>
   </node>
-  <node id="7178242400" lat="41.1672131" lon="-8.6345468" version="2" timestamp="2020-05-21T13:28:09Z" changeset="85557719" uid="11218435" user="ecanro">
-    <tag k="addr:city" v="Porto"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="4250-192"/>
-    <tag k="addr:street" v="Rua Central de Francos"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="steak_house"/>
-    <tag k="name" v="Churrasqueira Central de Francos"/>
-    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
-    <tag k="payment" v="visa_debit"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="22 831 6426"/>
-    <tag k="takeaway" v="yes"/>
-  </node>
   <node id="7182641483" lat="-12.0682920" lon="-77.0137128" version="2" timestamp="2020-02-03T22:43:39Z" changeset="80500770" uid="10315929" user="Crea en linea">
     <tag k="addr:city" v="La Victoria"/>
     <tag k="addr:housenumber" v="1566"/>
@@ -56528,6 +56401,38 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+923252975751"/>
     <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="10556988648" lat="41.8824101" lon="12.4625839" version="4" timestamp="2023-01-15T16:04:54Z" changeset="131304150" uid="18285006" user="Monteverde Guesthouse">
+    <tag k="addr:city" v="Roma"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="00152"/>
+    <tag k="addr:street" v="Via Gabriele Rossetti"/>
+    <tag k="description" v="Marvel at the high ceilings and ingenious design like tree branch wall hangings and white stones in the shared sauna's shower that make this home unique. There's plenty to do with table tennis, foosball, sofas, a hammock, and a hot tub in the garden.&#x0a;Tour"/>
+    <tag k="email" v="info@monteverdeguesthouse.com"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="MONTEVERDE GUESTHOUSE"/>
+    <tag k="operator" v="Andrea Rimatori"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="phone" v="+393311031104"/>
+    <tag k="reservation" v="required"/>
+    <tag k="rooms" v="4"/>
+    <tag k="tourism" v="apartment"/>
+    <tag k="website" v="info@monteverdeguesthouse.com"/>
+  </node>
+  <node id="10557639363" lat="26.1706234" lon="-80.1321255" version="2" timestamp="2023-01-15T21:10:43Z" changeset="131314564" uid="16755087" user="Coinoswallet">
+    <tag k="address" v="1109 NE 34th Ct, Oakland Park, FL 33334, United States"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="WE OFFER PET STYLING &amp; GROOMING, BOARDING, DAYCARE &amp; IN-HOME PET SITTING"/>
+    <tag k="name" v="Dog Spot"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="(954) 261-0016"/>
+    <tag k="website" v="weknowdogs.co"/>
   </node>
 
 </osm>
