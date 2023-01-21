@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-20T05:24:01Z"/>
+<meta osm_base="2023-01-21T05:25:04Z"/>
 
   <node id="144033716" lat="50.0999576" lon="14.4299522" version="15" timestamp="2019-03-13T19:22:41Z" changeset="68111594" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Praha"/>
@@ -2701,22 +2701,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.restaurant-karakter.nl/"/>
   </node>
-  <node id="2306079328" lat="-41.2744749" lon="173.2858799" version="7" timestamp="2018-06-11T16:17:16Z" changeset="59747475" uid="118021" user="maggot27">
-    <tag k="addr:city" v="Nelson"/>
-    <tag k="addr:country" v="NZ"/>
-    <tag k="addr:housenumber" v="258"/>
-    <tag k="addr:postcode" v="7010"/>
-    <tag k="addr:street" v="Hardy Street"/>
-    <tag k="description" v="While in Nelson, don't miss this unique opportunity to go shopping. You will fall in love with one of the most exciting eyewear fashion experiences in New Zealand. An exquisite and carefully curated collection of women's and men's glasses and sunglasses"/>
-    <tag k="email" v="kuske.nz@gmail.com"/>
-    <tag k="name" v="Kuske Individual Eyewear"/>
-    <tag k="operator" v="Claudia &amp; Reiner Kuske"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+64-3-5458693"/>
-    <tag k="source" v="Reiner Kuske"/>
-    <tag k="website" v="https://kuske.co.nz"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="2306660345" lat="52.3669615" lon="4.9371836" version="6" timestamp="2020-06-19T07:32:52Z" changeset="86861323" uid="927112" user="CartoKees">
     <tag k="addr:city" v="Amsterdam"/>
     <tag k="addr:housename" v="ZB45"/>
@@ -5192,7 +5176,8 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://artesanosofiablog.wordpress.com/"/>
   </node>
-  <node id="2527309568" lat="44.9731202" lon="-93.2737845" version="4" timestamp="2021-06-18T01:57:29Z" changeset="106557444" uid="175702" user="AxelBoldt">
+  <node id="2527309568" lat="44.9731202" lon="-93.2737845" version="5" timestamp="2023-01-20T15:55:42Z" changeset="131513899" uid="158194" user="mneko">
+    <tag k="amenity" v="music_school"/>
     <tag k="name" v="Slam Academy"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-612-293-7526"/>
@@ -16047,12 +16032,6 @@
     <tag k="phone" v="+1-704-225-8686"/>
     <tag k="website" v="https://www.integrativechironc.com/"/>
   </node>
-  <node id="2651947262" lat="52.3683347" lon="9.7157832" version="4" timestamp="2019-03-10T13:19:43Z" changeset="67988339" uid="9451067" user="b-jazz-bot">
-    <tag k="name" v="enjoyyourcamera"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="photo"/>
-    <tag k="website" v="https://www.enjoyyourcamera.com/"/>
-  </node>
   <node id="2652165942" lat="45.4456927" lon="9.1530407" version="4" timestamp="2016-12-28T14:41:01Z" changeset="44732653" uid="2201521" user="quibitcoin">
     <tag k="description" v="Adesivi personalizzati, toppe personalizzate per motociclisti  e grafiche per stampe striscioni, ecc. Toppe antigraffio, toppe in pelle e prodotti di vario genere."/>
     <tag k="name" v="wowoRacing"/>
@@ -18032,7 +18011,7 @@
     <tag k="phone" v="+1 888 544 9376"/>
     <tag k="website" v="http://www.cabinetgrow.com/"/>
   </node>
-  <node id="2689745271" lat="50.8265951" lon="-0.1385072" version="9" timestamp="2020-02-23T00:57:53Z" changeset="81357539" uid="1868422" user="falcon2">
+  <node id="2689745271" lat="50.8266088" lon="-0.1384659" version="10" timestamp="2023-01-20T19:07:32Z" changeset="131519843" uid="7329" user="Jez Nicholson">
     <tag k="addr:city" v="Brighton"/>
     <tag k="addr:housename" v="Flawless Clothing"/>
     <tag k="addr:housenumber" v="20"/>
@@ -30943,13 +30922,13 @@
     <tag k="office" v="lawyer"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="3171073278" lat="46.8718987" lon="-113.9927117" version="5" timestamp="2019-12-03T05:48:43Z" changeset="77852692" uid="9380236" user="Evilscaught">
+  <node id="3171073278" lat="46.8718987" lon="-113.9927117" version="6" timestamp="2023-01-20T21:24:08Z" changeset="131523447" uid="1884235" user="Graptemys">
     <tag k="addr:city" v="Missoula"/>
     <tag k="addr:housenumber" v="136"/>
     <tag k="addr:postcode" v="59802"/>
     <tag k="addr:state" v="MT"/>
     <tag k="addr:street" v="East Broadway Street"/>
-    <tag k="cuisine" v="Tea"/>
+    <tag k="cuisine" v="tea"/>
     <tag k="internet_access" v="no"/>
     <tag k="name" v="Lake Missoula Tea Company"/>
     <tag k="opening_hours" v="Mo-Fr 10:00-17:00, Sa 11:00-16:00"/>
@@ -33675,7 +33654,7 @@
     <tag k="shop" v="bicycle"/>
     <tag k="website" v="http://www.adisbikeworld.net/"/>
   </node>
-  <node id="3295632465" lat="33.5891120" lon="-112.1193873" version="6" timestamp="2020-01-09T22:51:10Z" changeset="79395273" uid="5164" user="woodpeck">
+  <node id="3295632465" lat="33.5891120" lon="-112.1193873" version="7" timestamp="2023-01-20T21:24:08Z" changeset="131523447" uid="1884235" user="Graptemys">
     <tag k="addr:city" v="Phoenix"/>
     <tag k="addr:country" v="US"/>
     <tag k="addr:housenumber" v="11225"/>
@@ -33686,7 +33665,7 @@
     <tag k="amenity" v="cafe"/>
     <tag k="contact:phone" v="+1 602 595 8393"/>
     <tag k="contact:website" v="https://www.facebook.com/AshleighsCafeLakeShore"/>
-    <tag k="cuisine" v="breakfast,_bagels,_lunch,_sandwiches,_wraps,_Chicago_dogs"/>
+    <tag k="cuisine" v="breakfast;bagel;lunch;sandwich;wrap;chicago_dogs"/>
     <tag k="internet_access" v="yes"/>
     <tag k="name" v="Ashleigh's Cafe"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-15:30"/>
@@ -46007,16 +45986,6 @@
     <tag k="shop" v="cannabis"/>
     <tag k="website" v="http://www.facebook.com/greenovaIT"/>
   </node>
-  <node id="5629979212" lat="-41.2745353" lon="173.2858810" version="3" timestamp="2018-05-22T08:45:42Z" changeset="59173669" uid="7406858" user="rkuske">
-    <tag k="addr:city" v="Nelson"/>
-    <tag k="addr:housenumber" v="258"/>
-    <tag k="addr:postcode" v="7010"/>
-    <tag k="addr:street" v="Hardy Street"/>
-    <tag k="addr:suburb" v="Nelson"/>
-    <tag k="name" v="Kuske Individual Eyewear"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="ref:linz:address_id" v="317851"/>
-  </node>
   <node id="5641200301" lat="56.2479442" lon="43.9893704" version="3" timestamp="2020-10-21T06:01:56Z" changeset="92804720" uid="519501" user="parukhin">
     <tag k="addr:city" v="нижний новгород"/>
     <tag k="addr:housenumber" v="1 к4"/>
@@ -48843,19 +48812,6 @@
     <tag k="phone" v="+306972576688"/>
     <tag k="website" v="https://macway.gr"/>
   </node>
-  <node id="6463320086" lat="-26.2492552" lon="-49.3857856" version="3" timestamp="2020-12-08T23:23:01Z" changeset="95515216" uid="12306047" user="Eu Uso BTC">
-    <tag k="addr:city" v="São Bento do Sul"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:postcode" v="89280-118"/>
-    <tag k="addr:street" v="Travessa Theodoro Koch"/>
-    <tag k="addr:suburb" v="Centro"/>
-    <tag k="amenity" v="dentist"/>
-    <tag k="healthcare" v="dentist"/>
-    <tag k="healthcare:speciality" v="dentist;orthodontics"/>
-    <tag k="name" v="Huberto Leal Ortodontia"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="6468437134" lat="22.6219380" lon="120.2865588" version="2" timestamp="2022-11-04T22:06:14Z" changeset="128502640" uid="1836965" user="Liongrass">
     <tag k="operator" v="Bitcoin ATM"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -49404,7 +49360,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://exnaturis.ch"/>
   </node>
-  <node id="6778342663" lat="40.5227455" lon="-111.8983061" version="3" timestamp="2019-09-16T10:21:46Z" changeset="74523071" uid="616774" user="mueschel">
+  <node id="6778342663" lat="40.5227455" lon="-111.8983061" version="4" timestamp="2023-01-20T21:24:08Z" changeset="131523447" uid="1884235" user="Graptemys">
     <tag k="addr:city" v="Draper"/>
     <tag k="addr:housenumber" v="12577 S"/>
     <tag k="addr:postcode" v="84020"/>
@@ -49413,8 +49369,8 @@
     <tag k="addr:unit" v="4A"/>
     <tag k="air_conditioning" v="yes"/>
     <tag k="brand" v="Keto Chow"/>
-    <tag k="cuisine" v="keto;ketogenic"/>
     <tag k="currency:USD" v="yes"/>
+    <tag k="diet:keto" v="only"/>
     <tag k="internet_access" v="no"/>
     <tag k="name" v="Keto Chow"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-17:00"/>
@@ -49817,16 +49773,6 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="shop" v="pawnbroker"/>
-  </node>
-  <node id="6853720953" lat="45.5246290" lon="10.2102430" version="2" timestamp="2023-01-19T15:18:18Z" changeset="131471410" uid="17001488" user="Villaggio Bitcoin">
-    <tag k="addr:city" v="Brescia"/>
-    <tag k="addr:housenumber" v="66"/>
-    <tag k="addr:postcode" v="25100"/>
-    <tag k="addr:street" v="Via Cipro"/>
-    <tag k="description" v="CHIUSO DA GENNAIO 2023"/>
-    <tag k="name" v="Talent Garden"/>
-    <tag k="office" v="coworking_space"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="6853730654" lat="44.5750470" lon="11.3639960" version="1" timestamp="2019-10-05T14:38:48Z" changeset="75320197" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Castel Maggiore"/>
@@ -56178,6 +56124,34 @@
     <tag k="phone" v="+39 0364 536700"/>
     <tag k="shop" v="yes"/>
     <tag k="website" v="https://www.architettorusconi.com/"/>
+  </node>
+  <node id="10569451997" lat="39.8777881" lon="32.8171092" version="1" timestamp="2023-01-20T05:25:47Z" changeset="131492337" uid="1386706" user="Nesim">
+    <tag k="addr:city" v="Ankara"/>
+    <tag k="addr:housenumber" v="4/25A"/>
+    <tag k="addr:postcode" v="06000"/>
+    <tag k="addr:street" v="Cevizlidere Cad."/>
+    <tag k="name" v="Ivmech Mechatronics"/>
+    <tag k="office" v="company"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:litecoin" v="yes"/>
+    <tag k="phone" v="+90 312 473 00 14"/>
+    <tag k="website" v="http://www.ivmech.com"/>
+  </node>
+  <node id="10571568841" lat="25.7921015" lon="-80.1368854" version="1" timestamp="2023-01-20T21:59:26Z" changeset="131524527" uid="16755087" user="Coinoswallet">
+    <tag k="addr:city" v="Miami Beach"/>
+    <tag k="addr:housenumber" v="1688"/>
+    <tag k="addr:postcode" v="33139"/>
+    <tag k="addr:state" v="FL"/>
+    <tag k="addr:street" v="Meridian Avenue"/>
+    <tag k="addr:unit" v="708"/>
+    <tag k="amenity" v="boat_rental"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Embassy Miami Experience"/>
+    <tag k="opening_hours" v="24/7 appointment only"/>
+    <tag k="operator" v="Craig"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
   </node>
 
 </osm>
