@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-29T05:22:22Z"/>
+<meta osm_base="2023-01-30T05:23:34Z"/>
 
   <node id="264125881" lat="51.4785038" lon="7.2094135" version="5" timestamp="2019-12-07T08:57:40Z" changeset="78081568" uid="18130" user="black_bike">
     <tag k="addr:city" v="Bochum"/>
@@ -21280,17 +21280,6 @@
     <tag k="website" v="http://www.urbanputt.com"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2841380371" lat="-33.7564750" lon="26.3918250" version="4" timestamp="2019-04-26T14:17:12Z" changeset="69602587" uid="9715317" user="Borkasohn">
-    <tag k="email" v="info@woodycape.co.za"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Woody Cape Backpackers"/>
-    <tag k="operator" v="Peter Murrell"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+27 87 943 6849"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="tourism" v="hostel"/>
-    <tag k="website" v="http://www.woodycape.co.za"/>
-  </node>
   <node id="2841516401" lat="49.1835257" lon="-2.1028534" version="2" timestamp="2020-04-20T07:41:59Z" changeset="83804683" uid="1811738" user="47NOE">
     <tag k="addr:city" v="St Helier"/>
     <tag k="addr:housenumber" v="1-3"/>
@@ -30445,13 +30434,6 @@
     <tag k="operator" v="Everardo Barojas"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="56 66 33 83"/>
-  </node>
-  <node id="3314209471" lat="-32.0668517" lon="29.0825989" version="2" timestamp="2018-01-28T12:22:08Z" changeset="55827555" uid="69594" user="Bube">
-    <tag k="name" v="Wild Lubanzi Backpackers"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="smoking" v="separated"/>
-    <tag k="tourism" v="hostel"/>
-    <tag k="website" v="http://www.wildlubanzi.co.za/"/>
   </node>
   <node id="3314469267" lat="45.9642100" lon="12.5334600" version="2" timestamp="2022-11-04T11:28:36Z" changeset="128478935" uid="17579871" user="Matteo Pavanello Videomaker e pilota di droni">
     <tag k="addr:city" v="Sacile"/>
@@ -47462,6 +47444,20 @@
     <tag k="payment:mercado_pago" v="yes"/>
     <tag k="shop" v="wine"/>
   </node>
+  <node id="8002150986" lat="17.2599794" lon="-88.7941753" version="4" timestamp="2023-01-29T18:12:09Z" changeset="131849991" uid="4147243" user="karlegar">
+    <tag k="addr:city" v="Roaring Creek"/>
+    <tag k="addr:street" v="Western Highway"/>
+    <tag k="description" v="Sale of used items for home, office, sports, hand and power tools, fabrics, clothing for ladies and gentlemen, glassware, ornaments, etc."/>
+    <tag k="name" v="Frogman Resale"/>
+    <tag k="opening_hours" v="Su 07:00-15:00; Mo-Th 08:00-17:00; Fr 08:00-18:; Sa 08:00-15:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cheque" v="yes"/>
+    <tag k="payment:kyash" v="yes"/>
+    <tag k="phone" v="+501 600-7636;+501 668-3117"/>
+    <tag k="shop" v="second_hand"/>
+    <tag k="website" v="http://www.frogmanresale.com"/>
+  </node>
   <node id="8009000931" lat="14.5797275" lon="121.1361593" version="4" timestamp="2023-01-13T04:20:16Z" changeset="131212457" uid="1041828" user="GOwin">
     <tag k="addr:street" v="Ortigas Avenue Extension"/>
     <tag k="addr:town" v="Taytay"/>
@@ -51606,25 +51602,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+ 64 0508 677 4737"/>
     <tag k="website" v="https://www.mrpipes.co.nz/"/>
-  </node>
-  <node id="10590342147" lat="-34.5773197" lon="-58.4334606" version="2" timestamp="2023-01-29T03:06:02Z" changeset="131828217" uid="16755087" user="Coinoswallet">
-    <tag k="addr:city" v="Buenos Aires"/>
-    <tag k="addr:housenumber" v="5420"/>
-    <tag k="addr:street" v="Paraguay"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="jsilver@rolfbodywork.com"/>
-    <tag k="name" v="Rolf Bodywork"/>
-    <tag k="opening_hours" v="24/7 appointment only"/>
-    <tag k="operator" v="Jessica"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coinos" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="1-604-767-2971"/>
-    <tag k="shop" v="massage"/>
-    <tag k="website" v="https://rolfbodywork.com/"/>
   </node>
 
 </osm>
