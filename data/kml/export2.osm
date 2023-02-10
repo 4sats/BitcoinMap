@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-09T05:24:24Z"/>
+<meta osm_base="2023-02-10T05:25:21Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -4944,15 +4944,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://ecobox.com/"/>
   </node>
-  <node id="2563697703" lat="35.3391820" lon="-89.8978521" version="1" timestamp="2013-12-03T22:32:30Z" changeset="19263115" uid="1828736" user="Millington Family Dentistry">
-    <tag k="addr:city" v="Millington"/>
-    <tag k="addr:housenumber" v="7799"/>
-    <tag k="addr:postcode" v="38053"/>
-    <tag k="addr:street" v="Church Street"/>
-    <tag k="name" v="Millington Family Dentistry"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="901-872-8151"/>
-  </node>
   <node id="2563701095" lat="40.8937964" lon="-111.8787195" version="3" timestamp="2015-07-10T17:01:46Z" changeset="32548810" uid="1828752" user="Shon Love">
     <tag k="addr:city" v="Centerville"/>
     <tag k="addr:housenumber" v="316"/>
@@ -5146,14 +5137,14 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://ditplanet.com/"/>
   </node>
-  <node id="2564510580" lat="40.6942408" lon="-73.9113657" version="4" timestamp="2019-05-30T15:56:18Z" changeset="70776409" uid="8339" user="mtmail">
+  <node id="2564510580" lat="40.6942420" lon="-73.9113311" version="5" timestamp="2023-02-09T16:02:19Z" changeset="132315152" uid="18055370" user="GullibleMappazo">
     <tag k="addr:city" v="Brooklyn"/>
     <tag k="addr:housenumber" v="284"/>
     <tag k="addr:postcode" v="11221"/>
     <tag k="addr:state" v="NY"/>
     <tag k="addr:street" v="Cornelia Street"/>
     <tag k="name" v="Short Circuited Computer Services"/>
-    <tag k="office" v="company"/>
+    <tag k="office" v="it"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1 347 791 3311"/>
     <tag k="website" v="https://www.shortcircuited.us/"/>
@@ -32247,17 +32238,19 @@
     <tag k="shop" v="jewelry"/>
     <tag k="website" v="http://gioielleriapaulon.com/"/>
   </node>
-  <node id="4937269421" lat="41.8703902" lon="12.4634470" version="3" timestamp="2022-10-29T16:24:47Z" changeset="128218262" uid="1778799" user="SomeoneElse_Revert">
+  <node id="4937269421" lat="41.8703902" lon="12.4634470" version="4" timestamp="2023-02-09T10:56:57Z" changeset="132300737" uid="4944916" user="Something B">
     <tag k="addr:city" v="Roma"/>
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:postcode" v="00149"/>
     <tag k="addr:street" v="Via Gregorio Ricci Curbastro"/>
     <tag k="description" v="Locazione turistica con stanze di alta qualità. Si accettano Bitcoin, Ethereum, Litecoin."/>
     <tag k="email" v="info@atrastevere.com"/>
+    <tag k="fixme" v="location"/>
+    <tag k="guest_house" v="bed_and_breakfast"/>
     <tag k="name" v="A Trastevere da Tiziana"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3426853141"/>
-    <tag k="tourism" v="bed_and_breakfast"/>
+    <tag k="tourism" v="guest_house"/>
     <tag k="website" v="http://www.atrastevere.com"/>
   </node>
   <node id="4945199543" lat="43.7898949" lon="7.6151557" version="4" timestamp="2020-03-05T15:29:34Z" changeset="81829107" uid="1624486" user="thetornado76">
