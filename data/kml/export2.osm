@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-11T05:24:31Z"/>
+<meta osm_base="2023-02-12T05:23:33Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -859,6 +859,25 @@
     <tag k="name" v="The French Press Cafe &amp; Creperie"/>
     <tag k="opening_hours" v="07:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+  </node>
+  <node id="1407915066" lat="49.2814113" lon="-123.0495720" version="6" timestamp="2023-02-11T20:25:34Z" changeset="132420846" uid="16755087" user="Coinoswallet">
+    <tag k="addr:city" v="Vancouver"/>
+    <tag k="addr:housenumber" v="2695"/>
+    <tag k="addr:province" v="BC"/>
+    <tag k="addr:street" v="East Hastings Street"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date:currency:XBT" v="2023-02-09"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="laughingbeancoffee@telus.net"/>
+    <tag k="name" v="Laughing Bean Coffee Co."/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-16:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="+1 604 251 5282"/>
+    <tag k="website" v="https://www.laughingbeancoffee.com/"/>
   </node>
   <node id="1413993833" lat="42.3641718" lon="-71.1020228" version="7" timestamp="2022-10-16T23:34:28Z" changeset="127641582" uid="17422908" user="Sophia McMonagle">
     <tag k="addr:housenumber" v="524"/>
@@ -2857,12 +2876,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1 503-489-7226"/>
     <tag k="website" v="http://scan-slides.com"/>
-  </node>
-  <node id="2546476617" lat="49.8920081" lon="-119.4936050" version="2" timestamp="2013-11-25T15:11:33Z" changeset="19111221" uid="28559" user="Stemby">
-    <tag k="description" v="physical bitcoin exchange"/>
-    <tag k="name" v="Bitcoiniacs - The Bitcoin Store"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://bitcoiniacs.com/"/>
   </node>
   <node id="2547460753" lat="33.5788572" lon="-101.8677330" version="8" timestamp="2022-12-30T20:22:00Z" changeset="130701830" uid="3486044" user="DeadLetterQueue">
     <tag k="addr:city" v="Lubbock"/>
@@ -10638,19 +10651,6 @@
     <tag k="phone" v="+1-204-312-7701"/>
     <tag k="website" v="https://www.silverdragonvapeshop.com/"/>
   </node>
-  <node id="2637617065" lat="40.0975418" lon="-88.2746621" version="6" timestamp="2022-04-12T23:29:04Z" changeset="119642284" uid="1237170" user="Zol87">
-    <tag k="addr:city" v="Champaign"/>
-    <tag k="addr:housenumber" v="1715"/>
-    <tag k="addr:postcode" v="61821"/>
-    <tag k="addr:state" v="IL"/>
-    <tag k="addr:street" v="West Kirby Avenue"/>
-    <tag k="name" v="Cheese &amp; Crackers"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1 217 6158531"/>
-    <tag k="shop" v="deli"/>
-    <tag k="website" v="http://www.crackerscheese.com"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="2637721907" lat="40.4340937" lon="-74.3005980" version="5" timestamp="2021-07-13T05:44:47Z" changeset="107877616" uid="175702" user="AxelBoldt">
     <tag k="addr:city" v="Old Bridge"/>
     <tag k="addr:postcode" v="08857"/>
@@ -10858,15 +10858,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="714.613.2261"/>
     <tag k="website" v="www.jcreo.com"/>
-  </node>
-  <node id="2641349460" lat="46.1997549" lon="6.1392964" version="1" timestamp="2014-01-28T19:59:20Z" changeset="20253073" uid="1838612" user="digicapital">
-    <tag k="addr:city" v="Genève"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="1205"/>
-    <tag k="addr:street" v="Rue de la Muse"/>
-    <tag k="name" v="Everdreamsoft SA"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.everdreamsoft.com"/>
   </node>
   <node id="2641579280" lat="40.4200737" lon="-3.7004085" version="11" timestamp="2019-09-10T11:09:40Z" changeset="74303792" uid="170106" user="sanchi">
     <tag k="addr:city" v="Madrid"/>
@@ -13717,15 +13708,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="shop" v="interior_decoration"/>
-  </node>
-  <node id="2712295375" lat="46.2036769" lon="6.1492486" version="1" timestamp="2014-03-11T10:15:53Z" changeset="21041814" uid="1651798" user="oldenburg69">
-    <tag k="addr:city" v="Genève"/>
-    <tag k="addr:housenumber" v="80"/>
-    <tag k="addr:postcode" v="1204"/>
-    <tag k="addr:street" v="Rue du Rhône"/>
-    <tag k="name" v="BANK.GS"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="2712358251" lat="25.0661283" lon="121.5245660" version="8" timestamp="2020-02-17T06:13:47Z" changeset="81094730" uid="274857" user="Supaplex">
     <tag k="addr:city" v="台北市"/>
@@ -26450,18 +26432,6 @@
     <tag k="name" v="Hey Cocina Nayarit"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="3355816647" lat="47.4705783" lon="9.5243028" version="5" timestamp="2019-02-04T11:17:30Z" changeset="66899893" uid="3524812" user="SWF8">
-    <tag k="addr:city" v="Rorschacherberg"/>
-    <tag k="addr:country" v="CH"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:postcode" v="9404"/>
-    <tag k="addr:street" v="Käaserenrain"/>
-    <tag k="name" v="bhend.klammer architekten, sergej klammer"/>
-    <tag k="office" v="architect"/>
-    <tag k="opening_hours" v="&quot;auf voranmeldung&quot;"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.bhend.klammer.ch"/>
-  </node>
   <node id="3356561197" lat="52.1991427" lon="6.2001874" version="2" timestamp="2022-03-06T21:28:46Z" changeset="118175083" uid="12424494" user="lovelyfurball88">
     <tag k="addr:city" v="Gorssel"/>
     <tag k="addr:housenumber" v="41a"/>
@@ -34150,15 +34120,18 @@
     <tag k="phone" v="14056980552"/>
     <tag k="website" v="http://www.burchfieldlegal.com"/>
   </node>
-  <node id="5297758822" lat="44.3350320" lon="9.2135490" version="2" timestamp="2018-01-10T15:50:48Z" changeset="55325981" uid="7453101" user="Ottica Prisma">
+  <node id="5297758822" lat="44.3350320" lon="9.2135490" version="3" timestamp="2023-02-11T10:20:31Z" changeset="132397192" uid="7453101" user="Ottica Prisma">
     <tag k="addr:city" v="Santa Margherita Ligure"/>
-    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:housenumber" v="25"/>
     <tag k="addr:postcode" v="16038"/>
-    <tag k="addr:street" v="Piazza Vittorio Veneto"/>
+    <tag k="addr:street" v="Via Palestro"/>
     <tag k="description" v="Lenti a contatto, occhiali da sole e occhiali da vista."/>
     <tag k="email" v="info@occhialiotticaprisma.it"/>
     <tag k="name" v="Ottica Prisma di L. Costa &amp; C."/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:dogecoin" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:tether" v="yes"/>
     <tag k="phone" v="+39 0185284027"/>
     <tag k="shop" v="optician"/>
   </node>
@@ -35402,38 +35375,6 @@
     <tag k="name" v="Studio Legale Nardella"/>
     <tag k="office" v="lawyer"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="5393950523" lat="53.9398349" lon="27.5976260" version="7" timestamp="2022-11-12T08:34:55Z" changeset="128803942" uid="278800" user="tbicr">
-    <tag k="addr:city" v="Мінск"/>
-    <tag k="addr:city:ru" v="Минск"/>
-    <tag k="addr:country" v="BY"/>
-    <tag k="addr:housenumber" v="5-2"/>
-    <tag k="addr:postcode" v="220113"/>
-    <tag k="addr:street" v="вуліца Мележа"/>
-    <tag k="description" v="Бюро перакладаў / Бюро переводов / Translation Company"/>
-    <tag k="email" v="a@pieraklad.com"/>
-    <tag k="level" v="5"/>
-    <tag k="name" v="Pierakladcom"/>
-    <tag k="name:be" v="Перакладком"/>
-    <tag k="name:ru" v="Перакладком"/>
-    <tag k="office" v="translation"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:electronic_purses" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:visa_debit" v="yes"/>
-    <tag k="payment:visa_electron" v="yes"/>
-    <tag k="phone" v="+375 (29) 1-286-286"/>
-    <tag k="smoking" v="no"/>
-    <tag k="start_date" v="2008"/>
-    <tag k="website" v="https://pieraklad.com"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="5393950524" lat="53.9398176" lon="27.5977047" version="8" timestamp="2022-11-12T08:35:10Z" changeset="128803953" uid="278800" user="tbicr">
     <tag k="addr:city" v="Мінск"/>
