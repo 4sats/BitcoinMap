@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-16T05:24:39Z"/>
+<meta osm_base="2023-02-17T05:25:16Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -2905,30 +2905,6 @@
     <tag k="shop" v="tattoo"/>
     <tag k="website" v="https://www.matthewamey.com/"/>
   </node>
-  <node id="2552020367" lat="30.6871518" lon="-88.0715189" version="6" timestamp="2022-05-20T18:15:43Z" changeset="121256505" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Mobile"/>
-    <tag k="addr:postcode" v="36604"/>
-    <tag k="name" v="Katorah Photo"/>
-    <tag k="opening_hours" v="&quot;by appointment only&quot;"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="photo_studio"/>
-    <tag k="website" v="https://facebook.com/katorahphoto"/>
-  </node>
-  <node id="2552071149" lat="31.6441124" lon="74.9088107" version="2" timestamp="2019-03-17T17:57:06Z" changeset="68234957" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Punjab"/>
-    <tag k="addr:postcode" v="143001"/>
-    <tag k="addr:street" v="Amritsar"/>
-    <tag k="name" v="CTG Security Solutions"/>
-    <tag k="note" v="Contact us for : Ethical Hacking Training/Projects, Website Security, Network Security, International Assignments &amp; Projects, Tracing/Spying, Cracking, White Hat/Grey Hat Projects, Penetration Testing Training/ Projects, Website Development, Software Deve"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.ctgsecuritysolutions.com/"/>
-  </node>
-  <node id="2552092930" lat="46.0992579" lon="14.5411486" version="2" timestamp="2019-03-29T04:35:10Z" changeset="68651182" uid="9451067" user="b-jazz-bot">
-    <tag k="name" v="Netis d.o.o."/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.netis.si/"/>
-  </node>
   <node id="2552354020" lat="40.1103871" lon="29.9978568" version="6" timestamp="2020-09-24T14:00:10Z" changeset="91441011" uid="3997418" user="Alikam">
     <tag k="addr:city" v="Bilecik"/>
     <tag k="addr:housename" v="İstasyon Eczanesi"/>
@@ -2944,12 +2920,6 @@
     <tag k="phone" v="+90 228 215 9277"/>
     <tag k="website" v="https://www.facebook.com/istasyon.eczanesi"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="2552404512" lat="54.8522778" lon="-1.8332572" version="3" timestamp="2019-03-23T03:43:14Z" changeset="68433810" uid="9451067" user="b-jazz-bot">
-    <tag k="name" v="Firefly New Media UK"/>
-    <tag k="office" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://fireflynewmedia.com/"/>
   </node>
   <node id="2552498843" lat="31.7832379" lon="35.2103972" version="5" timestamp="2017-07-06T19:33:48Z" changeset="50092686" uid="1206509" user="Sanniu">
     <tag k="addr:city" v="ירושלים"/>
@@ -26427,17 +26397,6 @@
     <tag k="phone" v="+6562946445"/>
     <tag k="website" v="http://gamesgaragesg.wix.com/games-garage"/>
   </node>
-  <node id="3404126808" lat="55.6731494" lon="12.5658545" version="8" timestamp="2022-02-27T00:36:55Z" changeset="117895371" uid="1288" user="Niels Elgaard Larsen">
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="hot_dog"/>
-    <tag k="fvst:navnelbnr" v="571158"/>
-    <tag k="name" v="John's Hotdog Deli"/>
-    <tag k="note" v="Is moved around so multiple duplicates may exist"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="ref:DK:cvr" v="36543477"/>
-    <tag k="ref:DK:cvr:pnummer" v="1020718524"/>
-    <tag k="website" v="https://www.facebook.com/johnshotdogdeli"/>
-  </node>
   <node id="3404320534" lat="55.6775357" lon="12.5703239" version="4" timestamp="2018-09-27T09:00:47Z" changeset="62970384" uid="379467" user="osmviborg">
     <tag k="name" v="Chillo i/s"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -26572,21 +26531,6 @@
     <tag k="description" v="German Restaurant with beer from tap."/>
     <tag k="name" v="Restaurant y Bar Hotzenplotz"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="3411435696" lat="38.2261006" lon="-85.7302547" version="1" timestamp="2015-03-21T19:53:04Z" changeset="29642973" uid="2690709" user="atepoorthuis_louisvilleimport">
-    <tag k="addr:city" v="Louisville"/>
-    <tag k="addr:housenumber" v="1255"/>
-    <tag k="addr:postcode" v="40217"/>
-    <tag k="addr:state" v="KY"/>
-    <tag k="addr:street" v="Goss Avenue"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="502-635-5656"/>
-    <tag k="cuisine" v="chinese"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Double Dragon Chinese Restaurant"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="http://doubledragonky.com/"/>
   </node>
   <node id="3415316447" lat="-28.5918341" lon="153.2227111" version="9" timestamp="2021-04-30T19:25:55Z" changeset="103932264" uid="10495147" user="BugFinder">
     <tag k="addr:city" v="Nimbin"/>
