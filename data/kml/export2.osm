@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-17T05:25:16Z"/>
+<meta osm_base="2023-02-18T05:23:29Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -10664,11 +10664,6 @@
     <tag k="sport" v="fitness"/>
     <tag k="website" v="https://fernwoodfitness.com.au/"/>
   </node>
-  <node id="2643051730" lat="-27.4367148" lon="153.0212214" version="3" timestamp="2014-02-01T18:24:41Z" changeset="20321314" uid="28559" user="Stemby">
-    <tag k="name" v="OzlineBTC.com"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.ozlinebtc.com"/>
-  </node>
   <node id="2643125488" lat="30.2235953" lon="-97.7671641" version="7" timestamp="2022-09-02T19:31:57Z" changeset="125712971" uid="17014926" user="ctgw">
     <tag k="addr:city" v="Austin"/>
     <tag k="addr:housename" v="Central Texas Gun Works"/>
@@ -11152,7 +11147,7 @@
     <tag k="start_date" v="25/Ago/2012"/>
     <tag k="website" v="http://www.japitami.com"/>
   </node>
-  <node id="2653277309" lat="-37.9522370" lon="145.1875616" version="3" timestamp="2019-03-27T08:15:42Z" changeset="68576638" uid="9451067" user="b-jazz-bot">
+  <node id="2653277309" lat="-37.9522370" lon="145.1875616" version="4" timestamp="2023-02-17T08:30:49Z" changeset="132663807" uid="18508701" user="snoblingoblin">
     <tag k="addr:city" v="Noble Park North"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:postcode" v="3174"/>
@@ -11160,7 +11155,6 @@
     <tag k="building" v="yes"/>
     <tag k="name" v="Klika Online"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.klika.com.au/"/>
   </node>
   <node id="2653489778" lat="39.5789188" lon="2.6570500" version="3" timestamp="2018-10-07T17:08:47Z" changeset="63284595" uid="1551542" user="frantzius2177">
     <tag k="amenity" v="restaurant"/>
@@ -23327,13 +23321,6 @@
     <tag k="phone" v="+82 64 762 4323"/>
     <tag k="website" v="https://imgur.com/Twyd69E"/>
   </node>
-  <node id="3183569101" lat="47.2600819" lon="8.8511986" version="5" timestamp="2019-03-24T17:40:27Z" changeset="68478893" uid="9451067" user="b-jazz-bot">
-    <tag k="craft" v="photographer"/>
-    <tag k="name" v="julifoto"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+41 78 641 4580"/>
-    <tag k="website" v="https://www.julifoto.ch/"/>
-  </node>
   <node id="3183597886" lat="47.5609721" lon="7.5747869" version="3" timestamp="2018-06-22T13:51:15Z" changeset="60077073" uid="4067009" user="KaiPankrath">
     <tag k="addr:city" v="Basel"/>
     <tag k="addr:housenumber" v="4"/>
@@ -34048,21 +34035,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.dentalservicerc.it"/>
   </node>
-  <node id="5333153975" lat="47.4332773" lon="8.5741625" version="2" timestamp="2018-02-22T15:40:43Z" changeset="56582882" uid="1234273" user="d_berger">
-    <tag k="addr:city" v="Opfikon"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="8152"/>
-    <tag k="addr:street" v="Püntenstrasse"/>
-    <tag k="description" v="E-shop mit sport supplement"/>
-    <tag k="email" v="info@bestnutrition-shop.ch"/>
-    <tag k="name" v="Bestnutrition"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="phone" v="+41 78 638 21 38"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="website" v="https://bestnutrition-shop.ch"/>
-  </node>
   <node id="5333520501" lat="47.5597754" lon="7.5880438" version="3" timestamp="2018-03-13T06:20:17Z" changeset="57134268" uid="210440" user="johsin18">
     <tag k="addr:city" v="Basel"/>
     <tag k="addr:housenumber" v="3"/>
@@ -34838,30 +34810,6 @@
     <tag k="start_date" v="2015"/>
     <tag k="website" v="https://foxcolor.by"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="5395160592" lat="47.4009903" lon="8.6043278" version="3" timestamp="2019-03-24T17:13:41Z" changeset="68478103" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Dübendorf"/>
-    <tag k="addr:housenumber" v="81"/>
-    <tag k="addr:postcode" v="8600"/>
-    <tag k="addr:street" v="Neugutstrasse"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="pizza;kebab;burger;italian;turkish"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="name" v="Pizzeria Full Haus Take Away"/>
-    <tag k="opening_hours" v="Mo-Sa 14:00-19:30"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:voucher" v="yes"/>
-    <tag k="phone" v="+41 43 819 10 91"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="https://www.pizzeriafullhaus-duebendorf.ch/"/>
   </node>
   <node id="5400304184" lat="34.6111664" lon="50.9092389" version="4" timestamp="2019-02-23T16:59:16Z" changeset="67498382" uid="1858958" user="geoaria">
     <tag k="addr:city" v="قم"/>
@@ -42417,13 +42365,21 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="shop" v="hairdresser"/>
   </node>
-  <node id="8630404928" lat="47.2757856" lon="8.6246214" version="1" timestamp="2021-04-14T22:56:07Z" changeset="102955136" uid="120501" user="ernieknolfson">
+  <node id="8630404928" lat="47.2757856" lon="8.6246214" version="2" timestamp="2023-02-17T07:20:15Z" changeset="132661261" uid="17441326" user="BSN21M">
     <tag k="addr:city" v="Meilen"/>
     <tag k="addr:postcode" v="8706"/>
     <tag k="addr:street" v="Feldgüetliweg 76"/>
+    <tag k="check_date:currency:XBT" v="2023-02-17"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="info@zengarten.com"/>
     <tag k="name" v="zengarten."/>
+    <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="zengarten.com/webshop/"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+41 44 350 88 88"/>
+    <tag k="website" v="https://zengarten.com/"/>
   </node>
   <node id="8630888755" lat="47.3797916" lon="9.5452135" version="4" timestamp="2021-11-05T06:20:49Z" changeset="113394952" uid="1213571" user="mcliquid">
     <tag k="addr:city" v="Altstätten"/>
