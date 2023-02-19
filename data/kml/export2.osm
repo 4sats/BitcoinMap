@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-18T05:23:29Z"/>
+<meta osm_base="2023-02-19T05:23:36Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -393,14 +393,14 @@
     <tag k="website" v="https://chaoscc.ro/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="757471219" lat="43.6197123" lon="13.5114319" version="14" timestamp="2023-01-11T19:02:07Z" changeset="131158363" uid="2464108" user="la terrazza ancona">
+  <node id="757471219" lat="43.6197123" lon="13.5114319" version="15" timestamp="2023-02-18T07:30:42Z" changeset="132704333" uid="123412" user="totera">
     <tag k="addr:city" v="Ancona"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:postcode" v="60121"/>
     <tag k="addr:street" v="Piazza del Plebiscito"/>
     <tag k="amenity" v="pub"/>
     <tag k="brewery" v="various;craft_beer;Extraomnes;eastside"/>
-    <tag k="description" v="Le migliori birre artigianali dall'Italia e dal Mondo. &#x0a;Cocktail e Gin Tonic.&#x0a;Cerchiamo di trasmettere la nostra passione per la birra nella piazza più bella della città."/>
+    <tag k="description" v="Le migliori birre artigianali dall'Italia e dal Mondo. Cocktail e Gin Tonic. Cerchiamo di trasmettere la nostra passione per la birra nella piazza più bella della città."/>
     <tag k="email" v="amarillo.ancona@gmail.com"/>
     <tag k="image" v="https://www.google.com/maps/uv?pb=!1s0x132d7fbb7bea08cd%3A0xac833e4531c05f6d!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNkUmI3LXnSGWUMSl1ekEksOm_bOu5_i8BmL502%3Dw443-h250-k-no!5samarillo%20beer%20bar%20ancona%20-%20Cerca%20con%20Googl"/>
     <tag k="internet_access" v="yes"/>
@@ -18449,11 +18449,6 @@
     <tag k="phone" v="(702) 678-5780"/>
     <tag k="tourism" v="attraction"/>
     <tag k="website" v="http://slotzilla.showare.com/"/>
-  </node>
-  <node id="2891277733" lat="54.9357332" lon="-2.9628007" version="3" timestamp="2019-03-23T00:48:12Z" changeset="68431854" uid="9451067" user="b-jazz-bot">
-    <tag k="name" v="Cumbria Cabs"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.cumbriacabs.co.uk/"/>
   </node>
   <node id="2892029938" lat="58.3560647" lon="26.7135423" version="5" timestamp="2014-06-03T08:37:51Z" changeset="22710072" uid="2101132" user="Autogaasiseadmed">
     <tag k="addr:city" v="Tartu"/>
@@ -42545,6 +42540,30 @@
     <tag k="phone" v="+39 0952190554"/>
     <tag k="shop" v="computer"/>
     <tag k="website" v="http://angoloinformatico.it"/>
+  </node>
+  <node id="8701286579" lat="45.9622358" lon="10.9116349" version="6" timestamp="2023-02-18T18:19:22Z" changeset="132724807" uid="14166821" user="Salute Costituzionale">
+    <tag k="addr:city" v="Dro"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="38074"/>
+    <tag k="addr:street" v="Via Torre"/>
+    <tag k="cuisine" v="italian;regional;international"/>
+    <tag k="diet:gluten_free" v="yes"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="email" v="info@untempoperte.it"/>
+    <tag k="guest_house" v="bed_and_breakfast"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Un tempo per Te"/>
+    <tag k="opening_hours" v="su prenotazione"/>
+    <tag k="opening_hours:covid19" v="open"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:dash" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+39 333 364 9554"/>
+    <tag k="tourism" v="guest_house"/>
+    <tag k="website" v="https://www.untempoperte.it/"/>
   </node>
   <node id="8706576925" lat="13.6780565" lon="-89.3000117" version="2" timestamp="2022-10-18T01:24:13Z" changeset="127699293" uid="17418942" user="SammyHas">
     <tag k="amenity" v="fast_food"/>
