@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
+<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-19T05:23:36Z"/>
+<meta osm_base="2023-02-20T05:24:53Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -14646,26 +14646,6 @@
     <tag k="website" v="https://www.wigsalon.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2729898995" lat="38.9586518" lon="-95.2781318" version="4" timestamp="2022-12-28T21:59:09Z" changeset="130620138" uid="77904" user="Kristjan ESPERANTO">
-    <tag k="addr:city" v="Lawrence"/>
-    <tag k="addr:housenumber" v="1410"/>
-    <tag k="addr:postcode" v="66049"/>
-    <tag k="addr:state" v="KS"/>
-    <tag k="addr:street" v="Kasold Drive"/>
-    <tag k="addr:unit" v="13"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="+1 785-843-8650"/>
-    <tag k="cuisine" v="chinese"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="diet:vegetarian" v="yes"/>
-    <tag k="name" v="Jade Garden"/>
-    <tag k="opening_hours" v="11:00-22:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="https://www.jadegardenonline.com/"/>
-  </node>
   <node id="2730044689" lat="39.5663151" lon="3.2112876" version="7" timestamp="2022-11-26T00:15:04Z" changeset="129386208" uid="11725140" user="jmaspons">
     <tag k="addr:city" v="Manacor"/>
     <tag k="addr:housenumber" v="20"/>
@@ -23071,10 +23051,10 @@
     <tag k="takeaway" v="only"/>
     <tag k="website" v="http://munchindia.com"/>
   </node>
-  <node id="3167043099" lat="40.4362925" lon="-3.6841932" version="7" timestamp="2021-05-18T23:46:50Z" changeset="104918691" uid="3649461" user="Cuenqui">
+  <node id="3167043099" lat="40.4362925" lon="-3.6841932" version="8" timestamp="2023-02-19T20:57:34Z" changeset="132765369" uid="71626" user="Almorca">
     <tag k="addr:housenumber" v="130"/>
     <tag k="addr:postcode" v="28006"/>
-    <tag k="addr:street" v="Calle Lagasca"/>
+    <tag k="addr:street" v="Calle de Lagasca"/>
     <tag k="addr:ward" v="Castellana"/>
     <tag k="amenity" v="pharmacy"/>
     <tag k="contact:phone" v="+34 915612597"/>
@@ -26158,16 +26138,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-360-685-0145"/>
     <tag k="website" v="https://www.limitlesslaw.com/"/>
-  </node>
-  <node id="3386897770" lat="48.7502940" lon="-122.4727778" version="1" timestamp="2015-03-07T01:12:45Z" changeset="29301058" uid="2722967" user="NoahCoinBeyond">
-    <tag k="addr:city" v="Bellingham"/>
-    <tag k="addr:housenumber" v="1515"/>
-    <tag k="addr:postcode" v="98225"/>
-    <tag k="addr:state" v="WA"/>
-    <tag k="addr:street" v="North Forest Street"/>
-    <tag k="name" v="GeekStar"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="accessories"/>
   </node>
   <node id="3388697598" lat="6.2585199" lon="-75.5856807" version="2" timestamp="2015-03-08T03:37:56Z" changeset="29321411" uid="2741124" user="Jorge L Granda">
     <tag k="name" v="CosteeleatioN"/>
@@ -42359,22 +42329,6 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="shop" v="hairdresser"/>
-  </node>
-  <node id="8630404928" lat="47.2757856" lon="8.6246214" version="2" timestamp="2023-02-17T07:20:15Z" changeset="132661261" uid="17441326" user="BSN21M">
-    <tag k="addr:city" v="Meilen"/>
-    <tag k="addr:postcode" v="8706"/>
-    <tag k="addr:street" v="Feldgüetliweg 76"/>
-    <tag k="check_date:currency:XBT" v="2023-02-17"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="info@zengarten.com"/>
-    <tag k="name" v="zengarten."/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="no"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+41 44 350 88 88"/>
-    <tag k="website" v="https://zengarten.com/"/>
   </node>
   <node id="8630888755" lat="47.3797916" lon="9.5452135" version="4" timestamp="2021-11-05T06:20:49Z" changeset="113394952" uid="1213571" user="mcliquid">
     <tag k="addr:city" v="Altstätten"/>
