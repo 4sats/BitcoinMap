@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-20T05:24:53Z"/>
+<meta osm_base="2023-02-21T05:22:37Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -1142,10 +1142,11 @@
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://hotelsanmartinmendoza.com/"/>
   </node>
-  <node id="1742441134" lat="37.5387680" lon="126.9874459" version="3" timestamp="2017-12-28T07:04:27Z" changeset="54975024" uid="7381577" user="craftworks">
+  <node id="1742441134" lat="37.5387680" lon="126.9873588" version="4" timestamp="2023-02-20T06:06:31Z" changeset="132774336" uid="4658749" user="__temm__">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="american"/>
-    <tag k="name" v="Craftworks Taphouse &amp; Bistro"/>
+    <tag k="name" v="크래프트웍스 오리지널 탭하우스"/>
+    <tag k="name:en" v="Craftworks Taphouse &amp; Bistro"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:coins" v="yes"/>
   </node>
@@ -10886,8 +10887,9 @@
     <tag k="website" v="https://www.palaeo.com/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2645830222" lat="47.3669391" lon="8.5217197" version="5" timestamp="2020-06-09T14:27:56Z" changeset="86413611" uid="5755216" user="sovereign_ch">
+  <node id="2645830222" lat="47.3669391" lon="8.5217197" version="6" timestamp="2023-02-20T16:27:24Z" changeset="132798641" uid="135562" user="Seetroll">
     <tag k="addr:city" v="Zürich"/>
+    <tag k="addr:country" v="CH"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:postcode" v="8003"/>
     <tag k="addr:street" v="Wuhrstrasse"/>
@@ -27423,8 +27425,9 @@
     <tag k="office" v="architect"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="3541557137" lat="47.3620313" lon="8.5268635" version="4" timestamp="2015-09-19T16:28:55Z" changeset="34124384" uid="3078595" user="Fritzl65">
+  <node id="3541557137" lat="47.3620313" lon="8.5268635" version="5" timestamp="2023-02-20T16:27:24Z" changeset="132798641" uid="135562" user="Seetroll">
     <tag k="addr:city" v="Zürich"/>
+    <tag k="addr:country" v="CH"/>
     <tag k="addr:housenumber" v="91"/>
     <tag k="addr:postcode" v="8002"/>
     <tag k="addr:street" v="Bederstrasse"/>
@@ -40698,37 +40701,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3933524126"/>
     <tag k="website" v="https://www.officinadellascarpa.it/"/>
-  </node>
-  <node id="7899135268" lat="4.9296720" lon="-52.3259807" version="8" timestamp="2022-07-19T14:56:29Z" changeset="123812334" uid="10800843" user="ponytati">
-    <tag k="addr:city" v="Cayenne"/>
-    <tag k="addr:housenumber" v="258"/>
-    <tag k="addr:postcode" v="97300"/>
-    <tag k="addr:street" v="Avenue Justin Catayée, KELEX Route de la Madeleine"/>
-    <tag k="computer:repair" v="yes"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/ponytati"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/ponyta.informatique"/>
-    <tag k="contact:linkedin" v="https://www.linkedin.com/in/ponytati"/>
-    <tag k="contact:twitter" v="https://twitter.com/ponytati"/>
-    <tag k="description" v="Entreprise Ponyta Informatique Guyane. Technicien informatique, informaticien à domicile, pour assistance, dépannage, maintenance et réparation d'ordinateur, téléphone portable smartphone, tablette... Déplacement à Cayenne, Remire-Montjoly, Matoury, Roura"/>
-    <tag k="email" v="info@ponytati.com"/>
-    <tag k="image" v="https://ponytati.com/img/depannage-informatique-guyane.jpg"/>
-    <tag k="name" v="Ponyta Informatique"/>
-    <tag k="opening_hours" v="Mo-Su 09:00-22:00"/>
-    <tag k="operator" v="Ponyta Informatique"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+594 694 383787"/>
-    <tag k="shop" v="computer"/>
-    <tag k="short_name" v="Ponytati"/>
-    <tag k="source" v="Pages Jaunes"/>
-    <tag k="website" v="https://ponytati.com"/>
   </node>
   <node id="7900118113" lat="42.4699854" lon="44.4939898" version="1" timestamp="2020-09-12T16:07:41Z" changeset="90798137" uid="1589313" user="davidtk">
     <tag k="addr:city" v="Gudauri"/>
