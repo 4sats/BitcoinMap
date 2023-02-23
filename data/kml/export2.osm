@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-22T05:25:09Z"/>
+<meta osm_base="2023-02-23T05:25:02Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -1821,18 +1821,6 @@
     <tag k="phone" v="+1 212-736-4500"/>
     <tag k="website" v="https://nmllplaw.com/"/>
   </node>
-  <node id="2380324920" lat="1.3028912" lon="103.8581886" version="6" timestamp="2019-11-22T10:50:02Z" changeset="77420480" uid="3510066" user="nebendrin">
-    <tag k="addr:city" v="Singapore"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:postcode" v="199149"/>
-    <tag k="addr:street" v="Jalan Pinang"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="cuisine" v="coffee_shop"/>
-    <tag k="name" v="Earlybird"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="6298 2420"/>
-    <tag k="yelp" v="http://www.yelp.com/biz/artistry-singapore-2#query:artistry%20cafe"/>
-  </node>
   <node id="2396070795" lat="45.5497532" lon="11.5410527" version="3" timestamp="2016-11-28T14:54:02Z" changeset="44008671" uid="4842903" user="Veneto_Civici_Import">
     <tag k="addr:city" v="Vicenza"/>
     <tag k="addr:country" v="IT"/>
@@ -2977,12 +2965,13 @@
     <tag k="phone" v="+1-866-840-4400"/>
     <tag k="website" v="http://www.gaussboys.com"/>
   </node>
-  <node id="2553278861" lat="42.6929578" lon="23.3524136" version="5" timestamp="2017-07-17T13:56:13Z" changeset="50351932" uid="2060187" user="Стоян">
+  <node id="2553278861" lat="42.6929578" lon="23.3524136" version="6" timestamp="2023-02-22T13:51:47Z" changeset="132882108" uid="3754310" user="rhhs">
     <tag k="addr:city" v="София"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="Каймакчалан"/>
     <tag k="lighting:led" v="only"/>
     <tag k="name" v="Amara Lighting"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-18:30"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="lighting"/>
     <tag k="website" v="http://www.amaralighting.com/"/>
@@ -18054,15 +18043,17 @@
     <tag k="website" v="http://pikanai.si"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="2883731796" lat="46.1648932" lon="14.3069716" version="7" timestamp="2021-12-28T11:01:09Z" changeset="115464558" uid="2019836" user="gztproject">
+  <node id="2883731796" lat="46.1649377" lon="14.3069914" version="10" timestamp="2023-02-22T12:24:47Z" changeset="132877216" uid="17607387" user="Sraumf_complete">
     <tag k="addr:city" v="Škofja Loka"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:postcode" v="4220"/>
     <tag k="addr:street" v="Mestni trg"/>
     <tag k="name" v="IKA Souvenir Shop"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-12:00,15:00-17:00; Sa 09:00-12:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="gift"/>
     <tag k="website" v="https://www.pikanai.si/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2883735923" lat="49.8805679" lon="-119.4641175" version="3" timestamp="2018-02-09T14:56:50Z" changeset="56218753" uid="5633991" user="Matthew Darwin">
     <tag k="amenity" v="veterinary"/>
@@ -28347,20 +28338,6 @@
     <tag k="tourism" v="hostel"/>
     <tag k="website" v="http://www.sosahaus.com"/>
   </node>
-  <node id="3756813986" lat="1.2816102" lon="103.8480052" version="1" timestamp="2015-09-24T05:23:16Z" changeset="34218376" uid="741163" user="JaLooooNz">
-    <tag k="addr:city" v="Singapore"/>
-    <tag k="addr:country" v="SG"/>
-    <tag k="addr:housenumber" v="136"/>
-    <tag k="addr:postcode" v="068601"/>
-    <tag k="addr:street" v="Telok Ayer Street"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="cuisine" v="Western"/>
-    <tag k="name" v="Sarnie's Cafe"/>
-    <tag k="opening_hours" v="Mo-Fr 07:30-22:00; Sa-Su 09:00-16:00; Mo-Fr kitchen closes at 18:30"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+65 6224 6091"/>
-    <tag k="website" v="http://www.sarniescafe.com/"/>
-  </node>
   <node id="3756877792" lat="1.2796659" lon="103.8417476" version="3" timestamp="2017-11-16T17:34:52Z" changeset="53849542" uid="6346054" user="happy-camper">
     <tag k="addr:city" v="Singapore"/>
     <tag k="addr:country" v="SG"/>
@@ -37653,19 +37630,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 0175345228"/>
     <tag k="website" v="http://www.meccanicamoresco.net"/>
-  </node>
-  <node id="6279101025" lat="41.8512430" lon="12.4839130" version="1" timestamp="2019-02-14T18:06:18Z" changeset="67203051" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="95-97"/>
-    <tag k="addr:postcode" v="00145"/>
-    <tag k="addr:street" v="Via Tiberio Imperatore"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="description" v="Ristorante con specialità di pesce."/>
-    <tag k="email" v="marco.pignotta@gmail.com"/>
-    <tag k="name" v="Ristorante da Michele"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 065404352"/>
-    <tag k="website" v="https://www.ristorantedamicheleroma.it"/>
   </node>
   <node id="6279977527" lat="37.9759305" lon="23.7163675" version="1" timestamp="2019-02-15T01:20:32Z" changeset="67212329" uid="936280" user="beatnickgr">
     <tag k="addr:city" v="Αθήνα"/>
