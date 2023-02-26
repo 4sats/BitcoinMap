@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-25T05:24:18Z"/>
+<meta osm_base="2023-02-26T05:24:47Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -1453,19 +1453,6 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2209127103" lat="50.6385357" lon="3.0687399" version="5" timestamp="2021-12-21T08:27:27Z" changeset="115196471" uid="172867" user="AmiFritz">
-    <tag k="amenity" v="pub"/>
-    <tag k="brewery" v="leffe;chouffe;chimay;guinness;tripel_karmeliet;kwak"/>
-    <tag k="contact:city" v="Lille"/>
-    <tag k="contact:housenumber" v="29"/>
-    <tag k="contact:postcode" v="59000"/>
-    <tag k="contact:street" v="Rue de Roubaix"/>
-    <tag k="contact:website" v="http://www.leblacknight.com/"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Le Black Night"/>
-    <tag k="opening_hours" v="Tu,We 17:00-01:00; Th 17:00-02:00; Fr 17:00-03:00; Sa 18:00-03:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="2222829695" lat="49.1823853" lon="-2.1018860" version="2" timestamp="2014-05-01T14:51:38Z" changeset="22065587" uid="2056296" user="Jon Day">
     <tag k="amenity" v="bar"/>
     <tag k="name" v="The Forum"/>
@@ -1611,18 +1598,6 @@
     <tag k="website" v="https://bandungrestaurant.com/"/>
     <tag k="yelp" v="http://www.yelp.com/biz/bandung-indonesian-restaurant-madison?nb=1"/>
   </node>
-  <node id="2303037496" lat="37.7949012" lon="-122.3928736" version="2" timestamp="2019-11-22T21:47:55Z" changeset="77440730" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:city" v="San Francisco"/>
-    <tag k="addr:housename" v="38C South Entrance"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="94111"/>
-    <tag k="addr:street" v="Ferry Plaza"/>
-    <tag k="name" v="Buyer's Best Friend Wholesale &amp; Market"/>
-    <tag k="operator" v="Buyer's Best Friend"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="supermarket"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="2303887025" lat="-23.7846928" lon="-46.6888050" version="4" timestamp="2019-02-28T12:18:13Z" changeset="67648995" uid="1722488" user="Mateusz Konieczny">
     <tag k="addr:city" v="São Paulo"/>
     <tag k="addr:housenumber" v="50"/>
@@ -1725,14 +1700,6 @@
     <tag k="source:date" v="2014-02-11"/>
     <tag k="website" v="https://www.atasteofhome.nl/"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="2376148297" lat="20.6789092" lon="-103.3640183" version="4" timestamp="2022-05-30T23:54:07Z" changeset="121741630" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:housenumber" v="171"/>
-    <tag k="addr:street" v="Calle Ignacio Ramírez"/>
-    <tag k="name" v="El Hostelito"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="tourism" v="guest_house"/>
-    <tag k="website" v="https://blog.woralelandia.com/mi-casa-es-tu-casa/"/>
   </node>
   <node id="2377017686" lat="40.4242627" lon="-3.6878351" version="5" timestamp="2022-08-31T13:12:23Z" changeset="125612253" uid="2267575" user="MrPart">
     <tag k="addr:city" v="Madrid"/>
@@ -6600,17 +6567,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="(727) 238-3671"/>
     <tag k="website" v="http://www.smallbizwiztampabay.com/"/>
-  </node>
-  <node id="2598147709" lat="28.0796578" lon="-80.6143905" version="3" timestamp="2015-04-28T16:18:59Z" changeset="30586191" uid="1679" user="andrewpmk">
-    <tag k="addr:city" v="Melbourne"/>
-    <tag k="addr:housenumber" v="400"/>
-    <tag k="addr:postcode" v="32901"/>
-    <tag k="addr:street" v="Strawbridge Avenue"/>
-    <tag k="healthcare" v="cosmetic_surgery"/>
-    <tag k="name" v="Artful Awakenings Cosmetic Surgery"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1 321 676 3101"/>
-    <tag k="website" v="http://www.artfulawakenings.com/"/>
   </node>
   <node id="2599066022" lat="27.9677472" lon="-82.4857801" version="4" timestamp="2019-02-18T02:10:55Z" changeset="67298190" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Tampa"/>
@@ -14044,18 +14000,6 @@
     <tag k="source:date" v="2014-02-11"/>
     <tag k="website" v="http://www.englebertstijlslagerij.nl"/>
   </node>
-  <node id="2733247098" lat="26.3385475" lon="-80.1689905" version="3" timestamp="2019-05-29T15:15:37Z" changeset="70737511" uid="8339" user="mtmail">
-    <tag k="addr:city" v="Boca Raton"/>
-    <tag k="addr:housenumber" v="22724"/>
-    <tag k="addr:postcode" v="33433"/>
-    <tag k="addr:state" v="FL"/>
-    <tag k="addr:street" v="Meridiana Drive"/>
-    <tag k="name" v="21st Century Designer Health Products"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="925 352-9393"/>
-    <tag k="website" v="https://www.21stcenturyhgh.com/"/>
-  </node>
   <node id="2735160505" lat="45.7415112" lon="-121.5554268" version="5" timestamp="2014-04-20T16:47:37Z" changeset="21818681" uid="1998065" user="tkmera">
     <tag k="addr:city" v="Underwood"/>
     <tag k="addr:housenumber" v="71"/>
@@ -14086,19 +14030,6 @@
     <tag k="office" v="educational_institution"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://bitcoinsardegna.it/"/>
-  </node>
-  <node id="2737943851" lat="52.3586737" lon="4.8961120" version="3" timestamp="2015-11-04T14:55:39Z" changeset="35080590" uid="520239" user="Gutsycat">
-    <tag k="addr:city" v="Amsterdam"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:postcode" v="1017ZH"/>
-    <tag k="addr:street" v="Nicolaas Witsenstraat"/>
-    <tag k="name" v="BitStraat"/>
-    <tag k="office" v="company"/>
-    <tag k="opening_hours" v="09:00-20:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="source" v="BAG"/>
-    <tag k="source:date" v="2014-02-11"/>
   </node>
   <node id="2737948680" lat="52.3587777" lon="4.8986539" version="4" timestamp="2014-06-25T11:40:10Z" changeset="23144289" uid="2117816" user="KasperK">
     <tag k="addr:city" v="Amsterdam"/>
@@ -17148,17 +17079,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+351 224 057734"/>
     <tag k="website" v="http://www.tek4shop.com"/>
-  </node>
-  <node id="2865584564" lat="39.1068802" lon="-76.8497071" version="3" timestamp="2014-06-05T23:34:13Z" changeset="22765222" uid="1836471" user="Blobo123">
-    <tag k="addr:city" v="Laurel"/>
-    <tag k="addr:housenumber" v="515"/>
-    <tag k="addr:postcode" v="20707"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="building" v="office"/>
-    <tag k="name" v="Bascietto &amp; Bregman Law Offices"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="1-301-362-0009"/>
-    <tag k="website" v="www.bb-law.com"/>
   </node>
   <node id="2865719172" lat="44.8970490" lon="-87.3889514" version="4" timestamp="2020-10-29T22:22:07Z" changeset="93258979" uid="3084865" user="navision">
     <tag k="addr:city" v="Sturgeon Bay"/>
