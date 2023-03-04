@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-03T05:27:19Z"/>
+<meta osm_base="2023-03-04T05:23:47Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -2302,13 +2302,6 @@
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-03-24"/>
     <tag k="website" v="https://ristorantelafontana.nl/houten/"/>
-  </node>
-  <node id="2527309568" lat="44.9731202" lon="-93.2737845" version="5" timestamp="2023-01-20T15:55:42Z" changeset="131513899" uid="158194" user="mneko">
-    <tag k="amenity" v="music_school"/>
-    <tag k="name" v="Slam Academy"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-612-293-7526"/>
-    <tag k="website" v="https://slamacademy.com/"/>
   </node>
   <node id="2527476992" lat="-37.8556349" lon="144.9928190" version="4" timestamp="2019-02-09T22:16:37Z" changeset="67060337" uid="2622285" user="TheSwavu">
     <tag k="addr:street" v="McIlwrick Street x Chapel Street"/>
@@ -5606,8 +5599,9 @@
     <tag k="website" v="http://www.seisan.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2592596153" lat="47.8259907" lon="35.1649471" version="4" timestamp="2022-05-26T18:39:13Z" changeset="121540899" uid="94578" user="andygol">
+  <node id="2592596153" lat="47.8259907" lon="35.1649471" version="5" timestamp="2023-03-03T23:15:48Z" changeset="133273302" uid="1538111" user="avinet_ua">
     <tag k="name" v="SP ФотоСалон"/>
+    <tag k="name:uk" v="SP ФотоСалон"/>
     <tag k="opening_hours" v="09:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
@@ -5822,8 +5816,9 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+54 11 3071-8707"/>
   </node>
-  <node id="2597616955" lat="47.8748375" lon="35.0456675" version="4" timestamp="2022-05-26T18:38:28Z" changeset="121540884" uid="94578" user="andygol">
+  <node id="2597616955" lat="47.8748375" lon="35.0456675" version="5" timestamp="2023-03-03T23:15:48Z" changeset="133273302" uid="1538111" user="avinet_ua">
     <tag k="name" v="Запчасти Daewoo Great Wall SMA"/>
+    <tag k="name:uk" v="Запчасти Daewoo Great Wall SMA"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+380 93 650 6666"/>
     <tag k="shop" v="car"/>
@@ -8514,12 +8509,13 @@
     <tag k="tourism" v="apartment"/>
     <tag k="website" v="http://www.adormo.com/en/Keizersgracht/2209"/>
   </node>
-  <node id="2630935379" lat="46.4804195" lon="30.7435509" version="8" timestamp="2022-05-26T18:39:13Z" changeset="121540899" uid="94578" user="andygol">
+  <node id="2630935379" lat="46.4804195" lon="30.7435509" version="9" timestamp="2023-03-03T23:03:43Z" changeset="133273118" uid="1538111" user="avinet_ua">
     <tag k="addr:city" v="Одесса"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:postcode" v="65026"/>
     <tag k="addr:street" v="Буніна вулиця"/>
     <tag k="name" v="Ком-Плекс"/>
+    <tag k="name:uk" v="Ком-Плекс"/>
     <tag k="office" v="company"/>
     <tag k="opening_hours" v="09:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -11281,12 +11277,13 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.voipsupply.com/"/>
   </node>
-  <node id="2696194957" lat="46.9514925" lon="32.0335900" version="11" timestamp="2022-05-29T08:03:31Z" changeset="121643714" uid="94578" user="andygol">
+  <node id="2696194957" lat="46.9514925" lon="32.0335900" version="12" timestamp="2023-03-04T00:56:58Z" changeset="133274584" uid="1538111" user="avinet_ua">
     <tag k="amenity" v="hospital"/>
     <tag k="contact:phone" v="+380 67 504 3983"/>
     <tag k="healthcare" v="hospital"/>
     <tag k="name" v="Кабинет ультразвуковой диагностики"/>
     <tag k="name:en" v="Ultrasound diagnostics cabinet"/>
+    <tag k="name:uk" v="Кабинет ультразвуковой диагностики"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="2696721130" lat="40.9035264" lon="-74.5502915" version="5" timestamp="2019-05-29T15:42:52Z" changeset="70738414" uid="10040806" user="MapImprover">
@@ -11796,10 +11793,11 @@
     <tag k="source:date" v="2017-11-08"/>
     <tag k="website" v="https://instantdedicated.com/"/>
   </node>
-  <node id="2713853541" lat="47.8534932" lon="35.1114310" version="9" timestamp="2022-05-26T18:39:13Z" changeset="121540899" uid="94578" user="andygol">
+  <node id="2713853541" lat="47.8534932" lon="35.1114310" version="10" timestamp="2023-03-03T23:15:48Z" changeset="133273302" uid="1538111" user="avinet_ua">
     <tag k="addr:country" v="UA"/>
     <tag k="name" v="ZEPHYR STORE - Интернет-магазин"/>
     <tag k="name:en" v="ZEPHYR STORE - Online store"/>
+    <tag k="name:uk" v="ZEPHYR STORE - Интернет-магазин"/>
     <tag k="note" v="http://zephyrstore.com.ua http://vk.com/zephyrstore http://facebook.com/zephyrstore.com.ua http://instagram.com/zephyrstore"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+380 99 098 1419"/>
@@ -21775,18 +21773,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://creactive.com.br/"/>
   </node>
-  <node id="3220340910" lat="33.9583448" lon="-83.3745288" version="5" timestamp="2023-03-02T21:07:30Z" changeset="133228037" uid="7596709" user="MooPoo7">
-    <tag k="addr:city" v="Athens"/>
-    <tag k="addr:housenumber" v="153"/>
-    <tag k="addr:postcode" v="30601"/>
-    <tag k="addr:state" v="GA"/>
-    <tag k="addr:street" v="East Broad Street;North Jackson Street"/>
-    <tag k="name" v="Dynamite Clothing"/>
-    <tag k="not:brand:wikidata" v="Q3117385"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="ref:athensclarkeaddress" v="2418"/>
-    <tag k="shop" v="clothes"/>
-  </node>
   <node id="3221815661" lat="42.2496766" lon="-73.6488210" version="3" timestamp="2019-08-22T18:28:36Z" changeset="73637919" uid="289334" user="XimeX">
     <tag k="addr:city" v="Philmont"/>
     <tag k="addr:housenumber" v="1-11"/>
@@ -24066,20 +24052,6 @@
     <tag k="shop" v="books"/>
     <tag k="website" v="https://sites.google.com/site/filmarart/"/>
   </node>
-  <node id="3398439726" lat="46.0524188" lon="14.5062526" version="7" timestamp="2021-10-09T20:29:44Z" changeset="112314478" uid="11645399" user="davidoskky">
-    <tag k="addr:city" v="Ljubljana"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="1000"/>
-    <tag k="addr:street" v="Miklošičeva cesta"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="contact:facebook" v="https://sl-si.facebook.com/KavarnaUnion"/>
-    <tag k="contact:website" v="https://www.uhcollection.si/sl/grand-hotel-union/kulinarika/kavarna-union"/>
-    <tag k="name" v="Kavarna Union"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+386 01 308 1972"/>
-    <tag k="toilets:wheelchair" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="3399281644" lat="29.9413031" lon="-95.2721419" version="4" timestamp="2019-03-14T23:05:53Z" changeset="68155484" uid="2021533" user="Jeff Underwood">
     <tag k="addr:city" v="Humble"/>
     <tag k="addr:housenumber" v="7707 #C013"/>
@@ -24397,19 +24369,6 @@
     <tag k="tourism" v="hostel"/>
     <tag k="website" v="www.bluealmondhostel.com"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="3429515106" lat="43.2448968" lon="13.5865871" version="8" timestamp="2021-04-07T20:06:20Z" changeset="102504741" uid="7562272" user="Riccardo Pastocchi">
-    <tag k="addr:city" v="Monte San Giusto"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="62015"/>
-    <tag k="addr:street" v="Via Paolo VI"/>
-    <tag k="contact:email" v="info@calzaturificiolauretta.net"/>
-    <tag k="contact:phone" v="+39 0733 53691"/>
-    <tag k="contact:website" v="http://www.calzaturificiolauretta.net"/>
-    <tag k="craft" v="shoemaker"/>
-    <tag k="description" v="Produzione propria di calzature per tempo libero ed amanti della caccia"/>
-    <tag k="name" v="Calzaturificio Lauretta"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="3431544794" lat="42.2698948" lon="-71.0675595" version="3" timestamp="2019-08-22T18:28:36Z" changeset="73637919" uid="289334" user="XimeX">
     <tag k="addr:city" v="West Roxbury"/>
@@ -26363,16 +26322,6 @@
     <tag k="name" v="CoinSense"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="3765116375" lat="45.9582864" lon="12.6622506" version="5" timestamp="2022-11-09T08:25:33Z" changeset="128673677" uid="343811" user="baptistemm">
-    <tag k="addr:city" v="Pordenone"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:postcode" v="33170"/>
-    <tag k="addr:street" v="Piazzetta dei Domenicani"/>
-    <tag k="name" v="Zeta Gold Banco Metalli"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="gold_buyer"/>
-    <tag k="website" v="https://www.francopadovan.com/"/>
-  </node>
   <node id="3767790054" lat="-34.5872419" lon="-58.4159484" version="2" timestamp="2018-06-29T04:35:58Z" changeset="60265471" uid="331218" user="AgusQui">
     <tag k="addr:city" v="CABA"/>
     <tag k="addr:housenumber" v="3827"/>
@@ -27613,12 +27562,13 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.masthero.com"/>
   </node>
-  <node id="4406864907" lat="46.4813023" lon="30.7391162" version="3" timestamp="2018-05-14T10:16:47Z" changeset="58947061" uid="8269213" user="LOVA_BRAND">
+  <node id="4406864907" lat="46.4813023" lon="30.7391162" version="4" timestamp="2023-03-03T23:03:43Z" changeset="133273118" uid="1538111" user="avinet_ua">
     <tag k="addr:housenumber" v="24"/>
     <tag k="addr:street" v="Буніна вулиця"/>
     <tag k="clothes" v="women"/>
     <tag k="name" v="LOVA"/>
     <tag k="name:en" v="LOVA"/>
+    <tag k="name:uk" v="LOVA"/>
     <tag k="opening_hours" v="Mo-Su 11:00-21:00"/>
     <tag k="payment:american_express" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -27935,22 +27885,6 @@
     <tag k="office" v="administrative"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-17:30"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="4538375104" lat="3.4512363" lon="-76.5402544" version="7" timestamp="2023-03-02T15:57:43Z" changeset="133217956" uid="122547" user="osm972">
-    <tag k="addr:city" v="Cali"/>
-    <tag k="addr:country" v="CO"/>
-    <tag k="addr:housenumber" v="2N-22"/>
-    <tag k="addr:postcode" v="760045"/>
-    <tag k="addr:street" v="Centenario"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="capacity" v="300"/>
-    <tag k="cuisine" v="international"/>
-    <tag k="name" v="Mansión Del Río"/>
-    <tag k="opening_hours" v="12:00-24:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="smoking" v="separated"/>
-    <tag k="takeaway" v="no"/>
-    <tag k="website" v="www.mansiondelrio.co"/>
   </node>
   <node id="4549553890" lat="45.6673567" lon="9.0543631" version="7" timestamp="2022-03-03T12:35:38Z" changeset="118054499" uid="10901495" user="Martino Scaglione">
     <tag k="addr:city" v="Rovellasca"/>
@@ -28472,16 +28406,6 @@
     <tag k="shop_2" v="doityourself"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="4805540560" lat="43.9064580" lon="7.9516324" version="2" timestamp="2017-05-13T11:15:07Z" changeset="48646600" uid="2201521" user="quibitcoin">
-    <tag k="artist_name" v="Willem Renders"/>
-    <tag k="artwork_type" v="sculpture"/>
-    <tag k="craft" v="sculptor"/>
-    <tag k="email" v="cadelgattoster@gmail.com"/>
-    <tag k="name" v="Willem Renders"/>
-    <tag k="operator" v="Willem Renders"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.olijfolie.it/cadelgatto/"/>
-  </node>
   <node id="4815226059" lat="44.0795252" lon="10.0996256" version="2" timestamp="2020-01-31T07:47:55Z" changeset="80356066" uid="1287255" user="cxc">
     <tag k="description" v="Profumeria, bigiotteria, pelletteria."/>
     <tag k="email" v="info@leprofumeriececcarelli.it"/>
@@ -28828,12 +28752,13 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="shop" v="jewelry"/>
   </node>
-  <node id="4911044452" lat="50.4945227" lon="30.5216073" version="10" timestamp="2023-02-23T15:57:07Z" changeset="132933193" uid="10857625" user="muchichka_s">
+  <node id="4911044452" lat="50.4945227" lon="30.5216073" version="11" timestamp="2023-03-03T20:30:24Z" changeset="133269345" uid="1538111" user="avinet_ua">
     <tag k="addr:door" v="45"/>
     <tag k="addr:unit" v="корпус 6"/>
     <tag k="description" v="Law &amp; Consulting. We form companies all over the world (including Ukraine) and help our client to structure their businesses in most efficient and convenient way. payment:bitcoin=yes"/>
     <tag k="email" v="email@bramagroup.com.ua"/>
     <tag k="name" v="Brama Group Co."/>
+    <tag k="name:uk" v="Brama Group Co."/>
     <tag k="office" v="lawyer"/>
     <tag k="opening_hours" v="Mo-Fr 08:30-18:30"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -34271,12 +34196,13 @@
     <tag k="phone" v="+31 6 20755489"/>
     <tag k="website" v="https://www.cykl.nl/"/>
   </node>
-  <node id="5904169326" lat="50.4411621" lon="30.5203323" version="10" timestamp="2022-05-26T18:01:36Z" changeset="121539522" uid="94578" user="andygol">
+  <node id="5904169326" lat="50.4411621" lon="30.5203323" version="11" timestamp="2023-03-03T18:21:14Z" changeset="133265222" uid="1538111" user="avinet_ua">
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:street" v="Велика Васильківська вулиця"/>
     <tag k="email" v="clevertravel.com.ua@gmail.com"/>
     <tag k="level" v="5"/>
     <tag k="name" v="Clever Travel"/>
+    <tag k="name:uk" v="Clever Travel"/>
     <tag k="note" v="CleverTravel – это сервис бронирования туров в Европу. Мы всегда в курсе самых выгодных предложений на рынке туризма, поэтому мы предлагаем туры в Испанию, Италию, Грецию и другие Европейские страны по самым лучшим ценам."/>
     <tag k="opening_hours" v="9:00 - 19:00"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -34960,13 +34886,14 @@
     <tag k="shop" v="cosmetics"/>
     <tag k="website" v="https://www.lhelixir.com/"/>
   </node>
-  <node id="6143118835" lat="49.2380668" lon="28.4896313" version="4" timestamp="2022-05-26T18:38:28Z" changeset="121540884" uid="94578" user="andygol">
+  <node id="6143118835" lat="49.2380668" lon="28.4896313" version="5" timestamp="2023-03-03T22:29:31Z" changeset="133272411" uid="1538111" user="avinet_ua">
     <tag k="addr:door" v="7"/>
     <tag k="craft" v="window_construction"/>
     <tag k="description" v="Компанія ALEX VEKA - послуги з виготовлення та професійного монтажу алюмінієвих та металопластикових вікон, дверей, роздвижних систем, гаражних воріт, ролетів від сертифікованого за європейськими стандартими якості та безпеки заводу виробника віконно"/>
     <tag k="email" v="alex.veka.vin@gmail.com"/>
     <tag k="level" v="2"/>
     <tag k="name" v="Alex Veka"/>
+    <tag k="name:uk" v="Alex Veka"/>
     <tag k="note" v="окна, двери, гаражные ролеты, ворота, жалюзи"/>
     <tag k="opening_hours" v="Mo-Sa 10:00-19:00"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -37303,10 +37230,11 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="7227157085" lat="50.4123826" lon="30.4424812" version="4" timestamp="2022-10-05T10:34:54Z" changeset="127040459" uid="2136761" user="flix1">
+  <node id="7227157085" lat="50.4123826" lon="30.4424812" version="5" timestamp="2023-03-03T20:30:24Z" changeset="133269345" uid="1538111" user="avinet_ua">
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="WOG кафе"/>
     <tag k="name:en" v="WOG cafe"/>
+    <tag k="name:uk" v="WOG кафе"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
   </node>
@@ -38072,19 +38000,6 @@
     <tag k="website" v="https://www.lasociedadgeografica.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="7896227562" lat="42.4335125" lon="13.9845266" version="2" timestamp="2020-09-23T02:47:13Z" changeset="91325702" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Loreto Aprutino"/>
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:postcode" v="65014"/>
-    <tag k="addr:street" v="Via dei Normanni"/>
-    <tag k="craft" v="shoemaker"/>
-    <tag k="description" v="Calzolaio, affilatura forbici e coltelli. Sanificazione a ozono per caschi, scarpe, valigie, ecc."/>
-    <tag k="email" v="officinadellascarpa15@gmail.com"/>
-    <tag k="name" v="Officina della scarpa di Rasetta Emanuele"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 3933524126"/>
-    <tag k="website" v="https://www.officinadellascarpa.it/"/>
-  </node>
   <node id="7900118113" lat="42.4699854" lon="44.4939898" version="1" timestamp="2020-09-12T16:07:41Z" changeset="90798137" uid="1589313" user="davidtk">
     <tag k="addr:city" v="Gudauri"/>
     <tag k="addr:country" v="GE"/>
@@ -38150,12 +38065,13 @@
     <tag k="tourism" v="gallery"/>
     <tag k="website" v="https://www.paveikslai.lt"/>
   </node>
-  <node id="7930589634" lat="48.9427932" lon="38.4906156" version="6" timestamp="2021-01-19T22:17:11Z" changeset="97794722" uid="117960" user="va-deam">
+  <node id="7930589634" lat="48.9427932" lon="38.4906156" version="7" timestamp="2023-03-03T23:21:42Z" changeset="133273419" uid="1538111" user="avinet_ua">
     <tag k="amenity" v="car_wash"/>
     <tag k="automated" v="yes"/>
     <tag k="name" v="Гудавто"/>
     <tag k="name:en" v="Goodauto"/>
     <tag k="name:ru" v="Гудавто"/>
+    <tag k="name:uk" v="Гудавто"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="opening_hours:covid19" v="open"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -39527,7 +39443,7 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="website" v="https://cerec-art.ch"/>
   </node>
-  <node id="8696926415" lat="50.0015578" lon="36.2351104" version="3" timestamp="2022-05-26T18:38:28Z" changeset="121540884" uid="94578" user="andygol">
+  <node id="8696926415" lat="50.0015578" lon="36.2351104" version="4" timestamp="2023-03-04T01:11:41Z" changeset="133274725" uid="1538111" user="avinet_ua">
     <tag k="addr:housenumber" v="48"/>
     <tag k="addr:postcode" v="61002"/>
     <tag k="addr:street" v="Сумська вулиця"/>
@@ -39539,6 +39455,7 @@
     <tag k="internet_access:fee" v="no"/>
     <tag k="internet_access:ssid" v="Urban Coffee Place"/>
     <tag k="name" v="Urban Coffee Place"/>
+    <tag k="name:uk" v="Urban Coffee Place"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-20:00; Sa-Su 10:00-20:00"/>
     <tag k="opening_hours:covid19" v="same"/>
     <tag k="outdoor_seating" v="yes"/>
@@ -39759,15 +39676,17 @@
     <tag k="tourism" v="hotel"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8821351069" lat="50.4123051" lon="30.4420371" version="3" timestamp="2022-10-05T10:34:54Z" changeset="127040459" uid="2136761" user="flix1">
+  <node id="8821351069" lat="50.4123051" lon="30.4420371" version="4" timestamp="2023-03-03T20:30:24Z" changeset="133269345" uid="1538111" user="avinet_ua">
     <tag k="addr:street" v="Sikorsky International Airport Kyiv"/>
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="La bellota"/>
+    <tag k="name:uk" v="La bellota"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
   </node>
-  <node id="8821351070" lat="50.4125320" lon="30.4423784" version="3" timestamp="2022-10-05T10:34:54Z" changeset="127040459" uid="2136761" user="flix1">
+  <node id="8821351070" lat="50.4125320" lon="30.4423784" version="4" timestamp="2023-03-03T20:30:24Z" changeset="133269345" uid="1538111" user="avinet_ua">
     <tag k="name" v="Heinemann Duty Free"/>
+    <tag k="name:uk" v="Heinemann Duty Free"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="shop" v="beverages"/>
@@ -40524,11 +40443,12 @@
     <tag k="website" v="https://socraticsolutions.us/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9377231087" lat="46.1922136" lon="30.3426448" version="3" timestamp="2022-06-07T17:44:19Z" changeset="122082613" uid="3639544" user="ququruzka">
+  <node id="9377231087" lat="46.1922136" lon="30.3426448" version="4" timestamp="2023-03-03T23:03:43Z" changeset="133273118" uid="1538111" user="avinet_ua">
     <tag k="addr:housenumber" v="43"/>
     <tag k="addr:postcode" v="67701"/>
     <tag k="addr:street" v="Миколаївська вулиця"/>
     <tag k="name" v="Техностор"/>
+    <tag k="name:uk" v="Техностор"/>
     <tag k="opening_hours" v="Mo-Su 08:00-17:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
