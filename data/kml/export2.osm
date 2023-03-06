@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-05T05:23:59Z"/>
+<meta osm_base="2023-03-06T05:25:33Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -1884,26 +1884,6 @@
     <tag k="phone" v="+34 920 382 307"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="http://hotelnabia.com/"/>
-  </node>
-  <node id="2479061374" lat="46.9406640" lon="7.4400264" version="4" timestamp="2014-06-09T21:14:25Z" changeset="22838780" uid="65044" user="ydrgbjo">
-    <tag k="addr:city" v="Bern"/>
-    <tag k="addr:country" v="CH"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:postcode" v="3005"/>
-    <tag k="addr:street" v="Sulgeneckstrasse"/>
-    <tag k="contact:email" v="info@greenvillegardening.ch"/>
-    <tag k="contact:fax" v="+41 31 3814281"/>
-    <tag k="contact:phone" v="+41 31 3814291"/>
-    <tag k="contact:website" v="http://www.greenvillegardening.ch/contact_us.php"/>
-    <tag k="description" v="Alles was das Hobby- bis zum Profigärtner-Herz begehrt"/>
-    <tag k="name" v="Greenville Gardening"/>
-    <tag k="opening_hours" v="Mo-Fr 12:00-18:30; Sa 12:00-16:00; Su off"/>
-    <tag k="operator" v="Greenville Gardening GmbH"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="garden_centre"/>
-    <tag k="source" v="website"/>
-    <tag k="website" v="http://www.greenvillegardening.ch"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2481906159" lat="45.5595017" lon="-73.5975114" version="6" timestamp="2018-02-05T16:11:29Z" changeset="56088597" uid="5633991" user="Matthew Darwin">
     <tag k="addr:city" v="Montréal"/>
@@ -11379,18 +11359,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.labrunavetri.it/"/>
   </node>
-  <node id="2700326844" lat="37.7938450" lon="-122.4035253" version="3" timestamp="2019-01-22T17:09:06Z" changeset="66544213" uid="364" user="Edward">
-    <tag k="addr:city" v="San Francisco"/>
-    <tag k="addr:housenumber" v="505"/>
-    <tag k="addr:postcode" v="94111"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="Montgomery Street"/>
-    <tag k="name" v="Revestor"/>
-    <tag k="office" v="estate_agent"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.revestor.com/"/>
-    <tag k="wikidata" v="Q4639808"/>
-  </node>
   <node id="2701239316" lat="-36.8680028" lon="174.7749509" version="11" timestamp="2021-04-22T07:02:18Z" changeset="103386985" uid="8389777" user="kylenz_linz">
     <tag k="addr:city" v="Auckland"/>
     <tag k="addr:housenumber" v="17"/>
@@ -16416,12 +16384,14 @@
     <tag k="tourism" v="hotel"/>
     <tag k="url" v="http://www.tripadvisor.co.uk/Hotel_Review-g612363-d2262066-Reviews-Pan_s_Place-Vang_Vieng_Vientiane_Province.html"/>
   </node>
-  <node id="2887765398" lat="54.3668974" lon="-2.9160857" version="7" timestamp="2019-03-23T00:04:18Z" changeset="68431336" uid="9451067" user="b-jazz-bot">
+  <node id="2887765398" lat="54.3668974" lon="-2.9160857" version="8" timestamp="2023-03-05T20:48:20Z" changeset="133340450" uid="3149234" user="lakedistrict">
     <tag k="addr:city" v="Bowness-on-Windermere"/>
     <tag k="addr:housenumber" v="22"/>
     <tag k="addr:postcode" v="LA23 3AP"/>
     <tag k="addr:street" v="Lake Road"/>
+    <tag k="check_date:opening_hours" v="2023-03-05"/>
     <tag k="name" v="Hubble Bubble Organics"/>
+    <tag k="opening_hours:signed" v="no"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="cosmetics"/>
     <tag k="website" v="https://www.hubblebubbleorganics.co.uk/"/>
@@ -18897,20 +18867,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="1 877 884 7463"/>
     <tag k="website" v="https://www.tinyfootprintcoffee.com/"/>
-  </node>
-  <node id="3035418101" lat="-30.0517400" lon="-51.2262065" version="14" timestamp="2018-10-13T19:01:32Z" changeset="63492553" uid="1624486" user="thetornado76">
-    <tag k="addr:city" v="porto alegre"/>
-    <tag k="addr:housenumber" v="415"/>
-    <tag k="addr:postcode" v="90150-051"/>
-    <tag k="addr:street" v="Avenida Ganzo"/>
-    <tag k="addr:suburb" v="menino deus"/>
-    <tag k="contact:email" v="rockbarcellos@gmail.com"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/rocksilesbarcellos?hc_location=timeline"/>
-    <tag k="contact:tumblr" v="http://rockbarcellos.tumblr.com/"/>
-    <tag k="contact:website" v="http://www.rockincomics.com.br/"/>
-    <tag k="name" v="Rock'n'Art"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://rocksilesbarcellos.daportfolio.com/gallery/847313"/>
   </node>
   <node id="3037795901" lat="10.4972166" lon="-66.8229581" version="6" timestamp="2020-03-10T15:17:36Z" changeset="82013666" uid="527105" user="albertoq">
     <tag k="addr:city" v="Caracas"/>
@@ -22445,19 +22401,6 @@
     <tag k="opening_hours" v="09:00-20:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+421 908 382 899"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="3254110482" lat="39.4957614" lon="-74.4605269" version="3" timestamp="2022-04-09T01:25:51Z" changeset="119489332" uid="12290" user="crystalwalrein">
-    <tag k="addr:city" v="Smithville"/>
-    <tag k="addr:housenumber" v="615"/>
-    <tag k="addr:postcode" v="08205"/>
-    <tag k="addr:state" v="NJ"/>
-    <tag k="addr:street" v="E. Moss Mill Road"/>
-    <tag k="name" v="Shell We"/>
-    <tag k="note" v="Nautical Gifts and Souvenirs"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="609-652-6200"/>
-    <tag k="shop" v="gift"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3254126579" lat="39.4959595" lon="-74.4608158" version="3" timestamp="2022-04-09T01:25:51Z" changeset="119489332" uid="12290" user="crystalwalrein">
@@ -37370,7 +37313,7 @@
     <tag k="phone" v="+55 43 3259-2773"/>
     <tag k="shop" v="video"/>
   </node>
-  <node id="7545810612" lat="45.5573878" lon="32.8330439" version="2" timestamp="2021-11-27T16:38:46Z" changeset="114300361" uid="10129333" user="solenoid jam">
+  <node id="7545810612" lat="45.5573878" lon="32.8330439" version="3" timestamp="2023-03-05T21:28:52Z" changeset="133341426" uid="1538111" user="avinet_ua">
     <tag k="access" v="yes"/>
     <tag k="addr:city" v="Межводненское сельское поселение"/>
     <tag k="brand" v="Кайтшкола номер один"/>
@@ -37384,8 +37327,9 @@
     <tag k="internet_access:ssid" v="k1surf"/>
     <tag k="leisure" v="sports_centre"/>
     <tag k="level" v="0"/>
-    <tag k="name" v="Кайт серф центр IKO K1 - Межводное"/>
+    <tag k="name" v="Кайт серф центр IKO K1 - Міжводне"/>
     <tag k="name:en" v="Kite surf center IKO K1"/>
+    <tag k="name:uk" v="Кайт серф центр IKO K1 - Міжводне"/>
     <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
     <tag k="opening_hours:covid19" v="open"/>
     <tag k="operator" v="Кайт серф центр IKO K1"/>
@@ -41725,6 +41669,15 @@
     <tag k="phone" v="949-751-6033"/>
     <tag k="shop" v="coffee"/>
     <tag k="website" v="https://www.gratefulearthcoffee.com/"/>
+  </node>
+  <node id="10713264030" lat="41.6959072" lon="-71.5150850" version="1" timestamp="2023-03-06T00:35:23Z" changeset="133344351" uid="18624552" user="abester">
+    <tag k="addr:housenumber" v="177"/>
+    <tag k="addr:street" v="Legris Avenue"/>
+    <tag k="name" v="Smoke Land"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-23:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="shop" v="tobacco"/>
   </node>
 
 </osm>
