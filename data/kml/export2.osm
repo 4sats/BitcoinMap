@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-09T05:25:32Z"/>
+<meta osm_base="2023-03-10T05:26:08Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -3868,20 +3868,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+92 (0)3452980575"/>
     <tag k="website" v="http://symbolizers.com/"/>
-  </node>
-  <node id="2573211756" lat="35.4765647" lon="-80.8923301" version="8" timestamp="2023-01-12T18:15:25Z" changeset="131199846" uid="1884235" user="Graptemys">
-    <tag k="addr:city" v="Cornelius"/>
-    <tag k="addr:country" v="US"/>
-    <tag k="addr:housenumber" v="19420"/>
-    <tag k="addr:postcode" v="28031"/>
-    <tag k="addr:state" v="NC"/>
-    <tag k="addr:street" v="Jetton Road"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="cuisine" v="coffee"/>
-    <tag k="name" v="Waterbean Coffee"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1 828-305-9999"/>
-    <tag k="website" v="https://www.waterbeancoffee.com/"/>
   </node>
   <node id="2573293336" lat="39.1082855" lon="-84.4975614" version="5" timestamp="2021-05-07T16:44:59Z" changeset="104331530" uid="307520" user="wolfgang8741">
     <tag k="addr:city" v="Cincinnati"/>
@@ -29230,7 +29216,7 @@
     <tag k="shop" v="equipment_rental"/>
     <tag k="website" v="https://www.ecotaurus.it/"/>
   </node>
-  <node id="5163169822" lat="45.6290885" lon="13.7817574" version="6" timestamp="2022-01-24T04:35:15Z" changeset="116522663" uid="6742648" user="cocio">
+  <node id="5163169822" lat="45.6290885" lon="13.7817574" version="7" timestamp="2023-03-09T16:13:30Z" changeset="133485407" uid="6742648" user="cocio">
     <tag k="addr:city" v="Trieste"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="34145"/>
@@ -29238,12 +29224,11 @@
     <tag k="description" v="Associazione per l'educazione evolutiva, finanziaria, personale ed emotiva. Corsi, consulenze ed eventi formativi."/>
     <tag k="email" v="info@twimt.it"/>
     <tag k="name" v="Cashflow Club Trieste"/>
-    <tag k="name:en" v="Bitcoin Trieste"/>
     <tag k="name:it" v="Twimt Institute"/>
     <tag k="office" v="educational_institution"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3405595240"/>
-    <tag k="website" v="http://twimt.it"/>
+    <tag k="website" v="https://twimt.it"/>
   </node>
   <node id="5165208104" lat="39.3778765" lon="9.1759603" version="2" timestamp="2017-10-13T14:51:46Z" changeset="52896774" uid="6793630" user="Gioielleria Paolo Saba">
     <tag k="addr:city" v="Dolianova"/>
@@ -33485,9 +33470,7 @@
     <tag k="shop" v="hifi"/>
     <tag k="website" v="https://www.zueggsolutions.com/"/>
   </node>
-  <node id="5801776025" lat="37.5697074" lon="14.8973100" version="5" timestamp="2022-08-02T15:49:10Z" changeset="124398205" uid="743479" user="fayor">
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:street" v="Via Medaglie d'Oro"/>
+  <node id="5801776025" lat="37.5696925" lon="14.8972899" version="6" timestamp="2023-03-09T18:57:37Z" changeset="133491102" uid="743479" user="fayor">
     <tag k="description" v="Consulenza informatica, sviluppo software e applicazioni."/>
     <tag k="email" v="info@teksoft.it"/>
     <tag k="name" v="TekSoft"/>
@@ -41179,6 +41162,13 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="shop" v="tobacco"/>
+  </node>
+  <node id="10723826768" lat="45.6422807" lon="13.7872684" version="2" timestamp="2023-03-09T16:16:21Z" changeset="133485486" uid="6742648" user="cocio">
+    <tag k="address" v="Via Limitanea 4b"/>
+    <tag k="city" v="Trieste"/>
+    <tag k="name" v="il Centro Studi Eventi"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="website" v="https://ilcentrostudi.com"/>
   </node>
 
 </osm>
