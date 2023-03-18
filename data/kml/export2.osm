@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
+<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-17T05:24:37Z"/>
+<meta osm_base="2023-03-18T05:23:11Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -33366,17 +33366,17 @@
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="shop" v="supermarket"/>
   </node>
-  <node id="6041399348" lat="46.9859918" lon="28.8593400" version="2" timestamp="2021-08-30T14:32:32Z" changeset="110465373" uid="14022317" user="Flori Flowers MD">
+  <node id="6041399348" lat="46.9859918" lon="28.8593400" version="3" timestamp="2023-03-17T12:47:47Z" changeset="133787146" uid="2367488" user="VitalieS">
     <tag k="addr:city" v="Chișinău"/>
     <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:postcode" v="MD2043"/>
+    <tag k="addr:postcode" v="MD-2060"/>
     <tag k="addr:street" v="Bulevardul Dacia"/>
     <tag k="description" v="Livrare flori in Chisinau si toata Moldova."/>
     <tag k="email" v="office@moldflowers.md"/>
     <tag k="name" v="MoldFlowers"/>
-    <tag k="name:en" v="MoldFlowers - Flowers Delivery"/>
-    <tag k="name:ro" v="MoldFlowers - Livrare flori"/>
-    <tag k="name:ru" v="MoldFlowers - Доставка цветов"/>
+    <tag k="name:en" v="MoldFlowers"/>
+    <tag k="name:fr" v="MoldFlowers"/>
+    <tag k="name:ro" v="MoldFlowers"/>
     <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
     <tag k="opening_hours:covid19" v="Mo-Su 07:00-22:00"/>
     <tag k="payment:american_express" v="yes"/>
@@ -34734,29 +34734,6 @@
     <tag k="reservation" v="recommended"/>
     <tag k="website" v="http://www.velenobrescia.it"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="6658025309" lat="55.8722364" lon="26.5217958" version="4" timestamp="2022-07-08T16:57:16Z" changeset="123374540" uid="15008076" user="latvia-bot">
-    <tag k="addr:city" v="Daugavpils"/>
-    <tag k="addr:country" v="LV"/>
-    <tag k="addr:housenumber" v="60A"/>
-    <tag k="addr:postcode" v="LV-5401"/>
-    <tag k="addr:street" v="Mihoelsa iela"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="description" v="PRIVATE NIGHT CLUB"/>
-    <tag k="internet_access" v="no"/>
-    <tag k="name" v="FORT CLUB"/>
-    <tag k="opening_hours" v="Fr,Sa 23:59-12:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="ref:LV:addr" v="104612407"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="website" v="https://www.facebook.com/fortclub60a/"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="6658363340" lat="-16.7100009" lon="-49.2720255" version="1" timestamp="2019-07-29T17:18:09Z" changeset="72780013" uid="2363472" user="Adega">
     <tag k="addr:city" v="Goiânia"/>
@@ -40463,20 +40440,6 @@
     <tag k="name" v="Cafe Bouzingo"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="smoking" v="dedicated"/>
-  </node>
-  <node id="10734936913" lat="45.8467872" lon="10.1600240" version="1" timestamp="2023-03-14T13:22:36Z" changeset="133666980" uid="17001488" user="Villaggio Bitcoin">
-    <tag k="addr:city" v="Artogne"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:postcode" v="25040"/>
-    <tag k="addr:street" v="Via Maserade"/>
-    <tag k="agrarian" v="oil;cannabis;cbd_oil;honey;hemp;canapa"/>
-    <tag k="email" v="shop@camunacannabis.it"/>
-    <tag k="name" v="Camuna Cannabis"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:btc" v="yes"/>
-    <tag k="phone" v="+39 347 758 1642"/>
-    <tag k="shop" v="agrarian"/>
-    <tag k="website" v="https://camunacannabis.it"/>
   </node>
   <node id="10736694654" lat="54.1456582" lon="10.9538810" version="5" timestamp="2023-03-16T11:47:41Z" changeset="133745741" uid="18724700" user="athletics25">
     <tag k="addr:city" v="Grömitz"/>
