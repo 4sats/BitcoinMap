@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-19T05:23:33Z"/>
+<meta osm_base="2023-03-20T05:24:53Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -1134,22 +1134,6 @@
     <tag k="phone" v="+1 315-410-0090"/>
     <tag k="shop" v="coffee_roasting"/>
     <tag k="website" v="https://recesscoffee.com/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="1872632356" lat="45.0669429" lon="7.6931156" version="10" timestamp="2022-12-09T17:29:37Z" changeset="129909309" uid="11220113" user="ivanbranco">
-    <tag k="addr:city" v="Torino"/>
-    <tag k="addr:housenumber" v="8a"/>
-    <tag k="addr:postcode" v="10124"/>
-    <tag k="addr:street" v="Via Sant'Ottavio"/>
-    <tag k="name" v="Ullallà - Il Negozio"/>
-    <tag k="opening_hours" v="Mo-Fr 09:30-19:00; Sa 15:00-19:00; Su Closed"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="phone" v="+39 011 0675870"/>
-    <tag k="shop" v="variety_store"/>
-    <tag k="website" v="https://www.facebook.com/Ullallastore"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1880754454" lat="49.2202210" lon="17.6494571" version="4" timestamp="2014-11-28T12:43:11Z" changeset="27088867" uid="2490617" user="nanostudio">
@@ -13661,12 +13645,12 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://hkexpressfrisco.com/"/>
   </node>
-  <node id="2788989513" lat="32.0635691" lon="34.7716521" version="4" timestamp="2017-06-06T09:15:59Z" changeset="49299149" uid="5816834" user="SafwatHalaby_bot">
+  <node id="2788989513" lat="32.0635691" lon="34.7716521" version="5" timestamp="2023-03-19T22:40:11Z" changeset="133876548" uid="4221879" user="davidmguest">
     <tag k="addr:city" v="תל אביב"/>
     <tag k="addr:housenumber" v="61"/>
     <tag k="addr:postcode" v="65252"/>
     <tag k="addr:street" v="נחלת בנימין"/>
-    <tag k="amenity" v="restaurant"/>
+    <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="regional"/>
     <tag k="name" v="Falafel Loop - Coin Commerce"/>
     <tag k="name:en" v="Falafel Loop - Coin Commerce"/>
@@ -40319,7 +40303,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://ilcentrostudi.com"/>
   </node>
-  <node id="10734478928" lat="48.7493674" lon="-122.4801023" version="1" timestamp="2023-03-14T09:23:15Z" changeset="133657872" uid="3358163" user="Nostradumbass">
+  <node id="10734478928" lat="48.7493674" lon="-122.4801023" version="2" timestamp="2023-03-19T08:33:56Z" changeset="133848124" uid="3358163" user="Nostradumbass">
     <tag k="addr:city" v="Bellingham"/>
     <tag k="addr:housenumber" v="1215"/>
     <tag k="addr:postcode" v="98225"/>
@@ -40328,6 +40312,7 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="indian"/>
     <tag k="name" v="India Grill Restaurant"/>
+    <tag k="opening_hours" v="&quot;We are currently only accepting take-out orders for the time being. Thank you&quot;"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1 360-714-0314"/>
     <tag k="website" v="http://www.indiagrill.us"/>
