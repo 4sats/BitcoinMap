@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-20T05:24:53Z"/>
+<meta osm_base="2023-03-21T05:22:50Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -2086,7 +2086,7 @@
     <tag k="source" v="survey"/>
     <tag k="takeaway" v="yes"/>
   </node>
-  <node id="2522844354" lat="35.2609643" lon="-120.6505799" version="7" timestamp="2021-02-18T19:25:57Z" changeset="99544969" uid="7152372" user="Mxdanger">
+  <node id="2522844354" lat="35.2609643" lon="-120.6505790" version="8" timestamp="2023-03-20T18:07:46Z" changeset="133910058" uid="6981414" user="kfinger">
     <tag k="addr:city" v="San Luis Obispo"/>
     <tag k="addr:housenumber" v="3211"/>
     <tag k="addr:postcode" v="93401"/>
@@ -2097,7 +2097,9 @@
     <tag k="name" v="Le Ciel Crepe Cafe"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="805-783-2013"/>
+    <tag k="takeaway" v="yes"/>
     <tag k="website" v="http://www.lecielcrepes.com/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2525193315" lat="52.0354966" lon="5.1702053" version="12" timestamp="2022-06-06T15:46:34Z" changeset="122032188" uid="5432507" user="cEvLGWiQ">
     <tag k="addr:city" v="Houten"/>
@@ -3131,51 +3133,11 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://tritech-consulting.com/"/>
   </node>
-  <node id="2565902974" lat="44.2845315" lon="11.8998992" version="7" timestamp="2020-03-18T13:31:20Z" changeset="82349607" uid="7078274" user="gabriele_sani">
-    <tag k="addr:city" v="Faenza"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:postcode" v="48018"/>
-    <tag k="addr:street" v="Via Raffaele Bendandi"/>
-    <tag k="email" v="info@t-erre.org"/>
-    <tag k="name" v="T-ERRE Turismo Responsabile"/>
-    <tag k="office" v="association"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0546 634280"/>
-    <tag k="website" v="https://www.t-erre.org/"/>
-  </node>
-  <node id="2566114472" lat="37.3352867" lon="-5.8310941" version="1" timestamp="2013-12-05T11:30:17Z" changeset="19287231" uid="1830835" user="Aipaz">
-    <tag k="addr:city" v="Alcala de Guadaira"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:postcode" v="41500"/>
-    <tag k="addr:street" v="Calle de Orense"/>
-    <tag k="name" v="PCNET Repuestos"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+34955290117"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="http://www.pcnet.es"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="2566164204" lat="50.7861012" lon="-1.6044608" version="2" timestamp="2019-03-22T16:57:43Z" changeset="68419261" uid="9451067" user="b-jazz-bot">
+  <node id="2566164204" lat="50.7861012" lon="-1.6044608" version="3" timestamp="2023-03-20T22:11:10Z" changeset="133917360" uid="17199501" user="perpetual nomad">
     <tag k="name" v="CiggyJuice (Sway)"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="+44 7528 829590"/>
     <tag k="website" v="https://www.ciggyjuice.co.uk"/>
-  </node>
-  <node id="2566168587" lat="34.0445437" lon="-118.2353250" version="2" timestamp="2016-06-27T15:55:01Z" changeset="40324563" uid="1586930" user="schleuss_imports">
-    <tag k="addr:city" v="Los Angeles"/>
-    <tag k="addr:housename" v="C/O Hub LA"/>
-    <tag k="addr:housenumber" v="830"/>
-    <tag k="addr:postcode" v="90013"/>
-    <tag k="addr:street" v="Traction Avenue, Suite 3A"/>
-    <tag k="name" v="filmanthropos"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.filmanthropos.com"/>
-  </node>
-  <node id="2566282321" lat="-34.4429626" lon="-58.5630728" version="3" timestamp="2013-12-05T15:18:58Z" changeset="19291177" uid="181135" user="Manu1400">
-    <tag k="name" v="Pablo A. Puente, Fotografía"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="2566455945" lat="36.5783697" lon="-121.7273232" version="2" timestamp="2019-05-30T13:25:28Z" changeset="70770500" uid="8339" user="mtmail">
     <tag k="addr:city" v="Salinas"/>
@@ -3198,17 +3160,6 @@
     <tag k="name" v="Juma Carpet Care"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2566492038" lat="49.8950267" lon="-97.2079330" version="4" timestamp="2018-10-25T14:50:09Z" changeset="63870397" uid="5633991" user="Matthew Darwin">
-    <tag k="addr:city" v="Winnipeg"/>
-    <tag k="addr:housenumber" v="620"/>
-    <tag k="addr:postcode" v="R3H 0C7"/>
-    <tag k="addr:street" v="King Edward Street"/>
-    <tag k="building" v="retail office"/>
-    <tag k="name" v="CDC Computers / MicroMedics"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-204-788-0900"/>
-    <tag k="website" v="http://www.cdccomputer.com"/>
-  </node>
   <node id="2566506278" lat="29.7956664" lon="-95.3599485" version="5" timestamp="2021-04-03T16:12:02Z" changeset="102242881" uid="3486044" user="DeadLetterQueue">
     <tag k="addr:city" v="Houston"/>
     <tag k="addr:housenumber" v="3822"/>
@@ -3218,28 +3169,6 @@
     <tag k="name" v="Dragneel Technology"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-281-714-7815"/>
-  </node>
-  <node id="2566512995" lat="42.2064853" lon="-71.8114950" version="2" timestamp="2019-05-30T13:42:44Z" changeset="70771289" uid="8339" user="mtmail">
-    <tag k="addr:city" v="Auburn"/>
-    <tag k="addr:housenumber" v="190"/>
-    <tag k="addr:postcode" v="01501"/>
-    <tag k="addr:state" v="MA"/>
-    <tag k="addr:street" v="Washington Street"/>
-    <tag k="name" v="NES MOVERS"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1 508 61 4502"/>
-  </node>
-  <node id="2566791398" lat="34.1714803" lon="-118.1019896" version="3" timestamp="2013-12-05T18:59:19Z" changeset="19294445" uid="1831311" user="Tony Nguyen">
-    <tag k="addr:city" v="Pasadena"/>
-    <tag k="addr:housename" v="Connectionz Computer Repair"/>
-    <tag k="addr:housenumber" v="2379"/>
-    <tag k="addr:postcode" v="91104"/>
-    <tag k="addr:street" v="Garfias Drive"/>
-    <tag k="name" v="Connectionz Computer Repair"/>
-    <tag k="office" v="it"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="626-794-4900"/>
-    <tag k="website" v="www.connectionzpcrepair.com"/>
   </node>
   <node id="2567013748" lat="48.1860306" lon="17.1348811" version="6" timestamp="2022-11-21T00:24:57Z" changeset="129173824" uid="1617449" user="aceman444">
     <tag k="addr:city" v="Bratislava"/>
@@ -3265,27 +3194,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="shop" v="games"/>
-  </node>
-  <node id="2567269320" lat="10.4310922" lon="-85.7825123" version="8" timestamp="2019-09-22T00:48:51Z" changeset="74761581" uid="1104904" user="joserrg12">
-    <tag k="addr:city" v="Cabo Velas"/>
-    <tag k="addr:street" v="Ruta Nacional 180"/>
-    <tag k="name" v="Costa Rica VIP - Vacation Rentals - Tours - Car Rentals - Tourist Information"/>
-    <tag k="office" v="travel_agent"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="website" v="http://www.costaricavip.com"/>
-    <tag k="wifi" v="yes"/>
-  </node>
-  <node id="2567352083" lat="34.0624909" lon="-118.3993500" version="3" timestamp="2022-01-31T04:01:58Z" changeset="116803582" uid="11523236" user="willkmis">
-    <tag k="addr:city" v="Beverly Hills"/>
-    <tag k="addr:housename" v="269 South Beverly Drive"/>
-    <tag k="addr:housenumber" v="269"/>
-    <tag k="addr:postcode" v="90212"/>
-    <tag k="addr:street" v="South Beverly Drive"/>
-    <tag k="name" v="Prolecto Resources, Inc."/>
-    <tag k="office" v="it"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.prolecto.com"/>
   </node>
   <node id="2567363680" lat="40.4929282" lon="-74.6392622" version="11" timestamp="2019-10-20T11:37:06Z" changeset="75951176" uid="9564652" user="wireguy">
     <tag k="addr:city" v="Hillsborough"/>
