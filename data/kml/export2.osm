@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
+<osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-21T05:22:50Z"/>
+<meta osm_base="2023-03-22T05:24:08Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -12485,15 +12485,6 @@
     <tag k="name" v="The Raw Food World"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.therawfoodworld.com/"/>
-  </node>
-  <node id="2752166248" lat="36.9552539" lon="14.5246596" version="5" timestamp="2020-03-03T01:08:04Z" changeset="81702825" uid="743479" user="fayor">
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="Via Giacomo Leopardi"/>
-    <tag k="name" v="MenoStudio"/>
-    <tag k="office" v="it"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 339 635049"/>
-    <tag k="website" v="http://www.menostudio.it"/>
   </node>
   <node id="2754327106" lat="49.3654976" lon="17.0105614" version="4" timestamp="2014-11-28T12:34:08Z" changeset="27088704" uid="2490617" user="nanostudio">
     <tag k="addr:conscriptionnumber" v="19"/>
@@ -27556,17 +27547,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 7741925237"/>
   </node>
-  <node id="4958459622" lat="37.0231377" lon="14.4938788" version="4" timestamp="2020-03-03T01:08:04Z" changeset="81702825" uid="743479" user="fayor">
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:street" v="Via Balilla"/>
-    <tag k="description" v="Mansarda indipendente, mq.60 in un unico ambiente, con cucina accessoriata, divano con angolo TV, zona notte, bagno con doccia e terrazzo completo di arredi per il relax. Soluzione ideale per chi desidera visitare un'ampia zona della Sicilia meridionale."/>
-    <tag k="email" v="ramondazzo@gmail.com"/>
-    <tag k="name" v="Mansarda Biscari"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 338 5601215"/>
-    <tag k="tourism" v="apartment"/>
-    <tag k="website" v="http://www.linkissimo.com/mansardabiscari"/>
-  </node>
   <node id="4959907227" lat="45.4698710" lon="9.1658310" version="2" timestamp="2017-07-09T14:02:02Z" changeset="50153394" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="14"/>
@@ -30386,15 +30366,13 @@
     <tag k="phone" v="+39 0761820495"/>
     <tag k="website" v="http://www.frantoiopresciuttini.it"/>
   </node>
-  <node id="5364865831" lat="36.9587050" lon="14.5418810" version="2" timestamp="2020-03-03T01:08:04Z" changeset="81702825" uid="743479" user="fayor">
-    <tag k="addr:housenumber" v="179"/>
-    <tag k="addr:street" v="Via Marangio"/>
+  <node id="5364865831" lat="36.9586311" lon="14.5418367" version="3" timestamp="2023-03-21T23:57:00Z" changeset="133960078" uid="743479" user="fayor">
     <tag k="description" v="Progettazione, direzione e contabilità dei lavori nel settore dell'edilizia e nel settore topografico. Accatastamenti e frazionamenti, rilievi, piani quotati, scavi e strade."/>
     <tag k="email" v="liberty360@gmail.com"/>
     <tag k="name" v="Franck Tabbacchiera"/>
     <tag k="office" v="surveyor"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 3929604414"/>
+    <tag k="phone" v="+39 392 9604414"/>
   </node>
   <node id="5364865833" lat="45.4234710" lon="9.0618980" version="2" timestamp="2019-03-24T12:17:03Z" changeset="68469290" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Trezzano sul Naviglio"/>
@@ -32789,15 +32767,6 @@
     <tag k="shop" v="e-cigarette"/>
     <tag k="website" v="http://www.cloud99vapes.com"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="5913022027" lat="16.0795030" lon="108.2178942" version="2" timestamp="2019-01-04T13:20:54Z" changeset="66021207" uid="439046" user="Eliyak">
-    <tag k="addr:city" v="Da Nang"/>
-    <tag k="addr:district" v="Hai Chau"/>
-    <tag k="addr:housenumber" v="119"/>
-    <tag k="addr:postcode" v="550000"/>
-    <tag k="addr:street" v="Đống Đa"/>
-    <tag k="name" v="Công Ty TNHH Tư Vấn Giải Pháp Xây Dựng Nevo Đà Nẵng"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="5915885012" lat="43.4542070" lon="11.8750630" version="1" timestamp="2018-09-19T11:23:14Z" changeset="62726596" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Arezzo"/>
@@ -40255,6 +40224,15 @@
     <tag k="tourism" v="apartment"/>
     <tag k="view" v="yes"/>
     <tag k="website" v="https://www.ostseehaus-petersen.de"/>
+  </node>
+  <node id="10751396584" lat="45.8486371" lon="6.2130546" version="1" timestamp="2023-03-21T18:06:47Z" changeset="133951546" uid="18774890" user="Fiscaletto">
+    <tag k="addr:city" v="Talloires"/>
+    <tag k="addr:postcode" v="74290"/>
+    <tag k="addr:street" v="Chemin de Pré Monteux"/>
+    <tag k="name" v="KDO Parapente"/>
+    <tag k="operator" v="https://www.cadeau-parapente.fr/"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="survey:date" v="2023-03-20"/>
   </node>
 
 </osm>
