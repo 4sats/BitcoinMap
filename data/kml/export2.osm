@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-23T05:23:27Z"/>
+<meta osm_base="2023-03-24T05:23:38Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -23257,6 +23257,23 @@
     <tag k="phone" v="+34972223194"/>
     <tag k="website" v="http://www.cincuentaeuros.com"/>
   </node>
+  <node id="3484016351" lat="45.0311269" lon="7.6399938" version="4" timestamp="2023-03-23T18:29:52Z" changeset="134035463" uid="18002371" user="gianotek">
+    <tag k="addr:city" v="Torino"/>
+    <tag k="addr:housenumber" v="160"/>
+    <tag k="addr:postcode" v="10135"/>
+    <tag k="addr:street" v="Corso Giovanni Agnelli"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="brewery" v="Löwenbräu;Tennent’s Super;Bass;Leffe;Franziskaner;Hoegaarden;Guinness;various"/>
+    <tag k="contact:mobile" v="+39 339 1661356"/>
+    <tag k="contact:website" v="http://www.pubjohnlennontorino.com/"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="John Lennon's Pub"/>
+    <tag k="operator" v="Fans di John Lennon s.n.c. di Serra Marco &amp; C."/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="ref:vatin" v="IT05614630019"/>
+  </node>
   <node id="3486074840" lat="-25.4103708" lon="-49.2050589" version="4" timestamp="2022-11-07T03:51:54Z" changeset="128578205" uid="2622158" user="Victor 2015">
     <tag k="addr:city" v="Curitiba"/>
     <tag k="addr:housenumber" v="375"/>
@@ -40032,6 +40049,20 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="smoking" v="dedicated"/>
   </node>
+  <node id="10734936913" lat="45.8467872" lon="10.1600240" version="3" timestamp="2023-03-23T11:23:38Z" changeset="134018040" uid="17001488" user="Villaggio Bitcoin">
+    <tag k="addr:city" v="Artogne"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="25040"/>
+    <tag k="addr:street" v="Via Maserade"/>
+    <tag k="agrarian" v="oil;cannabis;cbd_oil;honey;hemp;canapa"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="shop@camunacannabis.it"/>
+    <tag k="name" v="Camuna Cannabis"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 347 758 1642"/>
+    <tag k="shop" v="agrarian"/>
+    <tag k="website" v="https://camunacannabis.it"/>
+  </node>
   <node id="10736694654" lat="54.1456582" lon="10.9538810" version="5" timestamp="2023-03-16T11:47:41Z" changeset="133745741" uid="18724700" user="athletics25">
     <tag k="addr:city" v="Grömitz"/>
     <tag k="addr:housenumber" v="25"/>
@@ -40051,6 +40082,20 @@
     <tag k="tourism" v="apartment"/>
     <tag k="view" v="yes"/>
     <tag k="website" v="https://www.ostseehaus-petersen.de"/>
+  </node>
+  <node id="10755605136" lat="45.0570930" lon="7.6678842" version="1" timestamp="2023-03-23T09:40:16Z" changeset="134014168" uid="2201521" user="quibitcoin">
+    <tag k="addr:city" v="Torino"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:postcode" v="10128"/>
+    <tag k="addr:street" v="Corso Re Umberto"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Avvocato specializzato in diritto penale: possibilità di consulenza anche in altre branche del diritto."/>
+    <tag k="email" v="avv.federicorosso@gmail.com"/>
+    <tag k="name" v="Avvocato Federico Rosso"/>
+    <tag k="office" v="lawyer"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 3336204640"/>
+    <tag k="website" v="https://avvocato-federico-rosso.business.site"/>
   </node>
 
 </osm>
