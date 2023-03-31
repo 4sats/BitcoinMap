@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-30T05:23:53Z"/>
+<meta osm_base="2023-03-31T05:23:00Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -13951,18 +13951,6 @@
     <tag k="website" v="https://auroramassages.nl/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2852155568" lat="39.1079671" lon="-94.5841891" version="9" timestamp="2021-07-13T19:37:28Z" changeset="107931371" uid="175702" user="AxelBoldt">
-    <tag k="addr:city" v="Kansas City"/>
-    <tag k="addr:housenumber" v="500"/>
-    <tag k="addr:postcode" v="64105"/>
-    <tag k="addr:state" v="MO"/>
-    <tag k="addr:street" v="Delaware Street"/>
-    <tag k="name" v="SetCell"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="816.979.1784"/>
-    <tag k="shop" v="mobile_phone"/>
-    <tag k="website" v="https://www.setcell.com/"/>
-  </node>
   <node id="2852216853" lat="-37.8118116" lon="144.8657155" version="5" timestamp="2019-12-31T05:57:23Z" changeset="79042503" uid="461130" user="Fizzie41">
     <tag k="addr:city" v="West footscray"/>
     <tag k="addr:housenumber" v="444-448"/>
@@ -18175,16 +18163,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="6503644200"/>
   </node>
-  <node id="3094565361" lat="40.4238748" lon="-3.6835752" version="3" timestamp="2019-03-06T08:31:49Z" changeset="67835140" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Madrid"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:postcode" v="28001"/>
-    <tag k="addr:street" v="Calle de Jorge Juan"/>
-    <tag k="name" v="Scotta1985"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="https://www.scotta1985.com/"/>
-  </node>
   <node id="3094898221" lat="40.4351631" lon="-3.6848307" version="5" timestamp="2021-01-19T21:00:26Z" changeset="97792465" uid="3392826" user="Hugoren Martinako">
     <tag k="addr:city" v="Madrid"/>
     <tag k="addr:housenumber" v="7"/>
@@ -21301,7 +21279,7 @@
     <tag k="phone" v="+55 11 3831-7308"/>
     <tag k="website" v="www.cots.adv.br"/>
   </node>
-  <node id="3290668771" lat="14.6751391" lon="-90.4857346" version="3" timestamp="2019-03-04T18:54:51Z" changeset="67778550" uid="9451067" user="b-jazz-bot">
+  <node id="3290668771" lat="14.6751391" lon="-90.4857346" version="4" timestamp="2023-03-30T22:20:04Z" changeset="134321980" uid="668096" user="jmann6">
     <tag k="addr:city" v="Guatemala"/>
     <tag k="addr:housenumber" v="27-71"/>
     <tag k="addr:postcode" v="01006"/>
@@ -21310,6 +21288,7 @@
     <tag k="office" v="company"/>
     <tag k="opening_hours" v="8:00 - 4:00 pm -0600 UTC"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="survey:date" v="2023-03-30"/>
     <tag k="website" v="https://sistemajun.com/"/>
   </node>
   <node id="3291483361" lat="-34.6089168" lon="-58.3889318" version="9" timestamp="2020-03-01T21:36:16Z" changeset="81654828" uid="3837224" user="MatiasJ">
@@ -23459,13 +23438,14 @@
     <tag k="shop" v="department_store"/>
     <tag k="website" v="http://bit-card.com.co/"/>
   </node>
-  <node id="3608798006" lat="10.0853876" lon="-69.2968944" version="3" timestamp="2015-07-20T23:28:54Z" changeset="32766195" uid="1858078" user="Chuox">
+  <node id="3608798006" lat="10.0853876" lon="-69.2968944" version="4" timestamp="2023-03-30T06:25:43Z" changeset="134288840" uid="9104166" user="pantufla">
     <tag k="addr:city" v="Barquisimeto"/>
-    <tag k="addr:housenumber" v="Casa #8"/>
+    <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="3001"/>
     <tag k="addr:street" v="Calle 2"/>
     <tag k="description" v="Tirolinas, Muros de escalar, rampas BMX y demas deportes extremos"/>
-    <tag k="name" v="Desafio Extremo"/>
+    <tag k="name" v="Desafío Extremo"/>
+    <tag k="office" v="guide"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+582514356535"/>
     <tag k="website" v="http://deportesextremos.com.ve/"/>
@@ -24503,15 +24483,6 @@
     <tag k="opening_hours" v="09:00-19:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="electronics"/>
-  </node>
-  <node id="3873376940" lat="42.7929725" lon="-4.2611149" version="5" timestamp="2018-01-25T20:00:19Z" changeset="55752681" uid="7527200" user="melower">
-    <tag k="addr:city" v="Aguilar de Campoo"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:postcode" v="34800"/>
-    <tag k="addr:street" v="Plaza de España"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="name" v="Alm4 de Cantaro"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="3881012759" lat="50.7636697" lon="15.0613507" version="4" timestamp="2017-12-26T22:26:01Z" changeset="54941616" uid="665336" user="Minimalis">
     <tag k="addr:city" v="Liberec"/>
@@ -26271,11 +26242,13 @@
     <tag k="phone" v="0498757916"/>
     <tag k="shop" v="clothes"/>
   </node>
-  <node id="4732594081" lat="45.0911419" lon="7.6894599" version="4" timestamp="2022-01-28T05:00:47Z" changeset="116691156" uid="213831" user="Josef73">
+  <node id="4732594081" lat="45.0911419" lon="7.6894599" version="5" timestamp="2023-03-30T13:05:19Z" changeset="134304169" uid="18347620" user="gianlock">
     <tag k="addr:city" v="Torino"/>
     <tag k="addr:housenumber" v="76"/>
     <tag k="addr:postcode" v="10155"/>
     <tag k="addr:street" v="Corso Vercelli"/>
+    <tag k="check_date:currency:XBT" v="2023-03-30"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Calzature comfort, made in Italy. Si accettano pagamenti in Bitcoin SOLO via Lighting Network"/>
     <tag k="name" v="Elio Calzature"/>
     <tag k="opening_hours" v="Mo-Sa 08:00-12:30,15:00-19:30"/>
@@ -39669,7 +39642,7 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.portobellocafesi.com/"/>
   </node>
-  <node id="10770516395" lat="45.1225681" lon="7.0593844" version="2" timestamp="2023-03-29T13:41:42Z" changeset="134264046" uid="18347620" user="gianlock">
+  <node id="10770516395" lat="45.1225681" lon="7.0593844" version="3" timestamp="2023-03-30T07:56:35Z" changeset="134292165" uid="17001488" user="Villaggio Bitcoin">
     <tag k="addr:city" v="Meana di Susa"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="10050"/>
@@ -39681,6 +39654,7 @@
     <tag k="name" v="La Betola D'L'uva Frola"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+39 339 8130502"/>
     <tag k="website" v="https://www.betolameana.it/"/>
   </node>
