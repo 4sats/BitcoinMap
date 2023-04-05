@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.4 36d058c8">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-04T05:22:35Z"/>
+<meta osm_base="2023-04-05T05:22:54Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -700,7 +700,7 @@
     <tag k="shop" v="department_store"/>
     <tag k="source" v="http://newsbtc.com/2014/03/10/pounce-teams-coinbase-allow-shopping-target-major-retailers-using-bitcoin/"/>
   </node>
-  <node id="1097310478" lat="50.0864933" lon="14.4053164" version="6" timestamp="2017-04-09T17:54:45Z" changeset="47599794" uid="1558400" user="Kudej">
+  <node id="1097310478" lat="50.0864933" lon="14.4053164" version="7" timestamp="2023-04-04T11:07:02Z" changeset="134490482" uid="18405516" user="ペパ君">
     <tag k="addr:city" v="Praha"/>
     <tag k="addr:conscriptionnumber" v="291"/>
     <tag k="addr:country" v="CZ"/>
@@ -713,6 +713,7 @@
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="regional"/>
     <tag k="name" v="U Malířů"/>
+    <tag k="opening_hours" v="Mo-Fr 11:30-23:00; Sa,Su off"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+420 257 530 000"/>
     <tag k="ref:ruian:addr" v="21697302"/>
@@ -826,7 +827,7 @@
     <tag k="opening_hours" v="07:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="1413993833" lat="42.3641718" lon="-71.1020228" version="7" timestamp="2022-10-16T23:34:28Z" changeset="127641582" uid="17422908" user="Sophia McMonagle">
+  <node id="1413993833" lat="42.3641827" lon="-71.1020338" version="8" timestamp="2023-04-04T17:58:33Z" changeset="134507526" uid="1084189" user="lmum">
     <tag k="addr:housenumber" v="524"/>
     <tag k="addr:street" v="Massachusetts Avenue"/>
     <tag k="amenity" v="restaurant"/>
@@ -4802,15 +4803,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+3725053724"/>
     <tag k="website" v="https://kaguauto.ee/"/>
-  </node>
-  <node id="2601507096" lat="50.3644707" lon="30.4641117" version="7" timestamp="2023-04-02T12:18:10Z" changeset="134411574" uid="3023916" user="neviksasha">
-    <tag k="addr:housenumber" v="48-А"/>
-    <tag k="addr:street" v="вулиця Академіка Заболотного"/>
-    <tag k="name" v="12v.ua"/>
-    <tag k="name:uk" v="12v.ua"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+380 44 224 9279;+380 50 411 5353"/>
-    <tag k="website" v="http://12v.ua/"/>
   </node>
   <node id="2601816206" lat="21.2919390" lon="-157.8440780" version="11" timestamp="2022-06-28T02:53:55Z" changeset="122933792" uid="8466505" user="TheAdventurer64">
     <tag k="addr:city" v="Honolulu"/>
@@ -12596,16 +12588,6 @@
     <tag k="shop" v="yes"/>
     <tag k="website" v="http://www.unepxmildf.com.br/"/>
   </node>
-  <node id="2784958438" lat="30.2306336" lon="-97.8172074" version="3" timestamp="2021-07-24T15:54:15Z" changeset="108537738" uid="4744872" user="Itserpol">
-    <tag k="addr:housenumber" v="5207"/>
-    <tag k="addr:street" v="Brodie Lane"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="+1-512-892-2744"/>
-    <tag k="cuisine" v="thai"/>
-    <tag k="name" v="IM Thai Cuisine"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://austin.imthaicuisine.com/"/>
-  </node>
   <node id="2784984034" lat="30.3549924" lon="-97.7556362" version="4" timestamp="2021-07-24T19:08:17Z" changeset="108543271" uid="4744872" user="Itserpol">
     <tag k="addr:housenumber" v="3616"/>
     <tag k="addr:street" v="Far West Boulevard"/>
@@ -15167,18 +15149,6 @@
     <tag k="cuisine" v="coffee_shop"/>
     <tag k="name" v="Peak Coffee"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="2929389552" lat="37.5704914" lon="126.9891034" version="8" timestamp="2019-07-30T02:39:06Z" changeset="72791877" uid="7245212" user="LuxuryCoop">
-    <tag k="addr:street" v="종로"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="cuisine" v="coffee_shop"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="name" v="Culcom Cafe 24 Hour Coffee Shop"/>
-    <tag k="note" v="Bitpay POS"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+82 2 1577 0553"/>
-    <tag k="website" v="http://www.culcom.co.kr/"/>
   </node>
   <node id="2929624474" lat="36.7881011" lon="-76.0604303" version="3" timestamp="2023-03-25T22:26:32Z" changeset="134120152" uid="3018140" user="robliebhart">
     <tag k="addr:city" v="Virginia Beach"/>
@@ -23220,23 +23190,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+582514356535"/>
     <tag k="website" v="http://deportesextremos.com.ve/"/>
-  </node>
-  <node id="3609672301" lat="44.0544432" lon="-123.0889714" version="8" timestamp="2020-09-13T11:55:42Z" changeset="90817624" uid="35814" user="bingo">
-    <tag k="addr:city" v="Eugene"/>
-    <tag k="addr:housenumber" v="259"/>
-    <tag k="addr:postcode" v="97401"/>
-    <tag k="addr:state" v="OR"/>
-    <tag k="addr:street" v="East 5th Avenue"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="Granary Pizza Co."/>
-    <tag k="note" v="Bitcoin Accepted Here Get 50% off one pizza when you pay with Bitcoin"/>
-    <tag k="opening_hours" v="17:00+, Mo off"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="takeaway" v="yes"/>
   </node>
   <node id="3610660165" lat="-36.8659995" lon="174.7552761" version="2" timestamp="2019-03-23T13:07:58Z" changeset="68443867" uid="9451067" user="b-jazz-bot">
     <tag k="name" v="3D Hub Limited"/>
@@ -39389,6 +39342,45 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+39 339 8130502"/>
     <tag k="website" v="https://www.betolameana.it/"/>
+  </node>
+  <node id="10784217883" lat="41.1196143" lon="16.8648773" version="1" timestamp="2023-04-04T12:35:02Z" changeset="134494304" uid="2201521" user="quibitcoin">
+    <tag k="addr:city" v="Bari"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:postcode" v="70122"/>
+    <tag k="addr:street" v="Via Scipione Crisanzio"/>
+    <tag k="amenity" v="atm"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Exchange cambio di criptovalute in sede."/>
+    <tag k="email" v="secuprysrl@gmail.com"/>
+    <tag k="name" v="Criptova"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 3420522843"/>
+  </node>
+  <node id="10784287024" lat="45.0536968" lon="7.6925282" version="1" timestamp="2023-04-04T12:29:10Z" changeset="134494017" uid="2201521" user="quibitcoin">
+    <tag k="addr:city" v="Torino"/>
+    <tag k="addr:housenumber" v="105"/>
+    <tag k="addr:postcode" v="10133"/>
+    <tag k="addr:street" v="Corso Giovanni Lanza"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Gestione interiore attraverso tecniche di respirazione e meditazione. Lezioni personalizzate."/>
+    <tag k="email" v="danielemonterosso@gmail.com"/>
+    <tag k="name" v="Art of Living"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 3347171147"/>
+    <tag k="sport" v="yoga"/>
+  </node>
+  <node id="10784291696" lat="44.8876553" lon="7.3151591" version="1" timestamp="2023-04-04T12:43:28Z" changeset="134494722" uid="2201521" user="quibitcoin">
+    <tag k="addr:city" v="Pinerolo"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="10064"/>
+    <tag k="addr:street" v="Via del Tiro a Segno"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Vendita dettaglio di erbe alpine essiccate per liquori o tisane (Genepì, Arquebuse, Timo Serpillo)."/>
+    <tag k="email" v="info@meizoun.it"/>
+    <tag k="name" v="La Meizoun"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="https://www.meizoun.it"/>
   </node>
 
 </osm>
