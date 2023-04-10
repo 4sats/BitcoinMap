@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-09T05:21:15Z"/>
+<meta osm_base="2023-04-10T05:23:09Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -2617,19 +2617,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.allegria.si/"/>
     <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="2553903360" lat="46.0526711" lon="14.5047330" version="4" timestamp="2021-10-24T15:05:48Z" changeset="112909745" uid="11645399" user="davidoskky">
-    <tag k="addr:city" v="Ljubljana"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="1000"/>
-    <tag k="addr:street" v="Nazorjeva ulica"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="name" v="Pizzeria Osmica"/>
-    <tag k="opening_hours" v="Mo-Fr 10:00-22:00; Sa 12:00-22:00; Su 12:00-17:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.osmica.si/"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="2554401955" lat="34.2772548" lon="-119.2850983" version="2" timestamp="2015-11-28T05:49:18Z" changeset="35622971" uid="2601744" user="sctrojan79">
     <tag k="addr:city" v="Ventura"/>
@@ -25783,22 +25770,6 @@
     <tag k="phone" v="+41 44 440 29 94"/>
     <tag k="website" v="http://www.bhend.klammer.ch"/>
   </node>
-  <node id="4690626056" lat="44.8065122" lon="10.3320959" version="4" timestamp="2020-06-01T08:44:41Z" changeset="86036765" uid="1476146" user="Alecs01">
-    <tag k="addr:city" v="Parma"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="32/c"/>
-    <tag k="addr:postcode" v="43121"/>
-    <tag k="addr:street" v="Strada Venti Settembre"/>
-    <tag k="entrance" v="main"/>
-    <tag k="level" v="0"/>
-    <tag k="loc_ref" v="1072"/>
-    <tag k="name" v="Blue Screen Studio"/>
-    <tag k="office" v="it"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 327 2262120"/>
-    <tag k="source" v="survey"/>
-    <tag k="website" v="http://www.bluescreenlab.com"/>
-  </node>
   <node id="4692533608" lat="52.0962319" lon="5.1170875" version="8" timestamp="2022-06-06T16:02:16Z" changeset="122032188" uid="5432507" user="cEvLGWiQ">
     <tag k="addr:city" v="Utrecht"/>
     <tag k="addr:housenumber" v="6"/>
@@ -31683,11 +31654,13 @@
     <tag k="name" v="Velum Dentistry"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="5863672777" lat="40.6974850" lon="14.4824560" version="1" timestamp="2018-08-28T15:32:12Z" changeset="62075505" uid="2201521" user="quibitcoin">
+  <node id="5863672777" lat="40.6974850" lon="14.4824560" version="2" timestamp="2023-04-09T20:50:18Z" changeset="134703605" uid="18347620" user="gianlock">
     <tag k="addr:city" v="Castellammare di Stabia"/>
     <tag k="addr:housenumber" v="50"/>
     <tag k="addr:postcode" v="80053"/>
     <tag k="addr:street" v="Corso Vittorio Emanuele"/>
+    <tag k="check_date:currency:XBT" v="2023-04-09"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="coinfinanziaria@gmail.com"/>
     <tag k="name" v="COIN"/>
     <tag k="office" v="financial"/>
@@ -33818,15 +33791,6 @@
     <tag k="addr:street" v="SS207 Nettunense"/>
     <tag k="amenity" v="fuel"/>
     <tag k="name" v="Stazione di servizio Q8"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="6816996222" lat="44.7851230" lon="10.3231890" version="1" timestamp="2019-09-23T09:32:34Z" changeset="74796812" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Parma"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:postcode" v="43125"/>
-    <tag k="addr:street" v="Via Inigo Campioni"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="name" v="Bar Campioni"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="6817001859" lat="39.3661270" lon="17.1311370" version="1" timestamp="2019-09-23T09:05:31Z" changeset="74795812" uid="2201521" user="quibitcoin">
@@ -37267,6 +37231,34 @@
   <node id="8872594384" lat="45.0262196" lon="11.5337756" version="1" timestamp="2021-06-28T14:46:16Z" changeset="107094615" uid="13659384" user="NathanBca">
     <tag k="name" v="Prova sr"/>
     <tag k="payment:bitcoin" v="yes"/>
+  </node>
+  <node id="8897481975" lat="49.9348817" lon="10.9580510" version="9" timestamp="2023-04-09T18:32:18Z" changeset="134699778" uid="13708383" user="arminfischer_de">
+    <tag k="addr:city" v="Memmelsdorf"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:postcode" v="96117"/>
+    <tag k="addr:street" v="Hauptstraße"/>
+    <tag k="contact:email" v="office@arminfischer.de"/>
+    <tag k="contact:phone" v="+4917621008967"/>
+    <tag k="contact:website" v="http://computerservice.arminfischer.de/"/>
+    <tag k="email" v="office@arminfischer.com"/>
+    <tag k="image" v="http://computerservice.arminfischer.com/wp-content/uploads/2022/06/computerservicearminfischercom-302-e1654684728703.jpg"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Computerservice.arminfischer.com"/>
+    <tag k="news" v="http://news.computerservice.arminfischer.com"/>
+    <tag k="operator" v="Armin Fischer"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:invoice" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:tether_usdt_erc20" v="yes"/>
+    <tag k="phone" v="+4917621008967"/>
+    <tag k="ref:vatin" v="DE232723558"/>
+    <tag k="shop" v="computer"/>
+    <tag k="start_date" v="2021-07-01"/>
+    <tag k="website" v="http://computerservice.arminfischer.com/"/>
   </node>
   <node id="8915713782" lat="40.4864865" lon="17.6494148" version="1" timestamp="2021-07-13T07:18:17Z" changeset="107885271" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Oria"/>
