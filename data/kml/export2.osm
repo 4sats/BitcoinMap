@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-15T05:22:09Z"/>
+<meta osm_base="2023-04-16T05:22:09Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -15987,11 +15987,12 @@
     <tag k="shop" v="art"/>
     <tag k="website" v="http://www.artkemi.com/"/>
   </node>
-  <node id="2991405599" lat="45.4643444" lon="9.1871859" version="4" timestamp="2023-03-27T12:37:16Z" changeset="134175877" uid="18452174" user="Chiarant">
+  <node id="2991405599" lat="45.4643444" lon="9.1871859" version="5" timestamp="2023-04-15T22:22:34Z" changeset="134957502" uid="15541433" user="paulbrunner">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="20123"/>
     <tag k="addr:street" v="Via Orefici"/>
+    <tag k="check_date" v="2023-04-16"/>
     <tag k="clothes" v="men"/>
     <tag k="name" v="Doppelgänger"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -32600,15 +32601,17 @@
     <tag k="shop" v="wine"/>
     <tag k="website" v="https://www.rossoconero.it/"/>
   </node>
-  <node id="6310865961" lat="45.1707919" lon="10.1931694" version="3" timestamp="2022-01-15T16:56:15Z" changeset="116189196" uid="9622178" user="GiovanniC83">
+  <node id="6310865961" lat="45.1707919" lon="10.1931694" version="4" timestamp="2023-04-15T14:27:43Z" changeset="134942723" uid="18923047" user="DiegoBrutto">
     <tag k="addr:city" v="Cicognolo"/>
     <tag k="addr:housenumber" v="4"/>
     <tag k="addr:postcode" v="26030"/>
     <tag k="addr:street" v="Via Oglio"/>
+    <tag k="check_date:opening_hours" v="2023-04-15"/>
     <tag k="craft" v="carpenter"/>
     <tag k="description" v="Progettazione e realizzazione di infissi in legno con alta diversificazione di tipologie in rapporto ai costi e alla caratterizzazione formale ed estetica."/>
     <tag k="email" v="info@oribonetti.it"/>
     <tag k="name" v="Ori Bonetti s.r.l."/>
+    <tag k="opening_hours:signed" v="no"/>
     <tag k="operator" v="Riccardo"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 0372835034"/>
