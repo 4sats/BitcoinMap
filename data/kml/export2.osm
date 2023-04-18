@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-17T05:23:39Z"/>
+<meta osm_base="2023-04-18T05:23:09Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -167,20 +167,6 @@
     <tag k="source:addr" v="uir_adr"/>
     <tag k="uir_adr:ADRESA_KOD" v="21904774"/>
     <tag k="website" v="www.SPYobchod.cz"/>
-  </node>
-  <node id="408783078" lat="45.4564731" lon="9.1746390" version="5" timestamp="2023-04-16T17:51:08Z" changeset="134985812" uid="15541433" user="paulbrunner">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:postcode" v="20123"/>
-    <tag k="addr:street" v="Corso Genova"/>
-    <tag k="check_date" v="2023-04-16"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Doppelgänger"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="569950096" lat="25.0181253" lon="121.5745838" version="12" timestamp="2019-10-25T14:25:43Z" changeset="76213490" uid="274857" user="Supaplex">
     <tag k="addr:city" v="台北市"/>
@@ -15877,19 +15863,6 @@
     <tag k="shop" v="art"/>
     <tag k="website" v="http://www.artkemi.com/"/>
   </node>
-  <node id="2991405599" lat="45.4643444" lon="9.1871859" version="6" timestamp="2023-04-16T13:40:31Z" changeset="134975766" uid="15541433" user="paulbrunner">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:postcode" v="20123"/>
-    <tag k="addr:street" v="Via Orefici"/>
-    <tag k="check_date" v="2023-04-16"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Doppelgänger"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0243413725"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
   <node id="2991837778" lat="-34.4884114" lon="-58.4985773" version="5" timestamp="2022-06-25T22:49:05Z" changeset="122852004" uid="11572928" user="EsLoQueHay">
     <tag k="addr:city" v="Martínez"/>
     <tag k="addr:housenumber" v="1983"/>
@@ -24467,18 +24440,6 @@
     <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4234614970" lat="45.4362405" lon="12.3357088" version="5" timestamp="2023-04-05T15:18:35Z" changeset="134543337" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Venezia"/>
-    <tag k="addr:housenumber" v="4558"/>
-    <tag k="addr:postcode" v="30124"/>
-    <tag k="addr:street" v="Campo San Luca"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Doppelganger"/>
-    <tag k="opening_hours" v="Mo-Sa 09:30-19:30; Su 11:00-19:30"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0415209251"/>
-    <tag k="shop" v="clothes"/>
-  </node>
   <node id="4239917207" lat="46.1726558" lon="9.8738101" version="5" timestamp="2021-10-03T12:32:23Z" changeset="112031949" uid="11839324" user="gmar5">
     <tag k="addr:city" v="Sondrio"/>
     <tag k="addr:housenumber" v="21"/>
@@ -25488,16 +25449,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.liberstad.com/"/>
   </node>
-  <node id="4727745918" lat="45.4090126" lon="11.8788211" version="3" timestamp="2023-03-27T13:29:41Z" changeset="134178153" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Padova"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:postcode" v="35121"/>
-    <tag k="addr:street" v="Via Altinate"/>
-    <tag k="name" v="Doppelgänger"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0498757916"/>
-    <tag k="shop" v="clothes"/>
-  </node>
   <node id="4747710522" lat="40.6976870" lon="14.4866980" version="3" timestamp="2018-08-09T14:30:33Z" changeset="61503299" uid="1462614" user="_Andrea_">
     <tag k="addr:city" v="Castellammare di Stabia"/>
     <tag k="addr:housenumber" v="81"/>
@@ -25547,17 +25498,6 @@
     <tag k="phone" v="+34 983 29 03 00"/>
     <tag k="shop" v="hairdresser"/>
     <tag k="website" v="http://www.olepeluqueros.es/"/>
-  </node>
-  <node id="4762538120" lat="44.4883207" lon="11.2490912" version="2" timestamp="2023-04-05T16:45:42Z" changeset="134546396" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Casalecchio di Reno"/>
-    <tag k="addr:housenumber" v="2/30"/>
-    <tag k="addr:postcode" v="40033"/>
-    <tag k="addr:street" v="Via Marilyn Monroe"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Nuvolari c.c. Gran Reno"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0514985032"/>
-    <tag k="shop" v="clothes"/>
   </node>
   <node id="4769194621" lat="37.4641646" lon="13.2765538" version="3" timestamp="2020-04-04T18:47:55Z" changeset="83080345" uid="923271" user="aldoct">
     <tag k="addr:city" v="Ribera"/>
@@ -33250,21 +33190,6 @@
     <tag k="phone" v="+39 05831900251"/>
     <tag k="shop" v="car_repair"/>
   </node>
-  <node id="6804656410" lat="45.0700072" lon="7.6836035" version="3" timestamp="2023-04-05T14:22:05Z" changeset="134541383" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Torino"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:postcode" v="10121"/>
-    <tag k="addr:street" v="Via Giambattista Viotti"/>
-    <tag k="clothes" v="men"/>
-    <tag k="email" v="torino.viotti@doppelganger.it"/>
-    <tag k="name" v="Doppelgänger"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="011535799"/>
-    <tag k="ref:vatin" v="IT10471441005"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="https://www.doppelganger.it"/>
-  </node>
   <node id="6815068615" lat="37.7699682" lon="-122.4465752" version="2" timestamp="2019-09-22T08:34:43Z" changeset="74766464" uid="371121" user="AndrewSnow">
     <tag k="addr:city" v="San Francisco"/>
     <tag k="addr:housenumber" v="1475"/>
@@ -33486,17 +33411,6 @@
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="6832770546" lat="44.4097027" lon="8.9375801" version="2" timestamp="2023-03-27T12:52:18Z" changeset="134176494" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Genova"/>
-    <tag k="addr:housenumber" v="87 rosso"/>
-    <tag k="addr:postcode" v="16121"/>
-    <tag k="addr:street" v="Via Roma"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0102925215"/>
-    <tag k="shop" v="clothes"/>
   </node>
   <node id="6835335762" lat="45.1466700" lon="10.7986550" version="1" timestamp="2019-09-29T16:28:44Z" changeset="75066664" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Mantova"/>
@@ -34179,17 +34093,6 @@
     <tag k="currency:USD" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="vending" v="condoms"/>
-  </node>
-  <node id="7191719704" lat="43.8149584" lon="7.7730069" version="2" timestamp="2023-04-05T14:17:56Z" changeset="134541243" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Sanremo"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:postcode" v="18038"/>
-    <tag k="addr:street" v="Via Giacomo Matteotti"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Doppelgänger"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0184637744"/>
-    <tag k="shop" v="clothes"/>
   </node>
   <node id="7227157085" lat="50.4123826" lon="30.4424812" version="5" timestamp="2023-03-03T20:30:24Z" changeset="133269345" uid="1538111" user="avinet_ua">
     <tag k="amenity" v="cafe"/>
@@ -36576,8 +36479,7 @@
     <tag k="tourism" v="hotel"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8821351069" lat="50.4123051" lon="30.4420371" version="4" timestamp="2023-03-03T20:30:24Z" changeset="133269345" uid="1538111" user="avinet_ua">
-    <tag k="addr:street" v="Sikorsky International Airport Kyiv"/>
+  <node id="8821351069" lat="50.4123051" lon="30.4420371" version="5" timestamp="2023-04-17T08:18:37Z" changeset="135004299" uid="3023916" user="neviksasha">
     <tag k="amenity" v="cafe"/>
     <tag k="name" v="La bellota"/>
     <tag k="name:uk" v="La bellota"/>
@@ -37472,9 +37374,10 @@
     <tag k="website" v="http://www.teapraia.it"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9414649033" lat="50.4124090" lon="30.4422070" version="3" timestamp="2022-10-05T10:34:54Z" changeset="127040459" uid="2136761" user="flix1">
+  <node id="9414649033" lat="50.4124090" lon="30.4422070" version="4" timestamp="2023-04-17T08:18:37Z" changeset="135004299" uid="3023916" user="neviksasha">
     <tag k="amenity" v="cafe"/>
     <tag k="brand" v="Aroma Kava"/>
+    <tag k="brand:wikidata" v="Q102175745"/>
     <tag k="cuisine" v="coffee_shop"/>
     <tag k="level" v="1"/>
     <tag k="name" v="Арома Кава"/>
@@ -38759,28 +38662,6 @@
     <tag k="view" v="yes"/>
     <tag k="website" v="https://www.ostseehaus-petersen.de"/>
   </node>
-  <node id="10766224644" lat="44.4125762" lon="8.8831936" version="1" timestamp="2023-03-27T12:57:39Z" changeset="134176698" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Genova"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:postcode" v="16149"/>
-    <tag k="addr:street" v="Via Fiumara"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0106454980"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="http://www.doppelganger.it/"/>
-  </node>
-  <node id="10766227160" lat="45.1577683" lon="10.7918184" version="1" timestamp="2023-03-27T13:14:51Z" changeset="134177482" uid="18452174" user="Chiarant">
-    <tag k="addr:housenumber" v="45"/>
-    <tag k="addr:postcode" v="46100"/>
-    <tag k="addr:street" v="Corso Umberto I°"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0376360615"/>
-    <tag k="shop" v="clothes"/>
-  </node>
   <node id="10769247450" lat="40.5373021" lon="-74.1507686" version="1" timestamp="2023-03-28T18:15:52Z" changeset="134231597" uid="10183030" user="MapSpot">
     <tag k="addr:city" v="Staten Island"/>
     <tag k="addr:housenumber" v="4221"/>
@@ -38818,17 +38699,6 @@
     <tag k="name" v="DOPPELGÄNGER"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="0332483636"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788160129" lat="45.4586063" lon="12.2134184" version="1" timestamp="2023-04-05T15:10:17Z" changeset="134543069" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Venezia"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="30175"/>
-    <tag k="addr:street" v="Via Pietro Arduino"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="041924659"/>
     <tag k="shop" v="clothes"/>
   </node>
   <node id="10788250052" lat="44.1581639" lon="12.4294307" version="1" timestamp="2023-04-05T15:26:25Z" changeset="134543616" uid="18452174" user="Chiarant">
@@ -38904,28 +38774,6 @@
     <tag k="phone" v="065583975"/>
     <tag k="shop" v="clothes"/>
   </node>
-  <node id="10788363560" lat="44.4125457" lon="8.8822408" version="1" timestamp="2023-04-05T16:38:30Z" changeset="134546133" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Genova"/>
-    <tag k="addr:housenumber" v="15/16"/>
-    <tag k="addr:postcode" v="16149"/>
-    <tag k="addr:street" v="Via Fiumara"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Nuvolari c.c. Fiumara"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0107980042"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788363595" lat="44.1188813" lon="9.8326584" version="1" timestamp="2023-04-05T16:41:19Z" changeset="134546237" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="La Spezia"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:postcode" v="19125"/>
-    <tag k="addr:street" v="Via Fontevivo"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Nuvolari c.c. Le Terrazze"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0187562868"/>
-    <tag k="shop" v="clothes"/>
-  </node>
   <node id="10788389507" lat="45.0554165" lon="7.6122450" version="1" timestamp="2023-04-05T16:52:21Z" changeset="134546659" uid="18452174" user="Chiarant">
     <tag k="addr:city" v="Grugliasco"/>
     <tag k="addr:housenumber" v="10"/>
@@ -38935,16 +38783,6 @@
     <tag k="name" v="Nuvolari c.c. Le Gru"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="0117079134"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788402216" lat="44.9822147" lon="7.6208616" version="1" timestamp="2023-04-05T16:56:23Z" changeset="134546818" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Nichelino"/>
-    <tag k="addr:postcode" v="10042"/>
-    <tag k="addr:street" v="Strada Debouchè"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Nuvolari c.c. Mondojuve"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="01118930118"/>
     <tag k="shop" v="clothes"/>
   </node>
   <node id="10788404140" lat="45.5191876" lon="9.1489041" version="1" timestamp="2023-04-05T17:01:55Z" changeset="134547005" uid="18452174" user="Chiarant">
