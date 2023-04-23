@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-22T05:23:05Z"/>
+<meta osm_base="2023-04-23T05:22:53Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -36327,18 +36327,20 @@
     <tag k="shop" v="mobile_phone"/>
     <tag k="website" v="www.charter6.ir"/>
   </node>
-  <node id="9551940924" lat="43.6057970" lon="13.4877366" version="2" timestamp="2022-03-03T13:39:20Z" changeset="118056647" uid="2201521" user="quibitcoin">
+  <node id="9551940924" lat="43.6057970" lon="13.4877366" version="3" timestamp="2023-04-22T23:00:53Z" changeset="135245702" uid="123412" user="totera">
     <tag k="addr:city" v="Ancona"/>
     <tag k="addr:housenumber" v="85"/>
     <tag k="addr:postcode" v="60126"/>
     <tag k="addr:street" v="Via Flaminia"/>
-    <tag k="amenity" v="events_venue"/>
     <tag k="description" v="Attività di servizi per organizzazione di eventi e feste. Disponibilità di un configuratore online utile per chi sta cercando location o profili quali deejay, fotografi, animazione e tutto ciò che comprende il mondo delle feste private."/>
     <tag k="email" v="info@mypartyevents.it"/>
-    <tag k="name" v="Party Events"/>
+    <tag k="name" v="My Party Events"/>
+    <tag k="office" v="event_planner"/>
+    <tag k="old_name" v="Prontomoda"/>
+    <tag k="old_shop" v="clothes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3755157921"/>
-    <tag k="website" v="https://mypartyevents.it"/>
+    <tag k="website" v="http://www.mypartyevents.it/"/>
   </node>
   <node id="9570456460" lat="35.7019649" lon="51.2555785" version="1" timestamp="2022-03-11T09:51:50Z" changeset="118355644" uid="15289921" user="R8 Mikaelson">
     <tag k="addr:city" v="شهر تهران"/>
