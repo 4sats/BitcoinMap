@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-25T05:23:39Z"/>
+<meta osm_base="2023-04-26T05:23:39Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -1756,7 +1756,7 @@
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="http://prodeohotel.com/"/>
   </node>
-  <node id="2491249492" lat="43.0764703" lon="11.6801400" version="5" timestamp="2022-12-30T08:31:55Z" changeset="130675834" uid="492756" user="Botaler">
+  <node id="2491249492" lat="43.0764986" lon="11.6801568" version="6" timestamp="2023-04-25T11:49:13Z" changeset="135339986" uid="3335899" user="GBAB">
     <tag k="addr:city" v="Pienza"/>
     <tag k="addr:housenumber" v="97"/>
     <tag k="addr:postcode" v="53026"/>
@@ -4616,12 +4616,12 @@
     <tag k="phone" v="+1 480 577 2098"/>
     <tag k="website" v="http://harperac.com/"/>
   </node>
-  <node id="2613500882" lat="47.3681465" lon="8.5453542" version="5" timestamp="2019-03-27T23:38:51Z" changeset="68607171" uid="9451067" user="b-jazz-bot">
+  <node id="2613500882" lat="47.3681465" lon="8.5453542" version="6" timestamp="2023-04-25T20:36:15Z" changeset="135359552" uid="15541433" user="paulbrunner">
     <tag k="artist_name" v="Mark Bern"/>
     <tag k="artwork_type" v="contemporary_art"/>
     <tag k="name" v="Mark Bern Art"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="url" v="www.markbernart.com"/>
+    <tag k="url" v="https://www.markbernart.com"/>
     <tag k="website" v="https://www.markbernart.com/"/>
   </node>
   <node id="2613682504" lat="45.4612743" lon="9.2001356" version="3" timestamp="2017-07-09T18:14:48Z" changeset="50158696" uid="1476146" user="Alecs01">
@@ -10916,17 +10916,6 @@
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-03-24"/>
   </node>
-  <node id="2774624016" lat="44.6138516" lon="10.6073374" version="4" timestamp="2019-04-15T21:21:40Z" changeset="69250077" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Albinea"/>
-    <tag k="addr:housenumber" v="11/1"/>
-    <tag k="addr:postcode" v="42020"/>
-    <tag k="addr:street" v="Via Castellana"/>
-    <tag k="name" v="Armonie Sonore"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0522 598264"/>
-    <tag k="shop" v="musical_instrument"/>
-    <tag k="website" v="https://www.armoniesonore.com/"/>
-  </node>
   <node id="2774629989" lat="35.4519306" lon="-97.3704908" version="1" timestamp="2014-04-07T07:30:37Z" changeset="21546474" uid="1651798" user="oldenburg69">
     <tag k="addr:city" v="Midwest City"/>
     <tag k="addr:housenumber" v="1342"/>
@@ -11445,12 +11434,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+19404979464"/>
     <tag k="website" v="https://corinth.wingtownandgrill.com/"/>
-  </node>
-  <node id="2785638538" lat="59.9240990" lon="10.7457620" version="7" timestamp="2022-07-14T04:22:37Z" changeset="123587929" uid="9224679" user="addr2osm">
-    <tag k="name" v="Spellbound"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.spellbound.no/"/>
   </node>
   <node id="2786879414" lat="25.6630669" lon="-100.3699746" version="6" timestamp="2020-05-01T16:57:25Z" changeset="84483608" uid="10304315" user="tomincolorado">
     <tag k="addr:city" v="San Pedro Garza García"/>
@@ -18584,17 +18567,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+38631867591"/>
     <tag k="website" v="http://www.lekt.si"/>
-  </node>
-  <node id="3248597329" lat="45.7252046" lon="9.2798892" version="3" timestamp="2016-04-03T17:23:12Z" changeset="38270530" uid="1476146" user="Alecs01">
-    <tag k="addr:city" v="Renate"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:street" v="Via Umberto I"/>
-    <tag k="amenity" v="music_school"/>
-    <tag k="name" v="Scuola di musica"/>
-    <tag k="operator" v="Associazione Ad libitum"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://associazioneadlibitum.it/"/>
   </node>
   <node id="3248663049" lat="-8.7013660" lon="115.1699577" version="2" timestamp="2014-12-23T01:18:51Z" changeset="27642405" uid="2402228" user="Bitislands">
     <tag k="addr:housenumber" v="458"/>
@@ -26032,25 +26004,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.matildemilano.it"/>
   </node>
-  <node id="5244175422" lat="44.7788940" lon="11.5426950" version="4" timestamp="2020-09-08T10:22:56Z" changeset="90579237" uid="11449631" user="SimoGine">
-    <tag k="addr:city" v="Poggio Renatico"/>
-    <tag k="addr:housenumber" v="27/B"/>
-    <tag k="addr:postcode" v="44028"/>
-    <tag k="addr:street" v="Via Ferrara"/>
-    <tag k="amenity" v="fuel"/>
-    <tag k="brand" v="Agip Eni"/>
-    <tag k="description" v="Carburanti e lubrificanti Eni."/>
-    <tag k="email" v="roberto.pizzolo@gmail.com"/>
-    <tag k="fuel:GTL_diesel" v="yes"/>
-    <tag k="fuel:diesel" v="yes"/>
-    <tag k="fuel:lpg" v="yes"/>
-    <tag k="fuel:octane_95" v="yes"/>
-    <tag k="name" v="ENI"/>
-    <tag k="operator" v="Pizzolo Roberto"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="ref:mise" v="34821"/>
-    <tag k="source" v="MISE - Ministero Sviluppo Economico"/>
-  </node>
   <node id="5244807396" lat="41.0102361" lon="28.9698893" version="3" timestamp="2022-09-12T10:00:53Z" changeset="126081772" uid="2136761" user="flix1">
     <tag k="addr:city" v="Istanbul"/>
     <tag k="addr:district" v="Fatih"/>
@@ -26280,19 +26233,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 01841955996"/>
     <tag k="website" v="https://www.cpesistemi.it"/>
-  </node>
-  <node id="5274101921" lat="45.6164370" lon="8.8364650" version="2" timestamp="2019-03-20T23:23:39Z" changeset="68356645" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Busto Arsizio"/>
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:postcode" v="21052"/>
-    <tag k="addr:street" v="Viale Trentino"/>
-    <tag k="description" v="Arredo bagno, vasche idromassaggio, cabine doccia, articoli sanitari."/>
-    <tag k="email" v="info@izardlinea.it"/>
-    <tag k="name" v="Izard Linea"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 03310323137"/>
-    <tag k="shop" v="bathroom_furnishing"/>
-    <tag k="website" v="https://www.izardlinea.it/"/>
   </node>
   <node id="5278630326" lat="30.4871637" lon="-86.4201018" version="5" timestamp="2019-02-22T03:20:04Z" changeset="67451023" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Niceville"/>
@@ -26953,19 +26893,6 @@
     <tag k="phone" v="+39 0932 643100"/>
     <tag k="website" v="https://www.studioguardiano.it"/>
   </node>
-  <node id="5320104524" lat="45.6086573" lon="9.2373644" version="2" timestamp="2018-01-05T10:16:42Z" changeset="55182399" uid="1476146" user="Alecs01">
-    <tag k="addr:city" v="Lissone"/>
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:postcode" v="20851"/>
-    <tag k="addr:street" v="Via Carlo Besozzi"/>
-    <tag k="description" v="Componenti informatici, cartucce e toner."/>
-    <tag k="email" v="filippo@xxmigliasnc.it"/>
-    <tag k="name" v="XXMIGLIA s.n.c."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0392450064"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="http://www.xxmigliasnc.it"/>
-  </node>
   <node id="5321719711" lat="43.0709153" lon="12.3469302" version="5" timestamp="2019-09-03T17:28:37Z" changeset="74052116" uid="8553447" user="jimmy_conway">
     <tag k="addr:city" v="Perugia"/>
     <tag k="addr:housenumber" v="43"/>
@@ -27337,21 +27264,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3406500033"/>
     <tag k="tourism" v="guest_house"/>
-  </node>
-  <node id="5347077322" lat="44.6759598" lon="8.4694221" version="3" timestamp="2022-11-14T18:06:26Z" changeset="128903811" uid="14617702" user="Đuro Jiří">
-    <tag k="addr:city" v="Acqui Terme"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:postcode" v="15011"/>
-    <tag k="addr:street" v="Via Giacomo Bove"/>
-    <tag k="contact:facebook" v="https://m.facebook.com/GastronomiaMiraggio/"/>
-    <tag k="description" v="Vasta selezione di piatti pronti d'asporto, specialità nazionali ed internazionali."/>
-    <tag k="email" v="info@gastronomiamiraggio.it"/>
-    <tag k="name" v="Gastronomia Miraggio"/>
-    <tag k="opening_hours" v="Mo,Tu,Th-Sa 09:00-13:00,16:30-19:30; Su 09:30-13:00; We off"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0144 470629"/>
-    <tag k="shop" v="deli"/>
-    <tag k="website" v="http://www.gastronomiamiraggio.it"/>
   </node>
   <node id="5347112395" lat="26.3414692" lon="-81.8090577" version="4" timestamp="2018-01-18T21:34:31Z" changeset="55562040" uid="5359" user="user_5359">
     <tag k="addr:city" v="Bonita Springs"/>
@@ -30015,19 +29927,6 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
   </node>
-  <node id="5998357865" lat="45.1702245" lon="10.1921954" version="3" timestamp="2018-11-01T17:47:28Z" changeset="64088155" uid="8960612" user="Com@Net">
-    <tag k="addr:city" v="Cicognolo"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="26030"/>
-    <tag k="addr:street" v="Via Oglio"/>
-    <tag k="description" v="Vendita e Assistenza Informatica - Nuovo e Usato di marca con Garanzia"/>
-    <tag k="email" v="info@cometnet.it"/>
-    <tag k="name" v="Com@Net di Segalini Riccardo"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="http://notebookusati.it"/>
-  </node>
   <node id="6006393428" lat="42.3304586" lon="23.5446168" version="3" timestamp="2018-10-31T12:34:44Z" changeset="64044799" uid="150201" user="plamen">
     <tag k="description" v="Autocenter, Cafe"/>
     <tag k="name" v="Autocenter Ogi"/>
@@ -30143,19 +30042,6 @@
     <tag k="start_date" v="01.09.2018"/>
     <tag k="website" v="https://www.instagram.com/codologia_grozny/"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="6031477628" lat="45.1702560" lon="10.1922550" version="5" timestamp="2019-11-29T23:18:50Z" changeset="77745760" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Cicognolo"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="26030"/>
-    <tag k="addr:street" v="Via Oglio"/>
-    <tag k="description" v="Vendita Ionizzatori Alcalinizzatori -Depura l'acqua potabile da evenruali sostanze . Certficato HACCP&#x0a;"/>
-    <tag k="email" v="info@berealcalino.it"/>
-    <tag k="name" v="SanuStore Berealcalino"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="water"/>
-    <tag k="website" v="http://berealcalino.it"/>
   </node>
   <node id="6037134049" lat="41.9695231" lon="12.7613559" version="3" timestamp="2019-11-21T21:30:25Z" changeset="77398341" uid="3860151" user="Michele Aquilani">
     <tag k="addr:city" v="Guidonia Montecelio"/>
@@ -34250,7 +34136,7 @@
     <tag k="toilets" v="no"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="8497622037" lat="30.3604988" lon="-97.9512776" version="3" timestamp="2023-03-24T09:33:48Z" changeset="134057493" uid="3199858" user="Mateusz Konieczny - bot account">
+  <node id="8497622037" lat="30.3604988" lon="-97.9512776" version="4" timestamp="2023-04-25T15:53:33Z" changeset="135350002" uid="16979815" user="citrula">
     <tag k="addr:city" v="Lakeway"/>
     <tag k="addr:housenumber" v="410"/>
     <tag k="addr:postcode" v="78734"/>
@@ -34258,7 +34144,6 @@
     <tag k="addr:street" v="Ranch Rd 620 S"/>
     <tag k="addr:unit" v="#300"/>
     <tag k="amenity" v="dentist"/>
-    <tag k="description" v="Lakeway Cosmetic Dentistry has provided effective dental treatments and procedures to the Lakeway area for over 20 years. We're dedicated to providing the best cosmetic and general dentistry for all of our patients."/>
     <tag k="healthcare" v="dentist"/>
     <tag k="healthcare:speciality" v="dentist;cosmetic"/>
     <tag k="name" v="Lakeway Cosmetic Dentistry"/>
@@ -37275,6 +37160,29 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="03211835619"/>
     <tag k="shop" v="clothes"/>
+  </node>
+  <node id="10840032354" lat="45.7261155" lon="9.2858882" version="1" timestamp="2023-04-25T16:17:03Z" changeset="135350936" uid="28559" user="Stemby">
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:street" v="Via Fratelli Bandiera"/>
+    <tag k="amenity" v="music_school"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Scuola di musica"/>
+    <tag k="operator" v="Associazione Ad libitum"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="website" v="http://associazioneadlibitum.it/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="10840502365" lat="44.8672378" lon="7.2981676" version="1" timestamp="2023-04-25T21:34:15Z" changeset="135361103" uid="2201521" user="quibitcoin">
+    <tag k="addr:city" v="San Secondo di Pinerolo"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="10060"/>
+    <tag k="addr:street" v="Piazza Europa"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Gelateria e caffetteria."/>
+    <tag k="email" v="sinoropi99@libero.it"/>
+    <tag k="name" v="Piazza Europa"/>
+    <tag k="payment:bitcoin" v="yes"/>
   </node>
 
 </osm>
