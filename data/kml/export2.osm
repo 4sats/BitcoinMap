@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-27T05:23:53Z"/>
+<meta osm_base="2023-04-28T05:23:09Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -3280,19 +3280,6 @@
     <tag k="phone" v="+41 71 244 16 63"/>
     <tag k="website" v="http://www.intarsia.ch"/>
   </node>
-  <node id="2584418818" lat="34.0204160" lon="-118.4926531" version="5" timestamp="2019-02-17T04:43:28Z" changeset="67269341" uid="5800005" user="b-jazz">
-    <tag k="addr:city" v="Santa Monica"/>
-    <tag k="addr:housenumber" v="1312"/>
-    <tag k="addr:postcode" v="90401"/>
-    <tag k="addr:street" v="Lincoln Boulevard"/>
-    <tag k="amenity" v="bank"/>
-    <tag k="atm" v="no"/>
-    <tag k="name" v="Wilshire Coin Exchange"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="1 310 393 0661"/>
-    <tag k="website" v="https://www.wilshirecoin.com/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="2584450066" lat="48.8610771" lon="2.3415164" version="5" timestamp="2022-11-05T10:52:58Z" changeset="128515593" uid="172867" user="AmiFritz">
     <tag k="contact:city" v="Paris"/>
     <tag k="contact:postcode" v="75001"/>
@@ -3538,19 +3525,6 @@
     <tag k="phone" v="+30 6977977578"/>
     <tag k="shop" v="boat"/>
     <tag k="website" v="http://www.bramayachts.com/"/>
-  </node>
-  <node id="2596975491" lat="36.1500629" lon="-86.7789727" version="2" timestamp="2019-05-30T14:14:58Z" changeset="70772704" uid="8339" user="mtmail">
-    <tag k="addr:city" v="Nashville"/>
-    <tag k="addr:housenumber" v="718"/>
-    <tag k="addr:postcode" v="37203"/>
-    <tag k="addr:state" v="TN"/>
-    <tag k="addr:street" v="Division Street"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="regional"/>
-    <tag k="name" v="Flyte World Dining &amp; Wine"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1 615 255 6200"/>
-    <tag k="website" v="http://www.flytenashville.com/"/>
   </node>
   <node id="2596982199" lat="30.3123454" lon="-81.5751011" version="1" timestamp="2013-12-27T15:12:38Z" changeset="19662681" uid="1651798" user="oldenburg69">
     <tag k="addr:city" v="Jacksonville"/>
@@ -12817,14 +12791,14 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="smoking" v="yes"/>
   </node>
-  <node id="2869699362" lat="41.8881455" lon="-87.6376997" version="5" timestamp="2022-05-11T18:23:10Z" changeset="120853079" uid="1237170" user="Zol87">
+  <node id="2869699362" lat="41.8881455" lon="-87.6376997" version="6" timestamp="2023-04-28T01:10:35Z" changeset="135447560" uid="36223" user="dalmond">
     <tag k="addr:city" v="Chicago"/>
     <tag k="addr:housenumber" v="350"/>
     <tag k="addr:postcode" v="60654"/>
     <tag k="addr:state" v="IL"/>
     <tag k="addr:street" v="North Orleans Street"/>
     <tag k="contact:email" v="customerservice@suntimes.com"/>
-    <tag k="contact:phone" v="(800) 680-2068"/>
+    <tag k="contact:phone" v="+1-800-680-2068"/>
     <tag k="level" v="9"/>
     <tag k="name" v="Chicago Sun-Times"/>
     <tag k="office" v="newspaper"/>
@@ -15264,7 +15238,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.facebook.com/rosandarioimbiancaturaetinteggiatura"/>
   </node>
-  <node id="3026278564" lat="41.8883259" lon="-87.6329543" version="5" timestamp="2020-03-29T06:39:56Z" changeset="82770090" uid="1237170" user="Zol87">
+  <node id="3026278564" lat="41.8883259" lon="-87.6329543" version="6" timestamp="2023-04-28T01:10:35Z" changeset="135447560" uid="36223" user="dalmond">
     <tag k="addr:city" v="Chicago"/>
     <tag k="addr:housenumber" v="300"/>
     <tag k="addr:postcode" v="60654"/>
@@ -15274,7 +15248,7 @@
     <tag k="opening_hours" v="08:30-17:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:coins" v="yes"/>
-    <tag k="phone" v="312-803-0388"/>
+    <tag k="phone" v="+1-312-803-0388"/>
     <tag k="website" v="https://www.hargerlawfirm.com/"/>
   </node>
   <node id="3026616277" lat="25.9319121" lon="-80.2061329" version="2" timestamp="2019-04-01T21:43:31Z" changeset="68771062" uid="9451067" user="b-jazz-bot">
@@ -32790,7 +32764,7 @@
     <tag k="sport" v="yoga"/>
     <tag k="website" v="https://www.mypersonalhealthtraining.com"/>
   </node>
-  <node id="7662839838" lat="41.8865753" lon="-87.6346264" version="1" timestamp="2020-06-29T03:48:10Z" changeset="87267438" uid="1237170" user="Zol87">
+  <node id="7662839838" lat="41.8865753" lon="-87.6346264" version="2" timestamp="2023-04-28T01:10:35Z" changeset="135447560" uid="36223" user="dalmond">
     <tag k="addr:city" v="Chicago"/>
     <tag k="addr:housenumber" v="211"/>
     <tag k="addr:postcode" v="60606"/>
@@ -32800,7 +32774,7 @@
     <tag k="name" v="Ansari &amp; Shapiro, LLC"/>
     <tag k="office" v="lawyer"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="312-391-7788"/>
+    <tag k="phone" v="+1-312-391-7788"/>
     <tag k="website" v="https://www.ansarishapiro.com"/>
   </node>
   <node id="7680437021" lat="43.5156718" lon="16.4682411" version="3" timestamp="2023-02-01T21:03:12Z" changeset="131978365" uid="18305684" user="Krako73">
