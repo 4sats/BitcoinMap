@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-29T05:22:52Z"/>
+<meta osm_base="2023-04-30T05:22:23Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -16647,26 +16647,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+54 11 4776-5949"/>
     <tag k="website" v="https://www.facebook.com/pages/Eyelit-Av-C%C3%B3rdoba-4931/214053168743421?fref=ts"/>
-  </node>
-  <node id="3135981528" lat="47.4331081" lon="9.4129272" version="3" timestamp="2023-04-12T17:01:00Z" changeset="134827537" uid="11713151" user="jce70">
-    <tag k="addr:city" v="St. Gallen"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="9016"/>
-    <tag k="addr:street" v="Achslenstrasse"/>
-    <tag k="description" v="Informatik und Support, PC Reparatur, online PC Hilfe, IT Consulting, Computerhilfe, PC Doktor, PC Support"/>
-    <tag k="email" v="support@fixthis.ch"/>
-    <tag k="it:type" v="consulting"/>
-    <tag k="name" v="FixThis.ch"/>
-    <tag k="office" v="it"/>
-    <tag k="opening_hours" v="Mo-Fr 08:00-18:00"/>
-    <tag k="opening_hours:covid19" v="same"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+41 71 755 70 52"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="https://fixthis.ch"/>
   </node>
   <node id="3136031898" lat="40.4257361" lon="-3.6890505" version="9" timestamp="2022-03-27T17:06:09Z" changeset="118989176" uid="1773299" user="Iván_">
     <tag k="addr:city" v="Madrid"/>
@@ -35098,7 +35078,7 @@
     <tag k="shop" v="yes"/>
     <tag k="website" v="https://www.minimotors.ph"/>
   </node>
-  <node id="9216304174" lat="22.4673960" lon="-79.7264354" version="1" timestamp="2021-11-01T13:58:21Z" changeset="113238058" uid="10577291" user="1OsvaldoM">
+  <node id="9216304174" lat="22.4673960" lon="-79.7264354" version="2" timestamp="2023-04-29T15:10:06Z" changeset="135507653" uid="17237320" user="Acimut">
     <tag k="addr:city" v="Camajuaní"/>
     <tag k="addr:housenumber" v="142"/>
     <tag k="addr:postcode" v="54200"/>
@@ -35112,7 +35092,7 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="phone" v="+5355535685"/>
-    <tag k="shop" v="supermarket"/>
+    <tag k="shop" v="mobile_phone"/>
     <tag k="start_date" v="2019-08-12"/>
   </node>
   <node id="9220095194" lat="36.7343596" lon="-119.7347728" version="1" timestamp="2021-11-03T01:17:24Z" changeset="113307533" uid="12493764" user="archpdx">
@@ -35701,7 +35681,7 @@
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://suslumarket.com/"/>
   </node>
-  <node id="9532018672" lat="40.5339529" lon="49.7838996" version="4" timestamp="2022-11-30T14:18:04Z" changeset="129563890" uid="15153847" user="MahirMammadli">
+  <node id="9532018672" lat="40.5339723" lon="49.7839975" version="5" timestamp="2023-04-29T19:20:39Z" changeset="135515585" uid="1643499" user="MenKauRa">
     <tag k="addr:city" v="Novxanı"/>
     <tag k="air_conditioning" v="yes"/>
     <tag k="currency:AZN" v="yes"/>
@@ -37045,6 +37025,26 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="telecom" v="data_center"/>
+  </node>
+  <node id="10855703280" lat="47.4164798" lon="9.2419083" version="1" timestamp="2023-04-29T10:05:47Z" changeset="135497893" uid="6764480" user="psywolf85">
+    <tag k="addr:city" v="Gossau SG"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="9200"/>
+    <tag k="addr:street" v="Wilerstrasse"/>
+    <tag k="description" v="Informatik und Support, PC Reparatur, online PC Hilfe, IT Consulting, Computerhilfe, PC Doktor, PC Support"/>
+    <tag k="email" v="support@fixthis.ch"/>
+    <tag k="it:type" v="consulting"/>
+    <tag k="name" v="FixThis.ch"/>
+    <tag k="office" v="it"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-20:00"/>
+    <tag k="opening_hours:covid19" v="same"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+41 71 755 70 52"/>
+    <tag k="shop" v="computer"/>
+    <tag k="website" v="https://fixthis.ch"/>
   </node>
 
 </osm>
