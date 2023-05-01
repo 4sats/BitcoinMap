@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-30T05:22:23Z"/>
+<meta osm_base="2023-05-01T05:24:02Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -28443,12 +28443,12 @@
     <tag k="wheelchair" v="yes"/>
     <tag k="wikipedia" v="pt:Santos Futebol Clube#Chácara Nicolau Moran"/>
   </node>
-  <node id="5534829796" lat="24.8141999" lon="67.0696203" version="1" timestamp="2018-04-06T23:30:26Z" changeset="57880551" uid="8076667" user="lakhanim">
+  <node id="5534829796" lat="24.8141999" lon="67.0696203" version="2" timestamp="2023-04-30T18:42:14Z" changeset="135549129" uid="209796" user="LudovicG">
     <tag k="addr:city" v="Karachi"/>
     <tag k="addr:housenumber" v="34D"/>
     <tag k="addr:street" v="Commercial Avenue, D.H.A. Phase 7"/>
     <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="burger;fast_food;fried_chicken;fries;american;sandwiches;steak;chicken"/>
+    <tag k="cuisine" v="burger;fried_chicken;fries;american;sandwich;steak;chicken"/>
     <tag k="delivery" v="yes"/>
     <tag k="drive_through" v="yes"/>
     <tag k="email" v="ktownburgerco@gmail.com"/>
@@ -36705,22 +36705,6 @@
     <tag k="phone" v="+39 348 6902866"/>
     <tag k="shop" v="yes"/>
   </node>
-  <node id="10576227636" lat="45.8245281" lon="10.0899162" version="2" timestamp="2023-04-28T12:15:04Z" changeset="135466885" uid="17001488" user="Villaggio Bitcoin">
-    <tag k="addr:city" v="Costa Volpino"/>
-    <tag k="addr:housenumber" v="42/E"/>
-    <tag k="addr:postcode" v="24062"/>
-    <tag k="addr:street" v="Via Nazionale"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="mascia.franzoni@libero.it"/>
-    <tag k="name" v="FAI FESTA Giò Concept"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+39 035 971639"/>
-    <tag k="shop" v="party"/>
-    <tag k="website" v="www.faifestagioconcept.it"/>
-  </node>
   <node id="10583560846" lat="-36.9458462" lon="174.7786567" version="1" timestamp="2023-01-26T07:16:47Z" changeset="131720718" uid="17584213" user="soso345">
     <tag k="craft" v="plumber"/>
     <tag k="name" v="Mr Pipes Plumbing and Gas"/>
@@ -37011,20 +36995,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://associazioneadlibitum.it/"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="10852549720" lat="43.1968639" lon="13.7879854" version="2" timestamp="2023-04-28T12:17:37Z" changeset="135466973" uid="17001488" user="Villaggio Bitcoin">
-    <tag k="addr:city" v="Porto San Giorgio"/>
-    <tag k="addr:housenumber" v="25"/>
-    <tag k="addr:postcode" v="63822"/>
-    <tag k="addr:street" v="via Abruzzo"/>
-    <tag k="check_date:currency:XBT" v="2023-04-01"/>
-    <tag k="email" v="betasrls01@gmail.com"/>
-    <tag k="name" v="Studio BETA SRLS"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
-    <tag k="payment:XBT" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="telecom" v="data_center"/>
   </node>
   <node id="10855703280" lat="47.4164798" lon="9.2419083" version="1" timestamp="2023-04-29T10:05:47Z" changeset="135497893" uid="6764480" user="psywolf85">
     <tag k="addr:city" v="Gossau SG"/>
