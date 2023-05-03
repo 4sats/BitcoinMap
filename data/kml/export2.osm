@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-02T05:23:08Z"/>
+<meta osm_base="2023-05-03T05:23:09Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -4282,7 +4282,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+91 93 96 511214"/>
   </node>
-  <node id="2609191586" lat="1.3006065" lon="103.8520905" version="5" timestamp="2021-01-31T12:26:51Z" changeset="98445905" uid="1468248" user="TheBlackMan">
+  <node id="2609191586" lat="1.3006065" lon="103.8520905" version="5" timestamp="2021-01-31T12:26:51Z" changeset="98445905" uid="1468248" user="PantherStrix">
     <tag k="addr:city" v="Singapore"/>
     <tag k="addr:housename" v="Fortune Centre"/>
     <tag k="addr:housenumber" v="190"/>
@@ -10375,19 +10375,6 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://mamamiapizza.us/"/>
   </node>
-  <node id="2751448829" lat="42.5938287" lon="-83.1299506" version="2" timestamp="2020-12-15T02:34:20Z" changeset="95840694" uid="307520" user="wolfgang8741">
-    <tag k="addr:housenumber" v="5114"/>
-    <tag k="addr:state" v="MI"/>
-    <tag k="addr:street" v="Rochester Road"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="sushi"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Tom Sushi"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-248-525-1306"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="http://tomsushibento.com/"/>
-  </node>
   <node id="2751477974" lat="46.6551766" lon="-95.8055553" version="2" timestamp="2021-09-06T21:05:01Z" changeset="110820917" uid="175702" user="AxelBoldt">
     <tag k="addr:housenumber" v="121"/>
     <tag k="addr:street" v="West Linden Street"/>
@@ -14421,19 +14408,6 @@
     <tag k="phone" v="+62 822 3781 9396"/>
     <tag k="shop" v="grocery"/>
     <tag k="website" v="http://www.mellasgrocery.com"/>
-  </node>
-  <node id="2979860874" lat="42.2332553" lon="-83.1809657" version="12" timestamp="2019-12-14T16:26:36Z" changeset="78411685" uid="207857" user="matteditmsts">
-    <tag k="addr:city" v="Lincoln Park"/>
-    <tag k="addr:housenumber" v="3574"/>
-    <tag k="addr:postcode" v="48146"/>
-    <tag k="addr:state" v="MI"/>
-    <tag k="addr:street" v="Fort Street"/>
-    <tag k="name" v="Salon Misina at Lincoln Park Plaza Beauty and Barber"/>
-    <tag k="opening_hours" v="Tu-Fr 11:00-20:00; Sa 10:00-17:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-313-465-3587"/>
-    <tag k="shop" v="beauty"/>
-    <tag k="website" v="https://www.styleseat.com/loririza"/>
   </node>
   <node id="2980769331" lat="25.6569239" lon="-80.4296580" version="2" timestamp="2019-03-10T19:08:46Z" changeset="67998538" uid="9513379" user="MappingItUp">
     <tag k="addr:city" v="Miami"/>
@@ -22715,7 +22689,7 @@
     <tag k="phone" v="+61433335841"/>
     <tag k="website" v="http://www.aboutinstallations.com.au"/>
   </node>
-  <node id="4128448919" lat="44.6367111" lon="33.5210253" version="3" timestamp="2022-08-21T12:33:30Z" changeset="125181653" uid="3837881" user="guesthouse Kaskad">
+  <node id="4128448919" lat="44.6367111" lon="33.5210253" version="4" timestamp="2023-05-02T22:54:32Z" changeset="135635608" uid="1538111" user="avinet_ua">
     <tag k="addr:city" v="Севастополь"/>
     <tag k="addr:housenumber" v="119"/>
     <tag k="addr:street" v="Симонок улица"/>
@@ -22724,6 +22698,7 @@
     <tag k="internet_access" v="wlan"/>
     <tag k="internet_access:fee" v="no"/>
     <tag k="name" v="Guesthouse Kaskad"/>
+    <tag k="name:uk" v="Guesthouse Kaskad"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
