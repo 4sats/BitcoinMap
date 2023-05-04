@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-03T05:23:09Z"/>
+<meta osm_base="2023-05-04T05:23:00Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -10362,19 +10362,6 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://graciespasta.com/"/>
   </node>
-  <node id="2751437046" lat="42.6380845" lon="-83.0881255" version="3" timestamp="2020-12-15T03:12:26Z" changeset="95841732" uid="307520" user="wolfgang8741">
-    <tag k="addr:housenumber" v="2274"/>
-    <tag k="addr:state" v="MI"/>
-    <tag k="addr:street" v="Auburn Road"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Mama Mia Pizza"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-586-254-0009"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="http://mamamiapizza.us/"/>
-  </node>
   <node id="2751477974" lat="46.6551766" lon="-95.8055553" version="2" timestamp="2021-09-06T21:05:01Z" changeset="110820917" uid="175702" user="AxelBoldt">
     <tag k="addr:housenumber" v="121"/>
     <tag k="addr:street" v="West Linden Street"/>
@@ -12367,17 +12354,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 0522 452409"/>
     <tag k="shop" v="jewelry"/>
-  </node>
-  <node id="2852448574" lat="44.6981549" lon="10.6309951" version="5" timestamp="2015-06-30T07:50:14Z" changeset="32301653" uid="2978037" user="mikexine">
-    <tag k="addr:city" v="Reggio nell'Emilia"/>
-    <tag k="addr:housenumber" v="5/E"/>
-    <tag k="addr:postcode" v="42121"/>
-    <tag k="addr:street" v="Via Vittorio Veneto"/>
-    <tag k="name" v="Stationery Store"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 338 6901663"/>
-    <tag k="shop" v="stationery"/>
-    <tag k="website" v="http://www.stationerystore.it/"/>
   </node>
   <node id="2852452815" lat="44.7117808" lon="10.6022855" version="6" timestamp="2017-12-05T16:31:19Z" changeset="54371335" uid="124550" user="bvivi">
     <tag k="addr:city" v="Reggio nell'Emilia"/>
@@ -17534,16 +17510,6 @@
     <tag k="website" v="http://www.cellphonesolutions.biz"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3191511767" lat="44.6983259" lon="10.6311106" version="2" timestamp="2015-10-14T18:03:27Z" changeset="34638482" uid="118021" user="maggot27">
-    <tag k="addr:city" v="Reggio nell'Emilia"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="42121"/>
-    <tag k="addr:street" v="Piazza del Monte"/>
-    <tag k="name" v="Hotel Posta"/>
-    <tag k="operator" v="I.Ter S.p.a. - Piazza del Monte, 2 - 42100, Reggio Emilia"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="tourism" v="hotel"/>
-  </node>
   <node id="3194210082" lat="38.9288482" lon="-94.7406720" version="4" timestamp="2019-05-18T14:38:40Z" changeset="70388899" uid="243003" user="skquinn">
     <tag k="addr:city" v="Lenexa"/>
     <tag k="addr:housename" v="Collector's Cache"/>
@@ -17708,13 +17674,6 @@
     <tag k="name" v="Rolling Rook Studio"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.rollingrookstudio.com/"/>
-  </node>
-  <node id="3204955151" lat="44.6950972" lon="10.6373260" version="2" timestamp="2016-12-27T17:55:13Z" changeset="44712096" uid="2201521" user="quibitcoin">
-    <tag k="name" v="Raffaello S.r.l.s."/>
-    <tag k="office" v="it"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="website" v="http://www.italiamining.com"/>
   </node>
   <node id="3205736499" lat="-34.6337393" lon="-58.4660522" version="5" timestamp="2022-01-24T09:57:53Z" changeset="116533331" uid="11423650" user="outer haven">
     <tag k="addr:floor" v="2 A"/>
@@ -19352,7 +19311,7 @@
     <tag k="shop" v="scooter"/>
     <tag k="website" v="https://www.shopmothership.com/"/>
   </node>
-  <node id="3306666661" lat="42.6190922" lon="-83.3199270" version="5" timestamp="2020-12-15T01:23:47Z" changeset="95839233" uid="307520" user="wolfgang8741">
+  <node id="3306666661" lat="42.6190922" lon="-83.3199270" version="6" timestamp="2023-05-03T15:48:16Z" changeset="135666874" uid="19138044" user="ERP-FTW">
     <tag k="addr:city" v="Pontiac"/>
     <tag k="addr:housenumber" v="1001"/>
     <tag k="addr:postcode" v="48341"/>
@@ -19364,7 +19323,7 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="phone" v="+1-248-745-3100"/>
     <tag k="shop" v="paint"/>
-    <tag k="website" v="http://thepaintstoremi.com"/>
+    <tag k="website" v="https://pontiacpaintsupply.com/"/>
   </node>
   <node id="3308611993" lat="-34.6103201" lon="-58.5793898" version="6" timestamp="2020-02-13T13:47:12Z" changeset="80961122" uid="3837224" user="MatiasJ">
     <tag k="addr:housenumber" v="5945"/>
@@ -23533,19 +23492,6 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="phone" v="+55 31 9 9798 6525"/>
     <tag k="website" v="www.tagmidia.online"/>
-  </node>
-  <node id="4509424792" lat="44.6946900" lon="10.6324910" version="5" timestamp="2018-07-25T11:43:48Z" changeset="61053483" uid="1462614" user="_Andrea_">
-    <tag k="addr:city" v="Reggio Emilia"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:postcode" v="42121"/>
-    <tag k="addr:street" v="Via Campo Marzio"/>
-    <tag k="description" v="Consulenza bancaria e finanziaria indipendente"/>
-    <tag k="email" v="cervi@tlcconsulting.eu"/>
-    <tag k="name" v="TLC Consulting Dr. Olindo Cervi"/>
-    <tag k="office" v="financial"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0522 1846364"/>
-    <tag k="website" v="http://www.tlcconsulting.eu"/>
   </node>
   <node id="4517759767" lat="45.5379382" lon="-122.6193110" version="3" timestamp="2017-06-20T19:32:18Z" changeset="49702842" uid="81676" user="Peter Dobratz">
     <tag k="addr:city" v="Portland"/>
@@ -31410,16 +31356,6 @@
     <tag k="operator" v="Patrizia Casadei"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="6816805531" lat="45.1308240" lon="10.0227710" version="1" timestamp="2019-09-23T07:22:19Z" changeset="74791437" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Cremona"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:postcode" v="26100"/>
-    <tag k="addr:street" v="Via Bella Chioppella"/>
-    <tag k="consulting" v="marketing"/>
-    <tag k="description" v="Servizi di consulenza nel settore delle tecnologie dell'informatica, digitale, organizzativa, direzionale e marketing."/>
-    <tag k="name" v="Gace - Crypto advisor"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="6816821845" lat="45.0976740" lon="7.6937960" version="1" timestamp="2019-09-23T07:30:47Z" changeset="74791796" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Torino"/>
     <tag k="addr:housenumber" v="73"/>
@@ -32409,19 +32345,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="website" v="http://www.newtecnoservice.com/"/>
-  </node>
-  <node id="7507278566" lat="44.4924550" lon="11.3256740" version="1" timestamp="2020-05-11T14:51:34Z" changeset="85031774" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Bologna"/>
-    <tag k="addr:housenumber" v="40/A"/>
-    <tag k="addr:postcode" v="40134"/>
-    <tag k="addr:street" v="Via Alessandro Guidotti"/>
-    <tag k="amenity" v="veterinary"/>
-    <tag k="description" v="Ambulatorio Veterinario per animali da compagnia / pets. Clinica, chirurgia, consulenza, reperibilità h24, visite domiciliari."/>
-    <tag k="email" v="ambvetguidotti@gmail.com"/>
-    <tag k="name" v="Ambulatorio Veterinario Guidotti"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 3491007581"/>
-    <tag k="website" v="https://www.facebook.com/Ambulatorio-Veterinario-Guidotti-101227044772600"/>
   </node>
   <node id="7533656222" lat="37.1864127" lon="126.6518900" version="2" timestamp="2020-05-18T18:23:37Z" changeset="85398089" uid="305837" user="uhmssi">
     <tag k="addr:street" v="전곡항로 5 (전곡항마리나, GATE 2, 위치C-2)"/>
