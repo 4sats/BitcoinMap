@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-06T05:21:57Z"/>
+<meta osm_base="2023-05-07T05:22:54Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -4891,11 +4891,13 @@
     <tag k="source" v="Bing"/>
     <tag k="website" v="https://techno-art.ch/"/>
   </node>
-  <node id="2619456834" lat="57.7043847" lon="11.9718198" version="9" timestamp="2019-03-30T12:19:42Z" changeset="68695822" uid="9451067" user="b-jazz-bot">
+  <node id="2619456834" lat="57.7043847" lon="11.9718198" version="10" timestamp="2023-05-06T12:13:36Z" changeset="135774645" uid="13469654" user="vakal">
     <tag k="addr:city" v="Göteborg"/>
     <tag k="addr:country" v="SE"/>
+    <tag k="addr:county" v="Västra Götaland"/>
     <tag k="addr:housenumber" v="3"/>
     <tag k="addr:postcode" v="411 08"/>
+    <tag k="addr:province" v="Västergötland"/>
     <tag k="addr:street" v="Trädgårdsgatan"/>
     <tag k="name" v="Studiohanna"/>
     <tag k="note" v="Studiohanna ligger i Luxurious Lashes lokaler. På salongen kan du göra nagelförlängning och fransförlängning. Jag håller även i utbildning till certifierad fransstylist."/>
@@ -13611,11 +13613,13 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://bardofarm.com/"/>
   </node>
-  <node id="2928090898" lat="57.7197050" lon="11.9362427" version="8" timestamp="2020-03-28T05:04:59Z" changeset="82739998" uid="156646" user="archie">
+  <node id="2928090898" lat="57.7197050" lon="11.9362427" version="9" timestamp="2023-05-06T12:13:36Z" changeset="135774645" uid="13469654" user="vakal">
     <tag k="addr:city" v="Göteborg"/>
     <tag k="addr:country" v="SE"/>
+    <tag k="addr:county" v="Västra Götaland"/>
     <tag k="addr:housenumber" v="16b"/>
     <tag k="addr:postcode" v="41714"/>
+    <tag k="addr:province" v="Västergötland"/>
     <tag k="addr:street" v="Virvelvindsgatan"/>
     <tag k="contact:phone" v="+46313131372"/>
     <tag k="contact:website" v="http://www.jisit.se"/>
@@ -24029,11 +24033,13 @@
     <tag k="phone" v="0402337190"/>
     <tag k="shop" v="clothes"/>
   </node>
-  <node id="4853412206" lat="57.7335355" lon="12.0159571" version="6" timestamp="2021-01-23T20:46:44Z" changeset="98035569" uid="3342713" user="opengbg">
+  <node id="4853412206" lat="57.7335355" lon="12.0159571" version="7" timestamp="2023-05-06T12:13:40Z" changeset="135774645" uid="13469654" user="vakal">
     <tag k="addr:city" v="Göteborg"/>
     <tag k="addr:country" v="SE"/>
+    <tag k="addr:county" v="Västra Götaland"/>
     <tag k="addr:housenumber" v="35D"/>
     <tag k="addr:postcode" v="41503"/>
+    <tag k="addr:province" v="Västergötland"/>
     <tag k="addr:street" v="Lars Kaggsgatan"/>
     <tag k="email" v="info@cykelkok.se"/>
     <tag k="name" v="Cykelköket Gamlestan"/>
@@ -25634,13 +25640,14 @@
     <tag k="shop" v="clothes"/>
     <tag k="website" v="http://www.basco.it"/>
   </node>
-  <node id="5236284942" lat="45.5567042" lon="8.9462721" version="5" timestamp="2019-11-11T10:58:09Z" changeset="76902400" uid="89897" user="airon90">
+  <node id="5236284942" lat="45.5567042" lon="8.9462721" version="6" timestamp="2023-05-06T18:39:04Z" changeset="135788069" uid="12977841" user="gaflp">
     <tag k="addr:city" v="Parabiago"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="77"/>
     <tag k="addr:postcode" v="20015"/>
     <tag k="addr:street" v="Via Sant'Antonio"/>
     <tag k="amenity" v="social_facility"/>
+    <tag k="check_date" v="2023-05-06"/>
     <tag k="contact:phone" v="+39 393 8032957"/>
     <tag k="healthcare" v="hospital"/>
     <tag k="healthcare:speciality" v="general;community"/>
@@ -29368,7 +29375,7 @@
     <tag k="website" v="http://www.diocesedesantoamaro.org.br"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5860960169" lat="59.9409955" lon="30.2151035" version="3" timestamp="2018-09-18T20:27:54Z" changeset="62709880" uid="584771" user="fims7">
+  <node id="5860960169" lat="59.9409955" lon="30.2151035" version="4" timestamp="2023-05-06T12:48:54Z" changeset="135775326" uid="1538111" user="avinet_ua">
     <tag k="addr:city" v="Санкт-Петербург"/>
     <tag k="addr:housenumber" v="16 к2"/>
     <tag k="addr:street" v="улица Кораблестроителей"/>
@@ -29376,6 +29383,7 @@
     <tag k="healthcare" v="dentist"/>
     <tag k="healthcare:speciality" v="stomatology;dentist;dental_oral_maxillo_facial_surgery;implantology"/>
     <tag k="name" v="Velum Dentistry"/>
+    <tag k="name:uk" v="Velum Dentistry"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="5883045247" lat="50.0854243" lon="14.4320830" version="3" timestamp="2019-09-15T09:59:59Z" changeset="74492580" uid="443514" user="zakjan">
@@ -30948,7 +30956,7 @@
     <tag k="phone" v="+39 3930194080"/>
     <tag k="website" v="https://www.niutrox.com"/>
   </node>
-  <node id="6574693132" lat="55.6772919" lon="37.5463409" version="4" timestamp="2021-02-06T15:45:03Z" changeset="98818833" uid="519501" user="parukhin">
+  <node id="6574693132" lat="55.6772919" lon="37.5463409" version="5" timestamp="2023-05-06T14:25:30Z" changeset="135778599" uid="1538111" user="avinet_ua">
     <tag k="addr:city" v="Москва"/>
     <tag k="addr:housenumber" v="91 к1"/>
     <tag k="addr:postcode" v="117335"/>
@@ -30958,6 +30966,7 @@
     <tag k="healthcare" v="clinic"/>
     <tag k="healthcare:speciality" v="general;gynaecology;cardiology;clinic"/>
     <tag k="name" v="Медицинский центр &quot;Хеликс&quot;"/>
+    <tag k="name:uk" v="Медичний центр &quot;Хелікс&quot;"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-17:00; Sa-Su 8:00-15:00"/>
     <tag k="payment:american_express" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -33240,18 +33249,6 @@
     <tag k="payment:care_credit" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="website" v="https://www.facebook.com/MOODLoungeSucre/"/>
-  </node>
-  <node id="8164814603" lat="41.9021442" lon="12.4798111" version="2" timestamp="2023-03-27T13:40:44Z" changeset="134178645" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="379"/>
-    <tag k="addr:postcode" v="00186"/>
-    <tag k="addr:street" v="Via del Corso"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0669942356"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="http://www.doppelganger.it/"/>
   </node>
   <node id="8165711575" lat="40.8427756" lon="14.2284774" version="2" timestamp="2020-12-02T19:08:55Z" changeset="95173728" uid="11045191" user="Settebello">
     <tag k="addr:city" v="Napoli"/>
@@ -36846,6 +36843,30 @@
     <tag k="website" v="http://associazioneadlibitum.it/"/>
     <tag k="wheelchair" v="no"/>
   </node>
+  <node id="10841646772" lat="43.6808233" lon="10.5586957" version="7" timestamp="2023-05-06T20:33:43Z" changeset="135791026" uid="819653" user="ssnep">
+    <tag k="addr:city" v="Cascina"/>
+    <tag k="addr:postcode" v="56021"/>
+    <tag k="addr:street" v="Via Civoli di Sotto"/>
+    <tag k="check_date" v="2023-05-06"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="greenhouseaccomodation@gmail.com"/>
+    <tag k="guest_house" v="guest_house,_holiday,_stay"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="name" v="Green House Accommodation"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bonifico" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:transbank" v="yes"/>
+    <tag k="phone" v="+39 389 7688124"/>
+    <tag k="rooms" v="2"/>
+    <tag k="tourism" v="guest_house"/>
+  </node>
   <node id="10855703280" lat="47.4164798" lon="9.2419083" version="1" timestamp="2023-04-29T10:05:47Z" changeset="135497893" uid="6764480" user="psywolf85">
     <tag k="addr:city" v="Gossau SG"/>
     <tag k="addr:housenumber" v="30"/>
@@ -36874,6 +36895,42 @@
     <tag k="operator" v="Mama Bitcoin"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+221 366 55 55"/>
+  </node>
+  <node id="10873333400" lat="-21.7240309" lon="-44.9849764" version="1" timestamp="2023-05-06T12:46:44Z" changeset="135775884" uid="18909163" user="Lucas Leiva de Castro">
+    <tag k="amenity" v="bar"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Adega Corujão"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+  </node>
+  <node id="10873350909" lat="-21.7216734" lon="-44.9851631" version="1" timestamp="2023-05-06T13:08:47Z" changeset="135776618" uid="18909163" user="Lucas Leiva de Castro">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Restaurante da Sinhá"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+  </node>
+  <node id="10873727785" lat="-21.7223348" lon="-44.9859052" version="1" timestamp="2023-05-06T16:18:58Z" changeset="135783564" uid="18909163" user="Lucas Leiva de Castro">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Stockwood Passeios"/>
+    <tag k="office" v="guide"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+  </node>
+  <node id="10873743585" lat="-21.7265679" lon="-44.9546178" version="1" timestamp="2023-05-06T16:16:58Z" changeset="135783458" uid="18909163" user="Lucas Leiva de Castro">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Spa Caipira"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="tourism" v="alpine_hut"/>
+  </node>
+  <node id="10874047408" lat="-21.7239518" lon="-44.9858784" version="1" timestamp="2023-05-06T19:44:34Z" changeset="135789898" uid="18909163" user="Lucas Leiva de Castro">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Casa do Jow"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="35999547782"/>
+    <tag k="tourism" v="alpine_hut"/>
   </node>
 
 </osm>
