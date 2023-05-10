@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-09T05:22:53Z"/>
+<meta osm_base="2023-05-10T05:22:33Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -22584,7 +22584,7 @@
     <tag k="phone" v="+61433335841"/>
     <tag k="website" v="http://www.aboutinstallations.com.au"/>
   </node>
-  <node id="4128448919" lat="44.6367111" lon="33.5210253" version="4" timestamp="2023-05-02T22:54:32Z" changeset="135635608" uid="1538111" user="avinet_ua">
+  <node id="4128448919" lat="44.6367025" lon="33.5210257" version="5" timestamp="2023-05-09T09:47:35Z" changeset="135886993" uid="540529" user="Noktoborus">
     <tag k="addr:city" v="Севастополь"/>
     <tag k="addr:housenumber" v="119"/>
     <tag k="addr:street" v="Симонок улица"/>
@@ -22592,8 +22592,10 @@
     <tag k="guest_house" v="guest_house"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="Guesthouse Kaskad"/>
-    <tag k="name:uk" v="Guesthouse Kaskad"/>
+    <tag k="name" v="Гостевой дом Каскад"/>
+    <tag k="name:en" v="Guest House Kaskad"/>
+    <tag k="name:ru" v="Гостевой дом Каскад"/>
+    <tag k="name:uk" v="Гастхоф Каскад"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
@@ -22602,7 +22604,7 @@
     <tag k="reservation" v="yes"/>
     <tag k="rooms" v="9"/>
     <tag k="tourism" v="guest_house"/>
-    <tag k="website" v="Kaskadhotel.net"/>
+    <tag k="website" v="https://www.kaskadhotel.net/"/>
   </node>
   <node id="4146413299" lat="43.5980500" lon="1.4539849" version="4" timestamp="2016-04-25T22:55:13Z" changeset="38871420" uid="1882956" user="Tyndare">
     <tag k="addr:city" v="Toulouse"/>
@@ -29261,17 +29263,6 @@
     <tag k="website" v="http://www.diocesedesantoamaro.org.br"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5860960169" lat="59.9409955" lon="30.2151035" version="4" timestamp="2023-05-06T12:48:54Z" changeset="135775326" uid="1538111" user="avinet_ua">
-    <tag k="addr:city" v="Санкт-Петербург"/>
-    <tag k="addr:housenumber" v="16 к2"/>
-    <tag k="addr:street" v="улица Кораблестроителей"/>
-    <tag k="amenity" v="dentist"/>
-    <tag k="healthcare" v="dentist"/>
-    <tag k="healthcare:speciality" v="stomatology;dentist;dental_oral_maxillo_facial_surgery;implantology"/>
-    <tag k="name" v="Velum Dentistry"/>
-    <tag k="name:uk" v="Velum Dentistry"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="5883045247" lat="50.0854243" lon="14.4320830" version="3" timestamp="2019-09-15T09:59:59Z" changeset="74492580" uid="443514" user="zakjan">
     <tag k="addr:city" v="Praha 1"/>
     <tag k="addr:housenumber" v="22"/>
@@ -30305,12 +30296,6 @@
     <tag k="office" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="6286806373" lat="37.9649879" lon="23.7505994" version="3" timestamp="2023-05-08T05:29:30Z" changeset="135834892" uid="1748423" user="Αντρέ">
-    <tag k="name" v="Casa del Bambino"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
   <node id="6297671100" lat="37.9610149" lon="23.6755122" version="2" timestamp="2019-02-23T16:43:17Z" changeset="67498045" uid="936280" user="beatnickgr">
     <tag k="addr:city" v="Άγιος Ιωάννης Ρέντη"/>
     <tag k="addr:housenumber" v="1"/>
@@ -30841,40 +30826,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3930194080"/>
     <tag k="website" v="https://www.niutrox.com"/>
-  </node>
-  <node id="6574693132" lat="55.6772919" lon="37.5463409" version="5" timestamp="2023-05-06T14:25:30Z" changeset="135778599" uid="1538111" user="avinet_ua">
-    <tag k="addr:city" v="Москва"/>
-    <tag k="addr:housenumber" v="91 к1"/>
-    <tag k="addr:postcode" v="117335"/>
-    <tag k="addr:street" v="улица Вавилова"/>
-    <tag k="brand" v="Helix"/>
-    <tag k="email" v="vavilova.med@gmail.com"/>
-    <tag k="healthcare" v="clinic"/>
-    <tag k="healthcare:speciality" v="general;gynaecology;cardiology;clinic"/>
-    <tag k="name" v="Медицинский центр &quot;Хеликс&quot;"/>
-    <tag k="name:uk" v="Медичний центр &quot;Хелікс&quot;"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-17:00; Sa-Su 8:00-15:00"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:electronic_purses" v="yes"/>
-    <tag k="payment:jcb" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:telephone_cards" v="yes"/>
-    <tag k="payment:unionpay" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:visa_debit" v="yes"/>
-    <tag k="phone" v="+7 910 4042677"/>
-    <tag k="website" v="https://helix.ru/center/20093"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="6577609099" lat="29.6182161" lon="-95.4647494" version="4" timestamp="2019-09-19T19:01:01Z" changeset="74691594" uid="243003" user="skquinn">
     <tag k="addr:city" v="Houston"/>
@@ -35400,31 +35351,6 @@
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://suslumarket.com/"/>
   </node>
-  <node id="9532018672" lat="40.5339947" lon="49.7839827" version="7" timestamp="2023-05-07T20:05:34Z" changeset="135825783" uid="1643499" user="MenKauRa">
-    <tag k="addr:city" v="Novxanı"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="currency:AZN" v="yes"/>
-    <tag k="image" v="https://ibb.co/pzYxsnH"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="Şərab Evi Johnnie Walker"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="opening_hours:covid19" v="same"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:visa_debit" v="yes"/>
-    <tag k="payment:visa_electron" v="yes"/>
-    <tag k="phone" v="+994507751029"/>
-    <tag k="shop" v="beverages"/>
-  </node>
   <node id="9551543061" lat="29.6280334" lon="52.5533174" version="1" timestamp="2022-03-03T09:13:40Z" changeset="118047782" uid="15219578" user="Mobile RooZ">
     <tag k="addr:city" v="شیراز"/>
     <tag k="addr:housenumber" v="1"/>
@@ -36732,21 +36658,6 @@
     <tag k="operator" v="Mama Bitcoin"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+221 366 55 55"/>
-  </node>
-  <node id="10879474335" lat="47.6254977" lon="-122.1865433" version="1" timestamp="2023-05-08T19:18:28Z" changeset="135866506" uid="2812957" user="talapus">
-    <tag k="addr:city" v="Bellevue"/>
-    <tag k="addr:housenumber" v="1611"/>
-    <tag k="addr:postcode" v="98004"/>
-    <tag k="addr:state" v="WA"/>
-    <tag k="addr:street" v="116th Ave NE"/>
-    <tag k="addr:unit" v="109"/>
-    <tag k="amenity" v="chiropractor"/>
-    <tag k="description" v="Advanced Rolfing (Structural Integration) &amp; Osteopathic Therapy – Bellevue, WA"/>
-    <tag k="healthcare" v="yes"/>
-    <tag k="name" v="Advanced Rolfing | Misha Noonan"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-425-424-9349"/>
-    <tag k="website" v="https://www.advancedrolfingseattle.com"/>
   </node>
 
 </osm>
