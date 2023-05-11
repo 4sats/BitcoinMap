@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-10T05:22:33Z"/>
+<meta osm_base="2023-05-11T05:23:23Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -22082,6 +22082,23 @@
     <tag k="name" v="Fumetteria Safarà"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="anime"/>
+  </node>
+  <node id="3809340119" lat="-30.0346236" lon="-51.2087887" version="6" timestamp="2023-05-10T15:09:12Z" changeset="135940837" uid="19065181" user="Lenda Cripto">
+    <tag k="addr:city" v="Porto Alegre"/>
+    <tag k="addr:housenumber" v="72"/>
+    <tag k="addr:street" v="Rua Bento Figueiredo"/>
+    <tag k="addr:suburb" v="Bom Fim"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="craft" v="brewery"/>
+    <tag k="description" v="Pub moderno tem comidinhas como as Almôndegas From Hell, cervejas de fabricação própria e da região e cursos."/>
+    <tag k="name" v="Lagom Brewpub"/>
+    <tag k="opening_hours" v="18:00-23:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="phone" v="+55 51 3062-5045"/>
+    <tag k="survey_date" v="2023-05-10"/>
   </node>
   <node id="3823773807" lat="-23.2274437" lon="-45.9235588" version="9" timestamp="2022-12-27T20:08:18Z" changeset="130572173" uid="1799626" user="AjBelnuovo">
     <tag k="addr:city" v="São José dos Campos"/>
