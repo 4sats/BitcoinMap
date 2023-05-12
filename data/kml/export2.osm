@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-11T05:23:23Z"/>
+<meta osm_base="2023-05-12T05:23:19Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -2577,10 +2577,11 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://sajovic.me"/>
   </node>
-  <node id="2560067669" lat="41.8819299" lon="-87.6247089" version="9" timestamp="2023-02-02T16:29:33Z" changeset="132010462" uid="8610118" user="OSMWeekly">
+  <node id="2560067669" lat="41.8819299" lon="-87.6247089" version="10" timestamp="2023-05-12T02:31:36Z" changeset="135998788" uid="1237170" user="Zol87">
     <tag k="addr:city" v="Chicago"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="60603"/>
+    <tag k="addr:state" v="IL"/>
     <tag k="addr:street" v="South Michigan Avenue"/>
     <tag k="addr:unit" v="1220"/>
     <tag k="amenity" v="arts_centre"/>
@@ -11349,16 +11350,6 @@
     <tag k="name" v="Asiana Biztro"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://asianabiztro.menufy.com/"/>
-  </node>
-  <node id="2788983844" lat="33.1178538" lon="-96.8040511" version="3" timestamp="2019-10-24T16:02:44Z" changeset="76164388" uid="224610" user="stangoodman">
-    <tag k="addr:housenumber" v="4760"/>
-    <tag k="addr:street" v="Preston Road"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="+1-972-377-8850"/>
-    <tag k="cuisine" v="chinese"/>
-    <tag k="name" v="Hong Kong Express"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://hkexpressfrisco.com/"/>
   </node>
   <node id="2788989513" lat="32.0635691" lon="34.7716521" version="5" timestamp="2023-03-19T22:40:11Z" changeset="133876548" uid="4221879" user="davidmguest">
     <tag k="addr:city" v="תל אביב"/>
@@ -34894,23 +34885,6 @@
     <tag k="tourism" v="apartment"/>
     <tag k="website" v="http://www.ilnidodellostriscignl.it"/>
   </node>
-  <node id="9289282581" lat="20.6435214" lon="-87.0619660" version="3" timestamp="2022-12-05T17:41:46Z" changeset="129750816" uid="77904" user="Kristjan ESPERANTO">
-    <tag k="addr:city" v="Playa del Carmen"/>
-    <tag k="addr:postcode" v="77728"/>
-    <tag k="addr:street" v="Avenida 10 Norte, Calle 70 Nte"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/profile.php?id=100063488646547"/>
-    <tag k="contact:google_plus" v="JWVQ+88 Playa del Carmen, Quintana Roo"/>
-    <tag k="cuisine" v="german;italian;spanish;mexican"/>
-    <tag k="diet:non-vegetarian" v="yes"/>
-    <tag k="diet:vegetarian" v="yes"/>
-    <tag k="name" v="Schnitzel Garten"/>
-    <tag k="opening_hours" v="Mo-Tu 16:00-22:00; Th-Fr 16:00-22:00; Sa-Su 17:00-21:30"/>
-    <tag k="opening_hours:covid19" v="same"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="+52 9841976695"/>
-  </node>
   <node id="9290834919" lat="20.6341263" lon="-87.0677239" version="2" timestamp="2022-12-05T17:42:35Z" changeset="129750839" uid="77904" user="Kristjan ESPERANTO">
     <tag k="addr:city" v="Playa del Carmen"/>
     <tag k="addr:housenumber" v="43"/>
@@ -36675,6 +36649,20 @@
     <tag k="operator" v="Mama Bitcoin"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+221 366 55 55"/>
+  </node>
+  <node id="10888611330" lat="-1.3981483" lon="-78.4244433" version="1" timestamp="2023-05-12T02:32:53Z" changeset="135998813" uid="18986320" user="SMERINO13">
+    <tag k="addr:city" v="Baños de Agua Santa"/>
+    <tag k="addr:postcode" v="180301"/>
+    <tag k="addr:street" v="Oscar Efren Reyes"/>
+    <tag k="name" v="Bloom Cannabis Shop"/>
+    <tag k="opening_hours" v="We-Mo 10:00-20:00"/>
+    <tag k="operator" v="Santiago M"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="phone" v="+593 (099) 501-8412"/>
+    <tag k="shop" v="cannabis"/>
   </node>
 
 </osm>
