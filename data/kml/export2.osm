@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-12T05:23:19Z"/>
+<meta osm_base="2023-05-13T05:22:38Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -397,20 +397,6 @@
     <tag k="phone" v="+39 0434 27312"/>
     <tag k="website" v="https://dacico.it/"/>
   </node>
-  <node id="762937571" lat="43.6170877" lon="13.5158564" version="5" timestamp="2023-04-05T15:53:44Z" changeset="134544494" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Ancona"/>
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:postcode" v="60121"/>
-    <tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
-    <tag k="name" v="Doppelgänger"/>
-    <tag k="old_name" v="Avery K"/>
-    <tag k="opening_hours" v="Mo-Sa 09:30-20:00; Su 10:00-13:00,15:30-20:00"/>
-    <tag k="operator" v="International Retail Development srl"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 071 9691885"/>
-    <tag k="ref:vatin" v="IT10471441005"/>
-    <tag k="shop" v="clothes"/>
-  </node>
   <node id="768593714" lat="46.3859813" lon="11.2589603" version="6" timestamp="2020-08-07T18:53:36Z" changeset="89105913" uid="7407533" user="ieiunium">
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:street" v="Località San Giuseppe al Lago - St. Josef am See"/>
@@ -701,20 +687,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="department_store"/>
     <tag k="source" v="http://newsbtc.com/2014/03/10/pounce-teams-coinbase-allow-shopping-target-major-retailers-using-bitcoin/"/>
-  </node>
-  <node id="983735426" lat="46.0698171" lon="11.1236723" version="13" timestamp="2023-04-05T15:00:41Z" changeset="134542709" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Trento"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="58"/>
-    <tag k="addr:postcode" v="38122"/>
-    <tag k="addr:street" v="Via Giannantonio Manci"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Dopplegänger"/>
-    <tag k="opening_hours" v="Mo-Fr 10:00-19:00; Sa 10:00-19:30; Su 10:00-13:00,15:00-19:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0461521650"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1097310478" lat="50.0864933" lon="14.4053164" version="7" timestamp="2023-04-04T11:07:02Z" changeset="134490482" uid="18405516" user="ペパ君">
     <tag k="addr:city" v="Praha"/>
@@ -1481,19 +1453,6 @@
     <tag k="phone" v="608-255-6910"/>
     <tag k="website" v="https://bandungrestaurant.com/"/>
     <tag k="yelp" v="http://www.yelp.com/biz/bandung-indonesian-restaurant-madison?nb=1"/>
-  </node>
-  <node id="2323216819" lat="44.1379112" lon="12.2441762" version="2" timestamp="2023-03-27T13:19:15Z" changeset="134177687" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Cesena"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:postcode" v="47521"/>
-    <tag k="addr:street" v="Corso Giuseppe Mazzini"/>
-    <tag k="cesena:ref_id" v="051130009000"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="054721467"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="http://www.doppelganger.it/"/>
   </node>
   <node id="2330024122" lat="39.1257138" lon="-94.8266002" version="3" timestamp="2022-01-10T00:15:41Z" changeset="115961696" uid="262151" user="ToeBee">
     <tag k="addr:housenumber" v="1847"/>
@@ -2451,12 +2410,12 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://exante.eu/"/>
   </node>
-  <node id="2556093572" lat="42.6977145" lon="23.3052991" version="7" timestamp="2022-01-24T08:48:32Z" changeset="116530721" uid="11423650" user="outer haven">
+  <node id="2556093572" lat="42.6977145" lon="23.3052991" version="8" timestamp="2023-05-12T14:55:38Z" changeset="136022379" uid="150201" user="plamen">
     <tag k="addr:floor" v="2"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="capacity" v="100"/>
     <tag k="contact:facebook" v="https://facebook.com/mytaste"/>
-    <tag k="contact:phone" v="+359 899 122878"/>
+    <tag k="contact:phone" v="+359 899 122 878"/>
     <tag k="cuisine" v="european, soul_food, italian, pizza"/>
     <tag k="name" v="My Taste"/>
     <tag k="name:bg" v="Май Тейст"/>
@@ -8582,17 +8541,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://LOGOSidentity.com"/>
   </node>
-  <node id="2710151776" lat="26.1202310" lon="-80.1431086" version="3" timestamp="2020-01-05T21:49:12Z" changeset="79224234" uid="5164" user="woodpeck">
-    <tag k="addr:city" v="Fort Lauderdale"/>
-    <tag k="addr:housenumber" v="200"/>
-    <tag k="addr:postcode" v="33301"/>
-    <tag k="addr:street" v="South Andrews Avenue"/>
-    <tag k="name" v="Mearkle Trueblood Adam, PL"/>
-    <tag k="office" v="lawyer"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="(954) 302-8610"/>
-    <tag k="website" v="www.mtalawyersftlauderdale.com"/>
-  </node>
   <node id="2710167541" lat="31.7364867" lon="-106.4266243" version="2" timestamp="2020-05-29T22:03:24Z" changeset="85967784" uid="243003" user="skquinn">
     <tag k="addr:city" v="Cd. Juárez"/>
     <tag k="addr:housenumber" v="7073"/>
@@ -8969,18 +8917,6 @@
     <tag k="phone" v="+39 3423284951"/>
     <tag k="source:wheelchair" v="survey"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="2718136968" lat="44.0397180" lon="12.5874819" version="3" timestamp="2023-04-05T16:48:24Z" changeset="134546502" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Rimini"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:postcode" v="47924"/>
-    <tag k="addr:street" v="Via Caduti di Nassiriya"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Nuvolari c.c. Le Befane"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="05411491632"/>
-    <tag k="shop" v="clothes"/>
   </node>
   <node id="2718240387" lat="35.8518690" lon="-79.0196451" version="5" timestamp="2018-09-06T23:13:02Z" changeset="62357634" uid="4312767" user="LeifRasmussen">
     <tag k="addr:city" v="Chapel Hill"/>
@@ -10614,17 +10550,6 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="phone" v="+1 (617) 293-1380"/>
     <tag k="website" v="https://www.xpressmovers.com/"/>
-  </node>
-  <node id="2763128148" lat="41.2424668" lon="-95.8194275" version="3" timestamp="2019-05-28T01:32:29Z" changeset="70678336" uid="115918" user="Timothy Smith">
-    <tag k="addr:housenumber" v="1860"/>
-    <tag k="addr:postcode" v="51503"/>
-    <tag k="addr:street" v="Madison Avenue"/>
-    <tag k="amenity" v="dentist"/>
-    <tag k="contact:email" v="info@stuntzfamilydentistry.com"/>
-    <tag k="contact:phone" v="(712) 256-6263"/>
-    <tag k="healthcare" v="dentist"/>
-    <tag k="name" v="Stuntz Family Dentistry"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="2763154923" lat="4.8013804" lon="-74.0516408" version="2" timestamp="2019-01-22T11:51:06Z" changeset="66534917" uid="2237750" user="chachafish">
     <tag k="contact:phone" v="3004784247"/>
@@ -17851,20 +17776,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="(262) 212-7930"/>
   </node>
-  <node id="3225436961" lat="46.0721326" lon="14.5040476" version="3" timestamp="2022-09-11T19:22:40Z" changeset="126062105" uid="6508041" user="martianfreeloader">
-    <tag k="addr:city" v="Ljubljana"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:postcode" v="1000"/>
-    <tag k="addr:street" v="Podmilščakova ulica"/>
-    <tag k="description" v="Kajtanje | Supanje | Slackline"/>
-    <tag k="email" v="info@bananaway.si"/>
-    <tag k="name" v="Bananaway"/>
-    <tag k="opening_hours" v="May-Sep: Mo-Fr 09:00-13:00,14:00-19:00; Sep-Apr: Mo-Fr 14:00-18:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+386 70 285 228"/>
-    <tag k="shop" v="outdoor"/>
-    <tag k="website" v="https://www.bananaway.si/"/>
-  </node>
   <node id="3225457854" lat="46.0546319" lon="14.5074409" version="6" timestamp="2022-04-26T21:47:46Z" changeset="120231843" uid="6508041" user="martianfreeloader">
     <tag k="addr:city" v="Ljubljana"/>
     <tag k="addr:housenumber" v="22"/>
@@ -22804,18 +22715,6 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="smoking" v="isolated"/>
   </node>
-  <node id="4223539909" lat="45.5638168" lon="9.0539935" version="2" timestamp="2023-04-05T17:51:12Z" changeset="134548708" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Arese"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:postcode" v="20020"/>
-    <tag k="addr:street" v="Viale Giuseppe Eugenio Luraghi"/>
-    <tag k="clothes" v="men"/>
-    <tag k="level" v="1"/>
-    <tag k="name" v="Nuvolari c.c. Il Centro Arese"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0209959241"/>
-    <tag k="shop" v="clothes"/>
-  </node>
   <node id="4229074925" lat="39.2160261" lon="9.1109682" version="3" timestamp="2019-03-20T04:23:37Z" changeset="68318466" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Cagliari"/>
     <tag k="addr:housenumber" v="23"/>
@@ -22830,17 +22729,6 @@
     <tag k="source" v="Regione Autonoma della Sardegna (www.sardegnageoportale.it)"/>
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="https://www.cagliarinovecento.it/"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="4230222473" lat="41.9082017" lon="12.4672086" version="3" timestamp="2023-04-05T16:07:33Z" changeset="134545042" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="96"/>
-    <tag k="addr:postcode" v="00193"/>
-    <tag k="addr:street" v="Piazza Cola di Rienzo"/>
-    <tag k="name" v="Doppelgänger"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0694365624"/>
-    <tag k="shop" v="clothes"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="4239917207" lat="46.1726558" lon="9.8738101" version="5" timestamp="2021-10-03T12:32:23Z" changeset="112031949" uid="11839324" user="gmar5">
@@ -23800,16 +23688,6 @@
     <tag k="phone:mobile" v="+39 388 8673983"/>
     <tag k="website" v="https://www.riparata.it/"/>
   </node>
-  <node id="4752694126" lat="44.3960161" lon="12.1796450" version="2" timestamp="2023-03-27T13:25:49Z" changeset="134177978" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Ravenna"/>
-    <tag k="addr:housenumber" v="74"/>
-    <tag k="addr:postcode" v="48124"/>
-    <tag k="addr:street" v="Via Marco Bussato"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="clothes"/>
-  </node>
   <node id="4754965029" lat="41.6470783" lon="-4.7197510" version="10" timestamp="2021-06-18T00:25:56Z" changeset="106556231" uid="11454828" user="MarinoBM">
     <tag k="addr:city" v="Valladolid"/>
     <tag k="addr:housenumber" v="7"/>
@@ -23990,16 +23868,6 @@
     <tag k="name" v="Piloto Pirx Fotografia"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="photo"/>
-  </node>
-  <node id="4844248321" lat="45.6503203" lon="13.7697097" version="5" timestamp="2023-04-05T15:04:12Z" changeset="134542833" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Trieste"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:postcode" v="34121"/>
-    <tag k="addr:street" v="Piazza della Borsa"/>
-    <tag k="name" v="Doppelgänger"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0402337190"/>
-    <tag k="shop" v="clothes"/>
   </node>
   <node id="4853412206" lat="57.7335355" lon="12.0159571" version="7" timestamp="2023-05-06T12:13:40Z" changeset="135774645" uid="13469654" user="vakal">
     <tag k="addr:city" v="Göteborg"/>
@@ -28405,12 +28273,12 @@
     <tag k="smoking" v="separated"/>
     <tag k="website" v="https://argocrew.io"/>
   </node>
-  <node id="5606464710" lat="42.6923389" lon="23.3059656" version="4" timestamp="2020-08-19T04:06:21Z" changeset="89604033" uid="4085636" user="Mario Stoyanov (Johnny)">
+  <node id="5606464710" lat="42.6923389" lon="23.3059656" version="5" timestamp="2023-05-12T14:55:38Z" changeset="136022379" uid="150201" user="plamen">
     <tag k="addr:city" v="София"/>
     <tag k="addr:housenumber" v="60"/>
     <tag k="addr:postcode" v="1606"/>
     <tag k="addr:street" v="Дамян Груев"/>
-    <tag k="contact:phone" v="0889 525 7891606"/>
+    <tag k="contact:phone" v="0889 52 578 91606"/>
     <tag k="email" v="ruski@jarcomputers.com"/>
     <tag k="internet_access" v="wlan"/>
     <tag k="name" v="ЖАР Компютърс-Руски паметник"/>
@@ -29179,17 +29047,6 @@
     <tag k="phone" v="+39 328 3822967"/>
     <tag k="website" v="https://teksoft.it/"/>
   </node>
-  <node id="5816078954" lat="41.8743736" lon="12.5230783" version="3" timestamp="2023-04-05T16:02:33Z" changeset="134544843" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:postcode" v="00179"/>
-    <tag k="addr:street" v="Via Appia Nuova"/>
-    <tag k="cuisine" v="italian"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="067811840"/>
-    <tag k="shop" v="clothes"/>
-  </node>
   <node id="5819214766" lat="6.2461615" lon="-75.5653166" version="2" timestamp="2021-07-15T15:54:39Z" changeset="108062994" uid="12906384" user="JuanMelo">
     <tag k="amenity" v="university"/>
     <tag k="description" v="Criminalística"/>
@@ -29197,17 +29054,6 @@
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="phone" v="+57 4 2161010"/>
     <tag k="website" v="www.esuc.edu.co"/>
-  </node>
-  <node id="5829703589" lat="41.9011958" lon="12.4766891" version="2" timestamp="2023-04-05T16:10:36Z" changeset="134545182" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="00186"/>
-    <tag k="addr:street" v="Via degli Uffici del Vicario"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="066796738"/>
-    <tag k="shop" v="clothes"/>
   </node>
   <node id="5842544408" lat="-22.8865356" lon="-42.9895254" version="2" timestamp="2019-03-19T05:54:17Z" changeset="68281867" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="São Gonçalo"/>
@@ -30646,20 +30492,6 @@
     <tag k="phone" v="+1-503-208-3229"/>
     <tag k="website" v="http://www.kitkatclubpdx.com/"/>
   </node>
-  <node id="6462918107" lat="37.9472087" lon="23.7385446" version="3" timestamp="2021-04-22T19:36:55Z" changeset="103433961" uid="9221753" user="Map-Finder">
-    <tag k="addr:city" v="Άγιος Δημήτριος"/>
-    <tag k="addr:country" v="GR"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="17343"/>
-    <tag k="addr:street" v="Σμύρνης"/>
-    <tag k="email" v="info@macway.gr"/>
-    <tag k="level" v="4"/>
-    <tag k="name" v="Macway"/>
-    <tag k="office" v="it"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+306972576688"/>
-    <tag k="website" v="https://macway.gr"/>
-  </node>
   <node id="6468437134" lat="22.6219380" lon="120.2865588" version="2" timestamp="2022-11-04T22:06:14Z" changeset="128502640" uid="1836965" user="Liongrass">
     <tag k="operator" v="Bitcoin ATM"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -30739,17 +30571,6 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="shop" v="convenience"/>
-  </node>
-  <node id="6498339845" lat="41.8850810" lon="12.5098042" version="2" timestamp="2023-04-05T15:57:11Z" changeset="134544627" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:postcode" v="00183"/>
-    <tag k="addr:street" v="Piazzale Appio"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Doppelgänger"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0655271763"/>
-    <tag k="shop" v="clothes"/>
   </node>
   <node id="6503278366" lat="45.5258871" lon="11.5613134" version="1" timestamp="2019-05-27T07:01:49Z" changeset="70650421" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Vicenza"/>
@@ -33464,21 +33285,6 @@
     <tag k="website" v="https://pontoonnation.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8419981910" lat="45.4671186" lon="9.1588398" version="3" timestamp="2023-03-27T12:33:52Z" changeset="134175743" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="6/A"/>
-    <tag k="addr:postcode" v="20145"/>
-    <tag k="addr:street" v="Via Belfiore"/>
-    <tag k="check_date:opening_hours" v="2023-02-12"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Doppelgänger"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
-    <tag k="opening_hours:signed" v="no"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="02437237"/>
-    <tag k="shop" v="clothes"/>
-  </node>
   <node id="8425061576" lat="35.3318098" lon="33.3314070" version="2" timestamp="2021-02-15T10:31:30Z" changeset="99300764" uid="12665352" user="hzt12345">
     <tag k="addr:city" v="kyrenia"/>
     <tag k="addr:street" v="Kurtuluş Caddesi"/>
@@ -34423,18 +34229,6 @@
     <tag k="rooms" v="5"/>
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="https://bbnonnavincenzamaratea.com"/>
-  </node>
-  <node id="8855332505" lat="43.5510511" lon="10.3103492" version="3" timestamp="2023-03-27T12:45:40Z" changeset="134176201" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Livorno"/>
-    <tag k="addr:housenumber" v="107,109,111,113"/>
-    <tag k="addr:postcode" v="57123"/>
-    <tag k="addr:street" v="Via Grande"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0586895757"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="https://www.doppelganger.it"/>
   </node>
   <node id="8862133692" lat="-34.2088283" lon="142.1383007" version="2" timestamp="2021-06-30T10:25:57Z" changeset="107199577" uid="712752" user="tastrax">
     <tag k="addr:housenumber" v="7/840"/>
@@ -35725,16 +35519,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://bagnisliguria.it"/>
   </node>
-  <node id="9779572708" lat="41.9085904" lon="12.4577725" version="2" timestamp="2023-04-05T16:05:24Z" changeset="134544950" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="85"/>
-    <tag k="addr:postcode" v="00192"/>
-    <tag k="addr:street" v="Via Ottaviano"/>
-    <tag k="name" v="Doppelgänger"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0639730809"/>
-    <tag k="shop" v="clothes"/>
-  </node>
   <node id="9787544563" lat="45.1896701" lon="7.8883875" version="1" timestamp="2022-06-01T08:42:54Z" changeset="121800272" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Chivasso"/>
     <tag k="addr:housenumber" v="3B"/>
@@ -35822,18 +35606,6 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="shop" v="jewelry"/>
     <tag k="website" v="www.woodstockzambon.com"/>
-  </node>
-  <node id="9830606783" lat="45.4619866" lon="9.2078530" version="2" timestamp="2023-03-27T12:40:12Z" changeset="134175984" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Milano"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="20129"/>
-    <tag k="addr:street" v="Piazza Cinque Giornate"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Dopplegänger"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0255013691"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="9832854209" lat="-27.5752679" lon="-48.4233302" version="2" timestamp="2022-06-20T15:59:13Z" changeset="122630412" uid="2339960" user="adrianojbr">
     <tag k="addr:city" v="Florianópolis"/>
@@ -36158,19 +35930,6 @@
     <tag k="swimming_pool" v="no"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="9961635885" lat="45.7915148" lon="12.8154246" version="3" timestamp="2023-04-08T10:52:47Z" changeset="134647379" uid="14617702" user="Đuro Jiří">
-    <tag k="addr:city" v="Portogruaro"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:postcode" v="30026"/>
-    <tag k="addr:street" v="Via Prati Guori"/>
-    <tag k="addr:unit" v="12"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Nuvolari"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0421 280343"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="https://www.nuvolari.biz/"/>
-  </node>
   <node id="10039003299" lat="40.4012607" lon="-3.6862251" version="2" timestamp="2022-12-26T22:46:31Z" changeset="130533402" uid="71626" user="Almorca">
     <tag k="addr:housenumber" v="9"/>
     <tag k="addr:street" v="Calle de Méndez Álvaro"/>
@@ -36395,220 +36154,6 @@
     <tag k="smoking" v="no"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.portobellocafesi.com/"/>
-  </node>
-  <node id="10788155081" lat="45.6205028" lon="9.4737745" version="1" timestamp="2023-04-05T14:54:46Z" changeset="134542524" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Busnago"/>
-    <tag k="addr:housenumber" v="197"/>
-    <tag k="addr:postcode" v="20874"/>
-    <tag k="addr:street" v="Via Italia"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0396956928"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788157214" lat="45.8174591" lon="8.8272516" version="1" timestamp="2023-04-05T14:33:56Z" changeset="134541794" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Varese"/>
-    <tag k="addr:housenumber" v="5/7"/>
-    <tag k="addr:postcode" v="21100"/>
-    <tag k="addr:street" v="Corso Aldo Moro"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0332483636"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788250052" lat="44.1581639" lon="12.4294307" version="1" timestamp="2023-04-05T15:26:25Z" changeset="134543616" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Savignano sul Rubicone"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:postcode" v="47039"/>
-    <tag k="addr:street" v="piazza colombo"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0541347999"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788254893" lat="43.9091098" lon="12.9115822" version="2" timestamp="2023-04-12T03:06:06Z" changeset="134796733" uid="123412" user="totera">
-    <tag k="addr:city" v="Pesaro"/>
-    <tag k="addr:housenumber" v="42"/>
-    <tag k="addr:postcode" v="61121"/>
-    <tag k="addr:street" v="Via Giovanni Branca"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Doppelgänger"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0721 31511"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788272290" lat="39.2450822" lon="9.1630070" version="1" timestamp="2023-04-05T16:20:45Z" changeset="134545565" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Quartucciu"/>
-    <tag k="addr:street" v="Via delle Serre"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788274868" lat="43.4615679" lon="11.8779497" version="1" timestamp="2023-04-05T15:42:34Z" changeset="134544137" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Arezzo"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:postcode" v="52100"/>
-    <tag k="addr:street" v="Piazza Risorgimento"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0575401343"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788303705" lat="43.1113520" lon="12.3885493" version="1" timestamp="2023-04-05T15:47:20Z" changeset="134544288" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Perugia"/>
-    <tag k="addr:housenumber" v="21/22"/>
-    <tag k="addr:postcode" v="06121"/>
-    <tag k="addr:street" v="Corso Vannucci"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0753753365"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788307405" lat="43.0999730" lon="12.3098532" version="1" timestamp="2023-04-05T15:50:41Z" changeset="134544393" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Corciano"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="06073"/>
-    <tag k="addr:street" v="Via Aldo Capitini"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0755173528"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788335322" lat="41.8693941" lon="12.4680789" version="1" timestamp="2023-04-05T16:15:34Z" changeset="134545396" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:postcode" v="00146"/>
-    <tag k="addr:street" v="Piazza della Radio"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="DOPPELGÄNGER"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="065583975"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788389507" lat="45.0554165" lon="7.6122450" version="1" timestamp="2023-04-05T16:52:21Z" changeset="134546659" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Grugliasco"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="10095"/>
-    <tag k="addr:street" v="Via Crea"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Nuvolari c.c. Le Gru"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0117079134"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788404140" lat="45.5191876" lon="9.1489041" version="1" timestamp="2023-04-05T17:01:55Z" changeset="134547005" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Novate Milanese"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="20026"/>
-    <tag k="addr:street" v="Via Carlo Amoretti"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Nuvolari c.c. Metropoli"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="023552337"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788484126" lat="45.5338749" lon="10.1645340" version="1" timestamp="2023-04-05T17:54:42Z" changeset="134548842" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Roncadelle"/>
-    <tag k="addr:postcode" v="25030"/>
-    <tag k="addr:street" v="Via Luigi Einaudi"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Nuvolari c.c. Elnòs"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0307827945"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788497657" lat="43.8469029" lon="11.1427246" version="1" timestamp="2023-04-05T18:09:19Z" changeset="134549334" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Campi Bisenzio"/>
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:postcode" v="50013"/>
-    <tag k="addr:street" v="Via San Quirico"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Nuvolari c.c. I Gigli"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0550458188"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788514140" lat="41.9706418" lon="12.5395634" version="1" timestamp="2023-04-05T18:12:48Z" changeset="134549446" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="201"/>
-    <tag k="addr:postcode" v="00139"/>
-    <tag k="addr:street" v="Via Alberto Lionello"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Nuvolari c.c. Porta di Roma"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0687070571"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788530937" lat="45.4059451" lon="10.9766609" version="1" timestamp="2023-04-05T18:03:49Z" changeset="134549159" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Verona"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="37135"/>
-    <tag k="addr:street" v="Viale delle Nazioni"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Nuvolari c.c. Adigeo"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0454571622"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788533053" lat="41.9578954" lon="12.5492675" version="1" timestamp="2023-04-05T18:16:08Z" changeset="134549517" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="99"/>
-    <tag k="addr:postcode" v="00137"/>
-    <tag k="addr:street" v="Via Dario Niccodemi"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Nuvolari Outlet Store c.c. Dima Shopping"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0687562458"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788548244" lat="41.9022135" lon="12.4380874" version="1" timestamp="2023-04-05T18:26:07Z" changeset="134549791" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="30"/>
-    <tag k="addr:postcode" v="00167"/>
-    <tag k="addr:street" v="Viale di Valle Aurelia"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Nuvolari c.c Aura"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0688976520"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788554735" lat="41.8508082" lon="12.5988331" version="1" timestamp="2023-04-05T18:33:02Z" changeset="134549985" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="00173"/>
-    <tag k="addr:street" v="Via Enrico Ferri"/>
-    <tag k="addr:unit" v="96"/>
-    <tag k="name" v="Nuvolari c.c. Romanina"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="067233530"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788561661" lat="41.8743954" lon="12.5230558" version="1" timestamp="2023-04-05T18:23:03Z" changeset="134549706" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="450"/>
-    <tag k="addr:postcode" v="00181"/>
-    <tag k="addr:street" v="Via Appia Nuova"/>
-    <tag k="name" v="Nuvolari c.c. Happio"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0687768218"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10788589036" lat="45.4467945" lon="8.5998451" version="1" timestamp="2023-04-05T18:50:01Z" changeset="134550433" uid="18452174" user="Chiarant">
-    <tag k="addr:city" v="Novara"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="28100"/>
-    <tag k="addr:street" v="Via Ugo Porzio Giovanola"/>
-    <tag k="clothes" v="men"/>
-    <tag k="name" v="Nuvolari"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="03211835619"/>
-    <tag k="shop" v="clothes"/>
   </node>
   <node id="10840032354" lat="45.7261155" lon="9.2858882" version="1" timestamp="2023-04-25T16:17:03Z" changeset="135350936" uid="28559" user="Stemby">
     <tag k="addr:housenumber" v="4"/>
