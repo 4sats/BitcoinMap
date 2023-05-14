@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-13T05:22:38Z"/>
+<meta osm_base="2023-05-14T05:22:23Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -36195,19 +36195,19 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+221 366 55 55"/>
   </node>
-  <node id="10888611330" lat="-1.3981483" lon="-78.4244433" version="1" timestamp="2023-05-12T02:32:53Z" changeset="135998813" uid="18986320" user="SMERINO13">
-    <tag k="addr:city" v="Baños de Agua Santa"/>
-    <tag k="addr:postcode" v="180301"/>
-    <tag k="addr:street" v="Oscar Efren Reyes"/>
-    <tag k="name" v="Bloom Cannabis Shop"/>
-    <tag k="opening_hours" v="We-Mo 10:00-20:00"/>
-    <tag k="operator" v="Santiago M"/>
+  <node id="10893197102" lat="41.5626481" lon="-8.4221938" version="1" timestamp="2023-05-13T12:18:06Z" changeset="136050928" uid="17322349" user="btcpt">
+    <tag k="addr:city" v="Braga"/>
+    <tag k="addr:postcode" v="4700-003"/>
+    <tag k="addr:street" v="R. Q.ta de Cabanas"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="male" v="yes"/>
+    <tag k="name" v="FG Male Image &amp; Grooming"/>
+    <tag k="opening_hours" v="Tu-Fr 10:00-13:00, 14:30-20:00, Sa 10:00-13:00, 14:30-19:00"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="+593 (099) 501-8412"/>
-    <tag k="shop" v="cannabis"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+351 912859229"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="website" v="https://fgmaleimage.pt/"/>
   </node>
 
 </osm>
