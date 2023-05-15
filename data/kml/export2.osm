@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-14T05:22:23Z"/>
+<meta osm_base="2023-05-15T05:23:53Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -2136,20 +2136,6 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="phone" v="+39 0444 149 60 12"/>
     <tag k="website" v="https://hiperz.com/"/>
-  </node>
-  <node id="2543973526" lat="55.6801316" lon="12.5761475" version="11" timestamp="2022-02-21T17:47:36Z" changeset="117693157" uid="1288" user="Niels Elgaard Larsen">
-    <tag k="age_limit" v="23"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="fvst:navnelbnr" v="732139"/>
-    <tag k="name" v="The Jane"/>
-    <tag k="note" v="15% discount on all cocktails!"/>
-    <tag k="opening_hours" v="Th 20:00+; Fr 16:00+; Sa 20:00+"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+45 69 69 60 00"/>
-    <tag k="ref:DK:cvr" v="35485708"/>
-    <tag k="ref:DK:cvr:pnummer" v="1022243507"/>
-    <tag k="website" v="https://www.thejane.dk/"/>
-    <tag k="yelp" v="http://www.yelp.com/biz/the-jane-k%C3%B8benhavn-k"/>
   </node>
   <node id="2544296731" lat="39.5227049" lon="-119.8130128" version="3" timestamp="2017-07-01T02:11:21Z" changeset="49957001" uid="5486069" user="Phil O'D">
     <tag k="addr:city" v="Reno"/>
@@ -7651,16 +7637,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+61 7 3390 2551"/>
     <tag k="website" v="https://www.lushturfsolutions.com.au/"/>
-  </node>
-  <node id="2680574381" lat="-27.4121474" lon="153.0620146" version="4" timestamp="2020-08-06T08:35:03Z" changeset="89025176" uid="4637308" user="nuklearelement">
-    <tag k="addr:postcode" v="4011"/>
-    <tag k="addr:street" v="Wongara Street"/>
-    <tag k="addr:suburb" v="Clayfield"/>
-    <tag k="name" v="Budget Shower Screens"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone:AU" v="1300 727 791"/>
-    <tag k="website" v="http://budgetshowerscreensbrisbane.com.au/"/>
   </node>
   <node id="2680719503" lat="47.5589659" lon="7.5704495" version="3" timestamp="2014-09-24T07:22:11Z" changeset="25639266" uid="263583" user="copilot">
     <tag k="addr:city" v="Basel"/>
@@ -19931,7 +19907,7 @@
     <tag k="phone" v="+36 1 317 4757;+36 1 266 4154"/>
     <tag k="website" v="https://darabanth.hu/"/>
   </node>
-  <node id="3405475570" lat="42.6618396" lon="23.2999158" version="4" timestamp="2019-03-23T23:32:10Z" changeset="68457877" uid="9451067" user="b-jazz-bot">
+  <node id="3405475570" lat="42.6618396" lon="23.2999158" version="5" timestamp="2023-05-14T06:08:04Z" changeset="136073062" uid="150201" user="plamen">
     <tag k="addr:city" v="София"/>
     <tag k="addr:housenumber" v="46"/>
     <tag k="addr:postcode" v="1404"/>
@@ -19940,7 +19916,7 @@
     <tag k="note" v="SEO company"/>
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+359888111661"/>
+    <tag k="phone" v="+359 88 811 1661"/>
     <tag k="website" v="https://www.cloxy.com/"/>
   </node>
   <node id="3405475951" lat="42.6616877" lon="23.2998701" version="2" timestamp="2015-03-18T21:26:29Z" changeset="29580102" uid="417398" user="saintam1">
@@ -21985,7 +21961,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="anime"/>
   </node>
-  <node id="3809340119" lat="-30.0346236" lon="-51.2087887" version="6" timestamp="2023-05-10T15:09:12Z" changeset="135940837" uid="19065181" user="Lenda Cripto">
+  <node id="3809340119" lat="-30.0346236" lon="-51.2087887" version="7" timestamp="2023-05-14T11:48:57Z" changeset="136081885" uid="19065181" user="Lenda Cripto">
     <tag k="addr:city" v="Porto Alegre"/>
     <tag k="addr:housenumber" v="72"/>
     <tag k="addr:street" v="Rua Bento Figueiredo"/>
@@ -21998,7 +21974,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="phone" v="+55 51 3062-5045"/>
     <tag k="survey_date" v="2023-05-10"/>
   </node>
@@ -36194,20 +36170,6 @@
     <tag k="operator" v="Mama Bitcoin"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+221 366 55 55"/>
-  </node>
-  <node id="10893197102" lat="41.5626481" lon="-8.4221938" version="1" timestamp="2023-05-13T12:18:06Z" changeset="136050928" uid="17322349" user="btcpt">
-    <tag k="addr:city" v="Braga"/>
-    <tag k="addr:postcode" v="4700-003"/>
-    <tag k="addr:street" v="R. Q.ta de Cabanas"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="male" v="yes"/>
-    <tag k="name" v="FG Male Image &amp; Grooming"/>
-    <tag k="opening_hours" v="Tu-Fr 10:00-13:00, 14:30-20:00, Sa 10:00-13:00, 14:30-19:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+351 912859229"/>
-    <tag k="shop" v="hairdresser"/>
-    <tag k="website" v="https://fgmaleimage.pt/"/>
   </node>
 
 </osm>
