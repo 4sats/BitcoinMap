@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-15T05:23:53Z"/>
+<meta osm_base="2023-05-16T05:22:39Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -2395,18 +2395,6 @@
     <tag k="name" v="Exante"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://exante.eu/"/>
-  </node>
-  <node id="2556093572" lat="42.6977145" lon="23.3052991" version="8" timestamp="2023-05-12T14:55:38Z" changeset="136022379" uid="150201" user="plamen">
-    <tag k="addr:floor" v="2"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="capacity" v="100"/>
-    <tag k="contact:facebook" v="https://facebook.com/mytaste"/>
-    <tag k="contact:phone" v="+359 899 122 878"/>
-    <tag k="cuisine" v="european, soul_food, italian, pizza"/>
-    <tag k="name" v="My Taste"/>
-    <tag k="name:bg" v="Май Тейст"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="wheelchair" v="no"/>
   </node>
   <node id="2556132735" lat="32.0684702" lon="34.7662864" version="7" timestamp="2022-11-20T14:08:05Z" changeset="129157748" uid="77904" user="Kristjan ESPERANTO">
     <tag k="addr:city" v="Tel Aviv"/>
@@ -11252,18 +11240,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://asianabiztro.menufy.com/"/>
   </node>
-  <node id="2788989513" lat="32.0635691" lon="34.7716521" version="5" timestamp="2023-03-19T22:40:11Z" changeset="133876548" uid="4221879" user="davidmguest">
-    <tag k="addr:city" v="תל אביב"/>
-    <tag k="addr:housenumber" v="61"/>
-    <tag k="addr:postcode" v="65252"/>
-    <tag k="addr:street" v="נחלת בנימין"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="regional"/>
-    <tag k="name" v="Falafel Loop - Coin Commerce"/>
-    <tag k="name:en" v="Falafel Loop - Coin Commerce"/>
-    <tag k="name:he" v="פלאפל לופ"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="2788992718" lat="33.1512463" lon="-96.8257282" version="3" timestamp="2019-10-24T16:02:44Z" changeset="76164388" uid="224610" user="stangoodman">
     <tag k="addr:housenumber" v="6842"/>
     <tag k="addr:street" v="Main Street"/>
@@ -12091,17 +12067,6 @@
     <tag k="shop" v="furniture"/>
     <tag k="website" v="http://www.RusticRefinery.com/"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="2842909721" lat="43.9035776" lon="7.9468955" version="3" timestamp="2021-06-23T19:25:13Z" changeset="106857352" uid="11220113" user="ivanbranco">
-    <tag k="addr:city" v="Dolcedo"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:postcode" v="18020"/>
-    <tag k="addr:street" v="Via Santa Brigida"/>
-    <tag k="name" v="MagWm OlivOlio"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0183 280 281"/>
-    <tag k="shop" v="farm"/>
-    <tag k="website" v="http://www.olijfolie.it"/>
   </node>
   <node id="2843713235" lat="44.5593867" lon="8.9734036" version="7" timestamp="2017-10-28T11:17:18Z" changeset="53315310" uid="893327" user="mcheckimport">
     <tag k="addr:city" v="Savignone"/>
@@ -19907,18 +19872,6 @@
     <tag k="phone" v="+36 1 317 4757;+36 1 266 4154"/>
     <tag k="website" v="https://darabanth.hu/"/>
   </node>
-  <node id="3405475570" lat="42.6618396" lon="23.2999158" version="5" timestamp="2023-05-14T06:08:04Z" changeset="136073062" uid="150201" user="plamen">
-    <tag k="addr:city" v="София"/>
-    <tag k="addr:housenumber" v="46"/>
-    <tag k="addr:postcode" v="1404"/>
-    <tag k="addr:street" v="Деян Белишки"/>
-    <tag k="name" v="Cloxy"/>
-    <tag k="note" v="SEO company"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+359 88 811 1661"/>
-    <tag k="website" v="https://www.cloxy.com/"/>
-  </node>
   <node id="3405475951" lat="42.6616877" lon="23.2998701" version="2" timestamp="2015-03-18T21:26:29Z" changeset="29580102" uid="417398" user="saintam1">
     <tag k="addr:city" v="София"/>
     <tag k="addr:housenumber" v="46"/>
@@ -21961,23 +21914,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="anime"/>
   </node>
-  <node id="3809340119" lat="-30.0346236" lon="-51.2087887" version="7" timestamp="2023-05-14T11:48:57Z" changeset="136081885" uid="19065181" user="Lenda Cripto">
-    <tag k="addr:city" v="Porto Alegre"/>
-    <tag k="addr:housenumber" v="72"/>
-    <tag k="addr:street" v="Rua Bento Figueiredo"/>
-    <tag k="addr:suburb" v="Bom Fim"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="craft" v="brewery"/>
-    <tag k="description" v="Pub moderno tem comidinhas como as Almôndegas From Hell, cervejas de fabricação própria e da região e cursos."/>
-    <tag k="name" v="Lagom Brewpub"/>
-    <tag k="opening_hours" v="18:00-23:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="phone" v="+55 51 3062-5045"/>
-    <tag k="survey_date" v="2023-05-10"/>
-  </node>
   <node id="3823773807" lat="-23.2274437" lon="-45.9235588" version="9" timestamp="2022-12-27T20:08:18Z" changeset="130572173" uid="1799626" user="AjBelnuovo">
     <tag k="addr:city" v="São José dos Campos"/>
     <tag k="addr:housenumber" v="2030"/>
@@ -23444,36 +23380,6 @@
     <tag k="phone" v="+39 3288216176"/>
     <tag k="shop" v="massage"/>
     <tag k="website" v="http://www.fisiom.it"/>
-  </node>
-  <node id="4610125386" lat="47.1390768" lon="7.2453205" version="9" timestamp="2020-04-18T11:44:32Z" changeset="83740206" uid="616774" user="mueschel">
-    <tag k="addr:city" v="Biel/Bienne"/>
-    <tag k="addr:country" v="CH"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:postcode" v="2502"/>
-    <tag k="addr:street" v="Eisengasse"/>
-    <tag k="addr:street:fr" v="Rue du Fer"/>
-    <tag k="amenity" v="dentist"/>
-    <tag k="building" v="yes"/>
-    <tag k="description" v="Zahnarztpraxis Dr. Matthias Nötzel Zahnarzt und Oralchirurg SSO  Medizinische Zentrum Biel MZB Apollonia Dental AG"/>
-    <tag k="ele" v="434"/>
-    <tag k="email" v="info@zahnarzt-noetzel.ch"/>
-    <tag k="emergency" v="yes"/>
-    <tag k="employee" v="Dr. Iris Perrot; Dr. Matthias Fabian"/>
-    <tag k="fax" v="+41 32 344 46 35"/>
-    <tag k="healthcare" v="dentist"/>
-    <tag k="healthcare:speciality" v="dentist;surgery"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="name" v="Zahnarztpraxis Dr. Matthias Nötzel"/>
-    <tag k="opening_hours" v="Mo-Fr 08:00-20:00"/>
-    <tag k="operator" v="Dr. Matthias Nötzel"/>
-    <tag k="operator:type" v="business"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="phone" v="+41 32 344 46 95"/>
-    <tag k="website" v="http://www.zahnarzt-noetzel.ch"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4626622590" lat="45.9925581" lon="11.3143079" version="5" timestamp="2021-06-30T16:42:38Z" changeset="107218913" uid="175702" user="AxelBoldt">
     <tag k="addr:city" v="Levico Terme"/>
@@ -28249,23 +28155,6 @@
     <tag k="smoking" v="separated"/>
     <tag k="website" v="https://argocrew.io"/>
   </node>
-  <node id="5606464710" lat="42.6923389" lon="23.3059656" version="5" timestamp="2023-05-12T14:55:38Z" changeset="136022379" uid="150201" user="plamen">
-    <tag k="addr:city" v="София"/>
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:postcode" v="1606"/>
-    <tag k="addr:street" v="Дамян Груев"/>
-    <tag k="contact:phone" v="0889 52 578 91606"/>
-    <tag k="email" v="ruski@jarcomputers.com"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="ЖАР Компютърс-Руски паметник"/>
-    <tag k="name:bg" v="Жар Компютърс"/>
-    <tag k="name:en" v="Jar Computers"/>
-    <tag k="opening_hours" v="Mo-Fr 12:00-18:30"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="https://jarcomputers.com/"/>
-  </node>
   <node id="5609470204" lat="41.0078369" lon="28.9734970" version="3" timestamp="2018-05-10T13:32:55Z" changeset="58850928" uid="8250379" user="Selcuk Vardar">
     <tag k="addr:city" v="Istanbul"/>
     <tag k="addr:district" v="Fatih"/>
@@ -28940,19 +28829,6 @@
     <tag k="office" v="therapist"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3203545083"/>
-  </node>
-  <node id="5779529274" lat="45.5357920" lon="11.5135330" version="1" timestamp="2018-07-23T15:51:57Z" changeset="60992073" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Vicenza"/>
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:postcode" v="36100"/>
-    <tag k="addr:street" v="Via Benedetto Marcello"/>
-    <tag k="description" v="Realizziamo internamente insegne, totem, decorazioni automezzi, marketing digitale e tanto altro ancora. Siamo sul territorio dal 1947 e aiutiamo i nostri clienti a sviluppare la loro immagine."/>
-    <tag k="email" v="massimo@leodari.com"/>
-    <tag k="name" v="Leodari Pubblicità s.r.l."/>
-    <tag k="office" v="advertising_agency"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0444962233"/>
-    <tag k="website" v="http://www.leodari.com"/>
   </node>
   <node id="5779542513" lat="44.1935230" lon="12.4118290" version="1" timestamp="2018-07-23T15:58:11Z" changeset="60992236" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Cesenatico"/>
@@ -32606,20 +32482,6 @@
     <tag k="phone" v="+37064036888"/>
     <tag k="tourism" v="gallery"/>
     <tag k="website" v="https://www.paveikslai.lt"/>
-  </node>
-  <node id="7917968309" lat="36.1453971" lon="-86.7666829" version="3" timestamp="2023-05-04T18:42:21Z" changeset="135713103" uid="10438802" user="joeycast">
-    <tag k="addr:city" v="Nashville"/>
-    <tag k="addr:housenumber" v="1132"/>
-    <tag k="addr:postcode" v="37210"/>
-    <tag k="addr:state" v="TN"/>
-    <tag k="addr:street" v="4th Avenue South"/>
-    <tag k="description" v="Bitcoin Magazine Art Gallery (BMAG) is a display space and storefront featuring Bitcoin-related clothing, hardware, and the print edition of Bitcoin Magazine, while the art gallery features exclusive visuals from the leading creatives in the Bitcoin space"/>
-    <tag k="name" v="Bitcoin Magazine Art Gallery"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="website" v="https://bitcoinmagazine.com/press-releases/bitcoin-magazine-art-gallery-opening"/>
   </node>
   <node id="7930589634" lat="48.9427932" lon="38.4906156" version="7" timestamp="2023-03-03T23:21:42Z" changeset="133273419" uid="1538111" user="avinet_ua">
     <tag k="amenity" v="car_wash"/>
