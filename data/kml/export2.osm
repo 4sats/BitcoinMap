@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-18T05:22:54Z"/>
+<meta osm_base="2023-05-19T05:23:14Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -2311,12 +2311,13 @@
     <tag k="shop" v="lighting"/>
     <tag k="website" v="http://www.amaralighting.com/"/>
   </node>
-  <node id="2553901934" lat="46.0528312" lon="14.5048333" version="6" timestamp="2014-06-13T15:17:50Z" changeset="22910541" uid="2119802" user="Leo Club Ljubljana">
+  <node id="2553901934" lat="46.0528312" lon="14.5048333" version="7" timestamp="2023-05-18T21:10:10Z" changeset="136272829" uid="380490" user="mlz">
     <tag k="addr:city" v="Ljubljana"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="1000"/>
     <tag k="addr:street" v="Nazorjeva ulica"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2023-05-18"/>
     <tag k="cuisine" v="italian;international"/>
     <tag k="name" v="Restavracija Allegria"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -10313,20 +10314,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="559-343-3188"/>
     <tag k="website" v="http://www.natisasboardinghouse.com"/>
-  </node>
-  <node id="2759703966" lat="25.7906207" lon="-80.1407092" version="4" timestamp="2020-06-21T09:24:02Z" changeset="86929905" uid="586204" user="Net-net">
-    <tag k="addr:city" v="Miami Beach"/>
-    <tag k="addr:housenumber" v="1111"/>
-    <tag k="addr:postcode" v="33139"/>
-    <tag k="addr:state" v="FL"/>
-    <tag k="addr:street" v="Lincoln Road"/>
-    <tag k="addr:unit" v="400"/>
-    <tag k="amenity" v="car_rental"/>
-    <tag k="description" v="Ferrari, Lamborghini, Rolls-Royce, Porsche, Bugatti, Cadillac and Bentley rentals. Rentals include full orientation and 24/7 customer care. Private drivers are available."/>
-    <tag k="name" v="Miami Exotic Car Rentals"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1 305 240 8501"/>
-    <tag k="website" v="http://miamiexoticcarrentals.me/"/>
   </node>
   <node id="2760034578" lat="33.7013886" lon="-117.9151513" version="2" timestamp="2014-04-02T04:37:38Z" changeset="21450401" uid="2013011" user="eCoinduit">
     <tag k="addr:city" v="Santa Ana"/>
@@ -19611,14 +19598,14 @@
     <tag k="shop" v="jewelry"/>
     <tag k="website" v="http://www.graphi-ko.com/"/>
   </node>
-  <node id="3401917653" lat="42.8083296" lon="23.0065545" version="3" timestamp="2019-03-20T17:12:38Z" changeset="68345277" uid="9451067" user="b-jazz-bot">
+  <node id="3401917653" lat="42.8083296" lon="23.0065545" version="4" timestamp="2023-05-18T13:48:08Z" changeset="136256516" uid="150201" user="plamen">
     <tag k="addr:city" v="Гълъбовци"/>
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:postcode" v="2223"/>
     <tag k="addr:street" v="капитан Атанас Узунов"/>
     <tag k="name" v="Къща за гости ВиП"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+359 896 72 72 77"/>
+    <tag k="phone" v="+359 89 672 7277"/>
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="https://www.villavip.eu/"/>
   </node>
@@ -35674,6 +35661,68 @@
     <tag k="operator" v="Mama Bitcoin"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+221 366 55 55"/>
+  </node>
+  <node id="10892005639" lat="21.2947598" lon="-157.8416280" version="7" timestamp="2023-05-18T10:38:19Z" changeset="136248361" uid="5178410" user="Th3Roomi3">
+    <tag k="addr:city" v="Honolulu"/>
+    <tag k="addr:housenumber" v="661"/>
+    <tag k="addr:postcode" v="96814"/>
+    <tag k="addr:state" v="HI"/>
+    <tag k="addr:street" v="Keeaumoku Street"/>
+    <tag k="addr:unit" v="102"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="bitcoin atm" v="Buy/Sell"/>
+    <tag k="cuisine" v="peruvian"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Serving classic Peruvian dishes in Hawaii"/>
+    <tag k="diet:beef" v="yes"/>
+    <tag k="diet:chicken" v="yes"/>
+    <tag k="diet:fries" v="yes"/>
+    <tag k="diet:local" v="yes"/>
+    <tag k="diet:omnivore" v="yes"/>
+    <tag k="diet:salad" v="yes"/>
+    <tag k="diet:seafood" v="yes"/>
+    <tag k="diet:soup" v="yes"/>
+    <tag k="diet:spicy" v="yes"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="highchair" v="yes"/>
+    <tag k="name" v="Mimi's Peruvian Cuisine"/>
+    <tag k="opening_hours" v="Mo-Th 12:00-20:00 Fr-Sa 12:00-21:00"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:apple_pay" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bitcoincash" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cash_app" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:dogecoin" v="yes"/>
+    <tag k="payment:jcb" v="yes"/>
+    <tag k="payment:litecoin" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_debit" v="yes"/>
+    <tag k="phone" v="(808) 542-9019"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="MimisPeruvianCuisine.com"/>
+    <tag k="website:menu" v="MimisDeliveryService.Square.site"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10909234230" lat="44.0039047" lon="12.4325220" version="1" timestamp="2023-05-18T20:05:14Z" changeset="136271631" uid="19310718" user="Dalila&amp;Sansone">
+    <tag k="addr:city" v="Villa Verucchio"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="47826"/>
+    <tag k="addr:street" v="Piazza Europa"/>
+    <tag k="name" v="Bio Market"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="supermarket"/>
   </node>
 
 </osm>
