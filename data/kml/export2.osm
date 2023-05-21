@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-20T05:22:50Z"/>
+<meta osm_base="2023-05-21T05:22:22Z"/>
 
   <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
     <tag k="addr:conscriptionnumber" v="954"/>
@@ -151,6 +151,25 @@
     <tag k="source:addr" v="uir_adr"/>
     <tag k="uir_adr:ADRESA_KOD" v="22021752"/>
     <tag k="website" v="https://www.kaktusy.cz/eshop"/>
+  </node>
+  <node id="415608846" lat="48.8023557" lon="16.6333709" version="4" timestamp="2023-05-20T21:10:32Z" changeset="136353395" uid="19331620" user="Mirekczk">
+    <tag k="addr:city" v="Mikulov"/>
+    <tag k="addr:conscriptionnumber" v="987"/>
+    <tag k="addr:country" v="CZ"/>
+    <tag k="addr:housenumber" v="987/28"/>
+    <tag k="addr:place" v="Mikulov"/>
+    <tag k="addr:postcode" v="69201"/>
+    <tag k="addr:street" v="Piaristů"/>
+    <tag k="addr:streetnumber" v="28"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="burger;coffee_shop;hot_dog;ice_cream;juice;chocolate"/>
+    <tag k="description" v="Bistro, cafee, snack and so on"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Bistro Na rohu"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="ref:ruian:addr" v="15309533"/>
+    <tag k="survey:date" v="2023-05-01"/>
   </node>
   <node id="569950096" lat="25.0181253" lon="121.5745838" version="12" timestamp="2019-10-25T14:25:43Z" changeset="76213490" uid="274857" user="Supaplex">
     <tag k="addr:city" v="台北市"/>
@@ -2348,7 +2367,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2555939270" lat="33.5422597" lon="-112.2005491" version="3" timestamp="2021-11-25T23:57:59Z" changeset="114241503" uid="1330847" user="TheDutchMan13">
+  <node id="2555939270" lat="33.5422597" lon="-112.2005491" version="4" timestamp="2023-05-21T04:00:33Z" changeset="136358162" uid="11303102" user="watmildon">
     <tag k="addr:city" v="Glendale"/>
     <tag k="addr:housenumber" v="6528"/>
     <tag k="addr:postcode" v="85301"/>
@@ -2357,7 +2376,7 @@
     <tag k="landuse" v="retail"/>
     <tag k="name" v="AmeriCam"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="esri/USA_NAD_Addresses"/>
+    <tag k="source" v="esri/USA_NAD_Addresses;esri_USDOT_Arizona"/>
     <tag k="website" v="http://www.INeedCameras.com"/>
   </node>
   <node id="2556036017" lat="35.9220372" lon="14.4919582" version="2" timestamp="2013-11-30T19:03:46Z" changeset="19199309" uid="28559" user="Stemby">
@@ -11612,18 +11631,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="website" v="https://cryptothrift.com/"/>
-  </node>
-  <node id="2825814692" lat="34.0648167" lon="-117.4474203" version="2" timestamp="2019-05-27T15:09:43Z" changeset="70665285" uid="8339" user="mtmail">
-    <tag k="addr:city" v="Fontana"/>
-    <tag k="addr:housenumber" v="16357"/>
-    <tag k="addr:postcode" v="92337"/>
-    <tag k="addr:state" v="CA"/>
-    <tag k="addr:street" v="Boyle Avenue"/>
-    <tag k="name" v="ArmandoAyudame"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1 951 289 0399"/>
-    <tag k="website" v="http://armandoayudame.com/"/>
   </node>
   <node id="2825818401" lat="34.0028707" lon="-118.4846815" version="3" timestamp="2019-05-27T14:55:06Z" changeset="70664882" uid="8339" user="mtmail">
     <tag k="addr:city" v="Santa Monica"/>
@@ -23020,17 +23027,6 @@
     <tag k="website" v="http://www.vintagebakery.it"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="4553697792" lat="45.4378688" lon="10.9958258" version="2" timestamp="2022-05-26T16:46:25Z" changeset="121536615" uid="16100753" user="Stefano Marchiori">
-    <tag k="addr:city" v="Verona"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="37121"/>
-    <tag k="addr:street" v="Via Orti Manara"/>
-    <tag k="description" v="Dottori Commercialisti &amp; Revisori legali"/>
-    <tag k="name" v="Studio Marchiori STP"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.studiomarchiori.com/"/>
-  </node>
   <node id="4567931492" lat="34.0377071" lon="-84.4577348" version="5" timestamp="2020-06-22T13:03:31Z" changeset="86982331" uid="1624486" user="thetornado76">
     <tag k="healthcare" v="alternative"/>
     <tag k="healthcare:speciality" v="chiropractic"/>
@@ -28655,18 +28651,6 @@
     <tag k="shop" v="e-cigarette"/>
     <tag k="website" v="http://www.cloud99vapes.com"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="5915885012" lat="43.4542070" lon="11.8750630" version="1" timestamp="2018-09-19T11:23:14Z" changeset="62726596" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Arezzo"/>
-    <tag k="addr:housenumber" v="80/84"/>
-    <tag k="addr:postcode" v="52100"/>
-    <tag k="addr:street" v="Via Arno"/>
-    <tag k="description" v="Libri nuovi e usati, testi scolastici."/>
-    <tag k="email" v="info@lennyb.it"/>
-    <tag k="name" v="LennyB"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 338 6693407"/>
-    <tag k="shop" v="books"/>
   </node>
   <node id="5915909383" lat="43.3364200" lon="11.9226550" version="1" timestamp="2018-09-19T11:38:51Z" changeset="62727234" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Castiglion Fiorentino"/>
@@ -34463,6 +34447,17 @@
     <tag k="source" v="local knowledge;survey;gps;streetlevel imagery;osm notes"/>
     <tag k="start_date" v="2021-12-24"/>
   </node>
+  <node id="9483808945" lat="45.4358531" lon="12.3351141" version="2" timestamp="2023-05-20T11:10:48Z" changeset="136332657" uid="17038371" user="bitcoininvenice">
+    <tag k="addr:city" v="Venezia"/>
+    <tag k="addr:housenumber" v="4590"/>
+    <tag k="addr:postcode" v="30124"/>
+    <tag k="addr:street" v="Campo San Luca"/>
+    <tag k="flag:type" v="municipal"/>
+    <tag k="name" v="Destination Venice"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 041 528 3547"/>
+    <tag k="shop" v="travel_agency"/>
+  </node>
   <node id="9496693490" lat="37.5701885" lon="14.9028701" version="3" timestamp="2023-03-06T23:08:22Z" changeset="133382597" uid="743479" user="fayor">
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="burger"/>
@@ -34841,12 +34836,13 @@
     <tag k="phone" v="+41 76 418 00 00"/>
     <tag k="website" v="https://skyworkimages.ch/"/>
   </node>
-  <node id="9724723243" lat="40.1864152" lon="44.5078828" version="3" timestamp="2022-07-22T18:47:20Z" changeset="123952195" uid="2985213" user="aslanosm">
+  <node id="9724723243" lat="40.1864152" lon="44.5078828" version="4" timestamp="2023-05-20T15:03:38Z" changeset="136341553" uid="5735399" user="batyrmastyr">
     <tag k="addr:city" v="Երևան"/>
     <tag k="addr:housenumber" v="12/13"/>
     <tag k="addr:postcode" v="0002"/>
     <tag k="addr:street" v="Սարյանի փողոց"/>
     <tag k="amenity" v="bureau_de_change"/>
+    <tag k="check_date" v="2023-05-20"/>
     <tag k="currency:EUR" v="yes"/>
     <tag k="currency:RUB" v="yes"/>
     <tag k="currency:USD" v="yes"/>
@@ -35581,6 +35577,35 @@
     <tag k="operator" v="Mama Bitcoin"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+221 366 55 55"/>
+  </node>
+  <node id="10892005639" lat="21.2947598" lon="-157.8416280" version="12" timestamp="2023-05-20T20:07:30Z" changeset="136351773" uid="19245962" user="Jankaro">
+    <tag k="addr:city" v="Honolulu"/>
+    <tag k="addr:housenumber" v="661"/>
+    <tag k="addr:postcode" v="96814"/>
+    <tag k="addr:state" v="HI"/>
+    <tag k="addr:street" v="Keeaumoku Street"/>
+    <tag k="addr:unit" v="102"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="peruvian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="description" v="Serving classic Peruvian dishes in Hawaii"/>
+    <tag k="highchair" v="yes"/>
+    <tag k="name" v="Mimi's Peruvian Cuisine"/>
+    <tag k="opening_hours" v="Mo-Th 12:00-20:00; Fr-Sa 12:00-21:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+1 (808) 542-9019"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://mimisperuviancuisine.com/"/>
+    <tag k="website:menu" v="https://mimisdeliveryservice.square.site/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="10909234230" lat="44.0039047" lon="12.4325220" version="1" timestamp="2023-05-18T20:05:14Z" changeset="136271631" uid="19310718" user="Dalila&amp;Sansone">
     <tag k="addr:city" v="Villa Verucchio"/>
