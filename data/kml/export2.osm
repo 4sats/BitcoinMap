@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-24T05:23:43Z"/>
+<meta osm_base="2023-05-25T05:22:53Z"/>
 
-  <node id="296660855" lat="50.1011627" lon="14.4233285" version="6" timestamp="2017-02-22T14:27:36Z" changeset="46308901" uid="519501" user="parukhin">
-    <tag k="addr:conscriptionnumber" v="954"/>
-    <tag k="addr:housenumber" v="954/27"/>
-    <tag k="addr:postcode" v="17000"/>
-    <tag k="addr:street" v="Ovenecká"/>
-    <tag k="addr:streetnumber" v="27"/>
-    <tag k="description" v="Opravy počítačů a servis PC Praha 7 Letná. Oprava notebooků, PC, laptopů, tabletů, telefonů všech značek. Odvirování, přeinstalace Win, záchrana dat, … DIAGNOSTIKA ZDARMA."/>
-    <tag k="name" v="Servis PC"/>
-    <tag k="office" v="it"/>
-    <tag k="opening_hours" v="7:30-22:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source:addr" v="uir_adr"/>
-    <tag k="uir_adr:ADRESA_KOD" v="22295976"/>
-    <tag k="website" v="http://servis-pocitacu-praha.webz.cz"/>
-  </node>
   <node id="296670580" lat="49.1776595" lon="16.6918088" version="7" timestamp="2020-10-03T23:19:41Z" changeset="91916711" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Brno"/>
     <tag k="addr:conscriptionnumber" v="550"/>
@@ -52,72 +37,6 @@
     <tag k="source:addr" v="uir_adr"/>
     <tag k="uir_adr:ADRESA_KOD" v="23300841"/>
     <tag k="website" v="http://salva-quardia.cz/"/>
-  </node>
-  <node id="296740330" lat="50.0718763" lon="14.4502330" version="3" timestamp="2022-03-30T07:54:38Z" changeset="119103203" uid="15443696" user="darkbark">
-    <tag k="addr:conscriptionnumber" v="400"/>
-    <tag k="addr:housenumber" v="400/112"/>
-    <tag k="addr:postcode" v="10100"/>
-    <tag k="addr:street" v="Francouzská"/>
-    <tag k="addr:streetnumber" v="112"/>
-    <tag k="lgbtq" v="welcome"/>
-    <tag k="name" v="Canadian Barbershop"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-19:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="phone" v="+420 723 384 249"/>
-    <tag k="shop" v="hairdresser"/>
-    <tag k="source:addr" v="uir_adr"/>
-    <tag k="uir_adr:ADRESA_KOD" v="22658777"/>
-    <tag k="website" v="https://www.thecanadianbarbershop.cz/"/>
-  </node>
-  <node id="296811331" lat="50.0998984" lon="14.4366270" version="10" timestamp="2022-09-02T14:58:01Z" changeset="125702752" uid="14509276" user="Fluffy Basil">
-    <tag k="addr:city" v="Praha 7"/>
-    <tag k="addr:conscriptionnumber" v="436"/>
-    <tag k="addr:housenumber" v="436/3"/>
-    <tag k="addr:place" v="Holešovice"/>
-    <tag k="addr:postcode" v="17000"/>
-    <tag k="addr:street" v="Pplk. Sochora"/>
-    <tag k="addr:streetnumber" v="3"/>
-    <tag k="currency:CZK" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:GBP" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="M0ST je maloobchodní kamenná prodejna na Praze 7, která se zaměřuje na vyhledávání, dovoz a prodej výrobků prémiové kvality, klademe důraz na osobní přístup a k našim zákazníkum rádi přistupujeme individuálně."/>
-    <tag k="email" v="info@m0st.cz"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="level" v="0"/>
-    <tag k="name" v="M0ST nápoje - beverages"/>
-    <tag k="opening_hours" v="Mo-Su 15:00-23:00"/>
-    <tag k="operator" v="Pavel Vojta"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+420775041561"/>
-    <tag k="ref:ruian:addr" v="22299297"/>
-    <tag k="shop" v="beverages"/>
-    <tag k="start_date" v="12.12.2018"/>
-    <tag k="website" v="http://www.m0st.cz"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="296816989" lat="50.0658333" lon="14.3588965" version="7" timestamp="2019-03-12T02:57:15Z" changeset="68045604" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:conscriptionnumber" v="393"/>
-    <tag k="addr:housenumber" v="393/55"/>
-    <tag k="addr:postcode" v="15000"/>
-    <tag k="addr:street" v="Nad zámečkem"/>
-    <tag k="addr:streetnumber" v="55"/>
-    <tag k="name" v="www.kaktusy.cz/eshop"/>
-    <tag k="note" v="kaktusy , cactus, kakteen , semena, seeds , samen"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+420607073070"/>
-    <tag k="source:addr" v="uir_adr"/>
-    <tag k="uir_adr:ADRESA_KOD" v="22021752"/>
-    <tag k="website" v="https://www.kaktusy.cz/eshop"/>
   </node>
   <node id="569950096" lat="25.0181253" lon="121.5745838" version="12" timestamp="2019-10-25T14:25:43Z" changeset="76213490" uid="274857" user="Supaplex">
     <tag k="addr:city" v="台北市"/>
@@ -379,35 +298,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="Ajuntament de Girona"/>
   </node>
-  <node id="833909042" lat="50.0805155" lon="14.4492276" version="10" timestamp="2020-01-13T15:41:49Z" changeset="79522878" uid="10604977" user="tula s">
-    <tag k="addr:city" v="Praha"/>
-    <tag k="addr:conscriptionnumber" v="1528"/>
-    <tag k="addr:country" v="CZ"/>
-    <tag k="addr:housenumber" v="1528/6"/>
-    <tag k="addr:place" v="Žižkov"/>
-    <tag k="addr:postcode" v="13000"/>
-    <tag k="addr:street" v="Škroupovo náměstí"/>
-    <tag k="addr:streetnumber" v="6"/>
-    <tag k="addr:suburb" v="Praha 3"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="diet:vegan" v="no"/>
-    <tag k="diet:vegetarian" v="yes"/>
-    <tag k="email" v="usadu@usadu.cz"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="U Sadu"/>
-    <tag k="opening_hours" v="Mo,Su 00:00-02:00,08:00-24:00; Tu-Sa 00:00-04:00,08:00-24:00"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoincash" v="yes"/>
-    <tag k="phone" v="+420 222 727 072"/>
-    <tag k="ref:ruian:addr" v="21783292"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="source:addr" v="cuzk:ruian"/>
-    <tag k="source:loc" v="survey"/>
-    <tag k="website" v="http://www.usadu.cz"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
   <node id="845150975" lat="-33.4222874" lon="-70.6121908" version="7" timestamp="2014-11-13T15:12:57Z" changeset="26758034" uid="30854" user="Julio_Costa_Zambelli">
     <tag k="addr:city" v="Providencia"/>
     <tag k="addr:country" v="CL"/>
@@ -500,32 +390,6 @@
     <tag k="phone" v="+1 727 896 2400"/>
     <tag k="takeaway" v="no"/>
     <tag k="website" v="https://www.400beachseafood.com/"/>
-  </node>
-  <node id="929809743" lat="49.9335938" lon="14.3165338" version="5" timestamp="2014-05-24T09:15:06Z" changeset="22519850" uid="1942179" user="CzechAddress">
-    <tag k="addr:conscriptionnumber" v="371"/>
-    <tag k="addr:country" v="CZ"/>
-    <tag k="addr:housenumber" v="371"/>
-    <tag k="addr:place" v="Všenory"/>
-    <tag k="addr:postcode" v="25231"/>
-    <tag k="addr:street" v="Karla Majera"/>
-    <tag k="amenity" v="kindergarten"/>
-    <tag k="name" v="Dětské Centrum Hobík (školka, kroužky)"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="ref:ruian:addr" v="6592813"/>
-    <tag k="website" v="http://www.svchobik.cz"/>
-  </node>
-  <node id="929935045" lat="49.9208226" lon="14.2364788" version="4" timestamp="2014-05-24T09:15:06Z" changeset="22519850" uid="1942179" user="CzechAddress">
-    <tag k="addr:conscriptionnumber" v="416"/>
-    <tag k="addr:country" v="CZ"/>
-    <tag k="addr:housenumber" v="416"/>
-    <tag k="addr:place" v="Lety"/>
-    <tag k="addr:postcode" v="25230"/>
-    <tag k="addr:street" v="Ve Škabrdli"/>
-    <tag k="name" v="gobit.cz - umožňuje přijímat platby v bitcoinech"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="ref:ruian:addr" v="25443569"/>
-    <tag k="website" v="http://gobit.cz"/>
   </node>
   <node id="936493437" lat="57.6549895" lon="11.9017638" version="5" timestamp="2017-12-28T13:00:26Z" changeset="54982622" uid="156646" user="archie">
     <tag k="addr:country" v="SE"/>
@@ -638,27 +502,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="department_store"/>
     <tag k="source" v="http://newsbtc.com/2014/03/10/pounce-teams-coinbase-allow-shopping-target-major-retailers-using-bitcoin/"/>
-  </node>
-  <node id="1097310478" lat="50.0864933" lon="14.4053164" version="7" timestamp="2023-04-04T11:07:02Z" changeset="134490482" uid="18405516" user="ペパ君">
-    <tag k="addr:city" v="Praha"/>
-    <tag k="addr:conscriptionnumber" v="291"/>
-    <tag k="addr:country" v="CZ"/>
-    <tag k="addr:housenumber" v="291/11"/>
-    <tag k="addr:place" v="Malá Strana"/>
-    <tag k="addr:postcode" v="11800"/>
-    <tag k="addr:street" v="Maltézské náměstí"/>
-    <tag k="addr:streetnumber" v="11"/>
-    <tag k="addr:suburb" v="Praha 1"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="regional"/>
-    <tag k="name" v="U Malířů"/>
-    <tag k="opening_hours" v="Mo-Fr 11:30-23:00; Sa,Su off"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+420 257 530 000"/>
-    <tag k="ref:ruian:addr" v="21697302"/>
-    <tag k="source:addr" v="cuzk:ruian"/>
-    <tag k="source:loc" v="survey"/>
-    <tag k="website" v="http://www.umaliru.cz/"/>
   </node>
   <node id="1230340912" lat="44.4947352" lon="11.3274549" version="5" timestamp="2018-07-25T11:48:30Z" changeset="61053483" uid="1462614" user="_Andrea_">
     <tag k="addr:city" v="Bologna"/>
@@ -1155,20 +998,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="ref:ruian:addr" v="3315703"/>
-  </node>
-  <node id="2130815868" lat="50.0392863" lon="14.3323303" version="4" timestamp="2014-12-14T11:20:44Z" changeset="27455334" uid="2519605" user="Pavel Reznicek">
-    <tag k="addr:conscriptionnumber" v="1326"/>
-    <tag k="addr:country" v="CZ"/>
-    <tag k="addr:housenumber" v="1326/15"/>
-    <tag k="addr:place" v="Stodůlky"/>
-    <tag k="addr:postcode" v="15500"/>
-    <tag k="addr:street" v="Rotavská"/>
-    <tag k="addr:streetnumber" v="15"/>
-    <tag k="brand" v="Administrative Service"/>
-    <tag k="name" v="JSV International Assistant Service"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="ref:ruian:addr" v="25742493"/>
   </node>
   <node id="2131651302" lat="47.6226867" lon="-122.3128920" version="12" timestamp="2023-01-12T20:47:17Z" changeset="131204349" uid="226159" user="michael_kirk">
     <tag k="addr:city" v="Seattle"/>
@@ -2378,22 +2207,6 @@
     <tag k="name" v="Francisco Cotano – Pintor"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://pintoresreus.com/"/>
-  </node>
-  <node id="2557279903" lat="50.1367424" lon="14.2770094" version="2" timestamp="2022-08-14T22:56:29Z" changeset="124906058" uid="181135" user="Manu1400">
-    <tag k="access" v="customers"/>
-    <tag k="addr:city" v="Tuchoměřice"/>
-    <tag k="addr:housename" v="Parkování u letiště Sky Parking"/>
-    <tag k="addr:housenumber" v="504"/>
-    <tag k="addr:postcode" v="252 67"/>
-    <tag k="addr:street" v="U Špejcharu"/>
-    <tag k="amenity" v="parking"/>
-    <tag k="capacity" v="200"/>
-    <tag k="fee" v="yes"/>
-    <tag k="name" v="Sky Parking"/>
-    <tag k="parking" v="surface"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+420 800 12 00 21"/>
-    <tag k="supervised" v="yes"/>
   </node>
   <node id="2557405033" lat="41.7495194" lon="-72.5005542" version="3" timestamp="2021-08-05T03:39:07Z" changeset="109172250" uid="11346295" user="jnighan">
     <tag k="craft" v="electronics_repair"/>
@@ -4255,13 +4068,6 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://www.facebook.com/KPCstudio"/>
-  </node>
-  <node id="2611958978" lat="50.0726474" lon="14.4091034" version="2" timestamp="2019-03-12T03:07:50Z" changeset="68045806" uid="9451067" user="b-jazz-bot">
-    <tag k="name" v="Biko Adventures"/>
-    <tag k="office" v="guide"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="sport" v="cycling"/>
-    <tag k="website" v="https://www.bikoadventures.com/"/>
   </node>
   <node id="2612189058" lat="40.8038243" lon="-73.9495698" version="3" timestamp="2019-05-29T15:21:33Z" changeset="70737703" uid="8339" user="mtmail">
     <tag k="addr:city" v="New York"/>
@@ -6621,20 +6427,6 @@
     <tag k="name" v="Renova Pele"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.renovapele.com.br/"/>
-  </node>
-  <node id="2657575731" lat="50.0775690" lon="14.4395939" version="9" timestamp="2019-03-12T19:26:32Z" changeset="68075110" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Praha 2"/>
-    <tag k="addr:conscriptionnumber" v="1008"/>
-    <tag k="addr:housenumber" v="1008/28"/>
-    <tag k="addr:postcode" v="12000"/>
-    <tag k="addr:street" v="Blanická"/>
-    <tag k="addr:streetnumber" v="28"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="email" v="pivnibar@blanicka28.cz"/>
-    <tag k="name" v="Pivní bar Blanická 28"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+420 603 378 681"/>
-    <tag k="website" v="https://www.abc.cz/firma/pivni-bar-blanicka-praha/"/>
   </node>
   <node id="2657973997" lat="37.6600170" lon="-77.5253505" version="2" timestamp="2022-01-22T18:35:34Z" changeset="116476506" uid="9509339" user="KenBaird01">
     <tag k="craft" v="photographer"/>
@@ -11277,22 +11069,6 @@
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-03-24"/>
   </node>
-  <node id="2820087192" lat="50.0882709" lon="14.4230578" version="6" timestamp="2015-11-04T14:47:23Z" changeset="35080396" uid="520239" user="Gutsycat">
-    <tag k="addr:city" v="Praha 1"/>
-    <tag k="addr:conscriptionnumber" v="626"/>
-    <tag k="addr:housenumber" v="626/9;9"/>
-    <tag k="addr:postcode" v="11000"/>
-    <tag k="addr:street" v="Týnská"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="name" v="Prague Siesta"/>
-    <tag k="opening_hours" v="10:00-22:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+420 727 937 998"/>
-    <tag k="smoking" v="separated"/>
-    <tag k="source:addr" v="survey"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="http://praguesiesta.com/"/>
-  </node>
   <node id="2820769032" lat="52.2375150" lon="4.8432779" version="1" timestamp="2014-04-27T14:02:17Z" changeset="21978097" uid="1994943" user="Plompy_BAG">
     <tag k="addr:city" v="Uithoorn"/>
     <tag k="addr:housenumber" v="35"/>
@@ -11371,18 +11147,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+421 948 301 293"/>
     <tag k="website" v="http://www.ham.sk/"/>
-  </node>
-  <node id="2825495249" lat="50.1261707" lon="14.3656867" version="6" timestamp="2017-07-01T17:47:20Z" changeset="49969783" uid="1942179" user="CzechAddress">
-    <tag k="addr:city" v="Praha"/>
-    <tag k="addr:conscriptionnumber" v="239"/>
-    <tag k="addr:housenumber" v="239"/>
-    <tag k="addr:place" v="Lysolaje"/>
-    <tag k="addr:postcode" v="16500"/>
-    <tag k="addr:street" v="Podholí"/>
-    <tag k="name" v="Lysolaje jedou na bitcoinech"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="ref:ruian:addr" v="25037722"/>
-    <tag k="website" v="http://chalupabohdasice.cz"/>
   </node>
   <node id="2825660858" lat="-33.6553753" lon="151.3194129" version="2" timestamp="2014-05-09T14:38:52Z" changeset="22232401" uid="28559" user="Stemby">
     <tag k="addr:city" v="Newport Beach"/>
@@ -15839,13 +15603,6 @@
     <tag k="phone" v="(0221) 482-2569"/>
     <tag k="website" v="http://alejandrosago.com.ar/"/>
   </node>
-  <node id="3125367590" lat="50.1314004" lon="14.2759822" version="3" timestamp="2018-05-07T08:03:36Z" changeset="58749597" uid="64876" user="Andreeeee">
-    <tag k="name" v="Svetalex Group SRO"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+420 777132002"/>
-    <tag k="website" v="http://littlewonderplus.com/"/>
-  </node>
   <node id="3129142503" lat="44.4934649" lon="11.3556118" version="3" timestamp="2019-10-30T14:54:29Z" changeset="76401071" uid="6572772" user="ArtemV95">
     <tag k="addr:city" v="Bologna"/>
     <tag k="addr:housenumber" v="71/B"/>
@@ -17763,18 +17520,6 @@
     <tag k="source" v="Bitcomp s.r.o."/>
     <tag k="website" v="https://www.bitcomat.cz/"/>
   </node>
-  <node id="3250290600" lat="50.1322462" lon="14.4176370" version="2" timestamp="2015-01-24T15:16:01Z" changeset="28374936" uid="748291" user="Prot D">
-    <tag k="addr:city" v="Praha 8"/>
-    <tag k="addr:housenumber" v="39"/>
-    <tag k="addr:postcode" v="18100"/>
-    <tag k="addr:street" v="Na Bendovce"/>
-    <tag k="name" v="Hodinovymanzelasyn.cz"/>
-    <tag k="note" v="Údržba bytového a domovního fondu. Přijímáme platby Bitcoinem."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+420 608334642"/>
-    <tag k="source" v="Bitcomp s.r.o."/>
-    <tag k="website" v="http://www.hodinovymanzelasyn.cz/"/>
-  </node>
   <node id="3254126579" lat="39.4959595" lon="-74.4608158" version="3" timestamp="2022-04-09T01:25:51Z" changeset="119489332" uid="12290" user="crystalwalrein">
     <tag k="addr:city" v="Smithville"/>
     <tag k="addr:housenumber" v="615"/>
@@ -17876,29 +17621,6 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="phone" v="+1 773 248 1667"/>
     <tag k="website" v="http://www.gatchicago.com"/>
-  </node>
-  <node id="3270328763" lat="50.0884875" lon="14.3961675" version="6" timestamp="2020-01-13T15:28:25Z" changeset="79522440" uid="10604977" user="tula s">
-    <tag k="addr:city" v="Praha"/>
-    <tag k="addr:conscriptionnumber" v="169"/>
-    <tag k="addr:country" v="CZ"/>
-    <tag k="addr:housenumber" v="169/6"/>
-    <tag k="addr:place" v="Hradčany"/>
-    <tag k="addr:postcode" v="11800"/>
-    <tag k="addr:street" v="Úvoz"/>
-    <tag k="addr:streetnumber" v="6"/>
-    <tag k="addr:suburb" v="Praha 1"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="email" v="czechino@gmail.com"/>
-    <tag k="facebook" v="https://www.facebook.com/kafeuzelenychkamen/"/>
-    <tag k="name" v="U zelených kamen"/>
-    <tag k="opening_hours" v="Mo-Su 11:00-19:00; Fr,Sa 11:00-20:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoincash" v="yes"/>
-    <tag k="phone" v="+420 776 282 226"/>
-    <tag k="ref:ruian:addr" v="21692017"/>
-    <tag k="source:addr" v="cuzk:ruian"/>
-    <tag k="source:loc" v="survey"/>
-    <tag k="website" v="http://www.uzelenychkamen.cz/"/>
   </node>
   <node id="3272870647" lat="54.6850644" lon="25.2812085" version="4" timestamp="2021-11-24T11:58:50Z" changeset="114163779" uid="290680" user="wheelmap_visitor">
     <tag k="addr:city" v="Vilnius"/>
@@ -19442,18 +19164,6 @@
     <tag k="phone" v="+61 2 6689 1111"/>
     <tag k="smoking" v="outside"/>
     <tag k="website" v="http://phoenixrisingcafe.net/"/>
-  </node>
-  <node id="3416103237" lat="50.0780129" lon="14.4151616" version="4" timestamp="2019-03-12T18:58:18Z" changeset="68074234" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Praha"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:postcode" v="11000"/>
-    <tag k="addr:street" v="Vojtěšská"/>
-    <tag k="name" v="Gabby's Place Apartment - short term rentals"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="+420773294232"/>
-    <tag k="tourism" v="apartment"/>
-    <tag k="website" v="https://www.gabbys.cz/"/>
   </node>
   <node id="3420414108" lat="28.4947597" lon="-81.3739854" version="2" timestamp="2016-04-03T10:40:13Z" changeset="38264445" uid="126806" user="JeopardyTempest">
     <tag k="addr:city" v="Orlando"/>
@@ -22902,20 +22612,6 @@
     <tag k="smoking" v="outside"/>
     <tag k="takeaway" v="yes"/>
   </node>
-  <node id="4705330070" lat="50.0719492" lon="14.4323945" version="3" timestamp="2017-02-25T17:02:50Z" changeset="46398104" uid="5385316" user="Alvapraha">
-    <tag k="addr:city" v="Praha 2"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="120 00"/>
-    <tag k="addr:street" v="Koubkova"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="email" v="alva.praha@gmail.com"/>
-    <tag k="name" v="ALVA"/>
-    <tag k="opening_hours" v="19:00 - 23:00"/>
-    <tag k="operator" v="Ales Vanicky"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="smoking" v="no"/>
-  </node>
   <node id="4711970784" lat="58.3592630" lon="7.5480640" version="5" timestamp="2022-07-14T05:31:25Z" changeset="123589881" uid="9224679" user="addr2osm">
     <tag k="description" v="Liberstad is a project to create Norway's first private city."/>
     <tag k="email" v="post@liberstad.com"/>
@@ -25709,14 +25405,9 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3355326426"/>
   </node>
-  <node id="5328954821" lat="38.1098850" lon="13.3662570" version="4" timestamp="2021-06-15T05:53:47Z" changeset="106372317" uid="6843036" user="Barrichello">
-    <tag k="addr:city" v="Palermo"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:postcode" v="90127"/>
-    <tag k="addr:street" v="Via Ardizzone Girolamo"/>
+  <node id="5328954821" lat="38.1096972" lon="13.3660800" version="5" timestamp="2023-05-24T17:49:33Z" changeset="136511460" uid="743479" user="fayor">
     <tag k="description" v="Situato a 1,1 km dalla cattedrale cittadina, il B&amp;B offre un ristorante e un bar."/>
     <tag k="email" v="gsmaeropanoramipalermo@gmail.com"/>
-    <tag k="fixme" v="questo nodo è posizionato in mezzo ad una strada :-("/>
     <tag k="guest_house" v="bed_and_breakfast"/>
     <tag k="name" v="B&amp;B Stazione Centrale"/>
     <tag k="payment:bitcoin" v="yes"/>
