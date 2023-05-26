@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-25T05:22:53Z"/>
+<meta osm_base="2023-05-26T05:23:22Z"/>
 
   <node id="296670580" lat="49.1776595" lon="16.6918088" version="7" timestamp="2020-10-03T23:19:41Z" changeset="91916711" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Brno"/>
@@ -117,19 +117,6 @@
     <tag k="phone" v="+1-204-775-7263"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="http://www.sandmanhotels.ca/hotels/winnipeg/"/>
-  </node>
-  <node id="655118351" lat="53.5227939" lon="-113.5117724" version="13" timestamp="2021-02-25T06:46:14Z" changeset="99951279" uid="7152372" user="Mxdanger">
-    <tag k="addr:city" v="Edmonton"/>
-    <tag k="addr:housenumber" v="8631"/>
-    <tag k="addr:postcode" v="T6G 1E8"/>
-    <tag k="addr:street" v="109 Street NW"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="contact:yelp" v="https://www.yelp.com/biz/remedy-cafe-edmonton#query:remedy%20cafe%20south%20side"/>
-    <tag k="cuisine" v="indian"/>
-    <tag k="name" v="Remedy Café South Side"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-780-433-3096"/>
-    <tag k="website" v="https://remedycafe.ca/"/>
   </node>
   <node id="664069863" lat="50.6973488" lon="15.2702063" version="3" timestamp="2014-04-09T23:42:38Z" changeset="21598218" uid="1942179" user="CzechAddress">
     <tag k="addr:city" v="Zásada"/>
@@ -1332,20 +1319,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1 212-736-4500"/>
     <tag k="website" v="https://nmllplaw.com/"/>
-  </node>
-  <node id="2401625132" lat="53.5407486" lon="-113.4971357" version="10" timestamp="2021-02-25T06:46:14Z" changeset="99951279" uid="7152372" user="Mxdanger">
-    <tag k="addr:city" v="Edmonton"/>
-    <tag k="addr:housenumber" v="10279"/>
-    <tag k="addr:postcode" v="T5J 1X8"/>
-    <tag k="addr:street" v="Jasper Avenue"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="contact:yelp" v="https://www.yelp.com/biz/remedy-cafe-edmonton-2"/>
-    <tag k="cuisine" v="indian"/>
-    <tag k="diet:vegan" v="yes"/>
-    <tag k="name" v="Remedy Café Downtown"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-780-757-7720"/>
-    <tag k="website" v="https://remedycafe.ca/"/>
   </node>
   <node id="2411238618" lat="42.5967407" lon="-83.1698162" version="6" timestamp="2022-07-07T14:29:11Z" changeset="123323263" uid="4887951" user="Gsgeorge">
     <tag k="addr:city" v="Troy"/>
@@ -34614,6 +34587,18 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="website" v="https://cryptoplaza.es/"/>
+  </node>
+  <node id="10155364925" lat="45.7020082" lon="9.1155577" version="3" timestamp="2023-05-25T10:04:08Z" changeset="136536460" uid="19379964" user="Gabriele C">
+    <tag k="addr:city" v="Carimate"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="22060"/>
+    <tag k="addr:street" v="piazza castello"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Studio Interior Design Cappelletti Gabriele"/>
+    <tag k="office" v="interior_design"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+39 031791264"/>
+    <tag k="website" v="www.cappellettiarchitetti.com"/>
   </node>
   <node id="10214805586" lat="17.5125410" lon="78.4978285" version="1" timestamp="2022-11-24T14:39:14Z" changeset="129329209" uid="3733993" user="Aleksandar1994">
     <tag k="addr:city" v="old alwal- secunderabad"/>
