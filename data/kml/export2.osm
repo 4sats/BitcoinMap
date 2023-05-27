@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-26T05:23:22Z"/>
+<meta osm_base="2023-05-27T05:22:53Z"/>
 
   <node id="296670580" lat="49.1776595" lon="16.6918088" version="7" timestamp="2020-10-03T23:19:41Z" changeset="91916711" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Brno"/>
@@ -3361,11 +3361,12 @@
     <tag k="phone" v="+1 514 800 0254"/>
     <tag k="website" v="http://montrealrentalapartments.com/"/>
   </node>
-  <node id="2601476084" lat="57.8437492" lon="27.0167972" version="3" timestamp="2019-03-26T19:19:23Z" changeset="68560205" uid="9451067" user="b-jazz-bot">
+  <node id="2601476084" lat="57.8437492" lon="27.0167972" version="4" timestamp="2023-05-26T08:04:18Z" changeset="136573807" uid="13942280" user="rahwakunstnik">
     <tag k="addr:city" v="Võru"/>
     <tag k="addr:housenumber" v="9a"/>
     <tag k="addr:postcode" v="65606"/>
     <tag k="addr:street" v="Räpina mnt"/>
+    <tag k="check_date" v="2023-05-26"/>
     <tag k="name" v="Kagu AUTO AS"/>
     <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -22724,8 +22725,8 @@
     <tag k="phone" v="+39 0585 74636"/>
     <tag k="shop" v="perfumery"/>
   </node>
-  <node id="4818777772" lat="48.7213563" lon="21.2567975" version="1" timestamp="2017-04-26T20:25:09Z" changeset="48174498" uid="2168097" user="ozDino">
-    <tag k="ele" v="1"/>
+  <node id="4818777772" lat="48.7213563" lon="21.2567975" version="2" timestamp="2023-05-26T11:03:48Z" changeset="136582045" uid="1236336" user="crazycaterpillar">
+    <tag k="level" v="1"/>
     <tag k="name" v="La Fiaba - svadobný salón"/>
     <tag k="opening_hours" v="Mo-Fr 13:30-17:30"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -25685,19 +25686,6 @@
     <tag k="office" v="construction_company"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3388229812"/>
-  </node>
-  <node id="5360948922" lat="45.0299290" lon="7.6669050" version="2" timestamp="2018-01-25T12:49:16Z" changeset="55739771" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Torino"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="10126"/>
-    <tag k="addr:street" v="Via Cortemilia"/>
-    <tag k="craft" v="plumber"/>
-    <tag k="description" v="Impianti idraulici e gas, installazione scaldabagni e caldaie, disotturazione scarichi, ecc."/>
-    <tag k="email" v="antoniogagliardi.idraulico@gmail.com"/>
-    <tag k="name" v="TIG di Antonio Gagliardi"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 3296819934"/>
-    <tag k="website" v="https://www.idraulicogastorino.it"/>
   </node>
   <node id="5360959621" lat="38.1584770" lon="14.8429430" version="1" timestamp="2018-01-25T12:48:06Z" changeset="55739771" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Piraino"/>
@@ -33132,6 +33120,21 @@
     <tag k="shop" v="rental"/>
     <tag k="website" v="https://electricridehtx.com/"/>
   </node>
+  <node id="9066391117" lat="56.6625656" lon="16.3637706" version="4" timestamp="2023-05-26T18:39:51Z" changeset="136600938" uid="12437134" user="maxnet_root">
+    <tag k="addr:city" v="Kalmar"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="39232"/>
+    <tag k="addr:street" v="Kaggensgatan"/>
+    <tag k="check_date" v="2023-04-17"/>
+    <tag k="description" v="Gelato Factory grundades av Georgios Almbanis som efter många års arbete med gelato, bestämde sig för att starta sin första egna gelateria i Kalmar. Här driver han tillsammans med sin sambo Pärla, deras egna lilla gelateria. Pärla arbetar även som sjukskö"/>
+    <tag k="name" v="Gelato Factory"/>
+    <tag k="opening_hours" v="Tu-Su 10:00-18:00"/>
+    <tag k="operator" v="Georgios Almabanis"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:credit_card" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="shop" v="ice_cream"/>
+  </node>
   <node id="9068655892" lat="36.8518693" lon="30.7629224" version="3" timestamp="2022-06-25T02:00:15Z" changeset="122823045" uid="16364694" user="Emre Z">
     <tag k="addr:city" v="Antalya"/>
     <tag k="addr:district" v="Muratpaşa"/>
@@ -34588,18 +34591,6 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="website" v="https://cryptoplaza.es/"/>
   </node>
-  <node id="10155364925" lat="45.7020082" lon="9.1155577" version="3" timestamp="2023-05-25T10:04:08Z" changeset="136536460" uid="19379964" user="Gabriele C">
-    <tag k="addr:city" v="Carimate"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="22060"/>
-    <tag k="addr:street" v="piazza castello"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Studio Interior Design Cappelletti Gabriele"/>
-    <tag k="office" v="interior_design"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 031791264"/>
-    <tag k="website" v="www.cappellettiarchitetti.com"/>
-  </node>
   <node id="10214805586" lat="17.5125410" lon="78.4978285" version="1" timestamp="2022-11-24T14:39:14Z" changeset="129329209" uid="3733993" user="Aleksandar1994">
     <tag k="addr:city" v="old alwal- secunderabad"/>
     <tag k="addr:housenumber" v="shop no7,Padmanayaka complex"/>
@@ -34881,7 +34872,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="survey:date" v="2023-05-22"/>
   </node>
-  <node id="10921925542" lat="53.4472942" lon="-6.2959270" version="8" timestamp="2023-05-23T19:11:07Z" changeset="136469615" uid="19345002" user="Commercial vehicle repairs">
+  <node id="10921925542" lat="53.4472942" lon="-6.2959270" version="10" timestamp="2023-05-26T16:25:38Z" changeset="136596116" uid="19345002" user="Commercial vehicle repairs">
     <tag k="currency:EUR" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="SPECIALISING IN HGV TRAILER REPAIRS&#x0a;ALL ASPECTS OF PNEUMATICS , WELDING AND FABRICATING , ABS AND EBS DIAGNOSTICS AND RE TRO FITTING CARRIED OUT ."/>
@@ -34889,12 +34880,11 @@
     <tag k="name" v="commercial vehicle repairs"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="operator" v="antoin mac einri"/>
-    <tag k="payment:bank transfers" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="no"/>
     <tag k="shop" v="trade"/>
-    <tag k="survey:date" v="2023-04-01"/>
+    <tag k="survey:date" v="2023-01-01"/>
     <tag k="trade" v="yes"/>
   </node>
 
