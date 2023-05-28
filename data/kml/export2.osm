@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-27T05:22:53Z"/>
+<meta osm_base="2023-05-28T05:22:39Z"/>
 
   <node id="296670580" lat="49.1776595" lon="16.6918088" version="7" timestamp="2020-10-03T23:19:41Z" changeset="91916711" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Brno"/>
@@ -6304,7 +6304,7 @@
     <tag k="website" v="https://www.deodato.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2655942081" lat="52.1455671" lon="6.1970643" version="2" timestamp="2022-09-25T08:33:36Z" changeset="126606480" uid="3115650" user="Hans Bieshaar">
+  <node id="2655942081" lat="52.1455671" lon="6.1970643" version="3" timestamp="2023-05-27T20:43:04Z" changeset="136637641" uid="5432507" user="cEvLGWiQ">
     <tag k="addr:city" v="Zutphen"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="7201MZ"/>
@@ -6314,7 +6314,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="source" v="BAG"/>
     <tag k="source:date" v="2014-01-22"/>
-    <tag k="website" v="http://www.taxcent.nl/"/>
+    <tag k="website" v="https://www.taxcent.nl"/>
   </node>
   <node id="2655943329" lat="42.1747186" lon="-72.0126197" version="1" timestamp="2014-02-05T13:38:52Z" changeset="20392791" uid="1920295" user="DLLaw">
     <tag k="addr:city" v="Charlton"/>
@@ -9761,18 +9761,6 @@
     <tag k="phone" v="+1-313-359-0900"/>
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://graciespasta.com/"/>
-  </node>
-  <node id="2751477974" lat="46.6551766" lon="-95.8055553" version="2" timestamp="2021-09-06T21:05:01Z" changeset="110820917" uid="175702" user="AxelBoldt">
-    <tag k="addr:housenumber" v="121"/>
-    <tag k="addr:street" v="West Linden Street"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="+1-218-342-3663"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="description" v="BTC payment via Menufy."/>
-    <tag k="name" v="Vergas 66 Gas &amp; Convenience"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
-    <tag k="website" v="http://vergas66.menufy.com/"/>
   </node>
   <node id="2751586501" lat="34.4435122" lon="-119.2368743" version="2" timestamp="2019-02-17T17:22:55Z" changeset="67286311" uid="9451067" user="b-jazz-bot">
     <tag k="addr:housenumber" v="406"/>
@@ -33120,7 +33108,7 @@
     <tag k="shop" v="rental"/>
     <tag k="website" v="https://electricridehtx.com/"/>
   </node>
-  <node id="9066391117" lat="56.6625656" lon="16.3637706" version="4" timestamp="2023-05-26T18:39:51Z" changeset="136600938" uid="12437134" user="maxnet_root">
+  <node id="9066391117" lat="56.6625656" lon="16.3637706" version="5" timestamp="2023-05-27T21:56:49Z" changeset="136639294" uid="12437134" user="maxnet_root">
     <tag k="addr:city" v="Kalmar"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="39232"/>
@@ -33133,6 +33121,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:credit_card" v="yes"/>
     <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="ice_cream"/>
   </node>
   <node id="9068655892" lat="36.8518693" lon="30.7629224" version="3" timestamp="2022-06-25T02:00:15Z" changeset="122823045" uid="16364694" user="Emre Z">
@@ -34886,6 +34875,21 @@
     <tag k="shop" v="trade"/>
     <tag k="survey:date" v="2023-01-01"/>
     <tag k="trade" v="yes"/>
+  </node>
+  <node id="10931617594" lat="-21.7209248" lon="-44.9863641" version="2" timestamp="2023-05-28T04:22:03Z" changeset="136642869" uid="2104834" user="Igor Bubelov">
+    <tag k="check_date:currency:XBT" v="2023-05-28"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Pousada Serra de São Thomé"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="tourism" v="alpine_hut"/>
+  </node>
+  <node id="10932000866" lat="-21.7217043" lon="-44.9838911" version="1" timestamp="2023-05-27T19:51:10Z" changeset="136636413" uid="18909163" user="Lucas Leiva de Castro">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Jhairo Barbearia"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="hairdresser"/>
   </node>
 
 </osm>
