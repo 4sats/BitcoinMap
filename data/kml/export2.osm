@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-29T05:23:54Z"/>
+<meta osm_base="2023-05-30T05:23:53Z"/>
 
   <node id="296670580" lat="49.1776595" lon="16.6918088" version="7" timestamp="2020-10-03T23:19:41Z" changeset="91916711" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Brno"/>
@@ -4809,7 +4809,12 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.thebitpros.com/"/>
   </node>
-  <node id="2622960029" lat="38.5706642" lon="-90.2847806" version="6" timestamp="2022-04-30T23:54:34Z" changeset="120402773" uid="15080312" user="CatSu">
+  <node id="2622960029" lat="38.5706710" lon="-90.2847742" version="7" timestamp="2023-05-29T21:25:44Z" changeset="136718228" uid="15080312" user="CatSu">
+    <tag k="addr:city" v="Saint Louis"/>
+    <tag k="addr:housenumber" v="6829"/>
+    <tag k="addr:postcode" v="63116"/>
+    <tag k="addr:state" v="MO"/>
+    <tag k="addr:street" v="Gravois Avenue"/>
     <tag k="healthcare" v="counselling"/>
     <tag k="name" v="Steve Franklin, Counseling"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -7482,18 +7487,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="leather"/>
     <tag k="website" v="http://www.perprofessionisti.com/"/>
-  </node>
-  <node id="2687357901" lat="54.6805203" lon="25.2747805" version="5" timestamp="2019-09-27T17:10:09Z" changeset="75019383" uid="2092186" user="lucaspiller">
-    <tag k="addr:city" v="Vilnius"/>
-    <tag k="addr:contact" v="yes"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="J. Basanavičiaus g."/>
-    <tag k="business" v="yes"/>
-    <tag k="name" v="Vertimų biuras"/>
-    <tag k="office" v="company"/>
-    <tag k="opening_hours" v="Mo-Fr 08:30-11:00,11:45-17:30"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+37060896242"/>
   </node>
   <node id="2687806816" lat="-23.0086564" lon="-44.3176160" version="5" timestamp="2014-12-19T00:20:45Z" changeset="27561347" uid="1772368" user="pizzaiolo">
     <tag k="name" v="Escritório de Advocacia Ivan Liborio"/>
@@ -17584,16 +17577,6 @@
     <tag k="phone" v="+1 773 248 1667"/>
     <tag k="website" v="http://www.gatchicago.com"/>
   </node>
-  <node id="3272870647" lat="54.6850644" lon="25.2812085" version="4" timestamp="2021-11-24T11:58:50Z" changeset="114163779" uid="290680" user="wheelmap_visitor">
-    <tag k="addr:city" v="Vilnius"/>
-    <tag k="addr:contact" v="yes"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:street" v="Labdarių g."/>
-    <tag k="amenity" v="bar"/>
-    <tag k="name" v="Switch baras"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="3273591865" lat="36.7410860" lon="-76.3349640" version="1" timestamp="2015-01-06T19:09:13Z" changeset="27963223" uid="2557184" user="avatarr">
     <tag k="name" v="PM Pest Control, LLC"/>
     <tag k="note" v="Pest control / exterminator services serving the Hampton Roads, VA area (including Chesapeake, Hampton, Newport News, Norfolk, Poquoson, Portsmouth, Suffolk, Virginia Beach, and Williamsburg)."/>
@@ -21285,15 +21268,6 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://pcduo.fr/"/>
   </node>
-  <node id="3958573506" lat="54.6852193" lon="25.2778247" version="2" timestamp="2018-01-24T07:07:21Z" changeset="55704597" uid="60129" user="Tomas Straupis">
-    <tag k="addr:city" v="Vilnius"/>
-    <tag k="addr:contact" v="yes"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:street" v="Jogailos g."/>
-    <tag k="name" v="SQBY"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="clothes"/>
-  </node>
   <node id="3959777496" lat="33.9905056" lon="-118.4756236" version="3" timestamp="2019-02-19T18:52:57Z" changeset="67363593" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Los Angeles"/>
     <tag k="addr:housenumber" v="26"/>
@@ -22726,20 +22700,21 @@
     <tag k="type" v="site"/>
     <tag k="website" v="http://www.WisconsinGinseng.com"/>
   </node>
-  <node id="4831961829" lat="12.5904002" lon="-81.7032722" version="7" timestamp="2021-06-10T00:17:17Z" changeset="106120705" uid="12906384" user="JuanMelo">
+  <node id="4831961829" lat="12.5904002" lon="-81.7032722" version="8" timestamp="2023-05-30T01:31:33Z" changeset="136721518" uid="5772791" user="Tarek O'Neill">
     <tag k="addr:city" v="San Andrés Isla"/>
     <tag k="addr:housenumber" v="Carrera 16"/>
     <tag k="addr:postcode" v="880001"/>
     <tag k="addr:street" v="Carrera 16 #3-31"/>
     <tag k="email" v="tarek.oneill@gmail.com"/>
     <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:ssid" v="guesthouse"/>
-    <tag k="name" v="Guest House"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="internet_access:ssid" v="SimmerDown"/>
+    <tag k="name" v="Simmer Down Guest House"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="operator" v="Tarek O'Neill"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+57 3157706378"/>
-    <tag k="rooms" v="6"/>
+    <tag k="rooms" v="8"/>
     <tag k="smoking" v="separated"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://simmerdown.house"/>
@@ -27482,19 +27457,6 @@
     <tag k="phone" v="+39 055446406"/>
     <tag k="shop" v="e-cigarette"/>
     <tag k="website" v="http://www.smokinweb.com"/>
-  </node>
-  <node id="5708242094" lat="45.7607256" lon="8.5609284" version="2" timestamp="2019-09-08T10:03:52Z" changeset="74222924" uid="4982687" user="Francoerbi41">
-    <tag k="addr:city" v="Arona"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:postcode" v="28041"/>
-    <tag k="addr:street" v="Piazza San Graziano"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="description" v="Paninoteca con piccola cucina, specializzata in hamburger di carne fresca e birre artigianali locali."/>
-    <tag k="email" v="info@obic.it"/>
-    <tag k="name" v="Obic"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0322090156"/>
-    <tag k="website" v="http://www.obic.it"/>
   </node>
   <node id="5720742356" lat="42.9375156" lon="10.7196772" version="3" timestamp="2018-09-04T23:32:00Z" changeset="62294396" uid="549825" user="frasty">
     <tag k="addr:city" v="Follonica"/>
@@ -34759,6 +34721,27 @@
     <tag k="phone" v="0041 56 624 12 24"/>
     <tag k="survey:date" v="2023-05-28"/>
     <tag k="website" v="www.gueggel.ch"/>
+  </node>
+  <node id="10937829300" lat="38.7950256" lon="-9.1865470" version="1" timestamp="2023-05-29T18:41:32Z" changeset="136713262" uid="19413654" user="Panntera">
+    <tag k="contact:phone" v="966681254"/>
+    <tag k="email" v="bitcoinpt8@gmail.com"/>
+    <tag k="name" v="Bitcoinpt8"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="website" v="https://bitcoinpt8.blogspot.com/"/>
+  </node>
+  <node id="10938576244" lat="-34.9054553" lon="-56.1518176" version="2" timestamp="2023-05-30T00:04:12Z" changeset="136720454" uid="19380224" user="Escuelita Bitcoin Uy">
+    <tag k="addr:city" v="Montevideo"/>
+    <tag k="addr:housenumber" v="2951"/>
+    <tag k="addr:postcode" v="11300"/>
+    <tag k="addr:street" v="Gabriel Pereira"/>
+    <tag k="male" v="yes"/>
+    <tag k="name" v="RompeCabezas"/>
+    <tag k="opening_hours" v="Tu-Su 10:00-18:00"/>
+    <tag k="operator" v="Damian"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="hairdresser"/>
   </node>
 
 </osm>
