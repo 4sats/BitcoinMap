@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-30T05:23:53Z"/>
+<meta osm_base="2023-05-31T05:22:40Z"/>
 
   <node id="296670580" lat="49.1776595" lon="16.6918088" version="7" timestamp="2020-10-03T23:19:41Z" changeset="91916711" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Brno"/>
@@ -12075,19 +12075,6 @@
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="http://chelulu.com/"/>
   </node>
-  <node id="2879016201" lat="34.0007087" lon="-118.4820773" version="6" timestamp="2016-07-19T14:06:35Z" changeset="40857189" uid="47978" user="Christoph Lotz">
-    <tag k="addr:city" v="Santa Monica"/>
-    <tag k="addr:country" v="US"/>
-    <tag k="addr:housenumber" v="2717"/>
-    <tag k="addr:postcode" v="90405"/>
-    <tag k="addr:street" v="Main Street"/>
-    <tag k="name" v="Bee Bond at Kyle Mathis Salon"/>
-    <tag k="note" v="Call to book an appointment"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="(213)605-2315"/>
-    <tag k="shop" v="hairdresser"/>
-    <tag k="website" v="http://www.beeattractive.com/"/>
-  </node>
   <node id="2881151248" lat="37.4904653" lon="126.6796841" version="3" timestamp="2014-05-31T06:58:04Z" changeset="22650695" uid="1992343" user="Ashs1126">
     <tag k="addr:city" v="인천시"/>
     <tag k="addr:housenumber" v="260-10"/>
@@ -22380,6 +22367,37 @@
     <tag k="shop" v="massage"/>
     <tag k="website" v="http://www.fisiom.it"/>
   </node>
+  <node id="4620910995" lat="51.3416439" lon="12.3784656" version="10" timestamp="2023-05-30T15:37:22Z" changeset="136752562" uid="1862505" user="svencb">
+    <tag k="addr:city" v="Leipzig"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="04109"/>
+    <tag k="addr:street" v="Nikolaistraße"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description:en" v="Comfortable apartments with roof terrace in the center of Leipzig."/>
+    <tag k="email" v="info@kikasi.de"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="internet_access:ssid" v="Trafford"/>
+    <tag k="level" v="4;5"/>
+    <tag k="name" v="Trafford Sky Homes"/>
+    <tag k="operator" v="Kikasi Homes, Inh. Steffen Kuschel"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="no"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:wire_transfer" v="yes"/>
+    <tag k="phone" v="+49 341 22 38 7660"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="stars" v="4"/>
+    <tag k="survey:date" v="2022-11-04"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://trafford.de/"/>
+  </node>
   <node id="4626622590" lat="45.9925581" lon="11.3143079" version="5" timestamp="2021-06-30T16:42:38Z" changeset="107218913" uid="175702" user="AxelBoldt">
     <tag k="addr:city" v="Levico Terme"/>
     <tag k="addr:country" v="IT"/>
@@ -30687,7 +30705,7 @@
     <tag k="phone" v="+55 43 3259-2773"/>
     <tag k="shop" v="video"/>
   </node>
-  <node id="7545810612" lat="45.5573878" lon="32.8330439" version="7" timestamp="2023-03-08T11:22:35Z" changeset="133436494" uid="1538111" user="avinet_ua">
+  <node id="7545810612" lat="45.5573878" lon="32.8330439" version="8" timestamp="2023-05-30T16:00:56Z" changeset="136753492" uid="9497846" user="Asphodel">
     <tag k="access" v="yes"/>
     <tag k="addr:city" v="Межводненское сельское поселение"/>
     <tag k="brand" v="Кайтшкола номер один"/>
@@ -30701,8 +30719,9 @@
     <tag k="internet_access:ssid" v="k1surf"/>
     <tag k="leisure" v="sports_centre"/>
     <tag k="level" v="0"/>
-    <tag k="name" v="Кайт серф центр IKO K1 - Міжводне"/>
+    <tag k="name" v="Кайт серф центр IKO K1 - Межводное"/>
     <tag k="name:en" v="Kite surf center IKO K1"/>
+    <tag k="name:ru" v="Кайт серф центр IKO K1 - Межводное"/>
     <tag k="name:uk" v="Кайт серф центр IKO K1 - Міжводне"/>
     <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
     <tag k="opening_hours:covid19" v="open"/>
@@ -33044,7 +33063,7 @@
     <tag k="shop" v="rental"/>
     <tag k="website" v="https://electricridehtx.com/"/>
   </node>
-  <node id="9066391117" lat="56.6625656" lon="16.3637706" version="8" timestamp="2023-05-28T12:41:21Z" changeset="136655481" uid="12437134" user="maxnet_root">
+  <node id="9066391117" lat="56.6625656" lon="16.3637706" version="10" timestamp="2023-05-30T15:07:14Z" changeset="136751447" uid="5359" user="user_5359">
     <tag k="addr:city" v="Kalmar"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="39232"/>
@@ -33053,7 +33072,6 @@
     <tag k="check_date" v="2023-05-28"/>
     <tag k="description" v="Gelato Factory grundades av Georgios Almbanis som efter många års arbete med gelato, bestämde sig för att starta sin första egna gelateria i Kalmar. Här driver han tillsammans med sin sambo Pärla, deras egna lilla gelateria. Pärla arbetar även som sjukskö"/>
     <tag k="drink:coffee" v="yes"/>
-    <tag k="drink:coffeetogo" v="yes"/>
     <tag k="email" v="contact@gelato-factory.se"/>
     <tag k="image" v="https://www.gelato-factory.se/____impro/1/onewebmedia/gelatofactory-logo-black.jpg?etag=W%2F%22e0f1-622a7c8d%22&amp;sourceContentType=image%2Fjpeg&amp;ignoreAspectRatio&amp;resize=800%2B470&amp;quality=85"/>
     <tag k="name" v="Gelato Factory"/>
@@ -33061,7 +33079,7 @@
     <tag k="operator" v="Georgios Almabanis"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_card" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
@@ -34704,7 +34722,7 @@
     <tag k="survey:date" v="2023-01-01"/>
     <tag k="trade" v="yes"/>
   </node>
-  <node id="10934904851" lat="47.3855077" lon="8.2384960" version="4" timestamp="2023-05-28T19:28:07Z" changeset="136669594" uid="8542221" user="Piagno">
+  <node id="10934904851" lat="47.3855077" lon="8.2384960" version="5" timestamp="2023-05-30T12:24:01Z" changeset="136743784" uid="17779220" user="fincent">
     <tag k="addr:city" v="Dottikon"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:postcode" v="5605"/>
@@ -34713,21 +34731,24 @@
     <tag k="cuisine" v="regional"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Restaurant Zum Güggel"/>
-    <tag k="opening_hours" v="DO-Mo 09:30-14:00 17:00-23:00"/>
+    <tag k="opening_hours" v="Mo-Fr 09:30-14:00,17:00-23:00; Tu,We off; Sa,Su 09:30-23:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="jes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="0041 56 624 12 24"/>
     <tag k="survey:date" v="2023-05-28"/>
-    <tag k="website" v="www.gueggel.ch"/>
+    <tag k="website" v="https://www.gueggel.ch"/>
   </node>
-  <node id="10937829300" lat="38.7950256" lon="-9.1865470" version="1" timestamp="2023-05-29T18:41:32Z" changeset="136713262" uid="19413654" user="Panntera">
+  <node id="10937829300" lat="38.7950256" lon="-9.1865470" version="3" timestamp="2023-05-30T18:29:01Z" changeset="136758658" uid="19413654" user="Panntera">
+    <tag k="User is from|Country" v="Portugal"/>
+    <tag k="camp_site" v="serviced"/>
     <tag k="contact:phone" v="966681254"/>
     <tag k="email" v="bitcoinpt8@gmail.com"/>
     <tag k="name" v="Bitcoinpt8"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://bitcoinpt8.blogspot.com/"/>
+    <tag k="{{User helps beginners}}" v="Bitcoin"/>
   </node>
   <node id="10938576244" lat="-34.9054553" lon="-56.1518176" version="2" timestamp="2023-05-30T00:04:12Z" changeset="136720454" uid="19380224" user="Escuelita Bitcoin Uy">
     <tag k="addr:city" v="Montevideo"/>
