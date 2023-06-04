@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
+<osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-02T05:22:54Z"/>
+<meta osm_base="2023-06-04T05:23:02Z"/>
 
   <node id="296670580" lat="49.1776595" lon="16.6918088" version="7" timestamp="2020-10-03T23:19:41Z" changeset="91916711" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Brno"/>
@@ -34276,6 +34276,69 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="10945938353" lat="45.6366088" lon="11.7838331" version="5" timestamp="2023-06-03T14:13:28Z" changeset="136903867" uid="19433313" user="BeltraminaBedroom">
+    <tag k="addr:city" v="Cittadella"/>
+    <tag k="addr:housenumber" v="56"/>
+    <tag k="addr:postcode" v="35013"/>
+    <tag k="addr:street" v="Via Beltramina"/>
+    <tag k="addr:unit" v="3"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/profile.php?id=100083076879992"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="m.beltramello@proton.me"/>
+    <tag k="guest_house" v="landlords_-_affittacamere"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="name" v="B&amp;B - Beltramina Bedroom - Affitta Camere"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+393498444285"/>
+    <tag k="rooms" v="3"/>
+    <tag k="survey:date" v="2023-06-02"/>
+    <tag k="tourism" v="guest_house"/>
+    <tag k="website" v="https://airbnb.com/h/beltraminabedroom1"/>
+  </node>
+  <node id="10946909908" lat="-22.9360120" lon="-46.2776897" version="3" timestamp="2023-06-02T19:16:03Z" changeset="136881255" uid="19466008" user="Rodrigo A P Santos Corretor de Imóveis CRECISP 173286F">
+    <tag k="addr:city" v="Joanópolis"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="12980000"/>
+    <tag k="addr:street" v="Avenida Sebastião de Oliveira Pinto"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Rodrigo A P Santos Corretor de Imóveis CRECISP 173286F"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+5511972281535"/>
+    <tag k="website" v="www.vivaemjoanopolis.com.br"/>
+  </node>
+  <node id="10948637522" lat="38.4002162" lon="15.9350692" version="1" timestamp="2023-06-03T09:43:16Z" changeset="136895608" uid="19469524" user="Ceccofar">
+    <tag k="addr:city" v="Gioia Tauro"/>
+    <tag k="addr:postcode" v="89013"/>
+    <tag k="addr:street" v="Strada Provinciale 1 di Gioia Tauro e Locri"/>
+    <tag k="name" v="F legno srl"/>
+    <tag k="operator" v="F legno srl"/>
+    <tag k="payment:XBT" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="shop" v="trade"/>
+    <tag k="survey:date" v="2013"/>
+    <tag k="trade" v="timber"/>
   </node>
 
 </osm>
