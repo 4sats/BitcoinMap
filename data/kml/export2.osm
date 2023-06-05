@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-04T05:23:02Z"/>
+<meta osm_base="2023-06-05T05:23:37Z"/>
 
   <node id="296670580" lat="49.1776595" lon="16.6918088" version="7" timestamp="2020-10-03T23:19:41Z" changeset="91916711" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Brno"/>
@@ -399,6 +399,24 @@
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q1965640"/>
     <tag k="wikipedia" v="nl:Filmhuis Cavia"/>
+  </node>
+  <node id="944768186" lat="-34.9112881" lon="-56.1909114" version="7" timestamp="2023-06-05T00:23:38Z" changeset="136950956" uid="19380224" user="Escuelita Bitcoin Uy">
+    <tag k="addr:city" v="Montevideo"/>
+    <tag k="addr:country" v="UY"/>
+    <tag k="addr:housenumber" v="1061"/>
+    <tag k="addr:street" v="Héctor Gutiérrez Ruiz"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="mvdgis:cod_nombre" v="3441"/>
+    <tag k="mvdgis:padron" v="8203"/>
+    <tag k="name" v="Satoshi CrossFit"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-22:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+59892321900"/>
+    <tag k="sport" v="crossfit"/>
+    <tag k="website" v="https://www.satoshicrossfit.com/"/>
   </node>
   <node id="944997015" lat="42.8431935" lon="74.5905907" version="4" timestamp="2014-09-05T00:51:32Z" changeset="25239030" uid="132627" user="RastaM">
     <tag k="amenity" v="restaurant"/>
@@ -804,27 +822,6 @@
     <tag k="source" v="gps"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="http://www.lacasadelalmirante.com"/>
-  </node>
-  <node id="1771089204" lat="43.0413920" lon="-76.1187824" version="11" timestamp="2022-12-28T23:48:47Z" changeset="130622432" uid="77904" user="Kristjan ESPERANTO">
-    <tag k="addr:city" v="Syracuse"/>
-    <tag k="addr:country" v="US"/>
-    <tag k="addr:housenumber" v="110"/>
-    <tag k="addr:postcode" v="13210"/>
-    <tag k="addr:state" v="NY"/>
-    <tag k="addr:street" v="Harvard Place"/>
-    <tag k="addr:unit" v="A"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="cuisine" v="coffee_shop"/>
-    <tag k="diet:vegan" v="yes"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Recess Coffee"/>
-    <tag k="nysgissam:nysaddresspointid" v="ONON187668"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-24:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1 315-410-0090"/>
-    <tag k="shop" v="coffee_roasting"/>
-    <tag k="website" v="https://recesscoffee.com/"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="1880754454" lat="49.2202210" lon="17.6494571" version="4" timestamp="2014-11-28T12:43:11Z" changeset="27088867" uid="2490617" user="nanostudio">
     <tag k="addr:conscriptionnumber" v="4342"/>
@@ -22593,18 +22590,20 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
   </node>
-  <node id="4909082749" lat="47.3732776" lon="8.5447541" version="3" timestamp="2020-05-07T14:26:26Z" changeset="84838062" uid="213831" user="Josef73">
+  <node id="4909082749" lat="47.3732776" lon="8.5447541" version="4" timestamp="2023-06-04T18:09:34Z" changeset="136943178" uid="15541433" user="paulbrunner">
     <tag k="addr:city" v="Zürich"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:postcode" v="8001"/>
     <tag k="addr:street" v="Brunngasse"/>
+    <tag k="check_date" v="2023-06-04"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Yves Betschmann Goldschmied"/>
-    <tag k="opening_hours" v="Tu-Fr 10:00-12:30,14:00-18:30; Sa 11:00-16:30"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-12:00,14:00-18:00; Sa-Su off"/>
     <tag k="operator" v="Yves Betschmann"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="shop" v="jewelry"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="4911044452" lat="50.4945227" lon="30.5216073" version="11" timestamp="2023-03-03T20:30:24Z" changeset="133269345" uid="1538111" user="avinet_ua">
     <tag k="addr:door" v="45"/>
@@ -29581,6 +29580,21 @@
     <tag k="shop" v="hardware"/>
     <tag k="website" v="http://chel.ekoekat.ru/"/>
   </node>
+  <node id="6932701381" lat="-34.7247858" lon="-56.2104248" version="2" timestamp="2023-06-05T00:22:25Z" changeset="136950946" uid="19380224" user="Escuelita Bitcoin Uy">
+    <tag k="addr:city" v="Las Piedras"/>
+    <tag k="addr:housenumber" v="816"/>
+    <tag k="addr:postcode" v="15900"/>
+    <tag k="addr:street" v="República Argentina"/>
+    <tag k="name" v="EL MINISUPER DE LAS PIEDRAS"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-23:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+59892193956"/>
+    <tag k="ref:AGESIC" v="0101000020D17F000052B81E8506772141CDCCCC2CE27C5741/816"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
   <node id="6934298685" lat="35.6641661" lon="51.3157220" version="4" timestamp="2020-12-13T16:16:35Z" changeset="95761336" uid="3800783" user="Mostafa Ahangarha">
     <tag k="addr:city" v="تهران"/>
     <tag k="addr:housenumber" v="38"/>
@@ -34263,7 +34277,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+221 366 55 55"/>
   </node>
-  <node id="10938576244" lat="-34.9054553" lon="-56.1518176" version="2" timestamp="2023-05-30T00:04:12Z" changeset="136720454" uid="19380224" user="Escuelita Bitcoin Uy">
+  <node id="10938576244" lat="-34.9054553" lon="-56.1518176" version="3" timestamp="2023-06-04T18:08:38Z" changeset="136943150" uid="19380224" user="Escuelita Bitcoin Uy">
     <tag k="addr:city" v="Montevideo"/>
     <tag k="addr:housenumber" v="2951"/>
     <tag k="addr:postcode" v="11300"/>
@@ -34275,31 +34289,8 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="shop" v="hairdresser"/>
-  </node>
-  <node id="10945938353" lat="45.6366088" lon="11.7838331" version="5" timestamp="2023-06-03T14:13:28Z" changeset="136903867" uid="19433313" user="BeltraminaBedroom">
-    <tag k="addr:city" v="Cittadella"/>
-    <tag k="addr:housenumber" v="56"/>
-    <tag k="addr:postcode" v="35013"/>
-    <tag k="addr:street" v="Via Beltramina"/>
-    <tag k="addr:unit" v="3"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/profile.php?id=100083076879992"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="m.beltramello@proton.me"/>
-    <tag k="guest_house" v="landlords_-_affittacamere"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="customers"/>
-    <tag k="name" v="B&amp;B - Beltramina Bedroom - Affitta Camere"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+393498444285"/>
-    <tag k="rooms" v="3"/>
-    <tag k="survey:date" v="2023-06-02"/>
-    <tag k="tourism" v="guest_house"/>
-    <tag k="website" v="https://airbnb.com/h/beltraminabedroom1"/>
+    <tag k="shop" v="hairdresser"/>
   </node>
   <node id="10946909908" lat="-22.9360120" lon="-46.2776897" version="3" timestamp="2023-06-02T19:16:03Z" changeset="136881255" uid="19466008" user="Rodrigo A P Santos Corretor de Imóveis CRECISP 173286F">
     <tag k="addr:city" v="Joanópolis"/>
