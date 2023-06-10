@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-09T05:23:53Z"/>
+<meta osm_base="2023-06-10T05:22:53Z"/>
 
   <node id="296670580" lat="49.1776595" lon="16.6918088" version="7" timestamp="2020-10-03T23:19:41Z" changeset="91916711" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Brno"/>
@@ -1371,13 +1371,13 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://tsakoumi.com/"/>
   </node>
-  <node id="2481906159" lat="45.5595017" lon="-73.5975114" version="6" timestamp="2018-02-05T16:11:29Z" changeset="56088597" uid="5633991" user="Matthew Darwin">
+  <node id="2481906159" lat="45.5595902" lon="-73.5974548" version="7" timestamp="2023-06-09T15:24:20Z" changeset="137142322" uid="14547964" user="Dmurray12">
     <tag k="addr:city" v="Montréal"/>
     <tag k="addr:housenumber" v="3296"/>
     <tag k="addr:postcode" v="H2A 1W3"/>
     <tag k="addr:province" v="QC"/>
     <tag k="addr:street" v="Rue Jean Talon Est"/>
-    <tag k="addr:suburb" v="Villeray-Saint-Michel-PE"/>
+    <tag k="addr:suburb" v="Villeray-Saint-Michel-Parc-Extension"/>
     <tag k="alt_name" v="Bar Zoé Karaoke &amp; Cocktails"/>
     <tag k="amenity" v="bar"/>
     <tag k="contact:phone" v="+1-514-374-0666"/>
@@ -1394,7 +1394,7 @@
     <tag k="payment:interac" v="yes"/>
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
-    <tag k="smoking" v="no"/>
+    <tag k="smoking" v="outside"/>
   </node>
   <node id="2489137964" lat="42.8833039" lon="-8.5427110" version="2" timestamp="2015-04-09T12:21:29Z" changeset="30092791" uid="2788764" user="Monchinho">
     <tag k="addr:housenumber" v="12"/>
@@ -4062,16 +4062,6 @@
     <tag k="name" v="Techwarrior Technologies LLC"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="2614438057" lat="53.5906310" lon="-113.5957572" version="3" timestamp="2019-03-04T19:20:43Z" changeset="67779334" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Edmonton"/>
-    <tag k="addr:housenumber" v="15824"/>
-    <tag k="addr:postcode" v="T5V 1J4"/>
-    <tag k="addr:street" v="131 ave NW"/>
-    <tag k="name" v="APPS Developer DOT Ca Inc."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-780-920-2763"/>
-    <tag k="website" v="https://www.appsdeveloper.ca/"/>
-  </node>
   <node id="2614526201" lat="46.0719268" lon="18.2299868" version="7" timestamp="2020-05-12T21:34:22Z" changeset="85106729" uid="6626963" user="gabro00">
     <tag k="addr:city" v="Pécs"/>
     <tag k="addr:housename" v="Forrás Üzletház, 2. emelet"/>
@@ -4443,11 +4433,6 @@
   <node id="2620557765" lat="31.4211493" lon="120.9449863" version="2" timestamp="2014-01-24T15:41:46Z" changeset="20179082" uid="28559" user="Stemby">
     <tag k="name" v="kia's home"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="2620739793" lat="53.4748043" lon="-113.4461005" version="2" timestamp="2019-03-06T06:44:21Z" changeset="67832414" uid="9451067" user="b-jazz-bot">
-    <tag k="name" v="Mango Maids"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://mangomaids.com/"/>
   </node>
   <node id="2620914597" lat="41.4174783" lon="-8.4522948" version="1" timestamp="2014-01-13T11:26:24Z" changeset="19969889" uid="1651798" user="oldenburg69">
     <tag k="addr:city" v="Vermoim"/>
@@ -7687,20 +7672,6 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="+39 3333509999"/>
   </node>
-  <node id="2701239316" lat="-36.8680028" lon="174.7749509" version="11" timestamp="2021-04-22T07:02:18Z" changeset="103386985" uid="8389777" user="kylenz_linz">
-    <tag k="addr:city" v="Auckland"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:postcode" v="1023"/>
-    <tag k="addr:street" v="Crowhurst Street"/>
-    <tag k="addr:suburb" v="Newmarket"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:phone" v="+64 9 520 6672"/>
-    <tag k="name" v="Love Cuisine"/>
-    <tag k="name:en" v="Love Cuisine"/>
-    <tag k="note" v="Accepts Bitcoin for Drinks and Foods"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="ref:linz:address_id" v="1132771"/>
-  </node>
   <node id="2701261760" lat="26.0906831" lon="-80.1709267" version="3" timestamp="2019-05-29T15:13:57Z" changeset="70737458" uid="8339" user="mtmail">
     <tag k="addr:city" v="Fort Lauderdale"/>
     <tag k="addr:housenumber" v="2525"/>
@@ -9911,16 +9882,19 @@
     <tag k="source" v="http://www.coindesk.com/menufy-now-supports-bitcoin-payments-400-us-restaurants/"/>
     <tag k="website" v="http://collierville.stixonline.com/"/>
   </node>
-  <node id="2780554540" lat="33.8022719" lon="-116.5164439" version="1" timestamp="2014-04-09T21:42:41Z" changeset="21597099" uid="2025438" user="radio1">
+  <node id="2780554540" lat="33.8022719" lon="-116.5164430" version="2" timestamp="2023-06-10T00:30:30Z" changeset="137156991" uid="384667" user="MxxCon">
     <tag k="addr:city" v="Palm Springs"/>
     <tag k="addr:housenumber" v="2801"/>
     <tag k="addr:postcode" v="92264"/>
+    <tag k="addr:state" v="CA"/>
     <tag k="addr:street" v="Avery Drive"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/TheParkApartmentsPS/"/>
+    <tag k="email" v="parkleasing@fmlmanagement.com"/>
     <tag k="name" v="Park Apartments"/>
+    <tag k="office" v="company"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
-    <tag k="phone" v="(760) 323-7636"/>
-    <tag k="website" v="https://plus.google.com/105289783771938943833/about?gl=us&amp;hl=en"/>
+    <tag k="phone" v="+1-760-323-7636"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2780562985" lat="-34.5975241" lon="-58.3959428" version="2" timestamp="2020-03-01T21:36:16Z" changeset="81654828" uid="3837224" user="MatiasJ">
@@ -34017,6 +33991,59 @@
     <tag k="shop" v="trade"/>
     <tag k="survey:date" v="2013"/>
     <tag k="trade" v="timber"/>
+  </node>
+  <node id="10949921190" lat="-29.7060052" lon="-52.4259888" version="6" timestamp="2023-06-09T18:08:14Z" changeset="137148367" uid="19475674" user="Crypto RS">
+    <tag k="addr:city" v="Santa Cruz do Sul"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:street" v="Rua Rio Branco"/>
+    <tag k="addr:suburb" v="centro"/>
+    <tag k="description" v="Lightning Address Donation; woefulshears37@walletofsatoshi.com or Bitcoin On-Chain; 3MwZ9CAoWbdWVP7byEyBhUusPeKfkWKPsT"/>
+    <tag k="name" v="Consultor Analista  -TI  -Blockchain  -Bitcoin  -Defi  -Cripto Ativos -Pag em Criptos."/>
+    <tag k="office" v="it"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 51 981567636"/>
+    <tag k="website" v="https://www.instagram.com/sagastume2k/"/>
+  </node>
+  <node id="10965940481" lat="-22.5739003" lon="-47.1698595" version="1" timestamp="2023-06-09T17:55:47Z" changeset="137147886" uid="19530736" user="Michelon Advocacia">
+    <tag k="addr:city" v="Artur Nogueira"/>
+    <tag k="addr:housenumber" v="1560"/>
+    <tag k="addr:postcode" v="13160078"/>
+    <tag k="addr:street" v="Rua Sete de Setembro"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="office"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:others" v="yes"/>
+    <tag k="description" v="Escritório de Advocacia dedicado ao assessoramento de pessoas físicas e jurídicas para proteção patrimonial e OpSec."/>
+    <tag k="email" v="michelon@adv.oabsp.org.br"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Michelon Advogados"/>
+    <tag k="name:en" v="Michelon Law Firm"/>
+    <tag k="office" v="lawyer"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+5519996573340"/>
+    <tag k="survey:date" v="2022-05-25"/>
+  </node>
+  <node id="10967104395" lat="13.7104980" lon="-89.2457296" version="1" timestamp="2023-06-10T03:43:21Z" changeset="137158679" uid="16755087" user="Coinoswallet">
+    <tag k="addr:city" v="San Salvador"/>
+    <tag k="addr:housenumber" v="5005"/>
+    <tag k="addr:street" v="Calle Del Mirador"/>
+    <tag k="clothes" v="tshirt;shirt;bitcoin_clothing"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Garrobo Co. Bitcoin Clothing"/>
+    <tag k="opening_hours" v="24/7 Appointment Only"/>
+    <tag k="operator" v="Carlos"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:on-chain" v="yes"/>
+    <tag k="phone" v="+503 6030 1251"/>
+    <tag k="shop" v="clothes"/>
   </node>
 
 </osm>
