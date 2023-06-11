@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-10T05:22:53Z"/>
+<meta osm_base="2023-06-11T05:22:54Z"/>
 
   <node id="296670580" lat="49.1776595" lon="16.6918088" version="7" timestamp="2020-10-03T23:19:41Z" changeset="91916711" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Brno"/>
@@ -55,12 +55,6 @@
     <tag k="office" v="education_institute"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://kitchen.j321.com"/>
-  </node>
-  <node id="577449944" lat="17.9568411" lon="102.6149540" version="2" timestamp="2017-08-18T19:26:41Z" changeset="51241633" uid="6441904" user="cafechant">
-    <tag k="name" v="Chanthasom"/>
-    <tag k="name:en" v="Chanthasom"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="tourism" v="guest_house"/>
   </node>
   <node id="596189128" lat="32.7643400" lon="-117.1887090" version="5" timestamp="2020-06-16T22:21:19Z" changeset="86742477" uid="318696" user="n76">
     <tag k="addr:city" v="San Diego"/>
@@ -10269,25 +10263,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:coins" v="yes"/>
   </node>
-  <node id="2794763891" lat="41.7692780" lon="-72.6811856" version="8" timestamp="2022-10-02T22:09:07Z" changeset="126911183" uid="11810550" user="CT-import">
-    <tag k="addr:city" v="Hartford"/>
-    <tag k="addr:housenumber" v="76"/>
-    <tag k="addr:postcode" v="06103"/>
-    <tag k="addr:state" v="CT"/>
-    <tag k="addr:street" v="Union Place"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="name" v="7 Sins Lounge and Bar"/>
-    <tag k="note" v="Cryptos only accepted when Jason is bartending.(Saturdays, and other random nights)"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:dogecoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="payment:ultracoin" v="yes"/>
-    <tag k="payment:worldcoin" v="yes"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="website" v="https://www.facebook.com/7sinshartford"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="2794882106" lat="42.3972386" lon="-71.1234092" version="1" timestamp="2014-04-16T16:36:41Z" changeset="21733441" uid="2034919" user="digdesign">
     <tag k="addr:city" v="Somerville"/>
     <tag k="addr:housenumber" v="20"/>
@@ -15779,7 +15754,7 @@
     <tag k="smoking" v="yes"/>
     <tag k="source" v="도로명주소"/>
   </node>
-  <node id="3176081070" lat="41.9496752" lon="12.5582328" version="7" timestamp="2018-02-21T06:08:16Z" changeset="56539666" uid="3860151" user="Michele Aquilani">
+  <node id="3176081070" lat="41.9496752" lon="12.5582328" version="8" timestamp="2023-06-10T18:22:44Z" changeset="137181676" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="addr:city" v="Roma"/>
     <tag k="addr:housenumber" v="472"/>
     <tag k="addr:postcode" v="00137"/>
@@ -15787,7 +15762,7 @@
     <tag k="name" v="LaRe Collection"/>
     <tag k="operator" v="La Re"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="fashion"/>
+    <tag k="shop" v="clothes"/>
     <tag k="website" v="http://www.larecollection.com"/>
   </node>
   <node id="3179925225" lat="39.4683799" lon="-76.3024725" version="5" timestamp="2019-01-27T03:57:09Z" changeset="66668806" uid="128382" user="m86">
@@ -22307,7 +22282,7 @@
     <tag k="shop" v="travel_agency"/>
     <tag k="website" v="https://in-lx.com"/>
   </node>
-  <node id="4909082749" lat="47.3732776" lon="8.5447541" version="4" timestamp="2023-06-04T18:09:34Z" changeset="136943178" uid="15541433" user="paulbrunner">
+  <node id="4909082749" lat="47.3732776" lon="8.5447541" version="5" timestamp="2023-06-10T16:02:56Z" changeset="137177750" uid="79025" user="mstock">
     <tag k="addr:city" v="Zürich"/>
     <tag k="addr:housenumber" v="14"/>
     <tag k="addr:postcode" v="8001"/>
@@ -22315,7 +22290,7 @@
     <tag k="check_date" v="2023-06-04"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Yves Betschmann Goldschmied"/>
-    <tag k="opening_hours" v="Mo-Fr 10:00-12:00,14:00-18:00; Sa-Su off"/>
+    <tag k="opening_hours" v="Tu-Fr 10:00-13:00,14:00-18:30; Sa 11:00-16:30; PH closed"/>
     <tag k="operator" v="Yves Betschmann"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
@@ -30680,31 +30655,6 @@
     <tag k="shop" v="deli"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="7973739429" lat="20.2617001" lon="105.9130701" version="1" timestamp="2020-10-04T17:46:44Z" changeset="91941585" uid="11927792" user="Trangan Freedom Hood">
-    <tag k="addr:city" v="Ninh Bình"/>
-    <tag k="addr:district" v="Hoa Lu"/>
-    <tag k="addr:postcode" v="08251"/>
-    <tag k="addr:province" v="Ninh Binh"/>
-    <tag k="addr:street" v="Tràng An"/>
-    <tag k="addr:subdistrict" v="Trường Yên"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="description" v="Trang An Freedom Hood is natural hostel providing beds and breakfast and good environtment for expressing personalities."/>
-    <tag k="email" v="tranganfreedomhood@gmail.com"/>
-    <tag k="guest_house" v="hostel"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="internet_access:ssid" v="TRANGAN FREEDOM HOOD"/>
-    <tag k="name" v="Trang An Freedom Hood"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="phone" v="+84963843809"/>
-    <tag k="reservation" v="recommended"/>
-    <tag k="rooms" v="4"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="tourism" v="hostel"/>
-  </node>
   <node id="7986991548" lat="36.2952179" lon="59.5759913" version="4" timestamp="2022-01-08T14:26:35Z" changeset="115911819" uid="404146" user="HFatemi">
     <tag k="addr:city" v="مشهد"/>
     <tag k="addr:housenumber" v="150.3"/>
@@ -31112,26 +31062,6 @@
     <tag k="phone" v="+981135257888"/>
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://www.instagram.com/titan__store/"/>
-  </node>
-  <node id="8381866160" lat="47.3689318" lon="8.5382747" version="1" timestamp="2021-01-31T20:57:02Z" changeset="98466581" uid="12582363" user="Beautylook">
-    <tag k="addr:city" v="Zürich"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:postcode" v="8001"/>
-    <tag k="addr:street" v="Talstrasse"/>
-    <tag k="beauty" v="nails;cosmetics;spa;skin_care;waxing;hair_removal;pedicure;eyebrow;cosmetic_studio;eyelash;massage;laser_hair_removal;foot;skin"/>
-    <tag k="name" v="BeautyLook"/>
-    <tag k="opening_hours" v="Mo-Sa 09:30-20:00"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="phone" v="+41775070699"/>
-    <tag k="shop" v="beauty"/>
   </node>
   <node id="8384248820" lat="46.1516685" lon="-73.9045173" version="2" timestamp="2021-02-02T18:44:24Z" changeset="98595900" uid="5359" user="user_5359">
     <tag k="addr:city" v="Chertsey"/>
@@ -31629,30 +31559,6 @@
     <tag k="phone" v="+982122201102"/>
     <tag k="tourism" v="gallery"/>
     <tag k="website" v="https://shamis.gallery/"/>
-  </node>
-  <node id="8592928820" lat="21.0459556" lon="105.7944664" version="1" timestamp="2021-04-04T18:10:42Z" changeset="102282821" uid="12985106" user="vlxdtrungduc">
-    <tag k="addr:city" v="Hà Nội"/>
-    <tag k="addr:district" v="Cau Giay"/>
-    <tag k="addr:housenumber" v="321"/>
-    <tag k="addr:postcode" v="10000"/>
-    <tag k="addr:province" v="Hanoi"/>
-    <tag k="addr:street" v="Hoàng Quốc Việt"/>
-    <tag k="addr:subdistrict" v="Nghĩa Tân"/>
-    <tag k="brand" v="Toto, Inax, Viglacera, Taicera, Hoàng Hà, Kolni, Esinc"/>
-    <tag k="name" v="Trung Đức"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:visa_debit" v="yes"/>
-    <tag k="phone" v="024 3756 7826"/>
-    <tag k="shop" v="furniture"/>
-    <tag k="website" v="https://trungduc.org/"/>
   </node>
   <node id="8595308894" lat="-34.5456225" lon="-58.4656537" version="3" timestamp="2022-03-24T19:59:20Z" changeset="118880793" uid="12424494" user="lovelyfurball88">
     <tag k="addr:city" v="buenos aires"/>
