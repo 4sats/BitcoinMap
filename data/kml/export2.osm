@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-12T05:24:24Z"/>
+<meta osm_base="2023-06-13T05:23:32Z"/>
 
   <node id="296670580" lat="49.1776595" lon="16.6918088" version="7" timestamp="2020-10-03T23:19:41Z" changeset="91916711" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Brno"/>
@@ -33809,6 +33809,20 @@
     <tag k="name" v="Hibit"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:bitcoincash" v="yes"/>
+  </node>
+  <node id="10971775726" lat="4.9811487" lon="8.3424770" version="3" timestamp="2023-06-12T18:52:10Z" changeset="137256413" uid="19549395" user="Centino001">
+    <tag k="addr:city" v="Calabar"/>
+    <tag k="addr:housenumber" v="106"/>
+    <tag k="addr:postcode" v="540281"/>
+    <tag k="addr:street" v="Ndidem Usong Iso"/>
+    <tag k="name" v="Just_sneakersz"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-22:00"/>
+    <tag k="operator" v="Nelson"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+2348138491894"/>
+    <tag k="shoes" v="smart_shoes;slides;sneakers;black_sneakers;white_sneakers;nike_sneakers;female_sneakers;kids_sneakers"/>
+    <tag k="shop" v="shoes"/>
   </node>
 
 </osm>
