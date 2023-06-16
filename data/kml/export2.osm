@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-15T05:24:23Z"/>
+<meta osm_base="2023-06-16T05:24:22Z"/>
 
   <node id="296670580" lat="49.1776595" lon="16.6918088" version="7" timestamp="2020-10-03T23:19:41Z" changeset="91916711" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Brno"/>
@@ -123,15 +123,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="ref:ruian:addr" v="12163490"/>
     <tag k="website" v="http://www.sultancrystal.com/"/>
-  </node>
-  <node id="672847802" lat="51.5272187" lon="-0.0886587" version="9" timestamp="2021-08-06T21:44:34Z" changeset="109285646" uid="1735800" user="adlid">
-    <tag k="addr:city" v="London"/>
-    <tag k="addr:housenumber" v="152"/>
-    <tag k="addr:postcode" v="EC1V 2NX"/>
-    <tag k="addr:street" v="City Road"/>
-    <tag k="name" v="Himalayan People"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://himalayanpeople.com/"/>
   </node>
   <node id="687312669" lat="55.6772854" lon="12.5693007" version="5" timestamp="2022-02-21T01:49:57Z" changeset="117659779" uid="1288" user="Niels Elgaard Larsen">
     <tag k="amenity" v="bar"/>
@@ -4642,7 +4633,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.thebitpros.com/"/>
   </node>
-  <node id="2622960029" lat="38.5706710" lon="-90.2847742" version="7" timestamp="2023-05-29T21:25:44Z" changeset="136718228" uid="15080312" user="CatSu">
+  <node id="2622960029" lat="38.5706574" lon="-90.2847379" version="8" timestamp="2023-06-15T09:02:01Z" changeset="137361027" uid="15080312" user="CatSu">
     <tag k="addr:city" v="Saint Louis"/>
     <tag k="addr:housenumber" v="6829"/>
     <tag k="addr:postcode" v="63116"/>
@@ -15160,12 +15151,13 @@
     <tag k="phone" v="407-310-6212"/>
     <tag k="website" v="http://www.mitnow.com/bitcoin/"/>
   </node>
-  <node id="3147758905" lat="54.6803006" lon="25.2859313" version="7" timestamp="2022-05-18T22:22:34Z" changeset="121166662" uid="9451067" user="b-jazz-bot">
+  <node id="3147758905" lat="54.6803006" lon="25.2859313" version="8" timestamp="2023-06-15T09:36:32Z" changeset="137362303" uid="29272" user="putnik">
     <tag k="addr:city" v="Vilnius"/>
     <tag k="addr:contact" v="yes"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Žydų g."/>
     <tag k="barber" v="yes"/>
+    <tag k="male" v="yes"/>
     <tag k="name" v="Barzdaskučiai"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
@@ -19397,37 +19389,17 @@
     <tag k="shop" v="deli"/>
     <tag k="website" v="https://www.owlting.com/market/vendor/6956"/>
   </node>
-  <node id="3616982221" lat="22.9742677" lon="120.2439244" version="1" timestamp="2015-06-25T07:25:08Z" changeset="32199070" uid="2525089" user="RexLi">
-    <tag k="name" v="巨農有機農場"/>
-    <tag k="organic" v="only"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="supermarket"/>
-    <tag k="website" v="https://www.owlting.com/market/vendor/6972"/>
-  </node>
   <node id="3616999927" lat="24.1877532" lon="120.6694856" version="1" timestamp="2015-06-25T07:45:39Z" changeset="32199333" uid="2525089" user="RexLi">
     <tag k="name" v="123養生雞湯"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="yes"/>
     <tag k="website" v="https://www.owlting.com/market/vendor/6945"/>
   </node>
-  <node id="3617002535" lat="22.9758152" lon="120.2272049" version="1" timestamp="2015-06-25T07:49:07Z" changeset="32199373" uid="2525089" user="RexLi">
-    <tag k="name" v="簡單樸實 村家味"/>
-    <tag k="organic" v="only"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="supermarket"/>
-    <tag k="website" v="https://www.owlting.com/market/vendor/6968"/>
-  </node>
   <node id="3617005374" lat="24.2321819" lon="120.7046174" version="2" timestamp="2016-09-27T09:13:36Z" changeset="42465101" uid="2644101" user="Chetan_Gowda">
     <tag k="name" v="唯誠國際 Baby Crown (嬰幼用品)"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="toys"/>
     <tag k="website" v="https://www.owlting.com/market/vendor/7121"/>
-  </node>
-  <node id="3617007448" lat="22.9570832" lon="120.3911680" version="1" timestamp="2015-06-25T07:55:13Z" changeset="32199461" uid="2525089" user="RexLi">
-    <tag k="name" v="野飼崎雞"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="place" v="farm"/>
-    <tag k="website" v="https://www.owlting.com/market/vendor/7065"/>
   </node>
   <node id="3617009136" lat="25.0834186" lon="121.5530868" version="1" timestamp="2015-06-25T07:59:35Z" changeset="32199538" uid="2525089" user="RexLi">
     <tag k="name" v="丞洋企業"/>
@@ -19509,11 +19481,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.owlting.com/market/vendor/11021"/>
   </node>
-  <node id="3617221750" lat="23.0808652" lon="120.0783689" version="1" timestamp="2015-06-25T10:05:52Z" changeset="32201598" uid="2958864" user="Nick Chang">
-    <tag k="name" v="黑琵灣"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.owlting.com/market/vendor/10867"/>
-  </node>
   <node id="3617236775" lat="25.1471129" lon="121.6995242" version="5" timestamp="2019-03-31T00:59:12Z" changeset="68712928" uid="9451067" user="b-jazz-bot">
     <tag k="man_made" v="works"/>
     <tag k="name" v="itai 一太e衛浴"/>
@@ -19524,11 +19491,6 @@
     <tag k="name" v="藍田春"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.owlting.com/market/vendor/10605"/>
-  </node>
-  <node id="3617255693" lat="23.1643663" lon="120.1674794" version="3" timestamp="2022-03-06T14:55:17Z" changeset="118162210" uid="9352332" user="TainanLai">
-    <tag k="name" v="禾香鮮乳"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.owlting.com/market/vendor/10601"/>
   </node>
   <node id="3617264530" lat="25.0273941" lon="121.5437144" version="2" timestamp="2016-06-17T14:01:27Z" changeset="40094957" uid="274857" user="Supaplex">
     <tag k="name" v="Absolute Technology"/>
@@ -33620,7 +33582,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="shop" v="electronics"/>
   </node>
-  <node id="10977887186" lat="34.0098797" lon="-81.0040729" version="2" timestamp="2023-06-14T23:38:31Z" changeset="137348203" uid="19564598" user="KALIKŌ Salon">
+  <node id="10977887186" lat="34.0098797" lon="-81.0040729" version="3" timestamp="2023-06-15T05:49:07Z" changeset="137353890" uid="5359" user="user_5359">
     <tag k="addr:city" v="Columbia"/>
     <tag k="addr:housenumber" v="1500"/>
     <tag k="addr:postcode" v="29205"/>
@@ -33629,11 +33591,12 @@
     <tag k="addr:unit" v="B"/>
     <tag k="name" v="KALIKŌ Salon"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:card" v="yes"/>
     <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:currency_xbt" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="803-799-6699"/>
+    <tag k="phone" v="+1-803-799-6699"/>
     <tag k="shop" v="hairdresser"/>
   </node>
   <node id="10978084734" lat="13.4971051" lon="-89.4425631" version="1" timestamp="2023-06-15T03:49:26Z" changeset="137351511" uid="19581577" user="casakikita">
@@ -33651,6 +33614,25 @@
     <tag k="product" v="meat"/>
     <tag k="shop" v="farm"/>
     <tag k="website" v="www.beefbackbetter.com"/>
+  </node>
+  <node id="10978619446" lat="-23.6020677" lon="-46.9117256" version="2" timestamp="2023-06-15T19:23:06Z" changeset="137386611" uid="19576874" user="Fecchio Informática">
+    <tag k="addr:city" v="Cotia"/>
+    <tag k="addr:housenumber" v="1675"/>
+    <tag k="addr:postcode" v="06703000"/>
+    <tag k="addr:street" v="Avenida Professor José Barreto"/>
+    <tag k="addr:suburb" v="Jardim Dinorah"/>
+    <tag k="name" v="Fecchio Informática"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:30 / Sa -12:00"/>
+    <tag k="payment:account_cards" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+55 11 47032235"/>
+    <tag k="shop" v="yes"/>
   </node>
 
 </osm>
