@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-17T05:23:42Z"/>
+<meta osm_base="2023-06-18T05:23:15Z"/>
 
   <node id="296670580" lat="49.1776595" lon="16.6918088" version="7" timestamp="2020-10-03T23:19:41Z" changeset="91916711" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Brno"/>
@@ -221,28 +221,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 0434 27312"/>
     <tag k="website" v="https://dacico.it/"/>
-  </node>
-  <node id="768593714" lat="46.3859813" lon="11.2589603" version="6" timestamp="2020-08-07T18:53:36Z" changeset="89105913" uid="7407533" user="ieiunium">
-    <tag k="addr:housenumber" v="12"/>
-    <tag k="addr:street" v="Località San Giuseppe al Lago - St. Josef am See"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="noodle;pizza"/>
-    <tag k="internet_access" v="no"/>
-    <tag k="name" v="Geier"/>
-    <tag k="opening_hours" v="Jul 1-Sep 15 Mo,We-Su 10:00-23:00; Sep 16-Oct 27 Mo,Th-Su 10:00-23:00"/>
-    <tag k="opening_hours:kitchen" v="Mo,We-Su 12:00-14:30,17:00-23:00"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="reservation" v="recommended"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="toilets" v="yes"/>
-    <tag k="toilets:wheelchair" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="796750192" lat="41.9760828" lon="2.8199838" version="5" timestamp="2022-04-14T19:49:44Z" changeset="119727319" uid="3417876" user="5R-MFT">
     <tag k="amenity" v="pharmacy"/>
@@ -15652,22 +15630,6 @@
     <tag k="shop" v="electronics"/>
     <tag k="website" v="http://www.coinstation.com.au/"/>
   </node>
-  <node id="3182949524" lat="33.2484456" lon="126.5631054" version="12" timestamp="2019-08-23T04:01:46Z" changeset="73647461" uid="238419" user="HubMiner">
-    <tag k="addr:city" v="Seogwipo, Google maps: https://goo.gl/maps/gEhVw"/>
-    <tag k="addr:housenumber" v="274-1 (first market entrance from the west side, second store)"/>
-    <tag k="addr:street" v="Seogui-dong"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="capacity" v="8"/>
-    <tag k="cuisine" v="족발_(boiled_pork_leg),_순대(soondae/blood_sausage)"/>
-    <tag k="description" v="The oldest boiled black pork maker in Jeju still in business. Most famous for their special recipe for marinated boiled pork leg and kimchi sundae."/>
-    <tag k="name" v="그때그집"/>
-    <tag k="name:en" v="Black Pork Specialties"/>
-    <tag k="name:ko" v="그때그집"/>
-    <tag k="opening_hours" v="08:00-20:30"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+82 64 762 4323"/>
-    <tag k="website" v="https://imgur.com/Twyd69E"/>
-  </node>
   <node id="3183597886" lat="47.5609721" lon="7.5747869" version="3" timestamp="2018-06-22T13:51:15Z" changeset="60077073" uid="4067009" user="KaiPankrath">
     <tag k="addr:city" v="Basel"/>
     <tag k="addr:housenumber" v="4"/>
@@ -16366,19 +16328,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="yes"/>
     <tag k="website" v="https://www.rehabcenter.fi/"/>
-  </node>
-  <node id="3232234257" lat="39.2164072" lon="9.1116009" version="1" timestamp="2014-12-12T23:38:16Z" changeset="27432659" uid="2517501" user="ifts78">
-    <tag k="addr:city" v="Cagliari"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:postcode" v="09124"/>
-    <tag k="addr:street" v="Via Giovanni Maria Angioy"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="email" v="info@enorestaurant.it"/>
-    <tag k="name" v="Pizzeria Pizzenò"/>
-    <tag k="opening_hours" v="19:30 - 24:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0706848243"/>
   </node>
   <node id="3233702538" lat="-25.3017990" lon="-57.5905632" version="5" timestamp="2019-08-30T13:40:51Z" changeset="73924131" uid="2296781" user="Belore">
     <tag k="addr:city" v="Asunción"/>
@@ -18428,16 +18377,15 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:coinbeyond" v="Yes"/>
   </node>
-  <node id="3439376693" lat="47.1402351" lon="9.5210385" version="4" timestamp="2019-02-02T16:56:58Z" changeset="66860086" uid="3524812" user="SWF8">
+  <node id="3439376693" lat="47.1402351" lon="9.5210385" version="5" timestamp="2023-06-18T02:00:04Z" changeset="137464676" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Vaduz"/>
     <tag k="addr:country" v="LI"/>
     <tag k="addr:housenumber" v="20"/>
     <tag k="addr:street" v="Äulestrasse"/>
     <tag k="amenity" v="fast_food"/>
     <tag k="contact:email" v="tuerkueler_suembuel@hotmail.com"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/pages/Azzurro-Kebap-P%C4%B1zza/1424675704462178"/>
     <tag k="contact:phone" v="+423232 48 18"/>
-    <tag k="contact:website" v="https://www.facebook.com/pages/Azzurro-Kebap-P%C4%B1zza/1424675704462178"/>
-    <tag k="description" v="Bitcoin fast food in the heart of Vaduz."/>
     <tag k="name" v="Azzurro Pizza &amp; Kebap"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
@@ -28700,21 +28648,6 @@
     <tag k="shop" v="hardware"/>
     <tag k="website" v="http://chel.ekoekat.ru/"/>
   </node>
-  <node id="6932701381" lat="-34.7247858" lon="-56.2104248" version="2" timestamp="2023-06-05T00:22:25Z" changeset="136950946" uid="19380224" user="Escuelita Bitcoin Uy">
-    <tag k="addr:city" v="Las Piedras"/>
-    <tag k="addr:housenumber" v="816"/>
-    <tag k="addr:postcode" v="15900"/>
-    <tag k="addr:street" v="República Argentina"/>
-    <tag k="name" v="EL MINISUPER DE LAS PIEDRAS"/>
-    <tag k="opening_hours" v="Mo-Su 08:00-23:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+59892193956"/>
-    <tag k="ref:AGESIC" v="0101000020D17F000052B81E8506772141CDCCCC2CE27C5741/816"/>
-    <tag k="shop" v="supermarket"/>
-  </node>
   <node id="6934298685" lat="35.6641661" lon="51.3157220" version="4" timestamp="2020-12-13T16:16:35Z" changeset="95761336" uid="3800783" user="Mostafa Ahangarha">
     <tag k="addr:city" v="تهران"/>
     <tag k="addr:housenumber" v="38"/>
@@ -33476,7 +33409,7 @@
     <tag k="phone" v="+1-803-799-6699"/>
     <tag k="shop" v="hairdresser"/>
   </node>
-  <node id="10978084734" lat="13.4971051" lon="-89.4425631" version="1" timestamp="2023-06-15T03:49:26Z" changeset="137351511" uid="19581577" user="casakikita">
+  <node id="10978084734" lat="13.4971051" lon="-89.4425631" version="2" timestamp="2023-06-18T04:20:15Z" changeset="137465860" uid="9451067" user="b-jazz-bot">
     <tag k="contact:instagram" v="https://instagram.com/beefbackbettersv"/>
     <tag k="contact:twitter" v="https://twitter.com/beefbackbetter"/>
     <tag k="currency:XBT" v="yes"/>
@@ -33490,7 +33423,7 @@
     <tag k="phone" v="+50369826911"/>
     <tag k="product" v="meat"/>
     <tag k="shop" v="farm"/>
-    <tag k="website" v="www.beefbackbetter.com"/>
+    <tag k="website" v="https://www.beefbackbetter.com/"/>
   </node>
   <node id="10978619446" lat="-23.6020677" lon="-46.9117256" version="2" timestamp="2023-06-15T19:23:06Z" changeset="137386611" uid="19576874" user="Fecchio Informática">
     <tag k="addr:city" v="Cotia"/>
@@ -33510,6 +33443,15 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+55 11 47032235"/>
     <tag k="shop" v="yes"/>
+  </node>
+  <node id="10982733232" lat="-27.5898349" lon="-48.4937912" version="2" timestamp="2023-06-17T16:43:13Z" changeset="137454277" uid="2339960" user="adrianojbr">
+    <tag k="level" v="0"/>
+    <tag k="name" v="Chocolateria Darê"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="phone" v="+55 48 98434-4100"/>
+    <tag k="shop" v="chocolate"/>
   </node>
 
 </osm>
