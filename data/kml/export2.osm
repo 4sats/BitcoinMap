@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-18T05:23:15Z"/>
+<meta osm_base="2023-06-19T05:24:36Z"/>
 
   <node id="296670580" lat="49.1776595" lon="16.6918088" version="7" timestamp="2020-10-03T23:19:41Z" changeset="91916711" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Brno"/>
@@ -2683,12 +2683,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-214-614-8108"/>
     <tag k="website" v="http://dallaslasermed.com/"/>
-  </node>
-  <node id="2576648027" lat="55.1629146" lon="-118.7944383" version="2" timestamp="2013-12-12T08:15:52Z" changeset="19408044" uid="1676472" user="sarpulhu">
-    <tag k="landuse" v="commercial"/>
-    <tag k="name" v="Joys Of Preschool"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.joysofpreschool.com"/>
   </node>
   <node id="2577599606" lat="46.1481937" lon="8.3264231" version="6" timestamp="2022-07-16T21:44:22Z" changeset="123703525" uid="11220113" user="ivanbranco">
     <tag k="addr:city" v="Masera"/>
@@ -15123,18 +15117,6 @@
     <tag k="phone" v="+1-206-430-5839"/>
     <tag k="website" v="https://www.moondropcoffee.com/"/>
   </node>
-  <node id="3148254379" lat="37.3751132" lon="-6.0023066" version="5" timestamp="2019-08-26T10:50:34Z" changeset="73745380" uid="170106" user="sanchi">
-    <tag k="addr:city" v="Sevilla"/>
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:postcode" v="41011"/>
-    <tag k="addr:street" v="Calle Virgen de África"/>
-    <tag k="contact:phone" v="+34 955 325 077"/>
-    <tag k="name" v="El Arco Iris"/>
-    <tag k="opening_hours" v="9:00-22:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="no"/>
-    <tag k="shop" v="convenience"/>
-  </node>
   <node id="3148399645" lat="10.4845829" lon="-66.8647236" version="10" timestamp="2021-09-23T22:51:01Z" changeset="111617305" uid="5443883" user="Wilmer Osario">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:postcode" v="1060"/>
@@ -16296,12 +16278,12 @@
     <tag k="shop" v="clothes"/>
     <tag k="website" v="http://www.josieb.com"/>
   </node>
-  <node id="3229817163" lat="37.3943316" lon="-5.9960811" version="4" timestamp="2014-12-12T23:29:51Z" changeset="27432559" uid="2042655" user="ta7">
+  <node id="3229817163" lat="37.3943316" lon="-5.9960811" version="5" timestamp="2023-06-18T19:28:30Z" changeset="137490498" uid="18430254" user="JérémieS">
     <tag k="addr:city" v="Sevilla"/>
-    <tag k="addr:housenumber" v="2, 2º C"/>
+    <tag k="addr:housenumber" v="11,4a"/>
     <tag k="addr:postcode" v="41002"/>
-    <tag k="addr:street" v="Calle Las Cortes"/>
-    <tag k="name" v="Abogado Fernando Soler Fernández"/>
+    <tag k="addr:street" v="Pl. Nueva"/>
+    <tag k="name" v="Abogados Fernando Soler Fernández"/>
     <tag k="office" v="lawyer"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+34 627 475 237"/>
@@ -33409,9 +33391,9 @@
     <tag k="phone" v="+1-803-799-6699"/>
     <tag k="shop" v="hairdresser"/>
   </node>
-  <node id="10978084734" lat="13.4971051" lon="-89.4425631" version="2" timestamp="2023-06-18T04:20:15Z" changeset="137465860" uid="9451067" user="b-jazz-bot">
-    <tag k="contact:instagram" v="https://instagram.com/beefbackbettersv"/>
-    <tag k="contact:twitter" v="https://twitter.com/beefbackbetter"/>
+  <node id="10978084734" lat="13.4971051" lon="-89.4425631" version="3" timestamp="2023-06-18T10:38:01Z" changeset="137473523" uid="616774" user="mueschel">
+    <tag k="contact:instagram" v="beefbackbettersv"/>
+    <tag k="contact:twitter" v="beefbackbetter"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="BeefBackBetter"/>
     <tag k="opening_hours" v="online"/>
@@ -33419,7 +33401,7 @@
     <tag k="organic" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightningcontactless" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="phone" v="+50369826911"/>
     <tag k="product" v="meat"/>
     <tag k="shop" v="farm"/>
