@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-20T05:24:11Z"/>
+<meta osm_base="2023-06-21T05:24:56Z"/>
 
   <node id="296670580" lat="49.1776595" lon="16.6918088" version="7" timestamp="2020-10-03T23:19:41Z" changeset="91916711" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Brno"/>
@@ -5638,22 +5638,23 @@
     <tag k="payment:dogecoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
   </node>
-  <node id="2643434568" lat="49.1910672" lon="16.6238499" version="5" timestamp="2018-09-13T12:48:20Z" changeset="62550767" uid="2037651" user="Francois555">
+  <node id="2643434568" lat="49.1910672" lon="16.6238499" version="6" timestamp="2023-06-20T10:50:33Z" changeset="137556987" uid="251543" user="ChrissW-R1">
     <tag k="addr:city" v="Brno"/>
+    <tag k="addr:country" v="CZ"/>
     <tag k="addr:housename" v="Papírny Brno"/>
     <tag k="addr:housenumber" v="187/60a"/>
     <tag k="addr:postcode" v="602 00"/>
     <tag k="addr:street" v="Křenová"/>
+    <tag k="contact:email" v="info@trinerdis.cz"/>
+    <tag k="contact:phone" v="+420 721 155 905"/>
+    <tag k="contact:website" v="http://trinerdis.cz"/>
     <tag k="description" v="Vývoj mobilních aplikací na zakázku pro operační systémy Android, iOS a Windows Phone."/>
-    <tag k="description:cz" v="Vývoj mobilních aplikací na zakázku pro operační systémy Android, iOS a Windows Phone."/>
+    <tag k="description:cs" v="Vývoj mobilních aplikací na zakázku pro operační systémy Android, iOS a Windows Phone."/>
     <tag k="description:en" v="Development of custom-made mobile applications for Android, iOS and Windows Phome operating systems."/>
-    <tag k="email" v="info@trinerdis.cz"/>
     <tag k="name" v="Trinerdis s.r.o."/>
     <tag k="office" v="company"/>
-    <tag k="opening_hours" v="8:00-18:00"/>
+    <tag k="opening_hours" v="08:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+420 721 155 905"/>
-    <tag k="website" v="http://trinerdis.cz"/>
   </node>
   <node id="2643819840" lat="45.4153568" lon="-75.6884240" version="8" timestamp="2018-08-30T16:05:28Z" changeset="62145139" uid="5789626" user="DannyMcD">
     <tag k="addr:housenumber" v="360"/>
@@ -26946,29 +26947,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3487915345"/>
   </node>
-  <node id="6088528421" lat="-29.6373196" lon="-50.9392369" version="3" timestamp="2023-06-16T22:57:49Z" changeset="137430978" uid="19600267" user="badermann2011">
-    <tag k="addr:city" v="Araricá"/>
-    <tag k="addr:housenumber" v="2090"/>
-    <tag k="addr:postcode" v="93880-000"/>
-    <tag k="addr:street" v="RS 239"/>
-    <tag k="addr:suburb" v="Campo da Brazina"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/cafeteriasantoandre/"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/cafeteriasantoandre/"/>
-    <tag k="cuisine" v="coffee_shop"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="customers"/>
-    <tag k="name" v="Cafeteria  Santo André"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="phone" v="+55 51 98045 5535"/>
-    <tag k="toilets" v="yes"/>
-    <tag k="website" v="https://www.instagram.com/cafeteriasantoandre/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="6090361022" lat="-23.7298228" lon="-46.7021337" version="1" timestamp="2018-11-25T16:23:01Z" changeset="64870864" uid="4185440" user="Santos FC">
     <tag k="addr:city" v="São Paulo"/>
     <tag k="addr:housenumber" v="S/N"/>
@@ -31638,23 +31616,6 @@
     <tag k="shop" v="yes"/>
     <tag k="website" v="https://www.minimotors.ph"/>
   </node>
-  <node id="9216304174" lat="22.4673960" lon="-79.7264354" version="2" timestamp="2023-04-29T15:10:06Z" changeset="135507653" uid="17237320" user="Acimut">
-    <tag k="addr:city" v="Camajuaní"/>
-    <tag k="addr:housenumber" v="142"/>
-    <tag k="addr:postcode" v="54200"/>
-    <tag k="addr:street" v="Independencia"/>
-    <tag k="description" v="Reparaciones de hardware y software, configuraciones y desbloqueo de teléfonos móviles, tabletas y laptops"/>
-    <tag k="name" v="Taller de Celualres &quot;Podemos solucionarlo&quot;"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
-    <tag k="opening_hours:covid19" v="same"/>
-    <tag k="operator" v="Osvaldo Martíenz"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="+5355535685"/>
-    <tag k="shop" v="mobile_phone"/>
-    <tag k="start_date" v="2019-08-12"/>
-  </node>
   <node id="9220095194" lat="36.7343596" lon="-119.7347728" version="1" timestamp="2021-11-03T01:17:24Z" changeset="113307533" uid="12493764" user="archpdx">
     <tag k="addr:city" v="Fresno"/>
     <tag k="addr:housenumber" v="4850"/>
@@ -32959,6 +32920,21 @@
     <tag k="shop" v="clothes"/>
     <tag k="website" v="https://beaubienstore.com/"/>
   </node>
+  <node id="10296625888" lat="1.2891310" lon="103.8461569" version="3" timestamp="2023-06-20T15:18:09Z" changeset="137568450" uid="10499594" user="MapTheWalk">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2023-06-19"/>
+    <tag k="check_date:currency:XBT" v="2023-05-19"/>
+    <tag k="cuisine" v="korean"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="8 Korean BBQ"/>
+    <tag k="opening_hours" v="Mo-Su 11:30–14:30, 17:30–22:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+6586921188"/>
+    <tag k="website" v="http://8koreanbbq.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="10548606693" lat="29.3983964" lon="71.7582471" version="1" timestamp="2023-01-13T11:14:56Z" changeset="131224959" uid="18263261" user="Rohan Ghalib">
     <tag k="addr:city" v="Bahawalpur"/>
     <tag k="addr:housenumber" v="House no 132,"/>
@@ -33316,25 +33292,6 @@
     <tag k="shop" v="farm"/>
     <tag k="website" v="https://www.beefbackbetter.com/"/>
   </node>
-  <node id="10978619446" lat="-23.6020677" lon="-46.9117256" version="2" timestamp="2023-06-15T19:23:06Z" changeset="137386611" uid="19576874" user="Fecchio Informática">
-    <tag k="addr:city" v="Cotia"/>
-    <tag k="addr:housenumber" v="1675"/>
-    <tag k="addr:postcode" v="06703000"/>
-    <tag k="addr:street" v="Avenida Professor José Barreto"/>
-    <tag k="addr:suburb" v="Jardim Dinorah"/>
-    <tag k="name" v="Fecchio Informática"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-17:30 / Sa -12:00"/>
-    <tag k="payment:account_cards" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+55 11 47032235"/>
-    <tag k="shop" v="yes"/>
-  </node>
   <node id="10982733232" lat="-27.5898349" lon="-48.4937912" version="2" timestamp="2023-06-17T16:43:13Z" changeset="137454277" uid="2339960" user="adrianojbr">
     <tag k="level" v="0"/>
     <tag k="name" v="Chocolateria Darê"/>
@@ -33377,6 +33334,40 @@
     <tag k="start_date" v="2023-06-10"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://blueempirehotel.com"/>
+  </node>
+  <node id="10992283114" lat="-22.6400519" lon="-47.0423557" version="1" timestamp="2023-06-20T14:55:11Z" changeset="137567762" uid="3260208" user="MiLorde">
+    <tag k="addr:housenumber" v="100"/>
+    <tag k="addr:street" v="Rua das Dálias"/>
+    <tag k="name" v="Parque Hotel Holambra"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="10992300837" lat="1.2892978" lon="103.8464641" version="1" timestamp="2023-06-20T15:18:09Z" changeset="137568450" uid="10499594" user="MapTheWalk">
+    <tag k="addr:floor" v="2"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2023-06-19"/>
+    <tag k="cuisine" v="korean;barbecue"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Eight Korean BBQ"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+  </node>
+  <node id="10993979893" lat="48.8172241" lon="-124.1755938" version="1" timestamp="2023-06-21T05:21:17Z" changeset="137586999" uid="19639526" user="Lot 4 Salsa Tatemada">
+    <tag k="addr:city" v="Honeymoon Bay"/>
+    <tag k="addr:housenumber" v="10052"/>
+    <tag k="addr:postcode" v="V0R 1Y0"/>
+    <tag k="addr:province" v="BC"/>
+    <tag k="addr:street" v="South Shore Road"/>
+    <tag k="addr:unit" v="5"/>
+    <tag k="name" v="Lot 4 - Fresh Salsa Tatemada"/>
+    <tag k="opening_hours" v="Saturdays 10am-2pm (May-&gt;Oct)"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="supermarket"/>
   </node>
 
 </osm>
