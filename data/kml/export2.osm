@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-21T05:24:56Z"/>
+<meta osm_base="2023-06-22T05:24:17Z"/>
 
   <node id="296670580" lat="49.1776595" lon="16.6918088" version="7" timestamp="2020-10-03T23:19:41Z" changeset="91916711" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Brno"/>
@@ -345,24 +345,6 @@
     <tag k="wheelchair" v="limited"/>
     <tag k="wikidata" v="Q1965640"/>
     <tag k="wikipedia" v="nl:Filmhuis Cavia"/>
-  </node>
-  <node id="944768186" lat="-34.9112881" lon="-56.1909114" version="7" timestamp="2023-06-05T00:23:38Z" changeset="136950956" uid="19380224" user="Escuelita Bitcoin Uy">
-    <tag k="addr:city" v="Montevideo"/>
-    <tag k="addr:country" v="UY"/>
-    <tag k="addr:housenumber" v="1061"/>
-    <tag k="addr:street" v="Héctor Gutiérrez Ruiz"/>
-    <tag k="leisure" v="fitness_centre"/>
-    <tag k="mvdgis:cod_nombre" v="3441"/>
-    <tag k="mvdgis:padron" v="8203"/>
-    <tag k="name" v="Satoshi CrossFit"/>
-    <tag k="opening_hours" v="Mo-Fr 07:00-22:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+59892321900"/>
-    <tag k="sport" v="crossfit"/>
-    <tag k="website" v="https://www.satoshicrossfit.com/"/>
   </node>
   <node id="944997015" lat="42.8431935" lon="74.5905907" version="4" timestamp="2014-09-05T00:51:32Z" changeset="25239030" uid="132627" user="RastaM">
     <tag k="amenity" v="restaurant"/>
@@ -33368,6 +33350,17 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="10996242632" lat="20.8987162" lon="-100.7539050" version="1" timestamp="2023-06-22T00:47:05Z" changeset="137625744" uid="19426458" user="Bitcoinhubs">
+    <tag k="addr:city" v="San Miguel de Allende"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="37765"/>
+    <tag k="addr:street" v="Carretera Salida a Celaya"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="alitas"/>
+    <tag k="name" v="Hot Wings 85"/>
+    <tag k="payment: lightning" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
   </node>
 
 </osm>
