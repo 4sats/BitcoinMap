@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-22T05:24:17Z"/>
+<meta osm_base="2023-06-23T05:27:35Z"/>
 
   <node id="296670580" lat="49.1776595" lon="16.6918088" version="7" timestamp="2020-10-03T23:19:41Z" changeset="91916711" uid="102554" user="Jezevec">
     <tag k="addr:city" v="Brno"/>
@@ -33361,6 +33361,22 @@
     <tag k="name" v="Hot Wings 85"/>
     <tag k="payment: lightning" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
+  </node>
+  <node id="10997191065" lat="45.5518736" lon="10.1899364" version="2" timestamp="2023-06-22T12:17:50Z" changeset="137645441" uid="17001488" user="Villaggio Bitcoin">
+    <tag k="addr:city" v="Brescia"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="25127"/>
+    <tag k="addr:street" v="Via Chiusure"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="email" v="info@dentalparkstudios.com"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="healthcare:speciality" v="dental_oral_maxillo_facial_surgery;dental;dentistry"/>
+    <tag k="name" v="Dental Park StudioS"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+39 030 314750"/>
+    <tag k="website" v="https://www.augustopezzola.com/"/>
   </node>
 
 </osm>
