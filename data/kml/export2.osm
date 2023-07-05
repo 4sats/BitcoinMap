@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-04T05:27:29Z"/>
+<meta osm_base="2023-07-05T05:28:15Z"/>
 
   <node id="596189128" lat="32.7643400" lon="-117.1887090" version="5" timestamp="2020-06-16T22:21:19Z" changeset="86742477" uid="318696" user="n76">
     <tag k="addr:city" v="San Diego"/>
@@ -142,30 +142,6 @@
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
   </node>
-  <node id="864716914" lat="45.5071113" lon="-73.5528417" version="8" timestamp="2015-06-16T11:03:26Z" changeset="32003172" uid="701345" user="TristanA">
-    <tag k="addr:city" v="Montréal"/>
-    <tag k="addr:housenumber" v="161"/>
-    <tag k="addr:postcode" v="H2Y 1G8"/>
-    <tag k="addr:street" v="Rue Saint-Paul Est"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/MontrealPoutine"/>
-    <tag k="contact:phone" v="+1-514-656-0935"/>
-    <tag k="contact:twitter" v="montrealpoutine"/>
-    <tag k="contact:website" v="http://montrealpoutine.ca"/>
-    <tag k="cuisine" v="poutine"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="internet_access:ssid" v="mpoutine"/>
-    <tag k="name" v="Montreal Poutine"/>
-    <tag k="name:fr" v="Montréal Poutine"/>
-    <tag k="opening_hours" v="Su-Th 10:00-24:00;Fr-Sa 10:00-03:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="website" v="http://montrealpoutine.ca"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="908305698" lat="44.3569816" lon="-79.7166114" version="5" timestamp="2018-02-18T03:47:14Z" changeset="56454029" uid="5633991" user="Matthew Darwin">
     <tag k="addr:city" v="Barrie"/>
     <tag k="addr:housenumber" v="5"/>
@@ -204,13 +180,6 @@
     <tag k="phone" v="+1 727 896 2400"/>
     <tag k="takeaway" v="no"/>
     <tag k="website" v="https://www.400beachseafood.com/"/>
-  </node>
-  <node id="944997015" lat="42.8431935" lon="74.5905907" version="4" timestamp="2014-09-05T00:51:32Z" changeset="25239030" uid="132627" user="RastaM">
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="italian"/>
-    <tag k="name" v="Dolce Vita"/>
-    <tag k="name:en" v="Dolce Vita"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="965893197" lat="44.8335261" lon="11.6221808" version="8" timestamp="2020-09-06T12:11:06Z" changeset="90478280" uid="160229" user="sorcrosc">
     <tag k="addr:city" v="Ferrara"/>
@@ -499,43 +468,6 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.yummythaistpete.com"/>
   </node>
-  <node id="2026726062" lat="42.8569882" lon="74.6123557" version="8" timestamp="2022-05-30T22:14:20Z" changeset="121740192" uid="10635178" user="Aldo Coffee Bishkek">
-    <tag k="addr:city" v="Бишкек"/>
-    <tag k="addr:country" v="KG"/>
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:postcode" v="720005"/>
-    <tag k="addr:street" v="Максима Горького улица"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="brand" v="Aldo Coffee Bishkek"/>
-    <tag k="capacity" v="120"/>
-    <tag k="cuisine" v="coffee_shop;pizza;burger;italian;sandwich;chicken;ice_cream;international"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="description" v="Кофейня Альдо &quot;Aldo Coffee&quot; - это вкусный и комфортный отдых в Бишкеке&#x0a;&#x0a;У нас каждый гость является желанным и любимым!&#x0a;&#x0a;Мы подаем вкусные горячие и холодные напитки от наших профессиональных барист. Команда поваров приготовят Вам вкуснейшие блюда из наше"/>
-    <tag k="email" v="aldobishkek@gmail.com"/>
-    <tag k="image" v="https://drive.google.com/file/d/1yHL15-cxZPc0TfxIack6bcIx80up95oS/view?usp=sharing"/>
-    <tag k="internet_access" v="wi-fi"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="internet_access:ssid" v="ALDO-COFFEE"/>
-    <tag k="name" v="Aldo Coffee Bishkek"/>
-    <tag k="name:ky" v="Кофейня Альдо"/>
-    <tag k="name:ru" v="Кофейня Альдо"/>
-    <tag k="not:name" v="aldo cafe;aldo cofee;кофейня алдо;алдо кофе;альдо кофе;кофейня альдо;aldo coffee;ald coffe;aldo coffe;алдо кофейня;кофе альдо;кофе алдо"/>
-    <tag k="opening_hours" v="Mo-Su 7:30-02:00"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+996500222777"/>
-    <tag k="reservation" v="yes"/>
-    <tag k="smoking" v="isolated"/>
-    <tag k="start_date" v="2019-12-08"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="https://aldo.kg"/>
-  </node>
   <node id="2131651302" lat="47.6226867" lon="-122.3128920" version="12" timestamp="2023-01-12T20:47:17Z" changeset="131204349" uid="226159" user="michael_kirk">
     <tag k="addr:city" v="Seattle"/>
     <tag k="addr:housenumber" v="425"/>
@@ -582,21 +514,6 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2249328556" lat="32.0714337" lon="34.7803113" version="4" timestamp="2017-06-06T09:15:40Z" changeset="49299149" uid="5816834" user="SafwatHalaby_bot">
-    <tag k="amenity" v="bar"/>
-    <tag k="name" v="פיקוק"/>
-    <tag k="name:he" v="פיקוק"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="2249328557" lat="32.0714269" lon="34.7802469" version="3" timestamp="2015-12-12T15:20:21Z" changeset="35910828" uid="3127" user="zstadler">
-    <tag k="name" v="דודי בן ישי"/>
-    <tag k="name:en" v="Dudi Ben Yishay"/>
-    <tag k="name:he" v="דודי בן ישי"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="054-4774731"/>
-    <tag k="shop" v="hairdresser"/>
-  </node>
   <node id="2262235566" lat="-34.5930001" lon="-58.3795310" version="8" timestamp="2020-02-12T13:54:46Z" changeset="80908720" uid="3837224" user="MatiasJ">
     <tag k="addr:city" v="Ciudad Autónoma de Buenos Aires"/>
     <tag k="addr:housenumber" v="868"/>
@@ -629,21 +546,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://qrubit.com"/>
   </node>
-  <node id="2266659115" lat="32.0591092" lon="34.7710971" version="2" timestamp="2018-07-31T00:24:03Z" changeset="61211517" uid="4769623" user="OpenVegeMap">
-    <tag k="addr:housenumber" v="22"/>
-    <tag k="addr:street" v="המשביר"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:email" v="info@barkayma.co.il"/>
-    <tag k="contact:phone" v="+97239493322"/>
-    <tag k="contact:website" v="http://barkayma.co.il/"/>
-    <tag k="diet:vegan" v="no"/>
-    <tag k="diet:vegetarian" v="no"/>
-    <tag k="name" v="בר-קיימא"/>
-    <tag k="name:en" v="Bar Kayma"/>
-    <tag k="name:he" v="בר-קיימא"/>
-    <tag k="opening_hours" v="Mo-Su 00:00-01:00,17:00-24:00; Fr,Sa 00:00-01:00,12:00-24:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="2267540842" lat="40.7524774" lon="-73.9846520" version="9" timestamp="2022-10-13T13:22:32Z" changeset="127453576" uid="290680" user="wheelmap_visitor">
     <tag k="addr:housename" v="EVR NYC"/>
     <tag k="addr:postcode" v="10018"/>
@@ -664,20 +566,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="http://www.urbanlivingsuites.com"/>
-  </node>
-  <node id="2291522119" lat="32.7473117" lon="35.1671927" version="6" timestamp="2020-05-16T17:14:51Z" changeset="85311424" uid="2138064" user="SafwatHalaby">
-    <tag k="access" v="yes"/>
-    <tag k="addr:city" v="כפר טבאש"/>
-    <tag k="fixme" v="name, name:he mismatch. Flagged by SafwatHalaby_bot-nameCopy"/>
-    <tag k="image" v="https://lh4.googleusercontent.com/-iXjkCz_mUdI/TuZmIxb-n2I/AAAAAAAAAtI/OPa2lPuPR3c/%2525D7%2525A4%2525D7%2525A0%2525D7%252599%2525D7%25259D%252520%2525D7%25259E%2525D7%2525A1%2525D7%252595%2525D7%252593%2525D7%2525A8%252520022.jpg"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="name" v="שבט אחים"/>
-    <tag k="name:en" v="Galilee Bedouin Camplodge"/>
-    <tag k="name:he" v="מחנה שבט אחים - אצל שמשון בחצר"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+972 526941188;+972 526941141"/>
-    <tag k="tourism" v="camp_site"/>
-    <tag k="website" v="https://www.shevet-ahim.co.il/"/>
   </node>
   <node id="2295991249" lat="43.0768705" lon="-89.3743736" version="9" timestamp="2021-09-14T20:54:02Z" changeset="111214524" uid="12669335" user="bevalim">
     <tag k="addr:city" v="Madison"/>
@@ -775,15 +663,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-248-267-1212"/>
     <tag k="website" v="https://www.facebook.com/troypapas?ref=tn_tnmn"/>
-  </node>
-  <node id="2443368753" lat="32.0647627" lon="34.7748698" version="4" timestamp="2019-03-27T09:58:15Z" changeset="68579787" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:housenumber" v="60"/>
-    <tag k="addr:street" v="אחד העם"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="name" v="October Bar"/>
-    <tag k="name:en" v="October Bar"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://bitcoin.travel/listings/october-bar/"/>
   </node>
   <node id="2459547000" lat="49.8973665" lon="-97.1392924" version="7" timestamp="2018-02-12T04:10:14Z" changeset="56280902" uid="5633991" user="Matthew Darwin">
     <tag k="addr:city" v="Winnipeg"/>
@@ -902,11 +781,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2493072794" lat="45.4940085" lon="-73.5641701" version="3" timestamp="2016-07-17T21:13:43Z" changeset="40806592" uid="3029141" user="peakwinter">
-    <tag k="amenity" v="restaurant"/>
-    <tag k="name" v="Amir"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="2508945073" lat="10.4857854" lon="-66.8549502" version="11" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:city" v="Caracas"/>
     <tag k="addr:full" v="Centro Comercial Ciudad Tamanaco, Etapa 1, Nivel C1, Chuao"/>
@@ -959,14 +833,6 @@
     <tag k="phone" v="+54 11 2077-8525; +54 11 3481-0405"/>
     <tag k="shop" v="bag"/>
     <tag k="website" v="http://www.silao78.com.ar/"/>
-  </node>
-  <node id="2511327657" lat="32.6552991" lon="51.6671830" version="4" timestamp="2019-02-23T16:59:00Z" changeset="67498382" uid="1858958" user="geoaria">
-    <tag k="name" v="کفش پارسیان"/>
-    <tag k="name:en" v="Persian Shoes"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="shoes"/>
-    <tag k="website" v="http://persianshoes.com"/>
   </node>
   <node id="2512385427" lat="33.1801628" lon="-117.3250359" version="8" timestamp="2022-07-01T12:03:22Z" changeset="123083681" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Carlsbad"/>
@@ -1267,22 +1133,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2556132735" lat="32.0684702" lon="34.7662864" version="7" timestamp="2022-11-20T14:08:05Z" changeset="129157748" uid="77904" user="Kristjan ESPERANTO">
-    <tag k="addr:city" v="Tel Aviv"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:street" v="Simtat HaCarmel"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="capacity" v="30"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/anat.galbi"/>
-    <tag k="diet:vegan" v="yes"/>
-    <tag k="name" v="גלבי - אוכל ביתי"/>
-    <tag k="name:en" v="Galbi Restaurant"/>
-    <tag k="name:he" v="גלבי - אוכל ביתי"/>
-    <tag k="note" v="This is a vegan friendly small restaurant with home cooking and home atmosphere."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+972-52-409-7455"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="2556522498" lat="36.8563032" lon="15.1094128" version="14" timestamp="2020-10-09T17:27:44Z" changeset="92249259" uid="743479" user="fayor">
     <tag k="ele" v="20"/>
     <tag k="name" v="Villa Giardino di Limoni"/>
@@ -1432,12 +1282,6 @@
     <tag k="phone" v="1+1-215-626-7668"/>
     <tag k="website" v="www.sumpigfoodtruck.com"/>
   </node>
-  <node id="2564225549" lat="32.0959358" lon="34.8215234" version="3" timestamp="2019-03-27T09:58:25Z" changeset="68579787" uid="9451067" user="b-jazz-bot">
-    <tag k="name" v="500Tech"/>
-    <tag k="name:en" v="500Tech"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.500tech.com/"/>
-  </node>
   <node id="2564510580" lat="40.6942420" lon="-73.9113311" version="5" timestamp="2023-02-09T16:02:19Z" changeset="132315152" uid="18055370" user="GullibleMappazo">
     <tag k="addr:city" v="Brooklyn"/>
     <tag k="addr:housenumber" v="284"/>
@@ -1522,19 +1366,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+54 11 4361-8023"/>
     <tag k="website" v="https://www.facebook.com/fileteados"/>
-  </node>
-  <node id="2567910213" lat="32.0695492" lon="34.7723065" version="4" timestamp="2022-11-18T15:46:27Z" changeset="129092165" uid="8639761" user="Astrr232">
-    <tag k="addr:city" v="Aviv-Yafo"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:postcode" v="65231"/>
-    <tag k="addr:street" v="שינקין"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="name" v="Shenkin 17"/>
-    <tag k="name:en" v="Shenkin 17"/>
-    <tag k="name:he" v="שנקין 17 - קפה"/>
-    <tag k="note" v="Coffee shop."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://plus.google.com/103928547383154251462/"/>
   </node>
   <node id="2569476489" lat="40.6341767" lon="-73.9147499" version="4" timestamp="2023-02-05T04:55:45Z" changeset="132097316" uid="384667" user="MxxCon">
     <tag k="addr:city" v="Brooklyn"/>
@@ -1908,17 +1739,6 @@
     <tag k="phone" v="+1 904 422 4323"/>
     <tag k="website" v="http://www.1stcoastlaw.com/"/>
   </node>
-  <node id="2596991896" lat="32.1245333" lon="34.8006052" version="2" timestamp="2017-06-06T09:15:47Z" changeset="49299149" uid="5816834" user="SafwatHalaby_bot">
-    <tag k="addr:city" v="Tel Aviv"/>
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="Abba Ahimeir"/>
-    <tag k="name" v="Dr. Amir Hadar Dental Surgeon"/>
-    <tag k="name:en" v="Dr. Amir Hadar Dental Surgeon"/>
-    <tag k="office" v="physician"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+972 3 6437872"/>
-    <tag k="website" v="http://drhadar.com/"/>
-  </node>
   <node id="2597210234" lat="34.0992275" lon="-118.1299899" version="3" timestamp="2019-02-17T17:33:15Z" changeset="67286567" uid="9451067" user="b-jazz-bot">
     <tag k="name" v="Abacus Translation Services"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -2174,75 +1994,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="www.djlf.com"/>
   </node>
-  <node id="2604623154" lat="32.1200121" lon="34.7995287" version="4" timestamp="2022-04-14T09:36:08Z" changeset="119703905" uid="10853339" user="Street_stalker_03">
-    <tag k="addr:city" v="תל אביב"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:postcode" v="69395"/>
-    <tag k="addr:street" v="אופנהיימר"/>
-    <tag k="amenity" v="veterinary"/>
-    <tag k="name" v="רפי קישון"/>
-    <tag k="name:he" v="רפי קישון"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+972-3-6424191"/>
-    <tag k="website" v="http://www.rafi-kishon.co.il/"/>
-  </node>
-  <node id="2604660163" lat="32.0929126" lon="34.8180208" version="2" timestamp="2017-06-06T09:15:48Z" changeset="49299149" uid="5816834" user="SafwatHalaby_bot">
-    <tag k="name" v="משחק העולמות"/>
-    <tag k="name:he" v="משחק העולמות"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.hafaalot.com/"/>
-  </node>
-  <node id="2604682759" lat="32.0718486" lon="34.7789723" version="3" timestamp="2019-03-23T21:10:35Z" changeset="68455408" uid="9451067" user="b-jazz-bot">
-    <tag k="name" v="The Writing Company"/>
-    <tag k="name:en" v="The Writing Company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.thewritingcompany.co.il/"/>
-  </node>
-  <node id="2604706885" lat="32.0413982" lon="34.7479984" version="4" timestamp="2022-04-14T09:34:35Z" changeset="119703849" uid="10853339" user="Street_stalker_03">
-    <tag k="addr:city" v="יפו"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="שתי האחיות"/>
-    <tag k="name" v="DJ Yaniv Ohana"/>
-    <tag k="name:en" v="DJ Yaniv Ohana"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+927-52-2510893"/>
-    <tag k="shop" v="music"/>
-    <tag k="website" v="https://www.djyanivohana.co.il/"/>
-  </node>
-  <node id="2604765596" lat="32.0650447" lon="34.8457960" version="3" timestamp="2022-10-19T22:30:35Z" changeset="127810226" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="קרית אונו"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:postcode" v="55030"/>
-    <tag k="addr:street" v="יגאל אלון"/>
-    <tag k="name" v="ישי קרון"/>
-    <tag k="name:en" v="Ishai Kron"/>
-    <tag k="name:he" v="ישי קרון"/>
-    <tag k="office" v="lawyer"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+972.3.736.3456"/>
-    <tag k="website" v="https://www.ik-law.com/"/>
-  </node>
-  <node id="2604765605" lat="32.0634798" lon="34.7802841" version="2" timestamp="2017-06-06T09:15:49Z" changeset="49299149" uid="5816834" user="SafwatHalaby_bot">
-    <tag k="addr:city" v="תל אביב"/>
-    <tag k="addr:housenumber" v="52"/>
-    <tag k="addr:street" v="מנחם בגין"/>
-    <tag k="name" v="ד&quot;ר אבי נוב, עו&quot;ד"/>
-    <tag k="name:he" v="ד&quot;ר אבי נוב, עו&quot;ד"/>
-    <tag k="office" v="lawyer"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="03-5298016"/>
-    <tag k="website" v="http://israeltaxlaw.com/"/>
-  </node>
-  <node id="2604925885" lat="32.0858351" lon="34.7725074" version="3" timestamp="2017-06-06T09:15:49Z" changeset="49299149" uid="5816834" user="SafwatHalaby_bot">
-    <tag k="addr:city" v="Tel Aviv"/>
-    <tag k="addr:housenumber" v="147"/>
-    <tag k="addr:street" v="Ben Yehuda"/>
-    <tag k="name" v="Go Matkot"/>
-    <tag k="name:en" v="Go Matkot"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-347-247-0493"/>
-    <tag k="website" v="http://www.gomatkot.com"/>
-  </node>
   <node id="2604941910" lat="38.8358767" lon="-77.0980309" version="6" timestamp="2020-11-17T11:33:33Z" changeset="94272957" uid="98704" user="kleftarcle">
     <tag k="addr:city" v="Arlington"/>
     <tag k="addr:housename" v="Suite B"/>
@@ -2257,18 +2008,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="(202) 449-8527"/>
     <tag k="website" v="https://www.spigglelaw.com/"/>
-  </node>
-  <node id="2604947955" lat="32.0882036" lon="34.8493331" version="5" timestamp="2020-02-20T13:49:01Z" changeset="81275281" uid="10158187" user="moskobar">
-    <tag k="addr:city" v="פתח תקווה"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:street" v="הצפירה"/>
-    <tag k="name" v="לוי אברהם ויונתן שמאות מקרקעין בע&quot;מ"/>
-    <tag k="name:he" v="לוי אברהם ויונתן שמאות מקרקעין בע&quot;מ"/>
-    <tag k="note" v="שמאות מקרקעין, היטלי השבחה ומיסוי - לוי אברהם ויונתן שמאות מקרקעין בע&quot;מ"/>
-    <tag k="office" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="0545-223728"/>
-    <tag k="website" v="http://levy-valuer.zapages.co.il/"/>
   </node>
   <node id="2605798400" lat="19.4940692" lon="-99.1273525" version="3" timestamp="2022-05-14T22:42:03Z" changeset="120994849" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="México"/>
@@ -4605,23 +4344,6 @@
     <tag k="payment:coins" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
   </node>
-  <node id="2678251944" lat="42.8673569" lon="74.5877870" version="4" timestamp="2022-05-30T22:03:07Z" changeset="121740027" uid="10635178" user="Aldo Coffee Bishkek">
-    <tag k="addr:city" v="Бишкек"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:postcode" v="720017"/>
-    <tag k="addr:street" v="Манаса проспект"/>
-    <tag k="clothes" v="women;underwear;outdoor;fashion"/>
-    <tag k="name" v="STREET MODA - Магазин Одежды"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+996555100180"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="https://www.instagram.com/streetmoda_kg/"/>
-  </node>
   <node id="2678335264" lat="28.3188209" lon="-81.5549310" version="2" timestamp="2019-05-30T13:36:06Z" changeset="70770986" uid="8339" user="mtmail">
     <tag k="addr:city" v="Celebration"/>
     <tag k="addr:housenumber" v="1170"/>
@@ -5368,16 +5090,6 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="+1 972-3026742"/>
     <tag k="website" v="https://smithoffroad.com/"/>
-  </node>
-  <node id="2713933975" lat="32.0696250" lon="34.7847173" version="4" timestamp="2016-05-13T18:28:56Z" changeset="39298130" uid="331840" user="yrtimiD">
-    <tag k="addr:housenumber" v="105"/>
-    <tag k="addr:street" v="החשמונאים"/>
-    <tag k="name" v="Pet Point"/>
-    <tag k="name:en" v="Pet Point"/>
-    <tag k="name:he" v="פט פויינט"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="pet"/>
-    <tag k="website" v="petpoint.co.il"/>
   </node>
   <node id="2714012984" lat="33.7908714" lon="-84.4276569" version="1" timestamp="2014-03-12T14:04:41Z" changeset="21064590" uid="1651798" user="oldenburg69">
     <tag k="addr:city" v="Atlanta"/>
@@ -7045,17 +6757,6 @@
     <tag k="phone" v="+52 (81) 83.57.76.02"/>
     <tag k="website" v="https://xoles.com/"/>
   </node>
-  <node id="2788928146" lat="32.0644980" lon="34.7706372" version="5" timestamp="2017-06-11T13:43:28Z" changeset="49443067" uid="1206509" user="Sanniu">
-    <tag k="addr:city" v="תל אביב"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:postcode" v="65252"/>
-    <tag k="addr:street" v="אחוזת בית"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="name" v="מסעדת סתווים"/>
-    <tag k="name:en" v="Stivim Grill - Coin Commerce"/>
-    <tag k="name:he" v="מסעדת סתווים"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="2788935259" lat="33.1950816" lon="-97.0985117" version="4" timestamp="2019-10-25T18:40:15Z" changeset="76224270" uid="224610" user="stangoodman">
     <tag k="addr:housenumber" v="1800"/>
     <tag k="addr:street" v="South Loop 288"/>
@@ -7259,18 +6960,6 @@
     <tag k="shop" v="garden_centre"/>
     <tag k="website" v="http://www.cannabitseeds.com"/>
   </node>
-  <node id="2812001486" lat="32.0132445" lon="34.7838467" version="5" timestamp="2017-06-06T09:15:59Z" changeset="49299149" uid="5816834" user="SafwatHalaby_bot">
-    <tag k="addr:city" v="חולון"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:postcode" v="58404"/>
-    <tag k="addr:street" v="גאולים"/>
-    <tag k="name" v="HashWare"/>
-    <tag k="name:en" v="HashWare"/>
-    <tag k="office" v="it"/>
-    <tag k="opening_hours" v="08:00-17:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.hashware.co.il"/>
-  </node>
   <node id="2813979868" lat="29.4939687" lon="-98.5053920" version="5" timestamp="2019-02-22T10:35:07Z" changeset="67460951" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="San Antonio"/>
     <tag k="addr:housenumber" v="12"/>
@@ -7311,42 +7000,6 @@
     <tag k="name" v="Organic Parking - City parking app"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.organicparking.com/"/>
-  </node>
-  <node id="2821426609" lat="32.0622851" lon="34.7719046" version="5" timestamp="2017-06-06T09:16:00Z" changeset="49299149" uid="5816834" user="SafwatHalaby_bot">
-    <tag k="addr:city" v="תל אביב"/>
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="לילינבלום"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="name" v="AbraXas"/>
-    <tag k="name:en" v="AbraXas"/>
-    <tag k="name:he" v="אברקסס"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+972-3-510-4435"/>
-    <tag k="website" v="https://www.facebook.com/abraxastelaviv"/>
-  </node>
-  <node id="2821479713" lat="32.0294271" lon="34.7696646" version="2" timestamp="2017-06-06T09:16:00Z" changeset="49299149" uid="5816834" user="SafwatHalaby_bot">
-    <tag k="addr:city" v="חולון"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:street" v="רחבעם זאבי"/>
-    <tag k="email" v="office@maalot.biz"/>
-    <tag k="name" v="Maalot - floor heating"/>
-    <tag k="name:en" v="Maalot - floor heating"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+972-3-9418001"/>
-    <tag k="shop" v="hardware"/>
-    <tag k="website" v="http://www.maalot.biz"/>
-  </node>
-  <node id="2821524441" lat="32.0764165" lon="34.7747841" version="4" timestamp="2019-03-27T09:57:49Z" changeset="68579787" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="תל אביב-יפו"/>
-    <tag k="addr:housenumber" v="72"/>
-    <tag k="addr:street" v="דיזנגוף"/>
-    <tag k="email" v="studiomoreno@walla.com"/>
-    <tag k="name" v="Moreno - Tattoo Studio"/>
-    <tag k="name:en" v="Moreno - Tattoo Studio"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+972-3-5252272"/>
-    <tag k="shop" v="tattoo"/>
-    <tag k="website" v="https://www.tattoomoreno.com/"/>
   </node>
   <node id="2822003076" lat="37.7938085" lon="-122.4011128" version="2" timestamp="2022-05-26T01:23:51Z" changeset="121497637" uid="15537949" user="pootriarch">
     <tag k="addr:city" v="San Francisco"/>
@@ -7454,17 +7107,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 06 8072126"/>
     <tag k="shop" v="tobacco"/>
-  </node>
-  <node id="2837804918" lat="32.0781387" lon="34.7684723" version="2" timestamp="2017-06-06T09:16:02Z" changeset="49299149" uid="5816834" user="SafwatHalaby_bot">
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="בן יהודה"/>
-    <tag k="lawyer" v="advocate"/>
-    <tag k="name" v="יניב מויאל - עורך דין"/>
-    <tag k="name:en" v="Yaniv Moyal Advocate"/>
-    <tag k="name:he" v="יניב מויאל - עורך דין"/>
-    <tag k="office" v="lawyer"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://www.facebook.com/tlvadvocate"/>
   </node>
   <node id="2837978413" lat="34.0906166" lon="-118.3303907" version="1" timestamp="2014-05-05T16:34:33Z" changeset="22149904" uid="2061566" user="Faithless327">
     <tag k="addr:city" v="Los Angeles"/>
@@ -7642,17 +7284,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="732 698 9999"/>
     <tag k="website" v="http://prostarmassage.com"/>
-  </node>
-  <node id="2859810141" lat="32.0561805" lon="34.7712283" version="3" timestamp="2017-06-06T09:16:03Z" changeset="49299149" uid="5816834" user="SafwatHalaby_bot">
-    <tag k="addr:housenumber" v="40"/>
-    <tag k="addr:street" v="פלורנטין"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="name" v="מיידל'ה"/>
-    <tag k="name:en" v="Meydalle"/>
-    <tag k="name:he" v="מיידל'ה"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+972507648193"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2860411676" lat="42.2268068" lon="-89.0200270" version="7" timestamp="2021-08-01T01:53:57Z" changeset="108960692" uid="1210724" user="AdamTheWebMan">
     <tag k="addr:city" v="Rockford"/>
@@ -8586,17 +8217,6 @@
     <tag k="shop" v="printing"/>
     <tag k="website" v="http://www.graficomitalia.com"/>
   </node>
-  <node id="2950317983" lat="32.0657753" lon="34.7767884" version="4" timestamp="2019-03-27T09:57:48Z" changeset="68579787" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Tel Aviv"/>
-    <tag k="addr:housenumber" v="71"/>
-    <tag k="addr:street" v="שדרות רוטשילד"/>
-    <tag k="name" v="the rothschild 71"/>
-    <tag k="name:en" v="the rothschild 71"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+972 3 6290555"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="https://www.the-rothschild.com/"/>
-  </node>
   <node id="2950582983" lat="45.6267706" lon="8.7103938" version="1" timestamp="2014-07-06T10:49:49Z" changeset="23981127" uid="1476146" user="Alecs01">
     <tag k="amenity" v="taxi"/>
     <tag k="name" v="Taxi Malpensa Taxi Malpensa Terminal 1"/>
@@ -8732,17 +8352,6 @@
     <tag k="shop" v="carpet"/>
     <tag k="website" v="http://zarineh.it/"/>
   </node>
-  <node id="2967584835" lat="32.0711312" lon="34.7653289" version="3" timestamp="2023-04-01T19:31:20Z" changeset="134392998" uid="4221879" user="davidmguest">
-    <tag k="addr:city" v="תל אביב-יפו"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:street" v="הירקון"/>
-    <tag k="name" v="סופר אל הים"/>
-    <tag k="name:en" v="Super Al-Hayam"/>
-    <tag k="name:he" v="סופר אל הים"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+972 3 5168751"/>
-    <tag k="shop" v="supermarket"/>
-  </node>
   <node id="2967915092" lat="28.5443857" lon="-82.4163516" version="8" timestamp="2021-07-13T02:24:18Z" changeset="107868363" uid="175702" user="AxelBoldt">
     <tag k="addr:city" v="Brooksville"/>
     <tag k="addr:postcode" v="34603"/>
@@ -8808,15 +8417,6 @@
     <tag k="email" v="labdagaticonsulting@gmail.com"/>
     <tag k="name" v="LabDagaTi Legal Consulting"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="2978672400" lat="-8.6971455" lon="115.2577238" version="3" timestamp="2019-03-23T05:41:57Z" changeset="68435131" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:street" v="Kanda Street"/>
-    <tag k="email" v="info@sanurjewellerystudio.com"/>
-    <tag k="name" v="Sanur Jewellery Studio"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+62 821 2242 6103"/>
-    <tag k="shop" v="jewelry"/>
-    <tag k="website" v="https://www.sanurjewellerystudio.com/"/>
   </node>
   <node id="2979123741" lat="-8.4916722" lon="115.2524639" version="3" timestamp="2019-06-29T01:20:16Z" changeset="71725634" uid="6744861" user="ludofru">
     <tag k="name" v="Mella's Grocery"/>
@@ -8944,36 +8544,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1 615 465-6000"/>
     <tag k="website" v="https://thompsonburton.com/"/>
-  </node>
-  <node id="2990264042" lat="45.5070821" lon="-73.5528552" version="4" timestamp="2018-02-12T04:10:44Z" changeset="56280902" uid="5633991" user="Matthew Darwin">
-    <tag k="addr:city" v="Montreal"/>
-    <tag k="addr:housenumber" v="161"/>
-    <tag k="addr:postcode" v="H2Y 1G8"/>
-    <tag k="addr:street" v="Rue Saint-Paul Est"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="crepe"/>
-    <tag k="name" v="Crêperie Saint-Paul"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+1 514 656 0935"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="source" v="survey"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="2990264043" lat="45.5070445" lon="-73.5528860" version="4" timestamp="2018-02-12T04:10:44Z" changeset="56280902" uid="5633991" user="Matthew Darwin">
-    <tag k="addr:city" v="Montreal"/>
-    <tag k="addr:housenumber" v="155"/>
-    <tag k="addr:postcode" v="H2Y 1G8"/>
-    <tag k="addr:street" v="Rue Saint-Paul Est"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="contact:phone" v="+1-514-656-0935"/>
-    <tag k="name" v="Bar La Caverne"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="source" v="survey"/>
   </node>
   <node id="2990310542" lat="35.8715375" lon="-86.4182972" version="2" timestamp="2014-08-01T02:41:09Z" changeset="24473979" uid="2227623" user="ObieShawnKenobi">
     <tag k="addr:city" v="Murfreesboro"/>
@@ -10214,13 +9784,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="305-234-8800"/>
     <tag k="website" v="https://aviatorservices.com/"/>
-  </node>
-  <node id="3110629769" lat="43.2278294" lon="76.9579245" version="2" timestamp="2021-02-18T17:16:08Z" changeset="99539385" uid="10122872" user="DiscountTaxi">
-    <tag k="addr:city" v="Алматы"/>
-    <tag k="addr:postcode" v="050051"/>
-    <tag k="name" v="Первый Биткоин Центр в Казахстане"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://bitcoinkazakhstan.org"/>
   </node>
   <node id="3114757644" lat="-23.5867981" lon="-46.6820486" version="7" timestamp="2019-06-28T19:26:20Z" changeset="71719435" uid="1842197" user="O Fim">
     <tag k="addr:city" v="São Paulo"/>
@@ -12848,18 +12411,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://bitcoinsorlando.com"/>
   </node>
-  <node id="3423276693" lat="43.3181082" lon="76.9577878" version="4" timestamp="2022-03-26T15:54:52Z" changeset="118952935" uid="3318452" user="Kuritsyn Roman">
-    <tag k="addr:city" v="Алматы"/>
-    <tag k="addr:housenumber" v="239А"/>
-    <tag k="addr:street" v="проспект Суюнбая"/>
-    <tag k="contact:email" v="igorbarmotin@gmail.com"/>
-    <tag k="contact:phone" v="+7(727)971-42-98"/>
-    <tag k="contact:website" v="yunis.kz"/>
-    <tag k="description" v="We are happy to take the order, manufacture and deliver you a cake of any size and color to your holiday. Мы с удовольствием примим заказ, изготовим и доставим Вам торт любого размера, и цветы к Вашему празднику."/>
-    <tag k="name" v="YUNIS"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="grocery"/>
-  </node>
   <node id="3427152240" lat="44.8434321" lon="-93.6926098" version="2" timestamp="2018-04-06T16:25:10Z" changeset="57870786" uid="1751737" user="Skybunny">
     <tag k="addr:city" v="Victoria"/>
     <tag k="addr:housenumber" v="2835"/>
@@ -13335,15 +12886,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+582514356535"/>
     <tag k="website" v="http://deportesextremos.com.ve/"/>
-  </node>
-  <node id="3623141033" lat="32.0865295" lon="34.8014838" version="3" timestamp="2021-06-13T10:47:53Z" changeset="106278741" uid="20518" user="Ynhockey">
-    <tag k="addr:city" v="רמת גן"/>
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:street" v="בצלאל"/>
-    <tag k="name" v="99Bitcoins"/>
-    <tag k="name:en" v="99Bitcoins"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://99bitcoins.com"/>
   </node>
   <node id="3653617677" lat="45.4416823" lon="-73.6859733" version="12" timestamp="2019-01-17T09:08:22Z" changeset="66388535" uid="9363858" user="BankofBitcoins">
     <tag k="addr:city" v="Montréal"/>
@@ -15014,13 +14556,6 @@
     <tag k="phone" v="+39 02 8408 6869"/>
     <tag k="shop" v="hairdresser"/>
     <tag k="website" v="http://www.raywell-lab.com"/>
-  </node>
-  <node id="4973245325" lat="32.0910975" lon="34.7873848" version="1" timestamp="2017-07-16T08:46:31Z" changeset="50320394" uid="1206509" user="Sanniu">
-    <tag k="amenity" v="cafe"/>
-    <tag k="name" v="דידו קפה"/>
-    <tag k="name:en" v="Didoo Cafe"/>
-    <tag k="name:he" v="דידו קפה"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="5000300521" lat="43.1064876" lon="12.3620946" version="4" timestamp="2019-09-05T13:18:13Z" changeset="74134190" uid="8553447" user="jimmy_conway">
     <tag k="addr:city" v="Perugia"/>
@@ -17328,17 +16863,6 @@
     <tag k="office" v="lawyer"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="5400304184" lat="34.6111664" lon="50.9092389" version="4" timestamp="2019-02-23T16:59:16Z" changeset="67498382" uid="1858958" user="geoaria">
-    <tag k="addr:city" v="قم"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="خیابان کلهری ۴۷"/>
-    <tag k="name" v="سوپرمارکت آذربایجانیها پدربزرگ ها"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="shop" v="supermarket"/>
-  </node>
   <node id="5411965821" lat="45.4140950" lon="11.0897380" version="1" timestamp="2018-02-14T10:30:23Z" changeset="56348900" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="San Martino Buon Albergo"/>
     <tag k="addr:housenumber" v="33"/>
@@ -18921,20 +18445,6 @@
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="shop" v="supermarket"/>
   </node>
-  <node id="6044278685" lat="41.2487989" lon="69.3018787" version="4" timestamp="2019-02-06T15:44:01Z" changeset="66967857" uid="9060347" user="Arsen Gugunava">
-    <tag k="addr:city" v="Ташкент"/>
-    <tag k="addr:street" v="Массив Куйлюк -4"/>
-    <tag k="name" v="Ювелирная Мастерская"/>
-    <tag k="name:en" v="Uvelir Ювелир Jeweler"/>
-    <tag k="name:ru" v="Ювелир"/>
-    <tag k="opening_hours" v="Su-Fr 10:00-20:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="+998 901681388"/>
-    <tag k="shop" v="jewelry"/>
-    <tag k="website" v="https://t.me/TashUvelir"/>
-  </node>
   <node id="6046268511" lat="45.2219544" lon="12.2797960" version="2" timestamp="2018-11-09T08:15:43Z" changeset="64316963" uid="9069079" user="ivoryz">
     <tag k="addr:city" v="Chioggia"/>
     <tag k="addr:housenumber" v="1363"/>
@@ -19094,26 +18604,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3405035130"/>
     <tag k="website" v="https://www.bitcoinvenetocenter.it"/>
-  </node>
-  <node id="6138136285" lat="36.4282084" lon="54.9664032" version="6" timestamp="2023-03-28T03:33:33Z" changeset="134200564" uid="2350452" user="mrash14">
-    <tag k="addr:city" v="shahroud"/>
-    <tag k="addr:housenumber" v="ساختمان حجاب"/>
-    <tag k="addr:street" v="میدان حجاب"/>
-    <tag k="description" v="طراحی اپلیکیشن موبایل ، طراحی سایت، برنامه نویسی یکپارچه"/>
-    <tag k="email" v="info@amihan.ir"/>
-    <tag k="instagram" v="amihan_ir"/>
-    <tag k="name" v="ای میهن"/>
-    <tag k="name:en" v="Amihan.ir"/>
-    <tag k="opening_hours" v="Sa-Th 08:00-14:00, 16:00-22:00; Fr 16:00-22:00"/>
-    <tag k="operator" v="amihan.ir"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="+98 921 675 6364"/>
-    <tag k="seamark:beacon_special_purpose:category" v="web design"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="https://amihan.ir/"/>
   </node>
   <node id="6142824899" lat="42.4172200" lon="11.8720630" version="2" timestamp="2019-03-20T10:36:39Z" changeset="68329276" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Tuscania"/>
@@ -19918,26 +19408,6 @@
     <tag k="shop" v="car_repair"/>
     <tag k="website" v="https://www.dautoboys.com"/>
   </node>
-  <node id="6795431221" lat="36.5557512" lon="52.6721696" version="6" timestamp="2023-03-28T08:26:24Z" changeset="134208882" uid="2350452" user="mrash14">
-    <tag k="addr:city" v="بابل"/>
-    <tag k="addr:postcode" v="4714667571"/>
-    <tag k="addr:street" v="خیابان بابل کلینیک - نرسیده به چهاراه تنددست - جنب بانک ملت"/>
-    <tag k="brand" v="mantrabutik.com"/>
-    <tag k="clothes" v="women;underwear;sports;denim;fashion;traditional;hats;lingerie"/>
-    <tag k="email" v="info@mantrabutik.com"/>
-    <tag k="name" v="مانترا بوتیک"/>
-    <tag k="name:en" v="Mantra boutique"/>
-    <tag k="name:fa" v="مانترا بوتیک"/>
-    <tag k="opening_hours" v="شنبه تا پنجشنبه 9صبح تا 10شب . جمعه ها 6عصر تا 10شب"/>
-    <tag k="operator" v="فروشگاه مانترا بوتیک - عرضه کننده خاص ترین و ارزانترسن لباس های زنانه"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="phone" v="+98 935 934 1290"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="start_date" v="11/08/2013"/>
-    <tag k="website" v="https://mantrabutik.com"/>
-  </node>
   <node id="6798442109" lat="43.8302244" lon="10.4990804" version="1" timestamp="2019-09-16T08:43:41Z" changeset="74518956" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Lucca"/>
     <tag k="addr:housenumber" v="184/i"/>
@@ -20219,33 +19689,6 @@
     <tag k="source" v="https://www.biodf.org"/>
     <tag k="tourism" v="chalet"/>
   </node>
-  <node id="6934298685" lat="35.6641661" lon="51.3157220" version="4" timestamp="2020-12-13T16:16:35Z" changeset="95761336" uid="3800783" user="Mostafa Ahangarha">
-    <tag k="addr:city" v="تهران"/>
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:street" v="دوم غربی"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="brand" v="سیستم اعلام و اطفاء حریق سنس، زیتکس ، سایان ، تسلا ، انواع پمپ آب و بوستر پمپ پنتاکس ، استریم و لوورا و لوله و اتصالات درزدار و مانیسمان و مخزن پلی اتیلن طبرستان و آریا پلاست"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:rial" v="yes"/>
-    <tag k="description" v="مشاوره ، فروش و اجرای سیستم های اعلام و اطفاء حریق و آبرسانی ، پمپ آب و بوستر پمپ آبرسانی و بوستر پمپ آتش نشانی پنتاکس و استریم و لوورا و لوله واتصالات درز دار و مانیسمان و مخازن پلی اتیلن طبرستان و آریا پلاست"/>
-    <tag k="email" v="info@tasisatimen.com"/>
-    <tag k="fax" v="+982166671652"/>
-    <tag k="internet_access" v="wired"/>
-    <tag k="name" v="تاسیسات ایمن فروشگاه تجهیزات آتش نشانی و آبرسانی"/>
-    <tag k="note" v="تاسیسات ایمن Tasisat imen"/>
-    <tag k="opening_hours" v="Sa-Fr 08:00-19:00"/>
-    <tag k="operator" v="عباسی تبار"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:electronic_purses" v="yes"/>
-    <tag k="payment:telephone_cards" v="yes"/>
-    <tag k="phone" v="+989194916001"/>
-    <tag k="shop" v="wholesale"/>
-    <tag k="website" v="https://tasisatimen.com"/>
-  </node>
   <node id="6939474534" lat="9.0035740" lon="-79.5203430" version="2" timestamp="2019-11-03T16:04:29Z" changeset="76555373" uid="616774" user="mueschel">
     <tag k="addr:city" v="Panamá"/>
     <tag k="addr:street" v="Avenida Fernández de Córdoba"/>
@@ -20381,31 +19824,6 @@
     <tag k="start_date" v="16-08-2019"/>
     <tag k="website" v="https://camisetasdefutbol.pe"/>
   </node>
-  <node id="7010719012" lat="32.6712606" lon="51.7154694" version="3" timestamp="2020-05-06T18:10:50Z" changeset="84777114" uid="10049033" user="Beesan">
-    <tag k="addr:city" v="Esfahan"/>
-    <tag k="addr:housenumber" v="اینترنت بیسان"/>
-    <tag k="addr:postcode" v="8199874941"/>
-    <tag k="addr:street" v="صباحی"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="amenity" v="internet_cafe"/>
-    <tag k="description" v="Beesan Internet Cafe"/>
-    <tag k="email" v="beesan.net@gmail.com"/>
-    <tag k="fax" v="+2189782729"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="internet_access:fee" v="yes"/>
-    <tag k="name" v="اینترنت بیسان"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:electronic_purses" v="yes"/>
-    <tag k="phone" v="+3132296906"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="source" v="gps;survey;local knowledge;aerial imagery;streetlevel imagery"/>
-    <tag k="start_date" v="2002"/>
-    <tag k="website" v="http://www.beesanc.com"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="7019029234" lat="45.4640470" lon="9.1872480" version="1" timestamp="2019-11-29T09:42:46Z" changeset="77717782" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2"/>
@@ -20429,55 +19847,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39068841724"/>
     <tag k="website" v="http://studiolegaleandreoniserreti.com/"/>
-  </node>
-  <node id="7035170166" lat="35.7779382" lon="51.4591260" version="1" timestamp="2019-12-05T07:04:09Z" changeset="77974377" uid="10526461" user="btccit">
-    <tag k="addr:city" v="منطقه ۳ شهر تهران"/>
-    <tag k="addr:postcode" v="1945615987"/>
-    <tag k="addr:street" v="مریم"/>
-    <tag k="email" v="btccit098@gmail.com"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="name" v="CD-KEY STORE"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Iman"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="phone" v="+989022004926"/>
-    <tag k="shop" v="video_games"/>
-    <tag k="website" v="gamecover.ir"/>
-  </node>
-  <node id="7050368703" lat="42.8524938" lon="74.6091477" version="2" timestamp="2022-05-30T21:55:20Z" changeset="121739868" uid="10635178" user="Aldo Coffee Bishkek">
-    <tag k="addr:city" v="Бишкек"/>
-    <tag k="addr:housenumber" v="151"/>
-    <tag k="addr:street" v="Медерова улица"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="description" v="Homeland - магазин декора интерьера в Бишкеке"/>
-    <tag k="level" v="1"/>
-    <tag k="name" v="Homeland - Магазин товаров для дома в Бишкеке"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+996551033300"/>
-    <tag k="shop" v="houseware"/>
-  </node>
-  <node id="7050560045" lat="42.8546535" lon="74.6097992" version="3" timestamp="2022-05-30T22:17:45Z" changeset="121740247" uid="10635178" user="Aldo Coffee Bishkek">
-    <tag k="addr:city" v="Бишкек"/>
-    <tag k="addr:housenumber" v="74"/>
-    <tag k="addr:street" v="Байтик Баатыра улица"/>
-    <tag k="clothes" v="women"/>
-    <tag k="name" v="Purpur Showroom - Магазин женской одежды"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+996555424140"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="website" v="https://www.instagram.com/purpur_kgz/"/>
   </node>
   <node id="7056211216" lat="41.3760960" lon="-83.6496457" version="4" timestamp="2023-03-17T02:59:26Z" changeset="133771791" uid="238419" user="HubMiner">
     <tag k="addr:city" v="Bowling Green"/>
@@ -20531,21 +19900,6 @@
     <tag k="phone" v="+39 3458062135"/>
     <tag k="smoking" v="separated"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="7062761911" lat="35.7528773" lon="51.5090682" version="3" timestamp="2019-12-21T10:19:38Z" changeset="78709162" uid="616774" user="mueschel">
-    <tag k="addr:city" v="تهران"/>
-    <tag k="addr:housenumber" v="479"/>
-    <tag k="addr:postcode" v="16888"/>
-    <tag k="addr:street" v="بلوار هنگام"/>
-    <tag k="currency:IRR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="model" v="chery  geely  jac  lifan"/>
-    <tag k="name" v="BHR لوازم یدکی چینی"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
-    <tag k="operator" v="ehsan teymouri"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="shop" v="car_parts"/>
   </node>
   <node id="7065310908" lat="8.8131751" lon="-82.9680936" version="1" timestamp="2019-12-18T03:33:11Z" changeset="78555290" uid="10568067" user="Bryan Fallas Rodríguez">
     <tag k="currency:CRC" v="yes"/>
@@ -20784,23 +20138,6 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="shop" v="camera"/>
   </node>
-  <node id="7574685255" lat="31.8512733" lon="54.3336196" version="1" timestamp="2020-05-31T09:08:36Z" changeset="86002127" uid="11267857" user="Mimr3w">
-    <tag k="addr:city" v="Yazd"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="8915137774"/>
-    <tag k="addr:street" v="شهامت"/>
-    <tag k="name" v="Noyan Fanavari Diana - Central Office"/>
-    <tag k="name:fa" v="دفتر مرکزی نویان فناوری دیانا"/>
-    <tag k="opening_hours" v="Sa-Th 09:00-17:00"/>
-    <tag k="opening_hours:covid19" v="off"/>
-    <tag k="operator" v="Noyan Fanavari Diana, LLC"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="phone" v="+98 35 3821 9392"/>
-    <tag k="shop" v="supermarket"/>
-    <tag k="website" v="https://nfd.co.ir"/>
-  </node>
   <node id="7623303792" lat="9.9839019" lon="-84.7190272" version="4" timestamp="2021-03-06T03:35:17Z" changeset="100520938" uid="12794294" user="Yazdani 33">
     <tag k="addr:city" v="Barranca"/>
     <tag k="addr:housenumber" v="75m al este de la Licorera Pipos"/>
@@ -20930,21 +20267,6 @@
     <tag k="payment:electronic_purses" v="yes"/>
     <tag k="shop" v="florist"/>
   </node>
-  <node id="7719377152" lat="29.6029296" lon="52.5309668" version="4" timestamp="2020-08-04T10:06:12Z" changeset="88921759" uid="11500172" user="xnikseresht">
-    <tag k="addr:city" v="Shiraz"/>
-    <tag k="addr:housenumber" v="روبروپارکینگ کارگر"/>
-    <tag k="addr:postcode" v="7134754331"/>
-    <tag k="addr:street" v="زائری"/>
-    <tag k="brand" v="خشکبار توحید"/>
-    <tag k="description" v="برادران هنروریان با بیش از 50 سال سابقه دارای گواهینامه ایزو 22000:2005و9001:2015-9000:2015DAKKS آلمان"/>
-    <tag k="name" v="خشکبار توحید"/>
-    <tag k="opening_hours" v="Sa-Fr 08:00-22:00"/>
-    <tag k="operator" v="Nut store"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="shop" v="supermarket"/>
-  </node>
   <node id="7724284064" lat="46.3869606" lon="11.4962047" version="1" timestamp="2020-07-17T12:17:13Z" changeset="88143150" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Nova Ponente"/>
     <tag k="addr:housenumber" v="20"/>
@@ -21007,20 +20329,6 @@
     <tag k="service:vehicle:oil_change" v="yes"/>
     <tag k="shop" v="car_repair"/>
     <tag k="website" v="https://www.carboncleaningcentral.com"/>
-  </node>
-  <node id="7776231756" lat="35.8056539" lon="51.4747202" version="2" timestamp="2021-05-01T12:55:02Z" changeset="103955739" uid="10925504" user="mohammadsatrap">
-    <tag k="addr:city" v="تهران"/>
-    <tag k="addr:housenumber" v="49"/>
-    <tag k="addr:postcode" v="1957719645"/>
-    <tag k="addr:street" v="موحد دانش"/>
-    <tag k="name" v="جواهری سُروری"/>
-    <tag k="opening_hours" v="Mo-Su 08:00-23:00"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="operator" v="owner"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="shop" v="jewelry"/>
   </node>
   <node id="7800087119" lat="43.7931544" lon="11.1586587" version="1" timestamp="2020-08-10T06:30:56Z" changeset="89179158" uid="224342" user="mircozorzo">
     <tag k="addr:city" v="Firenze"/>
@@ -21117,23 +20425,6 @@
     <tag k="wikidata" v="Q58024"/>
     <tag k="wikipedia" v="pt:EBay"/>
   </node>
-  <node id="7946356355" lat="35.8361020" lon="50.9440160" version="3" timestamp="2023-07-02T17:49:19Z" changeset="138033274" uid="3743902" user="Osm1980">
-    <tag k="addr:city" v="کرج"/>
-    <tag k="addr:housenumber" v="گاراژ عدالت"/>
-    <tag k="addr:postcode" v="۰۲۶۳۴۵۶۱۰۰۴"/>
-    <tag k="addr:street" v="شهید بهشتى"/>
-    <tag k="craft" v="turner"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="name" v="تراشکاری غفاری"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="operator" v="سلطان محمود غفاری"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:ep_ipass" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-  </node>
   <node id="7959901319" lat="45.0945070" lon="11.4899560" version="1" timestamp="2020-09-30T14:20:20Z" changeset="91774351" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Badia Polesine"/>
     <tag k="addr:housenumber" v="63"/>
@@ -21170,52 +20461,6 @@
     <tag k="shop" v="pawnbroker"/>
     <tag k="website" v="https://www.abra.com/"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="7972747034" lat="36.3151764" lon="59.5081230" version="3" timestamp="2021-02-19T16:25:48Z" changeset="99606782" uid="3743902" user="Osm1980">
-    <tag k="addr:city" v="Mashhad"/>
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:postcode" v="0513"/>
-    <tag k="addr:street" v="هاشمیه ۲۹"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="branch" v="هاشمیه"/>
-    <tag k="brand" v="sadeghkhanvip"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/sadeghkhan_vip/"/>
-    <tag k="currency:rial" v="yes"/>
-    <tag k="email" v="sadeghkhan.vip@gmail.com"/>
-    <tag k="image" v="https://www.google.com/imgres?imgurl=http%3A%2F%2Fcartyab.com%2Ffiles%2Fcards%2F356-backCard.jpg&amp;imgrefurl=http%3A%2F%2Fcartyab.com%2Ffa%2Fview%2Fprm%2F356%2F%25D9%2587%25D8%25A7%25DB%258C%25D9%25BE%25D8%25B1%2520%25DA%25AF%25D9%2588%25D8%25B4%25D8%25AA%2"/>
-    <tag k="name" v="پروتئینی صادق خان"/>
-    <tag k="opening_hours" v="Mo-Su 09:00-23:00"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="operator" v="خانی"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="phone" v="+989151191190"/>
-    <tag k="shop" v="deli"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="7986991548" lat="36.2952179" lon="59.5759913" version="4" timestamp="2022-01-08T14:26:35Z" changeset="115911819" uid="404146" user="HFatemi">
-    <tag k="addr:city" v="مشهد"/>
-    <tag k="addr:housenumber" v="150.3"/>
-    <tag k="addr:street" v="بولوار احمدآباد"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:AUD" v="yes"/>
-    <tag k="currency:CAD" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:GBP" v="yes"/>
-    <tag k="currency:IRR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="name" v="صرافی پارسین"/>
-    <tag k="name:en" v="Parsin Currency Exchange"/>
-    <tag k="name:fa" v="صرافی پارسین"/>
-    <tag k="opening_hours" v="Sa-Th 09:00-16:00"/>
-    <tag k="operator" v="شرکت تضامنی روح الله جان نثار و شرکاء"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="phone" v="+985138442277"/>
-    <tag k="website" v="https://parsin-exchange.com/"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="8000578846" lat="-23.2543477" lon="-50.9800761" version="1" timestamp="2020-10-12T15:23:34Z" changeset="92363598" uid="10910003" user="semiceki">
     <tag k="addr:city" v="Jataizinho"/>
@@ -21290,17 +20535,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+91 97121 57459"/>
     <tag k="website" v="https://www.etherbit.in/"/>
-  </node>
-  <node id="8140859630" lat="37.4257271" lon="47.7019580" version="1" timestamp="2020-11-19T05:50:44Z" changeset="94411954" uid="12199445" user="webgostar">
-    <tag k="addr:city" v="میانه"/>
-    <tag k="addr:postcode" v="5317868510"/>
-    <tag k="addr:street" v="معلم جنوبی"/>
-    <tag k="name" v="وب گستر"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="opening_hours:covid19" v="off"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="shop" v="computer"/>
   </node>
   <node id="8165711575" lat="40.8427756" lon="14.2284774" version="2" timestamp="2020-12-02T19:08:55Z" changeset="95173728" uid="11045191" user="Settebello">
     <tag k="addr:city" v="Napoli"/>
@@ -21467,21 +20701,6 @@
     <tag k="website" v="https://www.dooncashyourgold.com/"/>
     <tag k="website:stock" v="www.sahdevjewellers.com"/>
   </node>
-  <node id="8329754958" lat="33.9875527" lon="51.4522120" version="4" timestamp="2022-08-20T19:23:47Z" changeset="125159859" uid="12499019" user="Arj FarmShop">
-    <tag k="addr:city" v="کاشان"/>
-    <tag k="addr:postcode" v="009831"/>
-    <tag k="addr:street" v="رضا عباسی"/>
-    <tag k="agrarian" v="fertilizer;seed;feed;tools;agricultural_machinery;toxicant"/>
-    <tag k="email" v="mehdi.arj8926@gmail.com"/>
-    <tag k="name" v="Arj FarmShop | فروشگاه کشاورزی ارج"/>
-    <tag k="opening_hours" v="Sa-Th 08:00-13:00,16:00-19:00"/>
-    <tag k="operator" v="Arj FarmShop"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="phone" v="+989217178926"/>
-    <tag k="shop" v="agrarian"/>
-  </node>
   <node id="8362805032" lat="43.8150186" lon="12.5826454" version="2" timestamp="2021-04-16T15:00:32Z" changeset="103067751" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Casinina"/>
     <tag k="addr:housenumber" v="115"/>
@@ -21494,21 +20713,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3939848059"/>
     <tag k="website" v="http://www.studiotontini.it"/>
-  </node>
-  <node id="8376875151" lat="36.7021363" lon="52.6604324" version="1" timestamp="2021-01-29T22:22:40Z" changeset="98392268" uid="12573682" user="Titan Store">
-    <tag k="addr:city" v="Babolsar"/>
-    <tag k="addr:postcode" v="4741750004"/>
-    <tag k="addr:street" v="Beheshti 17"/>
-    <tag k="name" v="Titan Store"/>
-    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="operator" v="Mojtaba Abdolahtabar"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="phone" v="+981135257888"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="https://www.instagram.com/titan__store/"/>
   </node>
   <node id="8384248820" lat="46.1516685" lon="-73.9045173" version="2" timestamp="2021-02-02T18:44:24Z" changeset="98595900" uid="5359" user="user_5359">
     <tag k="addr:city" v="Chertsey"/>
@@ -21861,26 +21065,6 @@
     <tag k="phone" v="+51936330609"/>
     <tag k="website" v="https://www.dnela.pe"/>
   </node>
-  <node id="8566386690" lat="35.7712763" lon="51.3559305" version="4" timestamp="2022-04-02T12:15:39Z" changeset="119233025" uid="12934329" user="ahmaditt">
-    <tag k="addr:city" v="تهران"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="1916663114"/>
-    <tag k="addr:street" v="محمد دلیری"/>
-    <tag k="brand" v="OTAQ"/>
-    <tag k="image" v="https://s16.picofile.com/file/8428907418/1568707B_89FB_4A58_8B25_0F49B74D5958.jpeg"/>
-    <tag k="name" v="اُطاق"/>
-    <tag k="name:en" v="OTAQ Home Decor"/>
-    <tag k="opening_hours" v="Sa-Th 09:00-21:00"/>
-    <tag k="opening_hours:covid19" v="same"/>
-    <tag k="operator" v="Shayegan"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:electronic_purses" v="yes"/>
-    <tag k="phone" v="+98 21 2234 2990"/>
-    <tag k="shop" v="interior_decoration"/>
-    <tag k="website" v="http://otaqco.ir"/>
-  </node>
   <node id="8575497795" lat="38.7135210" lon="16.1276133" version="1" timestamp="2021-03-30T14:18:07Z" changeset="101991813" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Vibo Valentia"/>
     <tag k="addr:housenumber" v="18"/>
@@ -21893,23 +21077,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 0963571530"/>
     <tag k="website" v="http://www.tatosonline.com"/>
-  </node>
-  <node id="8589597339" lat="35.7998825" lon="51.4489451" version="2" timestamp="2021-04-29T23:47:32Z" changeset="103873277" uid="3817321" user="Hadi Omid">
-    <tag k="addr:city" v="تهران"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="1935934153"/>
-    <tag k="addr:street" v="دانیالی"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/shamis_art_gallery/"/>
-    <tag k="name" v="نگارخانه شمیس"/>
-    <tag k="name:en" v="Shamis Art Gallery"/>
-    <tag k="opening_hours" v="Mo-Su 15:00-21:00"/>
-    <tag k="opening_hours:covid19" v="appointment-only"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="phone" v="+982122201102"/>
-    <tag k="tourism" v="gallery"/>
-    <tag k="website" v="https://shamis.gallery/"/>
   </node>
   <node id="8595308894" lat="-34.5456225" lon="-58.4656537" version="3" timestamp="2022-03-24T19:59:20Z" changeset="118880793" uid="12424494" user="lovelyfurball88">
     <tag k="addr:city" v="buenos aires"/>
@@ -21980,41 +21147,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:litecoin" v="yes"/>
     <tag k="website" v="https://www.facebook.com/edileide.galdino/"/>
-  </node>
-  <node id="8648888202" lat="25.2923205" lon="60.6566080" version="4" timestamp="2021-12-08T07:20:28Z" changeset="114688821" uid="238419" user="HubMiner">
-    <tag k="addr:city" v="چابهار"/>
-    <tag k="addr:city:en" v="chabahar"/>
-    <tag k="addr:street" v="بلوار امام خمینی"/>
-    <tag k="email" v="emisar2010@gmail.com"/>
-    <tag k="name" v="ایوب کامپیوتر Ayub Computer 2"/>
-    <tag k="opening_hours" v="Sa-Th 08:30-14:00,15:30-21:00"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="operator" v="MohSen Mos"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="+985435330738"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="http://wa.me/989159951330"/>
-  </node>
-  <node id="8661284005" lat="32.6304071" lon="51.6860665" version="3" timestamp="2023-03-28T08:38:48Z" changeset="134209434" uid="2350452" user="mrash14">
-    <tag k="addr:city" v="اصفهان"/>
-    <tag k="addr:housenumber" v="نبش کوجه شماره2"/>
-    <tag k="addr:postcode" v="8165867471"/>
-    <tag k="addr:street" v="آیت الله ارباب"/>
-    <tag k="name" v="deheshgallery( گالری پرده دهش )"/>
-    <tag k="opening_hours" v="شنبه-پنجشنبه 9-14 17-22"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="owner" v="amin dehesh"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="+98 31 3662 7001"/>
-    <tag k="phone:mobile" v="+98 913 568 9800"/>
-    <tag k="shop" v="curtain"/>
-    <tag k="website" v="https://www.instagram.com/deheshgallery/?hl=en"/>
   </node>
   <node id="8700759667" lat="37.5666347" lon="15.1101271" version="2" timestamp="2021-05-05T13:28:35Z" changeset="104188189" uid="743479" user="fayor">
     <tag k="description" v="Vendita e assistenza PC e accessori."/>
@@ -22109,23 +21241,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 348222579"/>
     <tag k="website" v="https://www.sicilyncc.it/"/>
-  </node>
-  <node id="8746760266" lat="35.5293789" lon="51.2236251" version="1" timestamp="2021-05-19T17:39:16Z" changeset="104977411" uid="12631366" user="ARSoltanii">
-    <tag k="addr:city" v="ghaemiyeh,Eslamshahr"/>
-    <tag k="addr:housenumber" v="127"/>
-    <tag k="addr:street" v="علی پور"/>
-    <tag k="brand" v="Narsis"/>
-    <tag k="description" v="فروش عمده انواع فرآورده های گوشتی، سوسیس، کالباس و همبرگر و..."/>
-    <tag k="name" v="آریا پروتئین"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-23:00"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="operator" v="ARSoltanii"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="+982191304330"/>
-    <tag k="shop" v="supermarket"/>
-    <tag k="website" v="https://Aria-Pro.ir"/>
   </node>
   <node id="8753152316" lat="45.5318205" lon="10.8131651" version="1" timestamp="2021-05-21T13:28:04Z" changeset="105093179" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Dolcè"/>
@@ -22340,89 +21455,6 @@
     <tag k="payment:visa_electron" v="yes"/>
     <tag k="shop" v="pastry"/>
   </node>
-  <node id="8985883271" lat="36.2029120" lon="57.6800086" version="3" timestamp="2022-11-19T21:33:58Z" changeset="129138968" uid="13885579" user="سازینی | sazyny">
-    <tag k="addr:city" v="سبزوار"/>
-    <tag k="addr:housenumber" v="21"/>
-    <tag k="addr:postcode" v="9614964765"/>
-    <tag k="addr:street" v="بسیج مستضعفین(جنوبی)"/>
-    <tag k="branch" v="سازینی"/>
-    <tag k="brand" v="سازینی"/>
-    <tag k="contact:instagram" v="http://www.instagram.com/sazyny"/>
-    <tag k="contact:telegram" v="http://www.t.me/sazyny"/>
-    <tag k="description" v="تولید کننده صنایع چوبی&#x0a;Manufacturer of wood industries"/>
-    <tag k="email" v="info@sazyny.com"/>
-    <tag k="image" v="https://lh3.googleusercontent.com/p/AF1QipNdYTaUp86HLD3y1Gi7ABPH6o-U3HpqjhdVPDSW=s1244-w750-h1244"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="name" v="سازینی"/>
-    <tag k="name:en" v="sazyny"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="opening_hours:covid19" v="24/7"/>
-    <tag k="operator" v="mohammad khosrozadeh"/>
-    <tag k="payment:account_cards" v="yes"/>
-    <tag k="payment:alipay" v="yes"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:app" v="yes"/>
-    <tag k="payment:apple_pay" v="yes"/>
-    <tag k="payment:bancomat" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:blik" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cheque" v="yes"/>
-    <tag k="payment:clipper" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:discover_card" v="yes"/>
-    <tag k="payment:dkv" v="yes"/>
-    <tag k="payment:electronic_purses" v="yes"/>
-    <tag k="payment:ep_easycard" v="yes"/>
-    <tag k="payment:ep_geldkarte" v="yes"/>
-    <tag k="payment:ep_ipass" v="yes"/>
-    <tag k="payment:girocard" v="yes"/>
-    <tag k="payment:google_pay" v="yes"/>
-    <tag k="payment:jcb" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:mastercard_contactless" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:prepaid_ticket" v="yes"/>
-    <tag k="payment:telephone_cards" v="yes"/>
-    <tag k="payment:unionpay" v="yes"/>
-    <tag k="payment:uta" v="yes"/>
-    <tag k="payment:v_pay" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:visa_debit" v="yes"/>
-    <tag k="payment:visa_electron" v="yes"/>
-    <tag k="payment:wechat" v="yes"/>
-    <tag k="phone" v="+985144450477"/>
-    <tag k="shop" v="supermarket"/>
-    <tag k="stroller" v="yes"/>
-    <tag k="website" v="https://sazyny.com"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="8989603620" lat="35.7971593" lon="51.4939977" version="3" timestamp="2022-11-12T15:37:58Z" changeset="128817676" uid="13891856" user="VapeIran">
-    <tag k="addr:city" v="Tehran"/>
-    <tag k="addr:housenumber" v="ساختمان اجلاس"/>
-    <tag k="addr:street" v="تقاطع گلچین شمالی و  صدرنژاد"/>
-    <tag k="brand" v="ویپ ایران"/>
-    <tag k="name" v="ویپ ایران"/>
-    <tag k="name:en" v="VapeIran"/>
-    <tag k="name:fa" v="ویپ ایران"/>
-    <tag k="opening_hours" v="Sa-Th 10:00-20:00"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="operator" v="VapeIran Showroom"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="phone" v="+982122497496"/>
-    <tag k="website" v="https://vapeiran.com"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="9057978816" lat="29.7502813" lon="-95.3552688" version="3" timestamp="2022-12-31T15:16:23Z" changeset="130724872" uid="3486044" user="DeadLetterQueue">
     <tag k="addr:city" v="Houston"/>
     <tag k="addr:housenumber" v="2199"/>
@@ -22495,28 +21527,6 @@
     <tag k="ref" v="9949"/>
     <tag k="website" v="https://www.coinstar.com/kiosk-info?KioskId=9949"/>
   </node>
-  <node id="9241513878" lat="36.2751733" lon="50.0088768" version="4" timestamp="2023-03-28T08:38:48Z" changeset="134209434" uid="2350452" user="mrash14">
-    <tag k="addr:city" v="قزوین"/>
-    <tag k="addr:housenumber" v="462"/>
-    <tag k="addr:postcode" v="3413787483"/>
-    <tag k="addr:street" v="خیام جنوبی نزدیک به تقاطع معراج"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:others" v="yes"/>
-    <tag k="email" v="omid.kohannia@gmail.com"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="موبایل آردین"/>
-    <tag k="opening_hours" v="ُSa-Tu 10:00-14:30, 17:00-22:30"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="operator" v="آقای امید کهن نیا"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="phone" v="+98 28 3335 9263"/>
-    <tag k="second_hand" v="yes"/>
-    <tag k="shop" v="mobile_phone"/>
-    <tag k="start_date" v="2010-08-26"/>
-    <tag k="website" v="https://ardinmobile.com"/>
-  </node>
   <node id="9265449551" lat="3.4663122" lon="-76.5278490" version="2" timestamp="2021-11-19T02:42:28Z" changeset="113970417" uid="14483268" user="INTEGRAL TECNOLOGIA">
     <tag k="addr:city" v="Cali"/>
     <tag k="addr:housenumber" v="17"/>
@@ -22536,34 +21546,6 @@
     <tag k="start_date" v="2021-01-10"/>
     <tag k="stroller" v="yes"/>
     <tag k="website" v="www.intecnocol.com"/>
-  </node>
-  <node id="9277248139" lat="35.7218571" lon="51.3363033" version="2" timestamp="2023-03-28T08:38:48Z" changeset="134209434" uid="2350452" user="mrash14">
-    <tag k="addr:city" v="تهران"/>
-    <tag k="addr:housenumber" v="گلدیس همکف واحد۱۳"/>
-    <tag k="addr:postcode" v="1451796345"/>
-    <tag k="addr:street" v="فلکه دوم صادقیه"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:others" v="yes"/>
-    <tag k="email" v="respinaboutiq13@gmail.com"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="بوتیک زنانه رسپینا"/>
-    <tag k="opening_hours" v="همه روزه از ۱۰ صبح الی ۱۰ شب بصورت یکسره-حنی تعطیلات"/>
-    <tag k="opening_hours:covid19" v="same"/>
-    <tag k="operator" v="Mohammadi"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:telephone_cards" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:visa_debit" v="yes"/>
-    <tag k="phone" v="+98 21 4428 9132"/>
-    <tag k="shop" v="supermarket"/>
-    <tag k="website" v="https://www.instagram.com/respina.boutiq"/>
   </node>
   <node id="9283240229" lat="39.2346765" lon="9.1244650" version="2" timestamp="2021-12-08T05:50:45Z" changeset="114685986" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Cagliari"/>
@@ -22816,19 +21798,6 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="www.coraventas.com"/>
   </node>
-  <node id="9383224391" lat="35.7619937" lon="50.9974615" version="2" timestamp="2022-01-01T08:49:56Z" changeset="115629354" uid="10143293" user="sososoheilian">
-    <tag k="addr:city" v="alborz"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:street" v="گلستان ۱۸"/>
-    <tag k="amenity" v="car_wash"/>
-    <tag k="name" v="Ditec.ir"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="self_service" v="no"/>
-  </node>
   <node id="9404246754" lat="39.9020525" lon="15.7760971" version="1" timestamp="2022-01-09T08:22:46Z" changeset="115933030" uid="14811455" user="Hotel TEA">
     <tag k="addr:city" v="Praia a Mare"/>
     <tag k="addr:housenumber" v="60"/>
@@ -22971,65 +21940,6 @@
     <tag k="shop" v="copyshop"/>
     <tag k="website" v="https://www.rcarvalhografica.com.br/"/>
   </node>
-  <node id="9551543061" lat="29.6280334" lon="52.5533174" version="1" timestamp="2022-03-03T09:13:40Z" changeset="118047782" uid="15219578" user="Mobile RooZ">
-    <tag k="addr:city" v="شیراز"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="714369538"/>
-    <tag k="addr:street" v="بولوار آزادی"/>
-    <tag k="brand" v="samsung.mi.apple.hw"/>
-    <tag k="fixme" v="wellcome"/>
-    <tag k="name" v="فروشگاه موبایل و تعمیرات روز"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="operator" v="Raha Irani"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:discover_card" v="yes"/>
-    <tag k="payment:easycard" v="yes"/>
-    <tag k="payment:electronic_purses" v="yes"/>
-    <tag k="payment:ep_easycard" v="yes"/>
-    <tag k="payment:ep_ipass" v="yes"/>
-    <tag k="payment:girocard" v="yes"/>
-    <tag k="payment:jcb" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:telephone_cards" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:visa_debit" v="yes"/>
-    <tag k="payment:visa_electron" v="yes"/>
-    <tag k="phone" v="+989191234599"/>
-    <tag k="shop" v="mobile_phone"/>
-    <tag k="website" v="www.charter6.ir"/>
-  </node>
-  <node id="9570456460" lat="35.7019649" lon="51.2555785" version="1" timestamp="2022-03-11T09:51:50Z" changeset="118355644" uid="15289921" user="R8 Mikaelson">
-    <tag k="addr:city" v="شهر تهران"/>
-    <tag k="addr:street" v="بلوار تهرانسر"/>
-    <tag k="brand" v="Penobit"/>
-    <tag k="email" v="info@penobit.com"/>
-    <tag k="name" v="Penobit"/>
-    <tag k="name:fa" v="پنوبیت"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="operator" v="R8"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="+989024005345"/>
-    <tag k="shop" v="computer"/>
-    <tag k="start_date" v="2022-10-01"/>
-    <tag k="website" v="https://penobit.com"/>
-  </node>
   <node id="9573487725" lat="40.4243238" lon="-86.9078392" version="2" timestamp="2023-01-12T20:32:07Z" changeset="131203900" uid="1884235" user="Graptemys">
     <tag k="addr:city" v="West Lafayette"/>
     <tag k="addr:housenumber" v="108"/>
@@ -23106,34 +22016,6 @@
     <tag k="shop" v="clothes"/>
     <tag k="website" v="http://www.texgroupitalia.com"/>
   </node>
-  <node id="9754621292" lat="38.0533668" lon="46.3892396" version="4" timestamp="2023-03-28T08:42:28Z" changeset="134209579" uid="2350452" user="mrash14">
-    <tag k="addr:city" v="تبریز"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="5158375946"/>
-    <tag k="addr:street" v="میدان آذرآبادگان"/>
-    <tag k="branch" v="1"/>
-    <tag k="brand" v="ملیسک"/>
-    <tag k="email" v="info@melisak.ir"/>
-    <tag k="fax" v="04136628326"/>
-    <tag k="image" v="https://s6.uupload.ir/files/whatsapp_image_2022-05-19_at_5.54.32_pm_(1)_co7.jpeg"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="internet_access:fee" v="customers"/>
-    <tag k="internet_access:ssid" v="melisak.ir"/>
-    <tag k="name" v="ملیسک فروشگاه لباس بچگانه"/>
-    <tag k="opening_hours" v="Open 14:00"/>
-    <tag k="opening_hours:covid19" v="off 21:00"/>
-    <tag k="operator" v="ملیسک"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="phone" v="+98 935 536 2491"/>
-    <tag k="shop" v="supermarket"/>
-    <tag k="start_date" v="2022.04.07"/>
-    <tag k="stroller" v="no"/>
-    <tag k="website" v="https://melisak.ir"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="9769979930" lat="40.7635880" lon="-73.9717920" version="1" timestamp="2022-05-25T14:37:51Z" changeset="121479308" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="New York"/>
     <tag k="addr:housenumber" v="620"/>
@@ -23160,18 +22042,6 @@
     <tag k="office" v="therapist"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3934532828"/>
-  </node>
-  <node id="9813703854" lat="33.9060172" lon="51.5489348" version="2" timestamp="2022-06-15T14:29:12Z" changeset="122421862" uid="213831" user="Josef73">
-    <tag k="addr:city" v="کاشان - شهرک صنعتی امیرکبیر"/>
-    <tag k="addr:street" v="خیابان میرعماد - یاس 6"/>
-    <tag k="name" v="شرکت فرش مه ترنج"/>
-    <tag k="opening_hours" v="Sa-Th 08:00-16:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="phone" v="+989134263515"/>
-    <tag k="shop" v="carpet"/>
-    <tag k="website" v="https://mahtoranj.com"/>
   </node>
   <node id="9820708366" lat="24.4547107" lon="88.0872697" version="2" timestamp="2022-06-19T08:52:13Z" changeset="122571285" uid="616774" user="mueschel">
     <tag k="addr:city" v="Jangipur"/>
@@ -23287,61 +22157,6 @@
     <tag k="phone" v="+39 3481305685"/>
     <tag k="shop" v="farm"/>
     <tag k="website" v="https://ojni.it"/>
-  </node>
-  <node id="9875911936" lat="35.5905899" lon="51.4366016" version="3" timestamp="2023-05-31T11:58:36Z" changeset="136785814" uid="11348430" user="Dayan13">
-    <tag k="addr:city" v="شهر ری"/>
-    <tag k="addr:street" v="سپاهیان انقلاب"/>
-    <tag k="brand" v="apple - samsung  - xiaomi - LG - huawei - sony - Nokia"/>
-    <tag k="description" v="خرید و فروش انواع گوشی ها و تبلت های نو و کارکرده  خرید و فروش انواع سیم کارت های نو و کارکرده  تعمیرات تخصصی سخت افزاری و نرم افزاری انواع گوشی و تبلت"/>
-    <tag k="name" v="موبایل دانیال"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="operator" v="اسماعیل یاملایی"/>
-    <tag k="payment:app" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+98 21 5591 9482"/>
-    <tag k="shop" v="mobile_phone"/>
-  </node>
-  <node id="9886962050" lat="35.6569821" lon="51.4277122" version="1" timestamp="2022-07-14T10:18:26Z" changeset="123601940" uid="16541612" user="comekala">
-    <tag k="addr:city" v="شهر تهران"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="11027"/>
-    <tag k="addr:postcode" v="1416799463"/>
-    <tag k="addr:street" v="پاساژنورتهران"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="branch" v="Computers and hardware"/>
-    <tag k="brand" v="comekala"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="فروشگاه کام کالا ارئه دهنده سخت افزار کامپیوتر نوت بوک ماشین های اداری و شبکه در شهر تهران واقع در خیابان ولیعصر بازار کامپیوتر&#x0a;ما تمرکز بر سه ویژگی ینعی قابل اعتماد بودن خدمات مشتری و منحصر به فرد بودن در کنار شما خواهیم بود&#x0a;فروشگاه کام کالا در سال 98 فع"/>
-    <tag k="diet:vegan" v="yes"/>
-    <tag k="diet:vegetarian" v="yes"/>
-    <tag k="ele" v="3"/>
-    <tag k="email" v="kam4west@gmail.com"/>
-    <tag k="fax" v="+982188901489"/>
-    <tag k="fixme" v="+982188901489"/>
-    <tag k="image" v="https://comekala.com/wp-content/uploads/2022/07/com-kala-removebg-preview.png"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="level" v="5"/>
-    <tag k="mapillary" v="https://comekala.com/wp-content/uploads/2022/07/com-kala-removebg-preview.png"/>
-    <tag k="name" v="فروشگاه اینترنتی کام کالا"/>
-    <tag k="not:name" v="کام"/>
-    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
-    <tag k="operator" v="کمال خورشیدی"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="+9809395071176"/>
-    <tag k="shop" v="computer"/>
-    <tag k="source" v="https://comekala.com/"/>
   </node>
   <node id="9925299277" lat="40.6263023" lon="-74.1778110" version="1" timestamp="2022-08-01T18:26:06Z" changeset="124359704" uid="10183030" user="MapSpot">
     <tag k="addr:city" v="Staten Island"/>
@@ -23530,25 +22345,6 @@
     <tag k="payment:upi" v="yes"/>
     <tag k="phone" v="+90 6302 1913"/>
     <tag k="shop" v="clothes"/>
-  </node>
-  <node id="10253218895" lat="35.7678429" lon="50.0636645" version="2" timestamp="2023-02-06T18:48:20Z" changeset="132170737" uid="9431166" user="arman-s">
-    <tag k="addr:city" v="بوئین زهرا"/>
-    <tag k="addr:street" v="طالقانی"/>
-    <tag k="email" v="info@forimall.com"/>
-    <tag k="image" v="https://forimall.com/wp-content/uploads/2020/05/Untitled-1.png"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="name" v="فروشگاه لوازم یدکی تراکتور فوری مال"/>
-    <tag k="opening_hours" v="Mo-Su 09:00-18:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="phone" v="+98-283-422-2021"/>
-    <tag k="shop" v="car_parts"/>
-    <tag k="toilets" v="yes"/>
-    <tag k="website" v="https://forimall.com"/>
   </node>
   <node id="10269677786" lat="45.5152985" lon="10.2661419" version="3" timestamp="2022-12-17T15:27:20Z" changeset="130189179" uid="194751" user="Goffredo">
     <tag k="addr:city" v="Brescia"/>
