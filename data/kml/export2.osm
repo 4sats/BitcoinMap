@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-16T05:25:59Z"/>
+<meta osm_base="2023-07-17T05:27:02Z"/>
 
   <node id="596189128" lat="32.7643400" lon="-117.1887090" version="5" timestamp="2020-06-16T22:21:19Z" changeset="86742477" uid="318696" user="n76">
     <tag k="addr:city" v="San Diego"/>
@@ -7860,16 +7860,6 @@
     <tag k="phone" v="+55 85 3224-5676"/>
     <tag k="smoking" v="outside"/>
   </node>
-  <node id="3219293376" lat="-3.7346409" lon="-38.5011837" version="5" timestamp="2022-05-30T05:55:06Z" changeset="121692321" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Fortaleza"/>
-    <tag k="addr:housenumber" v="1090"/>
-    <tag k="addr:postcode" v="60125-120"/>
-    <tag k="addr:street" v="Rua Joaquim Nabuco"/>
-    <tag k="building" v="yes"/>
-    <tag k="name" v="Creactive Soluções Tecnológicas"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://creactive.com.br/"/>
-  </node>
   <node id="3221815661" lat="42.2496766" lon="-73.6488210" version="3" timestamp="2019-08-22T18:28:36Z" changeset="73637919" uid="289334" user="XimeX">
     <tag k="addr:city" v="Philmont"/>
     <tag k="addr:housenumber" v="1-11"/>
@@ -9426,14 +9416,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="shop" v="farm"/>
-  </node>
-  <node id="3669406130" lat="-17.7571446" lon="-63.1990464" version="3" timestamp="2021-10-21T20:45:54Z" changeset="112810407" uid="2285494" user="JJIglesias">
-    <tag k="addr:street" v="K Este"/>
-    <tag k="amenity" v="bank"/>
-    <tag k="name" v="Corsario Trading"/>
-    <tag k="operator" v="Corsario Trading"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1.305.520.9434 / +591.7254.5550"/>
   </node>
   <node id="3670668578" lat="43.0072320" lon="-71.4592387" version="3" timestamp="2021-05-31T16:05:32Z" changeset="105634066" uid="163396" user="pokey">
     <tag k="addr:city" v="Manchester"/>
@@ -12976,19 +12958,6 @@
     <tag k="toilets" v="no"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="8647560549" lat="-16.4591181" lon="-54.6699448" version="1" timestamp="2021-04-20T13:09:42Z" changeset="103273887" uid="13126603" user="ESCOLINHA ABC DA MONICA">
-    <tag k="addr:city" v="RONDONOPOLIS"/>
-    <tag k="addr:housenumber" v="3036"/>
-    <tag k="addr:postcode" v="78750240"/>
-    <tag k="addr:street" v="Rua das Codornas"/>
-    <tag k="addr:suburb" v="PARQUE UNIVERSITARIO"/>
-    <tag k="amenity" v="childcare"/>
-    <tag k="name" v="INSTITUIÇÃO INFANTIL ABC DA MÔNICA"/>
-    <tag k="opening_hours" v="7 - 18"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="website" v="https://www.facebook.com/edileide.galdino/"/>
-  </node>
   <node id="8712862403" lat="-15.7933504" lon="-47.8930909" version="1" timestamp="2021-05-08T19:16:27Z" changeset="104376333" uid="13199664" user="diegoaraujo88">
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:postcode" v="70322-915"/>
@@ -13830,6 +13799,23 @@
     <tag k="shop" v="bakery"/>
     <tag k="survey:date" v="2023-07-06"/>
     <tag k="website" v="http://petitbombon.shop"/>
+  </node>
+  <node id="11050367418" lat="-29.6822319" lon="-53.8006592" version="2" timestamp="2023-07-17T05:25:20Z" changeset="138603040" uid="19681045" user="SuperSoca">
+    <tag k="contact:instagram" v="https://www.instagram.com/pixelartefotosm/"/>
+    <tag k="description" v="Trabalhamos com cobertura fotográfica de casamentos, aniversários, festas de 15 anos, ensaios fotográficos, restauração/colorização de fotos,  molduras e fotolivros. Peça um orçamento! ATENÇÃO: não temos loja, o ponto no mapa é apenas para referência."/>
+    <tag k="image" v="https://ins2-static.46graus.com/files/photos/cffda52f/4c11498e-83dc-4de4-a352-75f33751615d/pixelarte-150x150.jpg"/>
+    <tag k="name" v="PixelArte Fotografia"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone/WhatsApp" v="(55) 99632-3714"/>
+    <tag k="start_date" v="2023"/>
+    <tag k="survey:date" v="2023-07-17"/>
+    <tag k="website" v="https://pixelarte.com.br/"/>
   </node>
 
 </osm>
