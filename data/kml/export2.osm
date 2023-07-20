@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-19T05:23:28Z"/>
+<meta osm_base="2023-07-20T05:24:07Z"/>
 
   <node id="596189128" lat="32.7643400" lon="-117.1887090" version="5" timestamp="2020-06-16T22:21:19Z" changeset="86742477" uid="318696" user="n76">
     <tag k="addr:city" v="San Diego"/>
@@ -58,19 +58,6 @@
     <tag k="phone" v="+1-204-775-7263"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="http://www.sandmanhotels.ca/hotels/winnipeg/"/>
-  </node>
-  <node id="759138366" lat="45.9601361" lon="12.6573162" version="5" timestamp="2021-05-11T07:50:08Z" changeset="104495141" uid="8803266" user="octavius_tv">
-    <tag k="addr:city" v="Pordenone"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="33170"/>
-    <tag k="addr:street" v="Via San Giorgio"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="italian;pizza"/>
-    <tag k="name" v="Da Cico ristorante &amp; pizzeria"/>
-    <tag k="opening_hours" v="Mo-Sa 11:00-15:00,18:00-24:00; Su 11:00-15:00,18:00-23:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0434 27312"/>
-    <tag k="website" v="https://dacico.it/"/>
   </node>
   <node id="908305698" lat="44.3569816" lon="-79.7166114" version="5" timestamp="2018-02-18T03:47:14Z" changeset="56454029" uid="5633991" user="Matthew Darwin">
     <tag k="addr:city" v="Barrie"/>
@@ -515,47 +502,6 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="smoking" v="outside"/>
   </node>
-  <node id="2508945073" lat="10.4857854" lon="-66.8549502" version="11" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:full" v="Centro Comercial Ciudad Tamanaco, Etapa 1, Nivel C1, Chuao"/>
-    <tag k="addr:housename" v="C.C Ciudad Tamanaco"/>
-    <tag k="addr:postcode" v="1064"/>
-    <tag k="addr:street" v="Av. La Estancia"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="branch" v="CCCT"/>
-    <tag k="brand" v="Beco"/>
-    <tag k="capacity" v="100"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/TiendasBECO/"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/Tiendas_BECO/"/>
-    <tag k="contact:twitter" v="https://twitter.com/Tiendas_BECO"/>
-    <tag k="currency:BsF" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipNBRBhf0ssLaoUCJLU6m5cgSMt4kP1ui1r52ry5=w408-h725-k-no"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="Beco"/>
-    <tag k="opening_hours" v="Mo-Su 09:00-20:00"/>
-    <tag k="operator" v="Centrobeco, C.A"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:wire_transfer" v="yes"/>
-    <tag k="phone" v="+58-212-9590292"/>
-    <tag k="shop" v="department_store"/>
-    <tag k="smoking" v="no"/>
-    <tag k="start_date" v="01-01-1961"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="https://www.beco.com.ve/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="2512385427" lat="33.1801628" lon="-117.3250359" version="8" timestamp="2022-07-01T12:03:22Z" changeset="123083681" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Carlsbad"/>
     <tag k="addr:housename" v="Spirito's Italian Diner"/>
@@ -569,21 +515,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="760-720-7111"/>
     <tag k="website" v="https://spiritositaliandiner.com/welcome.html"/>
-  </node>
-  <node id="2515140534" lat="45.8309472" lon="12.0060384" version="7" timestamp="2018-02-01T17:59:25Z" changeset="55973113" uid="1743828" user="n4bC">
-    <tag k="addr:city" v="Cornuda"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:postcode" v="31041"/>
-    <tag k="addr:street" v="Piazza Giovanni XXIII"/>
-    <tag k="name" v="Matteo Mardegan, Dottore Commercialista, Revisore Legale"/>
-    <tag k="office" v="accountant"/>
-    <tag k="office_1" v="tax_advisor"/>
-    <tag k="opening_hours" v="08:30-12:30,14:30-18:30"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="phone" v="+39 0423 83638"/>
-    <tag k="website" v="http://www.studiomardegan.it"/>
   </node>
   <node id="2522844354" lat="35.2609643" lon="-120.6505790" version="8" timestamp="2023-03-20T18:07:46Z" changeset="133910058" uid="6981414" user="kfinger">
     <tag k="addr:city" v="San Luis Obispo"/>
@@ -1075,18 +1006,6 @@
     <tag k="cuisine" v="italian;pizza"/>
     <tag k="name" v="Roma Pizza"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="2576142694" lat="45.8567761" lon="11.9872971" version="4" timestamp="2022-04-05T07:20:38Z" changeset="119329921" uid="14617702" user="Đuro Jiří">
-    <tag k="addr:city" v="Onigo"/>
-    <tag k="addr:housename" v="Ferramenta Bogana"/>
-    <tag k="addr:housenumber" v="23"/>
-    <tag k="addr:postcode" v="31040"/>
-    <tag k="addr:street" v="Via Cavallea"/>
-    <tag k="name" v="Ferramenta Bogana"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-12:30,14:30-19:30; Su off"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0423 64035"/>
-    <tag k="shop" v="hardware"/>
   </node>
   <node id="2576246034" lat="40.7465544" lon="-73.9858120" version="2" timestamp="2019-02-23T02:57:20Z" changeset="67485418" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="New York"/>
@@ -5118,17 +5037,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1 424 229 2122"/>
   </node>
-  <node id="2825826685" lat="10.4875128" lon="-66.8853604" version="6" timestamp="2022-07-27T05:47:47Z" changeset="124121481" uid="527105" user="albertoq">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:floor" v="third Floor"/>
-    <tag k="addr:postcode" v="1040"/>
-    <tag k="addr:street" v="Av. Principal de Bello Monte"/>
-    <tag k="name" v="Centro de Estudio e Investigación &quot;Richard Stallman&quot;"/>
-    <tag k="office" v="company"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+58-416-2433302"/>
-    <tag k="website" v="http://ceirs.org.ve/"/>
-  </node>
   <node id="2827539158" lat="37.7922062" lon="-122.3981904" version="2" timestamp="2019-02-18T22:23:08Z" changeset="67332106" uid="9451067" user="b-jazz-bot">
     <tag k="addr:housenumber" v="388, Suite 1300"/>
     <tag k="addr:street" v="Market Street"/>
@@ -5278,17 +5186,6 @@
     <tag k="name" v="EZ VAPE"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="tobacco"/>
-  </node>
-  <node id="2861646171" lat="45.8912036" lon="11.0291503" version="2" timestamp="2014-05-19T08:02:52Z" changeset="22419932" uid="893327" user="mcheckimport">
-    <tag k="addr:city" v="Rovereto"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="38068"/>
-    <tag k="addr:street" v="Via Fortunato Zeni"/>
-    <tag k="name" v="Trentino Sistemi s.r.l."/>
-    <tag k="office" v="it"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0464 791007"/>
-    <tag k="website" v="http://www.trentinosistemi.com"/>
   </node>
   <node id="2863510616" lat="40.7749016" lon="-73.9119381" version="5" timestamp="2016-10-02T19:24:09Z" changeset="42589859" uid="3178375" user="LeTopographeFou">
     <tag k="addr:city" v="Astoria"/>
@@ -6075,22 +5972,6 @@
     <tag k="website" v="https://www.noblehousesuites.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="3007507460" lat="45.8254376" lon="12.2553499" version="4" timestamp="2021-06-26T17:16:42Z" changeset="107011241" uid="11220113" user="ivanbranco">
-    <tag k="addr:city" v="Susegana"/>
-    <tag k="addr:housenumber" v="42f"/>
-    <tag k="addr:postcode" v="31058"/>
-    <tag k="addr:street" v="Via Quattro Novembre"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="cuisine" v="italian"/>
-    <tag k="description" v="Dalla colazione all'aperitivo, passando per gli snack oppure la pausa pranzo con menù dedicato. Ampi parcheggi e possibilità di consumare all'aperto."/>
-    <tag k="email" v="caffegiardino03@gmail.com"/>
-    <tag k="name" v="Caffè Giardino"/>
-    <tag k="opening_hours" v="05:00-22:00"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0438 27531"/>
-  </node>
   <node id="3009654172" lat="33.7742573" lon="-117.9413779" version="4" timestamp="2017-03-12T22:31:14Z" changeset="46797259" uid="83501" user="riiga">
     <tag k="addr:city" v="garden grove"/>
     <tag k="addr:housenumber" v="10971"/>
@@ -6695,17 +6576,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-206-430-5839"/>
     <tag k="website" v="https://www.moondropcoffee.com/"/>
-  </node>
-  <node id="3148399645" lat="10.4845829" lon="-66.8647236" version="10" timestamp="2021-09-23T22:51:01Z" changeset="111617305" uid="5443883" user="Wilmer Osario">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:postcode" v="1060"/>
-    <tag k="addr:street" v="Av. Principal de Las Mercedes"/>
-    <tag k="amenity" v="money_transfer"/>
-    <tag k="description" v="Ofrecemos nuestro servicio de venta de boletos aereos, articulos de tecnologia computadoras tablets celulares,ofrecemos tambien servicio de remesas familiares int ofrecemos paquetes de tours nac. todo esto y mucho mas pagando en bitcoin , usd o Bsf"/>
-    <tag k="email" v="compralotoditobtc@gmail.com"/>
-    <tag k="name" v="CompralotoditoBTC"/>
-    <tag k="opening_hours" v="Mo-Su 08:00-20:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="3148713160" lat="38.9497872" lon="-76.4852014" version="3" timestamp="2019-02-18T08:48:01Z" changeset="67306513" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Annapolis"/>
@@ -7991,22 +7861,6 @@
     <tag k="phone" v="(415) 347-0004"/>
     <tag k="website" v="https://zorelaw.com/"/>
   </node>
-  <node id="3288302846" lat="45.8879469" lon="11.0412298" version="5" timestamp="2019-11-08T19:40:02Z" changeset="76828103" uid="118021" user="maggot27">
-    <tag k="addr:city" v="Rovereto"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="38068"/>
-    <tag k="addr:province" v="TN"/>
-    <tag k="addr:state" v="Trentino Alto Adige"/>
-    <tag k="addr:street" v="Via Luigi Negrelli"/>
-    <tag k="description" v="Compravendita e locazione immobiliare."/>
-    <tag k="email" v="info@andromedaimmobiliare.it"/>
-    <tag k="name" v="Andromeda Immobiliare"/>
-    <tag k="office" v="estate_agent"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0464076651"/>
-    <tag k="website" v="http://www.andromedaimmobiliare.it"/>
-  </node>
   <node id="3293574535" lat="42.2872272" lon="-71.1508554" version="2" timestamp="2015-04-02T21:07:11Z" changeset="29938518" uid="2800258" user="Dragos Velicanu">
     <tag k="addr:city" v="West Roxbury"/>
     <tag k="addr:housenumber" v="1754"/>
@@ -8070,15 +7924,6 @@
     <tag k="phone" v="+1-248-745-3100"/>
     <tag k="shop" v="paint"/>
     <tag k="website" v="https://pontiacpaintsupply.com/"/>
-  </node>
-  <node id="3314469267" lat="45.9642100" lon="12.5334600" version="2" timestamp="2022-11-04T11:28:36Z" changeset="128478935" uid="17579871" user="Matteo Pavanello Videomaker e pilota di droni">
-    <tag k="addr:city" v="Sacile"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="33077"/>
-    <tag k="addr:street" v="Via Venzone"/>
-    <tag k="name" v="Matteo Pavanello videomaker e pilota di droni"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="3315840540" lat="36.8149049" lon="-76.2073549" version="2" timestamp="2016-04-16T05:48:36Z" changeset="38611860" uid="1408522" user="Omnific">
     <tag k="addr:housenumber" v="6200"/>
@@ -8298,16 +8143,6 @@
     <tag k="phone" v="+1-360-685-0145"/>
     <tag k="website" v="https://www.limitlesslaw.com/"/>
   </node>
-  <node id="3396836774" lat="45.8928495" lon="11.0365521" version="2" timestamp="2016-12-28T11:49:04Z" changeset="44728552" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Rovereto"/>
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:postcode" v="38068"/>
-    <tag k="addr:street" v="Via Prati"/>
-    <tag k="name" v="NWHR S.r.l.s."/>
-    <tag k="office" v="it"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="http://www.nwhr.eu"/>
-  </node>
   <node id="3397763594" lat="45.5557238" lon="10.4093539" version="6" timestamp="2017-12-24T17:20:36Z" changeset="54892197" uid="350864" user="demon_box">
     <tag k="addr:city" v="Paitone"/>
     <tag k="addr:housenumber" v="3"/>
@@ -8415,19 +8250,6 @@
     <tag k="name" v="HotPoint &amp; Tea Express"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:coinbeyond" v="Yes"/>
-  </node>
-  <node id="3444507460" lat="45.8990073" lon="11.0368457" version="4" timestamp="2018-02-25T16:44:03Z" changeset="56665463" uid="330007" user="pikappa79">
-    <tag k="addr:city" v="Rovereto"/>
-    <tag k="addr:housenumber" v="28/6"/>
-    <tag k="addr:postcode" v="38068"/>
-    <tag k="addr:street" v="Via Pasqui"/>
-    <tag k="contact:fax" v="+39 0464 498714"/>
-    <tag k="contact:phone" v="+39 0464 490557"/>
-    <tag k="contact:website" v="http://www.studiocarollo.com/"/>
-    <tag k="description" v="Studio Legale e Commercialistico"/>
-    <tag k="name" v="Studio Carollo"/>
-    <tag k="office" v="accountant"/>
-    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="3444817137" lat="39.9181408" lon="-75.0750403" version="4" timestamp="2019-02-22T20:53:50Z" changeset="67480259" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Collingswood"/>
@@ -8690,16 +8512,6 @@
     <tag k="phone" v="727-216-7912"/>
     <tag k="shop" v="locksmith"/>
     <tag k="website" v="http://www.SunshineLocksmith.com"/>
-  </node>
-  <node id="3806001862" lat="45.9695214" lon="12.6748597" version="2" timestamp="2017-12-19T18:41:50Z" changeset="54767442" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Pordenone"/>
-    <tag k="addr:housenumber" v="26"/>
-    <tag k="addr:postcode" v="33170"/>
-    <tag k="addr:street" v="Via Piave"/>
-    <tag k="description" v="Fumetteria, giochi da tavolo. Inbitcoin POS"/>
-    <tag k="name" v="Fumetteria Safarà"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="anime"/>
   </node>
   <node id="3825447571" lat="30.2570748" lon="-97.7393242" version="4" timestamp="2018-04-03T16:54:33Z" changeset="57778382" uid="47978" user="Christoph Lotz">
     <tag k="addr:city" v="Austin"/>
@@ -9122,20 +8934,6 @@
     <tag k="shop" v="massage"/>
     <tag k="website" v="http://www.fisiom.it"/>
   </node>
-  <node id="4821479022" lat="45.6363160" lon="12.2522590" version="3" timestamp="2017-04-28T09:21:19Z" changeset="48222027" uid="28559" user="Stemby">
-    <tag k="addr:city" v="Casier"/>
-    <tag k="addr:housenumber" v="15"/>
-    <tag k="addr:postcode" v="31030"/>
-    <tag k="addr:street" v="Via Giuseppe Mazzini"/>
-    <tag k="description" v="Bed &amp; Breakfast in provincia di Treviso."/>
-    <tag k="email" v="info@bbvalichalet.it"/>
-    <tag k="guest_house" v="bed_and_breakfast"/>
-    <tag k="name" v="B&amp;B Vali Chalet"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 380 7774564"/>
-    <tag k="tourism" v="guest_house"/>
-    <tag k="website" v="http://bbvalichalet.it"/>
-  </node>
   <node id="4840279324" lat="45.4343968" lon="10.8330253" version="3" timestamp="2022-03-04T21:19:33Z" changeset="118108337" uid="223763" user="Patrick Bous">
     <tag k="addr:city" v="Sona"/>
     <tag k="addr:housenumber" v="1"/>
@@ -9214,19 +9012,6 @@
     <tag k="office" v="translation"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.studiosantos.co.uk"/>
-  </node>
-  <node id="4911427621" lat="45.6554411" lon="11.3977264" version="2" timestamp="2018-07-19T15:50:01Z" changeset="60876655" uid="1462614" user="_Andrea_">
-    <tag k="addr:city" v="Malo"/>
-    <tag k="addr:housenumber" v="35"/>
-    <tag k="addr:postcode" v="36034"/>
-    <tag k="addr:street" v="Via G. Finozzi"/>
-    <tag k="description" v="Servizi finaziari e informatici."/>
-    <tag k="email" v="manuel.casara@gmail.com"/>
-    <tag k="name" v="CET di Casara Manuel"/>
-    <tag k="office" v="financial"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0445 1716081"/>
-    <tag k="website" v="http://www.cetdesign.it"/>
   </node>
   <node id="4915385244" lat="43.7158900" lon="-79.4687532" version="6" timestamp="2020-01-04T16:09:55Z" changeset="79192877" uid="5164" user="woodpeck">
     <tag k="addr:city" v="Toronto"/>
@@ -9435,17 +9220,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="smoking" v="no"/>
   </node>
-  <node id="5216241723" lat="45.8888910" lon="11.0418170" version="2" timestamp="2017-11-08T10:01:28Z" changeset="53605807" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Rovereto"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="38068"/>
-    <tag k="addr:street" v="Via Giosuè Carducci"/>
-    <tag k="description" v="Progettazione, rilievi, catasto, tavolare, cantieristica, sicurezza, consulenze, perizie e stime, gestioni condominiali, valutazioni immobiliari."/>
-    <tag k="email" v="davidegeomperego@gmail.com"/>
-    <tag k="name" v="Geometra Davide Perego"/>
-    <tag k="office" v="surveyor"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="5218729621" lat="45.4418887" lon="10.9937872" version="3" timestamp="2021-02-18T13:41:56Z" changeset="99528489" uid="6178157" user="Tresho">
     <tag k="addr:city" v="Verona"/>
     <tag k="addr:housenumber" v="2"/>
@@ -9566,19 +9340,6 @@
     <tag k="phone" v="+39 030 2053595"/>
     <tag k="website" v="http://www.dgcom.eu"/>
   </node>
-  <node id="5251733422" lat="45.6813740" lon="12.2228010" version="3" timestamp="2019-03-21T07:07:46Z" changeset="68362973" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Treviso"/>
-    <tag k="addr:housenumber" v="33B"/>
-    <tag k="addr:postcode" v="31100"/>
-    <tag k="addr:street" v="Via Santa Bona Nuova"/>
-    <tag k="description" v="Vendita e assistenza computer."/>
-    <tag k="email" v="mpinformatica@interfree.it"/>
-    <tag k="name" v="MP Informatica Treviso"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 04221991085"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="https://www.assistenzacomputertreviso.it/"/>
-  </node>
   <node id="5270325054" lat="35.0835606" lon="-78.9813989" version="2" timestamp="2019-05-08T22:48:10Z" changeset="70051391" uid="7122319" user="MrNyanUniverse">
     <tag k="addr:city" v="Fayetteville"/>
     <tag k="addr:housenumber" v="340"/>
@@ -9631,18 +9392,6 @@
     <tag k="phone" v="+1-925-963-2857"/>
     <tag k="website" v="http://www.funcabinrentals.com/"/>
   </node>
-  <node id="5294018121" lat="45.9166640" lon="12.8560930" version="1" timestamp="2017-12-19T16:10:40Z" changeset="54763789" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="San Vito al Tagliamento"/>
-    <tag k="addr:housenumber" v="51"/>
-    <tag k="addr:postcode" v="33078"/>
-    <tag k="addr:street" v="Via Paolo Sarpi"/>
-    <tag k="description" v="Servizi contabili e amministrativi."/>
-    <tag k="email" v="giovannizanette.associati@gmail.com"/>
-    <tag k="name" v="Giovanni Zanette &amp; Associati Elaborazione Dati SRL"/>
-    <tag k="office" v="accountant"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 0434875243"/>
-  </node>
   <node id="5296583212" lat="35.4798674" lon="-97.5346371" version="4" timestamp="2020-06-25T19:24:16Z" changeset="87155987" uid="92286" user="Baloo Uriza">
     <tag k="addr:city" v="Oklahoma City"/>
     <tag k="addr:housenumber" v="1401"/>
@@ -9672,19 +9421,6 @@
     <tag k="shop" v="car"/>
     <tag k="website" v="http://www.autodiretto.it"/>
   </node>
-  <node id="5300784821" lat="45.6107240" lon="10.8039940" version="2" timestamp="2019-03-24T15:36:31Z" changeset="68474737" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Caprino Veronese"/>
-    <tag k="addr:housenumber" v="153/B"/>
-    <tag k="addr:postcode" v="37013"/>
-    <tag k="addr:street" v="Via Caduti di Nassirya"/>
-    <tag k="description" v="Consulenza e servizi IT per i professionisti. Vendiamo tecnologia per migliorare il vostro business. Operiamo nell'Open Source dal 2003."/>
-    <tag k="email" v="info@itservicenet.net"/>
-    <tag k="name" v="ITSERVICENET"/>
-    <tag k="office" v="it"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 3351901910"/>
-    <tag k="website" v="https://itservicenet.net/"/>
-  </node>
   <node id="5309546149" lat="36.1984080" lon="-86.7416763" version="2" timestamp="2017-12-29T02:39:42Z" changeset="54998880" uid="7389655" user="BartDavisLCSW">
     <tag k="addr:city" v="Nashville"/>
     <tag k="addr:housenumber" v="2621"/>
@@ -9695,32 +9431,6 @@
     <tag k="name" v="Bart Davis, LCSW"/>
     <tag k="operator" v="Bart Davis, LCSW"/>
     <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="5310384122" lat="45.8321960" lon="12.0047020" version="1" timestamp="2017-12-29T15:30:34Z" changeset="55012526" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Cornuda"/>
-    <tag k="addr:housenumber" v="32"/>
-    <tag k="addr:postcode" v="31041"/>
-    <tag k="addr:street" v="Via Giuseppe Verdi"/>
-    <tag k="description" v="Riparazione, assistenza e vendita computer e smartphone, sviluppo siti web/ e-commerce, programmazione software e app, sicurezza informatica."/>
-    <tag k="email" v="info@karma-studio.com"/>
-    <tag k="name" v="Karma Studio - Clinica del computer e del cellulare"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 3401859803"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="http://www.karma-studio.com"/>
-  </node>
-  <node id="5316487821" lat="45.9301630" lon="12.3211440" version="3" timestamp="2019-03-21T07:22:36Z" changeset="68363227" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Conegliano"/>
-    <tag k="addr:housenumber" v="107"/>
-    <tag k="addr:postcode" v="31020"/>
-    <tag k="addr:street" v="Via Menarè"/>
-    <tag k="description" v="Produzione e vendita spumanti alla frutta e accessori."/>
-    <tag k="email" v="info@rogante.net"/>
-    <tag k="name" v="Rogante srl - Sparkling Fruit"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 3240862155"/>
-    <tag k="shop" v="beverages"/>
-    <tag k="website" v="https://www.rogante.net/shop"/>
   </node>
   <node id="5322565871" lat="37.7892059" lon="-122.4034752" version="3" timestamp="2019-06-20T11:45:48Z" changeset="71440735" uid="10004548" user="神樂坂秀吉">
     <tag k="addr:city" v="San Francisco"/>
@@ -9772,19 +9482,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 045 6801000"/>
     <tag k="takeaway" v="yes"/>
-  </node>
-  <node id="5335235021" lat="45.8706510" lon="12.0479090" version="2" timestamp="2021-01-26T13:12:31Z" changeset="98166435" uid="11220113" user="ivanbranco">
-    <tag k="addr:city" v="Vidor"/>
-    <tag k="addr:housenumber" v="154"/>
-    <tag k="addr:postcode" v="31020"/>
-    <tag k="addr:street" v="Via Roma"/>
-    <tag k="description" v="Situata sui colli di Colbertaldo, frazione del comune di Vidor, nella zona del Prosecco Superiore di Valdobbiadene e del Prosecco Doc Treviso. L'uva proviene esclusivamente dai vigneti di proprietà."/>
-    <tag k="email" v="info@rosanatale.it"/>
-    <tag k="name" v="Società Agricola Rosanatale"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 320 0651952"/>
-    <tag k="shop" v="farm"/>
-    <tag k="website" v="http://www.rosanatale.it"/>
   </node>
   <node id="5340986229" lat="45.4139930" lon="11.0896030" version="2" timestamp="2018-12-17T14:39:58Z" changeset="65552424" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="San Martino Buon Albergo"/>
@@ -10126,18 +9823,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.facebook.com/Assaggio-Abano-Terme-1102897023191486"/>
   </node>
-  <node id="5770912521" lat="45.9892370" lon="12.2955200" version="3" timestamp="2021-02-24T03:25:02Z" changeset="99862876" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="addr:city" v="Vittorio Veneto"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="31029"/>
-    <tag k="addr:street" v="Largo Felice Cavallotti"/>
-    <tag k="description" v="Rivendita sali e tabacchi, articoli da fumo e lotto."/>
-    <tag k="email" v="sasakiperin@gmail.com"/>
-    <tag k="name" v="Tabaccheria al Quadrilatero"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="tobacco"/>
-    <tag k="website" v="https://www.facebook.com/tabaccheriaquadrilatero"/>
-  </node>
   <node id="5777317007" lat="43.4715937" lon="-80.5385839" version="1" timestamp="2018-07-22T16:34:53Z" changeset="60956537" uid="1216381" user="whjms">
     <tag k="amenity" v="atm"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -10180,17 +9865,6 @@
     <tag k="website" v="http://www.cloud99vapes.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="5954144929" lat="45.8503410" lon="12.8818550" version="2" timestamp="2018-10-05T18:14:51Z" changeset="63239245" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Cordovado"/>
-    <tag k="addr:postcode" v="33075"/>
-    <tag k="addr:street" v="Piazza Cecchini"/>
-    <tag k="description" v="Vendita piante e fiori ambulante presso mercato settimanale del giovedì."/>
-    <tag k="email" v="luana@montinofiori.it"/>
-    <tag k="name" v="MontinoFiori"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="florist"/>
-    <tag k="website" v="http://www.montinofiori.it"/>
-  </node>
   <node id="5955988100" lat="35.9035188" lon="-78.9421950" version="2" timestamp="2019-02-18T05:05:10Z" changeset="67301167" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Durham"/>
     <tag k="addr:housenumber" v="6910"/>
@@ -10206,17 +9880,6 @@
     <tag k="source" v="http://finance.yahoo.com/news/reeds-jewelers-now-accepting-bitcoin-120000388.html"/>
     <tag k="website" v="https://www.reeds.com/"/>
   </node>
-  <node id="5959527686" lat="45.8085810" lon="12.9959610" version="2" timestamp="2019-03-01T10:58:24Z" changeset="67681427" uid="97922" user="damjang">
-    <tag k="addr:city" v="Ronchis"/>
-    <tag k="addr:postcode" v="33050"/>
-    <tag k="addr:street" v="Piazzetta Giovanni Battista Trombetta"/>
-    <tag k="description:it" v="Vendita piante e fiori ambulante presso mercato settimanale del venerdì."/>
-    <tag k="email" v="maurizio@montinofiori.it"/>
-    <tag k="name" v="MontinoFiori"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="florist"/>
-    <tag k="website" v="http://www.montinofiori.it"/>
-  </node>
   <node id="5961948081" lat="43.0690067" lon="-70.7732510" version="3" timestamp="2021-12-27T23:29:58Z" changeset="115447017" uid="307520" user="wolfgang8741">
     <tag k="amenity" v="restaurant"/>
     <tag k="level" v="0"/>
@@ -10228,17 +9891,6 @@
     <tag k="phone" v="+1-603-436-0860"/>
     <tag k="toilets" v="yes"/>
     <tag k="website" v="https://www.streetfood360.com/"/>
-  </node>
-  <node id="5968358774" lat="45.7310290" lon="12.6786720" version="1" timestamp="2018-10-09T07:54:59Z" changeset="63335524" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="San Stino di Livenza"/>
-    <tag k="addr:postcode" v="30029"/>
-    <tag k="addr:street" v="Via Fratelli Martina"/>
-    <tag k="description" v="Vendita piante e fiori ambulante presso mercato settimanale del sabato."/>
-    <tag k="email" v="maurizio@montinofiori.it"/>
-    <tag k="name" v="MontinoFiori"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="shop" v="florist"/>
-    <tag k="website" v="http://www.montinofiori.it"/>
   </node>
   <node id="5976718733" lat="48.7181340" lon="-122.5034010" version="2" timestamp="2021-11-28T06:27:41Z" changeset="114314087" uid="1408522" user="Omnific">
     <tag k="addr:city" v="Bellingham"/>
@@ -10730,28 +10382,6 @@
     <tag k="shop" v="window_blind;doors"/>
     <tag k="website" v="https://www.benettidue.it"/>
   </node>
-  <node id="6898606420" lat="45.9586739" lon="12.6602979" version="1" timestamp="2019-10-19T17:21:55Z" changeset="75935476" uid="8803266" user="octavius_tv">
-    <tag k="addr:city" v="Pordenone"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:postcode" v="33170"/>
-    <tag k="addr:street" v="Piazzale Venti Settembre"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="italian;seafood"/>
-    <tag k="name" v="Le Ciaccole ristorantino"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
-  <node id="6898606422" lat="45.9795368" lon="12.6975613" version="2" timestamp="2019-10-19T19:18:29Z" changeset="75937815" uid="8803266" user="octavius_tv">
-    <tag k="addr:city" v="Cordenons"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:postcode" v="33084"/>
-    <tag k="addr:street" v="Via Lozzetta"/>
-    <tag k="amenity" v="dentist"/>
-    <tag k="healthcare" v="dentist"/>
-    <tag k="healthcare:speciality" v="dentist"/>
-    <tag k="name" v="Laura Pittau odontoiatra"/>
-    <tag k="opening_hours" v="Mo 09:00-12:00, 14:30-19:30; Tu 09:00-17:00; We 09:00-12:00, 15:00-19:00; Tu 11:00-19:00; We 09:00-13:00, 15:30-19:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="7019029234" lat="45.4640470" lon="9.1872480" version="1" timestamp="2019-11-29T09:42:46Z" changeset="77717782" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="2"/>
@@ -10834,20 +10464,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 0454770448"/>
     <tag k="website" v="http://www.amministrazionigaletto.it"/>
-  </node>
-  <node id="7484126353" lat="45.6286836" lon="12.3740559" version="4" timestamp="2021-03-20T17:13:04Z" changeset="101399578" uid="11220113" user="ivanbranco">
-    <tag k="addr:city" v="Roncade"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:postcode" v="31056"/>
-    <tag k="addr:street" v="Piazza Primo Maggio"/>
-    <tag k="name" v="Geom. Davide Cagnato"/>
-    <tag k="office" v="architect"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
-    <tag k="opening_hours:covid19" v="open"/>
-    <tag k="operator" v="Geom. Davide Cagnato"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="website" v="http://www.newtecnoservice.com/"/>
   </node>
   <node id="7646536361" lat="44.2041146" lon="-78.3866934" version="1" timestamp="2020-06-23T14:20:54Z" changeset="87039189" uid="5789626" user="DannyMcD">
     <tag k="addr:city" v="Fraserville"/>
@@ -11003,19 +10619,6 @@
     <tag k="website" v="https://legrandboise.com"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="8397238367" lat="45.7121595" lon="10.4016698" version="1" timestamp="2021-02-05T14:48:44Z" changeset="98775123" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Vestone"/>
-    <tag k="addr:housenumber" v="87"/>
-    <tag k="addr:postcode" v="25078"/>
-    <tag k="addr:street" v="Via Fiamme Verdi"/>
-    <tag k="description" v="Negozio di prodotti tipici bresciani e del lago di Garda."/>
-    <tag k="email" v="info@bbuono.it"/>
-    <tag k="name" v="bbuono.it"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 3335440014"/>
-    <tag k="shop" v="deli"/>
-    <tag k="website" v="http://www.bbuono.it"/>
-  </node>
   <node id="8415670929" lat="35.6591840" lon="-84.2852237" version="5" timestamp="2023-03-24T15:09:15Z" changeset="134072619" uid="3199858" user="Mateusz Konieczny - bot account">
     <tag k="addr:city" v="Loudon"/>
     <tag k="addr:housenumber" v="262"/>
@@ -11046,93 +10649,6 @@
     <tag k="website" v="https://pontoonnation.com/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="8443743562" lat="10.5015507" lon="-66.9141942" version="2" timestamp="2022-09-12T10:00:53Z" changeset="126081772" uid="2136761" user="flix1">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:full" v="Av. Santa Teresa"/>
-    <tag k="addr:housename" v="Edificio Traki"/>
-    <tag k="addr:postcode" v="1010"/>
-    <tag k="addr:street" v="Av. Este 8"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="brand" v="Traki"/>
-    <tag k="building" v="yes"/>
-    <tag k="capacity" v="100"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/TRAKIenganchate/posts/ciudad-traki-caracas-maiquet%C3%ADa-calle-san-sebasti%C3%A1n-de-navarrete-antiguo-cine-par/519739901397417/"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/trakienganchate/"/>
-    <tag k="contact:twitter" v="https://twitter.com/trakienganchate?lang=en"/>
-    <tag k="contact:youtube" v="https://www.youtube.com/channel/UCwWvColQIgu8eWlD3zBAzMg"/>
-    <tag k="currency:BsF" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="email" v="Trakiweb@traki.com"/>
-    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipP7LeYzYA5uWzbeT6UzgJGRv40E5rxBWTmHF5S-=w610-h240-k-no"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="Traki"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-17:00"/>
-    <tag k="operator" v="Traki Distribuidora, C.A"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:wire_transfer" v="yes"/>
-    <tag k="phone" v="+58-412-6080349"/>
-    <tag k="shop" v="department_store"/>
-    <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
-    <tag k="start_date" v="01-01-2000"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="https://home.traki.com/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="8443790332" lat="10.4958004" lon="-66.8801319" version="3" timestamp="2022-12-24T15:07:37Z" changeset="130459407" uid="10875409" user="Friendly_Ghost">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:full" v="Sabana Grande Edif. La Kapitana"/>
-    <tag k="addr:housename" v="Edificio La Kapitana"/>
-    <tag k="addr:postcode" v="1050"/>
-    <tag k="addr:street" v="Bulevar de Sabana Grande"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="brand" v="Traki"/>
-    <tag k="capacity" v="200"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/TRAKIenganchate/posts/ciudad-traki-caracas-maiquet%C3%ADa-calle-san-sebasti%C3%A1n-de-navarrete-antiguo-cine-par/519739901397417/"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/trakienganchate/"/>
-    <tag k="contact:twitter" v="https://twitter.com/trakienganchate?lang=en"/>
-    <tag k="currency:BsF" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="drive_through" v="no"/>
-    <tag k="email" v="Trakiweb@traki.com"/>
-    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipOUuHK-0AneWThvwIDv2FUH4kADT2DyX7Kv9Shu=w408-h305-k-no"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="Traki"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-19:00"/>
-    <tag k="operator" v="Traki Distribuidora, C.A"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:wire_transfer" v="yes"/>
-    <tag k="phone" v="+58-412-6080349"/>
-    <tag k="shop" v="department_store"/>
-    <tag k="smoking" v="no"/>
-    <tag k="start_date" v="01-01-2000"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="https://home.traki.com/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="8492117525" lat="34.8172818" lon="-82.3691094" version="2" timestamp="2021-09-04T19:49:51Z" changeset="110729328" uid="9580498" user="AndyEye">
     <tag k="addr:city" v="Greenville"/>
     <tag k="addr:housenumber" v="862"/>
@@ -11146,35 +10662,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="(864) 777-0773"/>
     <tag k="website" v="https://gomodernchiropractic.com/"/>
-  </node>
-  <node id="8495302104" lat="8.2820834" lon="-62.7179425" version="2" timestamp="2021-11-14T22:07:41Z" changeset="113780723" uid="5443883" user="Wilmer Osario">
-    <tag k="addr:city" v="Ciudad Guayana (Puerto Ordaz)"/>
-    <tag k="addr:district" v="Municipio Caroní"/>
-    <tag k="addr:floor" v="PB"/>
-    <tag k="addr:housenumber" v="Edificio El Mirador"/>
-    <tag k="addr:state" v="Bolívar"/>
-    <tag k="addr:street" v="Vía Italia"/>
-    <tag k="addr:suburb" v="Los Olivos"/>
-    <tag k="contact:mobile" v="+58 414-1852150"/>
-    <tag k="contact:whatsapp" v="+58 414-1852150"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:VES" v="yes"/>
-    <tag k="currency:others" v="no"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="instagram" v="https://instagram.com/pecuniamarketpzo"/>
-    <tag k="level" v="0"/>
-    <tag k="name" v="Pecunia Market"/>
-    <tag k="organic" v="yes"/>
-    <tag k="payment:app" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:mobile_phone" v="yes"/>
-    <tag k="payment:wire_transfer" v="yes"/>
-    <tag k="shop" v="convenience"/>
-    <tag k="toilets" v="no"/>
-    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="8497622037" lat="30.3604988" lon="-97.9512776" version="4" timestamp="2023-04-25T15:53:33Z" changeset="135350002" uid="16979815" user="citrula">
     <tag k="addr:city" v="Lakeway"/>
@@ -11233,40 +10720,6 @@
     <tag k="shop" v="hifi"/>
     <tag k="website" v="http://www.tecsound.it"/>
   </node>
-  <node id="8521086078" lat="8.3074642" lon="-62.7160284" version="3" timestamp="2021-11-14T22:07:41Z" changeset="113780723" uid="5443883" user="Wilmer Osario">
-    <tag k="addr:city" v="Ciudad Guayana (Puerto Ordaz)"/>
-    <tag k="addr:district" v="Municipio Caroní"/>
-    <tag k="addr:door" v="Local 5"/>
-    <tag k="addr:floor" v="PB"/>
-    <tag k="addr:housenumber" v="Edificio Paris"/>
-    <tag k="addr:state" v="Bolívar"/>
-    <tag k="addr:street" v="Avenida Bolivia"/>
-    <tag k="addr:suburb" v="Villa Bolivia"/>
-    <tag k="contact:mobile" v="+58 414-8867182"/>
-    <tag k="contact:whatsapp" v="+58 414-8867182"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:VES" v="yes"/>
-    <tag k="currency:others" v="no"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="instagram" v="https://instagram.com/kiwi.pzo"/>
-    <tag k="level" v="0"/>
-    <tag k="name" v="Kiwi"/>
-    <tag k="official_name" v="Kiwi Frutería y Verdulería"/>
-    <tag k="organic" v="yes"/>
-    <tag k="payment:app" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:mobile_phone" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:wire_transfer" v="yes"/>
-    <tag k="shop" v="greengrocer"/>
-    <tag k="start_date" v="2018"/>
-    <tag k="toilets" v="no"/>
-    <tag k="wheelchair" v="limited"/>
-  </node>
   <node id="8753152316" lat="45.5318205" lon="10.8131651" version="1" timestamp="2021-05-21T13:28:04Z" changeset="105093179" uid="2201521" user="quibitcoin">
     <tag k="addr:city" v="Dolcè"/>
     <tag k="addr:housenumber" v="508"/>
@@ -11291,24 +10744,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+39 3791563588"/>
     <tag k="website" v="http://www.easytransferbergamo.it"/>
-  </node>
-  <node id="8810835417" lat="5.6693068" lon="-67.6067529" version="2" timestamp="2021-07-28T19:07:29Z" changeset="108776515" uid="2724120" user="Jaime Ernesto Mora">
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Posada Turística Manapiare"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:visa_debit" v="yes"/>
-    <tag k="payment:visa_electron" v="yes"/>
-    <tag k="rooms" v="14"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="8832887662" lat="46.3347562" lon="-79.9734721" version="3" timestamp="2022-03-23T22:11:26Z" changeset="118840265" uid="12424494" user="lovelyfurball88">
     <tag k="capacity" v="50"/>
@@ -11345,24 +10780,6 @@
     <tag k="operator:wikipedia" v="en:Tesla, Inc."/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="short_name" v="Tesla"/>
-  </node>
-  <node id="8960474678" lat="5.6659520" lon="-67.6205434" version="1" timestamp="2021-07-29T16:37:04Z" changeset="108837141" uid="2724120" user="Jaime Ernesto Mora">
-    <tag k="addr:city" v="Puerto Ayacucho"/>
-    <tag k="addr:state" v="Amazonas"/>
-    <tag k="name" v="Tortas Artisticas Sandra López"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:dogecoin" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="payment:visa_debit" v="yes"/>
-    <tag k="payment:visa_electron" v="yes"/>
-    <tag k="shop" v="pastry"/>
   </node>
   <node id="9057978816" lat="29.7502813" lon="-95.3552688" version="3" timestamp="2022-12-31T15:16:23Z" changeset="130724872" uid="3486044" user="DeadLetterQueue">
     <tag k="addr:city" v="Houston"/>
@@ -11434,18 +10851,6 @@
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="start_date" v="2005"/>
-  </node>
-  <node id="9348722909" lat="45.7882871" lon="12.0520064" version="1" timestamp="2021-12-18T14:10:41Z" changeset="115097661" uid="2201521" user="quibitcoin">
-    <tag k="addr:city" v="Montebelluna"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="31044"/>
-    <tag k="addr:street" v="Via General Garioni"/>
-    <tag k="description" v="Ristrutturazioni generali: pitture edili, cartongesso, posa carta da parati, demolizioni interne, posa piastrelle, posa pavimenti."/>
-    <tag k="email" v="fincaloreo@gmail.com"/>
-    <tag k="name" v="BF Ristrutturazioni"/>
-    <tag k="office" v="construction"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 3403657272"/>
   </node>
   <node id="9355811771" lat="45.5118422" lon="10.1589035" version="1" timestamp="2021-12-21T14:59:51Z" changeset="115214074" uid="604999" user="White_Rabbit">
     <tag k="name" v="Packet Loss S.r.l."/>
@@ -11674,153 +11079,6 @@
     <tag k="website" v="http://bootlegmannings.com/"/>
     <tag k="yelp" v="http://www.yelp.com/biz/bootleg-mannings-staten-island-2?nb=1"/>
   </node>
-  <node id="9937709256" lat="10.4980026" lon="-66.8557039" version="6" timestamp="2022-12-05T08:36:46Z" changeset="129731241" uid="1722488" user="Mateusz Konieczny">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:full" v="Av. Blandin con calle Santa Teresa, C.C San Ignacio, nivel Vivero, local Vivero 3 Sur Este. Urb. La Castellana."/>
-    <tag k="addr:housename" v="Centro San Ignacio"/>
-    <tag k="addr:postcode" v="1060"/>
-    <tag k="addr:street" v="Av. Blandín"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="branch" v="San Ignacio"/>
-    <tag k="brand:wikidata" v="Q1536234"/>
-    <tag k="brand:wikipedia" v="en:Gold's Gym"/>
-    <tag k="capacity" v="50"/>
-    <tag k="contact:facebook" v="https://es-la.facebook.com/GoldsGymVenezuela/"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/goldsgymve/?hl=es"/>
-    <tag k="contact:twitter" v="https://twitter.com/goldsgymve"/>
-    <tag k="contact:whatsapp" v="+58-412-3132544"/>
-    <tag k="currency:BSD" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Este centro cuenta con 460 metros cuadrados, y al igual que todos nuestros gimnasios, no sólo alberga equipamiento deportivo de punta, sino también ofrece distintas modalidades de entrenamiento como indoor cycling, TRX, bailoterapia y yoga, entre otras."/>
-    <tag k="fee" v="yes"/>
-    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipPeeW-iIZlqS4yj0C1uCj5CAEdMoMbWd-W1Hllt=w426-h240-k-no"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="leisure" v="fitness_centre"/>
-    <tag k="name" v="Gold's Gym"/>
-    <tag k="opening_hours" v="Mo-Fr 06:00-21:00; Sa 08:00-16:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 08:00-13:00"/>
-    <tag k="operator" v="Gold's Gym C.A"/>
-    <tag k="operator:en" v="Gold's Gym International, Inc."/>
-    <tag k="operator:type" v="private"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="personal_trainer" v="yes"/>
-    <tag k="phone" v="+58-212-2645632"/>
-    <tag k="sauna" v="yes"/>
-    <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
-    <tag k="sport" v="fitness"/>
-    <tag k="swimming_pool" v="no"/>
-    <tag k="website" v="http://www.goldsgym.com.ve/index.php"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="9938189491" lat="10.5075245" lon="-66.9140393" version="2" timestamp="2022-08-16T17:23:48Z" changeset="124982843" uid="616774" user="mueschel">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:housenumber" v="27"/>
-    <tag k="addr:postcode" v="1010"/>
-    <tag k="addr:street" v="Av. Urdaneta"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="capacity" v="50"/>
-    <tag k="currency:BSD" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="fee" v="yes"/>
-    <tag k="image" v="https://lh5.googleusercontent.com/p/AF1QipM7ekTB8iPfey4MzC57Fg8fYjjnE2uXJ7Yf-WFm=w408-h306-k-no"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="leisure" v="fitness_centre"/>
-    <tag k="mobile" v="+58-414-2449001"/>
-    <tag k="name" v="Gym Daniels Fitness Center"/>
-    <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Sa 08:00-14:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
-    <tag k="operator" v="Gym Daniels Fitness Center C.A"/>
-    <tag k="operator:type" v="private"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="personal_trainer" v="yes"/>
-    <tag k="sauna" v="yes"/>
-    <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
-    <tag k="sport" v="fitness"/>
-    <tag k="swimming_pool" v="no"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="9938189503" lat="10.5098967" lon="-66.9168998" version="2" timestamp="2022-08-16T17:23:48Z" changeset="124982843" uid="616774" user="mueschel">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:postcode" v="1010"/>
-    <tag k="addr:street" v="Avenida Baralt"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="capacity" v="50"/>
-    <tag k="currency:BSD" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="fee" v="yes"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="leisure" v="fitness_centre"/>
-    <tag k="name" v="Emporio Gym"/>
-    <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Sa 07:00-15:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
-    <tag k="operator" v="Emporio Gym C.A"/>
-    <tag k="operator:type" v="private"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="personal_trainer" v="yes"/>
-    <tag k="phone" v="+58-212-???"/>
-    <tag k="sauna" v="yes"/>
-    <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
-    <tag k="sport" v="fitness"/>
-    <tag k="swimming_pool" v="no"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="9938189504" lat="10.5098070" lon="-66.9156566" version="2" timestamp="2022-08-16T17:23:48Z" changeset="124982843" uid="616774" user="mueschel">
-    <tag k="addr:city" v="Caracas"/>
-    <tag k="addr:postcode" v="1010"/>
-    <tag k="addr:street" v="Av. Norte 4"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="capacity" v="50"/>
-    <tag k="currency:BSD" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="fee" v="yes"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="leisure" v="fitness_centre"/>
-    <tag k="name" v="Atlético Fit Gym"/>
-    <tag k="opening_hours" v="Mo-Fr 06:00-20:00; Jan 01,Apr 19,May 01,Jun 24,Jul 05,Jul 24,Oct 12,Dec 24,Dec 25,Dec 31 off"/>
-    <tag k="operator" v="Atlético Fit Gym C.A"/>
-    <tag k="operator:type" v="private"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:diners_club" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="personal_trainer" v="yes"/>
-    <tag k="phone" v="+58-212-???"/>
-    <tag k="sauna" v="yes"/>
-    <tag k="smoking" v="no"/>
-    <tag k="source" v="albertoq2004@hotmail.com"/>
-    <tag k="sport" v="fitness"/>
-    <tag k="swimming_pool" v="no"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="10269677786" lat="45.5152985" lon="10.2661419" version="3" timestamp="2022-12-17T15:27:20Z" changeset="130189179" uid="194751" user="Goffredo">
     <tag k="addr:city" v="Brescia"/>
     <tag k="addr:housenumber" v="19"/>
@@ -11868,7 +11126,7 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="shop" v="tobacco"/>
   </node>
-  <node id="10734478928" lat="48.7493674" lon="-122.4801023" version="2" timestamp="2023-03-19T08:33:56Z" changeset="133848124" uid="3358163" user="Nostradumbass">
+  <node id="10734478928" lat="48.7493674" lon="-122.4801023" version="3" timestamp="2023-07-20T02:58:44Z" changeset="138741606" uid="3358163" user="Nostradumbass">
     <tag k="addr:city" v="Bellingham"/>
     <tag k="addr:housenumber" v="1215"/>
     <tag k="addr:postcode" v="98225"/>
@@ -11876,8 +11134,10 @@
     <tag k="addr:street" v="Cornwall Avenue"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="indian"/>
+    <tag k="indoor_seating" v="yes"/>
     <tag k="name" v="India Grill Restaurant"/>
     <tag k="opening_hours" v="&quot;We are currently only accepting take-out orders for the time being. Thank you&quot;"/>
+    <tag k="outdoor_seating" v="no"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1 360-714-0314"/>
     <tag k="website" v="http://www.indiagrill.us"/>
@@ -11967,6 +11227,51 @@
     <tag k="shop" v="bakery"/>
     <tag k="survey:date" v="2023-07-06"/>
     <tag k="website" v="http://petitbombon.shop"/>
+  </node>
+  <node id="11054531199" lat="52.5112322" lon="13.4592291" version="4" timestamp="2023-07-19T22:07:23Z" changeset="138736978" uid="19657910" user="MeinPaloSanto">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:housenumber" v="72-74"/>
+    <tag k="addr:postcode" v="10245"/>
+    <tag k="addr:street" v="Grünberger Str."/>
+    <tag k="branch" v="Mein Palo Santo - Wochenmarkt Boxhagener Platz"/>
+    <tag k="check_date:currency:XBT" v="2023-07-19"/>
+    <tag k="currency:ADA" v="yes"/>
+    <tag k="currency:ETH" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Mein Palo Santo"/>
+    <tag k="opening_hours" v="Sa: 9:30-16:00"/>
+    <tag k="operator" v="MeinPaloSanto.de"/>
+    <tag k="organic" v="yes"/>
+    <tag k="payment:account_cards" v="yes"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:apple_pay" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bitcoincash" v="yes"/>
+    <tag k="payment:cardano" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:discover_card" v="yes"/>
+    <tag k="payment:ep_geldkarte" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:girocard" v="yes"/>
+    <tag k="payment:google_pay" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:mastercard_contactless" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:unionpay" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_debit" v="yes"/>
+    <tag k="shop" v="supermarket"/>
   </node>
 
 </osm>
