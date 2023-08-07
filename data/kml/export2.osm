@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.4 df4c946a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-06T05:22:35Z"/>
+<meta osm_base="2023-08-07T05:23:55Z"/>
 
   <node id="247283913" lat="-17.9675249" lon="122.2364657" version="5" timestamp="2023-08-03T11:24:34Z" changeset="139388897" uid="20037985" user="The FoodLAB">
     <tag k="brand" v="The FoodLAB"/>
@@ -13,6 +13,39 @@
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="phone" v="+61 0474 815 925"/>
     <tag k="shop" v="Italian Pasta &amp; Pizza"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11094355604" lat="-25.4562248" lon="-49.3029585" version="2" timestamp="2023-08-06T22:08:01Z" changeset="139534223" uid="20048320" user="Zero Um">
+    <tag k="addr:city" v="Curitiba"/>
+    <tag k="addr:housenumber" v="493"/>
+    <tag k="addr:postcode" v="80320-345"/>
+    <tag k="addr:street" v="Avenida Presidente Arthur da Silva Bernardes"/>
+    <tag k="addr:suburb" v="Vila Izabel"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="diet:healthy" v="yes"/>
+    <tag k="diet:lactose_free" v="yes"/>
+    <tag k="diet:non-vegetarian" v="yes"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="image" v="https://mais1cafe.com.br/wp-content/uploads/2023/04/2.jpg"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Mais1 Café Vila Izabel"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-20:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+5541989019871"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="website" v="http://www.mais1cafe.com.br"/>
     <tag k="wheelchair" v="yes"/>
   </node>
 
