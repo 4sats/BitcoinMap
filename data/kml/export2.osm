@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-12T05:22:00Z"/>
+<meta osm_base="2023-08-13T05:21:12Z"/>
 
   <node id="247283913" lat="-17.9675249" lon="122.2364657" version="5" timestamp="2023-08-03T11:24:34Z" changeset="139388897" uid="20037985" user="The FoodLAB">
     <tag k="brand" v="The FoodLAB"/>
@@ -47,6 +47,26 @@
     <tag k="toilets" v="yes"/>
     <tag k="website" v="https://www.mais1cafe.com.br/"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11109115095" lat="50.4542223" lon="7.7182760" version="4" timestamp="2023-08-12T12:45:43Z" changeset="139786489" uid="20066954" user="Maik22237">
+    <tag k="addr:city" v="Ransbach Baumbach"/>
+    <tag k="addr:housenumber" v="7a"/>
+    <tag k="addr:postcode" v="56235"/>
+    <tag k="addr:street" v="Neustraße"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Honig, frisch vom Imker.&#x0a;Hühnereier aus eigener Haltung.&#x0a;Bezahlung mit Bitcoin/Lightning möglich"/>
+    <tag k="email" v="Maik22237@gmx.de"/>
+    <tag k="name" v="Honig vom Imker"/>
+    <tag k="operator" v="Maik B"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="phone" v="+491717523952"/>
+    <tag k="shop" v="grocery"/>
+    <tag k="survey:date" v="2023-08-12"/>
   </node>
 
 </osm>
