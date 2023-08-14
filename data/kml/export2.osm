@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-13T05:21:12Z"/>
+<meta osm_base="2023-08-14T05:22:45Z"/>
 
-  <node id="247283913" lat="-17.9675249" lon="122.2364657" version="5" timestamp="2023-08-03T11:24:34Z" changeset="139388897" uid="20037985" user="The FoodLAB">
-    <tag k="brand" v="The FoodLAB"/>
-    <tag k="brand:wikidata" v="Q5970945"/>
-    <tag k="name" v="The FoodLAB"/>
-    <tag k="opening_hours" v="Tue to Sat 16:00 to 20:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="phone" v="+61 0474 815 925"/>
-    <tag k="shop" v="Italian Pasta &amp; Pizza"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="11094355604" lat="-25.4562248" lon="-49.3029585" version="3" timestamp="2023-08-07T22:08:54Z" changeset="139585295" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Curitiba"/>
     <tag k="addr:housenumber" v="493"/>
@@ -48,7 +36,7 @@
     <tag k="website" v="https://www.mais1cafe.com.br/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11109115095" lat="50.4542223" lon="7.7182760" version="4" timestamp="2023-08-12T12:45:43Z" changeset="139786489" uid="20066954" user="Maik22237">
+  <node id="11109115095" lat="50.4542223" lon="7.7182760" version="5" timestamp="2023-08-13T06:05:01Z" changeset="139809752" uid="19756689" user="BTC4Ever">
     <tag k="addr:city" v="Ransbach Baumbach"/>
     <tag k="addr:housenumber" v="7a"/>
     <tag k="addr:postcode" v="56235"/>
@@ -66,7 +54,19 @@
     <tag k="payment:paypal" v="yes"/>
     <tag k="phone" v="+491717523952"/>
     <tag k="shop" v="grocery"/>
-    <tag k="survey:date" v="2023-08-12"/>
+    <tag k="survey:date" v="2023-08-13"/>
+  </node>
+  <node id="11112558136" lat="47.2823664" lon="7.5244693" version="1" timestamp="2023-08-13T18:47:47Z" changeset="139838773" uid="65572" user="Snuups">
+    <tag k="addr:city" v="Welschenrohr"/>
+    <tag k="addr:housenumber" v="304"/>
+    <tag k="addr:postcode" v="4716"/>
+    <tag k="addr:street" v="Höhenweg"/>
+    <tag k="description" v="Verkauf von Zubehör und Filament für 3D Drucker sowie Isopropanol."/>
+    <tag k="name" v="Snuups GmbH"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="electronics"/>
   </node>
 
 </osm>
