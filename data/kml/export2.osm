@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-14T05:22:45Z"/>
+<meta osm_base="2023-08-15T05:22:05Z"/>
 
+  <node id="9618674204" lat="51.3094180" lon="12.3762755" version="4" timestamp="2023-08-14T21:27:17Z" changeset="139890030" uid="12669335" user="bevalim">
+    <tag k="addr:city" v="Leipzig"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:housenumber" v="162"/>
+    <tag k="addr:postcode" v="04277"/>
+    <tag k="addr:street" v="Bernhard-Göring-Straße"/>
+    <tag k="contact:email" v="mail@proxysto.re"/>
+    <tag k="contact:jabber" v="proxystore-otr@jabber.systemli.org"/>
+    <tag k="contact:matrix" v="@proxystore:systemli.org"/>
+    <tag k="contact:session" v="056ab54005c858e3ffd2835d68621375006bbbe412b9824fd8cf669f459ea48328"/>
+    <tag k="contact:signal" v="+49 178 1239200"/>
+    <tag k="contact:website" v="https://proxysto.re"/>
+    <tag k="name" v="proxystore"/>
+    <tag k="opening_hours" v="Mo,Th 10:00-18:00; Tu-Sa 10:00-14:00"/>
+    <tag k="operator" v="Itermann &amp; Wansing GbR"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:monero" v="yes"/>
+    <tag k="shop" v="telecommunication"/>
+  </node>
   <node id="11094355604" lat="-25.4562248" lon="-49.3029585" version="3" timestamp="2023-08-07T22:08:54Z" changeset="139585295" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Curitiba"/>
     <tag k="addr:housenumber" v="493"/>
@@ -67,6 +86,25 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="shop" v="electronics"/>
+  </node>
+  <node id="11113855890" lat="45.1899449" lon="7.8895998" version="2" timestamp="2023-08-14T11:48:40Z" changeset="139867943" uid="90379" user="Andrea Musuruane">
+    <tag k="addr:city" v="Chivasso"/>
+    <tag k="addr:housenumber" v="2b"/>
+    <tag k="addr:postcode" v="10034"/>
+    <tag k="addr:street" v="Piazza della Repubblica"/>
+    <tag k="clothes" v="women"/>
+    <tag k="name" v="AMALO OUTLET"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-19:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="shop" v="clothes"/>
   </node>
 
 </osm>
