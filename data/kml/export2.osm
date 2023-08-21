@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-20T05:21:22Z"/>
+<meta osm_base="2023-08-21T05:22:44Z"/>
 
   <node id="6541759199" lat="50.9709083" lon="11.0223278" version="4" timestamp="2023-08-15T22:58:21Z" changeset="139938253" uid="1787080" user="vv01f">
     <tag k="addr:city" v="Erfurt"/>
@@ -20,6 +20,25 @@
     <tag k="opening_hours" v="Tu-Su 11:00-22:00; Mo off"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="http://www.die-pizzaschmiede.de/"/>
+  </node>
+  <node id="7678019527" lat="21.3105887" lon="-157.8603800" version="3" timestamp="2023-08-20T19:37:13Z" changeset="140149099" uid="20094364" user="vindubbz">
+    <tag k="addr:city" v="Honolulu"/>
+    <tag k="addr:housenumber" v="1146"/>
+    <tag k="addr:postcode" v="96813"/>
+    <tag k="addr:state" v="HI"/>
+    <tag k="addr:street" v="Fort Street Mall"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="juice;bubble_tea"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Hang’s French Cafe &amp; Smoothie"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:00; Sa 8:30-17:00"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="no"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="takeaway" v="yes"/>
   </node>
   <node id="9618674204" lat="51.3094180" lon="12.3762755" version="4" timestamp="2023-08-14T21:27:17Z" changeset="139890030" uid="12669335" user="bevalim">
     <tag k="addr:city" v="Leipzig"/>
@@ -178,11 +197,20 @@
     <tag k="survey:date" v="2023-08-18"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11126666250" lat="51.7969324" lon="-114.6761530" version="2" timestamp="2023-08-19T03:33:22Z" changeset="140079839" uid="20091284" user="Sundre BTC">
+  <node id="11126666250" lat="51.7969324" lon="-114.6761530" version="4" timestamp="2023-08-20T14:44:36Z" changeset="140137127" uid="7522075" user="Rockedf">
+    <tag k="addr:street" v="103 5446 Hwy 584 Sundre, AB T0M 1X0"/>
+    <tag k="check_date" v="2023-08-19"/>
+    <tag k="check_date:currency:XBT" v="2023-08-20"/>
+    <tag k="contact:phone" v="+1 403 638 4402"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Wagons West RV Park"/>
+    <tag k="operator" v="The Brackley Family"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="source" v="https://www.wwrvp.com/"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="tourism" v="caravan_site"/>
+    <tag k="website" v="https://www.wwrvp.com/"/>
   </node>
   <node id="11128265099" lat="39.4079512" lon="-9.1339168" version="5" timestamp="2023-08-19T22:44:02Z" changeset="140112824" uid="2107121" user="AntMadeira">
     <tag k="addr:city" v="Caldas da Rainha"/>
