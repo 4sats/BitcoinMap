@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-22T05:22:36Z"/>
+<meta osm_base="2023-08-23T05:22:19Z"/>
 
   <node id="6541759199" lat="50.9709083" lon="11.0223278" version="4" timestamp="2023-08-15T22:58:21Z" changeset="139938253" uid="1787080" user="vv01f">
     <tag k="addr:city" v="Erfurt"/>
@@ -229,6 +229,33 @@
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="survey:date" v="2023-08-19"/>
     <tag k="website" v="www.compartsystems.pt"/>
+  </node>
+  <node id="11137155299" lat="42.6990022" lon="23.3364698" version="2" timestamp="2023-08-22T21:30:49Z" changeset="140247484" uid="7522075" user="Rockedf">
+    <tag k="addr:city" v="София"/>
+    <tag k="addr:district" v="София"/>
+    <tag k="addr:housenumber" v="69"/>
+    <tag k="addr:postcode" v="1000"/>
+    <tag k="addr:province" v="Сердика"/>
+    <tag k="addr:state" v="София"/>
+    <tag k="addr:street" v="бул. Александър Дондуков"/>
+    <tag k="check_date:currency:XBT" v="2023-08-22"/>
+    <tag k="club" v="sport"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Кайлаш"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-19:00; Sa 09:00-19:00; PH closed"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+359 88 840 5886"/>
+    <tag k="sport" v="yoga"/>
+    <tag k="survey:date" v="2023-08-22"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:access" v="customers"/>
+    <tag k="website" v="https://kaylash.bg/"/>
+    <tag k="wheelchair" v="no"/>
   </node>
 
 </osm>
