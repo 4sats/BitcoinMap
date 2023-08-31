@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-30T05:22:57Z"/>
+<meta osm_base="2023-08-31T05:23:21Z"/>
 
+  <node id="4152317798" lat="42.6762657" lon="23.2850773" version="2" timestamp="2023-08-30T19:33:34Z" changeset="140605463" uid="18552145" user="ch0k1">
+    <tag k="addr:city" v="София"/>
+    <tag k="addr:country" v="България"/>
+    <tag k="addr:district" v="Красно село"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="1618"/>
+    <tag k="addr:state" v="София-град"/>
+    <tag k="addr:street" v="Хубча"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="office@vesta-bg.eu"/>
+    <tag k="name" v="Веста Консулт"/>
+    <tag k="office" v="accountant"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+359879 997 888"/>
+    <tag k="survey:date" v="2023-08-30"/>
+    <tag k="website" v="https://vesta-bg.eu"/>
+  </node>
   <node id="5111533377" lat="41.9617898" lon="24.5348662" version="4" timestamp="2023-08-30T00:25:21Z" changeset="140563402" uid="18552145" user="ch0k1">
     <tag k="currency:XBT" v="yes"/>
     <tag k="ele" v="1556"/>
@@ -19,6 +41,50 @@
     <tag k="source" v="bgtopomaps;ch0k1"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://hotelrodopi.com"/>
+  </node>
+  <node id="8230776239" lat="42.6714881" lon="23.3332612" version="10" timestamp="2023-08-30T19:47:07Z" changeset="140605914" uid="18552145" user="ch0k1">
+    <tag k="addr:city" v="София"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:postcode" v="1164"/>
+    <tag k="addr:street" v="ул. Златовръх"/>
+    <tag k="check_date" v="2023-01-15"/>
+    <tag k="contact:instagram" v="@diversohair"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="facebook" v="https://www.facebook.com/DIVERSOHAIR/"/>
+    <tag k="female" v="yes"/>
+    <tag k="mobile" v="+359884044161"/>
+    <tag k="name" v="Diverso hair"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-13:00,14:00-19:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="survey:date" v="2023-08-30"/>
+    <tag k="website" v="https://diversohair.com"/>
+  </node>
+  <node id="11121785209" lat="42.6350648" lon="23.3758054" version="3" timestamp="2023-08-30T20:02:23Z" changeset="140606324" uid="18552145" user="ch0k1">
+    <tag k="addr:block" v="418"/>
+    <tag k="addr:city" v="София"/>
+    <tag k="addr:country" v="България"/>
+    <tag k="addr:district" v="ж.к. Младост 4"/>
+    <tag k="addr:housenumber" v="бл. 418"/>
+    <tag k="addr:postcode" v="1715"/>
+    <tag k="addr:state" v="ж.к. Младост 4"/>
+    <tag k="addr:street" v="ж.к. Младост 4"/>
+    <tag k="contact:phone" v="+359883337725"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Авточасти"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-19:00; Sa 09:00-14:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="shop" v="car_parts"/>
+    <tag k="survey:date" v="2023-08-30"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="11137155299" lat="42.6990022" lon="23.3364698" version="2" timestamp="2023-08-22T21:30:49Z" changeset="140247484" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="София"/>
@@ -68,11 +134,11 @@
     <tag k="survey:date" v="2023-08-29"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="11155021841" lat="42.5618618" lon="27.6394471" version="1" timestamp="2023-08-30T00:04:21Z" changeset="140563169" uid="18552145" user="ch0k1">
+  <node id="11155021841" lat="42.5618618" lon="27.6394471" version="2" timestamp="2023-08-30T11:18:13Z" changeset="140583073" uid="10893436" user="Dimitar155">
     <tag k="addr:city" v="Поморие"/>
     <tag k="addr:housenumber" v="13"/>
     <tag k="addr:postcode" v="8200"/>
-    <tag k="addr:street" v="ул. Софроний Врачански"/>
+    <tag k="addr:street" v="Софроний Врачански"/>
     <tag k="cryptocurrency" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="lazur_pomorie@yahoo.com"/>
@@ -92,18 +158,19 @@
     <tag k="tourism" v="apartment"/>
     <tag k="website" v="https://lazur-pomorie.com"/>
   </node>
-  <node id="11155117444" lat="42.5276584" lon="27.4672550" version="2" timestamp="2023-08-30T01:38:10Z" changeset="140564955" uid="7522075" user="Rockedf">
+  <node id="11155117444" lat="42.5276584" lon="27.4672550" version="3" timestamp="2023-08-31T00:56:18Z" changeset="140611992" uid="18552145" user="ch0k1">
     <tag k="addr:block_number" v="37"/>
     <tag k="addr:city" v="Бургас"/>
+    <tag k="addr:country" v="България"/>
     <tag k="addr:district" v="ж.к. Изгрев"/>
+    <tag k="addr:place" v="ж.к. Изгрев, бл. 37, ап. 5"/>
     <tag k="addr:postcode" v="8008"/>
     <tag k="addr:province" v="Бургас"/>
     <tag k="addr:state" v="Бургас"/>
     <tag k="addr:unit" v="5"/>
     <tag k="amenity" v="software_company"/>
-    <tag k="check_date:currency:XBT" v="2023-08-29"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="entrance" v="5"/>
+    <tag k="email" v="ceo@ch0k1.com"/>
     <tag k="level" v="2"/>
     <tag k="mobile" v="+359 88 346 4567"/>
     <tag k="name" v="ch0k1 Ltd."/>
@@ -116,8 +183,130 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
-    <tag k="survey:date" v="2023-08-30"/>
+    <tag k="survey:date" v="2023-08-31"/>
+    <tag k="website" v="http:/ch0k1.com"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11157637852" lat="43.2010145" lon="27.9142509" version="1" timestamp="2023-08-30T18:31:38Z" changeset="140603095" uid="18552145" user="ch0k1">
+    <tag k="addr:city" v="Варна"/>
+    <tag k="addr:country" v="България"/>
+    <tag k="addr:district" v="Център"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="9000"/>
+    <tag k="addr:state" v="Варна"/>
+    <tag k="addr:street" v="Софроний Врачански"/>
+    <tag k="addr:unit" v="7"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="mobile" v="+359 885 12 20 12"/>
+    <tag k="name" v="24Ins"/>
+    <tag k="office" v="insurance"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+359 52 91 17 68"/>
+    <tag k="survey:date" v="2023-08-30"/>
+    <tag k="website" v="https://24ins.bg/"/>
+  </node>
+  <node id="11157669736" lat="43.2040215" lon="27.9056506" version="3" timestamp="2023-08-30T19:03:46Z" changeset="140604312" uid="18552145" user="ch0k1">
+    <tag k="addr:city" v="Варна"/>
+    <tag k="addr:country" v="България"/>
+    <tag k="addr:district" v="Център"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="9000"/>
+    <tag k="addr:state" v="Варна"/>
+    <tag k="addr:street" v="бул. Христо Ботев"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="LEGO robotics classes for students 5-15 years old, python programming and 3D design with Blender."/>
+    <tag k="email" v="school@robopartans.com"/>
+    <tag k="name" v="Робопартанс"/>
+    <tag k="office" v="educational_institution"/>
+    <tag k="opening_hours" v="Sa-Su 09:00-20:00"/>
+    <tag k="operator" v="Александър Павлов"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+359876256413"/>
+    <tag k="survey:date" v="2023-08-30"/>
+    <tag k="website" v="http://www.robopartans.com/"/>
+  </node>
+  <node id="11157724862" lat="43.8451120" lon="25.9488206" version="2" timestamp="2023-08-30T20:04:39Z" changeset="140606376" uid="18552145" user="ch0k1">
+    <tag k="addr:city" v="Русе"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="7015"/>
+    <tag k="addr:street" v="Александровска"/>
+    <tag k="clothes" v="women"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="mobile" v="+359878531704"/>
+    <tag k="name" v="Магазин &quot;Данини&quot;"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-19:00; Sa 10:00-17:30; Su 10:00-15:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="survey:date" v="2023-08-30"/>
+    <tag k="website" v="https://danini.eu/"/>
+  </node>
+  <node id="11157795638" lat="42.8244857" lon="23.3555848" version="1" timestamp="2023-08-30T20:21:05Z" changeset="140606861" uid="18552145" user="ch0k1">
+    <tag k="addr:city" v="Нови Искър"/>
+    <tag k="addr:country" v="България"/>
+    <tag k="addr:housenumber" v="34Б"/>
+    <tag k="addr:postcode" v="1280"/>
+    <tag k="addr:street" v="ул. Малко Бърдо"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Green Mobile"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+359885016814"/>
+    <tag k="shop" v="mobile_phone"/>
+    <tag k="survey:date" v="2023-08-30"/>
+  </node>
+  <node id="11157844785" lat="42.1446561" lon="24.7584934" version="1" timestamp="2023-08-30T20:48:28Z" changeset="140607676" uid="18552145" user="ch0k1">
+    <tag k="addr:city" v="Пловдив"/>
+    <tag k="addr:country" v="България"/>
+    <tag k="addr:district" v="Център"/>
+    <tag k="addr:housenumber" v="42"/>
+    <tag k="addr:postcode" v="4000"/>
+    <tag k="addr:state" v="Пловдив"/>
+    <tag k="addr:street" v="Мали Богдан"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="info@order.bg"/>
+    <tag k="name" v="Order.bg"/>
+    <tag k="office" v="company"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+359887442693"/>
+    <tag k="survey:date" v="2023-08-30"/>
+    <tag k="website" v="https://order.bg/"/>
+  </node>
+  <node id="11157987974" lat="42.4844024" lon="26.5105363" version="1" timestamp="2023-08-30T21:30:59Z" changeset="140608878" uid="18552145" user="ch0k1">
+    <tag k="addr:city" v="Ямбол"/>
+    <tag k="addr:country" v="България"/>
+    <tag k="addr:district" v="ж.к. Ген. Владимир Заимов"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="8600"/>
+    <tag k="addr:province" v="Бургас"/>
+    <tag k="addr:state" v="Ямбол"/>
+    <tag k="addr:street" v="Преслав"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Market Dynamics"/>
+    <tag k="office" v="company"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+359899076921"/>
+    <tag k="survey:date" v="2023-08-31"/>
   </node>
 
 </osm>
