@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-02T05:22:17Z"/>
+<meta osm_base="2023-09-03T05:22:07Z"/>
 
   <node id="4774262907" lat="-37.8598719" lon="145.0290633" version="2" timestamp="2023-09-02T04:45:56Z" changeset="140703507" uid="20155944" user="Healing_Delight">
     <tag k="addr:city" v="Malvern"/>
@@ -25,6 +25,17 @@
     <tag k="sport" v="yoga;sound_healing_by_healing_delight"/>
     <tag k="start_date" v="2022-05-01"/>
     <tag k="website" v="https://healing-delight.cliniko.com/bookings"/>
+  </node>
+  <node id="11164100580" lat="-23.5335636" lon="-47.4651156" version="1" timestamp="2023-09-03T01:32:52Z" changeset="140740456" uid="20121991" user="Claudio R Santos">
+    <tag k="addr:city" v="Sorocaba"/>
+    <tag k="addr:postcode" v="18048-110"/>
+    <tag k="addr:street" v="Avenida Professora Izoraida Marques Peres, 401"/>
+    <tag k="instagram" v="@blumomecanica"/>
+    <tag k="name" v="Blumo Mecanica Automotiva"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
   </node>
 
 </osm>
