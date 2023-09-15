@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-14T05:23:44Z"/>
+<meta osm_base="2023-09-15T05:23:31Z"/>
 
   <node id="1256677212" lat="51.0492738" lon="13.7343217" version="6" timestamp="2023-09-04T10:54:05Z" changeset="140798579" uid="20169174" user="I am Your father">
     <tag k="addr:city" v="Dresden"/>
@@ -122,6 +122,85 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+522221083756"/>
     <tag k="website" v="www.lacarnivoria.mx"/>
+  </node>
+  <node id="11191549835" lat="37.3557315" lon="13.8520092" version="1" timestamp="2023-09-14T21:26:25Z" changeset="141277072" uid="33407" user="Zaffo80">
+    <tag k="addr:city" v="Canicatti"/>
+    <tag k="addr:housenumber" v="91"/>
+    <tag k="addr:postcode" v="92024"/>
+    <tag k="addr:street" v="Via Regina Elena"/>
+    <tag k="contact:email" v="info@panaceaweb.it"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Panaceaerboristeria"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/erboristeriapanacea/"/>
+    <tag k="contact:phone" v="+39 0922 1838009"/>
+    <tag k="contact:website" v="https://www.panaceaweb.it/"/>
+    <tag k="contact:whatsapp" v="+39 0922 1838009"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="delivery:description" v="Ordine minimo €50 consegna gratuita"/>
+    <tag k="description" v="Erboristeria"/>
+    <tag k="name" v="Panacea Erboristeria"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-13:00,16:30-20:00"/>
+    <tag k="operator" v="Dottor Salvatore Guadagnino"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:apple_pay" v="yes"/>
+    <tag k="payment:bancomat" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:google_pay" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:mobile_phone" v="yes"/>
+    <tag k="payment:satispay" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:wire_transfer" v="yes"/>
+    <tag k="ref:vatin" v="IT01913620850"/>
+    <tag k="shop" v="herbalist"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="11191723439" lat="-24.9844588" lon="-53.4932547" version="2" timestamp="2023-09-14T22:04:46Z" changeset="141277994" uid="20249249" user="LabarbaBlackstyle barbearia 💈">
+    <tag k="addr:city" v="Cascavel"/>
+    <tag k="addr:housenumber" v="526"/>
+    <tag k="addr:postcode" v="85804260"/>
+    <tag k="addr:street" v="Avenida Gralha Azul"/>
+    <tag k="addr:suburb" v="Guaruja"/>
+    <tag k="male" v="yes"/>
+    <tag k="name" v="La Barba Black Style Barbearia"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="operator" v="Edson"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="45998392007"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11191740462" lat="10.3335666" lon="-85.7946243" version="1" timestamp="2023-09-14T22:39:58Z" changeset="141278581" uid="2558786" user="Le Peq">
+    <tag k="leisure" v="sports_centre"/>
+    <tag k="name" v="TamaRock"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-08:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="sport" v="climbing"/>
+  </node>
+  <node id="11191969944" lat="-20.5023964" lon="-43.8564980" version="1" timestamp="2023-09-15T02:28:31Z" changeset="141281873" uid="20252950" user="Profetizando o Bitcoin">
+    <tag k="addr:city" v="Congonhas"/>
+    <tag k="addr:housenumber" v="07"/>
+    <tag k="addr:postcode" v="36415000"/>
+    <tag k="addr:street" v="Rua da Saudade, segundo andar"/>
+    <tag k="addr:suburb" v="centro"/>
+    <tag k="male" v="yes"/>
+    <tag k="name" v="Rick's BARBER"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="5531981159775"/>
+    <tag k="shop" v="hairdresser"/>
   </node>
 
 </osm>
