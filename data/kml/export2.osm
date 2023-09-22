@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-21T05:24:12Z"/>
+<meta osm_base="2023-09-22T05:23:16Z"/>
 
   <node id="1256677212" lat="51.0492738" lon="13.7343217" version="6" timestamp="2023-09-04T10:54:05Z" changeset="140798579" uid="20169174" user="I am Your father">
     <tag k="addr:city" v="Dresden"/>
@@ -71,6 +71,53 @@
     <tag k="sport" v="yoga;sound_healing_by_healing_delight"/>
     <tag k="start_date" v="2022-05-01"/>
     <tag k="website" v="https://healing-delight.cliniko.com/bookings"/>
+  </node>
+  <node id="9017610032" lat="20.8950296" lon="-100.7532230" version="2" timestamp="2023-09-21T17:15:16Z" changeset="141570078" uid="19426458" user="Bitcoinhubs">
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Calle Vicente Araiza"/>
+    <tag k="name" v="Real Spa"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="massage"/>
+  </node>
+  <node id="9017612073" lat="20.9214670" lon="-100.7421980" version="3" timestamp="2023-09-21T20:16:40Z" changeset="141576564" uid="19426458" user="Bitcoinhubs">
+    <tag k="addr:city" v="San Miguel de Allende"/>
+    <tag k="addr:housenumber" v="47A"/>
+    <tag k="addr:street" v="MEX 51"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Juan Zaragoza Gallery"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-16:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="tourism" v="gallery"/>
+  </node>
+  <node id="9017617231" lat="20.9129720" lon="-100.7439720" version="3" timestamp="2023-09-21T20:08:57Z" changeset="141576314" uid="19426458" user="Bitcoinhubs">
+    <tag k="addr:city" v="San Miguel de Allende"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:street" v="Calle Cuna de Allende"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Kuna Galeria"/>
+    <tag k="opening_hours" v="Mo-Sat 10:00-14:00 16:20 Su 10:00 - 14:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="tourism" v="gallery"/>
+  </node>
+  <node id="10996242632" lat="20.8987162" lon="-100.7539050" version="5" timestamp="2023-09-21T17:19:28Z" changeset="141570201" uid="19426458" user="Bitcoinhubs">
+    <tag k="addr:city" v="San Miguel de Allende"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="37765"/>
+    <tag k="addr:street" v="Carretera Salida a Celaya"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date:currency:XBT" v="2023-08-02"/>
+    <tag k="cuisine" v="alitas"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Hot Wings 85"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
   </node>
   <node id="11164100580" lat="-23.5335636" lon="-47.4651156" version="1" timestamp="2023-09-03T01:32:52Z" changeset="140740456" uid="20121991" user="Claudio R Santos">
     <tag k="addr:city" v="Sorocaba"/>
@@ -280,6 +327,32 @@
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="www.airbnb.com/h/battibecco"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11208291469" lat="20.9126505" lon="-100.7446050" version="2" timestamp="2023-09-21T20:08:25Z" changeset="141576299" uid="19426458" user="Bitcoinhubs">
+    <tag k="addr:city" v="San Miguel de Allende"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Jesus"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="min_age" v="18"/>
+    <tag k="name" v="La 21 Unica Cantina"/>
+    <tag k="opening_hours" v="We-Su 14:00-01:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:tarjeta_de_credito" v="yes"/>
+  </node>
+  <node id="11208434474" lat="20.9180787" lon="-100.7423660" version="4" timestamp="2023-09-21T20:11:54Z" changeset="141576397" uid="19426458" user="Bitcoinhubs">
+    <tag k="addr:city" v="San Miguel de Allende"/>
+    <tag k="addr:housenumber" v="52A"/>
+    <tag k="addr:street" v="Andador Lucas Balderas"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Bag Colorin"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:xbt" v="yes"/>
+    <tag k="tourism" v="gallery"/>
   </node>
 
 </osm>
