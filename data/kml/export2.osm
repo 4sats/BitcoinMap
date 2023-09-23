@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-22T05:23:16Z"/>
+<meta osm_base="2023-09-23T05:22:41Z"/>
 
   <node id="1256677212" lat="51.0492738" lon="13.7343217" version="6" timestamp="2023-09-04T10:54:05Z" changeset="140798579" uid="20169174" user="I am Your father">
     <tag k="addr:city" v="Dresden"/>
@@ -130,27 +130,6 @@
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
   </node>
-  <node id="11167464821" lat="42.5013341" lon="27.4705835" version="2" timestamp="2023-09-04T17:52:16Z" changeset="140817440" uid="7522075" user="Rockedf">
-    <tag k="addr:city" v="Бургас"/>
-    <tag k="addr:housenumber" v="58"/>
-    <tag k="addr:postcode" v="8001"/>
-    <tag k="addr:street" v="Стефан Стамболов"/>
-    <tag k="check_date:currency:XBT" v="2023-09-04"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Магазин при Арабина"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-20:00; Su 08:00-12:00,17:30-20:00; "/>
-    <tag k="operator" v="Мохамед Ал Сабах"/>
-    <tag k="operator:type" v="private"/>
-    <tag k="organic" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+359876801558"/>
-    <tag k="shop" v="greengrocer"/>
-    <tag k="survey:date" v="2023-09-04"/>
-  </node>
   <node id="11179405297" lat="19.0696961" lon="-98.3003147" version="5" timestamp="2023-09-18T10:12:51Z" changeset="141416631" uid="616774" user="mueschel">
     <tag k="addr:city" v="San Pedro Cholula"/>
     <tag k="addr:housenumber" v="2015"/>
@@ -203,29 +182,6 @@
     <tag k="takeaway" v="yes"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="11191723439" lat="-24.9844588" lon="-53.4932547" version="3" timestamp="2023-09-15T14:29:07Z" changeset="141306094" uid="20249249" user="LabarbaBlackstyle barbearia 💈">
-    <tag k="addr:city" v="Cascavel"/>
-    <tag k="addr:housenumber" v="526"/>
-    <tag k="addr:postcode" v="85804260"/>
-    <tag k="addr:street" v="Avenida Gralha Azul"/>
-    <tag k="addr:suburb" v="Guaruja"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="male" v="yes"/>
-    <tag k="name" v="La Barba Black Style Barbearia"/>
-    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
-    <tag k="operator" v="Edson"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="45998392007"/>
-    <tag k="shop" v="hairdresser"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="11191740462" lat="10.3335666" lon="-85.7946243" version="1" timestamp="2023-09-14T22:39:58Z" changeset="141278581" uid="2558786" user="Le Peq">
     <tag k="leisure" v="sports_centre"/>
     <tag k="name" v="TamaRock"/>
@@ -251,83 +207,6 @@
     <tag k="phone" v="5531981159775"/>
     <tag k="shop" v="hairdresser"/>
   </node>
-  <node id="11200067892" lat="44.5041456" lon="11.3387609" version="2" timestamp="2023-09-18T15:10:31Z" changeset="141429659" uid="126635" user="Diego48">
-    <tag k="addr:city" v="Bologna"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:postcode" v="40121"/>
-    <tag k="addr:street" v="Via Cairoli"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="info@casavacanzabologna.it"/>
-    <tag k="guest_house" v="apartment"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="CVB :: Cairoli"/>
-    <tag k="operator" v="Casa Vacanza Bologna"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bonifico_bancario" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:satispay" v="yes"/>
-    <tag k="rooms" v="2"/>
-    <tag k="survey:date" v="2023-09-18"/>
-    <tag k="tourism" v="guest_house"/>
-    <tag k="website" v="www.airbnb.com/h/cairoli"/>
-  </node>
-  <node id="11200140615" lat="44.2520768" lon="11.4329193" version="2" timestamp="2023-09-18T20:29:49Z" changeset="141441202" uid="126635" user="Diego48">
-    <tag k="addr:city" v="Monterenzio"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="40050"/>
-    <tag k="addr:street" v="Via Casoni di Romagna"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Azienda Agricola Ca' dei Signori"/>
-    <tag k="organic" v="only"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:satispay" v="yes"/>
-    <tag k="shop" v="farm"/>
-    <tag k="website" v="http://www.aziendacadeisignori.it/"/>
-  </node>
-  <node id="11200192363" lat="44.4933996" lon="11.3415021" version="1" timestamp="2023-09-18T14:54:32Z" changeset="141428971" uid="126635" user="Diego48">
-    <tag k="addr:city" v="Bologna"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="40123"/>
-    <tag k="addr:street" v="Via Battibecco"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="info@casavacanzabologna.it"/>
-    <tag k="guest_house" v="apartment"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="CVB :: Battibecco"/>
-    <tag k="operator" v="Casa Vacanza Bologna"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bonifico" v="yes"/>
-    <tag k="payment:bonifico_bancario" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:satispay" v="yes"/>
-    <tag k="rooms" v="2"/>
-    <tag k="survey:date" v="2023-09-18"/>
-    <tag k="tourism" v="guest_house"/>
-    <tag k="website" v="www.airbnb.com/h/battibecco"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="11208291469" lat="20.9126505" lon="-100.7446050" version="2" timestamp="2023-09-21T20:08:25Z" changeset="141576299" uid="19426458" user="Bitcoinhubs">
     <tag k="addr:city" v="San Miguel de Allende"/>
     <tag k="addr:housenumber" v="23"/>
@@ -342,17 +221,20 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:tarjeta_de_credito" v="yes"/>
   </node>
-  <node id="11208434474" lat="20.9180787" lon="-100.7423660" version="4" timestamp="2023-09-21T20:11:54Z" changeset="141576397" uid="19426458" user="Bitcoinhubs">
-    <tag k="addr:city" v="San Miguel de Allende"/>
-    <tag k="addr:housenumber" v="52A"/>
-    <tag k="addr:street" v="Andador Lucas Balderas"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Bag Colorin"/>
+  <node id="11209580655" lat="50.3871387" lon="8.0545482" version="2" timestamp="2023-09-22T07:03:03Z" changeset="141589763" uid="19756689" user="BTC4Ever">
+    <tag k="addr:city" v="Limburg an der Lahn"/>
+    <tag k="addr:postcode" v="65549"/>
+    <tag k="addr:street" v="Freiherr-vom-Stein-Platz"/>
+    <tag k="name" v="Shigo Honig"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Johann Will"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:contactless_bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:xbt" v="yes"/>
-    <tag k="tourism" v="gallery"/>
+    <tag k="phone" v="+491703124764"/>
+    <tag k="shop" v="honey"/>
+    <tag k="telegram" v="schigohara"/>
   </node>
 
 </osm>
