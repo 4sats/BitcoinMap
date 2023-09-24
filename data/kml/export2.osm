@@ -1,54 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-23T05:22:41Z"/>
+<meta osm_base="2023-09-24T05:23:12Z"/>
 
-  <node id="1256677212" lat="51.0492738" lon="13.7343217" version="6" timestamp="2023-09-04T10:54:05Z" changeset="140798579" uid="20169174" user="I am Your father">
-    <tag k="addr:city" v="Dresden"/>
-    <tag k="addr:country" v="DE"/>
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:postcode" v="01067"/>
-    <tag k="addr:street" v="Wallstraße"/>
-    <tag k="brand" v="LaVie Coffee"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="LaVie Coffee Dresden - Rösterei"/>
-    <tag k="not:brand:wikidata" v="Q107987401"/>
-    <tag k="operator" v="LaVie Coffee Dresden"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash_on_delivery" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:prepaid" v="yes"/>
-    <tag k="phone" v="+49 172 350 05 08"/>
-    <tag k="shop" v="coffee"/>
-    <tag k="survey:date" v="2023-09-04"/>
-    <tag k="website" v="https://laviecoffee.de"/>
-  </node>
-  <node id="4105827798" lat="49.7647801" lon="6.6351340" version="8" timestamp="2023-09-09T22:12:22Z" changeset="141041617" uid="19756689" user="BTC4Ever">
-    <tag k="addr:city" v="Trier"/>
-    <tag k="addr:housenumber" v="77"/>
-    <tag k="addr:postcode" v="54292"/>
-    <tag k="addr:street" v="Zurlaubener Ufer"/>
-    <tag k="addr:suburb" v="Nord"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="check_date:currency:XBT" v="2023-09-10"/>
-    <tag k="cuisine" v="german"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="info@paulaner-trier.de"/>
-    <tag k="fax" v="+49 651 99367720"/>
-    <tag k="name" v="Paulaner"/>
-    <tag k="opening_hours" v="Mo-Th 10:30-22:00; Fr,Sa 10:30-23:00; Su 10:30-22:00"/>
-    <tag k="operator" v="Alexander Zercher"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+49 651 9936770"/>
-    <tag k="source" v="http://www.paulaner-in-zurlauben.de/"/>
-    <tag k="source:date" v="2016-05-11"/>
-    <tag k="website" v="http://www.paulaner-in-zurlauben.de/"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
   <node id="4774262907" lat="-37.8598719" lon="145.0290633" version="2" timestamp="2023-09-02T04:45:56Z" changeset="140703507" uid="20155944" user="Healing_Delight">
     <tag k="addr:city" v="Malvern"/>
     <tag k="addr:country" v="AU"/>
@@ -221,19 +175,25 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:tarjeta_de_credito" v="yes"/>
   </node>
-  <node id="11209580655" lat="50.3871387" lon="8.0545482" version="2" timestamp="2023-09-22T07:03:03Z" changeset="141589763" uid="19756689" user="BTC4Ever">
+  <node id="11209580655" lat="50.3837608" lon="8.0571754" version="5" timestamp="2023-09-23T21:51:05Z" changeset="141662246" uid="19756689" user="BTC4Ever">
     <tag k="addr:city" v="Limburg an der Lahn"/>
+    <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="65549"/>
-    <tag k="addr:street" v="Freiherr-vom-Stein-Platz"/>
+    <tag k="addr:street" v="Joseph-Schneider-Straße"/>
+    <tag k="check_date" v="2022-09-22"/>
+    <tag k="check_date:currency:XBT" v="2022-09-22"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Ich bin über Telefon oder über Telegram erreichbar.&#x0a;Telegram: @schigohara"/>
     <tag k="name" v="Shigo Honig"/>
     <tag k="opening_hours" v="24/7"/>
     <tag k="operator" v="Johann Will"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:contactless_bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+491703124764"/>
     <tag k="shop" v="honey"/>
+    <tag k="survey:date" v="2022-09-01"/>
     <tag k="telegram" v="schigohara"/>
   </node>
 
