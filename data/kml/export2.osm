@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-24T05:23:12Z"/>
+<meta osm_base="2023-09-25T05:23:51Z"/>
 
   <node id="4774262907" lat="-37.8598719" lon="145.0290633" version="2" timestamp="2023-09-02T04:45:56Z" changeset="140703507" uid="20155944" user="Healing_Delight">
     <tag k="addr:city" v="Malvern"/>
@@ -195,6 +195,16 @@
     <tag k="shop" v="honey"/>
     <tag k="survey:date" v="2022-09-01"/>
     <tag k="telegram" v="schigohara"/>
+  </node>
+  <node id="11215993735" lat="42.3520316" lon="14.1711459" version="2" timestamp="2023-09-24T18:05:30Z" changeset="141694015" uid="20326977" user="pepekimmy">
+    <tag k="addr:city" v="Chieti"/>
+    <tag k="addr:country" v="italy"/>
+    <tag k="addr:housenumber" v="25"/>
+    <tag k="addr:postcode" v="66100"/>
+    <tag k="addr:street" v="Via Arniense"/>
+    <tag k="name" v="Di Prinzio Home"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="website" v="www.diprinziohome.com"/>
   </node>
 
 </osm>
