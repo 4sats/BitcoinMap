@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-03T05:23:40Z"/>
+<meta osm_base="2023-10-04T05:24:02Z"/>
 
   <node id="4774262907" lat="-37.8598719" lon="145.0290633" version="2" timestamp="2023-09-02T04:45:56Z" changeset="140703507" uid="20155944" user="Healing_Delight">
     <tag k="addr:city" v="Malvern"/>
@@ -124,6 +124,52 @@
     <tag k="name" v="Di Prinzio Home"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="www.diprinziohome.com"/>
+  </node>
+  <node id="11233688921" lat="50.8274561" lon="3.2425268" version="2" timestamp="2023-10-03T12:14:55Z" changeset="142097994" uid="2403313" user="Jakka">
+    <tag k="addr:city" v="Kortrijk"/>
+    <tag k="addr:housenumber" v="90"/>
+    <tag k="addr:postcode" v="8500"/>
+    <tag k="addr:street" v="Meensesteenweg"/>
+    <tag k="brand" v="BMW, Audi, Volkswagen, Porsche, Volvo, Mercedes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Jonge tweedehandswagens met zorg geselecteerd en met een optimale kwaliteit."/>
+    <tag k="email" v="kevin@autobedrijfnaessens.be"/>
+    <tag k="mobile" v="+32479596441"/>
+    <tag k="name" v="Autobedrijf Naessens"/>
+    <tag k="operator" v="Autobedrijf Naessens"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+32 479 59 64 41"/>
+    <tag k="ref:vatin" v="0840558250"/>
+    <tag k="second_hand" v="yes"/>
+    <tag k="service:vehicle:car_repair" v="yes"/>
+    <tag k="service:vehicle:used_car_sales" v="yes"/>
+    <tag k="shop" v="car"/>
+    <tag k="survey:date" v="2023-10-02"/>
+    <tag k="website" v="https://www.autobedrijfnaessens.be/"/>
+  </node>
+  <node id="11236820285" lat="53.8379667" lon="10.6269750" version="1" timestamp="2023-10-03T18:57:55Z" changeset="142113885" uid="20394364" user="dezooyi">
+    <tag k="addr:city" v="Lübeck"/>
+    <tag k="addr:postcode" v="23560"/>
+    <tag k="addr:street" v="Eulenspiegelweg"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Materiota.com"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Deniz Yilmaz"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="shop" v="outpost"/>
+    <tag k="survey:date" v="2023-10-03"/>
   </node>
 
 </osm>
