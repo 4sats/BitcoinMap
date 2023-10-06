@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-05T05:23:49Z"/>
+<meta osm_base="2023-10-06T05:24:15Z"/>
 
   <node id="4774262907" lat="-37.8598719" lon="145.0290633" version="2" timestamp="2023-09-02T04:45:56Z" changeset="140703507" uid="20155944" user="Healing_Delight">
     <tag k="addr:city" v="Malvern"/>
@@ -124,6 +124,23 @@
     <tag k="name" v="Di Prinzio Home"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="www.diprinziohome.com"/>
+  </node>
+  <node id="11232198302" lat="45.4729189" lon="9.2351923" version="4" timestamp="2023-10-05T18:56:29Z" changeset="142202693" uid="20379714" user="McBixio">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="20133"/>
+    <tag k="addr:street" v="Largo Oreste Murani"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Bar Taita"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:satispay" v="yes"/>
+    <tag k="survey:date" v="2023-10-05"/>
   </node>
   <node id="11233688921" lat="50.8274561" lon="3.2425268" version="2" timestamp="2023-10-03T12:14:55Z" changeset="142097994" uid="2403313" user="Jakka">
     <tag k="addr:city" v="Kortrijk"/>
