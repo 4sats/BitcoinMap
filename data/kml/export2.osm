@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-08T05:22:49Z"/>
+<meta osm_base="2023-10-09T05:23:21Z"/>
 
   <node id="4774262907" lat="-37.8598719" lon="145.0290633" version="2" timestamp="2023-09-02T04:45:56Z" changeset="140703507" uid="20155944" user="Healing_Delight">
     <tag k="addr:city" v="Malvern"/>
@@ -72,6 +72,24 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="11179405297" lat="19.0696961" lon="-98.3003147" version="7" timestamp="2023-10-08T16:54:02Z" changeset="142313099" uid="20210096" user="La Carnivoría">
+    <tag k="addr:city" v="San Pedro Cholula"/>
+    <tag k="addr:housenumber" v="2015"/>
+    <tag k="addr:postcode" v="72760"/>
+    <tag k="addr:street" v="Calle Aquiahuac"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date:currency:XBT" v="2023-09-10"/>
+    <tag k="cuisine" v="steak_house"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="diet:meat" v="yes"/>
+    <tag k="name" v="La Carnivoría"/>
+    <tag k="opening_hours" v="Sa-Su 13:00-19:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+52 222 108 3756"/>
+    <tag k="website" v="www.lacarnivoria.mx"/>
   </node>
   <node id="11191549835" lat="37.3557315" lon="13.8520092" version="1" timestamp="2023-09-14T21:26:25Z" changeset="141277072" uid="33407" user="Zaffo80">
     <tag k="addr:city" v="Canicatti"/>
