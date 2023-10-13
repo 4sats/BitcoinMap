@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-12T05:23:47Z"/>
+<meta osm_base="2023-10-13T05:24:59Z"/>
 
   <node id="4774262907" lat="-37.8598719" lon="145.0290633" version="2" timestamp="2023-09-02T04:45:56Z" changeset="140703507" uid="20155944" user="Healing_Delight">
     <tag k="addr:city" v="Malvern"/>
@@ -143,6 +143,36 @@
     <tag k="survey:date" v="2023-10-11"/>
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="https://www.villaraffaelli.it"/>
+  </node>
+  <node id="11258334904" lat="52.4151548" lon="16.8934508" version="2" timestamp="2023-10-13T04:35:11Z" changeset="142504306" uid="20458376" user="Buro_Buro">
+    <tag k="addr:city" v="Poznań"/>
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:street" v="Jana Henryka Dąbrowskiego"/>
+    <tag k="description" v="Szkolenia Barberskie oraz Fryzjerskie, Szkolenia od podstaw, wynajem lokalu pod szkolenia"/>
+    <tag k="name" v="Büro Academy"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+48 733 733 742"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="website" v="https://www.facebook.com/buroacademy"/>
+  </node>
+  <node id="11258364834" lat="52.4393211" lon="16.9298018" version="4" timestamp="2023-10-13T04:55:26Z" changeset="142504685" uid="20458376" user="Buro_Buro">
+    <tag k="addr:city" v="Poznań"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:postcode" v="61-644"/>
+    <tag k="addr:street" v="Osiedle Zwycięstwa"/>
+    <tag k="description" v="Fryzjerstwo męskie i damskie oraz laserowe usuwanie tatuaży, manicure, sprzedaż kosmetyków"/>
+    <tag k="name" v="Büro Image Studio &amp; Barbershop"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-21:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+48 733 733 742"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="website" v="https://www.facebook.com/buro.poznan"/>
   </node>
 
 </osm>
