@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-13T05:24:59Z"/>
+<meta osm_base="2023-10-14T05:23:13Z"/>
 
   <node id="4774262907" lat="-37.8598719" lon="145.0290633" version="2" timestamp="2023-09-02T04:45:56Z" changeset="140703507" uid="20155944" user="Healing_Delight">
     <tag k="addr:city" v="Malvern"/>
@@ -159,11 +159,11 @@
     <tag k="shop" v="beauty"/>
     <tag k="website" v="https://www.facebook.com/buroacademy"/>
   </node>
-  <node id="11258364834" lat="52.4393211" lon="16.9298018" version="4" timestamp="2023-10-13T04:55:26Z" changeset="142504685" uid="20458376" user="Buro_Buro">
+  <node id="11258364834" lat="52.4393211" lon="16.9298018" version="5" timestamp="2023-10-13T22:58:25Z" changeset="142551493" uid="15215305" user="NorthCrab">
     <tag k="addr:city" v="Poznań"/>
     <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:place" v="Osiedle Zwycięstwa"/>
     <tag k="addr:postcode" v="61-644"/>
-    <tag k="addr:street" v="Osiedle Zwycięstwa"/>
     <tag k="description" v="Fryzjerstwo męskie i damskie oraz laserowe usuwanie tatuaży, manicure, sprzedaż kosmetyków"/>
     <tag k="name" v="Büro Image Studio &amp; Barbershop"/>
     <tag k="opening_hours" v="Mo-Sa 09:00-21:00"/>
@@ -173,6 +173,27 @@
     <tag k="phone" v="+48 733 733 742"/>
     <tag k="shop" v="beauty"/>
     <tag k="website" v="https://www.facebook.com/buro.poznan"/>
+  </node>
+  <node id="11259643703" lat="43.9494500" lon="4.8197379" version="1" timestamp="2023-10-13T10:16:04Z" changeset="142516108" uid="20464628" user="Gamachan">
+    <tag k="addr:city" v="Avignon"/>
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:street" v="Boulevard Limbert"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="email" v="yann.osteo@gmail.com"/>
+    <tag k="healthcare" v="hospital"/>
+    <tag k="healthcare:speciality" v="osteopathy"/>
+    <tag k="name" v="Yann MARCEL Osteopathe"/>
+    <tag k="operator" v="Yann MARCEL"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cheque" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="0490251647"/>
+    <tag k="start_date" v="2011-06-06"/>
+    <tag k="website" v="www.osteopathe-avignon.fr"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
