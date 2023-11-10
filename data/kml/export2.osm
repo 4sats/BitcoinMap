@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-09T05:23:56Z"/>
+<meta osm_base="2023-11-10T05:24:09Z"/>
 
   <node id="11331892238" lat="13.7107580" lon="-89.1047620" version="1" timestamp="2023-11-07T21:14:12Z" changeset="143754913" uid="20569249" user="Escuela de Manejo Marmel">
     <tag k="addr:city" v="San Bartolo"/>
@@ -16,6 +16,21 @@
     <tag k="payment:transferencia" v="yes"/>
     <tag k="phone" v="+503 79205052"/>
     <tag k="shop" v="travel_agency"/>
+  </node>
+  <node id="11336232832" lat="21.8832008" lon="-102.2848225" version="1" timestamp="2023-11-09T16:32:09Z" changeset="143830195" uid="20575414" user="Sublimagen Impresiones">
+    <tag k="addr:city" v="Aguascalientes"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:postcode" v="20259"/>
+    <tag k="addr:street" v="Calle Ezequiel A. Chávez"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="email" v="conapple.agd@gmail.com"/>
+    <tag k="name" v="Sublimagen Impresiones"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="operator" v="Luis Gerardo Reyes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2023-11-09"/>
   </node>
 
 </osm>
