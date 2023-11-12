@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-11T05:22:45Z"/>
+<meta osm_base="2023-11-12T05:23:29Z"/>
 
   <node id="11331892238" lat="13.7107580" lon="-89.1047620" version="1" timestamp="2023-11-07T21:14:12Z" changeset="143754913" uid="20569249" user="Escuela de Manejo Marmel">
     <tag k="addr:city" v="San Bartolo"/>
@@ -31,6 +31,39 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="survey:date" v="2023-11-09"/>
+  </node>
+  <node id="11341330582" lat="14.4309870" lon="-17.0002660" version="2" timestamp="2023-11-11T13:59:32Z" changeset="143900755" uid="20580470" user="sweetkushroots">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="Sweet - Original Kush Roots"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+221 77 180 95 48"/>
+    <tag k="website" v="https://webshop.sweet-kushroots.art"/>
+  </node>
+  <node id="11342377363" lat="23.0577198" lon="-82.4702425" version="7" timestamp="2023-11-12T00:45:19Z" changeset="143919129" uid="7522075" user="Rockedf">
+    <tag k="addr:city" v="San Agustin, La Lisa, La Habana"/>
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="13600"/>
+    <tag k="addr:street" v="Avenida 31 y 240"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date:currency:XBT" v="2023-11-11"/>
+    <tag k="cuisine" v="regional;coffee_shop;chicken"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="yes"/>
+    <tag k="name" v="Gustazo240 SURL ¨La Curvita"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:xbt" v="yes"/>
+    <tag k="phone" v="+5350069423"/>
+    <tag k="website" v="https://www.gustazo240.com"/>
   </node>
 
 </osm>
