@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-18T05:23:18Z"/>
+<meta osm_base="2023-11-19T05:24:14Z"/>
 
   <node id="11347832066" lat="49.0841767" lon="21.0925676" version="1" timestamp="2023-11-14T06:30:02Z" changeset="143996452" uid="1270972" user="mirelon">
     <tag k="amenity" v="car_wash"/>
@@ -9,6 +9,23 @@
     <tag k="name" v="R-POLISHER"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
+  </node>
+  <node id="11360042180" lat="47.1811867" lon="8.4860873" version="1" timestamp="2023-11-18T13:35:20Z" changeset="144174727" uid="20571546" user="Mein Naturheilpraktiker Wolf Brügger">
+    <tag k="addr:city" v="Zug"/>
+    <tag k="addr:housenumber" v="172"/>
+    <tag k="addr:postcode" v="6300"/>
+    <tag k="addr:street" v="Chamerstrasse"/>
+    <tag k="description" v="Die Praxis Mein Naturheilpraktiker, ist Krankenkassen anerkannt.&#x0a;Fachrichtig Naturheilkunde TEN.&#x0a;Wolf Brügger ist eidg. zert. Naturheilpraktiker TEN"/>
+    <tag k="email" v="info@meinnaturheilpraktiker.ch"/>
+    <tag k="healthcare" v="alternative"/>
+    <tag k="healthcare:speciality" v="naturopathy;reflexology;klassische_massage;wirbelsäulen_basis-ausgleich"/>
+    <tag k="image" v="https://www.meinnaturheilpraktiker.ch/wp-content/uploads/2020/02/Unbenannt.png"/>
+    <tag k="name" v="Mein Naturheilpraktiker Wolf Brügger"/>
+    <tag k="operator" v="Wolf Brügger"/>
+    <tag k="payment:auf_rechnung" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+41 76 405 12 21"/>
+    <tag k="website" v="https://www.meinnaturheilpraktiker.ch"/>
   </node>
 
 </osm>
