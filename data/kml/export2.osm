@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-20T05:25:45Z"/>
+<meta osm_base="2023-11-21T05:25:12Z"/>
 
   <node id="11347832066" lat="49.0841767" lon="21.0925676" version="1" timestamp="2023-11-14T06:30:02Z" changeset="143996452" uid="1270972" user="mirelon">
     <tag k="amenity" v="car_wash"/>
@@ -26,6 +26,41 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+41 76 405 12 21"/>
     <tag k="website" v="https://www.meinnaturheilpraktiker.ch"/>
+  </node>
+  <node id="11364458920" lat="48.7868077" lon="18.6163604" version="7" timestamp="2023-11-20T16:06:44Z" changeset="144253404" uid="20607624" user="Paggi">
+    <tag k="addr:city" v="Prievidza"/>
+    <tag k="addr:housenumber" v="913"/>
+    <tag k="addr:postcode" v="97101"/>
+    <tag k="addr:street" v="Urbánkova"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="braniP@proton.me"/>
+    <tag k="name" v="Paggi"/>
+    <tag k="note" v="Práce vo výškach pomocou horolezeckej techniky. Čistenie a oprava striech a fasád, orez stromov, umývanie okien, a iné práce v nedostupných podmienkach."/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="shop" v="repair"/>
+  </node>
+  <node id="11364651297" lat="-10.9589189" lon="-37.0461105" version="1" timestamp="2023-11-20T17:33:07Z" changeset="144256379" uid="20607938" user="RakutheRebel">
+    <tag k="addr:housenumber" v="500"/>
+    <tag k="addr:street" v="Rua Péricles Vieira Azevêdo"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Raku the Rebel"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
+    <tag k="operator" v="Claudio Lima"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:google_pay" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:mercado_pago" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:pix" v="yes"/>
+    <tag k="shop" v="art"/>
+    <tag k="website" v="instagram.com/limafclaudio/"/>
   </node>
 
 </osm>
