@@ -1,8 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-21T05:25:12Z"/>
+<meta osm_base="2023-11-22T05:25:13Z"/>
 
+  <node id="11054531199" lat="52.5112322" lon="13.4592291" version="9" timestamp="2023-11-21T18:42:23Z" changeset="144298969" uid="19657910" user="MeinPaloSanto">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:housenumber" v="72-74"/>
+    <tag k="addr:postcode" v="10245"/>
+    <tag k="addr:street" v="Grünberger Str."/>
+    <tag k="branch" v="Mein Palo Santo - Wochenmarkt Boxhagener Platz"/>
+    <tag k="currency:ADA" v="yes"/>
+    <tag k="currency:ETH" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Mein Palo Santo"/>
+    <tag k="opening_hours" v="Sa: 9:30-16:00"/>
+    <tag k="operator" v="MeinPaloSanto.de"/>
+    <tag k="organic" v="yes"/>
+    <tag k="payment:account_cards" v="yes"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:apple_pay" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bitcoincash" v="yes"/>
+    <tag k="payment:cardano" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:diners_club" v="yes"/>
+    <tag k="payment:discover_card" v="yes"/>
+    <tag k="payment:ep_geldkarte" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:girocard" v="yes"/>
+    <tag k="payment:google_pay" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:mastercard_contactless" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:unionpay" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_debit" v="yes"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
   <node id="11347832066" lat="49.0841767" lon="21.0925676" version="1" timestamp="2023-11-14T06:30:02Z" changeset="143996452" uid="1270972" user="mirelon">
     <tag k="amenity" v="car_wash"/>
     <tag k="mobile" v="0917370008"/>
