@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-19T05:24:42Z"/>
+<meta osm_base="2023-12-20T05:19:44Z"/>
 
   <node id="11430136575" lat="-23.0998574" lon="-47.2126012" version="1" timestamp="2023-12-19T00:27:10Z" changeset="145271505" uid="19847874" user="Tripinha">
     <tag k="Instagram" v="@barbeariadesde1995"/>
@@ -21,6 +21,18 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 1999711-1995"/>
     <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="11432375039" lat="37.0280859" lon="-4.3389785" version="1" timestamp="2023-12-19T15:28:23Z" changeset="145296628" uid="20720371" user="antonio_885">
+    <tag k="name" v="La ALACENA"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="11432415866" lat="36.9980213" lon="-4.3675432" version="1" timestamp="2023-12-19T15:31:23Z" changeset="145296735" uid="20720371" user="antonio_885">
+    <tag k="name" v="La alacena"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="shop" v="supermarket"/>
   </node>
 
 </osm>
