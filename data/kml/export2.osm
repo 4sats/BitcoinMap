@@ -1,42 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-06T05:23:34Z"/>
+<meta osm_base="2024-01-07T05:24:15Z"/>
 
-  <node id="11127449980" lat="45.6786999" lon="8.7050913" version="5" timestamp="2023-12-31T00:27:24Z" changeset="145717248" uid="20790668" user="anto107">
-    <tag k="addr:city" v="Somma Lombardo"/>
-    <tag k="addr:housenumber" v="17"/>
-    <tag k="addr:postcode" v="21019"/>
-    <tag k="addr:street" v="Via Rimembranze"/>
-    <tag k="check_date" v="2023-08-19"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="antoniof.gestione@gmail.com"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="casa vacanza con giardino - comoda per malpensa e milano"/>
-    <tag k="operator" v="antonio"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+39 3420128164"/>
-    <tag k="reservation" v="required"/>
-    <tag k="rooms" v="2"/>
-    <tag k="tourism" v="apartment"/>
-  </node>
   <node id="11432375039" lat="37.0280859" lon="-4.3389785" version="1" timestamp="2023-12-19T15:28:23Z" changeset="145296628" uid="20720371" user="antonio_885">
     <tag k="name" v="La ALACENA"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -59,20 +25,6 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:coins" v="yes"/>
     <tag k="phone" v="79988631768"/>
-  </node>
-  <node id="11492013358" lat="13.7538839" lon="100.7184137" version="2" timestamp="2024-01-05T16:42:13Z" changeset="145929478" uid="20776353" user="B Care Pharma">
-    <tag k="amenity" v="Phamacy"/>
-    <tag k="check_date" v="2023-01-01"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="healthcare" v="hospital"/>
-    <tag k="name" v="ร้านยา บี แคร์ ฟาร์มา (B care Pharma)"/>
-    <tag k="operator" v="Drug Store"/>
-    <tag k="operator:type" v="business"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="survey:date" v="2023-01-01"/>
   </node>
 
 </osm>
