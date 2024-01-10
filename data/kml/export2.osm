@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-09T05:25:28Z"/>
+<meta osm_base="2024-01-10T05:25:13Z"/>
 
   <node id="11432375039" lat="37.0280859" lon="-4.3389785" version="1" timestamp="2023-12-19T15:28:23Z" changeset="145296628" uid="20720371" user="antonio_885">
     <tag k="name" v="La ALACENA"/>
@@ -25,6 +25,40 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:coins" v="yes"/>
     <tag k="phone" v="79988631768"/>
+  </node>
+  <node id="11502578521" lat="48.2915323" lon="11.0477196" version="1" timestamp="2024-01-09T08:03:20Z" changeset="146055696" uid="12500175" user="Danfost">
+    <tag k="addr:city" v="Ried"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="86510"/>
+    <tag k="addr:street" v="Hauptstraße"/>
+    <tag k="description" v="Nur Onlineverkauf"/>
+    <tag k="name" v="Peters SP-Kerzen , Grillmaier e.K."/>
+    <tag k="office" v="company"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:transfer" v="yes"/>
+    <tag k="phone" v="+49 8233 2117549"/>
+    <tag k="shop" v="outpost"/>
+    <tag k="website" v="https://www.sp-kerzen.de/"/>
+  </node>
+  <node id="11502774097" lat="41.8950790" lon="12.4406516" version="1" timestamp="2024-01-09T10:15:54Z" changeset="146060413" uid="20851629" user="Enoteca Vino in Anfora">
+    <tag k="addr:city" v="Roma"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="00165"/>
+    <tag k="addr:street" v="Via Innocenzo Undicesimo"/>
+    <tag k="name" v="Enoteca Vino in Anfora"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-13:00 16:00-20:00"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+39 327 216 5581"/>
+    <tag k="shop" v="wine"/>
+    <tag k="website" v="https://www.enotecavinoinanfora.it"/>
   </node>
 
 </osm>
