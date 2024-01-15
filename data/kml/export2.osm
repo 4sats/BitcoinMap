@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-14T05:24:29Z"/>
+<meta osm_base="2024-01-15T05:26:09Z"/>
 
   <node id="11432375039" lat="37.0280859" lon="-4.3389785" version="1" timestamp="2023-12-19T15:28:23Z" changeset="145296628" uid="20720371" user="antonio_885">
     <tag k="name" v="La ALACENA"/>
@@ -42,6 +42,21 @@
     <tag k="phone" v="+39 327 216 5581"/>
     <tag k="shop" v="wine"/>
     <tag k="website" v="https://www.enotecavinoinanfora.it"/>
+  </node>
+  <node id="11508828482" lat="-26.8917643" lon="-48.6852099" version="2" timestamp="2024-01-14T15:33:51Z" changeset="146249497" uid="20806810" user="Antônio Amaury">
+    <tag k="addr:city" v="Itajaí"/>
+    <tag k="addr:housenumber" v="64"/>
+    <tag k="addr:postcode" v="88305420"/>
+    <tag k="addr:street" v="Rua Paulo Fuck"/>
+    <tag k="addr:suburb" v="Barra do Rio"/>
+    <tag k="email" v="antonioamaury@gmail.com"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="operator" v="Antonio"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="rooms" v="4"/>
+    <tag k="tourism" v="apartment"/>
   </node>
 
 </osm>
