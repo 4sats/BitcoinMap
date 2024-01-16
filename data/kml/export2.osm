@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-15T05:26:09Z"/>
+<meta osm_base="2024-01-16T05:25:23Z"/>
 
   <node id="11432375039" lat="37.0280859" lon="-4.3389785" version="1" timestamp="2023-12-19T15:28:23Z" changeset="145296628" uid="20720371" user="antonio_885">
     <tag k="name" v="La ALACENA"/>
@@ -57,6 +57,20 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="rooms" v="4"/>
     <tag k="tourism" v="apartment"/>
+  </node>
+  <node id="11518287796" lat="13.7537114" lon="100.7171276" version="1" timestamp="2024-01-15T05:47:32Z" changeset="146267341" uid="20776353" user="B Care Pharma">
+    <tag k="amenity" v="hospital"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="healthcare:speciality" v="pharmacology"/>
+    <tag k="name" v="ร้านยาบี แคร์ ฟาร์มา (B Care Pharma)"/>
+    <tag k="operator" v="Phamacy"/>
+    <tag k="operator:type" v="business"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="survey:date" v="2024-01-09"/>
   </node>
 
 </osm>
