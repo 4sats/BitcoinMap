@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-19T05:25:06Z"/>
+<meta osm_base="2024-01-20T05:24:26Z"/>
 
   <node id="10642155292" lat="39.8695325" lon="-86.1421954" version="4" timestamp="2024-01-18T16:06:00Z" changeset="146411480" uid="3471342" user="tj24hours">
     <tag k="addr:city" v="Indianapolis"/>
@@ -82,6 +82,23 @@
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="no"/>
     <tag k="survey:date" v="2024-01-09"/>
+  </node>
+  <node id="11527450995" lat="45.7784689" lon="9.2322729" version="2" timestamp="2024-01-19T15:23:50Z" changeset="146448212" uid="17001488" user="Villaggio Bitcoin">
+    <tag k="addr:city" v="Monguzzo"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="22040"/>
+    <tag k="addr:street" v="via Sceria"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="check_date" v="2024-01-18"/>
+    <tag k="email" v="studio@rossiniodontoiatri.it"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="healthcare:speciality" v="dentist"/>
+    <tag k="name" v="Studio Rossini Odontoiatri"/>
+    <tag k="operator" v="STUDIO ROSSINI ODONTOIATRI SRL"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:btc" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="website" v="https://www.rossiniodontoiatri.it/"/>
   </node>
 
 </osm>
