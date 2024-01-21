@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-20T05:24:26Z"/>
+<meta osm_base="2024-01-21T05:34:19Z"/>
 
   <node id="10642155292" lat="39.8695325" lon="-86.1421954" version="4" timestamp="2024-01-18T16:06:00Z" changeset="146411480" uid="3471342" user="tj24hours">
     <tag k="addr:city" v="Indianapolis"/>
@@ -99,6 +99,21 @@
     <tag k="payment:btc" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="website" v="https://www.rossiniodontoiatri.it/"/>
+  </node>
+  <node id="11535007976" lat="38.0616354" lon="46.2300421" version="2" timestamp="2024-01-20T21:35:35Z" changeset="146493773" uid="20791512" user="stupid risks">
+    <tag k="addr:city" v="تبریز"/>
+    <tag k="addr:housenumber" v="544"/>
+    <tag k="addr:street" v="کوی بهاران-مجتمع فلزکاران"/>
+    <tag k="email" v="oujgiran@gmail.com"/>
+    <tag k="name" v="طراحی صنعتی و پرینت سه بعدی"/>
+    <tag k="opening_hours" v="Sa-Fr 09:00-17:00"/>
+    <tag k="operator" v="دفتر مهندسی اوج‌گیران"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="shop" v="copyshop"/>
   </node>
 
 </osm>
