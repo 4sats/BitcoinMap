@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-22T05:25:42Z"/>
+<meta osm_base="2024-01-23T05:25:11Z"/>
 
-  <node id="10642155292" lat="39.8695325" lon="-86.1421954" version="4" timestamp="2024-01-18T16:06:00Z" changeset="146411480" uid="3471342" user="tj24hours">
-    <tag k="addr:city" v="Indianapolis"/>
-    <tag k="addr:postcode" v="46220"/>
-    <tag k="addr:state" v="IN"/>
-    <tag k="addr:street" v="Broad Ripple Avenue"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="name" v="Union Jack Pub"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+1-317-257-4343"/>
-    <tag k="website" v="https://www.unionjackpub.co/"/>
-  </node>
   <node id="11432375039" lat="37.0280859" lon="-4.3389785" version="1" timestamp="2023-12-19T15:28:23Z" changeset="145296628" uid="20720371" user="antonio_885">
     <tag k="name" v="La ALACENA"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -25,49 +14,6 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="shop" v="supermarket"/>
-  </node>
-  <node id="11464510685" lat="-11.0083945" lon="-37.1994487" version="5" timestamp="2023-12-29T03:12:35Z" changeset="145644127" uid="20779681" user="Contador Diego Menezes">
-    <tag k="addr:housenumber" v="357"/>
-    <tag k="addr:street" v="Avenida Presidente Tancredo Neves"/>
-    <tag k="currency:XBT" v="YES"/>
-    <tag k="name" v="Contador Diego Menezes"/>
-    <tag k="office" v="accountant"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="phone" v="79988631768"/>
-  </node>
-  <node id="11502774097" lat="41.8950790" lon="12.4406516" version="1" timestamp="2024-01-09T10:15:54Z" changeset="146060413" uid="20851629" user="Enoteca Vino in Anfora">
-    <tag k="addr:city" v="Roma"/>
-    <tag k="addr:housenumber" v="38"/>
-    <tag k="addr:postcode" v="00165"/>
-    <tag k="addr:street" v="Via Innocenzo Undicesimo"/>
-    <tag k="name" v="Enoteca Vino in Anfora"/>
-    <tag k="opening_hours" v="Mo-Sa 10:00-13:00 16:00-20:00"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+39 327 216 5581"/>
-    <tag k="shop" v="wine"/>
-    <tag k="website" v="https://www.enotecavinoinanfora.it"/>
-  </node>
-  <node id="11508828482" lat="-26.8917643" lon="-48.6852099" version="2" timestamp="2024-01-14T15:33:51Z" changeset="146249497" uid="20806810" user="Antônio Amaury">
-    <tag k="addr:city" v="Itajaí"/>
-    <tag k="addr:housenumber" v="64"/>
-    <tag k="addr:postcode" v="88305420"/>
-    <tag k="addr:street" v="Rua Paulo Fuck"/>
-    <tag k="addr:suburb" v="Barra do Rio"/>
-    <tag k="email" v="antonioamaury@gmail.com"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="operator" v="Antonio"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="rooms" v="4"/>
-    <tag k="tourism" v="apartment"/>
   </node>
   <node id="11518287796" lat="13.7537114" lon="100.7171276" version="1" timestamp="2024-01-15T05:47:32Z" changeset="146267341" uid="20776353" user="B Care Pharma">
     <tag k="amenity" v="hospital"/>
@@ -83,23 +29,23 @@
     <tag k="payment:onchain" v="no"/>
     <tag k="survey:date" v="2024-01-09"/>
   </node>
-  <node id="11527450995" lat="45.7784689" lon="9.2322729" version="3" timestamp="2024-01-21T22:04:28Z" changeset="146529778" uid="17001488" user="Villaggio Bitcoin">
-    <tag k="addr:city" v="Monguzzo"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:postcode" v="22040"/>
-    <tag k="addr:street" v="via Sceria"/>
-    <tag k="amenity" v="dentist"/>
-    <tag k="check_date" v="2024-01-18"/>
+  <node id="11540618504" lat="37.1879569" lon="-3.6133226" version="2" timestamp="2024-01-23T00:24:51Z" changeset="146573697" uid="2104834" user="Igor Bubelov">
+    <tag k="addr:city" v="Granada"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="18014"/>
+    <tag k="addr:street" v="Avenida del Sur"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="studio@rossiniodontoiatri.it"/>
-    <tag k="healthcare" v="dentist"/>
-    <tag k="healthcare:speciality" v="dentist"/>
-    <tag k="name" v="Studio Rossini Odontoiatri"/>
-    <tag k="operator" v="STUDIO ROSSINI ODONTOIATRI SRL"/>
+    <tag k="name" v="Tiendas Agatha"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-14:00 and 17:00-21:00"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:btc" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="website" v="https://www.rossiniodontoiatri.it/"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+34958200601"/>
+    <tag k="shop" v="cosmetics"/>
+    <tag k="survey:date" v="2024-01-22"/>
+    <tag k="website" v="https://agatha.tienda"/>
   </node>
 
 </osm>
