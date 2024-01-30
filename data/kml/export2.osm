@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-29T05:24:14Z"/>
+<meta osm_base="2024-01-30T05:23:31Z"/>
 
   <node id="11432375039" lat="37.0280859" lon="-4.3389785" version="1" timestamp="2023-12-19T15:28:23Z" changeset="145296628" uid="20720371" user="antonio_885">
     <tag k="name" v="La ALACENA"/>
@@ -14,20 +14,6 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="shop" v="supermarket"/>
-  </node>
-  <node id="11518287796" lat="13.7537114" lon="100.7171276" version="1" timestamp="2024-01-15T05:47:32Z" changeset="146267341" uid="20776353" user="B Care Pharma">
-    <tag k="amenity" v="hospital"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="healthcare" v="pharmacy"/>
-    <tag k="healthcare:speciality" v="pharmacology"/>
-    <tag k="name" v="ร้านยาบี แคร์ ฟาร์มา (B Care Pharma)"/>
-    <tag k="operator" v="Phamacy"/>
-    <tag k="operator:type" v="business"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="no"/>
-    <tag k="survey:date" v="2024-01-09"/>
   </node>
   <node id="11540618504" lat="37.1879569" lon="-3.6133226" version="2" timestamp="2024-01-23T00:24:51Z" changeset="146573697" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Granada"/>
@@ -67,21 +53,6 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+603 78866683"/>
     <tag k="website" v="https://www.wealthwolves.my"/>
-  </node>
-  <node id="11555858088" lat="-22.0245233" lon="-48.9161988" version="2" timestamp="2024-01-27T04:55:53Z" changeset="146732094" uid="20940227" user="Marcos Rogerio Botelho Pavani">
-    <tag k="addr:city" v="arealva"/>
-    <tag k="addr:housenumber" v="2200"/>
-    <tag k="addr:street" v="Rua Flaminio G. Pentado"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="burger;pasteis;lanches;tapiocas"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Pastelaria e Hamburgueria Mundial Arealva"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+55 14 99623-6447"/>
-    <tag k="website" v="https://api.whatsapp.com/send/?phone=5514996236447&amp;text&amp;type=phone_number&amp;app_absent=0"/>
   </node>
 
 </osm>
