@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-02-07T05:23:46Z"/>
+<meta osm_base="2024-02-08T05:24:33Z"/>
 
   <node id="11432375039" lat="37.0280859" lon="-4.3389785" version="1" timestamp="2023-12-19T15:28:23Z" changeset="145296628" uid="20720371" user="antonio_885">
     <tag k="name" v="La ALACENA"/>
@@ -40,6 +40,26 @@
     <tag k="name" v="Krave Smoke Vape Shop &amp; Convenience"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="convenience"/>
+  </node>
+  <node id="11591440081" lat="59.8371029" lon="22.9681277" version="2" timestamp="2024-02-07T21:25:45Z" changeset="147193655" uid="18550992" user="Viima">
+    <tag k="addr:city" v="Hanko"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="10900"/>
+    <tag k="addr:street" v="Halmstadinkatu"/>
+    <tag k="addr:unit" v="F"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/people/JLxSolutions/100089784858649/"/>
+    <tag k="email" v="huolto@jlxsolutions.com"/>
+    <tag k="name" v="JLxSolutions"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="JLxSolutions Oy"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="358401750141"/>
+    <tag k="shop" v="computer"/>
+    <tag k="website" v="https://www.jlxsolutions.com/"/>
+    <tag k="wheelchair" v="no"/>
   </node>
 
 </osm>
