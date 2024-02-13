@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-02-12T05:24:00Z"/>
+<meta osm_base="2024-02-13T05:24:15Z"/>
 
   <node id="11432375039" lat="37.0280859" lon="-4.3389785" version="1" timestamp="2023-12-19T15:28:23Z" changeset="145296628" uid="20720371" user="antonio_885">
     <tag k="name" v="La ALACENA"/>
@@ -39,6 +39,17 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://www.jlxsolutions.com/"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11616303272" lat="45.4787465" lon="8.6975058" version="1" timestamp="2024-02-12T20:38:42Z" changeset="147384120" uid="20993687" user="Alby Barman">
+    <tag k="addr:city" v="Galliate"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="28066"/>
+    <tag k="addr:street" v="Largo Remo Rabellotti"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="name" v="Da Noi 3"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-14:00; 17-23"/>
+    <tag k="payment:bitcoin" v="yes"/>
   </node>
 
 </osm>
