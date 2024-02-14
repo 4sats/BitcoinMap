@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-02-13T05:24:15Z"/>
+<meta osm_base="2024-02-14T05:23:47Z"/>
 
   <node id="11432375039" lat="37.0280859" lon="-4.3389785" version="1" timestamp="2023-12-19T15:28:23Z" changeset="145296628" uid="20720371" user="antonio_885">
     <tag k="name" v="La ALACENA"/>
@@ -50,6 +50,21 @@
     <tag k="name" v="Da Noi 3"/>
     <tag k="opening_hours" v="Mo-Su 12:00-14:00; 17-23"/>
     <tag k="payment:bitcoin" v="yes"/>
+  </node>
+  <node id="11620214027" lat="12.7794083" lon="80.0417879" version="2" timestamp="2024-02-14T01:28:45Z" changeset="147431718" uid="21009348" user="MilkyUpizise">
+    <tag k="addr:city" v="chengalpattu"/>
+    <tag k="addr:district" v="Chengalpattu"/>
+    <tag k="addr:housenumber" v="No 70 D3"/>
+    <tag k="addr:postcode" v="603209"/>
+    <tag k="addr:street" v="Annai builders ashtalakshmi nagar gudalur marai malai nagar"/>
+    <tag k="check_date" v="2023-12-05"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="MilkyUpizise"/>
+    <tag k="operator" v="MilkyUpizise"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="telecom" v="data_center"/>
+    <tag k="website" v="https://dev-milkyupizise.pantheonsite.io"/>
   </node>
 
 </osm>
