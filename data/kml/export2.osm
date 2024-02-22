@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-02-21T05:23:59Z"/>
+<meta osm_base="2024-02-22T05:24:35Z"/>
 
+  <node id="11648984599" lat="22.4061451" lon="-79.9571228" version="4" timestamp="2024-02-21T19:22:03Z" changeset="147746084" uid="21061883" user="Cale123">
+    <tag k="addr:city" v="Santa Clara"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:street" v="Avenida 9 de abril"/>
+    <tag k="contact:email" v="comercial@13app.cu"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="13APP"/>
+    <tag k="note" v="Servicio de programación, soporte técnico y mantenimiento en plataformas Windows, Android y Linux."/>
+    <tag k="office" v="it"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:litecoin" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="website" v="https://www.13app.cu"/>
+  </node>
+  <node id="11649887273" lat="46.8970973" lon="9.5659978" version="4" timestamp="2024-02-21T20:40:36Z" changeset="147748567" uid="21065602" user="Restaurant Sonne">
+    <tag k="addr:city" v="Trimmis"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="7203"/>
+    <tag k="addr:street" v="Chegelplatz"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza;regional;italian;ice_cream;pasta;salad;german"/>
+    <tag k="currency:CHF" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="diet:local" v="yes"/>
+    <tag k="name" v="Restaurant Sonne Trimmis"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:post_finance" v="yes"/>
+    <tag k="payment:twint" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+41815217879"/>
+    <tag k="survey:date" v="2024-02-21"/>
+    <tag k="website" v="https://sonne-trimmis.ch"/>
+  </node>
 
 </osm>
