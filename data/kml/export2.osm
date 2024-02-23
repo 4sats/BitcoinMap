@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-02-22T05:24:35Z"/>
+<meta osm_base="2024-02-23T05:23:47Z"/>
 
   <node id="11648984599" lat="22.4061451" lon="-79.9571228" version="4" timestamp="2024-02-21T19:22:03Z" changeset="147746084" uid="21061883" user="Cale123">
     <tag k="addr:city" v="Santa Clara"/>
@@ -18,6 +18,26 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="website" v="https://www.13app.cu"/>
+  </node>
+  <node id="11649428691" lat="-20.4707002" lon="-45.9570485" version="5" timestamp="2024-02-22T17:11:03Z" changeset="147782125" uid="21063994" user="Dr Gabriel Tavares Pediatra">
+    <tag k="addr:city" v="Piumhi"/>
+    <tag k="addr:housenumber" v="114"/>
+    <tag k="addr:postcode" v="37925-0000"/>
+    <tag k="addr:street" v="Praça Tuiuti"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="doctor"/>
+    <tag k="healthcare:speciality" v="paediatrics"/>
+    <tag k="mobile" v="+5537999568926"/>
+    <tag k="name" v="Consultório Dr Gabriel Tavares Pediatra"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
   </node>
   <node id="11649887273" lat="46.8970973" lon="9.5659978" version="4" timestamp="2024-02-21T20:40:36Z" changeset="147748567" uid="21065602" user="Restaurant Sonne">
     <tag k="addr:city" v="Trimmis"/>
