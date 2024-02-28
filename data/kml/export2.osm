@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-02-27T05:23:25Z"/>
+<meta osm_base="2024-02-28T05:24:33Z"/>
 
-  <node id="11649428691" lat="-20.4707002" lon="-45.9570485" version="5" timestamp="2024-02-22T17:11:03Z" changeset="147782125" uid="21063994" user="Dr Gabriel Tavares Pediatra">
+  <node id="11649428691" lat="-20.4707002" lon="-45.9570485" version="6" timestamp="2024-02-27T12:48:45Z" changeset="147971822" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Piumhi"/>
     <tag k="addr:housenumber" v="114"/>
     <tag k="addr:postcode" v="37925-0000"/>
     <tag k="addr:street" v="Praça Tuiuti"/>
     <tag k="addr:suburb" v="Centro"/>
     <tag k="amenity" v="doctors"/>
+    <tag k="check_date" v="2024-02-22"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="healthcare" v="doctor"/>
     <tag k="healthcare:speciality" v="paediatrics"/>
@@ -74,6 +75,26 @@
     <tag k="survey:date" v="2024-02-27"/>
     <tag k="tourism" v="apartment"/>
     <tag k="website" v="https://instagram.com/downtownphangan"/>
+  </node>
+  <node id="11670308721" lat="45.4628594" lon="9.1870299" version="1" timestamp="2024-02-27T22:49:18Z" changeset="147992613" uid="33407" user="Zaffo80">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="20123"/>
+    <tag k="addr:street" v="Via Torino"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/boutiquedelgioiello/"/>
+    <tag k="contact:phone" v="+39 02 86461726"/>
+    <tag k="contact:website" v="https://www.boutiquedelgioiello.it/"/>
+    <tag k="name" v="Boutique del Gioiello"/>
+    <tag k="opening_hours" v="Mo 14:00-19:00; Tu-Sa 10:00-19:00"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bancomat" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="ref:vatin" v="IT06093180153"/>
+    <tag k="shop" v="jewelry"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
