@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-05T05:23:14Z"/>
+<meta osm_base="2024-03-06T05:24:26Z"/>
 
+  <node id="7305887529" lat="-33.2756507" lon="22.3583740" version="3" timestamp="2024-03-05T17:40:19Z" changeset="148261255" uid="7522075" user="Rockedf">
+    <tag k="addr:city" v="Prince Albert"/>
+    <tag k="addr:country" v="South Africa"/>
+    <tag k="addr:postcode" v="6930"/>
+    <tag k="addr:street" v="R407"/>
+    <tag k="check_date:currency:XBT" v="2024-03-05"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="guest_house" v="boutique,_self_catering"/>
+    <tag k="image" v="https://www.vrischgewagt.co.za/images/gallery/library/image27.jpg"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Vrisch Gewagt Boutique Self-Catering Olive Farm"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+27826590469"/>
+    <tag k="rooms" v="14"/>
+    <tag k="source" v="local knowledge"/>
+    <tag k="survey:date" v="2024-03-05"/>
+    <tag k="tourism" v="guest_house"/>
+    <tag k="website" v="http://www.vrischgewagt.co.za/"/>
+  </node>
   <node id="10910669406" lat="36.4435309" lon="28.2232668" version="2" timestamp="2024-02-29T15:24:48Z" changeset="148057788" uid="21124605" user="Aria di Rodi">
     <tag k="addr:city" v="Rhodes"/>
     <tag k="addr:housenumber" v="22"/>
@@ -131,6 +152,16 @@
     <tag k="phone" v="+66 820451542"/>
     <tag k="shop" v="grocery"/>
     <tag k="survey:date" v="2024-03-03"/>
+  </node>
+  <node id="11693522915" lat="6.2204455" lon="6.6875705" version="1" timestamp="2024-03-05T10:27:50Z" changeset="148243741" uid="18244560" user="African Bitcoiners">
+    <tag k="addr:city" v="Asaba"/>
+    <tag k="addr:housenumber" v="Plot 7, Imperial Mall, Cartege Cinema House"/>
+    <tag k="addr:street" v="Okpanam Road, Asaba  320242"/>
+    <tag k="name" v="Hancarri"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+2348188884195"/>
+    <tag k="shoes" v="men"/>
+    <tag k="shop" v="shoes"/>
   </node>
 
 </osm>
