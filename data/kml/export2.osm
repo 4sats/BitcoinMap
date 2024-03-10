@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-09T05:26:13Z"/>
+<meta osm_base="2024-03-10T05:23:58Z"/>
 
   <node id="11703659125" lat="-20.7216814" lon="-46.6149944" version="1" timestamp="2024-03-08T10:31:23Z" changeset="148377356" uid="17544825" user="LeitaoMD">
     <tag k="addr:housenumber" v="123"/>
@@ -12,6 +12,22 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:contactless" v="yes"/>
     <tag k="phone" v="+5519971722121"/>
+  </node>
+  <node id="11708412769" lat="41.1511418" lon="-8.6070657" version="2" timestamp="2024-03-09T14:05:23Z" changeset="148424296" uid="20393538" user="Jan1thousand">
+    <tag k="addr:city" v="Porto"/>
+    <tag k="addr:housenumber" v="570"/>
+    <tag k="addr:postcode" v="4000-226"/>
+    <tag k="addr:street" v="Rua da Firmeza"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/yoga.no.porto.fanni"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Yoga no Porto (in Kinnaree massagem thai)"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+351915899741"/>
+    <tag k="sport" v="yoga"/>
+    <tag k="website" v="https://www.instagram.com/yoganoporto"/>
   </node>
 
 </osm>
