@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-11T05:24:57Z"/>
+<meta osm_base="2024-03-12T05:25:00Z"/>
 
   <node id="11703659125" lat="-20.7216814" lon="-46.6149944" version="1" timestamp="2024-03-08T10:31:23Z" changeset="148377356" uid="17544825" user="LeitaoMD">
     <tag k="addr:housenumber" v="123"/>
@@ -28,6 +28,28 @@
     <tag k="phone" v="+351915899741"/>
     <tag k="sport" v="yoga"/>
     <tag k="website" v="https://www.instagram.com/yoganoporto"/>
+  </node>
+  <node id="11716966804" lat="-14.7923326" lon="-39.0332795" version="3" timestamp="2024-03-12T05:04:44Z" changeset="148532147" uid="21191005" user="P2P Presencial de Bitcoin">
+    <tag k="addr:city" v="Ilhéus"/>
+    <tag k="addr:housenumber" v="S/N"/>
+    <tag k="addr:postcode" v="45652-130"/>
+    <tag k="addr:street" v="Rua Cristiano Selman"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="check_date" v="2024-03-11"/>
+    <tag k="check_date:currency:XBT" v="2024-03-11"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:others" v="yes"/>
+    <tag k="description" v="Bitcoin compra/venda/troca BRL e USD"/>
+    <tag k="mobile" v="(73) 98899-4444"/>
+    <tag k="name" v="P2P Presencial de Bitcoin - Câmbio"/>
+    <tag k="opening_hours" v="08:00-23:00"/>
+    <tag k="payment:XBT" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:litecoin" v="yes"/>
+    <tag k="phone" v="73988994444"/>
+    <tag k="survey:date" v="2024-03-11"/>
   </node>
 
 </osm>
