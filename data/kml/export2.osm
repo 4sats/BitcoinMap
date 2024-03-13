@@ -1,8 +1,166 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-12T05:25:00Z"/>
+<meta osm_base="2024-03-13T05:25:46Z"/>
 
+  <node id="3069041305" lat="42.6784976" lon="23.3232033" version="13" timestamp="2024-03-12T16:57:02Z" changeset="148558787" uid="21195860" user="Blue Taste Poke">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="бул. Свети Наум"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Бирария Стамболовъ"/>
+    <tag k="opening_hours" v="10:00-23:30"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+359 87 995 9529"/>
+    <tag k="website" v="https://stambolov.bg/"/>
+  </node>
+  <node id="3504388546" lat="42.6976673" lon="23.3276409" version="8" timestamp="2024-03-12T16:56:23Z" changeset="148558767" uid="21195860" user="Blue Taste Poke">
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="бул. Княз Александър Дондуков"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="contact:phone" v="+359 88 643 9050"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="int_name" v="Dondukov"/>
+    <tag k="name" v="Бирария Дондуковъ"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-00:30"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="website" v="https://dondukov.com/"/>
+  </node>
+  <node id="4524000090" lat="42.6914035" lon="23.3222224" version="5" timestamp="2024-03-12T16:54:31Z" changeset="148558658" uid="21195860" user="Blue Taste Poke">
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="1000"/>
+    <tag k="addr:street" v="Ангел Кънчев"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="turkish;lebanese"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Mezza Grill"/>
+    <tag k="opening_hours" v="Mo-Su 11:30 - 22:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+359877027166"/>
+    <tag k="website" v="https://mezzagrill.bg"/>
+  </node>
+  <node id="4524000105" lat="42.6919456" lon="23.3224206" version="5" timestamp="2024-03-12T16:53:55Z" changeset="148558641" uid="21195860" user="Blue Taste Poke">
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="1000"/>
+    <tag k="addr:street" v="Ангел Кънчев"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:phone" v="+359 87 865 6403"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Briciole Pizza Pasta &amp; Vino"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-23:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="website" v="https://briciole.bg"/>
+  </node>
+  <node id="5351811753" lat="42.6498040" lon="23.3392918" version="9" timestamp="2024-03-12T16:25:19Z" changeset="148557561" uid="21195860" user="Blue Taste Poke">
+    <tag k="addr:street" v="Франсоа Митеран"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2024-03-12"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Saffron Indian Restaurant"/>
+    <tag k="opening_hours" v="Tu-Su 12:00-23:00; Mo 17:00-23:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+359876338370"/>
+    <tag k="website" v="https://safron-bg.com"/>
+  </node>
+  <node id="6818302630" lat="42.6838895" lon="23.2687104" version="5" timestamp="2024-03-12T16:52:32Z" changeset="148558577" uid="21195860" user="Blue Taste Poke">
+    <tag k="addr:housenumber" v="29"/>
+    <tag k="addr:street" v="President Lincoln"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza;pasta;grill"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Ancona Pizza Ovcha Kupel"/>
+    <tag k="name:bg" v="Анкона"/>
+    <tag k="name:en" v="Ancona"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-22:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+359 89 787 3729"/>
+    <tag k="website" v="https://anconapizza.com/"/>
+  </node>
+  <node id="10066700430" lat="42.7238220" lon="23.3047418" version="5" timestamp="2024-03-12T16:20:46Z" changeset="148557388" uid="21195860" user="Blue Taste Poke">
+    <tag k="addr:city" v="Sofia"/>
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Lomsko Shose"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="drive_through" v="yes"/>
+    <tag k="name" v="Ancona Station"/>
+    <tag k="name:en" v="Ancona Station"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+359879636868"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://anconapizza.com"/>
+  </node>
+  <node id="10295182582" lat="32.6432297" lon="-16.9239986" version="2" timestamp="2024-03-12T12:41:08Z" changeset="148548270" uid="19688663" user="Michilis">
+    <tag k="addr:city" v="Funchal"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="9000-098"/>
+    <tag k="addr:street" v="frases espontaneas ,LDA, Estrada Monumental"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="O Maltez"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2024-03-12"/>
+  </node>
+  <node id="10944558756" lat="42.6936478" lon="23.3202489" version="4" timestamp="2024-03-12T16:55:14Z" changeset="148558699" uid="21195860" user="Blue Taste Poke">
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:street" v="бул. Витоша"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2024-03-12"/>
+    <tag k="cuisine" v="caribbean"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Blue Taste Poke"/>
+    <tag k="opening_hours" v="11:00-23:00"/>
+    <tag k="operator" v="ЕС Ел Джи Лимитид ООД"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="11703659125" lat="-20.7216814" lon="-46.6149944" version="1" timestamp="2024-03-08T10:31:23Z" changeset="148377356" uid="17544825" user="LeitaoMD">
     <tag k="addr:housenumber" v="123"/>
     <tag k="addr:street" v="Praça Lúcio Bittencourt"/>
@@ -29,6 +187,27 @@
     <tag k="sport" v="yoga"/>
     <tag k="website" v="https://www.instagram.com/yoganoporto"/>
   </node>
+  <node id="11711510444" lat="51.1668945" lon="4.8782064" version="5" timestamp="2024-03-12T05:52:20Z" changeset="148533061" uid="21189617" user="JoachimSapion">
+    <tag k="addr:country" v="BE"/>
+    <tag k="addr:postcode" v="2250"/>
+    <tag k="addr:street" v="Doffen"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="building" v="yes"/>
+    <tag k="check_date:currency:XBT" v="2024-03-10"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Sapion Boomvezorging"/>
+    <tag k="note" v="English: Arborist, Tree service , Rope access worker , wood chipper&#x0a;&#x0a;Dutch: boomverzorging boomverzorger houthakselaar"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Sapion Boomverzorging"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="survey:date" v="2024-03-10"/>
+    <tag k="website" v="https://www.linkedin.com/in/joachimsapion/"/>
+  </node>
   <node id="11716966804" lat="-14.7923326" lon="-39.0332795" version="3" timestamp="2024-03-12T05:04:44Z" changeset="148532147" uid="21191005" user="P2P Presencial de Bitcoin">
     <tag k="addr:city" v="Ilhéus"/>
     <tag k="addr:housenumber" v="S/N"/>
@@ -50,6 +229,66 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="73988994444"/>
     <tag k="survey:date" v="2024-03-11"/>
+  </node>
+  <node id="11724308984" lat="42.7140241" lon="23.2662323" version="2" timestamp="2024-03-12T16:58:54Z" changeset="148558862" uid="21195860" user="Blue Taste Poke">
+    <tag k="addr:street" v="Lulin 10, bl.162"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="image" v="https://zavedenia.com/zimages/sofia/medium/4335/4335d1fROf28KC0ZBWUHeorDAO4yu3OWp8bCaqt.jpg"/>
+    <tag k="name" v="Ancona Station"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+359893754444"/>
+    <tag k="website" v="https://anconapizza.com"/>
+  </node>
+  <node id="11725273601" lat="-20.3279663" lon="-43.9885239" version="5" timestamp="2024-03-12T19:18:53Z" changeset="148564193" uid="21197131" user="Cabanas na Mata">
+    <tag k="addr:city" v="Moeda"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="35470000"/>
+    <tag k="addr:street" v="Fazenda Bela vista"/>
+    <tag k="addr:suburb" v="Azevedo"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="A forest experience is what we have to offer. A cabin specially designed and built to allow this expansion in ourselves. With capacity for two people, we have created the perfect environment for moments of creativity, projection and special celebrations."/>
+    <tag k="email" v="flordavidaholistico@gmail.com"/>
+    <tag k="image" v="https://primal.b-cdn.net/media-cache?s=o&amp;a=1&amp;u=https%3A%2F%2Fm.primal.net%2FHSqC.png"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="name" v="Cabana Sobre a Mata"/>
+    <tag k="operator" v="Raphael"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+5531992272612"/>
+    <tag k="tourism" v="chalet"/>
+    <tag k="website" v="nostree.me/cabanasnamata"/>
+  </node>
+  <node id="11726414471" lat="-36.3134516" lon="-57.6776619" version="1" timestamp="2024-03-13T04:18:01Z" changeset="148574868" uid="21198188" user="Lavanderia Burbujas">
+    <tag k="addr:city" v="Dolores"/>
+    <tag k="addr:housenumber" v="280"/>
+    <tag k="addr:postcode" v="7100"/>
+    <tag k="addr:street" v="Leandro Alem"/>
+    <tag k="burbujas" v="lavandería"/>
+    <tag k="name" v="Burbujas"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-21:00"/>
+    <tag k="operator" v="burbujas.online"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="0224515512813"/>
+    <tag k="self_service" v="no"/>
+    <tag k="shop" v="laundry"/>
   </node>
 
 </osm>
