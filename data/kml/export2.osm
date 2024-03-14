@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-13T05:25:46Z"/>
+<meta osm_base="2024-03-14T05:23:06Z"/>
 
   <node id="3069041305" lat="42.6784976" lon="23.3232033" version="13" timestamp="2024-03-12T16:57:02Z" changeset="148558787" uid="21195860" user="Blue Taste Poke">
     <tag k="addr:housenumber" v="1"/>
@@ -127,14 +127,16 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://anconapizza.com"/>
   </node>
-  <node id="10295182582" lat="32.6432297" lon="-16.9239986" version="2" timestamp="2024-03-12T12:41:08Z" changeset="148548270" uid="19688663" user="Michilis">
+  <node id="10295182582" lat="32.6432297" lon="-16.9239986" version="3" timestamp="2024-03-13T21:48:00Z" changeset="148614381" uid="17079311" user="FREE Madeira">
     <tag k="addr:city" v="Funchal"/>
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:postcode" v="9000-098"/>
-    <tag k="addr:street" v="frases espontaneas ,LDA, Estrada Monumental"/>
+    <tag k="addr:street" v="Estrada Monumental"/>
     <tag k="amenity" v="bar"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="O Maltez"/>
+    <tag k="mobile" v="(+351) 969 043 034"/>
+    <tag k="name" v="O Maltez - Food &amp; Drinks"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-21:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="yes"/>
@@ -246,7 +248,7 @@
     <tag k="phone" v="+359893754444"/>
     <tag k="website" v="https://anconapizza.com"/>
   </node>
-  <node id="11725273601" lat="-20.3279663" lon="-43.9885239" version="5" timestamp="2024-03-12T19:18:53Z" changeset="148564193" uid="21197131" user="Cabanas na Mata">
+  <node id="11725273601" lat="-20.3279663" lon="-43.9885239" version="7" timestamp="2024-03-13T12:04:04Z" changeset="148590369" uid="21197131" user="Cabanas na Mata">
     <tag k="addr:city" v="Moeda"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="35470000"/>
@@ -256,7 +258,7 @@
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="A forest experience is what we have to offer. A cabin specially designed and built to allow this expansion in ourselves. With capacity for two people, we have created the perfect environment for moments of creativity, projection and special celebrations."/>
     <tag k="email" v="flordavidaholistico@gmail.com"/>
-    <tag k="image" v="https://primal.b-cdn.net/media-cache?s=o&amp;a=1&amp;u=https%3A%2F%2Fm.primal.net%2FHSqC.png"/>
+    <tag k="image" v="https://cdn.nostr.build/i/014b7a10fc21a58e47329aea4b766b5678fec17cfc9778d1dfb2b38a1d4ecdd9.jpg"/>
     <tag k="internet_access" v="yes"/>
     <tag k="internet_access:fee" v="customers"/>
     <tag k="name" v="Cabana Sobre a Mata"/>
@@ -268,7 +270,7 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+5531992272612"/>
     <tag k="tourism" v="chalet"/>
-    <tag k="website" v="nostree.me/cabanasnamata"/>
+    <tag k="website" v="https://nostree.me/cabanasnamata"/>
   </node>
   <node id="11726414471" lat="-36.3134516" lon="-57.6776619" version="1" timestamp="2024-03-13T04:18:01Z" changeset="148574868" uid="21198188" user="Lavanderia Burbujas">
     <tag k="addr:city" v="Dolores"/>
@@ -289,6 +291,29 @@
     <tag k="phone" v="0224515512813"/>
     <tag k="self_service" v="no"/>
     <tag k="shop" v="laundry"/>
+  </node>
+  <node id="11727956519" lat="40.1946261" lon="44.4735680" version="1" timestamp="2024-03-13T16:28:18Z" changeset="148602471" uid="5503027" user="Алексей Чубуков">
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:street" v="Շինարարների փողոց"/>
+    <tag k="amenity" v="payment_terminal"/>
+    <tag k="check_date" v="2024-03-13"/>
+    <tag k="covered" v="no"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:DASH" v="yes"/>
+    <tag k="currency:LTC" v="yes"/>
+    <tag k="currency:USDT" v="yes"/>
+    <tag k="name" v="Frog"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Frog"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="no"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="no"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="no"/>
+    <tag k="payment:litecoin" v="yes"/>
+    <tag k="ref" v="1003"/>
+    <tag k="source" v="survey"/>
   </node>
 
 </osm>
