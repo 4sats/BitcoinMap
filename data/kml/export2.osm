@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-14T05:23:06Z"/>
+<meta osm_base="2024-03-15T05:24:17Z"/>
 
   <node id="3069041305" lat="42.6784976" lon="23.3232033" version="13" timestamp="2024-03-12T16:57:02Z" changeset="148558787" uid="21195860" user="Blue Taste Poke">
     <tag k="addr:housenumber" v="1"/>
@@ -36,6 +36,31 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="website" v="https://dondukov.com/"/>
+  </node>
+  <node id="3527767993" lat="37.1699671" lon="-3.6071370" version="3" timestamp="2024-03-14T17:18:53Z" changeset="148653188" uid="20926036" user="Rupemm">
+    <tag k="addr:city" v="Granada"/>
+    <tag k="addr:housenumber" v="32"/>
+    <tag k="addr:postcode" v="180014"/>
+    <tag k="addr:street" v="Calle Arabial"/>
+    <tag k="contact:whatsapp" v="+32 627 49 86 97"/>
+    <tag k="email" v="info@tiendasagatha.com"/>
+    <tag k="name" v="Tiendas Agatha"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-14:00, Mo-Fr 17:00-21:00, Sat 10:00-14:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bitcoincash" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:dogecoin" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:litecoin" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_debit" v="yes"/>
+    <tag k="phone" v="+34 958 10 01 01"/>
+    <tag k="shop" v="cosmetics"/>
+    <tag k="website" v="https://agatha.tienda"/>
   </node>
   <node id="4524000090" lat="42.6914035" lon="23.3222224" version="5" timestamp="2024-03-12T16:54:31Z" changeset="148558658" uid="21195860" user="Blue Taste Poke">
     <tag k="addr:housenumber" v="19"/>
@@ -162,6 +187,28 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11540618504" lat="37.1879569" lon="-3.6133226" version="5" timestamp="2024-03-14T17:13:39Z" changeset="148652942" uid="20926036" user="Rupemm">
+    <tag k="addr:city" v="Granada"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="18014"/>
+    <tag k="addr:street" v="Avenida del Sur"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Tiendas Agatha"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-14:00,17:00-21:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:dogecoin" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:litecoin" v="yes"/>
+    <tag k="phone" v="+34 958 200 601"/>
+    <tag k="shop" v="cosmetics"/>
+    <tag k="survey:date" v="2024-01-22"/>
+    <tag k="website" v="https://agatha.tienda"/>
   </node>
   <node id="11703659125" lat="-20.7216814" lon="-46.6149944" version="1" timestamp="2024-03-08T10:31:23Z" changeset="148377356" uid="17544825" user="LeitaoMD">
     <tag k="addr:housenumber" v="123"/>
