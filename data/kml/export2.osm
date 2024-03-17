@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-16T05:24:49Z"/>
+<meta osm_base="2024-03-17T05:24:25Z"/>
 
   <node id="3069041305" lat="42.6784976" lon="23.3232033" version="13" timestamp="2024-03-12T16:57:02Z" changeset="148558787" uid="21195860" user="Blue Taste Poke">
     <tag k="addr:housenumber" v="1"/>
@@ -19,23 +19,6 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+359 87 995 9529"/>
     <tag k="website" v="https://stambolov.bg/"/>
-  </node>
-  <node id="3504388546" lat="42.6976673" lon="23.3276409" version="8" timestamp="2024-03-12T16:56:23Z" changeset="148558767" uid="21195860" user="Blue Taste Poke">
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="бул. Княз Александър Дондуков"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="contact:phone" v="+359 88 643 9050"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="int_name" v="Dondukov"/>
-    <tag k="name" v="Бирария Дондуковъ"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-00:30"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="website" v="https://dondukov.com/"/>
   </node>
   <node id="3527767993" lat="37.1699671" lon="-3.6071370" version="3" timestamp="2024-03-14T17:18:53Z" changeset="148653188" uid="20926036" user="Rupemm">
     <tag k="addr:city" v="Granada"/>
@@ -220,11 +203,12 @@
     <tag k="payment:contactless" v="yes"/>
     <tag k="phone" v="+5519971722121"/>
   </node>
-  <node id="11708412769" lat="41.1511418" lon="-8.6070657" version="2" timestamp="2024-03-09T14:05:23Z" changeset="148424296" uid="20393538" user="Jan1thousand">
+  <node id="11708412769" lat="41.1511418" lon="-8.6070657" version="3" timestamp="2024-03-16T06:32:39Z" changeset="148717776" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Porto"/>
     <tag k="addr:housenumber" v="570"/>
     <tag k="addr:postcode" v="4000-226"/>
     <tag k="addr:street" v="Rua da Firmeza"/>
+    <tag k="check_date" v="2024-03-09"/>
     <tag k="contact:facebook" v="https://www.facebook.com/yoga.no.porto.fanni"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="leisure" v="fitness_centre"/>
@@ -318,26 +302,6 @@
     <tag k="phone" v="+5531992272612"/>
     <tag k="tourism" v="chalet"/>
     <tag k="website" v="https://nostree.me/cabanasnamata"/>
-  </node>
-  <node id="11726414471" lat="-36.3134516" lon="-57.6776619" version="1" timestamp="2024-03-13T04:18:01Z" changeset="148574868" uid="21198188" user="Lavanderia Burbujas">
-    <tag k="addr:city" v="Dolores"/>
-    <tag k="addr:housenumber" v="280"/>
-    <tag k="addr:postcode" v="7100"/>
-    <tag k="addr:street" v="Leandro Alem"/>
-    <tag k="burbujas" v="lavandería"/>
-    <tag k="name" v="Burbujas"/>
-    <tag k="opening_hours" v="Mo-Su 08:00-21:00"/>
-    <tag k="operator" v="burbujas.online"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="0224515512813"/>
-    <tag k="self_service" v="no"/>
-    <tag k="shop" v="laundry"/>
   </node>
   <node id="11727956519" lat="40.1946261" lon="44.4735680" version="1" timestamp="2024-03-13T16:28:18Z" changeset="148602471" uid="5503027" user="Алексей Чубуков">
     <tag k="addr:housenumber" v="15"/>
