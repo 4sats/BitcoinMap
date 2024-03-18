@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-17T05:24:25Z"/>
+<meta osm_base="2024-03-18T05:24:40Z"/>
 
   <node id="3069041305" lat="42.6784976" lon="23.3232033" version="13" timestamp="2024-03-12T16:57:02Z" changeset="148558787" uid="21195860" user="Blue Taste Poke">
     <tag k="addr:housenumber" v="1"/>
@@ -279,13 +279,14 @@
     <tag k="phone" v="+359893754444"/>
     <tag k="website" v="https://anconapizza.com"/>
   </node>
-  <node id="11725273601" lat="-20.3279663" lon="-43.9885239" version="7" timestamp="2024-03-13T12:04:04Z" changeset="148590369" uid="21197131" user="Cabanas na Mata">
+  <node id="11725273601" lat="-20.3279663" lon="-43.9885239" version="8" timestamp="2024-03-17T11:30:23Z" changeset="148767693" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Moeda"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="35470000"/>
     <tag k="addr:street" v="Fazenda Bela vista"/>
     <tag k="addr:suburb" v="Azevedo"/>
     <tag k="air_conditioning" v="yes"/>
+    <tag k="check_date" v="2024-03-13"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="A forest experience is what we have to offer. A cabin specially designed and built to allow this expansion in ourselves. With capacity for two people, we have created the perfect environment for moments of creativity, projection and special celebrations."/>
     <tag k="email" v="flordavidaholistico@gmail.com"/>
@@ -325,6 +326,20 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="ref" v="1003"/>
     <tag k="source" v="survey"/>
+  </node>
+  <node id="11739971034" lat="-22.7359532" lon="-47.6534275" version="1" timestamp="2024-03-18T00:48:32Z" changeset="148795039" uid="21214951" user="Rodrigofbsal">
+    <tag k="addr:city" v="Piracicaba"/>
+    <tag k="addr:housenumber" v="1757"/>
+    <tag k="addr:postcode" v="13400853"/>
+    <tag k="addr:street" v="Avenida Doutor Paulo de Moraes"/>
+    <tag k="addr:suburb" v="Paulista"/>
+    <tag k="name" v="RTEC SMARTPHONES"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:currency:xbt" v="yes"/>
+    <tag k="payment:payment:lightning" v="yes"/>
+    <tag k="shop" v="mobile_phone"/>
   </node>
 
 </osm>
