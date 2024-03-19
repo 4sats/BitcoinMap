@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-18T05:24:40Z"/>
+<meta osm_base="2024-03-19T05:24:55Z"/>
 
   <node id="3069041305" lat="42.6784976" lon="23.3232033" version="13" timestamp="2024-03-12T16:57:02Z" changeset="148558787" uid="21195860" user="Blue Taste Poke">
     <tag k="addr:housenumber" v="1"/>
@@ -45,11 +45,13 @@
     <tag k="shop" v="cosmetics"/>
     <tag k="website" v="https://agatha.tienda"/>
   </node>
-  <node id="4524000090" lat="42.6914035" lon="23.3222224" version="5" timestamp="2024-03-12T16:54:31Z" changeset="148558658" uid="21195860" user="Blue Taste Poke">
+  <node id="4524000090" lat="42.6914035" lon="23.3222224" version="6" timestamp="2024-03-18T12:55:33Z" changeset="148815594" uid="2104834" user="Igor Bubelov">
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:postcode" v="1000"/>
     <tag k="addr:street" v="Ангел Кънчев"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2024-03-12"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/mezzabg/"/>
     <tag k="cuisine" v="turkish;lebanese"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Mezza Grill"/>
@@ -62,11 +64,12 @@
     <tag k="phone" v="+359877027166"/>
     <tag k="website" v="https://mezzagrill.bg"/>
   </node>
-  <node id="4524000105" lat="42.6919456" lon="23.3224206" version="5" timestamp="2024-03-12T16:53:55Z" changeset="148558641" uid="21195860" user="Blue Taste Poke">
+  <node id="4524000105" lat="42.6919456" lon="23.3224206" version="6" timestamp="2024-03-18T12:59:29Z" changeset="148815762" uid="2104834" user="Igor Bubelov">
     <tag k="addr:housenumber" v="11"/>
     <tag k="addr:postcode" v="1000"/>
     <tag k="addr:street" v="Ангел Кънчев"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2024-03-12"/>
     <tag k="contact:phone" v="+359 87 865 6403"/>
     <tag k="cuisine" v="italian"/>
     <tag k="currency:XBT" v="yes"/>
@@ -97,10 +100,11 @@
     <tag k="phone" v="+359876338370"/>
     <tag k="website" v="https://safron-bg.com"/>
   </node>
-  <node id="6818302630" lat="42.6838895" lon="23.2687104" version="5" timestamp="2024-03-12T16:52:32Z" changeset="148558577" uid="21195860" user="Blue Taste Poke">
+  <node id="6818302630" lat="42.6838895" lon="23.2687104" version="6" timestamp="2024-03-18T13:18:02Z" changeset="148816609" uid="2104834" user="Igor Bubelov">
     <tag k="addr:housenumber" v="29"/>
     <tag k="addr:street" v="President Lincoln"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2024-03-12"/>
     <tag k="cuisine" v="pizza;pasta;grill"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Ancona Pizza Ovcha Kupel"/>
@@ -114,26 +118,6 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+359 89 787 3729"/>
     <tag k="website" v="https://anconapizza.com/"/>
-  </node>
-  <node id="10066700430" lat="42.7238220" lon="23.3047418" version="5" timestamp="2024-03-12T16:20:46Z" changeset="148557388" uid="21195860" user="Blue Taste Poke">
-    <tag k="addr:city" v="Sofia"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:street" v="Lomsko Shose"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="pizza"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="drive_through" v="yes"/>
-    <tag k="name" v="Ancona Station"/>
-    <tag k="name:en" v="Ancona Station"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+359879636868"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="https://anconapizza.com"/>
   </node>
   <node id="10295182582" lat="32.6432297" lon="-16.9239986" version="3" timestamp="2024-03-13T21:48:00Z" changeset="148614381" uid="17079311" user="FREE Madeira">
     <tag k="addr:city" v="Funchal"/>
@@ -170,6 +154,28 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="10977807516" lat="32.6469924" lon="-16.9108464" version="7" timestamp="2024-03-18T20:40:16Z" changeset="148834146" uid="15398" user="mappy123">
+    <tag k="addr:city" v="Funchal"/>
+    <tag k="addr:door" v="11"/>
+    <tag k="addr:housenumber" v="33/47"/>
+    <tag k="addr:postcode" v="9000-061"/>
+    <tag k="addr:street" v="Avenida Arriaga"/>
+    <tag k="check_date" v="2024-02-29"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="mobile" v="(+351) 920 428 798"/>
+    <tag k="name" v="Kalani Electronics"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-19:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="(+351) 966 140 259"/>
+    <tag k="shop" v="electronics"/>
+    <tag k="survey:date" v="2024-03-11"/>
   </node>
   <node id="11540618504" lat="37.1879569" lon="-3.6133226" version="5" timestamp="2024-03-14T17:13:39Z" changeset="148652942" uid="20926036" user="Rupemm">
     <tag k="addr:city" v="Granada"/>
@@ -263,9 +269,10 @@
     <tag k="phone" v="73988994444"/>
     <tag k="survey:date" v="2024-03-11"/>
   </node>
-  <node id="11724308984" lat="42.7140241" lon="23.2662323" version="2" timestamp="2024-03-12T16:58:54Z" changeset="148558862" uid="21195860" user="Blue Taste Poke">
+  <node id="11724308984" lat="42.7140241" lon="23.2662323" version="3" timestamp="2024-03-18T13:20:15Z" changeset="148816724" uid="2104834" user="Igor Bubelov">
     <tag k="addr:street" v="Lulin 10, bl.162"/>
     <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2024-03-12"/>
     <tag k="cuisine" v="pizza"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="image" v="https://zavedenia.com/zimages/sofia/medium/4335/4335d1fROf28KC0ZBWUHeorDAO4yu3OWp8bCaqt.jpg"/>
