@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-19T05:24:55Z"/>
+<meta osm_base="2024-03-20T05:25:35Z"/>
 
   <node id="3069041305" lat="42.6784976" lon="23.3232033" version="13" timestamp="2024-03-12T16:57:02Z" changeset="148558787" uid="21195860" user="Blue Taste Poke">
     <tag k="addr:housenumber" v="1"/>
@@ -44,6 +44,29 @@
     <tag k="phone" v="+34 958 10 01 01"/>
     <tag k="shop" v="cosmetics"/>
     <tag k="website" v="https://agatha.tienda"/>
+  </node>
+  <node id="3533356430" lat="50.7416320" lon="14.5284769" version="4" timestamp="2024-03-19T11:00:50Z" changeset="148854984" uid="21220010" user="Krystof96">
+    <tag k="addr:city" v="Skalice u České Lípy"/>
+    <tag k="addr:housenumber" v="96"/>
+    <tag k="addr:postcode" v="47117"/>
+    <tag k="addr:street" v="Skalice u České Lípy"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="currency:CZK" v="yes"/>
+    <tag k="currency:EUR" v="no"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Pizzařství.cz Skalice"/>
+    <tag k="opening_hours" v="Tu 14:30-20:00 We-Sa 11:30-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:trisbee_pay" v="yes"/>
+    <tag k="phone" v="+420602418314"/>
+    <tag k="survey:date" v="2024-03-19"/>
+    <tag k="takeaway" v="only"/>
+    <tag k="website" v="https://www.pizzarstvi.cz/"/>
   </node>
   <node id="4524000090" lat="42.6914035" lon="23.3222224" version="6" timestamp="2024-03-18T12:55:33Z" changeset="148815594" uid="2104834" user="Igor Bubelov">
     <tag k="addr:housenumber" v="19"/>
