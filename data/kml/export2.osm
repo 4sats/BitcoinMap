@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-20T05:25:35Z"/>
+<meta osm_base="2024-03-21T05:23:54Z"/>
 
   <node id="3069041305" lat="42.6784976" lon="23.3232033" version="13" timestamp="2024-03-12T16:57:02Z" changeset="148558787" uid="21195860" user="Blue Taste Poke">
     <tag k="addr:housenumber" v="1"/>
@@ -142,22 +142,6 @@
     <tag k="phone" v="+359 89 787 3729"/>
     <tag k="website" v="https://anconapizza.com/"/>
   </node>
-  <node id="10295182582" lat="32.6432297" lon="-16.9239986" version="3" timestamp="2024-03-13T21:48:00Z" changeset="148614381" uid="17079311" user="FREE Madeira">
-    <tag k="addr:city" v="Funchal"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="9000-098"/>
-    <tag k="addr:street" v="Estrada Monumental"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="mobile" v="(+351) 969 043 034"/>
-    <tag k="name" v="O Maltez - Food &amp; Drinks"/>
-    <tag k="opening_hours" v="Mo-Su 07:00-21:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="survey:date" v="2024-03-12"/>
-  </node>
   <node id="10944558756" lat="42.6936478" lon="23.3202489" version="4" timestamp="2024-03-12T16:55:14Z" changeset="148558699" uid="21195860" user="Blue Taste Poke">
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:street" v="бул. Витоша"/>
@@ -177,28 +161,6 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="10977807516" lat="32.6469924" lon="-16.9108464" version="7" timestamp="2024-03-18T20:40:16Z" changeset="148834146" uid="15398" user="mappy123">
-    <tag k="addr:city" v="Funchal"/>
-    <tag k="addr:door" v="11"/>
-    <tag k="addr:housenumber" v="33/47"/>
-    <tag k="addr:postcode" v="9000-061"/>
-    <tag k="addr:street" v="Avenida Arriaga"/>
-    <tag k="check_date" v="2024-02-29"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="mobile" v="(+351) 920 428 798"/>
-    <tag k="name" v="Kalani Electronics"/>
-    <tag k="opening_hours" v="Mo-Su 11:00-19:30"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="(+351) 966 140 259"/>
-    <tag k="shop" v="electronics"/>
-    <tag k="survey:date" v="2024-03-11"/>
   </node>
   <node id="11540618504" lat="37.1879569" lon="-3.6133226" version="5" timestamp="2024-03-14T17:13:39Z" changeset="148652942" uid="20926036" user="Rupemm">
     <tag k="addr:city" v="Granada"/>
@@ -370,6 +332,49 @@
     <tag k="payment:currency:xbt" v="yes"/>
     <tag k="payment:payment:lightning" v="yes"/>
     <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="11747898369" lat="32.5206431" lon="-117.0154075" version="1" timestamp="2024-03-20T11:51:42Z" changeset="148908358" uid="21224156" user="empathyfirstmedia">
+    <tag k="addr:city" v="Tijuana"/>
+    <tag k="addr:housenumber" v="1538 #43A"/>
+    <tag k="addr:neighbourhood" v="Revolucion"/>
+    <tag k="addr:postcode" v="22015"/>
+    <tag k="addr:state" v="Baja California"/>
+    <tag k="addr:street" v="Avenida Río Tijuana"/>
+    <tag k="description" v="Empathy First Media is a digital marketing agency providing digital marketing and public relations services to businesses throughout Tijuana and Mexico."/>
+    <tag k="email" v="hello@empathyfirstmedia.com"/>
+    <tag k="facebook" v="https://www.facebook.com/empathyfirstmedia"/>
+    <tag k="image" v="https://local-platform.s3.us-east-2.amazonaws.com/location/logo/202244/XX1E5UCqZNKgwxaiiuEodDNfIzvO6YxBSMMadf6h.webp"/>
+    <tag k="instagram" v="https://www.instagram.com/empathyfirstmedia/"/>
+    <tag k="language:en" v="yes"/>
+    <tag k="language:es" v="yes"/>
+    <tag k="linkedin" v="https://www.linkedin.com/company/empathy-first-media"/>
+    <tag k="name" v="Empathy First Media"/>
+    <tag k="office" v="advertising_agency"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="payment:ACH / Wire Trasnfer" v="yes"/>
+    <tag k="payment:Cardano" v="yes"/>
+    <tag k="payment:Cryptocurrency" v="yes"/>
+    <tag k="payment:Ethereum" v="yes"/>
+    <tag k="payment:XRP" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="664 980 0310"/>
+    <tag k="start_date" v="2018-01-01"/>
+    <tag k="twitter" v="https://twitter.com/firstempathy"/>
+    <tag k="website" v="https://empathyfirstmedia.com/"/>
+    <tag k="youtube" v="https://www.youtube.com/@empathyfirstmedia"/>
+  </node>
+  <node id="11748012057" lat="47.8691531" lon="-4.0025132" version="1" timestamp="2024-03-20T13:20:03Z" changeset="148912943" uid="21224262" user="feustey">
+    <tag k="comment" v="Vous aide à mettre en place une solution de paiement en Bitcoin"/>
+    <tag k="contact:email" v="stephane@inoval.io"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="INOVAL"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2024-03-18"/>
+    <tag k="website" v="https://inoval.io"/>
   </node>
 
 </osm>
