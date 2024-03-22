@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-21T05:23:54Z"/>
+<meta osm_base="2024-03-22T05:25:48Z"/>
 
   <node id="3069041305" lat="42.6784976" lon="23.3232033" version="13" timestamp="2024-03-12T16:57:02Z" changeset="148558787" uid="21195860" user="Blue Taste Poke">
     <tag k="addr:housenumber" v="1"/>
@@ -67,6 +67,21 @@
     <tag k="survey:date" v="2024-03-19"/>
     <tag k="takeaway" v="only"/>
     <tag k="website" v="https://www.pizzarstvi.cz/"/>
+  </node>
+  <node id="4471074425" lat="39.2371847" lon="9.1839844" version="4" timestamp="2024-03-21T13:32:50Z" changeset="148963923" uid="20975640" user="Innoviù">
+    <tag k="addr:city" v="Quartu Sant'Elena"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="09045"/>
+    <tag k="addr:street" v="Via Giovanni Verga"/>
+    <tag k="name" v="Innovyou"/>
+    <tag k="office" v="it"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="070 896 0140"/>
+    <tag k="website" v="https://www.innovyou.it/"/>
   </node>
   <node id="4524000090" lat="42.6914035" lon="23.3222224" version="6" timestamp="2024-03-18T12:55:33Z" changeset="148815594" uid="2104834" user="Igor Bubelov">
     <tag k="addr:housenumber" v="19"/>
@@ -365,11 +380,12 @@
     <tag k="website" v="https://empathyfirstmedia.com/"/>
     <tag k="youtube" v="https://www.youtube.com/@empathyfirstmedia"/>
   </node>
-  <node id="11748012057" lat="47.8691531" lon="-4.0025132" version="1" timestamp="2024-03-20T13:20:03Z" changeset="148912943" uid="21224262" user="feustey">
+  <node id="11748012057" lat="47.8691531" lon="-4.0025132" version="2" timestamp="2024-03-21T08:54:51Z" changeset="148949486" uid="2104834" user="Igor Bubelov">
     <tag k="comment" v="Vous aide à mettre en place une solution de paiement en Bitcoin"/>
     <tag k="contact:email" v="stephane@inoval.io"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="INOVAL"/>
+    <tag k="office" v="consulting"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
