@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-26T05:23:16Z"/>
+<meta osm_base="2024-03-27T05:24:00Z"/>
 
   <node id="3069041305" lat="42.6784976" lon="23.3232033" version="13" timestamp="2024-03-12T16:57:02Z" changeset="148558787" uid="21195860" user="Blue Taste Poke">
     <tag k="addr:housenumber" v="1"/>
@@ -68,7 +68,23 @@
     <tag k="takeaway" v="only"/>
     <tag k="website" v="https://www.pizzarstvi.cz/"/>
   </node>
-  <node id="4228979833" lat="39.2173004" lon="9.1212942" version="7" timestamp="2024-03-25T17:40:12Z" changeset="149142300" uid="20975640" user="Innoviù">
+  <node id="4228916757" lat="39.2227388" lon="9.1248820" version="3" timestamp="2024-03-26T14:36:08Z" changeset="149181058" uid="20975640" user="Innoviù">
+    <tag k="addr:city" v="Cagliari"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:postcode" v="09128"/>
+    <tag k="addr:street" v="Via Dante Alighieri"/>
+    <tag k="name" v="Dante 134 Rooms"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+39 375 593 3115"/>
+    <tag k="rooms" v="2"/>
+    <tag k="source" v="Regione Autonoma della Sardegna (www.sardegnageoportale.it)"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://ceowelcomingitaly.it/"/>
+  </node>
+  <node id="4228979833" lat="39.2173004" lon="9.1212942" version="8" timestamp="2024-03-26T14:49:24Z" changeset="149181617" uid="20975640" user="Innoviù">
     <tag k="addr:city" v="Cagliari"/>
     <tag k="addr:housenumber" v="177"/>
     <tag k="addr:street" v="Via Sidney Sonnino"/>
@@ -81,21 +97,39 @@
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+39 375 593 3115"/>
+    <tag k="rooms" v="4"/>
     <tag k="source" v="Regione Autonoma della Sardegna (www.sardegnageoportale.it)"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://ceowelcomingitaly.it/"/>
   </node>
-  <node id="4229520549" lat="39.2172750" lon="9.1199153" version="2" timestamp="2024-03-25T17:41:02Z" changeset="149142353" uid="20975640" user="Innoviù">
+  <node id="4229520549" lat="39.2172750" lon="9.1199153" version="3" timestamp="2024-03-26T14:50:17Z" changeset="149181662" uid="20975640" user="Innoviù">
     <tag k="addr:city" v="Cagliari"/>
     <tag k="addr:housenumber" v="43"/>
     <tag k="addr:postcode" v="09127"/>
     <tag k="addr:street" v="Via Giuseppe Abba"/>
-    <tag k="name" v="C&amp;O Abba Rooms"/>
+    <tag k="name" v="Abba Rooms"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+39 375 593 3115"/>
+    <tag k="rooms" v="2"/>
+    <tag k="source" v="Regione Autonoma della Sardegna (www.sardegnageoportale.it)"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://ceowelcomingitaly.it/"/>
+  </node>
+  <node id="4229634239" lat="39.2270415" lon="9.1163751" version="2" timestamp="2024-03-26T14:43:58Z" changeset="149181402" uid="20975640" user="Innoviù">
+    <tag k="addr:city" v="Cagliari"/>
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:postcode" v="09127"/>
+    <tag k="addr:street" v="Via Toscana"/>
+    <tag k="name" v="Kalista 5 Rooms"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+39 375 593 3115"/>
+    <tag k="rooms" v="5"/>
     <tag k="source" v="Regione Autonoma della Sardegna (www.sardegnageoportale.it)"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://ceowelcomingitaly.it/"/>
