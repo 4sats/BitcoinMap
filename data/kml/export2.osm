@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-27T05:24:00Z"/>
+<meta osm_base="2024-03-28T05:26:01Z"/>
 
   <node id="3069041305" lat="42.6784976" lon="23.3232033" version="13" timestamp="2024-03-12T16:57:02Z" changeset="148558787" uid="21195860" user="Blue Taste Poke">
     <tag k="addr:housenumber" v="1"/>
@@ -426,6 +426,41 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="survey:date" v="2024-03-18"/>
     <tag k="website" v="https://inoval.io"/>
+  </node>
+  <node id="11766496168" lat="-25.4602382" lon="-50.6037378" version="2" timestamp="2024-03-27T16:45:38Z" changeset="149234477" uid="21246215" user="Reino dos Cogumelos - Irati">
+    <tag k="addr:city" v="Irati"/>
+    <tag k="addr:housenumber" v="km 237"/>
+    <tag k="addr:postcode" v="84500536"/>
+    <tag k="addr:street" v="BR 277"/>
+    <tag k="addr:suburb" v="Nhapindazal"/>
+    <tag k="contact:instagram" v="@reino.cogumelos"/>
+    <tag k="description" v="produtor de cogumelos gastronômicos"/>
+    <tag k="name" v="Reino dos Cogumelos"/>
+    <tag k="operator" v="Weslley Visinoni"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="health_food"/>
+  </node>
+  <node id="11766534261" lat="13.6869462" lon="-89.2385249" version="2" timestamp="2024-03-27T19:31:36Z" changeset="149240668" uid="21249206" user="Premium Art Gallery">
+    <tag k="addr:city" v="San Salvador"/>
+    <tag k="addr:street" v="Avenida La Revolución"/>
+    <tag k="email" v="info@premiumartgallery.com"/>
+    <tag k="mobile" v="503 75767249"/>
+    <tag k="name" v="PremiumArt Gallery"/>
+    <tag k="opening_hours" v="martes a domingo 9:30 a 5:30"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:wire_transfer" v="yes"/>
+    <tag k="toilets" v="no"/>
+    <tag k="tourism" v="gallery"/>
+    <tag k="website" v="https://www.premiumartgallery.com"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
