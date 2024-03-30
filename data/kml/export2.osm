@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-29T05:24:11Z"/>
+<meta osm_base="2024-03-30T05:25:49Z"/>
 
   <node id="3069041305" lat="42.6784976" lon="23.3232033" version="13" timestamp="2024-03-12T16:57:02Z" changeset="148558787" uid="21195860" user="Blue Taste Poke">
     <tag k="addr:housenumber" v="1"/>
@@ -19,6 +19,20 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+359 87 995 9529"/>
     <tag k="website" v="https://stambolov.bg/"/>
+  </node>
+  <node id="3504388546" lat="42.6976673" lon="23.3276409" version="11" timestamp="2024-03-29T14:42:42Z" changeset="149315895" uid="21195860" user="Blue Taste Poke">
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:street" v="бул. Княз Александър Дондуков"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="contact:phone" v="+359 88 643 9050"/>
+    <tag k="int_name" v="Dondukov"/>
+    <tag k="name" v="Бирария Дондуковъ"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-00:30"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="website" v="https://dondukov.com/"/>
   </node>
   <node id="3533356430" lat="50.7416320" lon="14.5284769" version="4" timestamp="2024-03-19T11:00:50Z" changeset="148854984" uid="21220010" user="Krystof96">
     <tag k="addr:city" v="Skalice u České Lípy"/>
@@ -180,9 +194,7 @@
     <tag k="phone" v="+359876338370"/>
     <tag k="website" v="https://safron-bg.com"/>
   </node>
-  <node id="6818302630" lat="42.6838895" lon="23.2687104" version="6" timestamp="2024-03-18T13:18:02Z" changeset="148816609" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:housenumber" v="29"/>
-    <tag k="addr:street" v="President Lincoln"/>
+  <node id="6818302630" lat="42.6838895" lon="23.2687104" version="7" timestamp="2024-03-29T08:08:26Z" changeset="149299613" uid="10893436" user="Dimitar155">
     <tag k="amenity" v="restaurant"/>
     <tag k="check_date" v="2024-03-12"/>
     <tag k="cuisine" v="pizza;pasta;grill"/>
@@ -377,20 +389,6 @@
     <tag k="ref" v="1003"/>
     <tag k="source" v="survey"/>
   </node>
-  <node id="11739971034" lat="-22.7359532" lon="-47.6534275" version="1" timestamp="2024-03-18T00:48:32Z" changeset="148795039" uid="21214951" user="Rodrigofbsal">
-    <tag k="addr:city" v="Piracicaba"/>
-    <tag k="addr:housenumber" v="1757"/>
-    <tag k="addr:postcode" v="13400853"/>
-    <tag k="addr:street" v="Avenida Doutor Paulo de Moraes"/>
-    <tag k="addr:suburb" v="Paulista"/>
-    <tag k="name" v="RTEC SMARTPHONES"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:currency:xbt" v="yes"/>
-    <tag k="payment:payment:lightning" v="yes"/>
-    <tag k="shop" v="mobile_phone"/>
-  </node>
   <node id="11748012057" lat="47.8691531" lon="-4.0025132" version="2" timestamp="2024-03-21T08:54:51Z" changeset="148949486" uid="2104834" user="Igor Bubelov">
     <tag k="comment" v="Vous aide à mettre en place une solution de paiement en Bitcoin"/>
     <tag k="contact:email" v="stephane@inoval.io"/>
@@ -438,13 +436,15 @@
     <tag k="website" v="https://www.premiumartgallery.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11769107812" lat="28.4525231" lon="-81.4678863" version="1" timestamp="2024-03-28T14:43:20Z" changeset="149272913" uid="21183755" user="Bitcoin Club Malta">
+  <node id="11769107812" lat="28.4525231" lon="-81.4678863" version="3" timestamp="2024-03-30T04:38:53Z" changeset="149337505" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Orlando"/>
     <tag k="addr:housenumber" v="7531"/>
     <tag k="addr:postcode" v="32819"/>
     <tag k="addr:state" v="FL"/>
     <tag k="addr:street" v="Canada Avenue"/>
+    <tag k="check_date" v="2024-03-29"/>
     <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Rankplan"/>
     <tag k="office" v="advertising_agency"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -452,7 +452,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="website" v="https://rankplan.us"/>
   </node>
-  <node id="11770081455" lat="50.9879345" lon="-114.0366483" version="1" timestamp="2024-03-28T23:14:56Z" changeset="149290647" uid="21253653" user="Retail ERA">
+  <node id="11770081455" lat="50.9879345" lon="-114.0366483" version="2" timestamp="2024-03-29T12:38:04Z" changeset="149310565" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Calgary"/>
     <tag k="addr:housenumber" v="1315"/>
     <tag k="addr:postcode" v="T2H 2X1"/>
@@ -461,6 +461,7 @@
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Electronic Recycling Association"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="shop" v="computer"/>
     <tag k="survey:date" v="2024-03-27"/>
     <tag k="website" v="https://retail.era.ca"/>
   </node>
