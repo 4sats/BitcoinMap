@@ -1,8 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-07T05:23:51Z"/>
+<meta osm_base="2024-04-08T05:25:15Z"/>
 
+  <node id="2996091761" lat="48.8396129" lon="2.3229037" version="14" timestamp="2024-04-08T03:17:26Z" changeset="149715897" uid="2104834" user="Igor Bubelov">
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="75014"/>
+    <tag k="addr:street" v="Rue Vandamme"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="brewery" v="yes"/>
+    <tag k="check_date:currency:XBT" v="2024-04-07"/>
+    <tag k="contact:city" v="Paris 14eme Arrondissement"/>
+    <tag k="contact:housenumber" v="10"/>
+    <tag k="contact:phone" v="+33 1 42 84 43 22"/>
+    <tag k="contact:postcode" v="75014"/>
+    <tag k="contact:street" v="Rue Vandamme"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="cooperative@kerbeer.bzh"/>
+    <tag k="highway:TW:dataset" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Ker Beer"/>
+    <tag k="opening_hours" v="Mo 17:00-23:59; Tu-Su 00:00-01:30, 17:00-23:59"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+33142844322"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="sport" v="darts"/>
+    <tag k="website" v="https://www.kerbeer.bzh/"/>
+  </node>
   <node id="3069041305" lat="42.6784976" lon="23.3232033" version="13" timestamp="2024-03-12T16:57:02Z" changeset="148558787" uid="21195860" user="Blue Taste Poke">
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:street" v="бул. Свети Наум"/>
