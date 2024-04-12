@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-11T05:24:36Z"/>
+<meta osm_base="2024-04-12T05:27:01Z"/>
 
   <node id="3069041305" lat="42.6784976" lon="23.3232033" version="13" timestamp="2024-03-12T16:57:02Z" changeset="148558787" uid="21195860" user="Blue Taste Poke">
     <tag k="addr:housenumber" v="1"/>
@@ -20,55 +20,14 @@
     <tag k="phone" v="+359 87 995 9529"/>
     <tag k="website" v="https://stambolov.bg/"/>
   </node>
-  <node id="3504388546" lat="42.6976673" lon="23.3276409" version="11" timestamp="2024-03-29T14:42:42Z" changeset="149315895" uid="21195860" user="Blue Taste Poke">
-    <tag k="addr:housenumber" v="14"/>
-    <tag k="addr:street" v="бул. Княз Александър Дондуков"/>
-    <tag k="amenity" v="pub"/>
-    <tag k="contact:phone" v="+359 88 643 9050"/>
-    <tag k="int_name" v="Dondukov"/>
-    <tag k="name" v="Бирария Дондуковъ"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-00:30"/>
-    <tag k="outdoor_seating" v="yes"/>
+  <node id="3344792543" lat="40.8533607" lon="14.2692365" version="3" timestamp="2024-04-11T19:31:41Z" changeset="149879778" uid="11045191" user="Settebello">
+    <tag k="contact:instagram" v="https://www.instagram.com/dolcevitaroomsnaples/"/>
+    <tag k="name" v="Dolce Vita Rooms &amp; Breakfast"/>
+    <tag k="opening_hours" v="24/7"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="website" v="https://dondukov.com/"/>
-  </node>
-  <node id="4524000090" lat="42.6914035" lon="23.3222224" version="6" timestamp="2024-03-18T12:55:33Z" changeset="148815594" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:housenumber" v="19"/>
-    <tag k="addr:postcode" v="1000"/>
-    <tag k="addr:street" v="Ангел Кънчев"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="check_date" v="2024-03-12"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/mezzabg/"/>
-    <tag k="cuisine" v="turkish;lebanese"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Mezza Grill"/>
-    <tag k="opening_hours" v="Mo-Su 11:30 - 22:30"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+359877027166"/>
-    <tag k="website" v="https://mezzagrill.bg"/>
-  </node>
-  <node id="4524000105" lat="42.6919456" lon="23.3224206" version="6" timestamp="2024-03-18T12:59:29Z" changeset="148815762" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:housenumber" v="11"/>
-    <tag k="addr:postcode" v="1000"/>
-    <tag k="addr:street" v="Ангел Кънчев"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="check_date" v="2024-03-12"/>
-    <tag k="contact:phone" v="+359 87 865 6403"/>
-    <tag k="cuisine" v="italian"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Briciole Pizza Pasta &amp; Vino"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-23:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="website" v="https://briciole.bg"/>
+    <tag k="phone" v="+39 333 988 8176"/>
+    <tag k="tourism" v="guest_house"/>
+    <tag k="website" v="https://www.hoteldolcevitanapoli.it/"/>
   </node>
   <node id="5351811753" lat="42.6498040" lon="23.3392918" version="9" timestamp="2024-03-12T16:25:19Z" changeset="148557561" uid="21195860" user="Blue Taste Poke">
     <tag k="addr:street" v="Франсоа Митеран"/>
@@ -89,42 +48,23 @@
     <tag k="phone" v="+359876338370"/>
     <tag k="website" v="https://safron-bg.com"/>
   </node>
-  <node id="6818302630" lat="42.6838895" lon="23.2687104" version="7" timestamp="2024-03-29T08:08:26Z" changeset="149299613" uid="10893436" user="Dimitar155">
-    <tag k="amenity" v="restaurant"/>
-    <tag k="check_date" v="2024-03-12"/>
-    <tag k="cuisine" v="pizza;pasta;grill"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Ancona Pizza Ovcha Kupel"/>
-    <tag k="name:bg" v="Анкона"/>
-    <tag k="name:en" v="Ancona"/>
-    <tag k="opening_hours" v="Mo-Su 11:00-22:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+359 89 787 3729"/>
-    <tag k="website" v="https://anconapizza.com/"/>
-  </node>
-  <node id="10944558756" lat="42.6936478" lon="23.3202489" version="4" timestamp="2024-03-12T16:55:14Z" changeset="148558699" uid="21195860" user="Blue Taste Poke">
-    <tag k="addr:housenumber" v="16"/>
-    <tag k="addr:street" v="бул. Витоша"/>
+  <node id="11810725940" lat="49.2820970" lon="-123.0789545" version="1" timestamp="2024-04-12T03:15:51Z" changeset="149888966" uid="503610" user="asoltys">
+    <tag k="addr:city" v="Vancouver"/>
+    <tag k="addr:housenumber" v="1216"/>
+    <tag k="addr:postcode" v="V6A 1K1"/>
+    <tag k="addr:province" v="BC"/>
+    <tag k="addr:street" v="Franklin Street"/>
     <tag k="amenity" v="fast_food"/>
-    <tag k="check_date" v="2024-03-12"/>
-    <tag k="cuisine" v="caribbean"/>
+    <tag k="cuisine" v="sandwich"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="diet:vegan" v="yes"/>
-    <tag k="diet:vegetarian" v="yes"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="name" v="Blue Taste Poke"/>
-    <tag k="opening_hours" v="11:00-23:00"/>
-    <tag k="operator" v="ЕС Ел Джи Лимитид ООД"/>
+    <tag k="diet:healthy" v="yes"/>
+    <tag k="name" v="Pretty Good Sandwiches"/>
+    <tag k="opening_hours" v="Su-Tu 16:00-20:00"/>
+    <tag k="operator" v="Sarah"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="wheelchair" v="no"/>
+    <tag k="website" v="https://prettygoodsandwiches.ca/"/>
   </node>
 
 </osm>
