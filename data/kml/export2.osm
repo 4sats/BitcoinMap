@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-13T05:23:24Z"/>
+<meta osm_base="2024-04-14T05:59:54Z"/>
 
   <node id="3069041305" lat="42.6784976" lon="23.3232033" version="13" timestamp="2024-03-12T16:57:02Z" changeset="148558787" uid="21195860" user="Blue Taste Poke">
     <tag k="addr:housenumber" v="1"/>
@@ -47,6 +47,39 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+359876338370"/>
     <tag k="website" v="https://safron-bg.com"/>
+  </node>
+  <node id="10720609688" lat="48.1555485" lon="17.0856337" version="5" timestamp="2024-04-13T20:26:34Z" changeset="149968612" uid="3792740" user="Boris Biba">
+    <tag k="addr:city" v="Bratislava"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:street" v="Drotárska cesta"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="regional;asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="diet:gluten_free" v="yes"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="name" v="Spicy Life"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="phone" v="+421 911 982008"/>
+    <tag k="survey:date" v="2023-11-17"/>
+    <tag k="website" v="https://www.spicylife.eu/"/>
+  </node>
+  <node id="11710817443" lat="48.1453719" lon="17.1024892" version="3" timestamp="2024-04-13T20:29:58Z" changeset="149968724" uid="3792740" user="Boris Biba">
+    <tag k="addr:city" v="Bratislava - Staré Mesto"/>
+    <tag k="addr:housenumber" v="2a"/>
+    <tag k="addr:street" v="Svoradova"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="coffee_shop;breakfast;fast_food;snackbar"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="name" v="Spicy Life"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-16:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+421910820009"/>
+    <tag k="website" v="https://www.spicylife.eu/"/>
   </node>
   <node id="11810725940" lat="49.2820970" lon="-123.0789545" version="2" timestamp="2024-04-12T06:14:15Z" changeset="149892351" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Vancouver"/>
