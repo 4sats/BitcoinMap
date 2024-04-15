@@ -1,104 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-14T05:59:54Z"/>
+<meta osm_base="2024-04-15T05:21:00Z"/>
 
-  <node id="3069041305" lat="42.6784976" lon="23.3232033" version="13" timestamp="2024-03-12T16:57:02Z" changeset="148558787" uid="21195860" user="Blue Taste Poke">
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:street" v="бул. Свети Наум"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="Бирария Стамболовъ"/>
-    <tag k="opening_hours" v="10:00-23:30"/>
-    <tag k="outdoor_seating" v="yes"/>
+  <node id="11817012548" lat="-2.7590434" lon="-42.2716879" version="1" timestamp="2024-04-14T18:12:32Z" changeset="150004718" uid="21306782" user="Marujo Store">
+    <tag k="addr:city" v="Tutóia"/>
+    <tag k="addr:housenumber" v="SN"/>
+    <tag k="addr:postcode" v="65580-000"/>
+    <tag k="addr:street" v="Rua Alarico Cunha"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="clothes" v="men"/>
+    <tag k="name" v="Marujo Store"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
     <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+359 87 995 9529"/>
-    <tag k="website" v="https://stambolov.bg/"/>
-  </node>
-  <node id="3344792543" lat="40.8533607" lon="14.2692365" version="3" timestamp="2024-04-11T19:31:41Z" changeset="149879778" uid="11045191" user="Settebello">
-    <tag k="contact:instagram" v="https://www.instagram.com/dolcevitaroomsnaples/"/>
-    <tag k="name" v="Dolce Vita Rooms &amp; Breakfast"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+39 333 988 8176"/>
-    <tag k="tourism" v="guest_house"/>
-    <tag k="website" v="https://www.hoteldolcevitanapoli.it/"/>
-  </node>
-  <node id="5351811753" lat="42.6498040" lon="23.3392918" version="9" timestamp="2024-03-12T16:25:19Z" changeset="148557561" uid="21195860" user="Blue Taste Poke">
-    <tag k="addr:street" v="Франсоа Митеран"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="check_date" v="2024-03-12"/>
-    <tag k="cuisine" v="indian"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="indoor_seating" v="yes"/>
-    <tag k="name" v="Saffron Indian Restaurant"/>
-    <tag k="opening_hours" v="Tu-Su 12:00-23:00; Mo 17:00-23:00"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+359876338370"/>
-    <tag k="website" v="https://safron-bg.com"/>
-  </node>
-  <node id="10720609688" lat="48.1555485" lon="17.0856337" version="5" timestamp="2024-04-13T20:26:34Z" changeset="149968612" uid="3792740" user="Boris Biba">
-    <tag k="addr:city" v="Bratislava"/>
-    <tag k="addr:housenumber" v="44"/>
-    <tag k="addr:street" v="Drotárska cesta"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="regional;asian"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="diet:gluten_free" v="yes"/>
-    <tag k="diet:vegan" v="yes"/>
-    <tag k="name" v="Spicy Life"/>
-    <tag k="opening_hours" v="Mo-Fr 08:00-18:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="phone" v="+421 911 982008"/>
-    <tag k="survey:date" v="2023-11-17"/>
-    <tag k="website" v="https://www.spicylife.eu/"/>
-  </node>
-  <node id="11710817443" lat="48.1453719" lon="17.1024892" version="3" timestamp="2024-04-13T20:29:58Z" changeset="149968724" uid="3792740" user="Boris Biba">
-    <tag k="addr:city" v="Bratislava - Staré Mesto"/>
-    <tag k="addr:housenumber" v="2a"/>
-    <tag k="addr:street" v="Svoradova"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="coffee_shop;breakfast;fast_food;snackbar"/>
-    <tag k="diet:vegan" v="yes"/>
-    <tag k="diet:vegetarian" v="yes"/>
-    <tag k="name" v="Spicy Life"/>
-    <tag k="opening_hours" v="Mo-Fr 08:30-16:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+421910820009"/>
-    <tag k="website" v="https://www.spicylife.eu/"/>
-  </node>
-  <node id="11810725940" lat="49.2820970" lon="-123.0789545" version="2" timestamp="2024-04-12T06:14:15Z" changeset="149892351" uid="2104834" user="Igor Bubelov">
-    <tag k="addr:city" v="Vancouver"/>
-    <tag k="addr:housenumber" v="1216"/>
-    <tag k="addr:postcode" v="V6A 1K1"/>
-    <tag k="addr:province" v="BC"/>
-    <tag k="addr:street" v="Franklin Street"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="check_date" v="2024-04-12"/>
-    <tag k="cuisine" v="sandwich"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="diet:healthy" v="yes"/>
-    <tag k="name" v="Pretty Good Sandwiches"/>
-    <tag k="opening_hours" v="Su-Tu 16:00-20:00"/>
-    <tag k="operator" v="Sarah"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coinos" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="website" v="https://prettygoodsandwiches.ca/"/>
+    <tag k="phone" v="98 98420-0019"/>
+    <tag k="shop" v="clothes"/>
   </node>
 
 </osm>
