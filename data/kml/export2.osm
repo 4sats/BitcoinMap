@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-17T05:23:44Z"/>
+<meta osm_base="2024-04-18T05:24:43Z"/>
 
+  <node id="11716966804" lat="-14.7923326" lon="-39.0332795" version="5" timestamp="2024-04-17T21:12:32Z" changeset="150148597" uid="21191005" user="P2P Presencial de Bitcoin">
+    <tag k="addr:city" v="Ilhéus"/>
+    <tag k="addr:housenumber" v="S/N"/>
+    <tag k="addr:postcode" v="45652-130"/>
+    <tag k="addr:street" v="Rua Cristiano Selman"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="check_date" v="2024-03-11"/>
+    <tag k="check_date:currency:XBT" v="2024-03-11"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="currency:others" v="yes"/>
+    <tag k="description" v="Bitcoin compra/venda/troca BRL e USD"/>
+    <tag k="mobile" v="(73) 98899-4444"/>
+    <tag k="name" v="P2P Presencial de Bitcoin - Câmbio"/>
+    <tag k="opening_hours" v="08:00-23:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:litecoin" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="73988994444"/>
+    <tag k="survey:date" v="2024-03-11"/>
+  </node>
   <node id="11817012548" lat="-2.7590434" lon="-42.2716879" version="1" timestamp="2024-04-14T18:12:32Z" changeset="150004718" uid="21306782" user="Marujo Store">
     <tag k="addr:city" v="Tutóia"/>
     <tag k="addr:housenumber" v="SN"/>
@@ -40,6 +63,41 @@
     <tag k="survey:date" v="2024-04-15"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://saltcafe.co.za/"/>
+  </node>
+  <node id="11826400180" lat="-16.6893199" lon="-49.2743294" version="1" timestamp="2024-04-17T22:59:36Z" changeset="150150751" uid="21319399" user="Dan Bernardo">
+    <tag k="addr:city" v="Goiânia"/>
+    <tag k="addr:housenumber" v="418"/>
+    <tag k="addr:postcode" v="74140-110"/>
+    <tag k="addr:street" v="Avenida T 7 Q R33"/>
+    <tag k="addr:suburb" v="Setor Oeste"/>
+    <tag k="check:date" v="2024-04-17"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Polly Tattoo"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+5562983015216"/>
+    <tag k="shop" v="tattoo"/>
+    <tag k="survey:date" v="2024-04-17"/>
+  </node>
+  <node id="11826418570" lat="-16.7311716" lon="-49.1926008" version="1" timestamp="2024-04-17T23:17:05Z" changeset="150151054" uid="21319399" user="Dan Bernardo">
+    <tag k="addr:city" v="Goiania"/>
+    <tag k="addr:street" v="Avenida Aristóteles"/>
+    <tag k="addr:suburb" v="Jardim Marilisia"/>
+    <tag k="check_date" v="2024-02-28"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="description" v="Consultoria em TI, DevOps, Crypto, NFT e Bitcoin"/>
+    <tag k="email" v="contato@itsparks.io"/>
+    <tag k="name" v="ItSparks"/>
+    <tag k="office" v="it"/>
+    <tag k="opening_hours" v="Mo-Fr 11:00-15:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+5562999950673"/>
   </node>
 
 </osm>
