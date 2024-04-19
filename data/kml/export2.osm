@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-18T05:24:43Z"/>
+<meta osm_base="2024-04-19T05:24:18Z"/>
 
+  <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
+    <tag k="addr:city" v="Salt Rock"/>
+    <tag k="addr:housenumber" v="Shop G9"/>
+    <tag k="addr:postcode" v="4391"/>
+    <tag k="addr:street" v="Basil Hulett Drive"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2024-04-18"/>
+    <tag k="cuisine" v="asian;sushi;thai;international;salad"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="diet:chicken" v="yes"/>
+    <tag k="diet:fish" v="yes"/>
+    <tag k="diet:meat" v="yes"/>
+    <tag k="diet:seafood" v="yes"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="name" v="Pangeli Salt Rock"/>
+    <tag k="opening_hours" v="Mo-Su 11:00-20:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="phone" v="0748333641"/>
+    <tag k="survey:date" v="2024-04-18"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://www.pangeli.co.za/"/>
+  </node>
   <node id="11716966804" lat="-14.7923326" lon="-39.0332795" version="5" timestamp="2024-04-17T21:12:32Z" changeset="150148597" uid="21191005" user="P2P Presencial de Bitcoin">
     <tag k="addr:city" v="Ilhéus"/>
     <tag k="addr:housenumber" v="S/N"/>
@@ -63,41 +89,6 @@
     <tag k="survey:date" v="2024-04-15"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://saltcafe.co.za/"/>
-  </node>
-  <node id="11826400180" lat="-16.6893199" lon="-49.2743294" version="1" timestamp="2024-04-17T22:59:36Z" changeset="150150751" uid="21319399" user="Dan Bernardo">
-    <tag k="addr:city" v="Goiânia"/>
-    <tag k="addr:housenumber" v="418"/>
-    <tag k="addr:postcode" v="74140-110"/>
-    <tag k="addr:street" v="Avenida T 7 Q R33"/>
-    <tag k="addr:suburb" v="Setor Oeste"/>
-    <tag k="check:date" v="2024-04-17"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Polly Tattoo"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+5562983015216"/>
-    <tag k="shop" v="tattoo"/>
-    <tag k="survey:date" v="2024-04-17"/>
-  </node>
-  <node id="11826418570" lat="-16.7311716" lon="-49.1926008" version="1" timestamp="2024-04-17T23:17:05Z" changeset="150151054" uid="21319399" user="Dan Bernardo">
-    <tag k="addr:city" v="Goiania"/>
-    <tag k="addr:street" v="Avenida Aristóteles"/>
-    <tag k="addr:suburb" v="Jardim Marilisia"/>
-    <tag k="check_date" v="2024-02-28"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="description" v="Consultoria em TI, DevOps, Crypto, NFT e Bitcoin"/>
-    <tag k="email" v="contato@itsparks.io"/>
-    <tag k="name" v="ItSparks"/>
-    <tag k="office" v="it"/>
-    <tag k="opening_hours" v="Mo-Fr 11:00-15:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+5562999950673"/>
   </node>
 
 </osm>
