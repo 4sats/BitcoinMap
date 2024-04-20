@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-19T05:24:18Z"/>
+<meta osm_base="2024-04-20T05:23:41Z"/>
 
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
@@ -89,6 +89,33 @@
     <tag k="survey:date" v="2024-04-15"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://saltcafe.co.za/"/>
+  </node>
+  <node id="11831577178" lat="-19.8644171" lon="-47.4472592" version="5" timestamp="2024-04-20T04:18:42Z" changeset="150247064" uid="2104834" user="Igor Bubelov">
+    <tag k="addr:city" v="Sacramento"/>
+    <tag k="addr:housenumber" v="101"/>
+    <tag k="addr:postcode" v="38.190-000"/>
+    <tag k="addr:state" v="Minas Gerais"/>
+    <tag k="addr:street" v="Rua Rui Barbosa"/>
+    <tag k="addr:suburb" v="Rosário"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="brewery" v="various;cerveja_zandoná;cream_ale;american_ipa;english_porter;pilsen"/>
+    <tag k="check_date" v="2024-04-20"/>
+    <tag k="contact:instagram" v="@cervejariazandona"/>
+    <tag k="country" v="Brasil"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Cerveja Artesanal e Pizzaria."/>
+    <tag k="email" v="cervejariazandona@gmail.com"/>
+    <tag k="image" v="https://www.google.com.br/maps/place/Cervejaria+Zandon%C3%A1/@-19.8644348,-47.4472736,20z/data=!4m6!3m5!1s0x94b075553533d937:0xd7b79849ccfdb35b!8m2!3d-19.8644348!4d-47.4472736!16s%2Fg%2F11lkyl3nbj?entry=ttu"/>
+    <tag k="name" v="Cervejaria Zandoná"/>
+    <tag k="opening_hours" v="Quarta a Sábado 18h-23h30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+55 34 99102-1849"/>
+    <tag k="start_date" v="2019-11-18"/>
+    <tag k="survey:date" v="2019-11-18"/>
+    <tag k="website" v="https://www.instagram.com/cervejariazandona/"/>
   </node>
 
 </osm>
