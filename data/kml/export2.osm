@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-21T05:24:00Z"/>
+<meta osm_base="2024-04-22T05:24:56Z"/>
 
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
@@ -116,6 +116,23 @@
     <tag k="start_date" v="2019-11-18"/>
     <tag k="survey:date" v="2019-11-18"/>
     <tag k="website" v="https://www.instagram.com/cervejariazandona/"/>
+  </node>
+  <node id="11834457128" lat="45.1524291" lon="10.9137316" version="1" timestamp="2024-04-21T07:15:21Z" changeset="150289347" uid="14617702" user="Đuro Jiří">
+    <tag k="addr:city" v="Roncoferraro"/>
+    <tag k="addr:housenumber" v="215"/>
+    <tag k="addr:postcode" v="46037"/>
+    <tag k="addr:street" v="Via Cesare Battisti"/>
+    <tag k="contact:phone" v="+39 347 293 8947"/>
+    <tag k="contact:website" v="https://www.porcalora.it/"/>
+    <tag k="guest_house" v="agritourism"/>
+    <tag k="name" v="Azienda Agricola Porc a l'ora"/>
+    <tag k="opening_hours" v="Sa-Su 10:00-24:00"/>
+    <tag k="payment:bancomat" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="tourism" v="guest_house"/>
   </node>
 
 </osm>
