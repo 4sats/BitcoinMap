@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-23T05:23:45Z"/>
+<meta osm_base="2024-04-24T05:25:11Z"/>
 
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
@@ -117,6 +117,29 @@
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:visa" v="yes"/>
     <tag k="tourism" v="guest_house"/>
+  </node>
+  <node id="11841401604" lat="-16.6899205" lon="-49.3002622" version="2" timestamp="2024-04-23T15:05:22Z" changeset="150400590" uid="7522075" user="Rockedf">
+    <tag k="addr:city" v="Goiânia"/>
+    <tag k="addr:housenumber" v="395"/>
+    <tag k="addr:street" v="Av. Pedro Ludovico"/>
+    <tag k="addr:suburb" v="Setor Sudoeste"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date:currency:XBT" v="2024-04-23"/>
+    <tag k="coffee" v="yes"/>
+    <tag k="cuisine" v="coffee_shop;cake;cookie"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="drink:coffee" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="name" v="Not Black"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-19:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lighting" v="yes"/>
+    <tag k="source:date" v="2024-04-22"/>
   </node>
 
 </osm>
