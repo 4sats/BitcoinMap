@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-24T05:25:11Z"/>
+<meta osm_base="2024-04-25T05:24:22Z"/>
 
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
@@ -118,7 +118,7 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="tourism" v="guest_house"/>
   </node>
-  <node id="11841401604" lat="-16.6899205" lon="-49.3002622" version="2" timestamp="2024-04-23T15:05:22Z" changeset="150400590" uid="7522075" user="Rockedf">
+  <node id="11841401604" lat="-16.6899205" lon="-49.3002622" version="3" timestamp="2024-04-24T08:28:24Z" changeset="150431625" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Goiânia"/>
     <tag k="addr:housenumber" v="395"/>
     <tag k="addr:street" v="Av. Pedro Ludovico"/>
@@ -138,8 +138,49 @@
     <tag k="payment:cards" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lighting" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
     <tag k="source:date" v="2024-04-22"/>
+  </node>
+  <node id="11844616571" lat="39.0271600" lon="-8.7917721" version="2" timestamp="2024-04-24T15:30:04Z" changeset="150453524" uid="21342469" user="Hugo Nunes Photo">
+    <tag k="addr:city" v="Salvaterra de Magos"/>
+    <tag k="addr:housenumber" v="loja B"/>
+    <tag k="addr:postcode" v="2120-071"/>
+    <tag k="addr:street" v="Largo dos Combatatentes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Hugo Nunes Photo"/>
+    <tag k="opening_hours" v="Mo-Fr 09:30-18:00"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:google_pay" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_electron" v="yes"/>
+    <tag k="phone" v="+351263505648"/>
+    <tag k="shop" v="photo"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11844710688" lat="-19.7698434" lon="-47.9296245" version="1" timestamp="2024-04-24T15:37:40Z" changeset="150453928" uid="21342621" user="Kakashi_Customs">
+    <tag k="addr:city" v="uberaba"/>
+    <tag k="addr:housenumber" v="1162"/>
+    <tag k="addr:postcode" v="38030-100"/>
+    <tag k="addr:street" v="Avenida Orlando Rodrigues da Cunha"/>
+    <tag k="addr:suburb" v="Loja Eletroshock"/>
+    <tag k="currency:BRL" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Kakashi Customs"/>
+    <tag k="operator" v="Loja Eletroshock"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+55 (34) 3315-9276"/>
+    <tag k="shop" v="hardware"/>
   </node>
 
 </osm>
