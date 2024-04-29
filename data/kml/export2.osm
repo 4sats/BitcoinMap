@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-28T05:23:49Z"/>
+<meta osm_base="2024-04-29T05:26:46Z"/>
 
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
@@ -196,13 +196,15 @@
     <tag k="website" v="https://www.instagram.com/doppio_cafegourmet"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11860302222" lat="-5.5439266" lon="-47.4772251" version="2" timestamp="2024-04-27T19:20:50Z" changeset="150593692" uid="21361468" user="Rubens de Freitas Dourado">
+  <node id="11860302222" lat="-5.5439266" lon="-47.4772251" version="3" timestamp="2024-04-28T18:32:36Z" changeset="150631648" uid="21361468" user="Rubens de Freitas Dourado">
     <tag k="addr:city" v="Imperatriz"/>
     <tag k="addr:housenumber" v="2125"/>
     <tag k="addr:postcode" v="65916-280"/>
     <tag k="addr:street" v="Rua Dom Pedro II"/>
     <tag k="addr:suburb" v="Bacuri"/>
-    <tag k="name" v="BTC Consultoria"/>
+    <tag k="consulting" v="consultoria;bitcoin"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Bitcoin Now"/>
     <tag k="office" v="consulting"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
