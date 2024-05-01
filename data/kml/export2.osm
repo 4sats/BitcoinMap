@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-30T05:23:43Z"/>
+<meta osm_base="2024-05-01T05:23:45Z"/>
 
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
@@ -226,6 +226,11 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="11870170729" lat="40.7433249" lon="-73.9242428" version="1" timestamp="2024-05-01T00:38:45Z" changeset="150731052" uid="6457180" user="promiseofbirth">
+    <tag k="amenity" v="atm"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
   </node>
 
 </osm>
