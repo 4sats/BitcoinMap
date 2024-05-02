@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-01T05:23:45Z"/>
+<meta osm_base="2024-05-02T05:25:34Z"/>
 
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
@@ -231,6 +231,23 @@
     <tag k="amenity" v="atm"/>
     <tag k="indoor" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
+  </node>
+  <node id="11873001995" lat="25.6592215" lon="-100.3628982" version="1" timestamp="2024-05-02T00:04:51Z" changeset="150773172" uid="19577558" user="KapitalEx">
+    <tag k="addr:city" v="San Pedro Garza García"/>
+    <tag k="addr:housenumber" v="223"/>
+    <tag k="addr:neighbourhood" v="Plaza Meridian"/>
+    <tag k="addr:postcode" v="66260"/>
+    <tag k="addr:state" v="NL"/>
+    <tag k="addr:street" v="Rio Orinoco"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Barba Negra"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+528120915534"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="survey:date" v="2024-05-01"/>
   </node>
 
 </osm>
