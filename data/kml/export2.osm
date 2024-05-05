@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-04T05:25:00Z"/>
+<meta osm_base="2024-05-05T05:23:35Z"/>
 
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
@@ -234,6 +234,34 @@
     <tag k="phone" v="+528120915534"/>
     <tag k="shop" v="hairdresser"/>
     <tag k="survey:date" v="2024-05-01"/>
+  </node>
+  <node id="11878846802" lat="-29.7592581" lon="-50.0177402" version="1" timestamp="2024-05-04T13:06:57Z" changeset="150879188" uid="21388866" user="Cristianreii">
+    <tag k="addr:city" v="Capão da Canoa"/>
+    <tag k="addr:housenumber" v="2008"/>
+    <tag k="addr:postcode" v="95555-000"/>
+    <tag k="addr:street" v="Avenida Paraguassu"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="REI DO IMÓVEL"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+555135023333"/>
+    <tag k="survey:date" v="2024-04-30"/>
+    <tag k="website" v="www.reidoimovel.com.br"/>
+  </node>
+  <node id="11879643149" lat="-34.6082437" lon="-58.3721667" version="1" timestamp="2024-05-04T19:55:34Z" changeset="150896151" uid="21419740" user="BItcoin Tour Buenos Aires">
+    <tag k="check_date" v="2024-05-04"/>
+    <tag k="check_date:currency:XBT" v="2024-05-04"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="https://geyser.fund/project/bitcointour"/>
+    <tag k="name" v="Tour Bitcoin and Crazy Economy Buenos Aires"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="survey:date" v="2024-05-04"/>
   </node>
 
 </osm>
