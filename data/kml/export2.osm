@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-07T05:26:00Z"/>
+<meta osm_base="2024-05-08T05:21:44Z"/>
 
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
@@ -276,6 +276,85 @@
     <tag k="payment:paypal" v="yes"/>
     <tag k="phone" v="+41798188306"/>
     <tag k="website" v="https://www.mathias-eicher.com"/>
+  </node>
+  <node id="11886795044" lat="-29.8884870" lon="-50.2723494" version="1" timestamp="2024-05-07T14:39:30Z" changeset="151014374" uid="21412264" user="Dr Guilherme Fontanella">
+    <tag k="addr:city" v="Osorio"/>
+    <tag k="addr:housenumber" v="N 1153 sala 64"/>
+    <tag k="addr:postcode" v="95520-000"/>
+    <tag k="addr:street" v="Av. Jorge Dariva"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="mobile" v="+55 51 985752717"/>
+    <tag k="name" v="Dr. Guilherme Fontanella"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 51 36632717"/>
+  </node>
+  <node id="11887043725" lat="-33.9934872" lon="22.5742735" version="1" timestamp="2024-05-07T16:33:18Z" changeset="151019088" uid="21301664" user="yBitcoinza">
+    <tag k="addr:city" v="George"/>
+    <tag k="addr:postcode" v="6560"/>
+    <tag k="addr:street" v="Milk Wood Village, Beacon Road, Wilderness"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Royal Thai massage @ Wilderness, George"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-19:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+27448770223"/>
+    <tag k="shop" v="massage"/>
+    <tag k="survey:date" v="2024-05-07"/>
+    <tag k="website" v="http://www.theroyalthaimassage.co.za/"/>
+  </node>
+  <node id="11887099138" lat="-33.9926696" lon="22.5785941" version="1" timestamp="2024-05-07T16:40:00Z" changeset="151019325" uid="21301664" user="yBitcoinza">
+    <tag k="addr:city" v="Wilderness"/>
+    <tag k="addr:housenumber" v="362"/>
+    <tag k="addr:postcode" v="6560"/>
+    <tag k="addr:street" v="Waterside Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="The Commonage"/>
+    <tag k="opening_hours" v="Mo-Su 07:30-14:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+27793292419"/>
+    <tag k="survey:date" v="2024-05-07"/>
+    <tag k="website" v="https://thecommonage.co.za/"/>
+  </node>
+  <node id="11887105810" lat="-33.9659291" lon="22.4613309" version="1" timestamp="2024-05-07T17:01:22Z" changeset="151020169" uid="21301664" user="yBitcoinza">
+    <tag k="addr:city" v="George"/>
+    <tag k="addr:housenumber" v="88"/>
+    <tag k="addr:postcode" v="6530"/>
+    <tag k="addr:street" v="Mitchell Street"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Print Galore"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-16:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+27448740438"/>
+    <tag k="shop" v="printer_ink"/>
+    <tag k="survey:date" v="2024-05-07"/>
+    <tag k="website" v="https://local-info.co.za/listing/screenprint-signs-galore-george/"/>
+  </node>
+  <node id="11887338209" lat="13.5000974" lon="-88.5306829" version="1" timestamp="2024-05-07T18:38:41Z" changeset="151024062" uid="19581577" user="casakikita">
+    <tag k="check_date" v="2024-05-07"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Bitcoin Farmers Market - Berlin"/>
+    <tag k="opening_hours" v="Su 09:00-15:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="twitter" v="btcfarmersmrkt"/>
   </node>
 
 </osm>
