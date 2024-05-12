@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-11T05:23:53Z"/>
+<meta osm_base="2024-05-12T05:25:22Z"/>
 
   <node id="740239576" lat="49.0745039" lon="-121.9750410" version="3" timestamp="2024-05-10T22:26:53Z" changeset="151166194" uid="21471818" user="Michael Degroot">
     <tag k="addr:city" v="Cultus Lake"/>
@@ -357,6 +357,19 @@
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="shop" v="supermarket"/>
     <tag k="twitter" v="btcfarmersmrkt"/>
+  </node>
+  <node id="11897085215" lat="47.4643179" lon="19.0245983" version="1" timestamp="2024-05-11T16:28:17Z" changeset="151193961" uid="906236" user="urbalazs">
+    <tag k="amenity" v="atm"/>
+    <tag k="branch" v="1119 Budapest, Hadak útja 1."/>
+    <tag k="brand" v="BlockChainge"/>
+    <tag k="contact:email" v="info@blockchange.hu"/>
+    <tag k="contact:phone" v="+36 70 478 0722"/>
+    <tag k="model" v="BATM3"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:litecoin" v="yes"/>
+    <tag k="ref:HU:vending_reg" v="U86636149"/>
+    <tag k="ref:internal" v="BT301639"/>
   </node>
 
 </osm>
