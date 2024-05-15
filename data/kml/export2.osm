@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-14T05:25:45Z"/>
+<meta osm_base="2024-05-15T05:25:45Z"/>
 
   <node id="740239576" lat="49.0745039" lon="-121.9750410" version="3" timestamp="2024-05-10T22:26:53Z" changeset="151166194" uid="21471818" user="Michael Degroot">
     <tag k="addr:city" v="Cultus Lake"/>
@@ -370,6 +370,70 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="ref:HU:vending_reg" v="U86636149"/>
     <tag k="ref:internal" v="BT301639"/>
+  </node>
+  <node id="11905085518" lat="-29.5025363" lon="31.2378336" version="2" timestamp="2024-05-15T04:35:38Z" changeset="151339745" uid="2104834" user="Igor Bubelov">
+    <tag k="addr:city" v="Salt Rock"/>
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:postcode" v="4390"/>
+    <tag k="addr:street" v="Basil Hulett Drive"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2024-05-15"/>
+    <tag k="cuisine" v="burger;wings"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="diet:meat" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="name" v="Space Cowboy"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="0653324662"/>
+  </node>
+  <node id="11905189538" lat="-29.5269813" lon="31.2063066" version="2" timestamp="2024-05-14T20:33:23Z" changeset="151331214" uid="21301664" user="yBitcoinza">
+    <tag k="addr:city" v="Ballito"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="4392"/>
+    <tag k="addr:street" v="Simbithi Drive"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date" v="2024-05-14"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="yes"/>
+    <tag k="name" v="Elevation Cafe"/>
+    <tag k="opening_hours" v="Mo-Sun 07:00-16:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+  </node>
+  <node id="11905224154" lat="-29.6754899" lon="31.1152160" version="2" timestamp="2024-05-15T04:39:13Z" changeset="151339797" uid="2104834" user="Igor Bubelov">
+    <tag k="addr:city" v="Umdloti Beach"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="4350"/>
+    <tag k="addr:street" v="Margaret Bacon Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date" v="2024-05-15"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Doloras Coffee"/>
+    <tag k="opening_hours" v="Mo-Sun 06:00-14:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+  </node>
+  <node id="11905224387" lat="-29.5269559" lon="31.2063877" version="1" timestamp="2024-05-14T20:41:23Z" changeset="151331374" uid="21301664" user="yBitcoinza">
+    <tag k="addr:city" v="Ballito"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="4392"/>
+    <tag k="addr:street" v="Simbithi Drive"/>
+    <tag k="check_date" v="2024-05-14"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="House of Golf"/>
+    <tag k="opening_hours" v="Mo-Sun 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="0324920407"/>
+    <tag k="shop" v="golf"/>
   </node>
 
 </osm>
