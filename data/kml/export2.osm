@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-15T05:25:45Z"/>
+<meta osm_base="2024-05-16T05:23:21Z"/>
 
   <node id="740239576" lat="49.0745039" lon="-121.9750410" version="3" timestamp="2024-05-10T22:26:53Z" changeset="151166194" uid="21471818" user="Michael Degroot">
     <tag k="addr:city" v="Cultus Lake"/>
@@ -434,6 +434,16 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="0324920407"/>
     <tag k="shop" v="golf"/>
+  </node>
+  <node id="11908084116" lat="-34.9449905" lon="-54.9358260" version="2" timestamp="2024-05-15T22:21:02Z" changeset="151383291" uid="21352088" user="Matuw">
+    <tag k="addr:city" v="Punta Del Este"/>
+    <tag k="addr:housenumber" v="3037"/>
+    <tag k="addr:street" v="venida Pedragosa Sierra"/>
+    <tag k="name" v="Giro 21 Punta del Este"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="bicycle"/>
   </node>
 
 </osm>
