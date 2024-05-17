@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-16T05:23:21Z"/>
+<meta osm_base="2024-05-17T05:27:22Z"/>
 
   <node id="740239576" lat="49.0745039" lon="-121.9750410" version="3" timestamp="2024-05-10T22:26:53Z" changeset="151166194" uid="21471818" user="Michael Degroot">
     <tag k="addr:city" v="Cultus Lake"/>
@@ -371,6 +371,38 @@
     <tag k="ref:HU:vending_reg" v="U86636149"/>
     <tag k="ref:internal" v="BT301639"/>
   </node>
+  <node id="11903871844" lat="-15.5493998" lon="-47.3349992" version="5" timestamp="2024-05-16T17:09:06Z" changeset="151418716" uid="21490917" user="Gershwin Pinters">
+    <tag k="addr:city" v="Formosa"/>
+    <tag k="addr:housenumber" v="335"/>
+    <tag k="addr:postcode" v="73813-370"/>
+    <tag k="addr:street" v="Avenida Lagoa Feia"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="description" v="Empresa com conceito One Stop Shop na área veterinária. Médicos Veterinários, Consultas, Cirurgias, Vacinas, Tratamentos Animal, Pet Shop, Banho/Tosa, Hotel Animal."/>
+    <tag k="ele" v="900"/>
+    <tag k="email" v="peticaoveterinaria@gmail.com"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:ssid" v="Peticão"/>
+    <tag k="level" v="3"/>
+    <tag k="mobile" v="+55 61 998476417"/>
+    <tag k="name" v="Peticão Clínica Veterinária - Petshop"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-20:00"/>
+    <tag k="operator" v="Dra. GMA"/>
+    <tag k="payment:apple_pay" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:google_pay" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:liquid" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+55 61 998476417"/>
+    <tag k="shop" v="pet"/>
+    <tag k="start_date" v="2024-05-04"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="11905085518" lat="-29.5025363" lon="31.2378336" version="2" timestamp="2024-05-15T04:35:38Z" changeset="151339745" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Salt Rock"/>
     <tag k="addr:housenumber" v="61"/>
@@ -444,6 +476,29 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="shop" v="bicycle"/>
+  </node>
+  <node id="11910358339" lat="-22.9048648" lon="-43.5568788" version="1" timestamp="2024-05-16T17:40:34Z" changeset="151419984" uid="21390568" user="Biomed Esthetique - Referência em Ozônioterapia">
+    <tag k="addr:city" v="Rio de Janeiro"/>
+    <tag k="addr:housenumber" v="330 - sala 401"/>
+    <tag k="addr:postcode" v="23052000"/>
+    <tag k="addr:street" v="Rua Aurélio de Figueiredo"/>
+    <tag k="addr:suburb" v="Campo Grande"/>
+    <tag k="beauty" v="nails;cosmetics;spa;skin_care;waxing;estetica"/>
+    <tag k="ele" v="31.37"/>
+    <tag k="name" v="Biomed Esthetique - Saúde e bem estar - Clinica Integrativa"/>
+    <tag k="operator" v="Biomed Esthetique"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+55 21 31487740"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="top_ele" v="35.73"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
