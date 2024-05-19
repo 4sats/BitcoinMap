@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-18T05:23:59Z"/>
+<meta osm_base="2024-05-19T05:25:11Z"/>
 
   <node id="740239576" lat="49.0745039" lon="-121.9750410" version="3" timestamp="2024-05-10T22:26:53Z" changeset="151166194" uid="21471818" user="Michael Degroot">
     <tag k="addr:city" v="Cultus Lake"/>
@@ -270,7 +270,7 @@
     <tag k="shop" v="hairdresser"/>
     <tag k="survey:date" v="2024-05-01"/>
   </node>
-  <node id="11878846802" lat="-29.7592581" lon="-50.0177402" version="1" timestamp="2024-05-04T13:06:57Z" changeset="150879188" uid="21388866" user="Cristianreii">
+  <node id="11878846802" lat="-29.7592581" lon="-50.0177402" version="2" timestamp="2024-05-18T05:41:48Z" changeset="151478587" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Capão da Canoa"/>
     <tag k="addr:housenumber" v="2008"/>
     <tag k="addr:postcode" v="95555-000"/>
@@ -285,7 +285,7 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+555135023333"/>
     <tag k="survey:date" v="2024-04-30"/>
-    <tag k="website" v="www.reidoimovel.com.br"/>
+    <tag k="website" v="https://www.reidoimovel.com.br/"/>
   </node>
   <node id="11879643149" lat="-34.6082437" lon="-58.3721667" version="3" timestamp="2024-05-06T03:16:01Z" changeset="150944962" uid="2104834" user="Igor Bubelov">
     <tag k="check_date" v="2024-05-04"/>
@@ -508,23 +508,6 @@
     <tag k="shop" v="beauty"/>
     <tag k="top_ele" v="35.73"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="11914028975" lat="38.7405883" lon="-9.1460479" version="2" timestamp="2024-05-17T19:09:10Z" changeset="151468642" uid="21527057" user="Saunamo">
-    <tag k="addr:city" v="Lisboa"/>
-    <tag k="addr:housenumber" v="50"/>
-    <tag k="addr:postcode" v="1050-196"/>
-    <tag k="addr:street" v="Avenida da República"/>
-    <tag k="addr:unit" v="2"/>
-    <tag k="name" v="Saunamo"/>
-    <tag k="payment::onchain" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="phone" v="+351961200078"/>
-    <tag k="shop" v="business_headquarters"/>
-    <tag k="survey:date" v="2024-05-17"/>
-    <tag k="website" v="www.saunamo.pt"/>
   </node>
   <node id="11914760021" lat="-12.8729491" lon="-38.3028725" version="1" timestamp="2024-05-18T03:18:08Z" changeset="151476928" uid="21451889" user="ShelbyBTC">
     <tag k="addr:city" v="Lauro de Freitas"/>
