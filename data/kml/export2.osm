@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-19T05:25:11Z"/>
+<meta osm_base="2024-05-20T05:26:14Z"/>
 
   <node id="740239576" lat="49.0745039" lon="-121.9750410" version="3" timestamp="2024-05-10T22:26:53Z" changeset="151166194" uid="21471818" user="Michael Degroot">
     <tag k="addr:city" v="Cultus Lake"/>
@@ -530,6 +530,25 @@
     <tag k="phone" v="71985120466"/>
     <tag k="survey:date" v="2024-05-10"/>
     <tag k="website" v="https://www.instagram.com/hibridacervejaria/"/>
+  </node>
+  <node id="11917815340" lat="-12.5773224" lon="-38.0089155" version="1" timestamp="2024-05-19T13:47:46Z" changeset="151535074" uid="21451889" user="ShelbyBTC">
+    <tag k="addr:city" v="Mata de São João"/>
+    <tag k="addr:postcode" v="48280-000"/>
+    <tag k="addr:street" v="Alameda do Sol"/>
+    <tag k="addr:suburb" v="Praia do Forte"/>
+    <tag k="amenity" v="bicycle_rental"/>
+    <tag k="check_date" v="2024-05-10"/>
+    <tag k="check_date:currency:XBT" v="2024-05-10"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Tour na Vila, Passeios e Eventos.&#x0a;Bicitáxi, Ecotáxi, Cicloriquixá."/>
+    <tag k="name" v="Everton (BICITÁXI)"/>
+    <tag k="opening_hours" v="Seg-Dom 08:00H-19:00H"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="71991081383"/>
+    <tag k="survey:date" v="2024-05-10"/>
   </node>
 
 </osm>
