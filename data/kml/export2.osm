@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-21T05:25:02Z"/>
+<meta osm_base="2024-05-22T05:27:16Z"/>
 
   <node id="740239576" lat="49.0745039" lon="-121.9750410" version="3" timestamp="2024-05-10T22:26:53Z" changeset="151166194" uid="21471818" user="Michael Degroot">
     <tag k="addr:city" v="Cultus Lake"/>
@@ -42,6 +42,26 @@
     <tag k="survey:date" v="2024-04-18"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.pangeli.co.za/"/>
+  </node>
+  <node id="7742339027" lat="41.8570524" lon="-69.9862783" version="2" timestamp="2024-05-21T16:56:06Z" changeset="151638480" uid="21554549" user="KGP200">
+    <tag k="addr:city" v="North Eastham"/>
+    <tag k="addr:housenumber" v="4550"/>
+    <tag k="addr:postcode" v="02651"/>
+    <tag k="addr:state" v="MA"/>
+    <tag k="addr:street" v="State Highway"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="name" v="Town Center Wine &amp; Spirits"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="508 255 3660"/>
+    <tag k="shop" v="alcohol"/>
+    <tag k="survey:date" v="2024-05-21"/>
   </node>
   <node id="10832139905" lat="-12.5781445" lon="-38.0057687" version="4" timestamp="2024-05-18T02:36:30Z" changeset="151476569" uid="21451889" user="ShelbyBTC">
     <tag k="addr:city" v="Mata de São João"/>
@@ -549,6 +569,22 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="71991081383"/>
     <tag k="survey:date" v="2024-05-10"/>
+  </node>
+  <node id="11922132263" lat="-29.5446746" lon="30.3004177" version="2" timestamp="2024-05-21T12:39:28Z" changeset="151626676" uid="21301664" user="yBitcoinza">
+    <tag k="addr:city" v="Hilton"/>
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="3245"/>
+    <tag k="addr:street" v="Hilton Avenue"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date" v="2024-05-21"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Station Stop Mobile Coffee"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="0832893094"/>
+    <tag k="website" v="dave@countryground.co.za"/>
   </node>
 
 </osm>
