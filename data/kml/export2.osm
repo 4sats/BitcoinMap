@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-22T05:27:16Z"/>
+<meta osm_base="2024-05-23T05:27:06Z"/>
 
   <node id="740239576" lat="49.0745039" lon="-121.9750410" version="3" timestamp="2024-05-10T22:26:53Z" changeset="151166194" uid="21471818" user="Michael Degroot">
     <tag k="addr:city" v="Cultus Lake"/>
@@ -16,6 +16,27 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+1-604-846-1120"/>
     <tag k="website" v="https://www.maarsburgerbar.com/"/>
+  </node>
+  <node id="4470421146" lat="52.1355195" lon="5.5919043" version="4" timestamp="2024-05-22T12:30:17Z" changeset="151674260" uid="21561211" user="Store of Value">
+    <tag k="addr:city" v="Barneveld"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="3772AH"/>
+    <tag k="addr:street" v="Christiaan Huygenslaan"/>
+    <tag k="clothes" v="bitcoin_merchandise;bitcoin_apparel;women;men;children;socks;babies"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Store of Value"/>
+    <tag k="opening_hours" v="&quot;By appointment&quot;"/>
+    <tag k="operator" v="Store of Value"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="source" v="BAG"/>
+    <tag k="source:date" v="2016-10-29"/>
+    <tag k="website" v="https://storeofvalue.eu"/>
   </node>
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
