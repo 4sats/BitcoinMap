@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-24T05:25:04Z"/>
+<meta osm_base="2024-05-25T05:24:29Z"/>
 
   <node id="740239576" lat="49.0745039" lon="-121.9750410" version="3" timestamp="2024-05-10T22:26:53Z" changeset="151166194" uid="21471818" user="Michael Degroot">
     <tag k="addr:city" v="Cultus Lake"/>
@@ -606,6 +606,41 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="0832893094"/>
     <tag k="website" v="dave@countryground.co.za"/>
+  </node>
+  <node id="11931355839" lat="-21.5416979" lon="-49.8474930" version="3" timestamp="2024-05-24T19:40:30Z" changeset="151786137" uid="21579711" user="Espaço Vip">
+    <tag k="addr:city" v="Promissão"/>
+    <tag k="addr:housenumber" v="388"/>
+    <tag k="addr:postcode" v="16375-118"/>
+    <tag k="addr:street" v="Rua Maria Reginato"/>
+    <tag k="addr:suburb" v="Morumbi"/>
+    <tag k="male" v="yes"/>
+    <tag k="name" v="Espaço Vip"/>
+    <tag k="opening_hours" v="08:00 as 11:30 | 13:00 as 18:30"/>
+    <tag k="operator" v="Felipe"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+5514991306410"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="11931703054" lat="48.2288567" lon="15.6330457" version="3" timestamp="2024-05-24T21:46:25Z" changeset="151789336" uid="21580425" user="Elektro Tankstelle Kremserberg">
+    <tag k="access" v="customers"/>
+    <tag k="amenity" v="charging_station"/>
+    <tag k="brand" v="Fronius Wattpilot Typ 2 11KW"/>
+    <tag k="capacity" v="11KW"/>
+    <tag k="charge" v="0.22€ / KWH"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="fee" v="yes"/>
+    <tag k="operator" v="Privat"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
   </node>
 
 </osm>
