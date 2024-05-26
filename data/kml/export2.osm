@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-25T05:24:29Z"/>
+<meta osm_base="2024-05-26T05:24:13Z"/>
 
   <node id="740239576" lat="49.0745039" lon="-121.9750410" version="3" timestamp="2024-05-10T22:26:53Z" changeset="151166194" uid="21471818" user="Michael Degroot">
     <tag k="addr:city" v="Cultus Lake"/>
@@ -83,6 +83,26 @@
     <tag k="phone" v="508 255 3660"/>
     <tag k="shop" v="alcohol"/>
     <tag k="survey:date" v="2024-05-21"/>
+  </node>
+  <node id="10830107010" lat="-12.5777920" lon="-38.0048659" version="3" timestamp="2024-05-25T22:32:28Z" changeset="151830403" uid="21451889" user="ShelbyBTC">
+    <tag k="addr:city" v="Mata de São João"/>
+    <tag k="addr:postcode" v="48280-000"/>
+    <tag k="addr:street" v="Av ACM, Condominio Porto das Baleias"/>
+    <tag k="addr:suburb" v="Praia do Forte"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2024-05-10"/>
+    <tag k="check_date:currency:XBT" v="2024-05-10"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Tuga Burger Artesanais!"/>
+    <tag k="name" v="Tuga Burger Artesanais"/>
+    <tag k="opening_hours" v="Seg-Ter-Qui-Sex-Sab-Dom 17:00h-00:00h"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="(71) 99961-0212"/>
+    <tag k="survey:date" v="2024-05-10"/>
+    <tag k="website" v="https://www.instagram.com/tuga_burger/"/>
   </node>
   <node id="10832139905" lat="-12.5781445" lon="-38.0057687" version="4" timestamp="2024-05-18T02:36:30Z" changeset="151476569" uid="21451889" user="ShelbyBTC">
     <tag k="addr:city" v="Mata de São João"/>
@@ -607,7 +627,7 @@
     <tag k="phone" v="0832893094"/>
     <tag k="website" v="dave@countryground.co.za"/>
   </node>
-  <node id="11931355839" lat="-21.5416979" lon="-49.8474930" version="3" timestamp="2024-05-24T19:40:30Z" changeset="151786137" uid="21579711" user="Espaço Vip">
+  <node id="11931355839" lat="-21.5417114" lon="-49.8475095" version="4" timestamp="2024-05-25T15:20:43Z" changeset="151816423" uid="21584977" user="AlefBTC">
     <tag k="addr:city" v="Promissão"/>
     <tag k="addr:housenumber" v="388"/>
     <tag k="addr:postcode" v="16375-118"/>
@@ -641,6 +661,24 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:notes" v="yes"/>
     <tag k="payment:paypal" v="yes"/>
+  </node>
+  <node id="11933974124" lat="-12.5777321" lon="-38.0032195" version="1" timestamp="2024-05-25T23:34:43Z" changeset="151831500" uid="21451889" user="ShelbyBTC">
+    <tag k="addr:city" v="Mata de São João"/>
+    <tag k="addr:housenumber" v="268"/>
+    <tag k="addr:postcode" v="48280-000"/>
+    <tag k="addr:street" v="AV Antônio Carlos Mgalhães"/>
+    <tag k="addr:suburb" v="Praia do Forte"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2024-05-10"/>
+    <tag k="check_date:currency:XBT" v="2024-05-10"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Acarajé da Marcia"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="(71) 99612-2836"/>
+    <tag k="survey:date" v="2024-05-10"/>
   </node>
 
 </osm>
