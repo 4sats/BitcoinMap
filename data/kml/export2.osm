@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-26T05:24:13Z"/>
+<meta osm_base="2024-05-27T05:25:16Z"/>
 
-  <node id="740239576" lat="49.0745039" lon="-121.9750410" version="3" timestamp="2024-05-10T22:26:53Z" changeset="151166194" uid="21471818" user="Michael Degroot">
+  <node id="740239500" lat="49.0744974" lon="-121.9751450" version="3" timestamp="2024-05-26T13:16:57Z" changeset="151851267" uid="503610" user="asoltys">
+    <tag k="addr:city" v="Cultus Lake"/>
+    <tag k="addr:housenumber" v="4125"/>
+    <tag k="addr:postcode" v="V2R 5B7"/>
+    <tag k="addr:province" v="BC"/>
+    <tag k="addr:street" v="Columbia Valley Highway"/>
+    <tag k="addr:unit" v="7"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="shave_ice"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Huis Shave Ice"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="website" v="https://huisshaveice.com/"/>
+  </node>
+  <node id="740239576" lat="49.0745039" lon="-121.9750410" version="4" timestamp="2024-05-26T13:16:03Z" changeset="151851227" uid="503610" user="asoltys">
     <tag k="addr:city" v="Cultus Lake"/>
     <tag k="addr:housenumber" v="4125"/>
     <tag k="addr:postcode" v="V2R 5B7"/>
@@ -12,8 +29,12 @@
     <tag k="addr:unit" v="6"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="burger"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Maar's Burger Bar"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+1-604-846-1120"/>
     <tag k="website" v="https://www.maarsburgerbar.com/"/>
   </node>
@@ -679,6 +700,23 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="(71) 99612-2836"/>
     <tag k="survey:date" v="2024-05-10"/>
+  </node>
+  <node id="11935539461" lat="37.4893848" lon="127.0090822" version="8" timestamp="2024-05-26T20:58:16Z" changeset="151869957" uid="7522075" user="Rockedf">
+    <tag k="addr:city" v="서울특별시 서초구"/>
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:postcode" v="06648"/>
+    <tag k="addr:street" v="반포대로"/>
+    <tag k="addr:unit" v="7층"/>
+    <tag k="check_date:currency:XBT" v="2024-05-26"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="청백 공동법률사무소(변호사 도진수)"/>
+    <tag k="office" v="lawyer"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+82025213320"/>
+    <tag k="website" v="http://www.cheongbaek.co.kr"/>
   </node>
 
 </osm>
