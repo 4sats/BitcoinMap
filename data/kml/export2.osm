@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-28T05:25:30Z"/>
+<meta osm_base="2024-05-29T05:25:59Z"/>
 
+  <node id="619007597" lat="-12.5780413" lon="-38.0041699" version="6" timestamp="2024-05-28T22:35:52Z" changeset="151965476" uid="21451889" user="ShelbyBTC">
+    <tag k="addr:city" v="Mata de São João"/>
+    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:postcode" v="48280-000"/>
+    <tag k="addr:street" v="Rua da Aurora"/>
+    <tag k="addr:suburb" v="Açu da Torre"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2024-05-10"/>
+    <tag k="check_date:currency:XBT" v="2024-05-10"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Comida Regional"/>
+    <tag k="name" v="Açu da Torre - Restaurante"/>
+    <tag k="opening_hours" v="Seg-Dom"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2024-05-10"/>
+  </node>
   <node id="740239500" lat="49.0744974" lon="-121.9751450" version="3" timestamp="2024-05-26T13:16:57Z" changeset="151851267" uid="503610" user="asoltys">
     <tag k="addr:city" v="Cultus Lake"/>
     <tag k="addr:housenumber" v="4125"/>
@@ -37,6 +57,41 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+1-604-846-1120"/>
     <tag k="website" v="https://www.maarsburgerbar.com/"/>
+  </node>
+  <node id="1675745537" lat="47.3912392" lon="8.0473368" version="16" timestamp="2024-05-29T04:32:22Z" changeset="151970177" uid="7522075" user="Rockedf">
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="5000"/>
+    <tag k="addr:street" v="Bahnhofstrasse"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="check_date:currency:XBT" v="2024-05-29"/>
+    <tag k="craft" v="jeweller"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:CHF" v="yes"/>
+    <tag k="currency:ETH" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="info@gygax.com"/>
+    <tag k="name" v="Gygax Uhren Schmuck Erleben AG"/>
+    <tag k="old_name" v="Gygax Schneeberger"/>
+    <tag k="opening_hours" v="Mo 13:30-18:30; Tu-Fr 10:00-18:30; Sa 10:00-17:00"/>
+    <tag k="operator" v="Unternehmen"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:jcb" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:unionpay" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_electron" v="yes"/>
+    <tag k="phone" v="+41 62 832 52 52"/>
+    <tag k="shop" v="jewelry"/>
+    <tag k="start_date" v="1942"/>
+    <tag k="website" v="https://gygax.com"/>
   </node>
   <node id="4470421146" lat="52.1355195" lon="5.5919043" version="4" timestamp="2024-05-22T12:30:17Z" changeset="151674260" uid="21561211" user="Store of Value">
     <tag k="addr:city" v="Barneveld"/>
@@ -105,6 +160,28 @@
     <tag k="shop" v="alcohol"/>
     <tag k="survey:date" v="2024-05-21"/>
   </node>
+  <node id="8268415420" lat="-12.5772790" lon="-38.0081938" version="4" timestamp="2024-05-29T02:09:11Z" changeset="151968299" uid="21451889" user="ShelbyBTC">
+    <tag k="addr:city" v="Mata de São João"/>
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:postcode" v="48280-000"/>
+    <tag k="addr:street" v="Av ACM, Condomínio Porto das Baleias LOJA 5"/>
+    <tag k="addr:suburb" v="Praia do Forte"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date" v="2024-05-10"/>
+    <tag k="check_date:currency:XBT" v="2024-05-10"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="LOUNGE e RESTAURANTE&#x0a;• 🍹| a partir das 14h•&#x0a;• Jantar| a partir das 18h•&#x0a;Drinks |Sushis| Vinhos🍷"/>
+    <tag k="name" v="Play Sushi Lounge Bar"/>
+    <tag k="opening_hours" v="Seg-Dom 14:00h-00:00h"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+55 (71) 99616-8684"/>
+    <tag k="survey:date" v="2024-05-10"/>
+    <tag k="website" v="https://www.instagram.com/playadegapf/"/>
+  </node>
   <node id="10830107010" lat="-12.5777920" lon="-38.0048659" version="3" timestamp="2024-05-25T22:32:28Z" changeset="151830403" uid="21451889" user="ShelbyBTC">
     <tag k="addr:city" v="Mata de São João"/>
     <tag k="addr:postcode" v="48280-000"/>
@@ -145,6 +222,28 @@
     <tag k="shop" v="tobacco"/>
     <tag k="survey:date" v="2024-05-10"/>
     <tag k="website" v="https://www.instagram.com/pretovelho_tabacaria?igsh=em1nMTRwNmhqdjZt"/>
+  </node>
+  <node id="10832140005" lat="-12.5776799" lon="-38.0056292" version="3" timestamp="2024-05-28T22:35:52Z" changeset="151965476" uid="21451889" user="ShelbyBTC">
+    <tag k="addr:city" v="Mata de São João"/>
+    <tag k="addr:housenumber" v="371"/>
+    <tag k="addr:postcode" v="48280-000"/>
+    <tag k="addr:street" v="Av ACM, Condomínio Porto das Baleias"/>
+    <tag k="addr:suburb" v="Praia do Forte"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2024-05-10"/>
+    <tag k="check_date:currency:XBT" v="2024-05-10"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Bolinhos de peixe e caipirinhas, com futebol na tevê e música ao vivo, em ambiente rústico e descontraído."/>
+    <tag k="name" v="Restaurante Café - Made in Bahia"/>
+    <tag k="opening_hours" v="Seg-Qui 11:00h-22:00h Sex-Sab 11:00h-23:00h Dom 11:00h-22:00h"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="(71) 99209-6524"/>
+    <tag k="survey:date" v="2024-05-10"/>
+    <tag k="website" v="www.restaurantemadeinbahia.com.br"/>
   </node>
   <node id="11465312823" lat="42.6490429" lon="23.3796484" version="2" timestamp="2024-04-26T15:23:55Z" changeset="150544559" uid="3754310" user="rhhs">
     <tag k="craft" v="electronics_repair"/>
@@ -683,6 +782,24 @@
     <tag k="payment:notes" v="yes"/>
     <tag k="payment:paypal" v="yes"/>
   </node>
+  <node id="11933957370" lat="-12.5775374" lon="-38.0080314" version="2" timestamp="2024-05-29T02:09:11Z" changeset="151968299" uid="21451889" user="ShelbyBTC">
+    <tag k="addr:city" v="Mata de São João"/>
+    <tag k="addr:housenumber" v="111"/>
+    <tag k="addr:postcode" v="48280-000"/>
+    <tag k="addr:street" v="Av ACM, Condomínio Porto das Baleias"/>
+    <tag k="addr:suburb" v="Praia do Forte"/>
+    <tag k="amenity" v="ice_cream"/>
+    <tag k="check_date" v="2024-05-10"/>
+    <tag k="check_date:currency:XBT" v="2024-05-10"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Gelaguela Gelateria"/>
+    <tag k="opening_hours" v="Seg-Dom 9:00h-22:00h"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2024-05-10"/>
+  </node>
   <node id="11933974124" lat="-12.5777321" lon="-38.0032195" version="1" timestamp="2024-05-25T23:34:43Z" changeset="151831500" uid="21451889" user="ShelbyBTC">
     <tag k="addr:city" v="Mata de São João"/>
     <tag k="addr:housenumber" v="268"/>
@@ -717,6 +834,47 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+82025213320"/>
     <tag k="website" v="http://www.cheongbaek.co.kr"/>
+  </node>
+  <node id="11940700871" lat="-12.5740965" lon="-37.9995634" version="1" timestamp="2024-05-28T22:35:52Z" changeset="151965476" uid="21451889" user="ShelbyBTC">
+    <tag k="addr:city" v="Mata de São João"/>
+    <tag k="addr:place" v="Açu da Torre"/>
+    <tag k="addr:suburb" v="Praia do Forte"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="check_date" v="2024-05-10"/>
+    <tag k="check_date:currency:XBT" v="2024-05-10"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Praia do Forte-Ba 📍&#x0a;Piscinas Naturais 🏝️&#x0a;Praia do Chapéu 🏖️"/>
+    <tag k="name" v="Barraca do Christian"/>
+    <tag k="opening_hours" v="Seg-Dom"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="(71) 99640-8096"/>
+    <tag k="survey:date" v="2024-05-10"/>
+    <tag k="website" v="https://www.instagram.com/barracadocristian/?igsh=cmo1amg1aDJndXd3"/>
+  </node>
+  <node id="11940700873" lat="-12.5777955" lon="-38.0056393" version="1" timestamp="2024-05-28T22:35:52Z" changeset="151965476" uid="21451889" user="ShelbyBTC">
+    <tag k="addr:city" v="Mata de São João"/>
+    <tag k="addr:housenumber" v="371"/>
+    <tag k="addr:postcode" v="48280-000"/>
+    <tag k="addr:street" v="Av ACM, Condomínio Porto das Baleias"/>
+    <tag k="addr:suburb" v="Praia do Forte"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2024-05-10"/>
+    <tag k="check_date:currency:XBT" v="2024-05-10"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Pizzaria sem rótulos, sem origem definida, inspirada em referências tradicionais com um toque nômade especial."/>
+    <tag k="name" v="NOMAD Pizzaria"/>
+    <tag k="opening_hours" v="Seg-Qua-Qui-Sex-Sab-Dom-12:00h-22:00h Qui-18:00h-22:00h"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="(71) 99209-6524"/>
+    <tag k="survey:date" v="2024-05-10"/>
+    <tag k="website" v="https://www.nomadpizzaria.com.br/"/>
   </node>
 
 </osm>
