@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-30T05:25:37Z"/>
+<meta osm_base="2024-05-31T05:27:13Z"/>
 
   <node id="619007597" lat="-12.5780413" lon="-38.0041699" version="6" timestamp="2024-05-28T22:35:52Z" changeset="151965476" uid="21451889" user="ShelbyBTC">
     <tag k="addr:city" v="Mata de São João"/>
@@ -301,6 +301,28 @@
     <tag k="survey:date" v="2024-04-15"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://saltcafe.co.za/"/>
+  </node>
+  <node id="11828511200" lat="-29.5022827" lon="31.2378178" version="3" timestamp="2024-05-30T16:12:54Z" changeset="152043660" uid="21301664" user="yBitcoinza">
+    <tag k="addr:city" v="Salt Rock"/>
+    <tag k="addr:housenumber" v="Shop 13"/>
+    <tag k="addr:postcode" v="4391"/>
+    <tag k="addr:street" v="Basil Hulett Drive"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date" v="2024-04-18"/>
+    <tag k="cuisine" v="coffee_shop;sandwich;cake;juice;smoothie;wrap"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="yes"/>
+    <tag k="name" v="Salt Rock Coffee Company"/>
+    <tag k="opening_hours" v="Mo-Su 06:30-16:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="phone" v="0828255127"/>
+    <tag k="survey:date" v="2024-04-18"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="www.saltrockcoffee.co.za"/>
   </node>
   <node id="11831577178" lat="-19.8644171" lon="-47.4472592" version="5" timestamp="2024-04-20T04:18:42Z" changeset="150247064" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Sacramento"/>
@@ -899,6 +921,42 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="website" v="https://www.airbnb.com/rooms/1152703753991665367"/>
+  </node>
+  <node id="11945817842" lat="54.5123028" lon="18.5383887" version="2" timestamp="2024-05-31T03:39:44Z" changeset="152060523" uid="21608971" user="Scriniaver">
+    <tag k="addr:city" v="Gdynia"/>
+    <tag k="addr:floor" v="4"/>
+    <tag k="addr:housenumber" v="43"/>
+    <tag k="addr:postcode" v="81-395"/>
+    <tag k="addr:street" v="Władysława IV"/>
+    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:ETH" v="yes"/>
+    <tag k="currency:PLN" v="yes"/>
+    <tag k="email" v="gdynia@quark.house"/>
+    <tag k="name" v="Quark Kantor Bitcoin Gdynia"/>
+    <tag k="operator" v="Wolf Coin sp. z o.o."/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="phone" v="+48884 411 405"/>
+    <tag k="website" v="https://quark.house/kantory/kantor-bitcoin-quark-gdynia/"/>
+  </node>
+  <node id="11946670235" lat="54.5123374" lon="18.5384388" version="1" timestamp="2024-05-31T03:39:44Z" changeset="152060523" uid="21608971" user="Scriniaver">
+    <tag k="addr:city" v="Gdynia"/>
+    <tag k="addr:housenumber" v="43/404 (czwarte piętro)"/>
+    <tag k="addr:postcode" v="81-395"/>
+    <tag k="addr:street" v="Władysława IV"/>
+    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:ETH" v="yes"/>
+    <tag k="currency:USDC" v="yes"/>
+    <tag k="currency:USDT" v="yes"/>
+    <tag k="name" v="Quark Kantor Bitcoin Gdynia"/>
+    <tag k="operator" v="Wolf Coin sp. z o.o."/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="start_date" v="2024-05-20"/>
   </node>
 
 </osm>
