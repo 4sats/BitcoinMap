@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-07T05:26:44Z"/>
+<meta osm_base="2024-06-08T05:25:15Z"/>
 
   <node id="619007597" lat="-12.5780413" lon="-38.0041699" version="6" timestamp="2024-05-28T22:35:52Z" changeset="151965476" uid="21451889" user="ShelbyBTC">
     <tag k="addr:city" v="Mata de São João"/>
@@ -686,19 +686,6 @@
     <tag k="survey:date" v="2024-05-10"/>
     <tag k="website" v="https://www.instagram.com/congeladosdegoias/?next=%2F"/>
   </node>
-  <node id="11897085215" lat="47.4643179" lon="19.0245983" version="1" timestamp="2024-05-11T16:28:17Z" changeset="151193961" uid="906236" user="urbalazs">
-    <tag k="amenity" v="atm"/>
-    <tag k="branch" v="1119 Budapest, Hadak útja 1."/>
-    <tag k="brand" v="BlockChainge"/>
-    <tag k="contact:email" v="info@blockchange.hu"/>
-    <tag k="contact:phone" v="+36 70 478 0722"/>
-    <tag k="model" v="BATM3"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:litecoin" v="yes"/>
-    <tag k="ref:HU:vending_reg" v="U86636149"/>
-    <tag k="ref:internal" v="BT301639"/>
-  </node>
   <node id="11905085518" lat="-29.5025363" lon="31.2378336" version="2" timestamp="2024-05-15T04:35:38Z" changeset="151339745" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Salt Rock"/>
     <tag k="addr:housenumber" v="61"/>
@@ -1006,87 +993,6 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="website" v="https://www.airbnb.com/rooms/1152703753991665367"/>
   </node>
-  <node id="11945817842" lat="54.5123488" lon="18.5384710" version="3" timestamp="2024-05-31T13:38:27Z" changeset="152081856" uid="21599054" user="Lupo di Mare">
-    <tag k="addr:city" v="Gdynia"/>
-    <tag k="addr:country" v="PL"/>
-    <tag k="addr:floor" v="4"/>
-    <tag k="addr:housenumber" v="43"/>
-    <tag k="addr:postcode" v="81-395"/>
-    <tag k="addr:street" v="Władysława IV"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:ETH" v="yes"/>
-    <tag k="currency:PLN" v="yes"/>
-    <tag k="email" v="gdynia@quark.house"/>
-    <tag k="name" v="Quark Kantor Bitcoin Gdynia"/>
-    <tag k="opening_hours" v="Mo-We 10:00-18:00, Fr 10:00 - 18:00, Sa 10:00-14:00"/>
-    <tag k="operator" v="Wolf Coin sp. z o.o."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="phone" v="+48884 411 405"/>
-    <tag k="website" v="https://quark.house/kantory/kantor-bitcoin-quark-gdynia/"/>
-  </node>
-  <node id="11947603496" lat="52.4008897" lon="20.9405917" version="1" timestamp="2024-05-31T11:00:54Z" changeset="152075138" uid="21611387" user="Quark Kantory Bitcoin">
-    <tag k="addr:city" v="Legionowo"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="05-120"/>
-    <tag k="addr:street" v="Tadeusza Kościuszki"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="name" v="Kantor Bitcoin Quark Legionowo"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:tether" v="yes"/>
-  </node>
-  <node id="11947617396" lat="49.6247501" lon="20.6981528" version="1" timestamp="2024-05-31T11:05:08Z" changeset="152075356" uid="21611387" user="Quark Kantory Bitcoin">
-    <tag k="addr:city" v="Nowy Sącz"/>
-    <tag k="addr:housenumber" v="38/6, piętro 2"/>
-    <tag k="addr:postcode" v="33-300"/>
-    <tag k="addr:street" v="Lwowska"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="name" v="Kantor Bitcoin Quark Nowy Sącz"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:tether" v="yes"/>
-  </node>
-  <node id="11947626964" lat="49.4804637" lon="20.0345625" version="1" timestamp="2024-05-31T11:14:04Z" changeset="152075767" uid="21611387" user="Quark Kantory Bitcoin">
-    <tag k="addr:city" v="Nowy Targ"/>
-    <tag k="addr:housenumber" v="73"/>
-    <tag k="addr:postcode" v="34-400"/>
-    <tag k="addr:street" v="Ogrodowa"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="name" v="Kantor Bitcoin Quark Nowy Targ"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:tether" v="yes"/>
-  </node>
-  <node id="11947629530" lat="52.1680578" lon="22.2790424" version="1" timestamp="2024-05-31T11:20:27Z" changeset="152076059" uid="21611387" user="Quark Kantory Bitcoin">
-    <tag k="addr:city" v="Siedlce"/>
-    <tag k="addr:housenumber" v="9 lok. 205"/>
-    <tag k="addr:postcode" v="08-110"/>
-    <tag k="addr:street" v="Józefa Piłsudskiego"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="name" v="Kantor Bitcoin Quark Siedlce"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:tether" v="yes"/>
-  </node>
-  <node id="11947631050" lat="54.3563975" lon="18.6500904" version="1" timestamp="2024-05-31T11:17:40Z" changeset="152075916" uid="21611387" user="Quark Kantory Bitcoin">
-    <tag k="addr:city" v="Gdańsk"/>
-    <tag k="addr:housenumber" v="11  lok. 2/3, piętro 6"/>
-    <tag k="addr:postcode" v="80-890"/>
-    <tag k="addr:street" v="Jana Heweliusza"/>
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="name" v="Kantor Bitcoin Quark Gdańsk"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:tether" v="yes"/>
-  </node>
   <node id="11949004708" lat="-20.1516421" lon="-44.9085838" version="3" timestamp="2024-06-04T20:49:16Z" changeset="152261791" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Divinopolis"/>
     <tag k="addr:housenumber" v="511"/>
@@ -1167,19 +1073,6 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="71 99921-3421"/>
     <tag k="survey:date" v="2024-05-10"/>
-  </node>
-  <node id="11953274898" lat="45.8069671" lon="9.0877012" version="2" timestamp="2024-06-03T16:56:31Z" changeset="152208960" uid="132325" user="Andrea Steffanoni">
-    <tag k="addr:city" v="Como"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="22100"/>
-    <tag k="addr:street" v="Via Giuseppe Sirtori"/>
-    <tag k="name" v="La Vecchia Chioderia"/>
-    <tag k="opening_hours" v="Tu-Th-Sa 8.00-13.00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="shop" v="seafood"/>
   </node>
   <node id="11958338974" lat="56.3489208" lon="-3.4055812" version="4" timestamp="2024-06-05T12:56:22Z" changeset="152287040" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="Bridge of Earn"/>
