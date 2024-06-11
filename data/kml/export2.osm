@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-10T05:26:22Z"/>
+<meta osm_base="2024-06-11T05:26:13Z"/>
 
   <node id="619007597" lat="-12.5780413" lon="-38.0041699" version="6" timestamp="2024-05-28T22:35:52Z" changeset="151965476" uid="21451889" user="Bitcoin Forte">
     <tag k="addr:city" v="Mata de São João"/>
@@ -161,6 +161,26 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.pangeli.co.za/"/>
   </node>
+  <node id="6666377311" lat="51.3429724" lon="12.3645026" version="9" timestamp="2024-06-10T11:17:52Z" changeset="152492627" uid="1787080" user="vv01f">
+    <tag k="addr:city" v="Leipzig"/>
+    <tag k="addr:country" v="DE"/>
+    <tag k="addr:floor" v="0"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="04109"/>
+    <tag k="addr:street" v="Thomasiusstraße"/>
+    <tag k="check_date" v="2024-05-29"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Greentime CBD Store"/>
+    <tag k="opening_hours" v="Mo-Sa 10:00-20:00"/>
+    <tag k="operator" v="CBD Greentime GmbH"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="phone" v="+49 341 68677723"/>
+    <tag k="shop" v="cannabis"/>
+    <tag k="website" v="https://cbd-greentime.de"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
   <node id="7389289989" lat="-12.5780345" lon="-38.0048315" version="4" timestamp="2024-06-10T00:39:11Z" changeset="152474678" uid="21451889" user="Bitcoin Forte">
     <tag k="addr:city" v="Mata de São João"/>
     <tag k="addr:housenumber" v="41"/>
@@ -225,7 +245,26 @@
     <tag k="survey:date" v="2024-05-10"/>
     <tag k="website" v="https://www.instagram.com/playadegapf/"/>
   </node>
-  <node id="10830107009" lat="-12.5779119" lon="-38.0048885" version="2" timestamp="2024-06-02T00:39:29Z" changeset="152142153" uid="21451889" user="Bitcoin Forte">
+  <node id="9588409879" lat="51.3663115" lon="12.3497000" version="4" timestamp="2024-06-10T11:18:10Z" changeset="152492634" uid="1787080" user="vv01f">
+    <tag k="addr:city" v="Leipzig"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="04159"/>
+    <tag k="addr:street" v="Huygensstraße"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/profile.php?id=100047948272189"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/cbd_greentime_leipzig/"/>
+    <tag k="email" v="info@cbd-greentime.de"/>
+    <tag k="image" v="https://www.cbd-greentime.com/wp-content/uploads/2020/02/header_mobil.png"/>
+    <tag k="name" v="CBD Greentime"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-19:00"/>
+    <tag k="operator" v="CBD Greentime GmbH"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="shop" v="cannabis"/>
+    <tag k="website" v="https://www.cbd-greentime.com/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10830107009" lat="-12.5779119" lon="-38.0048885" version="3" timestamp="2024-06-11T03:03:29Z" changeset="152521677" uid="21451889" user="Bitcoin Forte">
     <tag k="addr:city" v="Mata de São João"/>
     <tag k="addr:housenumber" v="15"/>
     <tag k="addr:postcode" v="48280-000"/>
@@ -235,7 +274,7 @@
     <tag k="check_date" v="2024-05-10"/>
     <tag k="check_date:currency:XBT" v="2024-05-10"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Shotz"/>
+    <tag k="name" v="Shotz Sport Bar"/>
     <tag k="opening_hours" v="Qua-Dom 19:00h-00:00h"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
@@ -263,27 +302,6 @@
     <tag k="phone" v="(71) 99961-0212"/>
     <tag k="survey:date" v="2024-05-10"/>
     <tag k="website" v="https://www.instagram.com/tuga_burger/"/>
-  </node>
-  <node id="10832139905" lat="-12.5781445" lon="-38.0057687" version="4" timestamp="2024-05-18T02:36:30Z" changeset="151476569" uid="21451889" user="Bitcoin Forte">
-    <tag k="addr:city" v="Mata de São João"/>
-    <tag k="addr:housenumber" v="118"/>
-    <tag k="addr:postcode" v="48280-000"/>
-    <tag k="addr:street" v="Av Antônio Carlos Magalhães, Condomínio Porto das Baleias"/>
-    <tag k="addr:suburb" v="Praia do Forte"/>
-    <tag k="check_date" v="2024-05-10"/>
-    <tag k="check_date:currency:XBT" v="2024-05-10"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Da terra do Axé!"/>
-    <tag k="name" v="Preto Velho"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="51991669966"/>
-    <tag k="shop" v="tobacco"/>
-    <tag k="survey:date" v="2024-05-10"/>
-    <tag k="website" v="https://www.instagram.com/pretovelho_tabacaria?igsh=em1nMTRwNmhqdjZt"/>
   </node>
   <node id="10832140005" lat="-12.5776799" lon="-38.0056292" version="3" timestamp="2024-05-28T22:35:52Z" changeset="151965476" uid="21451889" user="Bitcoin Forte">
     <tag k="addr:city" v="Mata de São João"/>
@@ -350,6 +368,45 @@
     <tag k="survey:date" v="2024-05-10"/>
     <tag k="website" v="https://www.forsunbrasil.com.br/"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10833765908" lat="-12.5765719" lon="-38.0042513" version="3" timestamp="2024-06-11T05:02:03Z" changeset="152523759" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Mata de São João"/>
+    <tag k="addr:postcode" v="48280-000"/>
+    <tag k="addr:street" v="Beco da Felicidade"/>
+    <tag k="addr:suburb" v="Praia do Forte"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2024-06-10"/>
+    <tag k="check_date:currency:XBT" v="2024-06-10"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="As melhores lembranças são feitas de boa comida, bons amigos e bons momentos.&#x0a;Self-service, à lá carte, buffet para eventos sociais e corporativos."/>
+    <tag k="name" v="Maná do Forte"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+55 71 98481-1094"/>
+    <tag k="survey:date" v="2024-06-10"/>
+    <tag k="website" v="https://www.instagram.com/restaurantemanadoforte/?igsh=aWx0ZTIxbWJweW80"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="10833765909" lat="-12.5766082" lon="-38.0042305" version="3" timestamp="2024-06-11T05:02:03Z" changeset="152523759" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Mata de São João"/>
+    <tag k="addr:postcode" v="48280-000"/>
+    <tag k="addr:street" v="Beco da Felicidade"/>
+    <tag k="addr:suburb" v="Praia do Forte"/>
+    <tag k="check_date" v="2024-05-10"/>
+    <tag k="check_date:currency:XBT" v="2024-05-10"/>
+    <tag k="clothes" v="women"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Loja Morena Tropicana"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="survey:date" v="2024-05-10"/>
+    <tag k="wheelchair" v="no"/>
   </node>
   <node id="11465312823" lat="42.6490429" lon="23.3796484" version="2" timestamp="2024-04-26T15:23:55Z" changeset="150544559" uid="3754310" user="rhhs">
     <tag k="craft" v="electronics_repair"/>
@@ -687,6 +744,26 @@
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="shop" v="supermarket"/>
     <tag k="twitter" v="btcfarmersmrkt"/>
+  </node>
+  <node id="11895211016" lat="-12.5775751" lon="-38.0081887" version="4" timestamp="2024-06-11T05:02:03Z" changeset="152523759" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Mata de São João"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:postcode" v="48280-000"/>
+    <tag k="addr:street" v="Av. Antônio Carlos Mglhães"/>
+    <tag k="addr:suburb" v="Praia do Forte"/>
+    <tag k="check_date" v="2024-06-10"/>
+    <tag k="check_date:currency:XBT" v="2024-06-10"/>
+    <tag k="description" v="Da terra do Axé!"/>
+    <tag k="name" v="Preto Velho Tabacaria e Charutaria"/>
+    <tag k="opening_hours" v="Seg-Qua-Qui-Sex-Sab-Dom 10:00H-00-00H Ter-fechado"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="(71) 99716-5750"/>
+    <tag k="shop" v="tobacco"/>
+    <tag k="survey:date" v="2024-06-10"/>
+    <tag k="website" v="https://www.instagram.com/pretovelho_tabacaria/?igsh=em1nMTRwNmhqdjZt"/>
   </node>
   <node id="11895352717" lat="-12.5770068" lon="-38.0049394" version="2" timestamp="2024-05-18T02:35:27Z" changeset="151476565" uid="21451889" user="Bitcoin Forte">
     <tag k="addr:city" v="Mata de São João"/>
@@ -1117,6 +1194,117 @@
     <tag k="shop" v="online_store"/>
     <tag k="survey:date" v="2024-06-05"/>
     <tag k="website" v="https://www.ebay.co.uk/usr/centerlabels_uk"/>
+  </node>
+  <node id="11969322300" lat="20.6621959" lon="-105.2515216" version="1" timestamp="2024-06-10T15:04:24Z" changeset="152502209" uid="21643632" user="Master Baiters Vapelicious">
+    <tag k="addr:city" v="puerto vallarta"/>
+    <tag k="addr:housenumber" v="L-3"/>
+    <tag k="addr:neighbourhood" v="frente a los yates"/>
+    <tag k="addr:postcode" v="48335"/>
+    <tag k="addr:state" v="jalisco"/>
+    <tag k="addr:street" v="Paseo de la Marina"/>
+    <tag k="name" v="Master Baiters Sportfishing &amp; Tackle  and  Vapelicios"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:dogecoin" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="phone" v="322 779 7571"/>
+    <tag k="shop" v="fishing"/>
+  </node>
+  <node id="11971099742" lat="-12.5776111" lon="-38.0042991" version="1" timestamp="2024-06-11T03:03:29Z" changeset="152521677" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Mata de São João"/>
+    <tag k="addr:postcode" v="48280-000"/>
+    <tag k="addr:street" v="Av ACM, Condominío Porto das Baleias"/>
+    <tag k="addr:suburb" v="Praia do Forte"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="check_date" v="2024-05-10"/>
+    <tag k="check_date:currency:XBT" v="2024-05-10"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Boteco do Israel"/>
+    <tag k="opening_hours" v="Seg-Dom"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2024-05-10"/>
+    <tag k="website" v="https://www.instagram.com/botecodoisraelof/"/>
+  </node>
+  <node id="11971099743" lat="-12.5779097" lon="-38.0048983" version="1" timestamp="2024-06-11T03:03:29Z" changeset="152521677" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Mata de São João"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="48280-000"/>
+    <tag k="addr:street" v="Beco do Arlindo"/>
+    <tag k="addr:suburb" v="Açu da Torre"/>
+    <tag k="check_date" v="2024-05-10"/>
+    <tag k="check_date:currency:XBT" v="2024-05-10"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Aluguel de Quartos"/>
+    <tag k="name" v="Casa Torres - Aluguel Apartamento"/>
+    <tag k="operator" v="Carol"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+55 71 8832-1416"/>
+    <tag k="survey:date" v="2024-05-10"/>
+    <tag k="tourism" v="guest_house"/>
+  </node>
+  <node id="11971196536" lat="-12.5754581" lon="-38.0206881" version="1" timestamp="2024-06-11T04:11:10Z" changeset="152522556" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Mata de São João"/>
+    <tag k="addr:postcode" v="48280000"/>
+    <tag k="addr:street" v="Condominío Praia do Castelo - Estrada Nova do Castelo"/>
+    <tag k="addr:suburb" v="Açu da Torre"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2024-06-10"/>
+    <tag k="check_date:currency:XBT" v="2024-06-10"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="BahiaXis - Hamburgueria"/>
+    <tag k="opening_hours" v="Qua-Dom 18:00h-22:00h"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+55 71 99700-6943"/>
+    <tag k="survey:date" v="2024-06-10"/>
+    <tag k="website" v="@bahiaxis"/>
+  </node>
+  <node id="11971260420" lat="-12.5774456" lon="-38.0040896" version="1" timestamp="2024-06-11T05:02:03Z" changeset="152523759" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Mata de São João"/>
+    <tag k="addr:postcode" v="48280-000"/>
+    <tag k="addr:street" v="Alameda do Sol"/>
+    <tag k="addr:suburb" v="Praia do Forte"/>
+    <tag k="check_date" v="2024-06-10"/>
+    <tag k="check_date:currency:XBT" v="2024-05-10"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Tererê Show"/>
+    <tag k="operator" v="Senhor Carlos"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+55 71 9913-9583"/>
+    <tag k="shop" v="craft"/>
+    <tag k="survey:date" v="2024-05-10"/>
+  </node>
+  <node id="11971284635" lat="-12.5779715" lon="-38.0030877" version="1" timestamp="2024-06-11T05:19:05Z" changeset="152524073" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Mata de São João"/>
+    <tag k="addr:postcode" v="48280-000"/>
+    <tag k="addr:suburb" v="Praia do Forte"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2024-06-10"/>
+    <tag k="check_date:currency:XBT" v="2024-05-10"/>
+    <tag k="cuisine" v="queijo_coalho"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Queijo Coalho do Valter (Ambulante)"/>
+    <tag k="operator" v="Valter"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+55 7199678-3975"/>
+    <tag k="survey:date" v="2024-05-10"/>
   </node>
 
 </osm>
