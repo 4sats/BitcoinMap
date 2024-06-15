@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-14T05:25:35Z"/>
+<meta osm_base="2024-06-15T05:26:15Z"/>
 
   <node id="4470421146" lat="52.1355195" lon="5.5919043" version="4" timestamp="2024-05-22T12:30:17Z" changeset="151674260" uid="21561211" user="Store of Value">
     <tag k="addr:city" v="Barneveld"/>
@@ -50,7 +50,7 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.pangeli.co.za/"/>
   </node>
-  <node id="6666377311" lat="51.3429724" lon="12.3645026" version="9" timestamp="2024-06-10T11:17:52Z" changeset="152492627" uid="1787080" user="vv01f">
+  <node id="6666377311" lat="51.3429724" lon="12.3645026" version="10" timestamp="2024-06-14T10:00:35Z" changeset="152668712" uid="1787080" user="vv01f">
     <tag k="addr:city" v="Leipzig"/>
     <tag k="addr:country" v="DE"/>
     <tag k="addr:floor" v="0"/>
@@ -62,6 +62,7 @@
     <tag k="name" v="Greentime CBD Store"/>
     <tag k="opening_hours" v="Mo-Sa 10:00-20:00"/>
     <tag k="operator" v="CBD Greentime GmbH"/>
+    <tag k="payment:XBT" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="no"/>
     <tag k="payment:lightning_contactless" v="no"/>
@@ -70,7 +71,7 @@
     <tag k="website" v="https://cbd-greentime.de"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="9588409879" lat="51.3663115" lon="12.3497000" version="4" timestamp="2024-06-10T11:18:10Z" changeset="152492634" uid="1787080" user="vv01f">
+  <node id="9588409879" lat="51.3663115" lon="12.3497000" version="5" timestamp="2024-06-14T10:01:51Z" changeset="152668763" uid="1787080" user="vv01f">
     <tag k="addr:city" v="Leipzig"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="04159"/>
@@ -82,6 +83,7 @@
     <tag k="name" v="CBD Greentime"/>
     <tag k="opening_hours" v="Mo-Sa 11:00-19:00"/>
     <tag k="operator" v="CBD Greentime GmbH"/>
+    <tag k="payment:XBT" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="no"/>
     <tag k="payment:lightning_contactless" v="no"/>
