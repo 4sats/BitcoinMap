@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-18T05:26:13Z"/>
+<meta osm_base="2024-06-19T05:28:00Z"/>
 
-  <node id="2798141489" lat="51.7322608" lon="5.5212183" version="7" timestamp="2024-06-17T20:01:49Z" changeset="152818063" uid="21665781" user="Peppel &amp; Co">
+  <node id="2798141489" lat="51.7322608" lon="5.5212183" version="8" timestamp="2024-06-18T09:28:00Z" changeset="152838879" uid="21665781" user="Peppel &amp; Co">
     <tag k="addr:city" v="Heesch"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:postcode" v="5384KB"/>
     <tag k="addr:street" v="Kerkstraat"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Peppel &amp; Co."/>
-    <tag k="opening_hours" v="24/7"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="yes"/>
@@ -67,47 +67,6 @@
     <tag k="survey:date" v="2024-04-18"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.pangeli.co.za/"/>
-  </node>
-  <node id="6666377311" lat="51.3429724" lon="12.3645026" version="10" timestamp="2024-06-14T10:00:35Z" changeset="152668712" uid="1787080" user="vv01f">
-    <tag k="addr:city" v="Leipzig"/>
-    <tag k="addr:country" v="DE"/>
-    <tag k="addr:floor" v="0"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="04109"/>
-    <tag k="addr:street" v="Thomasiusstraße"/>
-    <tag k="check_date" v="2024-05-29"/>
-    <tag k="level" v="0"/>
-    <tag k="name" v="Greentime CBD Store"/>
-    <tag k="opening_hours" v="Mo-Sa 10:00-20:00"/>
-    <tag k="operator" v="CBD Greentime GmbH"/>
-    <tag k="payment:XBT" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="no"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="phone" v="+49 341 68677723"/>
-    <tag k="shop" v="cannabis"/>
-    <tag k="website" v="https://cbd-greentime.de"/>
-    <tag k="wheelchair" v="no"/>
-  </node>
-  <node id="9588409879" lat="51.3663115" lon="12.3497000" version="5" timestamp="2024-06-14T10:01:51Z" changeset="152668763" uid="1787080" user="vv01f">
-    <tag k="addr:city" v="Leipzig"/>
-    <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:postcode" v="04159"/>
-    <tag k="addr:street" v="Huygensstraße"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/profile.php?id=100047948272189"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/cbd_greentime_leipzig/"/>
-    <tag k="email" v="info@cbd-greentime.de"/>
-    <tag k="image" v="https://www.cbd-greentime.com/wp-content/uploads/2020/02/header_mobil.png"/>
-    <tag k="name" v="CBD Greentime"/>
-    <tag k="opening_hours" v="Mo-Sa 11:00-19:00"/>
-    <tag k="operator" v="CBD Greentime GmbH"/>
-    <tag k="payment:XBT" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="no"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="shop" v="cannabis"/>
-    <tag k="website" v="https://www.cbd-greentime.com/"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="11465312823" lat="42.6490429" lon="23.3796484" version="2" timestamp="2024-04-26T15:23:55Z" changeset="150544559" uid="3754310" user="rhhs">
     <tag k="craft" v="electronics_repair"/>
@@ -248,11 +207,6 @@
     <tag k="website" v="https://www.instagram.com/doppio_cafegourmet"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="11870170729" lat="40.7433249" lon="-73.9242428" version="1" timestamp="2024-05-01T00:38:45Z" changeset="150731052" uid="6457180" user="promiseofbirth">
-    <tag k="amenity" v="atm"/>
-    <tag k="indoor" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="11879643149" lat="-34.6082437" lon="-58.3721667" version="3" timestamp="2024-05-06T03:16:01Z" changeset="150944962" uid="2104834" user="Igor Bubelov">
     <tag k="check_date" v="2024-05-04"/>
     <tag k="check_date:currency:XBT" v="2024-05-04"/>
@@ -265,23 +219,6 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="survey:date" v="2024-05-04"/>
-  </node>
-  <node id="11886795044" lat="-29.8884870" lon="-50.2723494" version="1" timestamp="2024-05-07T14:39:30Z" changeset="151014374" uid="21412264" user="Dr Guilherme Fontanella">
-    <tag k="addr:city" v="Osorio"/>
-    <tag k="addr:housenumber" v="N 1153 sala 64"/>
-    <tag k="addr:postcode" v="95520-000"/>
-    <tag k="addr:street" v="Av. Jorge Dariva"/>
-    <tag k="addr:suburb" v="Centro"/>
-    <tag k="amenity" v="dentist"/>
-    <tag k="healthcare" v="dentist"/>
-    <tag k="mobile" v="+55 51 985752717"/>
-    <tag k="name" v="Dr. Guilherme Fontanella"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+55 51 36632717"/>
   </node>
   <node id="11887043725" lat="-33.9934872" lon="22.5742735" version="1" timestamp="2024-05-07T16:33:18Z" changeset="151019088" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="George"/>
@@ -331,26 +268,6 @@
     <tag k="shop" v="printer_ink"/>
     <tag k="survey:date" v="2024-05-07"/>
     <tag k="website" v="https://local-info.co.za/listing/screenprint-signs-galore-george/"/>
-  </node>
-  <node id="11895211016" lat="-12.5775751" lon="-38.0081887" version="4" timestamp="2024-06-11T05:02:03Z" changeset="152523759" uid="21451889" user="Bitcoin Forte">
-    <tag k="addr:city" v="Mata de São João"/>
-    <tag k="addr:housenumber" v="118"/>
-    <tag k="addr:postcode" v="48280-000"/>
-    <tag k="addr:street" v="Av. Antônio Carlos Mglhães"/>
-    <tag k="addr:suburb" v="Praia do Forte"/>
-    <tag k="check_date" v="2024-06-10"/>
-    <tag k="check_date:currency:XBT" v="2024-06-10"/>
-    <tag k="description" v="Da terra do Axé!"/>
-    <tag k="name" v="Preto Velho Tabacaria e Charutaria"/>
-    <tag k="opening_hours" v="Seg-Qua-Qui-Sex-Sab-Dom 10:00H-00-00H Ter-fechado"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="(71) 99716-5750"/>
-    <tag k="shop" v="tobacco"/>
-    <tag k="survey:date" v="2024-06-10"/>
-    <tag k="website" v="https://www.instagram.com/pretovelho_tabacaria/?igsh=em1nMTRwNmhqdjZt"/>
   </node>
   <node id="11905085518" lat="-29.5025363" lon="31.2378336" version="2" timestamp="2024-05-15T04:35:38Z" changeset="151339745" uid="2104834" user="Igor Bubelov">
     <tag k="addr:city" v="Salt Rock"/>
@@ -416,39 +333,6 @@
     <tag k="phone" v="0324920407"/>
     <tag k="shop" v="golf"/>
   </node>
-  <node id="11908084116" lat="-34.9449905" lon="-54.9358260" version="2" timestamp="2024-05-15T22:21:02Z" changeset="151383291" uid="21352088" user="Matuw">
-    <tag k="addr:city" v="Punta Del Este"/>
-    <tag k="addr:housenumber" v="3037"/>
-    <tag k="addr:street" v="venida Pedragosa Sierra"/>
-    <tag k="name" v="Giro 21 Punta del Este"/>
-    <tag k="opening_hours" v="Mo-Su 09:00-20:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="shop" v="bicycle"/>
-  </node>
-  <node id="11910358339" lat="-22.9048648" lon="-43.5568788" version="1" timestamp="2024-05-16T17:40:34Z" changeset="151419984" uid="21390568" user="Biomed Esthetique - Referência em Ozônioterapia">
-    <tag k="addr:city" v="Rio de Janeiro"/>
-    <tag k="addr:housenumber" v="330 - sala 401"/>
-    <tag k="addr:postcode" v="23052000"/>
-    <tag k="addr:street" v="Rua Aurélio de Figueiredo"/>
-    <tag k="addr:suburb" v="Campo Grande"/>
-    <tag k="beauty" v="nails;cosmetics;spa;skin_care;waxing;estetica"/>
-    <tag k="ele" v="31.37"/>
-    <tag k="name" v="Biomed Esthetique - Saúde e bem estar - Clinica Integrativa"/>
-    <tag k="operator" v="Biomed Esthetique"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+55 21 31487740"/>
-    <tag k="shop" v="beauty"/>
-    <tag k="top_ele" v="35.73"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="11922132263" lat="-29.5446746" lon="30.3004177" version="2" timestamp="2024-05-21T12:39:28Z" changeset="151626676" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Hilton"/>
     <tag k="addr:housenumber" v="11"/>
@@ -464,25 +348,6 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="0832893094"/>
     <tag k="website" v="dave@countryground.co.za"/>
-  </node>
-  <node id="11931355839" lat="-21.5417114" lon="-49.8475095" version="4" timestamp="2024-05-25T15:20:43Z" changeset="151816423" uid="21584977" user="AlefBTC">
-    <tag k="addr:city" v="Promissão"/>
-    <tag k="addr:housenumber" v="388"/>
-    <tag k="addr:postcode" v="16375-118"/>
-    <tag k="addr:street" v="Rua Maria Reginato"/>
-    <tag k="addr:suburb" v="Morumbi"/>
-    <tag k="male" v="yes"/>
-    <tag k="name" v="Espaço Vip"/>
-    <tag k="opening_hours" v="08:00 as 11:30 | 13:00 as 18:30"/>
-    <tag k="operator" v="Felipe"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+5514991306410"/>
-    <tag k="shop" v="hairdresser"/>
   </node>
   <node id="11931703054" lat="48.2288567" lon="15.6330457" version="3" timestamp="2024-05-24T21:46:25Z" changeset="151789336" uid="21580425" user="Elektro Tankstelle Kremserberg">
     <tag k="access" v="customers"/>
@@ -514,29 +379,6 @@
     <tag k="phone" v="0837828684"/>
     <tag k="shop" v="surf"/>
   </node>
-  <node id="11949004708" lat="-20.1516421" lon="-44.9085838" version="3" timestamp="2024-06-04T20:49:16Z" changeset="152261791" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:city" v="Divinopolis"/>
-    <tag k="addr:housenumber" v="511"/>
-    <tag k="addr:postcode" v="35501197"/>
-    <tag k="addr:street" v="Rua Delfinópolis"/>
-    <tag k="addr:suburb" v="Planalto"/>
-    <tag k="description" v="Serviço de pulverização rural e urbana com drones agrícolas, venda de drones, consultoria e treinamento em operações com drones, plantio de sementes e adubação, venda de peças."/>
-    <tag k="name" v="VOAR Agricultura"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="phone" v="+55 31 987339909"/>
-    <tag k="shop" v="general"/>
-    <tag k="start_date" v="2023-01-01"/>
-    <tag k="website" v="https://www.voaragricultura.com.br/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="11969322300" lat="20.6621959" lon="-105.2515216" version="1" timestamp="2024-06-10T15:04:24Z" changeset="152502209" uid="21643632" user="Master Baiters Vapelicious">
     <tag k="addr:city" v="puerto vallarta"/>
     <tag k="addr:housenumber" v="L-3"/>
@@ -553,6 +395,38 @@
     <tag k="payment:ethereum" v="yes"/>
     <tag k="phone" v="322 779 7571"/>
     <tag k="shop" v="fishing"/>
+  </node>
+  <node id="11990321101" lat="48.7705522" lon="11.4371758" version="1" timestamp="2024-06-18T14:59:02Z" changeset="152853411" uid="804024" user="Stefano_1973">
+    <tag k="craft" v="cleaning"/>
+    <tag k="name" v="Flock Gebäudereinigung"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30 - 19:30"/>
+    <tag k="operator" v="Marlon Flock"/>
+    <tag k="payment:bank_transfer" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="phone" v="+49 841 95182686"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="11990610357" lat="28.7263014" lon="-13.8666469" version="1" timestamp="2024-06-18T17:58:48Z" changeset="152860269" uid="20309960" user="Joeydd">
+    <tag k="addr:city" v="Corralejo"/>
+    <tag k="description" v="Kitesurf School and Kite Rental"/>
+    <tag k="name" v="Siel The Kite Hub"/>
+    <tag k="operator" v="Siel"/>
+    <tag k="operator:type" v="kitesurf_school"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="shop" v="water_sports"/>
+  </node>
+  <node id="11990672776" lat="-22.6077516" lon="-47.4222373" version="2" timestamp="2024-06-18T18:36:17Z" changeset="152861633" uid="20309960" user="Joeydd">
+    <tag k="addr:city" v="Limeira"/>
+    <tag k="addr:housenumber" v="6726"/>
+    <tag k="addr:street" v="Avenida Doutor Lauro Correa da Silva"/>
+    <tag k="addr:suburb" v="Jardim do Lago"/>
+    <tag k="name" v="Sucos Sare"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="1931997949"/>
+    <tag k="shop" v="farm"/>
+    <tag k="website" v="https://hortaefruitadelivery.sualogjaonline.app"/>
   </node>
 
 </osm>
