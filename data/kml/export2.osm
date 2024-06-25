@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-24T05:25:38Z"/>
+<meta osm_base="2024-06-25T05:26:11Z"/>
 
   <node id="931205340" lat="51.0633003" lon="13.7567608" version="6" timestamp="2024-06-21T10:59:07Z" changeset="152987183" uid="21680410" user="com1EDV Dresden">
     <tag k="addr:city" v="Dresden"/>
@@ -83,6 +83,29 @@
     <tag k="survey:date" v="2024-04-18"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.pangeli.co.za/"/>
+  </node>
+  <node id="10967823015" lat="40.0429556" lon="-76.1846241" version="6" timestamp="2024-06-24T18:08:08Z" changeset="153124595" uid="19533015" user="SHUMUE">
+    <tag k="addr:city" v="Bird In Hand"/>
+    <tag k="addr:housenumber" v="404"/>
+    <tag k="addr:postcode" v="17505"/>
+    <tag k="addr:state" v="PA"/>
+    <tag k="addr:street" v="Beechdale Road"/>
+    <tag k="check_date" v="2024-06-24"/>
+    <tag k="craft" v="metal_construction"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Performance Automation"/>
+    <tag k="opening_hours" v="Mo - Fr 8:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="717-862-5906"/>
+    <tag k="product" v="tools;cnc_work;service;metal;custom_fabrication;custom_automation;research_and_development;machinery;cad_design"/>
+    <tag k="survey:date" v="2023-06-14"/>
+    <tag k="website" v="https://performanceautomationinc.com/"/>
   </node>
   <node id="11465312823" lat="42.6490429" lon="23.3796484" version="2" timestamp="2024-04-26T15:23:55Z" changeset="150544559" uid="3754310" user="rhhs">
     <tag k="craft" v="electronics_repair"/>
@@ -443,6 +466,16 @@
     <tag k="phone" v="1931997949"/>
     <tag k="shop" v="farm"/>
     <tag k="website" v="https://hortaefruitadelivery.sualogjaonline.app"/>
+  </node>
+  <node id="12007171726" lat="-22.9619375" lon="-47.1457381" version="2" timestamp="2024-06-24T17:05:29Z" changeset="153122227" uid="21688770" user="marcosrpoj">
+    <tag k="contact:phone" v="19 4141-5013"/>
+    <tag k="name" v="Qualar Restauração Piso de Madeira"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="website" v="https://qualarservicos.com.br/orcamentos/19MR.html"/>
   </node>
 
 </osm>
