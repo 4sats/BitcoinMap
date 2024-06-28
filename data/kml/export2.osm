@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-27T05:28:09Z"/>
+<meta osm_base="2024-06-28T05:25:14Z"/>
 
   <node id="931205340" lat="51.0633003" lon="13.7567608" version="6" timestamp="2024-06-21T10:59:07Z" changeset="152987183" uid="21680410" user="com1EDV Dresden">
     <tag k="addr:city" v="Dresden"/>
@@ -476,6 +476,69 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="website" v="https://qualarservicos.com.br/orcamentos/19MR.html"/>
+  </node>
+  <node id="12014780360" lat="49.8328382" lon="18.2867244" version="2" timestamp="2024-06-27T11:47:19Z" changeset="153243801" uid="21699098" user="SMILEX Travel - SVĚT LETENEK">
+    <tag k="addr:city" v="Ostrava"/>
+    <tag k="addr:housenumber" v="1831/1"/>
+    <tag k="addr:postcode" v="702 00"/>
+    <tag k="addr:street" v="Střední"/>
+    <tag k="check_date" v="2024-06-27"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="obchod@smilex.cz"/>
+    <tag k="name" v="SMILEX Travel - SVĚT LETENEK"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="SMILEX s.r.o."/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+420 596 123 456"/>
+    <tag k="shop" v="travel_agency"/>
+    <tag k="survey:date" v="2024-06-27"/>
+    <tag k="website" v="https://www.svet-letenek.cz"/>
+  </node>
+  <node id="12015665796" lat="42.8155561" lon="-86.1241957" version="1" timestamp="2024-06-27T20:56:46Z" changeset="153266189" uid="13797995" user="3lit3h4xx0r666">
+    <tag k="addr:city" v="Holland"/>
+    <tag k="addr:housenumber" v="593"/>
+    <tag k="addr:postcode" v="49424"/>
+    <tag k="addr:state" v="MI"/>
+    <tag k="addr:street" v="Butternut Drive"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:colour" v="beige brick and white"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="building:levels:underground" v="1"/>
+    <tag k="building:material" v="masonry"/>
+    <tag k="building:use" v="residential"/>
+    <tag k="contact:email" v="contact@newliteracy.online"/>
+    <tag k="contact:mobile" v="+1 616-300-6262"/>
+    <tag k="contact:phone" v="+1 616-300-6262"/>
+    <tag k="contact:website" v="https://newliteracy.online"/>
+    <tag k="email" v="contact@newliteracy.online"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="New Literacy Technology Consultants"/>
+    <tag k="office" v="it"/>
+    <tag k="opening_hours" v="24/7 open &quot;by appointment only&quot;"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cashapp" v="1"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="no"/>
+    <tag k="payment:credit_cards" v="no"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:electronic_purses" v="no"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:qr_code" v="no"/>
+    <tag k="payment:venmo" v="1"/>
+    <tag k="phone" v="+1 616-300-6262"/>
+    <tag k="roof:material" v="tar_paper"/>
+    <tag k="roof:shape" v="hipped"/>
+    <tag k="suite" v="2A"/>
+    <tag k="website" v="https://newliteracy.online"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
 
 </osm>
