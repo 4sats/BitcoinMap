@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-29T05:27:40Z"/>
+<meta osm_base="2024-06-30T05:25:01Z"/>
 
   <node id="931205340" lat="51.0633003" lon="13.7567608" version="6" timestamp="2024-06-21T10:59:07Z" changeset="152987183" uid="21680410" user="com1EDV Dresden">
     <tag k="addr:city" v="Dresden"/>
@@ -453,6 +453,26 @@
     <tag k="suite" v="2A"/>
     <tag k="website" v="https://newliteracy.online"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="12020065206" lat="45.7601303" lon="5.6897385" version="4" timestamp="2024-06-29T11:44:37Z" changeset="153328665" uid="21705857" user="Dr Dumas">
+    <tag k="addr:city" v="Belley"/>
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="01300"/>
+    <tag k="addr:street" v="Boulevard du Mail"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="healthcare:speciality" v="dentist;dental_oral_maxillo_facial_surgery"/>
+    <tag k="information" v="demande bitcoin par mail uniquement"/>
+    <tag k="kyc" v="no"/>
+    <tag k="name" v="DR Dumas chirurgien dentiste"/>
+    <tag k="name:en" v="dr dumas dentist"/>
+    <tag k="opening_hours" v="lun mar jeu vdd"/>
+    <tag k="operator" v="Dr DUMAS Antoine"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2024-06-29"/>
   </node>
 
 </osm>
