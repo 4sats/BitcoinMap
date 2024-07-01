@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-30T05:25:01Z"/>
+<meta osm_base="2024-07-01T05:26:26Z"/>
 
   <node id="931205340" lat="51.0633003" lon="13.7567608" version="6" timestamp="2024-06-21T10:59:07Z" changeset="152987183" uid="21680410" user="com1EDV Dresden">
     <tag k="addr:city" v="Dresden"/>
@@ -326,22 +326,6 @@
     <tag k="phone" v="0832893094"/>
     <tag k="website" v="dave@countryground.co.za"/>
   </node>
-  <node id="11931703054" lat="48.2288567" lon="15.6330457" version="3" timestamp="2024-05-24T21:46:25Z" changeset="151789336" uid="21580425" user="Elektro Tankstelle Kremserberg">
-    <tag k="access" v="customers"/>
-    <tag k="amenity" v="charging_station"/>
-    <tag k="brand" v="Fronius Wattpilot Typ 2 11KW"/>
-    <tag k="capacity" v="11KW"/>
-    <tag k="charge" v="0.22€ / KWH"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="fee" v="yes"/>
-    <tag k="operator" v="Privat"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-  </node>
   <node id="11941734989" lat="-29.5026799" lon="31.2373457" version="1" timestamp="2024-05-29T09:31:14Z" changeset="151979039" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
     <tag k="addr:housenumber" v="Shop G2"/>
@@ -453,26 +437,6 @@
     <tag k="suite" v="2A"/>
     <tag k="website" v="https://newliteracy.online"/>
     <tag k="wheelchair" v="limited"/>
-  </node>
-  <node id="12020065206" lat="45.7601303" lon="5.6897385" version="4" timestamp="2024-06-29T11:44:37Z" changeset="153328665" uid="21705857" user="Dr Dumas">
-    <tag k="addr:city" v="Belley"/>
-    <tag k="addr:housenumber" v="13"/>
-    <tag k="addr:postcode" v="01300"/>
-    <tag k="addr:street" v="Boulevard du Mail"/>
-    <tag k="amenity" v="dentist"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="healthcare" v="dentist"/>
-    <tag k="healthcare:speciality" v="dentist;dental_oral_maxillo_facial_surgery"/>
-    <tag k="information" v="demande bitcoin par mail uniquement"/>
-    <tag k="kyc" v="no"/>
-    <tag k="name" v="DR Dumas chirurgien dentiste"/>
-    <tag k="name:en" v="dr dumas dentist"/>
-    <tag k="opening_hours" v="lun mar jeu vdd"/>
-    <tag k="operator" v="Dr DUMAS Antoine"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="survey:date" v="2024-06-29"/>
   </node>
 
 </osm>
