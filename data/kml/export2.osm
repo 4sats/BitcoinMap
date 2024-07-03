@@ -1,24 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-07-02T05:26:13Z"/>
+<meta osm_base="2024-07-03T05:26:46Z"/>
 
-  <node id="931205340" lat="51.0633003" lon="13.7567608" version="6" timestamp="2024-06-21T10:59:07Z" changeset="152987183" uid="21680410" user="com1EDV Dresden">
-    <tag k="addr:city" v="Dresden"/>
-    <tag k="addr:housenumber" v="55"/>
-    <tag k="addr:postcode" v="01099"/>
-    <tag k="addr:street" v="Bautzner Straße"/>
-    <tag k="description" v="Computer-Notebook-Laptop-Service, Verkauf, Beratung, Crypto-Basics und Einrichtungs-Hilfe.&#x0a;Bitcoin accepted!"/>
-    <tag k="name" v="com1EDV Computer-Laptop-Service"/>
-    <tag k="opening_hours" v="Tu,Th,Fr 10:00-13:00, Mo 15:00-18:00, Tu,Th 15:00-18:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="phone" v="+49 351 7966381"/>
-    <tag k="shop" v="computer"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
     <tag k="addr:housenumber" v="Shop G9"/>
@@ -389,16 +373,6 @@
     <tag k="shop" v="farm"/>
     <tag k="website" v="https://hortaefruitadelivery.sualogjaonline.app"/>
   </node>
-  <node id="12007171726" lat="-22.9619375" lon="-47.1457381" version="2" timestamp="2024-06-24T17:05:29Z" changeset="153122227" uid="21688770" user="marcosrpoj">
-    <tag k="contact:phone" v="19 4141-5013"/>
-    <tag k="name" v="Qualar Restauração Piso de Madeira"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="website" v="https://qualarservicos.com.br/orcamentos/19MR.html"/>
-  </node>
   <node id="12015665796" lat="42.8155561" lon="-86.1241957" version="1" timestamp="2024-06-27T20:56:46Z" changeset="153266189" uid="13797995" user="3lit3h4xx0r666">
     <tag k="addr:city" v="Holland"/>
     <tag k="addr:housenumber" v="593"/>
@@ -437,6 +411,41 @@
     <tag k="suite" v="2A"/>
     <tag k="website" v="https://newliteracy.online"/>
     <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="12028787538" lat="-3.3473985" lon="37.3440506" version="1" timestamp="2024-07-02T10:15:48Z" changeset="153448119" uid="21627926" user="Pambit21">
+    <tag k="addr:city" v="Kilimanjaro"/>
+    <tag k="addr:street" v="Tanzania"/>
+    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:TSH" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="ChapSmart is a simplified p2p exchange platform. Satoshi to Fiat (Tsh) in Tanzania via mobile wallets M-PESA, TIGOPESA &amp; AIRTEL MONEY.&#x0a;Direct access of buying and selling Satoshi with Tanzanian shillings"/>
+    <tag k="mobile" v="+255744676951"/>
+    <tag k="name" v="CHAPSMART"/>
+    <tag k="operator" v="peer 2 peer"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+255763052308"/>
+    <tag k="survey:date" v="2024-07-02"/>
+  </node>
+  <node id="12028936873" lat="-29.7252320" lon="31.0843067" version="1" timestamp="2024-07-02T11:35:09Z" changeset="153451878" uid="21301664" user="yBitcoinza">
+    <tag k="addr:city" v="Umhlanga"/>
+    <tag k="addr:housenumber" v="21"/>
+    <tag k="addr:postcode" v="4319"/>
+    <tag k="addr:street" v="Lighthouse Road"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date" v="2024-06-29"/>
+    <tag k="cuisine" v="coffee_shop;coffee"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="BRWD Proppa Coffee"/>
+    <tag k="opening_hours" v="Mo-Su 06:30-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="0311401199"/>
+    <tag k="website" v="https://www.instagram.com/brwd.proppa.coffee/"/>
   </node>
 
 </osm>
