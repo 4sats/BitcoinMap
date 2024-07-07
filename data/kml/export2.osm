@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-07-06T05:25:45Z"/>
+<meta osm_base="2024-07-07T05:27:26Z"/>
 
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
@@ -162,28 +162,28 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="source:date" v="2024-04-22"/>
   </node>
-  <node id="11844616571" lat="39.0271600" lon="-8.7917721" version="2" timestamp="2024-04-24T15:30:04Z" changeset="150453524" uid="21342469" user="Hugo Nunes Photo">
+  <node id="11844616571" lat="39.0271600" lon="-8.7917721" version="12" timestamp="2024-07-06T11:51:19Z" changeset="153620632" uid="21342469" user="Hugo Nunes Photo">
     <tag k="addr:city" v="Salvaterra de Magos"/>
     <tag k="addr:housenumber" v="loja B"/>
     <tag k="addr:postcode" v="2120-071"/>
     <tag k="addr:street" v="Largo dos Combatatentes"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Hugo Nunes Photo"/>
+    <tag k="craft" v="photographer"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Hugo Nunes Photo - Fotografo"/>
+    <tag k="name:pt" v="Hugo Nunes Fotografo"/>
     <tag k="opening_hours" v="Mo-Fr 09:30-18:00"/>
     <tag k="payment:american_express" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:google_pay" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="payment:visa" v="yes"/>
-    <tag k="payment:visa_electron" v="yes"/>
-    <tag k="phone" v="+351263505648"/>
-    <tag k="shop" v="photo"/>
+    <tag k="phone" v="+351915068460"/>
+    <tag k="survey:date" v="2022"/>
+    <tag k="website" v="https://www.instagram.com/hugo_nunes_photo/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="11848462234" lat="-34.9137685" lon="-54.9608430" version="1" timestamp="2024-04-25T21:49:22Z" changeset="150515377" uid="21352088" user="Matuw">
