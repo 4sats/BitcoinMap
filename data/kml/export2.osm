@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-07-07T05:27:26Z"/>
+<meta osm_base="2024-07-08T05:27:10Z"/>
 
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
@@ -697,6 +697,24 @@
     <tag k="payment:onchain" v="no"/>
     <tag k="payment:paypay" v="yes"/>
     <tag k="website" v="https://cocorotus.com"/>
+  </node>
+  <node id="12040789027" lat="-22.9083027" lon="-47.0649798" version="3" timestamp="2024-07-08T00:26:39Z" changeset="153682521" uid="21732022" user="Emanuel Fonseca Adv">
+    <tag k="addr:city" v="Campinas"/>
+    <tag k="addr:housenumber" v="98"/>
+    <tag k="addr:postcode" v="13010-060"/>
+    <tag k="addr:street" v="Rua Costa Aguiar"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Emanuel Fonseca"/>
+    <tag k="office" v="lawyer"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 19 3231-7551"/>
+    <tag k="website" v="https://www.emanuelfonseca.adv.br/"/>
   </node>
 
 </osm>
