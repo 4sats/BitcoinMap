@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-07-09T05:26:46Z"/>
+<meta osm_base="2024-07-10T05:26:45Z"/>
 
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
@@ -698,7 +698,7 @@
     <tag k="payment:paypay" v="yes"/>
     <tag k="website" v="https://cocorotus.com"/>
   </node>
-  <node id="12042705692" lat="35.6583538" lon="139.4790831" version="1" timestamp="2024-07-09T02:09:24Z" changeset="153725776" uid="18414647" user="ch0meji">
+  <node id="12042705692" lat="35.6583538" lon="139.4790831" version="2" timestamp="2024-07-09T09:43:46Z" changeset="153736584" uid="18414647" user="ch0meji">
     <tag k="addr:block_number" v="１"/>
     <tag k="addr:city" v="府中市"/>
     <tag k="addr:housenumber" v="第一通路"/>
@@ -709,8 +709,9 @@
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="asian"/>
     <tag k="currency:XBT" v="yes"/>
+    <tag k="drive_through" v="yes"/>
     <tag k="name" v="COCOROTUS FOODTRUCK【府中卸売珈琲店】"/>
-    <tag k="opening_hours" v="月,火,水,木,金曜日 8:30-15:00"/>
+    <tag k="opening_hours" v="月,火,水,木,金,土曜日 8:30-15:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
@@ -719,7 +720,7 @@
     <tag k="payment:paypay" v="yes"/>
     <tag k="website" v="https://cocorotus.com/map"/>
   </node>
-  <node id="12042711368" lat="35.6571765" lon="139.5437963" version="1" timestamp="2024-07-09T03:25:26Z" changeset="153726691" uid="18414647" user="ch0meji">
+  <node id="12042711368" lat="35.6571765" lon="139.5437963" version="2" timestamp="2024-07-09T07:10:07Z" changeset="153731407" uid="18414647" user="ch0meji">
     <tag k="addr:block_number" v="5"/>
     <tag k="addr:city" v="調布市"/>
     <tag k="addr:housenumber" v="1"/>
@@ -730,7 +731,7 @@
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="asian"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="COCOROTUS FOODTRUCK【電気通信大学店】"/>
+    <tag k="name" v="COCOROTUS FOODTRUCK【電気通信大学店】※一般不可"/>
     <tag k="opening_hours" v="火曜日 11:30-14:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
@@ -809,27 +810,6 @@
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="COCOROTUS FOODTRUCK【全共連ビル麹町館店】"/>
     <tag k="opening_hours" v="月,水,木,金曜日 11:30-14:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:onchain" v="no"/>
-    <tag k="payment:paypay" v="yes"/>
-    <tag k="website" v="https://cocorotus.com/map"/>
-  </node>
-  <node id="12042736786" lat="35.6687665" lon="139.7499664" version="1" timestamp="2024-07-09T02:03:40Z" changeset="153725709" uid="18414647" user="ch0meji">
-    <tag k="addr:block_number" v="12"/>
-    <tag k="addr:city" v="港区"/>
-    <tag k="addr:housenumber" v="9"/>
-    <tag k="addr:neighbourhood" v="1"/>
-    <tag k="addr:postcode" v="105-0001"/>
-    <tag k="addr:province" v="東京都"/>
-    <tag k="addr:quarter" v="虎ノ門"/>
-    <tag k="amenity" v="fast_food"/>
-    <tag k="cuisine" v="asian"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="COCOROTUS FOODTRUCK【虎ノ門スズエビル店】"/>
-    <tag k="opening_hours" v="月曜日 11:30-14:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
@@ -933,6 +913,341 @@
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="COCOROTUS FOODTRUCK【表参道店】"/>
     <tag k="opening_hours" v="火曜日 11:30-14:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:paypay" v="yes"/>
+    <tag k="website" v="https://cocorotus.com/map"/>
+  </node>
+  <node id="12042878655" lat="35.6658447" lon="139.7480397" version="1" timestamp="2024-07-09T05:51:57Z" changeset="153729220" uid="18414647" user="ch0meji">
+    <tag k="addr:block_number" v="9"/>
+    <tag k="addr:city" v="港区"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:neighbourhood" v="3"/>
+    <tag k="addr:postcode" v="105-0001"/>
+    <tag k="addr:province" v="東京都"/>
+    <tag k="addr:quarter" v="虎ノ門"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="COCOROTUS FOODTRUCK【虎ノ門】"/>
+    <tag k="opening_hours" v="水曜日 11:30-14:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:paypay" v="yes"/>
+    <tag k="website" v="https://cocorotus.com/map"/>
+  </node>
+  <node id="12042878656" lat="35.6569002" lon="139.6943274" version="1" timestamp="2024-07-09T05:54:19Z" changeset="153729289" uid="18414647" user="ch0meji">
+    <tag k="addr:block_number" v="2"/>
+    <tag k="addr:city" v="渋谷区"/>
+    <tag k="addr:neighbourhood" v="18"/>
+    <tag k="addr:postcode" v="150-0044"/>
+    <tag k="addr:province" v="東京都"/>
+    <tag k="addr:quarter" v="円山町"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="COCOROTUS FOODTRUCK【神泉】"/>
+    <tag k="opening_hours" v="水曜日 11:30-14:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:paypay" v="yes"/>
+    <tag k="website" v="https://cocorotus.com/map"/>
+  </node>
+  <node id="12042891967" lat="35.6698489" lon="139.7480655" version="1" timestamp="2024-07-09T06:14:02Z" changeset="153729786" uid="18414647" user="ch0meji">
+    <tag k="addr:block_number" v="2"/>
+    <tag k="addr:city" v="港区"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:neighbourhood" v="1丁目"/>
+    <tag k="addr:postcode" v="105-0001"/>
+    <tag k="addr:province" v="東京都"/>
+    <tag k="addr:quarter" v="虎ノ門"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="COCOROTUS FOODTRUCK【虎ノ門琴平タワー店】"/>
+    <tag k="opening_hours" v="水曜日 11:30-14:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:paypay" v="yes"/>
+    <tag k="website" v="https://cocorotus.com/map"/>
+  </node>
+  <node id="12042901341" lat="35.7042022" lon="139.7672524" version="1" timestamp="2024-07-09T06:57:12Z" changeset="153730993" uid="18414647" user="ch0meji">
+    <tag k="addr:block_number" v="４"/>
+    <tag k="addr:city" v="文京区"/>
+    <tag k="addr:housenumber" v="２"/>
+    <tag k="addr:neighbourhood" v="3丁目"/>
+    <tag k="addr:postcode" v="113-0034"/>
+    <tag k="addr:province" v="東京都"/>
+    <tag k="addr:quarter" v="湯島"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="COCOROTUS FOODTRUCK【湯島店】"/>
+    <tag k="opening_hours" v="金曜日 11:30-14:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:paypay" v="yes"/>
+    <tag k="website" v="https://cocorotus.com/map"/>
+  </node>
+  <node id="12042902736" lat="35.6745365" lon="139.7101089" version="1" timestamp="2024-07-09T06:30:32Z" changeset="153730200" uid="18414647" user="ch0meji">
+    <tag k="addr:block_number" v="22"/>
+    <tag k="addr:city" v="渋谷区"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:neighbourhood" v="2"/>
+    <tag k="addr:postcode" v="150-0001"/>
+    <tag k="addr:province" v="東京都"/>
+    <tag k="addr:quarter" v="神宮前"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="COCOROTUS FOODTRUCK【アパルトマンモリタ店】"/>
+    <tag k="opening_hours" v="木曜日 11:30-14:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:paypay" v="yes"/>
+    <tag k="website" v="https://cocorotus.com/map"/>
+  </node>
+  <node id="12042912657" lat="35.6484886" lon="139.7174572" version="1" timestamp="2024-07-09T05:48:41Z" changeset="153729132" uid="18414647" user="ch0meji">
+    <tag k="addr:block_number" v="10"/>
+    <tag k="addr:city" v="渋谷区"/>
+    <tag k="addr:housenumber" v="10 NKビル"/>
+    <tag k="addr:neighbourhood" v="1"/>
+    <tag k="addr:postcode" v="150-0012"/>
+    <tag k="addr:province" v="東京都"/>
+    <tag k="addr:quarter" v="広尾"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="COCOROTUS FOODTRUCK【広尾店】"/>
+    <tag k="opening_hours" v="水曜日 11:30-14:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:paypay" v="yes"/>
+    <tag k="website" v="https://cocorotus.com/map"/>
+  </node>
+  <node id="12042922193" lat="35.6737618" lon="139.7067037" version="1" timestamp="2024-07-09T05:56:35Z" changeset="153729354" uid="18414647" user="ch0meji">
+    <tag k="addr:block_number" v="1"/>
+    <tag k="addr:city" v="渋谷区"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:neighbourhood" v="1"/>
+    <tag k="addr:postcode" v="150-0001"/>
+    <tag k="addr:province" v="東京都"/>
+    <tag k="addr:quarter" v="神宮前"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="COCOROTUS FOODTRUCK【千駄ヶ谷区民会館よこ】"/>
+    <tag k="opening_hours" v="水曜日 11:30-14:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:paypay" v="yes"/>
+    <tag k="website" v="https://cocorotus.com/map"/>
+  </node>
+  <node id="12042935482" lat="35.6719997" lon="139.7393153" version="1" timestamp="2024-07-09T06:11:23Z" changeset="153729707" uid="18414647" user="ch0meji">
+    <tag k="addr:block_number" v="7"/>
+    <tag k="addr:city" v="港区"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:neighbourhood" v="2"/>
+    <tag k="addr:postcode" v="107-0052"/>
+    <tag k="addr:province" v="東京都"/>
+    <tag k="addr:quarter" v="赤坂"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="COCOROTUS FOODTRUCK【溜池山王店】"/>
+    <tag k="opening_hours" v="水,木曜日 11:30-14:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:paypay" v="yes"/>
+    <tag k="website" v="https://cocorotus.com/map"/>
+  </node>
+  <node id="12042944646" lat="35.6575654" lon="139.7052661" version="1" timestamp="2024-07-09T06:50:14Z" changeset="153730804" uid="18414647" user="ch0meji">
+    <tag k="addr:block_number" v="6"/>
+    <tag k="addr:city" v="渋谷区"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:neighbourhood" v="3丁目"/>
+    <tag k="addr:postcode" v="150-0002"/>
+    <tag k="addr:province" v="東京都"/>
+    <tag k="addr:quarter" v="渋谷"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="COCOROTUS FOODTRUCK【SOLIX渋谷店】"/>
+    <tag k="opening_hours" v="金曜日 11:30-14:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:paypay" v="yes"/>
+    <tag k="website" v="https://cocorotus.com/map"/>
+  </node>
+  <node id="12042946250" lat="35.7114406" lon="139.5727023" version="1" timestamp="2024-07-09T07:20:21Z" changeset="153731712" uid="18414647" user="ch0meji">
+    <tag k="addr:block_number" v="3"/>
+    <tag k="addr:city" v="武蔵野市"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:neighbourhood" v="3"/>
+    <tag k="addr:postcode" v="180-8633"/>
+    <tag k="addr:province" v="東京都"/>
+    <tag k="addr:quarter" v="吉祥寺"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="COCOROTUS FOODTRUCK【成蹊大学店】※一般不可"/>
+    <tag k="opening_hours" v="木曜日 11:30-14:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:paypay" v="yes"/>
+    <tag k="website" v="https://cocorotus.com/map"/>
+  </node>
+  <node id="12042959224" lat="35.6638195" lon="139.7037739" version="1" timestamp="2024-07-09T06:36:50Z" changeset="153730400" uid="18414647" user="ch0meji">
+    <tag k="addr:block_number" v="21"/>
+    <tag k="addr:city" v="渋谷区"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:neighbourhood" v="1"/>
+    <tag k="addr:postcode" v="150-0002"/>
+    <tag k="addr:province" v="東京都"/>
+    <tag k="addr:quarter" v="渋谷"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="COCOROTUS FOODTRUCK【渋谷ファッション＆専門学校店】"/>
+    <tag k="opening_hours" v="木曜日 11:30-14:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:paypay" v="yes"/>
+    <tag k="website" v="https://cocorotus.com/map"/>
+  </node>
+  <node id="12042960401" lat="35.6834978" lon="139.7392786" version="1" timestamp="2024-07-09T06:41:06Z" changeset="153730524" uid="18414647" user="ch0meji">
+    <tag k="addr:block_number" v="7"/>
+    <tag k="addr:city" v="千代田区"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:neighbourhood" v="3"/>
+    <tag k="addr:postcode" v="102-0083"/>
+    <tag k="addr:province" v="東京都"/>
+    <tag k="addr:quarter" v="麴町"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="COCOROTUS FOODTRUCK【麹町店】"/>
+    <tag k="opening_hours" v="金曜日 11:30-14:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:paypay" v="yes"/>
+    <tag k="website" v="https://cocorotus.com/map"/>
+  </node>
+  <node id="12042968305" lat="35.6687797" lon="139.7777763" version="1" timestamp="2024-07-09T06:44:46Z" changeset="153730649" uid="18414647" user="ch0meji">
+    <tag k="addr:block_number" v="11"/>
+    <tag k="addr:city" v="中央区"/>
+    <tag k="addr:neighbourhood" v="4"/>
+    <tag k="addr:postcode" v="104-0044"/>
+    <tag k="addr:province" v="東京都"/>
+    <tag k="addr:quarter" v="明石町"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="COCOROTUS FOODTRUCK【築地店】"/>
+    <tag k="opening_hours" v="金曜日 11:30-13:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:paypay" v="yes"/>
+    <tag k="website" v="https://cocorotus.com/map"/>
+  </node>
+  <node id="12042999697" lat="35.6827327" lon="139.7728910" version="1" timestamp="2024-07-09T07:07:27Z" changeset="153731326" uid="18414647" user="ch0meji">
+    <tag k="addr:block_number" v="1"/>
+    <tag k="addr:city" v="中央区"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:neighbourhood" v="2"/>
+    <tag k="addr:postcode" v="103-0027"/>
+    <tag k="addr:province" v="東京都"/>
+    <tag k="addr:quarter" v="日本橋"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="name" v="COCOROTUS FOODTRUCK【日本橋長崎館店】"/>
+    <tag k="opening_hours" v="金曜日 11:30-14:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:paypay" v="yes"/>
+    <tag k="website" v="https://cocorotus.com/map"/>
+  </node>
+  <node id="12043010287" lat="35.6799093" lon="139.7637193" version="1" timestamp="2024-07-09T07:13:04Z" changeset="153731483" uid="18414647" user="ch0meji">
+    <tag k="addr:block_number" v="5"/>
+    <tag k="addr:city" v="千代田区"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:neighbourhood" v="2"/>
+    <tag k="addr:postcode" v="100-0005"/>
+    <tag k="addr:province" v="東京都"/>
+    <tag k="addr:quarter" v="丸の内"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="COCOROTUS FOODTRUCK【ユーザーベース店】※一般不可"/>
+    <tag k="opening_hours" v="木曜日 11:30-13:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:paypay" v="yes"/>
+    <tag k="website" v="https://cocorotus.com/map"/>
+  </node>
+  <node id="12043012226" lat="35.6823202" lon="139.7183932" version="1" timestamp="2024-07-09T07:16:17Z" changeset="153731579" uid="18414647" user="ch0meji">
+    <tag k="addr:block_number" v="１"/>
+    <tag k="addr:city" v="新宿区"/>
+    <tag k="addr:neighbourhood" v="３５"/>
+    <tag k="addr:postcode" v="160-0016"/>
+    <tag k="addr:province" v="東京都"/>
+    <tag k="addr:quarter" v="信濃町"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="name" v="COCOROTUS FOODTRUCK【慶應義塾大学病院店】※一般不可"/>
+    <tag k="opening_hours" v="木,金曜日 11:30-15:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
