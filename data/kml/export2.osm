@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-07-10T05:26:45Z"/>
+<meta osm_base="2024-07-11T05:25:57Z"/>
 
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
@@ -1255,6 +1255,13 @@
     <tag k="payment:onchain" v="no"/>
     <tag k="payment:paypay" v="yes"/>
     <tag k="website" v="https://cocorotus.com/map"/>
+  </node>
+  <node id="12046583200" lat="16.8646976" lon="-24.9729370" version="3" timestamp="2024-07-10T19:16:30Z" changeset="153797786" uid="21263586" user="Software_Developer">
+    <tag k="description" v="Software Development, HelpDesk, IT Support"/>
+    <tag k="name" v="BIT Solutions"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
   </node>
 
 </osm>
