@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-07-16T05:25:13Z"/>
+<meta osm_base="2024-07-17T05:26:09Z"/>
 
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
@@ -1262,6 +1262,21 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="12056821753" lat="46.7642745" lon="23.5387747" version="1" timestamp="2024-07-16T08:31:34Z" changeset="154003408" uid="20301820" user="GigiPleaca2000">
+    <tag k="addr:city" v="Cluj-Napoca"/>
+    <tag k="addr:housenumber" v="239"/>
+    <tag k="addr:street" v="Strada Donath"/>
+    <tag k="consulting" v="software;bitcoin;lightning"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Kangu Studio"/>
+    <tag k="office" v="consulting"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2024-07-16"/>
+    <tag k="website" v="https://kangu.ro"/>
   </node>
 
 </osm>
