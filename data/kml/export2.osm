@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-01T05:26:30Z"/>
+<meta osm_base="2024-08-02T05:26:32Z"/>
 
+  <node id="1077275919" lat="37.0996923" lon="-8.6724745" version="7" timestamp="2024-08-01T15:33:48Z" changeset="154699846" uid="21802322" user="Jah Shaka Surf Shop">
+    <tag k="addr:city" v="Lagos"/>
+    <tag k="addr:housenumber" v="112"/>
+    <tag k="addr:postcode" v="8600-681"/>
+    <tag k="addr:street" v="Rua Cândido dos Reis"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Jah Shaka Surf Shop"/>
+    <tag k="name:de" v="Jah Shaka Surf Shop"/>
+    <tag k="name:en" v="Jah Shaka Surf Shop"/>
+    <tag k="name:pt" v="Jah Shaka Surf Shop"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-22:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+351915896536"/>
+    <tag k="shop" v="sports"/>
+    <tag k="website" v="https://www.jahshakasurf.com/"/>
+  </node>
   <node id="5373046123" lat="-34.1967866" lon="18.3749931" version="4" timestamp="2024-07-24T07:58:01Z" changeset="154337115" uid="21782067" user="DanieScarb">
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="coffee_shop"/>
@@ -83,7 +110,8 @@
     <tag k="payment:paypay" v="yes"/>
     <tag k="website" v="https://cocorotus.com"/>
   </node>
-  <node id="11465312823" lat="42.6490429" lon="23.3796484" version="2" timestamp="2024-04-26T15:23:55Z" changeset="150544559" uid="3754310" user="rhhs">
+  <node id="11465312823" lat="42.6490429" lon="23.3796484" version="3" timestamp="2024-08-01T10:13:03Z" changeset="154686295" uid="5686224" user="Boyan Alexiev">
+    <tag k="check_date" v="2024-08-01"/>
     <tag k="craft" v="electronics_repair"/>
     <tag k="name" v="Vegasys"/>
     <tag k="opening_hours" v="Mo-Su 10:00-19:00"/>
@@ -1301,6 +1329,22 @@
     <tag k="survey:date" v="2024-07-25"/>
     <tag k="url" v="https://www.instagram.com/tintura.bar/"/>
     <tag k="website" v="https://www.instagram.com/tintura.bar/"/>
+  </node>
+  <node id="12086793785" lat="45.8894595" lon="11.0433693" version="2" timestamp="2024-08-01T09:18:41Z" changeset="154683962" uid="21807520" user="bitcoin valley">
+    <tag k="addr:city" v="Rovereto"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="38068"/>
+    <tag k="addr:street" v="Via Roma"/>
+    <tag k="amenity" v="ice_cream"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="currency:XBT:discount" v="10%"/>
+    <tag k="name" v="Cherry"/>
+    <tag k="opening_hours" v="12:00-22:30"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:xbt:operator" v="Bitcoinpos.it"/>
+    <tag k="phone" v="+39 335 834 2500"/>
   </node>
 
 </osm>
