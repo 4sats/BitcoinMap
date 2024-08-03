@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-02T05:26:32Z"/>
+<meta osm_base="2024-08-03T05:24:41Z"/>
 
   <node id="1077275919" lat="37.0996923" lon="-8.6724745" version="7" timestamp="2024-08-01T15:33:48Z" changeset="154699846" uid="21802322" user="Jah Shaka Surf Shop">
     <tag k="addr:city" v="Lagos"/>
@@ -29,6 +29,21 @@
     <tag k="phone" v="+351915896536"/>
     <tag k="shop" v="sports"/>
     <tag k="website" v="https://www.jahshakasurf.com/"/>
+  </node>
+  <node id="1504386666" lat="-28.5538377" lon="153.4996717" version="3" timestamp="2024-08-02T05:51:33Z" changeset="154719387" uid="21803935" user="Bayani Mills">
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:postcode" v="2482"/>
+    <tag k="addr:state" v="NSW"/>
+    <tag k="addr:street" v="Dalley Street"/>
+    <tag k="addr:suburb" v="Mullumbimby"/>
+    <tag k="addr:unit" v="8"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="LuLu's"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+61 2 6684 2415"/>
+    <tag k="website" v="https://lulus-cafe.com.au/"/>
   </node>
   <node id="5373046123" lat="-34.1967866" lon="18.3749931" version="4" timestamp="2024-07-24T07:58:01Z" changeset="154337115" uid="21782067" user="DanieScarb">
     <tag k="amenity" v="restaurant"/>
@@ -89,6 +104,20 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="0727372110"/>
   </node>
+  <node id="10567455182" lat="-24.2233969" lon="151.8917693" version="4" timestamp="2024-08-02T12:44:24Z" changeset="154735226" uid="21803935" user="Bayani Mills">
+    <tag k="check_date" v="2024-08-02"/>
+    <tag k="contact:twitter" v="https://twitter.com/Electra_Frost"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="electra@electrafrost.com.au"/>
+    <tag k="name" v="Electra Frost Advisory"/>
+    <tag k="note" v="Chartered Tax Advisers, Accountants and Bookkeepers putting bitcoin on the balance sheet since 2014. Specialising in digital accounting and business tech stacks, systems and processes, management reporting, and international tax. Helping freelancers and s"/>
+    <tag k="office" v="accountant"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+61 7 3073 3955"/>
+    <tag k="website" v="https://www.electrafrost.com.au/"/>
+  </node>
   <node id="10588516242" lat="35.6624229" lon="139.6956991" version="9" timestamp="2024-07-05T08:56:52Z" changeset="153578340" uid="18414647" user="ch0meji">
     <tag k="addr:city" v="渋谷区"/>
     <tag k="addr:neighbourhood" v="41"/>
@@ -109,6 +138,50 @@
     <tag k="payment:onchain" v="no"/>
     <tag k="payment:paypay" v="yes"/>
     <tag k="website" v="https://cocorotus.com"/>
+  </node>
+  <node id="10740165791" lat="-28.6352048" lon="153.5807376" version="3" timestamp="2024-08-02T12:49:02Z" changeset="154735399" uid="21803935" user="Bayani Mills">
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:state" v="NSW"/>
+    <tag k="addr:street" v="Woolongbar"/>
+    <tag k="addr:suburb" v="Byron Bay"/>
+    <tag k="addr:unit" v="1"/>
+    <tag k="check_date" v="2024-08-02"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="info@beautiflora.com"/>
+    <tag k="name" v="Beautiflora"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+61 421 904 176"/>
+    <tag k="shop" v="florist"/>
+    <tag k="website" v="https://www.beautiflora.com/"/>
+  </node>
+  <node id="10897848651" lat="-24.2082894" lon="151.9024145" version="2" timestamp="2024-08-02T13:41:49Z" changeset="154737414" uid="21803935" user="Bayani Mills">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date:currency:XBT" v="2024-08-01"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Drift &amp; Wood"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="website" v="https://driftandwood.com.au"/>
+  </node>
+  <node id="10980930381" lat="-33.2668884" lon="151.5493921" version="3" timestamp="2024-08-02T06:32:46Z" changeset="154720498" uid="21803935" user="Bayani Mills">
+    <tag k="addr:housenumber" v="327"/>
+    <tag k="addr:postcode" v="2263"/>
+    <tag k="addr:state" v="NSW"/>
+    <tag k="addr:street" v="Main Road"/>
+    <tag k="addr:suburb" v="Toukley"/>
+    <tag k="addr:unit" v="3"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date:currency:XBT" v="2023-08-24"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Rise Mofo Coffee"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2024-08-02"/>
+    <tag k="website" v="https://risemofo.square.site"/>
   </node>
   <node id="11465312823" lat="42.6490429" lon="23.3796484" version="3" timestamp="2024-08-01T10:13:03Z" changeset="154686295" uid="5686224" user="Boyan Alexiev">
     <tag k="check_date" v="2024-08-01"/>
@@ -1345,6 +1418,51 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:xbt:operator" v="Bitcoinpos.it"/>
     <tag k="phone" v="+39 335 834 2500"/>
+  </node>
+  <node id="12088707258" lat="47.0681907" lon="15.4518634" version="1" timestamp="2024-08-02T10:25:09Z" changeset="154729060" uid="21811184" user="DerFil">
+    <tag k="addr:city" v="Graz"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:postcode" v="8010"/>
+    <tag k="addr:street" v="Sparbersbachgasse"/>
+    <tag k="image" v="https://ankunftsort.at/wp-content/uploads/2022/01/LG_Ankunftsort_negativ-ohne-claim2.svg"/>
+    <tag k="name" v="Ankunftsort"/>
+    <tag k="opening_hours" v="&quot;Termin nach Vereinbarung&quot;"/>
+    <tag k="operator" v="Andrea Kunze"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+43 664 85 50 224"/>
+    <tag k="shop" v="massage"/>
+    <tag k="website" v="https://ankunftsort.at/"/>
+  </node>
+  <node id="12088849467" lat="-31.7424417" lon="115.7696501" version="1" timestamp="2024-08-02T12:20:30Z" changeset="154734265" uid="21803935" user="Bayani Mills">
+    <tag k="addr:housenumber" v="126"/>
+    <tag k="addr:postcode" v="6000"/>
+    <tag k="addr:state" v="WA"/>
+    <tag k="addr:street" v="Grand Blvd"/>
+    <tag k="addr:suburb" v="Joondalup"/>
+    <tag k="addr:unit" v="U102"/>
+    <tag k="check_date" v="2024-08-02"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Carter Dickens Lawyers"/>
+    <tag k="office" v="lawyer"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="website" v="https://cdlawyers.com.au"/>
+  </node>
+  <node id="12088914325" lat="-37.7677801" lon="145.3240261" version="1" timestamp="2024-08-02T12:39:16Z" changeset="154735031" uid="21803935" user="Bayani Mills">
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="3138"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Lindsay Court"/>
+    <tag k="addr:suburb" v="Mooroolbark"/>
+    <tag k="check_date" v="2024-08-02"/>
+    <tag k="craft" v="embroidery"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Bitcoin Embroiderer"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="website" v="bitcoindentist.com.au/bitcoinembroiderer"/>
   </node>
 
 </osm>
