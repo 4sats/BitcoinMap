@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-03T05:24:41Z"/>
+<meta osm_base="2024-08-04T05:25:30Z"/>
 
   <node id="1077275919" lat="37.0996923" lon="-8.6724745" version="7" timestamp="2024-08-01T15:33:48Z" changeset="154699846" uid="21802322" user="Jah Shaka Surf Shop">
     <tag k="addr:city" v="Lagos"/>
@@ -44,6 +44,35 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+61 2 6684 2415"/>
     <tag k="website" v="https://lulus-cafe.com.au/"/>
+  </node>
+  <node id="2511438335" lat="-27.4619084" lon="153.0396047" version="3" timestamp="2024-08-04T04:54:55Z" changeset="154796034" uid="21803935" user="Bayani Mills">
+    <tag k="addr:housenumber" v="572"/>
+    <tag k="addr:postcode" v="4005"/>
+    <tag k="addr:state" v="QLD"/>
+    <tag k="addr:street" v="Brunswick Street"/>
+    <tag k="addr:suburb" v="New Farm"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/cryptocoffee.au/"/>
+    <tag k="contact:twitter" v="https://x.com/cryptocoffeeau"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Crypto Coffee"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="website" v="https://www.cryptocoffee.com.au/"/>
+  </node>
+  <node id="4265332843" lat="-33.8311276" lon="151.2215832" version="2" timestamp="2024-08-04T04:31:48Z" changeset="154795806" uid="21803935" user="Bayani Mills">
+    <tag k="addr:housenumber" v="164"/>
+    <tag k="addr:postcode" v="2089"/>
+    <tag k="addr:state" v="NSW"/>
+    <tag k="addr:street" v="Military Road"/>
+    <tag k="addr:suburb" v="Neutral Bay"/>
+    <tag k="addr:unit" v="4"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date" v="2024-08-04"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/sugarcoastdessertbar/"/>
+    <tag k="cuisine" v="dessert"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Sugar Coast"/>
+    <tag k="payment:bitcoin" v="yes"/>
   </node>
   <node id="5373046123" lat="-34.1967866" lon="18.3749931" version="4" timestamp="2024-07-24T07:58:01Z" changeset="154337115" uid="21782067" user="DanieScarb">
     <tag k="amenity" v="restaurant"/>
@@ -1463,6 +1492,50 @@
     <tag k="name" v="Bitcoin Embroiderer"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="bitcoindentist.com.au/bitcoinembroiderer"/>
+  </node>
+  <node id="12090328217" lat="-1.1336550" lon="36.9746828" version="1" timestamp="2024-08-03T11:55:12Z" changeset="154770838" uid="21814224" user="Bitcoin Babies">
+    <tag k="addr:city" v="Ruiru"/>
+    <tag k="addr:street" v="KIMBO BIASHARA STREET"/>
+    <tag k="contact:phone" v="+254722765922"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Njosh Tech Graphics"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="shop" v="printing"/>
+    <tag k="survey_date" v="2024-08-03"/>
+  </node>
+  <node id="12091298393" lat="-16.9622388" lon="145.7279462" version="2" timestamp="2024-08-04T04:45:24Z" changeset="154795935" uid="21803935" user="Bayani Mills">
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="4868"/>
+    <tag k="addr:state" v="QLD"/>
+    <tag k="addr:street" v="Vista Street"/>
+    <tag k="addr:suburb" v="Bayview Heights"/>
+    <tag k="check_date" v="2024-08-04"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="matt@coolbuildoz.com.au"/>
+    <tag k="name" v="Cool Build"/>
+    <tag k="office" v="company"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+61 417 097 013"/>
+    <tag k="website" v="https://coolbuildoz.com.au/"/>
+  </node>
+  <node id="12091311537" lat="-27.4675387" lon="153.0247540" version="1" timestamp="2024-08-04T05:14:42Z" changeset="154796207" uid="21803935" user="Bayani Mills">
+    <tag k="addr:housenumber" v="157"/>
+    <tag k="addr:postcode" v="4000"/>
+    <tag k="addr:state" v="QLD"/>
+    <tag k="addr:street" v="Ann Street"/>
+    <tag k="addr:suburb" v="Brisbane City"/>
+    <tag k="check_date" v="2024-08-04"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Furlani Fitness"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+61 432 525 533"/>
+    <tag k="website" v="https://www.furlanifitness.com.au/"/>
   </node>
 
 </osm>
