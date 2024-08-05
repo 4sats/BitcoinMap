@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-04T05:25:30Z"/>
+<meta osm_base="2024-08-05T02:24:04Z"/>
 
   <node id="1077275919" lat="37.0996923" lon="-8.6724745" version="7" timestamp="2024-08-01T15:33:48Z" changeset="154699846" uid="21802322" user="Jah Shaka Surf Shop">
     <tag k="addr:city" v="Lagos"/>
@@ -116,6 +116,23 @@
     <tag k="survey:date" v="2024-04-18"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.pangeli.co.za/"/>
+  </node>
+  <node id="6938319387" lat="-24.2100495" lon="151.9058504" version="4" timestamp="2024-08-04T05:48:46Z" changeset="154796690" uid="21803935" user="Bayani Mills">
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="4677"/>
+    <tag k="addr:state" v="QLD"/>
+    <tag k="addr:street" v="Agnes Street"/>
+    <tag k="addr:suburb" v="Agnes Waters"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date:currency:XBT" v="2022-11-14"/>
+    <tag k="cuisine" v="mexican;burger;pizza"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Codie's Place"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-20:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+61 7 4974 7004"/>
+    <tag k="website" v="https://www.codiesplace.com/"/>
   </node>
   <node id="10103488116" lat="-29.7330435" lon="31.0830025" version="2" timestamp="2024-07-03T12:51:58Z" changeset="153501055" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Umhlanga Rocks"/>
@@ -507,6 +524,20 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="0837828684"/>
     <tag k="shop" v="surf"/>
+  </node>
+  <node id="11959228269" lat="-27.4449089" lon="152.9916255" version="2" timestamp="2024-08-04T05:40:08Z" changeset="154796561" uid="21803935" user="Bayani Mills">
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="4060"/>
+    <tag k="addr:street" v="Stewart Road"/>
+    <tag k="check_date" v="2023-10-1"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="George's Barbershop"/>
+    <tag k="opening_hours" v="We-Fr 06:00-13:00; Sa-Su 06:00-12:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+61 7 3899 3212"/>
+    <tag k="shop" v="hairdresser"/>
   </node>
   <node id="11969322300" lat="20.6621959" lon="-105.2515216" version="1" timestamp="2024-06-10T15:04:24Z" changeset="152502209" uid="21643632" user="Master Baiters Vapelicious">
     <tag k="addr:city" v="puerto vallarta"/>
@@ -1431,22 +1462,6 @@
     <tag k="survey:date" v="2024-07-25"/>
     <tag k="url" v="https://www.instagram.com/tintura.bar/"/>
     <tag k="website" v="https://www.instagram.com/tintura.bar/"/>
-  </node>
-  <node id="12086793785" lat="45.8894595" lon="11.0433693" version="2" timestamp="2024-08-01T09:18:41Z" changeset="154683962" uid="21807520" user="bitcoin valley">
-    <tag k="addr:city" v="Rovereto"/>
-    <tag k="addr:housenumber" v="24"/>
-    <tag k="addr:postcode" v="38068"/>
-    <tag k="addr:street" v="Via Roma"/>
-    <tag k="amenity" v="ice_cream"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="currency:XBT:discount" v="10%"/>
-    <tag k="name" v="Cherry"/>
-    <tag k="opening_hours" v="12:00-22:30"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:xbt:operator" v="Bitcoinpos.it"/>
-    <tag k="phone" v="+39 335 834 2500"/>
   </node>
   <node id="12088707258" lat="47.0681907" lon="15.4518634" version="1" timestamp="2024-08-02T10:25:09Z" changeset="154729060" uid="21811184" user="DerFil">
     <tag k="addr:city" v="Graz"/>
