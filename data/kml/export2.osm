@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-09T05:26:48Z"/>
+<meta osm_base="2024-08-10T05:25:29Z"/>
 
   <node id="1077275919" lat="37.0996923" lon="-8.6724745" version="7" timestamp="2024-08-01T15:33:48Z" changeset="154699846" uid="21802322" user="Jah Shaka Surf Shop">
     <tag k="addr:city" v="Lagos"/>
@@ -116,6 +116,24 @@
     <tag k="survey:date" v="2024-04-18"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.pangeli.co.za/"/>
+  </node>
+  <node id="6853720953" lat="45.5246290" lon="10.2102430" version="5" timestamp="2024-08-09T15:38:10Z" changeset="155029376" uid="21833345" user="Bitcoin People">
+    <tag k="addr:city" v="Brescia"/>
+    <tag k="addr:housenumber" v="66"/>
+    <tag k="addr:postcode" v="25124"/>
+    <tag k="addr:street" v="Via Cipro"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Bitcoin People è una startup che offre soluzioni software e consulenza per facilitare l'uso di Bitcoin come metodo di pagamento, attraverso il suo gateway BPay."/>
+    <tag k="name" v="Bitcoin People"/>
+    <tag k="office" v="coworking_space"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+39 347 637 8826"/>
+    <tag k="survey:date" v="2024-08-09"/>
+    <tag k="website" v="https://bitcoinpeople.it/"/>
   </node>
   <node id="6938319387" lat="-24.2100495" lon="151.9058504" version="4" timestamp="2024-08-04T05:48:46Z" changeset="154796690" uid="21803935" user="Bayani Mills">
     <tag k="addr:housenumber" v="7"/>
@@ -1559,14 +1577,6 @@
     <tag k="survey:date" v="2024-08-01"/>
     <tag k="telegram" v="@tructor"/>
     <tag k="website" v="www.skinlabclothing.club"/>
-  </node>
-  <node id="12099979947" lat="37.3169891" lon="126.8382034" version="1" timestamp="2024-08-09T05:04:30Z" changeset="155004909" uid="7245212" user="LuxuryCoop">
-    <tag k="amenity" v="pharmacy"/>
-    <tag k="name" v="코아약국"/>
-    <tag k="name:ko" v="코아약국"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="smoking" v="no"/>
   </node>
 
 </osm>
