@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-10T05:25:29Z"/>
+<meta osm_base="2024-08-11T05:24:58Z"/>
 
   <node id="1077275919" lat="37.0996923" lon="-8.6724745" version="7" timestamp="2024-08-01T15:33:48Z" changeset="154699846" uid="21802322" user="Jah Shaka Surf Shop">
     <tag k="addr:city" v="Lagos"/>
@@ -1552,31 +1552,41 @@
     <tag k="phone" v="+61 432 525 533"/>
     <tag k="website" v="https://www.furlanifitness.com.au/"/>
   </node>
-  <node id="12095997667" lat="21.0051948" lon="-89.5665873" version="6" timestamp="2024-08-07T15:03:37Z" changeset="154940823" uid="21823605" user="Skinlab Clothing Club">
-    <tag k="addr:city" v="Mérida"/>
-    <tag k="addr:country" v="yucatan"/>
-    <tag k="addr:housenumber" v="SN"/>
-    <tag k="addr:neighbourhood" v="pinos norte ii"/>
-    <tag k="addr:postcode" v="97138"/>
-    <tag k="addr:state" v="yucatan"/>
-    <tag k="addr:street" v="Calle 16-A Diagonal"/>
-    <tag k="clothes" v="men;unisex;children;playeras;tshirts"/>
-    <tag k="contact:telegram" v="https://t.me/+tDNEFWBZDnpjMzUx"/>
+  <node id="12101988126" lat="-1.1605263" lon="37.0026379" version="2" timestamp="2024-08-10T09:59:10Z" changeset="155054819" uid="21814224" user="Bitcoin Babies">
+    <tag k="addr:city" v="Nairobi"/>
+    <tag k="addr:street" v="Matangi Junction"/>
+    <tag k="amenity" v="events_venue"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="SKINLAB CLOTHING CLUB"/>
-    <tag k="opening_hours" v="Mo-Su 09:00-22:00"/>
+    <tag k="name" v="Best Ever Gardens"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="punto de entrega" v="si"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="survey:date" v="2024-08-01"/>
-    <tag k="telegram" v="@tructor"/>
-    <tag k="website" v="www.skinlabclothing.club"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="+254729364499"/>
+    <tag k="survey:date" v="2024-07-10"/>
+  </node>
+  <node id="12102006026" lat="-1.1501164" lon="36.9956547" version="2" timestamp="2024-08-10T10:29:35Z" changeset="155055963" uid="21814224" user="Bitcoin Babies">
+    <tag k="addr:city" v="Ruiru"/>
+    <tag k="addr:street" v="Matangi Rd"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="G-max Supermarket"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="+254713796026"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="survey:date" v="2024-08-03"/>
+  </node>
+  <node id="12102689736" lat="43.2926430" lon="5.5688193" version="2" timestamp="2024-08-10T13:15:34Z" changeset="155062265" uid="21835785" user="BLG Sellerie">
+    <tag k="amenity" v="bicycle_repair_station"/>
+    <tag k="brand" v="BLG SELLERIE"/>
+    <tag k="fee" v="yes"/>
+    <tag k="name" v="BLG SELLERIE"/>
+    <tag k="opening_hours" v="11h00 - 19h00 du lundi au vendredi"/>
+    <tag k="operator" v="BLG SELLERIE"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="service:bicycle:sellerie_moto" v="yes"/>
   </node>
 
 </osm>
