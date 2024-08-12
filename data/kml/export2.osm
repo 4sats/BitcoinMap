@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-11T05:24:58Z"/>
+<meta osm_base="2024-08-12T05:27:26Z"/>
 
   <node id="1077275919" lat="37.0996923" lon="-8.6724745" version="7" timestamp="2024-08-01T15:33:48Z" changeset="154699846" uid="21802322" user="Jah Shaka Surf Shop">
     <tag k="addr:city" v="Lagos"/>
@@ -1578,15 +1578,37 @@
     <tag k="shop" v="supermarket"/>
     <tag k="survey:date" v="2024-08-03"/>
   </node>
-  <node id="12102689736" lat="43.2926430" lon="5.5688193" version="2" timestamp="2024-08-10T13:15:34Z" changeset="155062265" uid="21835785" user="BLG Sellerie">
-    <tag k="amenity" v="bicycle_repair_station"/>
-    <tag k="brand" v="BLG SELLERIE"/>
-    <tag k="fee" v="yes"/>
-    <tag k="name" v="BLG SELLERIE"/>
-    <tag k="opening_hours" v="11h00 - 19h00 du lundi au vendredi"/>
-    <tag k="operator" v="BLG SELLERIE"/>
+  <node id="12104131268" lat="41.7157959" lon="21.7832722" version="1" timestamp="2024-08-11T11:49:48Z" changeset="155098500" uid="14721445" user="he who knows">
+    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:MKD" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="service:bicycle:sellerie_moto" v="yes"/>
+    <tag k="payment:western_union" v="yes"/>
+    <tag k="survey:date" v="2024-09-08"/>
+  </node>
+  <node id="12104374565" lat="47.9180886" lon="20.3788050" version="5" timestamp="2024-08-11T15:40:49Z" changeset="155109234" uid="21838710" user="Street Workout Team Eger Civil Society Organization">
+    <tag k="addr:city" v="Eger"/>
+    <tag k="addr:housenumber" v="25752"/>
+    <tag k="addr:postcode" v="3300"/>
+    <tag k="addr:street" v="Cifrakapu utca"/>
+    <tag k="check_date" v="2024-08-11"/>
+    <tag k="check_date:currency:XBT" v="2024-08-11"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="swote16@gmail.com"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Street Workout Team Eger CSO"/>
+    <tag k="opening_hours" v="monday, wednesday, friday  17.00-20.00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+36208244679"/>
+    <tag k="sport" v="street_workout"/>
+    <tag k="survey:date" v="2017-03-01"/>
+    <tag k="website" v="https://www.facebook.com/streetworkoutteameger"/>
   </node>
 
 </osm>
