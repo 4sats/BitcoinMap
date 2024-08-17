@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-16T05:26:28Z"/>
+<meta osm_base="2024-08-17T05:26:23Z"/>
 
   <node id="1077275919" lat="37.0996923" lon="-8.6724745" version="7" timestamp="2024-08-01T15:33:48Z" changeset="154699846" uid="21802322" user="Jah Shaka Surf Shop">
     <tag k="addr:city" v="Lagos"/>
@@ -1609,6 +1609,17 @@
     <tag k="sport" v="street_workout"/>
     <tag k="survey:date" v="2017-03-01"/>
     <tag k="website" v="https://www.facebook.com/streetworkoutteameger"/>
+  </node>
+  <node id="12114519295" lat="-1.1500515" lon="36.9955876" version="1" timestamp="2024-08-16T11:13:12Z" changeset="155322586" uid="21814224" user="Bitcoin Babies">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Friendly Pharmacy"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="survey:date" v="16-08-2024"/>
   </node>
 
 </osm>
