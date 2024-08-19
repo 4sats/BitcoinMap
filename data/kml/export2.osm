@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-18T05:26:03Z"/>
+<meta osm_base="2024-08-19T05:26:44Z"/>
 
   <node id="1077275919" lat="37.0996923" lon="-8.6724745" version="7" timestamp="2024-08-01T15:33:48Z" changeset="154699846" uid="21802322" user="Jah Shaka Surf Shop">
     <tag k="addr:city" v="Lagos"/>
@@ -1620,6 +1620,19 @@
     <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:onchain" v="no"/>
     <tag k="survey:date" v="16-08-2024"/>
+  </node>
+  <node id="12118267291" lat="52.5014557" lon="13.4191520" version="1" timestamp="2024-08-18T10:57:30Z" changeset="155408548" uid="201359" user="wambacher">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:housenumber" v="30"/>
+    <tag k="addr:postcode" v="10999"/>
+    <tag k="addr:street" v="Oranienstraße"/>
+    <tag k="name" v="Lotto-Getränke-Tabakwaren"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-24:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="shop" v="kiosk"/>
+    <tag k="source" v="Yahoo imagery"/>
   </node>
 
 </osm>
