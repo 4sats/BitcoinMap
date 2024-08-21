@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-20T05:27:15Z"/>
+<meta osm_base="2024-08-21T05:26:26Z"/>
 
   <node id="1077275919" lat="37.0996923" lon="-8.6724745" version="7" timestamp="2024-08-01T15:33:48Z" changeset="154699846" uid="21802322" user="Jah Shaka Surf Shop">
     <tag k="addr:city" v="Lagos"/>
@@ -117,7 +117,7 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.pangeli.co.za/"/>
   </node>
-  <node id="6853720953" lat="45.5246290" lon="10.2102430" version="5" timestamp="2024-08-09T15:38:10Z" changeset="155029376" uid="21833345" user="Bitcoin People">
+  <node id="6853720953" lat="45.5246290" lon="10.2102430" version="6" timestamp="2024-08-20T07:10:05Z" changeset="155493199" uid="1496865" user="mauropili">
     <tag k="addr:city" v="Brescia"/>
     <tag k="addr:housenumber" v="66"/>
     <tag k="addr:postcode" v="25124"/>
@@ -125,7 +125,7 @@
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Bitcoin People è una startup che offre soluzioni software e consulenza per facilitare l'uso di Bitcoin come metodo di pagamento, attraverso il suo gateway BPay."/>
     <tag k="name" v="Bitcoin People"/>
-    <tag k="office" v="coworking_space"/>
+    <tag k="office" v="coworking"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-18:30"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
@@ -1633,6 +1633,51 @@
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="shop" v="kiosk"/>
     <tag k="source" v="Yahoo imagery"/>
+  </node>
+  <node id="12122942948" lat="13.7057057" lon="-89.2038713" version="1" timestamp="2024-08-20T20:19:20Z" changeset="155528245" uid="21869514" user="UrologoSV">
+    <tag k="addr:city" v="San Salvador"/>
+    <tag k="addr:housenumber" v="640"/>
+    <tag k="addr:postcode" v="01101"/>
+    <tag k="addr:street" v="25 Avenida Norte 3a planta local 2"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="clinic"/>
+    <tag k="brand" v="UrologoSV"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/urologosv"/>
+    <tag k="description" v="Urologo El Salvador - Dr. Herbert Ayala. Atención integral de enfermedades del sistema urinario. Próstata, genitales masculinos, disfunción eréctil y eyaculación precoz."/>
+    <tag k="email" v="urologosv@gmail.com"/>
+    <tag k="healthcare" v="clinic"/>
+    <tag k="healthcare:speciality" v="urology;surgery"/>
+    <tag k="image" v="https://urologoelsalvador.com/wp-content/uploads/2018/03/San-Salvador-02-UrologoSV-600x400.jpg"/>
+    <tag k="level" v="3"/>
+    <tag k="mobile" v="+503 71481112"/>
+    <tag k="name" v="Urologo El Salvador - Dr. Herbert Ayala"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-17:00"/>
+    <tag k="operator" v="UrologoSV"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:transferencia" v="yes"/>
+    <tag k="phone" v="+503 22252277"/>
+    <tag k="website" v="https://urologoelsalvador.com"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12122984960" lat="47.7584643" lon="-122.1979664" version="1" timestamp="2024-08-20T20:32:32Z" changeset="155528755" uid="21869114" user="Dg Coffe">
+    <tag k="addr:city" v="Bothell"/>
+    <tag k="addr:housenumber" v="10610"/>
+    <tag k="addr:postcode" v="98011"/>
+    <tag k="addr:state" v="WA"/>
+    <tag k="addr:street" v="Woodinville Drive"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Dg Coffee"/>
+    <tag k="opening_hours" v="Mo-Su 6:00-16:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="2069799655"/>
+    <tag k="survey:date" v="2024-08-20"/>
   </node>
 
 </osm>
