@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-21T05:26:26Z"/>
+<meta osm_base="2024-08-22T05:26:59Z"/>
 
   <node id="1077275919" lat="37.0996923" lon="-8.6724745" version="7" timestamp="2024-08-01T15:33:48Z" changeset="154699846" uid="21802322" user="Jah Shaka Surf Shop">
     <tag k="addr:city" v="Lagos"/>
@@ -58,6 +58,30 @@
     <tag k="name" v="Crypto Coffee"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.cryptocoffee.com.au/"/>
+  </node>
+  <node id="4159957853" lat="49.4401681" lon="1.0972569" version="18" timestamp="2024-08-21T18:03:30Z" changeset="155572418" uid="21873216" user="expressrepublique">
+    <tag k="addr:city" v="ROUEN"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="76000"/>
+    <tag k="addr:street" v="Rue de la République"/>
+    <tag k="brand" v="Carrefour Express"/>
+    <tag k="brand:wikidata" v="Q2940190"/>
+    <tag k="brand:wikipedia" v="fr:Carrefour Express"/>
+    <tag k="check_date" v="2024-08-21"/>
+    <tag k="name" v="Carrefour Express"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-22:00"/>
+    <tag k="operator" v="SARL SGC2"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+33 2 32 08 03 34"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="website" v="https://www.carrefour.fr/magasin/express-rouen-republique"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="4265332843" lat="-33.8311276" lon="151.2215832" version="2" timestamp="2024-08-04T04:31:48Z" changeset="154795806" uid="21803935" user="Bayani Mills">
     <tag k="addr:housenumber" v="164"/>
@@ -1634,40 +1658,14 @@
     <tag k="shop" v="kiosk"/>
     <tag k="source" v="Yahoo imagery"/>
   </node>
-  <node id="12122942948" lat="13.7057057" lon="-89.2038713" version="1" timestamp="2024-08-20T20:19:20Z" changeset="155528245" uid="21869514" user="UrologoSV">
-    <tag k="addr:city" v="San Salvador"/>
-    <tag k="addr:housenumber" v="640"/>
-    <tag k="addr:postcode" v="01101"/>
-    <tag k="addr:street" v="25 Avenida Norte 3a planta local 2"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="amenity" v="clinic"/>
-    <tag k="brand" v="UrologoSV"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/urologosv"/>
-    <tag k="description" v="Urologo El Salvador - Dr. Herbert Ayala. Atención integral de enfermedades del sistema urinario. Próstata, genitales masculinos, disfunción eréctil y eyaculación precoz."/>
-    <tag k="email" v="urologosv@gmail.com"/>
-    <tag k="healthcare" v="clinic"/>
-    <tag k="healthcare:speciality" v="urology;surgery"/>
-    <tag k="image" v="https://urologoelsalvador.com/wp-content/uploads/2018/03/San-Salvador-02-UrologoSV-600x400.jpg"/>
-    <tag k="level" v="3"/>
-    <tag k="mobile" v="+503 71481112"/>
-    <tag k="name" v="Urologo El Salvador - Dr. Herbert Ayala"/>
-    <tag k="opening_hours" v="Mo-Fr 07:00-17:00"/>
-    <tag k="operator" v="UrologoSV"/>
-    <tag k="operator:type" v="private"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:transferencia" v="yes"/>
-    <tag k="phone" v="+503 22252277"/>
-    <tag k="website" v="https://urologoelsalvador.com"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="12122984960" lat="47.7584643" lon="-122.1979664" version="1" timestamp="2024-08-20T20:32:32Z" changeset="155528755" uid="21869114" user="Dg Coffe">
+  <node id="12122984960" lat="47.7584643" lon="-122.1979664" version="2" timestamp="2024-08-21T11:54:21Z" changeset="155553905" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="Bothell"/>
     <tag k="addr:housenumber" v="10610"/>
     <tag k="addr:postcode" v="98011"/>
     <tag k="addr:state" v="WA"/>
     <tag k="addr:street" v="Woodinville Drive"/>
     <tag k="amenity" v="cafe"/>
+    <tag k="check_date:currency:XBT" v="2024-08-21"/>
     <tag k="cuisine" v="coffee_shop"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Dg Coffee"/>
@@ -1678,6 +1676,44 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="2069799655"/>
     <tag k="survey:date" v="2024-08-20"/>
+  </node>
+  <node id="12123774898" lat="-1.1442287" lon="36.9898925" version="1" timestamp="2024-08-21T08:10:56Z" changeset="155543617" uid="21814224" user="Bitcoin Babies">
+    <tag k="addr:street" v="Ruiru, Kenya"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Beauty Secrets - Salon &amp; Kinyozi"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="0716339032"/>
+    <tag k="shop" v="beauty"/>
+    <tag k="survey:date" v="2024-08-21"/>
+  </node>
+  <node id="12123814239" lat="-1.1434027" lon="36.9883781" version="1" timestamp="2024-08-21T08:20:39Z" changeset="155544017" uid="21814224" user="Bitcoin Babies">
+    <tag k="addr:city" v="Ruiru, Kenya"/>
+    <tag k="addr:street" v="Kimbo, Matangi road"/>
+    <tag k="clothes" v="women"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Cute Girl"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="0798297323"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="survey:date" v="2024-08-21"/>
+  </node>
+  <node id="12123830666" lat="-1.1446544" lon="36.9897338" version="1" timestamp="2024-08-21T08:31:07Z" changeset="155544514" uid="21814224" user="Bitcoin Babies">
+    <tag k="addr:street" v="Ruiru, Kenya"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Marvelous Butchery &amp; Hotel"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="0113406762"/>
+    <tag k="shop" v="butcher"/>
+    <tag k="survey:date" v="2024-08-21"/>
   </node>
 
 </osm>
