@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-23T05:26:46Z"/>
+<meta osm_base="2024-08-24T05:26:58Z"/>
 
   <node id="1077275919" lat="37.0996923" lon="-8.6724745" version="7" timestamp="2024-08-01T15:33:48Z" changeset="154699846" uid="21802322" user="Jah Shaka Surf Shop">
     <tag k="addr:city" v="Lagos"/>
@@ -1690,6 +1690,18 @@
     <tag k="phone" v="0113406762"/>
     <tag k="shop" v="butcher"/>
     <tag k="survey:date" v="2024-08-21"/>
+  </node>
+  <node id="12129218638" lat="36.7825919" lon="54.1181596" version="1" timestamp="2024-08-23T07:37:27Z" changeset="155637549" uid="21878193" user="Callhami">
+    <tag k="addr:city" v="کردکوی"/>
+    <tag k="addr:street" v="دانش ۱"/>
+    <tag k="name" v="Gadget inja"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Hamid Hosseini"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="outpost"/>
+    <tag k="website" v="https://www.instagram.com/gadget.inja/"/>
   </node>
 
 </osm>
