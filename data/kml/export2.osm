@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-26T05:26:41Z"/>
+<meta osm_base="2024-08-27T05:26:25Z"/>
 
   <node id="1077275919" lat="37.0996923" lon="-8.6724745" version="7" timestamp="2024-08-01T15:33:48Z" changeset="154699846" uid="21802322" user="Jah Shaka Surf Shop">
     <tag k="addr:city" v="Lagos"/>
@@ -58,6 +58,21 @@
     <tag k="name" v="Crypto Coffee"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="website" v="https://www.cryptocoffee.com.au/"/>
+  </node>
+  <node id="2534783919" lat="46.2908465" lon="11.4618140" version="7" timestamp="2024-08-26T14:47:35Z" changeset="155786770" uid="21888161" user="Graviz">
+    <tag k="addr:city" v="Cavalese"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="38033"/>
+    <tag k="addr:street" v="Via Fratelli Bronzetti"/>
+    <tag k="male" v="yes"/>
+    <tag k="name" v="Barbieria Boschetto"/>
+    <tag k="opening_hours" v="Tu-Sa 8:30-12:00,15:00-19:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="330521556"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="website" v="https://sites.google.com/site/saloneboschetto/home"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="4265332843" lat="-33.8311276" lon="151.2215832" version="2" timestamp="2024-08-04T04:31:48Z" changeset="154795806" uid="21803935" user="Bayani Mills">
     <tag k="addr:housenumber" v="164"/>
@@ -1702,6 +1717,19 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="shop" v="outpost"/>
     <tag k="website" v="https://www.instagram.com/gadget.inja/"/>
+  </node>
+  <node id="12137840668" lat="42.6501326" lon="23.3604521" version="1" timestamp="2024-08-26T14:02:41Z" changeset="155784520" uid="21195860" user="Blue Taste Poke">
+    <tag k="addr:city" v="Sofia"/>
+    <tag k="addr:postcode" v="1000"/>
+    <tag k="addr:street" v="Андрей Ляпчев 1"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Facebook marketing for online shops and businesses."/>
+    <tag k="name" v="CreativeAds - Facebook Marketing Agency"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+359893002868"/>
+    <tag k="website" v="https://creativeads.bg/"/>
   </node>
 
 </osm>
