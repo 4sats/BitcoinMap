@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-04T05:28:36Z"/>
+<meta osm_base="2024-09-05T05:27:43Z"/>
 
   <node id="1504386666" lat="-28.5538377" lon="153.4996717" version="3" timestamp="2024-08-02T05:51:33Z" changeset="154719387" uid="21803935" user="Bayani Mills">
     <tag k="addr:housenumber" v="104"/>
@@ -1709,6 +1709,18 @@
     <tag k="opening_hours" v="24/7"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
+  </node>
+  <node id="12155981141" lat="-25.9826445" lon="-52.5655395" version="1" timestamp="2024-09-04T17:31:11Z" changeset="156197483" uid="21919825" user="Vitalar Móveis">
+    <tag k="addr:city" v="Coronel Vivida"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:postcode" v="85550000"/>
+    <tag k="addr:street" v="Rua Doutor Claudino dos Santos"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="name" v="Vitalar Moveis"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="46988284413"/>
+    <tag k="shop" v="furniture"/>
   </node>
 
 </osm>
