@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-16T05:29:58Z"/>
+<meta osm_base="2024-09-17T05:26:39Z"/>
 
-  <node id="1504386666" lat="-28.5538377" lon="153.4996717" version="3" timestamp="2024-08-02T05:51:33Z" changeset="154719387" uid="21803935" user="Bayani Mills">
+  <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
     <tag k="addr:postcode" v="2482"/>
     <tag k="addr:state" v="NSW"/>
@@ -1508,19 +1508,21 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
   </node>
-  <node id="12159495732" lat="47.5198342" lon="8.6854890" version="1" timestamp="2024-09-06T08:08:03Z" changeset="156261443" uid="21925886" user="Tomm21">
-    <tag k="addr:city" v="Winterthur"/>
-    <tag k="addr:housenumber" v="76"/>
-    <tag k="addr:postcode" v="8408"/>
-    <tag k="addr:street" v="Taggenbergstrasse"/>
-    <tag k="name" v="Hofladen Taggenberg Bio"/>
-    <tag k="note" v="Äpfel, Birnen, Pflaumen, Kirschen und Süssmost in der Saison&#x0a;Natura Beef Fleisch aus Mutterkuhhaltung über das ganze Jahr auf Bestellung&#x0a;https://www.taggenberg-beef.ch&#x0a;Twint&#x0a;Bitcoin on-chain&#x0a;Bitcoin Lightning"/>
+  <node id="12180252187" lat="5.8043996" lon="-55.2189542" version="1" timestamp="2024-09-16T13:30:24Z" changeset="156688688" uid="21855749" user="Terence Coronel">
+    <tag k="addr:city" v="Paramaribo"/>
+    <tag k="addr:street" v="Goede Verwachtingweg"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="She sells Cassava, Sweet Potatoes, Pumpkins"/>
+    <tag k="name" v="Doekoe Junitha"/>
+    <tag k="organic" v="only"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:blik" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
-    <tag k="shop" v="supermarket"/>
-    <tag k="website" v="https://www.taggenberg-beef.ch/"/>
+    <tag k="shop" v="greengrocer"/>
+    <tag k="survey:date" v="2024-09-13"/>
   </node>
 
 </osm>
