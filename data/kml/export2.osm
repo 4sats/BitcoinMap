@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-25T05:28:44Z"/>
+<meta osm_base="2024-09-26T05:28:48Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -18,6 +18,22 @@
     <tag k="phone" v="+61 2 6684 2415"/>
     <tag k="website" v="https://lulus-cafe.com.au/"/>
   </node>
+  <node id="2818053168" lat="51.5328902" lon="4.4572263" version="6" timestamp="2024-09-25T11:59:41Z" changeset="157078654" uid="334075" user="eggie">
+    <tag k="addr:city" v="Roosendaal"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="4701PK"/>
+    <tag k="addr:street" v="Raadhuisstraat"/>
+    <tag k="email" v="info@drogisterijhetgeheim.nl"/>
+    <tag k="name" v="Drogisterij Het Geheim"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+31 165 393 965"/>
+    <tag k="shop" v="chemist"/>
+    <tag k="source" v="BAG;survey"/>
+    <tag k="source:date" v="2014-02-11"/>
+    <tag k="website" v="https://drogisterijhetgeheim.nl"/>
+  </node>
   <node id="4265332843" lat="-33.8311276" lon="151.2215832" version="2" timestamp="2024-08-04T04:31:48Z" changeset="154795806" uid="21803935" user="Bayani Mills">
     <tag k="addr:housenumber" v="164"/>
     <tag k="addr:postcode" v="2089"/>
@@ -32,6 +48,25 @@
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Sugar Coast"/>
     <tag k="payment:bitcoin" v="yes"/>
+  </node>
+  <node id="4379042414" lat="51.4251073" lon="-0.0834934" version="4" timestamp="2024-09-25T08:18:45Z" changeset="157069845" uid="19554480" user="BullishMove">
+    <tag k="addr:city" v="London"/>
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:postcode" v="SE19 1PW"/>
+    <tag k="addr:street" v="Gipsy Hill"/>
+    <tag k="currency:GBP" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="info@focusplant.uk"/>
+    <tag k="name" v="Focus Plant"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-16:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="shop" v="tool_hire"/>
+    <tag k="website" v="www.focusplant.uk"/>
   </node>
   <node id="5373046123" lat="-34.1967866" lon="18.3749931" version="4" timestamp="2024-07-24T07:58:01Z" changeset="154337115" uid="21782067" user="DanieScarb">
     <tag k="amenity" v="restaurant"/>
@@ -110,6 +145,52 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+61 7 4974 7004"/>
     <tag k="website" v="https://www.codiesplace.com/"/>
+  </node>
+  <node id="7660154838" lat="50.3884511" lon="18.8823044" version="8" timestamp="2024-09-25T17:50:35Z" changeset="157094987" uid="11410610" user="gabinetpsychiatra">
+    <tag k="addr:city" v="Bytom"/>
+    <tag k="addr:housenumber" v="196/12"/>
+    <tag k="addr:postcode" v="41-914"/>
+    <tag k="addr:street" v="Strzelców Bytomskich"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="check_date:currency:XBT" v="2024-09-24"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="praktyka@gabinetpsychiatra.pl"/>
+    <tag k="healthcare" v="doctor"/>
+    <tag k="healthcare:speciality" v="psychiatry"/>
+    <tag k="level" v="2"/>
+    <tag k="name" v="Specjalistyczna Praktyka Psychiatryczna Krzysztof Stańkowski Bytom"/>
+    <tag k="operator" v="Krzysztof Stańkowski"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+48509122806"/>
+    <tag k="source" v="owner"/>
+    <tag k="start_date" v="2004-02-01"/>
+    <tag k="website" v="https://gabinetpsychiatra.pl"/>
+  </node>
+  <node id="7660184231" lat="50.3195599" lon="19.0686734" version="7" timestamp="2024-09-25T17:55:22Z" changeset="157095196" uid="11410610" user="gabinetpsychiatra">
+    <tag k="addr:city" v="Czeladź"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:postcode" v="41-250"/>
+    <tag k="addr:street" v="Bytomska"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="praktyka@gabinetpsychiatra.pl"/>
+    <tag k="healthcare" v="doctor"/>
+    <tag k="healthcare:speciality" v="psychiatry;psychiatra"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Specjalistyczna Praktyka Psychiatryczna Krzysztof Stańkowski Czeladź"/>
+    <tag k="operator" v="Krzysztof Stańkowski"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+48509122806"/>
+    <tag k="survey:date" v="2024-09-23"/>
+    <tag k="website" v="https://gabinetpsychiatra.pl"/>
   </node>
   <node id="10103488116" lat="-29.7330435" lon="31.0830025" version="3" timestamp="2024-09-06T12:02:57Z" changeset="156271696" uid="8555719" user="Khathucry">
     <tag k="addr:city" v="Umhlanga Rocks"/>
