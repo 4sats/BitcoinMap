@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-01T05:28:36Z"/>
+<meta osm_base="2024-10-02T05:29:15Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -1636,6 +1636,21 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+12132218650"/>
     <tag k="shop" v="travel_agency"/>
+  </node>
+  <node id="12213462257" lat="23.2674946" lon="-106.4094150" version="1" timestamp="2024-10-01T06:22:08Z" changeset="157322995" uid="22016407" user="Gloria Galeria">
+    <tag k="addr:city" v="Mazatlan"/>
+    <tag k="addr:housenumber" v="433"/>
+    <tag k="addr:postcode" v="82132"/>
+    <tag k="addr:state" v="Sinaloa"/>
+    <tag k="addr:street" v="Azucenas"/>
+    <tag k="clothes" v="ropa_hombre_y_mujer;_bebé;niño;niña"/>
+    <tag k="name" v="Hombre y mujer"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:transferencia" v="yes"/>
+    <tag k="phone" v="+526692661906"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="stroller" v="yes"/>
   </node>
 
 </osm>
