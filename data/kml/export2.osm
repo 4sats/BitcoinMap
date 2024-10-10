@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-09T05:29:43Z"/>
+<meta osm_base="2024-10-10T05:29:29Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -1719,6 +1719,19 @@
     <tag k="shop" v="yes"/>
     <tag k="start_date" v="2023-10-01"/>
     <tag k="website" v="https://www.ingaz.com.br"/>
+  </node>
+  <node id="12237335135" lat="40.7691663" lon="-111.9043278" version="1" timestamp="2024-10-09T06:48:57Z" changeset="157657296" uid="22046395" user="jacoblyman">
+    <tag k="addr:city" v="Salt Lake City"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="84101"/>
+    <tag k="addr:state" v="Utah"/>
+    <tag k="addr:street" v="S Rio Grande St"/>
+    <tag k="description" v="The Sat Store is a Bitcoin-first shop that sells vintage and secondhand items at the SLC Urban Flea Market in exchange for Bitcoin over the Lightning Network. It also sells products online at www.satstore.shop"/>
+    <tag k="name" v="The Sat Store"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="thrift"/>
   </node>
 
 </osm>
