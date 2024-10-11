@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-10T05:29:29Z"/>
+<meta osm_base="2024-10-11T05:28:23Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -41,6 +41,32 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="farm"/>
   </node>
+  <node id="2719478150" lat="14.6007149" lon="-90.5196428" version="6" timestamp="2024-10-10T20:48:45Z" changeset="157732876" uid="22040290" user="Juan BTC">
+    <tag k="addr:city" v="Zona 9"/>
+    <tag k="addr:housenumber" v="6-77"/>
+    <tag k="addr:postcode" v="01009"/>
+    <tag k="addr:street" v="13 Calle"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:GTQ" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="info@laincreibleabm.com"/>
+    <tag k="name" v="La Increible ABM"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+502 2411 4848"/>
+    <tag k="shop" v="electronics"/>
+    <tag k="source" v="KG Ground Survey 2015;local knowledge"/>
+    <tag k="survey:date" v="2024-10-10"/>
+    <tag k="website" v="https://laincreibleabm.com.gt/"/>
+  </node>
   <node id="2811570956" lat="46.9506646" lon="7.4566210" version="14" timestamp="2024-10-03T15:47:03Z" changeset="157425601" uid="7522075" user="Rockedf">
     <tag k="check_date:currency:XBT" v="2024-10-03"/>
     <tag k="contact:addr" v="Altenbergstrasse 44, 3013 Bern"/>
@@ -55,22 +81,6 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="survey:date" v="2024-10-03"/>
     <tag k="website" v="https://www.floatbern.ch/"/>
-  </node>
-  <node id="2818053168" lat="51.5328902" lon="4.4572263" version="6" timestamp="2024-09-25T11:59:41Z" changeset="157078654" uid="334075" user="eggie">
-    <tag k="addr:city" v="Roosendaal"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="4701PK"/>
-    <tag k="addr:street" v="Raadhuisstraat"/>
-    <tag k="email" v="info@drogisterijhetgeheim.nl"/>
-    <tag k="name" v="Drogisterij Het Geheim"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+31 165 393 965"/>
-    <tag k="shop" v="chemist"/>
-    <tag k="source" v="BAG;survey"/>
-    <tag k="source:date" v="2014-02-11"/>
-    <tag k="website" v="https://drogisterijhetgeheim.nl"/>
   </node>
   <node id="4265332843" lat="-33.8311144" lon="151.2215912" version="3" timestamp="2024-09-28T17:52:27Z" changeset="157221796" uid="12556129" user="ChonkerStonker">
     <tag k="addr:housenumber" v="164"/>
@@ -1732,6 +1742,29 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="shop" v="thrift"/>
+  </node>
+  <node id="12241249763" lat="37.0979286" lon="-2.1242558" version="1" timestamp="2024-10-10T12:43:01Z" changeset="157714133" uid="22051979" user="Guadatech">
+    <tag k="addr:city" v="Sorbas"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="04270"/>
+    <tag k="addr:street" v="Plaza de la Constitución"/>
+    <tag k="amenity" v="college"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Educational space about bitcoin focused on its applications in everyday life through the lightning network."/>
+    <tag k="email" v="guadatechmail@gmail.com"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="mobile" v="+34 619337672"/>
+    <tag k="name" v="Centro Guadalinfo Vuela Guadatech EdSpace"/>
+    <tag k="operator" v="Guadatech"/>
+    <tag k="operator:type" v="ngo"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2024-10-10"/>
+    <tag k="website" v="https://www.guadatech.com/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
