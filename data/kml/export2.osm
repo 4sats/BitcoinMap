@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-14T05:29:25Z"/>
+<meta osm_base="2024-10-15T05:29:59Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -81,6 +81,23 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="survey:date" v="2024-10-03"/>
     <tag k="website" v="https://www.floatbern.ch/"/>
+  </node>
+  <node id="2930764201" lat="42.6893374" lon="23.3215198" version="10" timestamp="2024-10-14T19:04:28Z" changeset="157892446" uid="3754310" user="rhhs">
+    <tag k="addr:housenumber" v="36"/>
+    <tag k="addr:street" v="Хан Аспарух"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date:opening_hours" v="2024-07-23"/>
+    <tag k="cuisine" v="greek"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Kuzina"/>
+    <tag k="opening_hours" v="Mo-Su 11:30-23:30"/>
+    <tag k="opening_hours:signed" v="no"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="website" v="https://kuzina.bg"/>
   </node>
   <node id="4265332843" lat="-33.8311144" lon="151.2215912" version="3" timestamp="2024-09-28T17:52:27Z" changeset="157221796" uid="12556129" user="ChonkerStonker">
     <tag k="addr:housenumber" v="164"/>
@@ -1617,13 +1634,13 @@
     <tag k="shop" v="outpost"/>
     <tag k="website" v="https://www.instagram.com/gadget.inja/"/>
   </node>
-  <node id="12137840668" lat="42.6501326" lon="23.3604521" version="1" timestamp="2024-08-26T14:02:41Z" changeset="155784520" uid="21195860" user="Blue Taste Poke">
-    <tag k="addr:city" v="Sofia"/>
-    <tag k="addr:postcode" v="1000"/>
-    <tag k="addr:street" v="Андрей Ляпчев 1"/>
+  <node id="12137840668" lat="42.6501326" lon="23.3604521" version="2" timestamp="2024-10-14T19:14:56Z" changeset="157892798" uid="3754310" user="rhhs">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="бул. Андрей Ляпчев"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Facebook marketing for online shops and businesses."/>
-    <tag k="name" v="CreativeAds - Facebook Marketing Agency"/>
+    <tag k="name" v="CreativeAds"/>
+    <tag k="office" v="advertising_agency"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
@@ -1780,6 +1797,18 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+502 3655 8084"/>
     <tag k="shop" v="health_food"/>
+  </node>
+  <node id="12250165495" lat="27.3074643" lon="88.5690518" version="2" timestamp="2024-10-14T10:20:38Z" changeset="157869550" uid="17429" user="thevikas">
+    <tag k="company" v="software"/>
+    <tag k="computer:software" v="application;web"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="thevikas.com"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2024-10-01"/>
+    <tag k="website" v="https://thevikas.com"/>
   </node>
 
 </osm>
