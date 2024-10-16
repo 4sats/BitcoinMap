@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-15T05:29:59Z"/>
+<meta osm_base="2024-10-16T05:29:02Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -1654,6 +1654,27 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
   </node>
+  <node id="12165688182" lat="-1.2836066" lon="36.8732540" version="2" timestamp="2024-10-15T13:47:33Z" changeset="157922048" uid="22070050" user="Afribit Africa">
+    <tag k="addr:city" v="Nairobi"/>
+    <tag k="addr:housenumber" v="122"/>
+    <tag k="addr:postcode" v="00100"/>
+    <tag k="addr:street" v="Rabai Road"/>
+    <tag k="check_date" v="2024-09-09"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Dess Gaming is your premier destination for PlayStation gaming experiences in Nairobi. We offer an immersive pay-to-play environment featuring the latest games and consoles. We host exciting game tournaments occasionally."/>
+    <tag k="email" v="dessgaminginfo@gmail.com"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="leisure" v="amusement_arcade"/>
+    <tag k="mobile" v="+254790778103"/>
+    <tag k="name" v="Dess Gaming"/>
+    <tag k="operator" v="Edmund Spira"/>
+    <tag k="payment:apple_pay" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="survey:date" v="2024-09-09"/>
+  </node>
   <node id="12180252187" lat="5.8043996" lon="-55.2189542" version="1" timestamp="2024-09-16T13:30:24Z" changeset="156688688" uid="21855749" user="Terence Coronel">
     <tag k="addr:city" v="Paramaribo"/>
     <tag k="addr:street" v="Goede Verwachtingweg"/>
@@ -1809,6 +1830,61 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="survey:date" v="2024-10-01"/>
     <tag k="website" v="https://thevikas.com"/>
+  </node>
+  <node id="12250228285" lat="47.5268618" lon="19.0664373" version="2" timestamp="2024-10-15T11:15:54Z" changeset="157916008" uid="662512" user="infeeeee">
+    <tag k="addr:city" v="Budapest"/>
+    <tag k="addr:door" v="3"/>
+    <tag k="addr:floor" v="0"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="1134"/>
+    <tag k="addr:street" v="Klapka utca"/>
+    <tag k="contact:email" v="barnabaspalffi@gmail.com"/>
+    <tag k="contact:phone" v="+36 70 679 5668"/>
+    <tag k="contact:website" v="https://brownsalon.hu"/>
+    <tag k="female" v="yes"/>
+    <tag k="male" v="yes"/>
+    <tag k="name" v="Brownsalon &amp; Barber"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-20:00; Sa 08:00-14:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="12253101509" lat="-1.3177526" lon="36.7781956" version="1" timestamp="2024-10-15T14:46:06Z" changeset="157924618" uid="22070050" user="Afribit Africa">
+    <tag k="amenity" v="vending_machine"/>
+    <tag k="check_date" v="2024-10-15"/>
+    <tag k="currency:KSH" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="drink:juice" v="yes"/>
+    <tag k="drink:mocktail" v="yes"/>
+    <tag k="name" v="Calisto Enterprise"/>
+    <tag k="opening_hours" v="8am - 5pm"/>
+    <tag k="operator" v="Calisto Amuhaya"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mobile_money" v="yes"/>
+    <tag k="payment:mpesa" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="vending" v="drinks"/>
+  </node>
+  <node id="12254150163" lat="14.5986748" lon="-90.5072992" version="1" timestamp="2024-10-16T03:06:31Z" changeset="157945093" uid="22057438" user="anellrod">
+    <tag k="addr:city" v="Ciudad de Guatemala"/>
+    <tag k="addr:housenumber" v="13-01"/>
+    <tag k="addr:postcode" v="01010"/>
+    <tag k="addr:street" v="Diagonal 6 zona 10 C.C. Oakland Mall 2do. Nivel Kiosko K-05"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Pangea Jewelry"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+502 39929543"/>
+    <tag k="shop" v="jewelry"/>
+    <tag k="website" v="https://www.joyaspangea.com/"/>
   </node>
 
 </osm>
