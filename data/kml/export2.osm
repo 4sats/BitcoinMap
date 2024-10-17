@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-16T05:29:02Z"/>
+<meta osm_base="2024-10-17T05:29:16Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -98,6 +98,18 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="website" v="https://kuzina.bg"/>
+  </node>
+  <node id="3904561345" lat="14.5856794" lon="-90.4856430" version="4" timestamp="2024-10-16T16:23:37Z" changeset="157973293" uid="22057438" user="anellrod">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="El Mercadito de Lola"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="shop" v="gift"/>
+    <tag k="source" v="Reconocimiento cartográfico por KG 2016."/>
   </node>
   <node id="4265332843" lat="-33.8311144" lon="151.2215912" version="3" timestamp="2024-09-28T17:52:27Z" changeset="157221796" uid="12556129" user="ChonkerStonker">
     <tag k="addr:housenumber" v="164"/>
@@ -1848,7 +1860,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="shop" v="hairdresser"/>
   </node>
-  <node id="12253101509" lat="-1.3177526" lon="36.7781956" version="1" timestamp="2024-10-15T14:46:06Z" changeset="157924618" uid="22070050" user="Afribit Africa">
+  <node id="12253101509" lat="-1.3193731" lon="36.7711766" version="3" timestamp="2024-10-16T16:33:28Z" changeset="157973723" uid="12131299" user="EdmundSpira">
     <tag k="amenity" v="vending_machine"/>
     <tag k="check_date" v="2024-10-15"/>
     <tag k="currency:KSH" v="yes"/>
@@ -1885,6 +1897,358 @@
     <tag k="phone" v="+502 39929543"/>
     <tag k="shop" v="jewelry"/>
     <tag k="website" v="https://www.joyaspangea.com/"/>
+  </node>
+  <node id="12254678587" lat="-1.3172348" lon="36.7770329" version="3" timestamp="2024-10-16T12:25:24Z" changeset="157962232" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="Raila"/>
+    <tag k="check_date" v="2024-10-15"/>
+    <tag k="currency:KSH" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Empowers local girls and young mothers in bags and beads making by recycling used clothes to new useable products"/>
+    <tag k="drink:juice" v="yes"/>
+    <tag k="drink:mocktail" v="yes"/>
+    <tag k="email" v="muanzompyaorg@gmail.com"/>
+    <tag k="name" v="Mama Design"/>
+    <tag k="office" v="graphic_design"/>
+    <tag k="opening_hours" v="8am - 5pm"/>
+    <tag k="operator" v="Muanzo Mpya"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mobile_money" v="yes"/>
+    <tag k="payment:mpesa" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+2547 32 261 682"/>
+  </node>
+  <node id="12254686388" lat="-1.3168000" lon="36.7784010" version="2" timestamp="2024-10-16T16:33:28Z" changeset="157973723" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="Raila"/>
+    <tag k="check_date" v="2024-10-15"/>
+    <tag k="currency:KSH" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Provides a platform or space where adults can watch football matches played across the globe"/>
+    <tag k="drink:juice" v="yes"/>
+    <tag k="drink:mocktail" v="yes"/>
+    <tag k="email" v="kevinnakali147@gmail.com"/>
+    <tag k="name" v="Kevo DS Station"/>
+    <tag k="opening_hours" v="6pm - 12pm"/>
+    <tag k="operator" v="Kevin Nakali"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mobile_money" v="yes"/>
+    <tag k="payment:mpesa" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+2547 08 574 440"/>
+    <tag k="shop" v="video"/>
+  </node>
+  <node id="12254721499" lat="-1.3242558" lon="36.7798852" version="2" timestamp="2024-10-16T13:18:30Z" changeset="157964266" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="Otiende"/>
+    <tag k="check_date" v="2024-10-15"/>
+    <tag k="currency:KSH" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Specialized in cutting, styling and grooming hair for both females and males."/>
+    <tag k="drink:juice" v="yes"/>
+    <tag k="drink:mocktail" v="yes"/>
+    <tag k="email" v="Mariusitangishaka131@gmail.com"/>
+    <tag k="hairdresser" v="barber"/>
+    <tag k="name" v="Unique Barber Shop"/>
+    <tag k="opening_hours" v="8am - 10pm"/>
+    <tag k="operator" v="Abdulkadir Boro"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mobile_money" v="yes"/>
+    <tag k="payment:mpesa" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+2547 14 369 290"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="12254728431" lat="-1.3165360" lon="36.7762800" version="2" timestamp="2024-10-16T10:38:07Z" changeset="157958243" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="Bombo Lulu"/>
+    <tag k="amenity" v="taxi"/>
+    <tag k="capacity" v="1"/>
+    <tag k="check_date" v="2024-10-15"/>
+    <tag k="currency:KSH" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Provides Transportation services in urban areas."/>
+    <tag k="drink:juice" v="yes"/>
+    <tag k="drink:mocktail" v="yes"/>
+    <tag k="email" v="otifelixodhis@gmail.com"/>
+    <tag k="name" v="Felix"/>
+    <tag k="opening_hours" v="5am - 9:30pm"/>
+    <tag k="operator" v="Felix Odhiambo Otieno"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mobile_money" v="yes"/>
+    <tag k="payment:mpesa" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+2547 05 780 149"/>
+    <tag k="taxi_vehicle" v="motorcycle"/>
+  </node>
+  <node id="12254728432" lat="-1.3175197" lon="36.7744085" version="2" timestamp="2024-10-16T16:33:28Z" changeset="157973723" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="Raila"/>
+    <tag k="check_date" v="2024-10-15"/>
+    <tag k="currency:KSH" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="4PF is a comprehensive service firm that spicializes in a wide range field including cleaning services (Mama Fua), electrical engineering, catering, plumbing and more."/>
+    <tag k="drink:juice" v="yes"/>
+    <tag k="drink:mocktail" v="yes"/>
+    <tag k="email" v="dennisochiengotolo@gmail.com"/>
+    <tag k="name" v="For People Forever LTD"/>
+    <tag k="office" v="yes"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Dennis Ochieng Otolo"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mobile_money" v="yes"/>
+    <tag k="payment:mpesa" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+2547 42 857 375"/>
+  </node>
+  <node id="12254728433" lat="-1.3165360" lon="36.7762810" version="3" timestamp="2024-10-16T10:38:07Z" changeset="157958243" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="Soweto"/>
+    <tag k="amenity" v="taxi"/>
+    <tag k="capacity" v="1"/>
+    <tag k="check_date" v="2024-10-15"/>
+    <tag k="currency:KSH" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Provides Transportation services in urban areas."/>
+    <tag k="drink:juice" v="yes"/>
+    <tag k="drink:mocktail" v="yes"/>
+    <tag k="name" v="Kera Transport"/>
+    <tag k="opening_hours" v="8am - 11pm"/>
+    <tag k="operator" v="Bonface Kera"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mobile_money" v="yes"/>
+    <tag k="payment:mpesa" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+2547 43 647 214"/>
+    <tag k="taxi_vehicle" v="motorcycle"/>
+  </node>
+  <node id="12254733210" lat="-1.3165360" lon="36.7762820" version="3" timestamp="2024-10-16T10:38:07Z" changeset="157958243" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="Soweto"/>
+    <tag k="amenity" v="taxi"/>
+    <tag k="capacity" v="1"/>
+    <tag k="check_date" v="2024-10-15"/>
+    <tag k="currency:KSH" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Provides transportation services in urban areas."/>
+    <tag k="drink:juice" v="yes"/>
+    <tag k="drink:mocktail" v="yes"/>
+    <tag k="email" v="obadiasparta@gmail.com"/>
+    <tag k="name" v="Obadia Nyaenda"/>
+    <tag k="opening_hours" v="7am - 10pm"/>
+    <tag k="operator" v="Obadia Nyaenda"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mobile_money" v="yes"/>
+    <tag k="payment:mpesa" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+2547 99 713 037"/>
+    <tag k="taxi_vehicle" v="motorcycle"/>
+  </node>
+  <node id="12254752062" lat="-1.3081110" lon="36.7821390" version="2" timestamp="2024-10-16T10:38:07Z" changeset="157958243" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="Makina Kibera"/>
+    <tag k="check_date" v="2024-10-15"/>
+    <tag k="currency:KSH" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="- Wholesale fish sales - Fresh fish sales in bulk - Fried fish sales - Delivery of fried fish"/>
+    <tag k="drink:juice" v="yes"/>
+    <tag k="drink:mocktail" v="yes"/>
+    <tag k="email" v="alfonceouma99@gmail.com"/>
+    <tag k="name" v="Fishpoint Eateries"/>
+    <tag k="opening_hours" v="8am - 3pm"/>
+    <tag k="operator" v="Alfonce Otieno"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mobile_money" v="yes"/>
+    <tag k="payment:mpesa" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+2547 00 657 078"/>
+    <tag k="shop" v="seafood"/>
+  </node>
+  <node id="12255259652" lat="-1.3175560" lon="36.8005280" version="2" timestamp="2024-10-16T14:59:07Z" changeset="157969147" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="Nairobi"/>
+    <tag k="check_date" v="2024-10-15"/>
+    <tag k="currency:KSH" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="A Community Based Organization working/Using Sports for Social change in Kibera to Nurture, Educate, Protect and Empower Children,Youths and Women"/>
+    <tag k="drink:juice" v="yes"/>
+    <tag k="drink:mocktail" v="yes"/>
+    <tag k="name" v="Greencard Mtaani"/>
+    <tag k="office" v="association"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Fred"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mobile_money" v="yes"/>
+    <tag k="payment:mpesa" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+2547 20 336611"/>
+    <tag k="website" v="greencardmtaani.org"/>
+  </node>
+  <node id="12255410051" lat="14.5986748" lon="-90.5072992" version="1" timestamp="2024-10-16T16:23:37Z" changeset="157973293" uid="22057438" user="anellrod">
+    <tag k="addr:city" v="Ciudad de Guatemala"/>
+    <tag k="addr:housenumber" v="13-01"/>
+    <tag k="addr:postcode" v="01010"/>
+    <tag k="addr:street" v="Diagonal 6 zona 10 C.C. Oakland Mall 2do. Nivel Kiosko K-05"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Pangea Jewelry"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+502 39929543"/>
+    <tag k="shop" v="jewelry"/>
+    <tag k="website" v="https://www.joyaspangea.com/"/>
+  </node>
+  <node id="12255411581" lat="14.5999177" lon="-90.5068136" version="1" timestamp="2024-10-16T16:30:18Z" changeset="157973595" uid="22057438" user="anellrod">
+    <tag k="addr:city" v="Ciudad de Guatemala"/>
+    <tag k="addr:housenumber" v="13-01"/>
+    <tag k="addr:postcode" v="01010"/>
+    <tag k="addr:street" v="Diag. 6 C.C. Oakland Mall 2do Nivel, fase nueva"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Pangea Jewelry"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+50239929543"/>
+    <tag k="shop" v="jewelry"/>
+    <tag k="website" v="https://www.joyaspangea.com"/>
+  </node>
+  <node id="12255413584" lat="14.5499431" lon="-90.7430574" version="1" timestamp="2024-10-16T16:36:21Z" changeset="157973839" uid="22057438" user="anellrod">
+    <tag k="addr:city" v="Antigua Guatemala"/>
+    <tag k="addr:housenumber" v="120"/>
+    <tag k="addr:street" v="RN14"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Pangea Jewelry"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+50239929543"/>
+    <tag k="shop" v="jewelry"/>
+    <tag k="website" v="https://www.joyaspangea.com"/>
+  </node>
+  <node id="12255448642" lat="14.6211592" lon="-90.5529409" version="1" timestamp="2024-10-16T16:51:16Z" changeset="157974562" uid="22057438" user="anellrod">
+    <tag k="addr:city" v="Ciudad De Guatemala"/>
+    <tag k="addr:housenumber" v="4-32"/>
+    <tag k="addr:postcode" v="01011"/>
+    <tag k="addr:street" v="Calzada Roosvelt C.C. Miraflores"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Pangea Jewelry"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+50239929543"/>
+    <tag k="shop" v="jewelry"/>
+    <tag k="website" v="https://www.joyaspangea.com"/>
+  </node>
+  <node id="12255464741" lat="14.6103421" lon="-90.4864518" version="1" timestamp="2024-10-16T16:40:33Z" changeset="157974083" uid="22057438" user="anellrod">
+    <tag k="addr:city" v="Ciudad de Guatemala"/>
+    <tag k="addr:housenumber" v="10-05"/>
+    <tag k="addr:postcode" v="01016"/>
+    <tag k="addr:street" v="Blvd Rafael Landívar Paseo Cayala Local E1-101"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Pangea Jewelry"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+50239929543"/>
+    <tag k="shop" v="jewelry"/>
+    <tag k="website" v="https://www.joyaspangea.com"/>
+  </node>
+  <node id="12255681371" lat="14.5862129" lon="-90.4875350" version="1" timestamp="2024-10-16T16:57:32Z" changeset="157974867" uid="22057438" user="anellrod">
+    <tag k="addr:city" v="Ciudad de Guatemala"/>
+    <tag k="addr:housenumber" v="22-65"/>
+    <tag k="addr:postcode" v="01015"/>
+    <tag k="addr:street" v="Boulevard Vista Hermosa 1 C.C. Metro 15"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="OM Yoga"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+50255839669"/>
+    <tag k="sport" v="yoga"/>
+  </node>
+  <node id="12255716817" lat="14.5791314" lon="-90.5177639" version="1" timestamp="2024-10-16T17:02:35Z" changeset="157975165" uid="22057438" user="anellrod">
+    <tag k="addr:city" v="Ciudad de Guatemala"/>
+    <tag k="addr:postcode" v="01014"/>
+    <tag k="addr:street" v="16 Calle zona 14"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="OM Yoga"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+502 30477892"/>
+    <tag k="sport" v="yoga"/>
+  </node>
+  <node id="12255718140" lat="14.6013176" lon="-90.5139985" version="1" timestamp="2024-10-16T17:05:12Z" changeset="157975258" uid="22057438" user="anellrod">
+    <tag k="addr:city" v="Ciudad de Guatemala"/>
+    <tag k="addr:housenumber" v="12-25"/>
+    <tag k="addr:postcode" v="01010"/>
+    <tag k="addr:street" v="12 calle C.C. Avia"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="OM Yoga"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+50230477892"/>
+    <tag k="sport" v="yoga"/>
   </node>
 
 </osm>
