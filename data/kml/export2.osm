@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-22T05:29:32Z"/>
+<meta osm_base="2024-10-23T05:29:02Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -1687,6 +1687,27 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="survey:date" v="2024-09-09"/>
   </node>
+  <node id="12167701319" lat="-1.3162669" lon="36.7758709" version="4" timestamp="2024-10-22T22:54:15Z" changeset="158231690" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="nairobi"/>
+    <tag k="addr:housenumber" v="3west"/>
+    <tag k="addr:postcode" v="101432-00101"/>
+    <tag k="addr:street" v="kibra dr"/>
+    <tag k="check_date" v="2024-09-10"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/share/TiT1PuxMM2dxzFnH/?mibextid=LQQJ4d"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="YummyTummy offers a delicious range of homemade nuts, peanut butter, and related products, made with care to satisfy your healthy cravings!&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
+    <tag k="name" v="Yummytummygoodies"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="operator" v="Director of Inventory"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+254707313583"/>
+    <tag k="shop" v="mobile_phone"/>
+    <tag k="survey:date" v="2024-09-10"/>
+  </node>
   <node id="12180252187" lat="5.8043996" lon="-55.2189542" version="1" timestamp="2024-09-16T13:30:24Z" changeset="156688688" uid="21855749" user="Terence Coronel">
     <tag k="addr:city" v="Paramaribo"/>
     <tag k="addr:street" v="Goede Verwachtingweg"/>
@@ -1711,21 +1732,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="+12132218650"/>
     <tag k="shop" v="travel_agency"/>
-  </node>
-  <node id="12213462257" lat="23.2674946" lon="-106.4094150" version="1" timestamp="2024-10-01T06:22:08Z" changeset="157322995" uid="22016407" user="Gloria Galeria">
-    <tag k="addr:city" v="Mazatlan"/>
-    <tag k="addr:housenumber" v="433"/>
-    <tag k="addr:postcode" v="82132"/>
-    <tag k="addr:state" v="Sinaloa"/>
-    <tag k="addr:street" v="Azucenas"/>
-    <tag k="clothes" v="ropa_hombre_y_mujer;_bebé;niño;niña"/>
-    <tag k="name" v="Hombre y mujer"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:transferencia" v="yes"/>
-    <tag k="phone" v="+526692661906"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="stroller" v="yes"/>
   </node>
   <node id="12227887046" lat="52.3796266" lon="4.8933203" version="9" timestamp="2024-10-20T05:08:20Z" changeset="158113742" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="Amsterdam"/>
@@ -1843,12 +1849,13 @@
     <tag k="survey:date" v="2024-10-01"/>
     <tag k="website" v="https://thevikas.com"/>
   </node>
-  <node id="12253101509" lat="-1.3193731" lon="36.7711766" version="3" timestamp="2024-10-16T16:33:28Z" changeset="157973723" uid="12131299" user="EdmundSpira">
+  <node id="12253101509" lat="-1.3175962" lon="36.7781406" version="5" timestamp="2024-10-22T23:33:13Z" changeset="158232327" uid="12131299" user="EdmundSpira">
     <tag k="amenity" v="vending_machine"/>
     <tag k="check_date" v="2024-10-15"/>
     <tag k="currency:KSH" v="yes"/>
     <tag k="currency:USD" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Provides Mocktails&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
     <tag k="drink:juice" v="yes"/>
     <tag k="drink:mocktail" v="yes"/>
     <tag k="name" v="Calisto Enterprise"/>
@@ -1881,13 +1888,13 @@
     <tag k="shop" v="jewelry"/>
     <tag k="website" v="https://www.joyaspangea.com/"/>
   </node>
-  <node id="12254678587" lat="-1.3172348" lon="36.7770329" version="3" timestamp="2024-10-16T12:25:24Z" changeset="157962232" uid="12131299" user="EdmundSpira">
+  <node id="12254678587" lat="-1.3172348" lon="36.7770329" version="4" timestamp="2024-10-22T23:37:02Z" changeset="158232396" uid="12131299" user="EdmundSpira">
     <tag k="addr:city" v="Raila"/>
     <tag k="check_date" v="2024-10-15"/>
     <tag k="currency:KSH" v="yes"/>
     <tag k="currency:USD" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Empowers local girls and young mothers in bags and beads making by recycling used clothes to new useable products"/>
+    <tag k="description" v="Empowers local girls and young mothers in bags and beads making by recycling used clothes to new useable products&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
     <tag k="drink:juice" v="yes"/>
     <tag k="drink:mocktail" v="yes"/>
     <tag k="email" v="muanzompyaorg@gmail.com"/>
@@ -1904,13 +1911,13 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+2547 32 261 682"/>
   </node>
-  <node id="12254686388" lat="-1.3168000" lon="36.7784010" version="2" timestamp="2024-10-16T16:33:28Z" changeset="157973723" uid="12131299" user="EdmundSpira">
+  <node id="12254686388" lat="-1.3168000" lon="36.7784010" version="3" timestamp="2024-10-22T23:20:11Z" changeset="158232131" uid="12131299" user="EdmundSpira">
     <tag k="addr:city" v="Raila"/>
     <tag k="check_date" v="2024-10-15"/>
     <tag k="currency:KSH" v="yes"/>
     <tag k="currency:USD" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Provides a platform or space where adults can watch football matches played across the globe"/>
+    <tag k="description" v="Provides a platform or space where adults can watch football matches played across the globe&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
     <tag k="drink:juice" v="yes"/>
     <tag k="drink:mocktail" v="yes"/>
     <tag k="email" v="kevinnakali147@gmail.com"/>
@@ -1927,13 +1934,13 @@
     <tag k="phone" v="+2547 08 574 440"/>
     <tag k="shop" v="video"/>
   </node>
-  <node id="12254721499" lat="-1.3242558" lon="36.7798852" version="2" timestamp="2024-10-16T13:18:30Z" changeset="157964266" uid="12131299" user="EdmundSpira">
+  <node id="12254721499" lat="-1.3242558" lon="36.7798852" version="3" timestamp="2024-10-22T23:08:08Z" changeset="158231919" uid="12131299" user="EdmundSpira">
     <tag k="addr:city" v="Otiende"/>
     <tag k="check_date" v="2024-10-15"/>
     <tag k="currency:KSH" v="yes"/>
     <tag k="currency:USD" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Specialized in cutting, styling and grooming hair for both females and males."/>
+    <tag k="description" v="Specialized in cutting, styling and grooming hair for both females and males.&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
     <tag k="drink:juice" v="yes"/>
     <tag k="drink:mocktail" v="yes"/>
     <tag k="email" v="Mariusitangishaka131@gmail.com"/>
@@ -1951,7 +1958,7 @@
     <tag k="phone" v="+2547 14 369 290"/>
     <tag k="shop" v="hairdresser"/>
   </node>
-  <node id="12254728431" lat="-1.3165360" lon="36.7762800" version="2" timestamp="2024-10-16T10:38:07Z" changeset="157958243" uid="12131299" user="EdmundSpira">
+  <node id="12254728431" lat="-1.3165360" lon="36.7762800" version="3" timestamp="2024-10-22T23:40:14Z" changeset="158232456" uid="12131299" user="EdmundSpira">
     <tag k="addr:city" v="Bombo Lulu"/>
     <tag k="amenity" v="taxi"/>
     <tag k="capacity" v="1"/>
@@ -1959,7 +1966,7 @@
     <tag k="currency:KSH" v="yes"/>
     <tag k="currency:USD" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Provides Transportation services in urban areas."/>
+    <tag k="description" v="Provides Transportation services in urban areas.&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
     <tag k="drink:juice" v="yes"/>
     <tag k="drink:mocktail" v="yes"/>
     <tag k="email" v="otifelixodhis@gmail.com"/>
@@ -1976,13 +1983,13 @@
     <tag k="phone" v="+2547 05 780 149"/>
     <tag k="taxi_vehicle" v="motorcycle"/>
   </node>
-  <node id="12254728432" lat="-1.3175197" lon="36.7744085" version="2" timestamp="2024-10-16T16:33:28Z" changeset="157973723" uid="12131299" user="EdmundSpira">
+  <node id="12254728432" lat="-1.3175197" lon="36.7744085" version="3" timestamp="2024-10-22T22:55:29Z" changeset="158231713" uid="12131299" user="EdmundSpira">
     <tag k="addr:city" v="Raila"/>
     <tag k="check_date" v="2024-10-15"/>
     <tag k="currency:KSH" v="yes"/>
     <tag k="currency:USD" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="4PF is a comprehensive service firm that spicializes in a wide range field including cleaning services (Mama Fua), electrical engineering, catering, plumbing and more."/>
+    <tag k="description" v="4PF is a comprehensive service firm that spicializes in a wide range field including cleaning services (Mama Fua), electrical engineering, catering, plumbing and more.&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
     <tag k="drink:juice" v="yes"/>
     <tag k="drink:mocktail" v="yes"/>
     <tag k="email" v="dennisochiengotolo@gmail.com"/>
@@ -1999,7 +2006,7 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+2547 42 857 375"/>
   </node>
-  <node id="12254728433" lat="-1.3165360" lon="36.7762810" version="3" timestamp="2024-10-16T10:38:07Z" changeset="157958243" uid="12131299" user="EdmundSpira">
+  <node id="12254728433" lat="-1.3165360" lon="36.7762810" version="4" timestamp="2024-10-22T23:46:23Z" changeset="158232556" uid="12131299" user="EdmundSpira">
     <tag k="addr:city" v="Soweto"/>
     <tag k="amenity" v="taxi"/>
     <tag k="capacity" v="1"/>
@@ -2007,7 +2014,7 @@
     <tag k="currency:KSH" v="yes"/>
     <tag k="currency:USD" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Provides Transportation services in urban areas."/>
+    <tag k="description" v="Provides Transportation services in urban areas.&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
     <tag k="drink:juice" v="yes"/>
     <tag k="drink:mocktail" v="yes"/>
     <tag k="name" v="Kera Transport"/>
@@ -2023,7 +2030,7 @@
     <tag k="phone" v="+2547 43 647 214"/>
     <tag k="taxi_vehicle" v="motorcycle"/>
   </node>
-  <node id="12254733210" lat="-1.3165360" lon="36.7762820" version="3" timestamp="2024-10-16T10:38:07Z" changeset="157958243" uid="12131299" user="EdmundSpira">
+  <node id="12254733210" lat="-1.3165360" lon="36.7762820" version="4" timestamp="2024-10-22T23:43:02Z" changeset="158232505" uid="12131299" user="EdmundSpira">
     <tag k="addr:city" v="Soweto"/>
     <tag k="amenity" v="taxi"/>
     <tag k="capacity" v="1"/>
@@ -2031,7 +2038,7 @@
     <tag k="currency:KSH" v="yes"/>
     <tag k="currency:USD" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Provides transportation services in urban areas."/>
+    <tag k="description" v="Provides transportation services in urban areas.&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
     <tag k="drink:juice" v="yes"/>
     <tag k="drink:mocktail" v="yes"/>
     <tag k="email" v="obadiasparta@gmail.com"/>
@@ -2048,9 +2055,10 @@
     <tag k="phone" v="+2547 99 713 037"/>
     <tag k="taxi_vehicle" v="motorcycle"/>
   </node>
-  <node id="12254752062" lat="-1.3081110" lon="36.7821390" version="2" timestamp="2024-10-16T10:38:07Z" changeset="157958243" uid="12131299" user="EdmundSpira">
+  <node id="12254752062" lat="-1.3081110" lon="36.7821390" version="3" timestamp="2024-10-22T12:18:48Z" changeset="158209169" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="Makina Kibera"/>
     <tag k="check_date" v="2024-10-15"/>
+    <tag k="check_date:currency:XBT" v="2024-10-22"/>
     <tag k="currency:KSH" v="yes"/>
     <tag k="currency:USD" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
@@ -2232,6 +2240,29 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+50230477892"/>
     <tag k="sport" v="yoga"/>
+  </node>
+  <node id="12279612486" lat="-12.0451393" lon="-77.0325577" version="2" timestamp="2024-10-22T20:31:53Z" changeset="158228385" uid="4831770" user="Rudy Godoy">
+    <tag k="addr:city" v="Cercado de Lima"/>
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:postcode" v="15001"/>
+    <tag k="addr:state" v="Lima"/>
+    <tag k="addr:street" v="Jirón Callao"/>
+    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="currency:ETH" v="yes"/>
+    <tag k="currency:PEN" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:USDT" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="hola@cajero.pe"/>
+    <tag k="mobile" v="943624466"/>
+    <tag k="name" v="Tienda bitcoin Plaza Mayor"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-19:00"/>
+    <tag k="operator" v="Cajero"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="website" v="https://cajero.pe/tiendas/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
