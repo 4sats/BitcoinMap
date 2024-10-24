@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-23T05:29:02Z"/>
+<meta osm_base="2024-10-24T05:29:46Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -1687,7 +1687,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="survey:date" v="2024-09-09"/>
   </node>
-  <node id="12167701319" lat="-1.3162669" lon="36.7758709" version="4" timestamp="2024-10-22T22:54:15Z" changeset="158231690" uid="12131299" user="EdmundSpira">
+  <node id="12167701319" lat="-1.3162669" lon="36.7758709" version="5" timestamp="2024-10-23T12:35:21Z" changeset="158251294" uid="12131299" user="EdmundSpira">
     <tag k="addr:city" v="nairobi"/>
     <tag k="addr:housenumber" v="3west"/>
     <tag k="addr:postcode" v="101432-00101"/>
@@ -1705,7 +1705,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+254707313583"/>
-    <tag k="shop" v="mobile_phone"/>
+    <tag k="shop" v="nuts"/>
     <tag k="survey:date" v="2024-09-10"/>
   </node>
   <node id="12180252187" lat="5.8043996" lon="-55.2189542" version="1" timestamp="2024-09-16T13:30:24Z" changeset="156688688" uid="21855749" user="Terence Coronel">
@@ -2079,13 +2079,13 @@
     <tag k="phone" v="+2547 00 657 078"/>
     <tag k="shop" v="seafood"/>
   </node>
-  <node id="12255259652" lat="-1.3175560" lon="36.8005280" version="2" timestamp="2024-10-16T14:59:07Z" changeset="157969147" uid="12131299" user="EdmundSpira">
+  <node id="12255259652" lat="-1.3175560" lon="36.8005280" version="3" timestamp="2024-10-23T12:43:44Z" changeset="158251618" uid="12131299" user="EdmundSpira">
     <tag k="addr:city" v="Nairobi"/>
     <tag k="check_date" v="2024-10-15"/>
     <tag k="currency:KSH" v="yes"/>
     <tag k="currency:USD" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="A Community Based Organization working/Using Sports for Social change in Kibera to Nurture, Educate, Protect and Empower Children,Youths and Women"/>
+    <tag k="description" v="A Community Based Organization working/Using Sports for Social change in Kibera to Nurture, Educate, Protect and Empower Children,Youths and Women&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
     <tag k="drink:juice" v="yes"/>
     <tag k="drink:mocktail" v="yes"/>
     <tag k="name" v="Greencard Mtaani"/>
@@ -2241,27 +2241,58 @@
     <tag k="phone" v="+50230477892"/>
     <tag k="sport" v="yoga"/>
   </node>
-  <node id="12279612486" lat="-12.0451393" lon="-77.0325577" version="2" timestamp="2024-10-22T20:31:53Z" changeset="158228385" uid="4831770" user="Rudy Godoy">
+  <node id="12279612486" lat="-12.0451393" lon="-77.0325577" version="4" timestamp="2024-10-23T07:24:26Z" changeset="158239957" uid="4831770" user="Rudy Godoy">
     <tag k="addr:city" v="Cercado de Lima"/>
     <tag k="addr:housenumber" v="220"/>
     <tag k="addr:postcode" v="15001"/>
     <tag k="addr:state" v="Lima"/>
     <tag k="addr:street" v="Jirón Callao"/>
     <tag k="amenity" v="bureau_de_change"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Cajero.pe"/>
+    <tag k="contact:instagram" v="cajero.pe"/>
+    <tag k="contact:twitter" v="CajeroBitcoin"/>
     <tag k="currency:ETH" v="yes"/>
     <tag k="currency:PEN" v="yes"/>
     <tag k="currency:USD" v="yes"/>
     <tag k="currency:USDT" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="hola@cajero.pe"/>
-    <tag k="mobile" v="943624466"/>
+    <tag k="mobile" v="+51943624466"/>
     <tag k="name" v="Tienda bitcoin Plaza Mayor"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-19:00"/>
     <tag k="operator" v="Cajero"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+51943624466"/>
     <tag k="website" v="https://cajero.pe/tiendas/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12282036106" lat="-23.0895847" lon="-47.2037332" version="2" timestamp="2024-10-23T15:33:55Z" changeset="158259830" uid="22100619" user="Dra Juliana Lara Endocrinologia e Nutrologia">
+    <tag k="addr:city" v="Indaiatuba"/>
+    <tag k="addr:housenumber" v="317"/>
+    <tag k="addr:postcode" v="13339-230"/>
+    <tag k="addr:street" v="Rua Estados Unidos"/>
+    <tag k="addr:suburb" v="Parque Boa Esperanca"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="contact:facebook" v="https://facebook.com/drajulianalara"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/drajulianalara"/>
+    <tag k="contact:website" v="https://drajulianalara.com"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="contato@drajulianalara.com"/>
+    <tag k="healthcare" v="hospital"/>
+    <tag k="healthcare:speciality" v="endocrinology"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="mobile" v="+55 11 91708-1627"/>
+    <tag k="name" v="Dra. Juliana Lara (Endocrinologista | Nutróloga) (Indaiatuba)"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:pix" v="yes"/>
+    <tag k="survey:date" v="2024-10-23"/>
+    <tag k="website" v="https://drajulianalara.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
 
