@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-25T05:29:50Z"/>
+<meta osm_base="2024-10-26T05:27:40Z"/>
 
+  <node id="305949689" lat="46.5574492" lon="15.6377796" version="7" timestamp="2024-10-25T11:26:16Z" changeset="158332805" uid="22107736" user="SimoNH17">
+    <tag k="addr:city" v="Maribor"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="2000"/>
+    <tag k="addr:street" v="Ob bregu"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="steak_house"/>
+    <tag k="name" v="Jack &amp; Joe Steak and Burger Club"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="phone" v="+386 51 370 621"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
     <tag k="addr:postcode" v="2482"/>
@@ -98,6 +113,21 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="website" v="https://kuzina.bg"/>
+  </node>
+  <node id="3010949945" lat="46.5567062" lon="15.6449482" version="7" timestamp="2024-10-25T11:30:20Z" changeset="158332966" uid="22107736" user="SimoNH17">
+    <tag k="addr:city" v="Maribor"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="2000"/>
+    <tag k="addr:street" v="Vojašniška ulica"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date" v="2023-07-17"/>
+    <tag k="email" v="mabohita@gmail.com"/>
+    <tag k="name" v="Piranha Maribor"/>
+    <tag k="opening_hours" v="Mo-Th 9:00-0:00; Fr-Sa 9:00-2:00; Su 9:00-0:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="phone" v="+386 30 602 662"/>
   </node>
   <node id="3904561345" lat="14.5856794" lon="-90.4856430" version="4" timestamp="2024-10-16T16:23:37Z" changeset="157973293" uid="22057438" user="anellrod">
     <tag k="currency:XBT" v="yes"/>
