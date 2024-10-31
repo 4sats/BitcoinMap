@@ -1,23 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-30T05:29:26Z"/>
+<meta osm_base="2024-10-31T05:29:34Z"/>
 
-  <node id="305949689" lat="46.5574492" lon="15.6377796" version="7" timestamp="2024-10-25T11:26:16Z" changeset="158332805" uid="22107736" user="SimoNH17">
-    <tag k="addr:city" v="Maribor"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:postcode" v="2000"/>
-    <tag k="addr:street" v="Ob bregu"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="cuisine" v="steak_house"/>
-    <tag k="name" v="Jack &amp; Joe Steak and Burger Club"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="phone" v="+386 51 370 621"/>
-    <tag k="toilets:wheelchair" v="no"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
     <tag k="addr:postcode" v="2482"/>
@@ -113,21 +98,6 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="website" v="https://kuzina.bg"/>
-  </node>
-  <node id="3010949945" lat="46.5567062" lon="15.6449482" version="7" timestamp="2024-10-25T11:30:20Z" changeset="158332966" uid="22107736" user="SimoNH17">
-    <tag k="addr:city" v="Maribor"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="2000"/>
-    <tag k="addr:street" v="Vojašniška ulica"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="check_date" v="2023-07-17"/>
-    <tag k="email" v="mabohita@gmail.com"/>
-    <tag k="name" v="Piranha Maribor"/>
-    <tag k="opening_hours" v="Mo-Th 9:00-0:00; Fr-Sa 9:00-2:00; Su 9:00-0:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="phone" v="+386 30 602 662"/>
   </node>
   <node id="3904561345" lat="14.5856794" lon="-90.4856430" version="4" timestamp="2024-10-16T16:23:37Z" changeset="157973293" uid="22057438" user="anellrod">
     <tag k="currency:XBT" v="yes"/>
@@ -1949,7 +1919,7 @@
     <tag k="phone" v="+2547 08 574 440"/>
     <tag k="shop" v="video"/>
   </node>
-  <node id="12254721499" lat="-1.3242558" lon="36.7798852" version="3" timestamp="2024-10-22T23:08:08Z" changeset="158231919" uid="12131299" user="EdmundSpira">
+  <node id="12254721499" lat="-1.3235490" lon="36.7800570" version="4" timestamp="2024-10-30T22:36:49Z" changeset="158561597" uid="12131299" user="EdmundSpira">
     <tag k="addr:city" v="Otiende"/>
     <tag k="check_date" v="2024-10-15"/>
     <tag k="currency:KSH" v="yes"/>
@@ -2282,6 +2252,276 @@
     <tag k="survey:date" v="2024-10-23"/>
     <tag k="website" v="https://drajulianalara.com"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12300417204" lat="-1.3175001" lon="36.7780995" version="1" timestamp="2024-10-30T23:02:37Z" changeset="158562108" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="Kibera"/>
+    <tag k="addr:postcode" v="0100"/>
+    <tag k="amenity" v="car_wash"/>
+    <tag k="check_date" v="2024-10-15"/>
+    <tag k="currency:KSH" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Car wash business&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
+    <tag k="drink:juice" v="yes"/>
+    <tag k="drink:mocktail" v="yes"/>
+    <tag k="name" v="BIG BROTHER CAR WASH"/>
+    <tag k="opening_hours" v="7am - 9pm"/>
+    <tag k="operator" v="John Omondi"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mobile_money" v="yes"/>
+    <tag k="payment:mpesa" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="12300433273" lat="-1.3165361" lon="36.7762838" version="1" timestamp="2024-10-30T23:11:44Z" changeset="158562304" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="Soweto"/>
+    <tag k="amenity" v="taxi"/>
+    <tag k="capacity" v="1"/>
+    <tag k="check_date" v="2024-10-31"/>
+    <tag k="currency:KSH" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Provides transportation services in urban areas.&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
+    <tag k="drink:juice" v="yes"/>
+    <tag k="drink:mocktail" v="yes"/>
+    <tag k="name" v="CHARLIE RIDER"/>
+    <tag k="opening_hours" v="6am - 9:30pm"/>
+    <tag k="operator" v="CHARLIE"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mobile_money" v="yes"/>
+    <tag k="payment:mpesa" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="'0750366706"/>
+    <tag k="taxi_vehicle" v="motorcycle"/>
+  </node>
+  <node id="12300433274" lat="-1.3165360" lon="36.7762784" version="1" timestamp="2024-10-30T23:11:44Z" changeset="158562304" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="Soweto"/>
+    <tag k="amenity" v="taxi"/>
+    <tag k="capacity" v="1"/>
+    <tag k="check_date" v="2024-10-31"/>
+    <tag k="currency:KSH" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Provides transportation services in urban areas.&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
+    <tag k="drink:juice" v="yes"/>
+    <tag k="drink:mocktail" v="yes"/>
+    <tag k="email" v="mosesomondi@gmail.com"/>
+    <tag k="name" v="MOSESO RIDES"/>
+    <tag k="opening_hours" v="7am - 10pm"/>
+    <tag k="operator" v="MOSESO"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mobile_money" v="yes"/>
+    <tag k="payment:mpesa" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="'0705210995"/>
+    <tag k="taxi_vehicle" v="motorcycle"/>
+  </node>
+  <node id="12300439008" lat="-1.3163520" lon="36.7761673" version="2" timestamp="2024-10-31T00:06:53Z" changeset="158563360" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="nairobi"/>
+    <tag k="addr:postcode" v="101432-00101"/>
+    <tag k="addr:street" v="kibra dr"/>
+    <tag k="check_date" v="2024-10-31"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Grocery&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
+    <tag k="name" v="ABEBO VEGEZ"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="operator" v="ABEBO"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+254114981320"/>
+    <tag k="shop" v="greengrocer"/>
+    <tag k="survey:date" v="2024-09-10"/>
+  </node>
+  <node id="12300443592" lat="-1.3165359" lon="36.7762768" version="1" timestamp="2024-10-30T23:19:02Z" changeset="158562453" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="Soweto"/>
+    <tag k="amenity" v="taxi"/>
+    <tag k="capacity" v="1"/>
+    <tag k="check_date" v="2024-10-31"/>
+    <tag k="currency:KSH" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Provides transportation services in urban areas.&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
+    <tag k="drink:juice" v="yes"/>
+    <tag k="drink:mocktail" v="yes"/>
+    <tag k="email" v="draxlere958@gmail.com"/>
+    <tag k="name" v="ELIJAH DRAXLER"/>
+    <tag k="opening_hours" v="6am - 10pm"/>
+    <tag k="operator" v="ELIJAH DRAXLER"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mobile_money" v="yes"/>
+    <tag k="payment:mpesa" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+254795962482"/>
+    <tag k="taxi_vehicle" v="motorcycle"/>
+  </node>
+  <node id="12300443593" lat="-1.3165381" lon="36.7762768" version="1" timestamp="2024-10-30T23:19:02Z" changeset="158562453" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="Soweto"/>
+    <tag k="amenity" v="taxi"/>
+    <tag k="capacity" v="1"/>
+    <tag k="check_date" v="2024-10-31"/>
+    <tag k="currency:KSH" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Provides transportation services in urban areas.&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
+    <tag k="drink:juice" v="yes"/>
+    <tag k="drink:mocktail" v="yes"/>
+    <tag k="email" v="wilsonasweto@gmail.com"/>
+    <tag k="name" v="WILSON ASWETO"/>
+    <tag k="opening_hours" v="6am - 9:30pm"/>
+    <tag k="operator" v="WILSON ASWETO"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mobile_money" v="yes"/>
+    <tag k="payment:mpesa" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+254794731052"/>
+    <tag k="taxi_vehicle" v="motorcycle"/>
+  </node>
+  <node id="12300443594" lat="-1.3165382" lon="36.7762789" version="1" timestamp="2024-10-30T23:19:02Z" changeset="158562453" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="Soweto"/>
+    <tag k="amenity" v="taxi"/>
+    <tag k="capacity" v="1"/>
+    <tag k="check_date" v="2024-10-31"/>
+    <tag k="currency:KSH" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Provides transportation services in urban areas.&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
+    <tag k="drink:juice" v="yes"/>
+    <tag k="drink:mocktail" v="yes"/>
+    <tag k="email" v="wilsonasweto@gmail.com"/>
+    <tag k="name" v="WILSON ASWETO"/>
+    <tag k="opening_hours" v="6am - 9:30pm"/>
+    <tag k="operator" v="WILSON ASWETO"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mobile_money" v="yes"/>
+    <tag k="payment:mpesa" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+254794731052"/>
+    <tag k="taxi_vehicle" v="motorcycle"/>
+  </node>
+  <node id="12300462946" lat="-1.3162781" lon="36.7761248" version="1" timestamp="2024-10-31T00:06:53Z" changeset="158563360" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="nairobi"/>
+    <tag k="addr:postcode" v="101432-00101"/>
+    <tag k="addr:street" v="kibra dr"/>
+    <tag k="check_date" v="2024-10-31"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="General wholesale items&#x0a;&#x0a;⚠️ Copyright Notice&#x0a;Added by AfriBit to BTC Map."/>
+    <tag k="email" v="Sagwecaroline93@gmail.com"/>
+    <tag k="name" v="MAMA NONNY SHOP"/>
+    <tag k="opening_hours" v="6am - 10pm"/>
+    <tag k="operator" v="MAMA NONNY SHOP"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="'0727317087"/>
+    <tag k="shop" v="kiosk"/>
+    <tag k="survey:date" v="2024-09-10"/>
+  </node>
+  <node id="12300469780" lat="-1.3162886" lon="36.7761446" version="1" timestamp="2024-10-31T00:19:22Z" changeset="158563502" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="nairobi"/>
+    <tag k="addr:postcode" v="101432-00101"/>
+    <tag k="addr:street" v="kibra dr"/>
+    <tag k="check_date" v="2024-10-31"/>
+    <tag k="contact:email" v="Newsononyoni5@gmail.com"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="MEAT Supplier &#x0a;&#x0a;⚠️ Copyright NoticeAdded by AfriBit to BTC Map."/>
+    <tag k="email" v="Sagwecaroline93@gmail.com"/>
+    <tag k="name" v="3WEST BUTCHERY"/>
+    <tag k="opening_hours" v="5am - 10pm"/>
+    <tag k="operator" v="3WEST BUTCHERY"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="0720778480"/>
+    <tag k="shop" v="butcher"/>
+    <tag k="survey:date" v="2024-09-10"/>
+  </node>
+  <node id="12300469781" lat="-1.3162950" lon="36.7761627" version="1" timestamp="2024-10-31T00:19:22Z" changeset="158563502" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="nairobi"/>
+    <tag k="addr:postcode" v="101432-00101"/>
+    <tag k="addr:street" v="kibra dr"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="check_date" v="2024-10-31"/>
+    <tag k="contact:email" v="Mercykeruboongeri@gmail.com"/>
+    <tag k="cuisine" v="fries"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Fries supplies &#x0a;&#x0a;⚠️ Copyright NoticeAdded by AfriBit to BTC Map."/>
+    <tag k="email" v="Mercykeruboongeri@gmail.com"/>
+    <tag k="name" v="MERCY CHIPO"/>
+    <tag k="opening_hours" v="12pm - 10pm"/>
+    <tag k="operator" v="MERCY"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="0720305380"/>
+    <tag k="survey:date" v="2024-09-10"/>
+  </node>
+  <node id="12300469782" lat="-1.3163061" lon="36.7761773" version="1" timestamp="2024-10-31T00:19:22Z" changeset="158563502" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="nairobi"/>
+    <tag k="addr:postcode" v="101432-00101"/>
+    <tag k="addr:street" v="kibra dr"/>
+    <tag k="check_date" v="2024-10-31"/>
+    <tag k="contact:email" v="rallyodhiambo@gmail.com"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="I am a water vender i sell water in jericans&#x0a;&#x0a;⚠️ Copyright NoticeAdded by AfriBit to BTC Map."/>
+    <tag k="email" v="rallyodhiambo@gmail.com"/>
+    <tag k="name" v="Maji safi"/>
+    <tag k="opening_hours" v="8am - 10pm"/>
+    <tag k="operator" v="Maji safi"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="0705964110"/>
+    <tag k="shop" v="water"/>
+    <tag k="survey:date" v="2024-09-10"/>
+  </node>
+  <node id="12300469783" lat="-1.3163203" lon="36.7761950" version="1" timestamp="2024-10-31T00:19:22Z" changeset="158563502" uid="12131299" user="EdmundSpira">
+    <tag k="addr:city" v="nairobi"/>
+    <tag k="addr:postcode" v="101432-00101"/>
+    <tag k="addr:street" v="kibra dr"/>
+    <tag k="check_date" v="2024-10-31"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="We take visitors in the largest slum in Africa called kibera where they meet the local people and go to loca schools and learn about the way of life in the slum.⚠️ Copyright NoticeAdded by AfriBit to BTC Map."/>
+    <tag k="email" v="wasongarally@gmail.com"/>
+    <tag k="name" v="Kibera the Largest slum tour"/>
+    <tag k="office" v="guide"/>
+    <tag k="opening_hours" v="7am - 8pm"/>
+    <tag k="operator" v="Kibera the Largest slum tour"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+254705964110"/>
+    <tag k="survey:date" v="2024-09-10"/>
+    <tag k="website" v="https://www.tripadvisor.com/Attraction_Review-g294207-d25129851-Reviews-Kibera_Largest_Slum_Tour-N"/>
   </node>
 
 </osm>
