@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-02T05:28:08Z"/>
+<meta osm_base="2024-11-03T05:27:04Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -2522,6 +2522,46 @@
     <tag k="phone" v="+254705964110"/>
     <tag k="survey:date" v="2024-09-10"/>
     <tag k="website" v="https://www.tripadvisor.com/Attraction_Review-g294207-d25129851-Reviews-Kibera_Largest_Slum_Tour-N"/>
+  </node>
+  <node id="12308807641" lat="14.4086096" lon="102.8582988" version="4" timestamp="2024-11-03T04:42:54Z" changeset="158684757" uid="22135627" user="BallKM">
+    <tag k="addr:district" v="Lahan Sai"/>
+    <tag k="addr:postcode" v="31170"/>
+    <tag k="addr:province" v="Buri Ram"/>
+    <tag k="addr:street" v="Lahan Sai Hospital"/>
+    <tag k="addr:subdistrict" v="Lahan Sai"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="clinic"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/profile.php?id=61553982547616&amp;mibextid=LQQJ4d"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="clinic"/>
+    <tag k="healthcare:speciality" v="paediatrics;child_psychiatry;neonatology;general"/>
+    <tag k="name" v="Pattaraporn Clinic"/>
+    <tag k="name:th" v="คลินิคหมอพัทราภรณ์"/>
+    <tag k="opening_hours" v="Mo-Su 17:00-19:30"/>
+    <tag k="operator" v="พญ.พัทราภรณ์ เธียรวรรณ"/>
+    <tag k="operator:type" v="public"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+66 92 466 3661"/>
+    <tag k="survey:date" v="2024-11-03"/>
+  </node>
+  <node id="12308817898" lat="14.8937711" lon="102.0438579" version="2" timestamp="2024-11-03T04:15:45Z" changeset="158684451" uid="22135627" user="BallKM">
+    <tag k="addr:postcode" v="30000"/>
+    <tag k="addr:province" v="นครราชสีมา"/>
+    <tag k="addr:street" v="ถนนมหาวิทยาลัย"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="ADALINE"/>
+    <tag k="name:th" v="อดาลีน"/>
+    <tag k="office" v="company"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2024-11-03"/>
+    <tag k="website" v="http://www.adaline.co.th"/>
   </node>
 
 </osm>
