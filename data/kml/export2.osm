@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-10T05:26:37Z"/>
+<meta osm_base="2024-11-11T05:29:01Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -475,6 +475,25 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="website" v="https://www.instagram.com/doppio_cafegourmet"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11848604292" lat="-12.0851263" lon="-45.7976337" version="4" timestamp="2024-11-10T17:03:02Z" changeset="158976399" uid="21352390" user="Suprema Tecnologia">
+    <tag k="addr:city" v="Luis Eduardo Magalhães"/>
+    <tag k="addr:housenumber" v="1444"/>
+    <tag k="addr:postcode" v="47.850-011"/>
+    <tag k="addr:street" v="Rua Castro Alves"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="name" v="Suprema Tecnologia Ltda"/>
+    <tag k="office" v="it"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bitcoincash" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+55 77 99933-5032"/>
+    <tag k="website" v="https://supremaconsult.com.br"/>
   </node>
   <node id="11879643149" lat="-34.6082437" lon="-58.3721667" version="3" timestamp="2024-05-06T03:16:01Z" changeset="150944962" uid="2104834" user="Igor Bubelov">
     <tag k="check_date" v="2024-05-04"/>
@@ -1718,14 +1737,14 @@
     <tag k="phone" v="+12132218650"/>
     <tag k="shop" v="travel_agency"/>
   </node>
-  <node id="12227887046" lat="52.3796266" lon="4.8933203" version="9" timestamp="2024-10-20T05:08:20Z" changeset="158113742" uid="7522075" user="Rockedf">
+  <node id="12227887046" lat="52.3796266" lon="4.8933203" version="10" timestamp="2024-11-11T03:04:03Z" changeset="158991850" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="Amsterdam"/>
     <tag k="addr:housenumber" v="41"/>
     <tag k="addr:postcode" v="1013EJ"/>
     <tag k="addr:street" v="Haarlemmerstraat"/>
     <tag k="addr:unit" v="B"/>
     <tag k="amenity" v="cafe"/>
-    <tag k="check_date:currency:XBT" v="2024-10-20"/>
+    <tag k="check_date:currency:XBT" v="2024-11-10"/>
     <tag k="contact:facebook" v="Rhumaa"/>
     <tag k="contact:instagram" v="rhumaa_official"/>
     <tag k="contact:twitter" v="RhumaaBV"/>
