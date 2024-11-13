@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-12T05:28:26Z"/>
+<meta osm_base="2024-11-13T05:29:31Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -1759,6 +1759,27 @@
     <tag k="phone" v="+12132218650"/>
     <tag k="shop" v="travel_agency"/>
   </node>
+  <node id="12219143613" lat="-22.8328840" lon="-45.7112838" version="8" timestamp="2024-11-12T21:08:16Z" changeset="159068404" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antonio do Pinhal"/>
+    <tag k="addr:housenumber" v="km 156"/>
+    <tag k="addr:postcode" v="12450-000"/>
+    <tag k="addr:street" v="Rodovia Oswaldo Barbosa Guisardi"/>
+    <tag k="addr:suburb" v="Rio Preto"/>
+    <tag k="check_date:currency:XBT" v="2024-10-20"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="munaypousada@gmail.com"/>
+    <tag k="image" v="https://munaypousada.com.br/wp-content/uploads/2023/08/3.jpg"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Munay Pousada e Centro Holístico"/>
+    <tag k="operator" v="Pedro Fadida"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+5519997676412"/>
+    <tag k="tourism" v="alpine_hut"/>
+    <tag k="website" v="https://munaypousada.com.br/"/>
+  </node>
   <node id="12227887046" lat="52.3796266" lon="4.8933203" version="10" timestamp="2024-11-11T03:04:03Z" changeset="158991850" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="Amsterdam"/>
     <tag k="addr:housenumber" v="41"/>
@@ -2267,13 +2288,14 @@
     <tag k="phone" v="+50230477892"/>
     <tag k="sport" v="yoga"/>
   </node>
-  <node id="12264456159" lat="-22.7497746" lon="-45.7467848" version="3" timestamp="2024-11-11T22:45:31Z" changeset="159029289" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12264456159" lat="-22.7497746" lon="-45.7467848" version="5" timestamp="2024-11-12T21:30:10Z" changeset="159069174" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Sapucaí Mirim"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:postcode" v="37690000"/>
     <tag k="addr:street" v="RUA RUA DOS OLMOS"/>
     <tag k="addr:suburb" v="Jardim Santana"/>
     <tag k="amenity" v="ice_cream"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="srasobremesa@gmail.com"/>
     <tag k="name" v="Senhora Sobremesa"/>
@@ -2322,6 +2344,24 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 996116173"/>
     <tag k="shop" v="health_food"/>
+  </node>
+  <node id="12277225089" lat="-22.7994138" lon="-45.7103454" version="4" timestamp="2024-11-12T21:32:46Z" changeset="159069248" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Sapucai Mirim"/>
+    <tag k="addr:housenumber" v="3821"/>
+    <tag k="addr:postcode" v="12450-000"/>
+    <tag k="addr:street" v="ESTRADA MUNICIPAL VEREADOR ARLINDO INACIO FERNANDES"/>
+    <tag k="addr:suburb" v="Fazenda Velha"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="srasobremesa@gmail.com"/>
+    <tag k="man_made" v="works"/>
+    <tag k="name" v="Fabrica Sorveteria Senhora Sobremesa"/>
+    <tag k="operator" v="Rafael Godoy de Castro"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 11 99517 7655"/>
+    <tag k="website" v="https://senhorasobremesa.com.br/"/>
   </node>
   <node id="12278851045" lat="-22.6754282" lon="-45.6621918" version="6" timestamp="2024-11-11T22:48:37Z" changeset="159029366" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="São Bento do Sapucai"/>
@@ -2372,12 +2412,13 @@
     <tag k="website" v="https://drajulianalara.com"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12299920395" lat="-22.8252156" lon="-45.6660740" version="5" timestamp="2024-11-11T22:37:59Z" changeset="159029093" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12299920395" lat="-22.8252156" lon="-45.6660740" version="6" timestamp="2024-11-12T21:18:21Z" changeset="159068769" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antônio do Pinhal"/>
     <tag k="addr:housenumber" v="512"/>
     <tag k="addr:postcode" v="12450-000"/>
     <tag k="addr:street" v="Av. Ministro Nelson Hungria 512"/>
     <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="contato@picoagudosports.com.br"/>
     <tag k="image" v="https://image.nostr.build/e0dabe1f110ec6d7766f0915c30b6df67ad3d03feddd42077b0cab6c151c7245.jpg"/>
@@ -2393,13 +2434,14 @@
     <tag k="phone" v="+55 12 991571000"/>
     <tag k="website" v="https://picoagudosports.com.br/"/>
   </node>
-  <node id="12299975431" lat="-22.8254256" lon="-45.6635355" version="2" timestamp="2024-11-11T22:39:15Z" changeset="159029132" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12299975431" lat="-22.8254256" lon="-45.6635355" version="3" timestamp="2024-11-12T21:23:10Z" changeset="159068930" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antonio do Pinhal"/>
     <tag k="addr:housenumber" v="203"/>
     <tag k="addr:postcode" v="12450000"/>
     <tag k="addr:street" v="Avenida Ministro Nelson Hungria'"/>
     <tag k="addr:suburb" v="Centro"/>
     <tag k="amenity" v="veterinary"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Petshop completo com rações, acessórios e banho e tosa."/>
     <tag k="email" v="arttipet@gmail.com"/>
@@ -2684,12 +2726,13 @@
     <tag k="survey:date" v="2024-09-10"/>
     <tag k="website" v="https://www.tripadvisor.com/Attraction_Review-g294207-d25129851-Reviews-Kibera_Largest_Slum_Tour-N"/>
   </node>
-  <node id="12302117811" lat="-22.8218578" lon="-45.6645759" version="2" timestamp="2024-11-11T22:52:55Z" changeset="159029455" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12302117811" lat="-22.8218578" lon="-45.6645759" version="3" timestamp="2024-11-12T21:13:48Z" changeset="159068602" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo antonio do pinhal"/>
     <tag k="addr:housenumber" v="655"/>
     <tag k="addr:postcode" v="12450000"/>
     <tag k="addr:street" v="Rua Coronel Sebastião Marcondes da Silva"/>
     <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="O Espaço HR oferece uma estrutura diversificada com sala de musculação, aulas de funcional e pilates, sala dedicada a massagens esportivas, um bar de smoothies e salas comerciais. Mais do que uma academia, é um espaço pensado para proporcionar uma experiê"/>
     <tag k="email" v="healthyrootshrt@gmail.com"/>
@@ -2706,12 +2749,13 @@
     <tag k="phone" v="+55 12 997381652"/>
     <tag k="sport" v="fitness"/>
   </node>
-  <node id="12302168536" lat="-22.8252000" lon="-45.6661047" version="3" timestamp="2024-11-11T22:37:31Z" changeset="159029079" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12302168536" lat="-22.8252000" lon="-45.6661047" version="4" timestamp="2024-11-12T21:18:39Z" changeset="159068778" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antônio do Pinhal"/>
     <tag k="addr:housenumber" v="512"/>
     <tag k="addr:postcode" v="12450000"/>
     <tag k="addr:street" v="Av. Ministro Nelson Hungria"/>
     <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Nossa Loja Pico Agudo Store, trabalhamos com artesanados, artesãs da região, lembranças de santo antonio do pinhal, empório e tambem uma tabacaria"/>
     <tag k="image" v="https://image.nostr.build/e0dabe1f110ec6d7766f0915c30b6df67ad3d03feddd42077b0cab6c151c7245.jpg"/>
@@ -2727,9 +2771,10 @@
     <tag k="phone" v="+55 12 991571000"/>
     <tag k="shop" v="outdoor"/>
   </node>
-  <node id="12304643066" lat="-22.8113349" lon="-45.6810909" version="3" timestamp="2024-11-11T22:50:47Z" changeset="159029414" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12304643066" lat="-22.8113349" lon="-45.6810909" version="4" timestamp="2024-11-12T21:09:58Z" changeset="159068457" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo antonio do Pinhal"/>
     <tag k="addr:street" v="Francisca dos santos silva"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="contato@fontedashortensias.com.br"/>
     <tag k="image" v="https://fontedashortensias.com.br/wp-content/uploads/slide1.jpg"/>
@@ -2786,7 +2831,29 @@
     <tag k="survey:date" v="2024-11-03"/>
     <tag k="website" v="http://www.adaline.co.th"/>
   </node>
-  <node id="12324786401" lat="-22.8252236" lon="-45.6660117" version="6" timestamp="2024-11-11T22:38:25Z" changeset="159029115" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12315825437" lat="-22.7914755" lon="-45.6584730" version="2" timestamp="2024-11-12T21:11:43Z" changeset="159068523" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:place" v="Estrada do Lajeado"/>
+    <tag k="addr:postcode" v="1"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Transporte de pessoas e passeios turísticos com fotografia profissional"/>
+    <tag k="email" v="Moises.10@terra.com.br"/>
+    <tag k="name" v="Moises Chaves"/>
+    <tag k="office" v="guide"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-22:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 996787880"/>
+  </node>
+  <node id="12324786401" lat="-22.8252236" lon="-45.6660117" version="8" timestamp="2024-11-12T21:20:27Z" changeset="159068816" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antônio do Pinhal"/>
     <tag k="addr:housenumber" v="426"/>
     <tag k="addr:postcode" v="12450-000"/>
@@ -2794,7 +2861,7 @@
     <tag k="addr:suburb" v="Centro"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="capacity" v="50"/>
-    <tag k="check_date" v="2024-11-09"/>
+    <tag k="check_date:currency:XBT" v="2024-11-09"/>
     <tag k="cuisine" v="coffee_shop;dessert;brunch;sandwich;breakfast;brazilian"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="delivery" v="yes"/>
@@ -2815,12 +2882,13 @@
     <tag k="website" v="www.fb.com/matinaldoceria"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12332011257" lat="-22.8251925" lon="-45.6661302" version="1" timestamp="2024-11-11T20:40:12Z" changeset="159025650" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12332011257" lat="-22.8251925" lon="-45.6661302" version="2" timestamp="2024-11-12T21:18:02Z" changeset="159068757" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antônio do Pinhal"/>
     <tag k="addr:housenumber" v="512"/>
     <tag k="addr:postcode" v="12450000"/>
     <tag k="addr:street" v="Avenida Ministro Nelson Hungria"/>
     <tag k="addr:suburb" v="centro"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="contato@picoagudosports.com.br"/>
     <tag k="name" v="Tabacaria Pico"/>
@@ -2835,12 +2903,13 @@
     <tag k="phone" v="+55 12 991571000"/>
     <tag k="shop" v="tobacco"/>
   </node>
-  <node id="12332011323" lat="-22.8243210" lon="-45.6685648" version="3" timestamp="2024-11-11T22:37:31Z" changeset="159029079" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12332011323" lat="-22.8243210" lon="-45.6685648" version="4" timestamp="2024-11-12T21:14:54Z" changeset="159068674" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antonio do pinhal"/>
     <tag k="addr:housenumber" v="686"/>
     <tag k="addr:postcode" v="12450-000"/>
     <tag k="addr:street" v="Av. Ministro Nelson Hungria"/>
     <tag k="addr:suburb" v="centro"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="alex.domenici@terra.com.br"/>
     <tag k="image" v="https://image.nostr.build/9bf5202b695da21d0e3fe1a9c5ef7d0b3ee9dc1cf3fe9a9cd60ae3b74c904f21.png"/>
@@ -2854,12 +2923,33 @@
     <tag k="phone" v="+55 12 997883821"/>
     <tag k="website" v="www.verdeesolucoes.com.br"/>
   </node>
-  <node id="12332587536" lat="-22.8264880" lon="-45.6642091" version="1" timestamp="2024-11-11T21:54:49Z" changeset="159028144" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12332373835" lat="-22.7918524" lon="-45.6648802" version="2" timestamp="2024-11-12T21:11:01Z" changeset="159068496" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
+    <tag k="addr:housenumber" v="s/n"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Pedro Joaquim lopes"/>
+    <tag k="addr:suburb" v="Lageado"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
+    <tag k="craft" v="gardener"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="serviços de paisagismo e manutenção de jardins"/>
+    <tag k="email" v="silva7464@gmail.com"/>
+    <tag k="image" v="https://image.nostr.build/264511a598a1232ebb625809d20c4f528e9f5e52895cce3e0bb11c2501ba280f.png"/>
+    <tag k="name" v="Lopes paisagismo e jardinagem"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:00"/>
+    <tag k="operator" v="Felipe Fernandes Lopes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 996075442"/>
+  </node>
+  <node id="12332587536" lat="-22.8264880" lon="-45.6642091" version="2" timestamp="2024-11-12T21:22:14Z" changeset="159068889" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antonio do Pinhal"/>
     <tag k="addr:housenumber" v="335"/>
     <tag k="addr:postcode" v="12450000"/>
     <tag k="addr:street" v="Rua Mário Machado"/>
     <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Hospedaria"/>
     <tag k="email" v="jmpinhal@yahoo.com.br"/>
@@ -2873,12 +2963,13 @@
     <tag k="tourism" v="alpine_hut"/>
     <tag k="website" v="www.pousadapinhalense.com.br"/>
   </node>
-  <node id="12332731701" lat="-22.8253657" lon="-45.6657694" version="1" timestamp="2024-11-11T22:02:44Z" changeset="159028340" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12332731701" lat="-22.8253657" lon="-45.6657694" version="2" timestamp="2024-11-12T21:19:34Z" changeset="159068801" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antônio do Pinhal"/>
     <tag k="addr:housenumber" v="460"/>
     <tag k="addr:postcode" v="12450000"/>
     <tag k="addr:street" v="Av. Ministro Nelson Hungria"/>
     <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Emporio com alimentação local com opções veganas e sem glutén,  além da oferta tradicional"/>
     <tag k="name" v="Venda Cambraia"/>
@@ -2893,12 +2984,13 @@
     <tag k="phone" v="+55 12 982820989"/>
     <tag k="shop" v="health_food"/>
   </node>
-  <node id="12332788129" lat="-22.8258319" lon="-45.6666810" version="2" timestamp="2024-11-11T22:53:40Z" changeset="159029465" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12332788129" lat="-22.8258319" lon="-45.6666810" version="4" timestamp="2024-11-12T23:24:15Z" changeset="159071797" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antônio do Pinhal"/>
     <tag k="addr:housenumber" v="162"/>
     <tag k="addr:postcode" v="12450000"/>
     <tag k="addr:street" v="Rua Maria Jacinto de Faria"/>
     <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Vistorias em geral"/>
     <tag k="name" v="Intervisão vistorias"/>
@@ -2914,12 +3006,13 @@
     <tag k="phone" v="+55 12 997152103"/>
     <tag k="website" v="taplink.cc/vistoriaintervisao"/>
   </node>
-  <node id="12332796179" lat="-22.8254369" lon="-45.6630113" version="2" timestamp="2024-11-11T22:40:20Z" changeset="159029161" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12332796179" lat="-22.8254369" lon="-45.6630113" version="3" timestamp="2024-11-12T21:24:08Z" changeset="159068970" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antonio do Pinhal"/>
     <tag k="addr:housenumber" v="109"/>
     <tag k="addr:postcode" v="12450000"/>
     <tag k="addr:street" v="Avenida Ministro Nelson Hungria"/>
     <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
     <tag k="currency:EUR" v="yes"/>
     <tag k="currency:USD" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
@@ -2939,12 +3032,13 @@
     <tag k="shop" v="greengrocer"/>
     <tag k="website" v="@QuitandadoFerreirinha"/>
   </node>
-  <node id="12332799880" lat="-22.7726157" lon="-45.6960262" version="3" timestamp="2024-11-11T22:42:24Z" changeset="159029210" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12332799880" lat="-22.7726157" lon="-45.6960262" version="5" timestamp="2024-11-12T21:31:38Z" changeset="159069214" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antônio do Pinhal"/>
     <tag k="addr:housenumber" v="230"/>
     <tag k="addr:postcode" v="12450000"/>
     <tag k="addr:street" v="Rua das Orquídeas"/>
     <tag k="addr:suburb" v="Res. Vale das Flores"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Pousada Estilo Rústico"/>
     <tag k="email" v="pousadacesar@gmail.com"/>
@@ -2976,6 +3070,74 @@
     <tag k="phone" v="+44 1929 422991"/>
     <tag k="shop" v="newsagent"/>
     <tag k="website" v="https://swanage-news.com/"/>
+  </node>
+  <node id="12335497648" lat="-22.7341159" lon="-45.5712563" version="1" timestamp="2024-11-12T20:34:07Z" changeset="159067257" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Campos do Jordão"/>
+    <tag k="addr:housenumber" v="1841"/>
+    <tag k="addr:postcode" v="12460000"/>
+    <tag k="addr:street" v="Avenida Mariane Baumgart"/>
+    <tag k="addr:suburb" v="Jardim Alpestre"/>
+    <tag k="check_date" v="2024-11-12"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Hospedagem domiciliar em Campos do Jordão estilo cama e café"/>
+    <tag k="email" v="nossacasinhaemcamposdojordaonossacasinhaemcamposdojordao@gmail.com"/>
+    <tag k="image" v="https://image.nostr.build/4a53e0735ad78d465de820f008357eea0cb0366b55edefa323f34fad96561ecd.png"/>
+    <tag k="name" v="A nossa Casinha no Bosque"/>
+    <tag k="operator" v="Vitor Fonseca"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 997325339"/>
+    <tag k="tourism" v="alpine_hut"/>
+    <tag k="website" v="www.anossacasinha.com.br"/>
+  </node>
+  <node id="12335557058" lat="-22.8246580" lon="-45.6680367" version="2" timestamp="2024-11-12T21:15:22Z" changeset="159068689" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antonio do pinhal"/>
+    <tag k="addr:housenumber" v="615"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Avenida Ministro Nelson Hungria"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Farmácia de manipulação, drogaria e perfumaria"/>
+    <tag k="email" v="drog.sanotas@manipharm.com.br"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="image" v="https://image.nostr.build/930a7144a3920247e5af27d7ecf08cf2bd54c9ddb4c061cadd5f3a933c30793f.png"/>
+    <tag k="name" v="Farmácia Manipharm Santo Antônio"/>
+    <tag k="opening_hours" v="Everyday - 08:00 21:00"/>
+    <tag k="operator" v="Renan Barbosa Mendonça"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 997693398"/>
+  </node>
+  <node id="12335587207" lat="-22.6800176" lon="-45.6888346" version="2" timestamp="2024-11-12T21:29:27Z" changeset="159069146" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="São Bento do Sapucaí"/>
+    <tag k="addr:housenumber" v="4140"/>
+    <tag k="addr:postcode" v="12490000"/>
+    <tag k="addr:street" v="Rodovia Prefeito Benedicto Gomes de Souza"/>
+    <tag k="addr:suburb" v="Paiol Grande"/>
+    <tag k="check_date:currency:XBT" v="2024-11-12"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Temos um loft para casal, com pequena cozinha de suporte, wifi, TV, ,  Temos também uma casa para 7 pessoas com TV, , wifi, cozinha , 3 quartos, 2 banheiros 2 camos de casal, 3 de solteiro, varanda etc"/>
+    <tag k="email" v="mangalasarada53@gmail.com"/>
+    <tag k="image" v="https://image.nostr.build/0ab5e100d02ebb61ecdfc5a1443dc63ebdfa1c57c7fad11abe5448eea6992ce6.png"/>
+    <tag k="name" v="Hospedagem Tapovan"/>
+    <tag k="opening_hours" v="Su-Su 08:00-22:00"/>
+    <tag k="operator" v="Radha"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 997812875"/>
+    <tag k="tourism" v="hostel"/>
   </node>
 
 </osm>
