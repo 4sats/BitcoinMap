@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-13T05:29:31Z"/>
+<meta osm_base="2024-11-14T05:28:36Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -17,6 +17,24 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+61 2 6684 2415"/>
     <tag k="website" v="https://lulus-cafe.com.au/"/>
+  </node>
+  <node id="2534783919" lat="46.2908465" lon="11.4618140" version="10" timestamp="2024-11-13T17:38:05Z" changeset="159100866" uid="21888161" user="Graviz">
+    <tag k="addr:city" v="Cavalese"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="38033"/>
+    <tag k="addr:street" v="Via Fratelli Bronzetti"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="male" v="yes"/>
+    <tag k="name" v="Barbieria Boschetto"/>
+    <tag k="opening_hours" v="Tu-Sa 08:30-12:00,15:00-19:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="phone" v="+39 330 521 556"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="website" v="https://www.barbieriaboschetto.it/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="2587513447" lat="50.6177447" lon="6.8518432" version="7" timestamp="2024-09-30T15:56:08Z" changeset="157304422" uid="1871830" user="Euskirchener">
     <tag k="addr:city" v="Euskirchen"/>
@@ -40,6 +58,30 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="farm"/>
+  </node>
+  <node id="2610205690" lat="51.9218312" lon="4.4753376" version="7" timestamp="2024-11-13T13:05:53Z" changeset="159090679" uid="21987390" user="LightningConductor">
+    <tag k="addr:city" v="Rotterdam"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="3012ED"/>
+    <tag k="addr:street" v="Korte Lijnbaan"/>
+    <tag k="contact:instagram" v="vnmshop.nl"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="VNMShop"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="shop" v="nutrition_supplements"/>
+    <tag k="source" v="BAG;local knowledge"/>
+    <tag k="source:date" v="2013-11-26"/>
+    <tag k="survey:date" v="2024-11-11"/>
+    <tag k="website" v="https://vnmshop.nl"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="2719478150" lat="14.6007149" lon="-90.5196428" version="6" timestamp="2024-10-10T20:48:45Z" changeset="157732876" uid="22040290" user="Juan BTC">
     <tag k="addr:city" v="Zona 9"/>
@@ -254,7 +296,7 @@
     <tag k="survey:date" v="2024-09-23"/>
     <tag k="website" v="https://gabinetpsychiatra.pl"/>
   </node>
-  <node id="10103488116" lat="-29.7330435" lon="31.0830025" version="4" timestamp="2024-10-03T12:32:17Z" changeset="157417060" uid="8555719" user="Khathucry">
+  <node id="10103488116" lat="-29.7330435" lon="31.0830025" version="5" timestamp="2024-11-13T19:23:50Z" changeset="159104434" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Umhlanga"/>
     <tag k="addr:postcode" v="4319"/>
     <tag k="addr:street" v="Cnr Durban View Road &amp; Marine Drive"/>
@@ -267,6 +309,7 @@
     <tag k="opening_hours" v="Mo-Su 06:00-18:00"/>
     <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="0727372110"/>
   </node>
@@ -1590,7 +1633,7 @@
     <tag k="payment:onchain" v="no"/>
     <tag k="survey:date" v="2024-08-16"/>
   </node>
-  <node id="12118267291" lat="52.5014557" lon="13.4191520" version="1" timestamp="2024-08-18T10:57:30Z" changeset="155408548" uid="201359" user="wambacher">
+  <node id="12118267291" lat="52.5014557" lon="13.4191520" version="2" timestamp="2024-11-13T20:26:05Z" changeset="159106450" uid="44217" user="kjon">
     <tag k="addr:city" v="Berlin"/>
     <tag k="addr:housenumber" v="30"/>
     <tag k="addr:postcode" v="10999"/>
@@ -1601,7 +1644,6 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="shop" v="kiosk"/>
-    <tag k="source" v="Yahoo imagery"/>
   </node>
   <node id="12122984960" lat="47.7584643" lon="-122.1979664" version="3" timestamp="2024-09-03T02:00:34Z" changeset="156121676" uid="20996589" user="Lumikeiju">
     <tag k="addr:city" v="Bothell"/>
@@ -3138,6 +3180,44 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 997812875"/>
     <tag k="tourism" v="hostel"/>
+  </node>
+  <node id="12337765191" lat="-29.7552274" lon="31.0207505" version="2" timestamp="2024-11-13T19:35:21Z" changeset="159104811" uid="21301664" user="yBitcoinza">
+    <tag k="addr:city" v="Durban"/>
+    <tag k="addr:housenumber" v="27"/>
+    <tag k="addr:postcode" v="4001"/>
+    <tag k="addr:street" v="Unit 2, Avoca Multi Park, 27 Columbine Pl, Glen Anil"/>
+    <tag k="craft" v="signmaker"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Printcentral Co"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="0785657940"/>
+    <tag k="website" v="https://www.printcentralco.net/"/>
+  </node>
+  <node id="12338052960" lat="-22.8257835" lon="-45.6286534" version="2" timestamp="2024-11-13T22:32:43Z" changeset="159109805" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Estação ferroviária Eugênio Lefévre"/>
+    <tag k="addr:suburb" v="Eugênio Lefévre"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="check_date:currency:XBT" v="2024-11-13"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Casa especializada em bolinhos de bacalhau (morhua) fritos na hora. Vinho do Porto, pastéis de nata, salgados e lanches deliciosos."/>
+    <tag k="email" v="bolinho.bacalhau@terra.con.br"/>
+    <tag k="image" v="https://image.nostr.build/7a2017c1f68b45298b104f78b9e3337dda11d4de5e546a188c915b6c81bf7307.png"/>
+    <tag k="name" v="Bolinho de Bacalhau e Cia"/>
+    <tag k="opening_hours" v="We-Mo 10:00-18:00"/>
+    <tag k="operator" v="Lucio Mauro Audibert"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 36661332"/>
+    <tag k="website" v="https://www.instagram.com/bolinho.bacalhau/"/>
   </node>
 
 </osm>
