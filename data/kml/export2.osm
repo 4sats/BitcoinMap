@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-14T05:28:36Z"/>
+<meta osm_base="2024-11-15T05:29:36Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -152,6 +152,23 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="gift"/>
     <tag k="source" v="Reconocimiento cartográfico por KG 2016."/>
+  </node>
+  <node id="4343903826" lat="40.4009698" lon="17.2856038" version="6" timestamp="2024-11-14T14:57:22Z" changeset="159133812" uid="4396954" user="alex8819">
+    <tag k="addr:city" v="Talsano"/>
+    <tag k="addr:housenumber" v="252"/>
+    <tag k="addr:postcode" v="74122"/>
+    <tag k="addr:street" v="Via Sanguzza"/>
+    <tag k="description:it" v="Laboratorio di informatica e asssistenza per Computer fissi e PC portatili quali netbook o notebook. Assistenza specialzzata su Smartphone e Tablet multimarca: Apple, Nokia, NGM, Samsung ecc"/>
+    <tag k="name" v="RiparaTa.it - Il centro informatico di Taranto"/>
+    <tag k="opening_hours" v="9.15 - 13.15 / 16.00 - 19.00"/>
+    <tag k="operator" v="Alessandro Aloi"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="phone" v="+393888673983"/>
+    <tag k="phone:mobile" v="+39 388 8673983"/>
+    <tag k="shop" v="computer"/>
+    <tag k="website" v="https://www.riparata.it/"/>
   </node>
   <node id="4379042414" lat="51.4251073" lon="-0.0834934" version="5" timestamp="2024-09-29T19:02:19Z" changeset="157267719" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="London"/>
@@ -3218,6 +3235,43 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 36661332"/>
     <tag k="website" v="https://www.instagram.com/bolinho.bacalhau/"/>
+  </node>
+  <node id="12338954374" lat="-35.2598563" lon="138.8910581" version="2" timestamp="2024-11-14T21:46:18Z" changeset="159147746" uid="712752" user="tastrax">
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="5255"/>
+    <tag k="addr:state" v="SA"/>
+    <tag k="addr:street" v="Dawson Street"/>
+    <tag k="addr:suburb" v="Strathalbyn"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="maidmentsmeats@gmail.com"/>
+    <tag k="name" v="Maidment's Meat Service"/>
+    <tag k="operator" v="Maidment Family"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="+61 8 8536 2618"/>
+    <tag k="shop" v="butcher"/>
+    <tag k="survey:date" v="2024-11-14"/>
+  </node>
+  <node id="12342553149" lat="-26.8250712" lon="-65.2045930" version="1" timestamp="2024-11-15T02:15:19Z" changeset="159152465" uid="22140927" user="df_correa">
+    <tag k="addr:city" v="San Miguel de Tucumán"/>
+    <tag k="addr:housenumber" v="417"/>
+    <tag k="addr:postcode" v="4000"/>
+    <tag k="addr:street" v="Muñecas"/>
+    <tag k="name" v="Lecfer EVT SA"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:tether" v="yes"/>
+    <tag k="phone" v="+54 9 3813 60-1481"/>
+    <tag k="shop" v="travel_agency"/>
   </node>
 
 </osm>
