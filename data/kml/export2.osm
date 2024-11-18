@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-17T05:29:54Z"/>
+<meta osm_base="2024-11-18T05:30:32Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -3237,23 +3237,6 @@
     <tag k="shop" v="butcher"/>
     <tag k="survey:date" v="2024-11-14"/>
   </node>
-  <node id="12342553149" lat="-26.8250712" lon="-65.2045930" version="1" timestamp="2024-11-15T02:15:19Z" changeset="159152465" uid="22140927" user="df_correa">
-    <tag k="addr:city" v="San Miguel de Tucumán"/>
-    <tag k="addr:housenumber" v="417"/>
-    <tag k="addr:postcode" v="4000"/>
-    <tag k="addr:street" v="Muñecas"/>
-    <tag k="name" v="Lecfer EVT SA"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:tether" v="yes"/>
-    <tag k="phone" v="+54 9 3813 60-1481"/>
-    <tag k="shop" v="travel_agency"/>
-  </node>
   <node id="12344473842" lat="-22.8236535" lon="-45.6780295" version="1" timestamp="2024-11-15T18:06:46Z" changeset="159181820" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antônio do Pinhal"/>
     <tag k="addr:housenumber" v="33"/>
@@ -3271,6 +3254,27 @@
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:coinos" v="yes"/>
     <tag k="phone" v="+55 12 996054084"/>
+  </node>
+  <node id="12349012831" lat="-23.9678075" lon="-46.3194468" version="1" timestamp="2024-11-17T19:58:52Z" changeset="159257261" uid="22189169" user="Diagnos - Medicina Especializada">
+    <tag k="addr:city" v="Santos"/>
+    <tag k="addr:housenumber" v="551"/>
+    <tag k="addr:postcode" v="11045-201"/>
+    <tag k="addr:street" v="Avenida Siqueira Campos"/>
+    <tag k="addr:suburb" v="Embaré"/>
+    <tag k="email" v="contato@diagnos.com.br"/>
+    <tag k="healthcare" v="laboratory"/>
+    <tag k="healthcare:speciality" v="pathology;punção_aspirativa;citopatologia"/>
+    <tag k="mobile" v="+5513997433424"/>
+    <tag k="name" v="Diagnos Medicina Especializada"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+551333424667"/>
+    <tag k="ref" v="canal 4"/>
+    <tag k="website" v="www.diagnos.com.br"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
