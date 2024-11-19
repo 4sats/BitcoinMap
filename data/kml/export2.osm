@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-18T05:30:32Z"/>
+<meta osm_base="2024-11-19T05:29:29Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -1809,14 +1809,16 @@
     <tag k="shop" v="greengrocer"/>
     <tag k="survey:date" v="2024-09-13"/>
   </node>
-  <node id="12186531979" lat="13.4943636" lon="-89.3829881" version="1" timestamp="2024-09-19T16:16:09Z" changeset="156828655" uid="21869258" user="Bitcoin Travel">
+  <node id="12186531979" lat="13.4943636" lon="-89.3829881" version="2" timestamp="2024-11-18T14:03:49Z" changeset="159284902" uid="22169703" user="Triredy">
     <tag k="addr:city" v="Tamanique"/>
     <tag k="addr:place" v="El Tunco"/>
     <tag k="addr:postcode" v="CP 1522"/>
     <tag k="name" v="Bitcoin Travel"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-16:00"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+12132218650"/>
-    <tag k="shop" v="travel_agency"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="phone" v="+50372373165"/>
+    <tag k="shop" v="motorcycle for rent"/>
   </node>
   <node id="12219143613" lat="-22.8328840" lon="-45.7112838" version="8" timestamp="2024-11-12T21:08:16Z" changeset="159068404" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antonio do Pinhal"/>
@@ -2940,7 +2942,7 @@
     <tag k="website" v="www.fb.com/matinaldoceria"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12332011323" lat="-22.8243210" lon="-45.6685648" version="4" timestamp="2024-11-12T21:14:54Z" changeset="159068674" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12332011323" lat="-22.8243210" lon="-45.6685648" version="5" timestamp="2024-11-18T20:46:11Z" changeset="159300121" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Santo Antonio do pinhal"/>
     <tag k="addr:housenumber" v="686"/>
     <tag k="addr:postcode" v="12450-000"/>
@@ -2958,7 +2960,7 @@
     <tag k="payment:coinos" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 997883821"/>
-    <tag k="website" v="www.verdeesolucoes.com.br"/>
+    <tag k="website" v="https://verdeesolucoes.com.br/"/>
   </node>
   <node id="12332362911" lat="-22.7220039" lon="-45.5648459" version="4" timestamp="2024-11-15T12:46:18Z" changeset="159169109" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Campos do Jordão"/>
@@ -3024,7 +3026,7 @@
     <tag k="tourism" v="alpine_hut"/>
     <tag k="website" v="www.pousadapinhalense.com.br"/>
   </node>
-  <node id="12332788129" lat="-22.8258319" lon="-45.6666810" version="4" timestamp="2024-11-12T23:24:15Z" changeset="159071797" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12332788129" lat="-22.8258319" lon="-45.6666810" version="5" timestamp="2024-11-18T20:46:10Z" changeset="159300121" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Santo Antônio do Pinhal"/>
     <tag k="addr:housenumber" v="162"/>
     <tag k="addr:postcode" v="12450000"/>
@@ -3044,7 +3046,7 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 997152103"/>
-    <tag k="website" v="taplink.cc/vistoriaintervisao"/>
+    <tag k="website" v="https://taplink.cc/vistoriaintervisao"/>
   </node>
   <node id="12332796179" lat="-22.8254369" lon="-45.6630113" version="3" timestamp="2024-11-12T21:24:08Z" changeset="159068970" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antonio do Pinhal"/>
@@ -3072,7 +3074,7 @@
     <tag k="shop" v="greengrocer"/>
     <tag k="website" v="@QuitandadoFerreirinha"/>
   </node>
-  <node id="12332799880" lat="-22.7726157" lon="-45.6960262" version="5" timestamp="2024-11-12T21:31:38Z" changeset="159069214" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12332799880" lat="-22.7726157" lon="-45.6960262" version="6" timestamp="2024-11-18T20:46:11Z" changeset="159300121" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Santo Antônio do Pinhal"/>
     <tag k="addr:housenumber" v="230"/>
     <tag k="addr:postcode" v="12450000"/>
@@ -3094,7 +3096,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 991393900"/>
     <tag k="tourism" v="alpine_hut"/>
-    <tag k="website" v="www.pousadacesar.com.br"/>
+    <tag k="website" v="https://www.pousadacesar.com.br/"/>
   </node>
   <node id="12332981826" lat="50.6096931" lon="-1.9591720" version="1" timestamp="2024-11-11T22:44:04Z" changeset="159029251" uid="13666626" user="RedAuburn">
     <tag k="addr:city" v="Swanage"/>
@@ -3111,7 +3113,7 @@
     <tag k="shop" v="newsagent"/>
     <tag k="website" v="https://swanage-news.com/"/>
   </node>
-  <node id="12335497648" lat="-22.7341159" lon="-45.5712563" version="1" timestamp="2024-11-12T20:34:07Z" changeset="159067257" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12335497648" lat="-22.7341159" lon="-45.5712563" version="2" timestamp="2024-11-18T20:46:12Z" changeset="159300121" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Campos do Jordão"/>
     <tag k="addr:housenumber" v="1841"/>
     <tag k="addr:postcode" v="12460000"/>
@@ -3132,7 +3134,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 997325339"/>
     <tag k="tourism" v="alpine_hut"/>
-    <tag k="website" v="www.anossacasinha.com.br"/>
+    <tag k="website" v="https://www.anossacasinha.com.br/"/>
   </node>
   <node id="12335557058" lat="-22.8246580" lon="-45.6680367" version="2" timestamp="2024-11-12T21:15:22Z" changeset="159068689" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antonio do pinhal"/>
@@ -3275,6 +3277,27 @@
     <tag k="ref" v="canal 4"/>
     <tag k="website" v="www.diagnos.com.br"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12350696838" lat="-34.1590501" lon="22.1045297" version="2" timestamp="2024-11-18T10:58:01Z" changeset="159278080" uid="413346" user="Bitcoin Sedgefield">
+    <tag k="addr:city" v="Mossel bay"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="6506"/>
+    <tag k="addr:street" v="Industrie Way"/>
+    <tag k="contact:email" v="germansmokehousedeli@gmail.com"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/profile.php?id=100063558641189"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="German Smokehouse Deli"/>
+    <tag k="opening_hours" v="mo-fr 08:30-15:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="+27 71 954 1858"/>
+    <tag k="shop" v="deli"/>
+    <tag k="survey:date" v="2020-11-16"/>
+    <tag k="website" v="https://germansmokehouse.co.za/"/>
   </node>
 
 </osm>
