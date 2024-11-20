@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-19T05:29:29Z"/>
+<meta osm_base="2024-11-20T05:29:01Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -3298,6 +3298,71 @@
     <tag k="shop" v="deli"/>
     <tag k="survey:date" v="2020-11-16"/>
     <tag k="website" v="https://germansmokehouse.co.za/"/>
+  </node>
+  <node id="12354540115" lat="-25.5094202" lon="-54.6443010" version="1" timestamp="2024-11-19T13:08:57Z" changeset="159323977" uid="19380224" user="Escuelita Bitcoin">
+    <tag k="addr:city" v="Ciudad del Este"/>
+    <tag k="addr:street" v="Herminio Gimenez"/>
+    <tag k="healthcare" v="physiotherapist"/>
+    <tag k="healthcare:speciality" v="traditional_chinese_medicine"/>
+    <tag k="name" v="Centro de Terapia Belen"/>
+    <tag k="operator" v="Terapeuta Avelino Nuñez"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+595981158444"/>
+  </node>
+  <node id="12356646640" lat="37.2856515" lon="49.5838554" version="1" timestamp="2024-11-19T21:14:42Z" changeset="159342839" uid="4914387" user="Rasht24">
+    <tag k="addr:city" v="رشت"/>
+    <tag k="addr:street" v="بلوار معلم"/>
+    <tag k="industrial" v="پمپ"/>
+    <tag k="name" v="فروشگاه تجهیزآب - نمایندگی میراب"/>
+    <tag k="name:en" v="TajhizAb-Valve &amp; Pump Store"/>
+    <tag k="opening_hours" v="08:30-20:00"/>
+    <tag k="operator" v="Tajhiz Ab"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="phone" v="+981391009171"/>
+    <tag k="shop" v="general"/>
+    <tag k="store" v="شیرآلات چدنی"/>
+  </node>
+  <node id="12357206892" lat="22.3381947" lon="114.1469596" version="2" timestamp="2024-11-20T03:54:22Z" changeset="159349920" uid="22198693" user="Trudeaupotato">
+    <tag k="addr:city" v="九龍荔枝角Kowloon, Lai Chi Kok"/>
+    <tag k="addr:district" v="Cheung Sha Wan"/>
+    <tag k="addr:housenumber" v="688-690"/>
+    <tag k="addr:postcode" v="00000"/>
+    <tag k="addr:street" v="青山道 Castle Peak Road, Block B, 8/F, Ka Ming Court"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Playasia"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-18:00"/>
+    <tag k="operator" v="Play-Asia.com"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="shop" v="video_games"/>
+    <tag k="survey:date" v="2024-11-20"/>
+    <tag k="website" v="https://www.play-asia.com"/>
+  </node>
+  <node id="12357348509" lat="16.6422928" lon="103.9052941" version="1" timestamp="2024-11-20T04:13:33Z" changeset="159350153" uid="20640049" user="vacuumcoffee">
+    <tag k="addr:district" v="ห้วยผึ้ง"/>
+    <tag k="addr:place" v="ห้วยผึ้ง"/>
+    <tag k="addr:postcode" v="46240"/>
+    <tag k="addr:province" v="กาฬสินธุ์"/>
+    <tag k="addr:subdistrict" v="นิคมห้วยผึ้ง"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Huai Phueng Cannabis"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:lightningnfc" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="shop" v="cannabis"/>
+    <tag k="survey:date" v="2024-11-19"/>
   </node>
 
 </osm>
