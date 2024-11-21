@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-20T05:29:01Z"/>
+<meta osm_base="2024-11-21T05:29:45Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -312,6 +312,24 @@
     <tag k="phone" v="+48509122806"/>
     <tag k="survey:date" v="2024-09-23"/>
     <tag k="website" v="https://gabinetpsychiatra.pl"/>
+  </node>
+  <node id="9099240665" lat="38.8540901" lon="-9.1433703" version="6" timestamp="2024-11-20T13:02:52Z" changeset="159365044" uid="22200764" user="Chamucinha Fabrico Artesanal Lda">
+    <tag k="addr:city" v="Santo Antão do Tojal"/>
+    <tag k="addr:housenumber" v="8-B"/>
+    <tag k="addr:postcode" v="2660-161"/>
+    <tag k="addr:street" v="Largo Francisco Maria Borges"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="diet:chicken" v="yes"/>
+    <tag k="diet:healthy" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="name" v="Chamucinha Fabrico Artesanal"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="website" v="www.chamucinha.pt"/>
   </node>
   <node id="10103488116" lat="-29.7330435" lon="31.0830025" version="5" timestamp="2024-11-13T19:23:50Z" changeset="159104434" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Umhlanga"/>
@@ -3363,6 +3381,29 @@
     <tag k="payment:onchain" v="no"/>
     <tag k="shop" v="cannabis"/>
     <tag k="survey:date" v="2024-11-19"/>
+  </node>
+  <node id="12358033292" lat="35.9221594" lon="14.4876120" version="2" timestamp="2024-11-20T12:35:16Z" changeset="159363962" uid="22200689" user="Bitsuite">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Bitsuite"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2024-11-20"/>
+    <tag k="website" v="https://bitsuite.co/"/>
+  </node>
+  <node id="12360298071" lat="37.1397285" lon="-8.0230027" version="2" timestamp="2024-11-20T23:28:03Z" changeset="159388946" uid="20271195" user="BitcoinMission">
+    <tag k="addr:city" v="Loulé"/>
+    <tag k="addr:housenumber" v="78"/>
+    <tag k="addr:postcode" v="8100-562"/>
+    <tag k="addr:street" v="Praça da República"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="burger;beer;crepe;salad"/>
+    <tag k="name" v="Hamburgueria da Baixa - Loulé"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-00:00"/>
+    <tag k="payment:XBT" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+351 914 959 146"/>
   </node>
 
 </osm>
