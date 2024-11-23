@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-22T05:29:16Z"/>
+<meta osm_base="2024-11-23T05:28:56Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -3385,6 +3385,25 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+351 914 959 146"/>
+  </node>
+  <node id="12365289649" lat="-29.9309729" lon="-51.0773974" version="2" timestamp="2024-11-22T23:53:18Z" changeset="159479289" uid="22209500" user="SCHERER AUTOPEÇAS">
+    <tag k="addr:city" v="Cachoeirinha"/>
+    <tag k="addr:housenumber" v="93"/>
+    <tag k="addr:postcode" v="94945-000"/>
+    <tag k="addr:street" v="Avenida José Brambila"/>
+    <tag k="addr:suburb" v="Vista Alegre"/>
+    <tag k="name" v="Scherer Autopeças"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:visa_electron" v="yes"/>
+    <tag k="phone" v="+555134697174"/>
+    <tag k="shop" v="car_parts"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
