@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-23T05:28:56Z"/>
+<meta osm_base="2024-11-24T05:28:39Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -3404,6 +3404,20 @@
     <tag k="phone" v="+555134697174"/>
     <tag k="shop" v="car_parts"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12368521288" lat="50.0012095" lon="7.5951612" version="2" timestamp="2024-11-23T22:01:51Z" changeset="159515698" uid="22213602" user="SylviaSunshine1">
+    <tag k="addr:city" v="Wahlbach"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="55494"/>
+    <tag k="addr:street" v="Dorfstraße"/>
+    <tag k="name" v="Mein Landhaus"/>
+    <tag k="opening_hours" v="Fr 14:00-18:00 or &quot;by appointment&quot; / &quot;nach Vereinbarung&quot;"/>
+    <tag k="operator" v="Sylvia Bast"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+49 01573 - 0137061"/>
+    <tag k="shop" v="gift"/>
+    <tag k="website" v="https://www.landhaus-hunsrueck.de"/>
   </node>
 
 </osm>
