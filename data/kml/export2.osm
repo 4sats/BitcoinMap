@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-25T05:30:00Z"/>
+<meta osm_base="2024-11-26T05:28:57Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -1643,14 +1643,14 @@
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="shop" v="kiosk"/>
   </node>
-  <node id="12122984960" lat="47.7584643" lon="-122.1979664" version="3" timestamp="2024-09-03T02:00:34Z" changeset="156121676" uid="20996589" user="Lumikeiju">
+  <node id="12122984960" lat="47.7584643" lon="-122.1979664" version="4" timestamp="2024-11-25T14:10:21Z" changeset="159575389" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="Bothell"/>
     <tag k="addr:housenumber" v="10610"/>
     <tag k="addr:postcode" v="98011"/>
     <tag k="addr:state" v="WA"/>
     <tag k="addr:street" v="Woodinville Drive"/>
     <tag k="amenity" v="cafe"/>
-    <tag k="check_date:currency:XBT" v="2024-08-21"/>
+    <tag k="check_date:currency:XBT" v="2024-11-25"/>
     <tag k="cuisine" v="coffee_shop"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Dg Coffee"/>
@@ -3280,6 +3280,18 @@
     <tag k="survey:date" v="2020-11-16"/>
     <tag k="website" v="https://germansmokehouse.co.za/"/>
   </node>
+  <node id="12354540115" lat="-25.5094202" lon="-54.6443010" version="4" timestamp="2024-11-25T16:42:01Z" changeset="159581529" uid="19380224" user="Escuelita Bitcoin">
+    <tag k="addr:city" v="Ciudad del Este"/>
+    <tag k="addr:street" v="Herminio Gimenez"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="physiotherapist"/>
+    <tag k="healthcare:speciality" v="traditional_chinese_medicine"/>
+    <tag k="name" v="Centro de Terapia Belen"/>
+    <tag k="operator" v="Terapeuta Avelino Nuñez"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+595981158444"/>
+  </node>
   <node id="12356646640" lat="37.2856515" lon="49.5838554" version="1" timestamp="2024-11-19T21:14:42Z" changeset="159342839" uid="4914387" user="Rasht24">
     <tag k="addr:city" v="رشت"/>
     <tag k="addr:street" v="بلوار معلم"/>
@@ -3343,14 +3355,13 @@
     <tag k="survey:date" v="2024-11-20"/>
     <tag k="website" v="https://bitsuite.co/"/>
   </node>
-  <node id="12365289649" lat="-29.9309729" lon="-51.0773974" version="2" timestamp="2024-11-22T23:53:18Z" changeset="159479289" uid="22209500" user="SCHERER AUTOPEÇAS">
-    <tag k="addr:city" v="Cachoeirinha"/>
+  <node id="12365289649" lat="-29.9309729" lon="-51.0773974" version="4" timestamp="2024-11-26T00:25:10Z" changeset="159594533" uid="22209500" user="SCHERER AUTOPEÇAS">
     <tag k="addr:housenumber" v="93"/>
     <tag k="addr:postcode" v="94945-000"/>
     <tag k="addr:street" v="Avenida José Brambila"/>
-    <tag k="addr:suburb" v="Vista Alegre"/>
     <tag k="name" v="Scherer Autopeças"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-18:00"/>
+    <tag k="operator" v="Scherer"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
@@ -3362,19 +3373,147 @@
     <tag k="shop" v="car_parts"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12368521288" lat="50.0012095" lon="7.5951612" version="2" timestamp="2024-11-23T22:01:51Z" changeset="159515698" uid="22213602" user="SylviaSunshine1">
-    <tag k="addr:city" v="Wahlbach"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:postcode" v="55494"/>
-    <tag k="addr:street" v="Dorfstraße"/>
-    <tag k="name" v="Mein Landhaus"/>
-    <tag k="opening_hours" v="Fr 14:00-18:00 or &quot;by appointment&quot; / &quot;nach Vereinbarung&quot;"/>
-    <tag k="operator" v="Sylvia Bast"/>
+  <node id="12373942281" lat="-22.8237936" lon="-45.6705893" version="2" timestamp="2024-11-25T16:07:07Z" changeset="159580078" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antonio do Pinhal"/>
+    <tag k="addr:housenumber" v="906"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Avenida Ministro Nelson Hungria"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="car_wash"/>
+    <tag k="check_date:currency:XBT" v="2024-11-25"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Serviço de estética automotiva de alto padrão e qualidade."/>
+    <tag k="email" v="ericklys19998@gmail.com"/>
+    <tag k="image" v="https://image.nostr.build/0e100b966b09cf29a921b778dfcc3a3cde7f87a9e4943fd64dc7499f39759d7c.png"/>
+    <tag k="name" v="Start estética automotiva"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-17:00"/>
+    <tag k="operator" v="Ericklys"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+55 12 997201516"/>
+    <tag k="website" v="https://www.instagram.com/start_estetica_automotiva?igsh=MW1sYWY0OHp0cHkwcw=="/>
+  </node>
+  <node id="12373970712" lat="-22.8236539" lon="-45.6700609" version="1" timestamp="2024-11-25T16:06:36Z" changeset="159580048" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antonio do Pinhal"/>
+    <tag k="addr:housenumber" v="s/n"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Estádio Maurício Nader"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="check_date:currency:XBT" v="2024-11-25"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Bar popular de esporte, servimos porções, comida caseira, cerveja gelada e transmitimos eventos esportivos  na tv."/>
+    <tag k="email" v="dbsconect@gmail.com"/>
+    <tag k="image" v="https://image.nostr.build/fa5c8e8cc46ecefed15295c28a913ff8330b95d0547f88557bb35efdb3b0477f.png"/>
+    <tag k="name" v="Samba &amp;Gol"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-15:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="phone" v="+55 12 997026786"/>
+    <tag k="website" v="https://www.instagram.com/samba_e_gol/profilecard/?igsh=MXgxZmhzaW4yZzlqZw=="/>
+  </node>
+  <node id="12373984967" lat="-22.8318492" lon="-45.7069223" version="1" timestamp="2024-11-25T16:50:42Z" changeset="159581915" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
+    <tag k="addr:housenumber" v="5500"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Rod. Oswaldo Barbosa Guizard"/>
+    <tag k="addr:suburb" v="Rio Preto"/>
+    <tag k="check_date:currency:XBT" v="2024-11-25"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="pinheirojc@hotmail.com"/>
+    <tag k="image" v="https://image.nostr.build/b6dfe372b226a68524cdf2a275a7b5bba0fa8057940fd157d2bb0293dd735f2c.png"/>
+    <tag k="name" v="Pousada Jardim Suspenso"/>
+    <tag k="operator" v="João Cesar Pinheiro Rodrigues"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 997652435"/>
+    <tag k="tourism" v="alpine_hut"/>
+  </node>
+  <node id="12374007422" lat="-22.8260177" lon="-45.6661633" version="1" timestamp="2024-11-25T16:22:45Z" changeset="159580724" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:housenumber" v="31"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Rua Gumercindo Jacintho da Silva"/>
+    <tag k="addr:suburb" v="centro"/>
+    <tag k="check_date:currency:XBT" v="2024-11-25"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="A BS em parceria com iniciativas privadas, busca fomentar, incentivar e viabilizar acesso e a publicidade do esporte e manutenção da cultura local."/>
+    <tag k="email" v="dbsconect@gmail.com"/>
+    <tag k="name" v="BS"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-15:00"/>
+    <tag k="operator" v="Dione Baleeiro Schmidt"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 997026786"/>
+    <tag k="website" v="https://www.instagram.com/bs23hub/profilecard/?igsh=MW9qcHNuc2w4YnQyZw=="/>
+  </node>
+  <node id="12374008892" lat="-22.8245476" lon="-45.6676756" version="1" timestamp="2024-11-25T16:34:51Z" changeset="159581229" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antonio do pinhal"/>
+    <tag k="addr:housenumber" v="624"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Avenida Ministro Nelson Hungria"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2024-11-25"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Empresa  de Segurança  e informatica atuando a 13 anos no mercado"/>
+    <tag k="email" v="Megasegurinfo@gmail.com"/>
+    <tag k="name" v="Mega segurança e informatica"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-18:00"/>
+    <tag k="operator" v="Lucas Henrique do nascimento e Silva"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 36662653"/>
+    <tag k="shop" v="computer"/>
+  </node>
+  <node id="12374387953" lat="-25.5101701" lon="-54.6437806" version="5" timestamp="2024-11-26T02:33:49Z" changeset="159596263" uid="7522075" user="Rockedf">
+    <tag k="addr:city" v="Ciudad del Este"/>
+    <tag k="addr:housenumber" v="100163"/>
+    <tag k="addr:postcode" v="7000"/>
+    <tag k="addr:street" v="Guido Spano"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date:currency:XBT" v="2024-11-25"/>
+    <tag k="cuisine" v="coffee_shop;breakfast;sandwich"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="name" v="teko cafeteria"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-12:00"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+49 01573 - 0137061"/>
-    <tag k="shop" v="gift"/>
-    <tag k="website" v="https://www.landhaus-hunsrueck.de"/>
+    <tag k="phone" v="+595986260870"/>
+    <tag k="source:date" v="2024-25-12"/>
+  </node>
+  <node id="12374579253" lat="30.1949792" lon="-97.8356258" version="3" timestamp="2024-11-25T23:13:52Z" changeset="159593281" uid="22220628" user="House To House Lawn and Landscaping">
+    <tag k="addr:city" v="Austin"/>
+    <tag k="addr:housenumber" v="8606"/>
+    <tag k="addr:postcode" v="78745"/>
+    <tag k="addr:state" v="TX"/>
+    <tag k="addr:street" v="Cameron Loop"/>
+    <tag k="craft" v="gardener"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="location" v="South Austin"/>
+    <tag k="name" v="House to House Lawncare"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="operator" v="Andy Combs"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="512-736-2550"/>
+    <tag k="website" v="housetohouselawncare.com"/>
   </node>
 
 </osm>
