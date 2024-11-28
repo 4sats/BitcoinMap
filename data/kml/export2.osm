@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-27T05:29:44Z"/>
+<meta osm_base="2024-11-28T05:29:52Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -762,6 +762,29 @@
     <tag k="payment:ethereum" v="yes"/>
     <tag k="phone" v="322 779 7571"/>
     <tag k="shop" v="fishing"/>
+  </node>
+  <node id="11980315851" lat="42.7652105" lon="10.8723377" version="23" timestamp="2024-11-27T15:50:14Z" changeset="159666469" uid="21657170" user="IacR">
+    <tag k="addr:city" v="Castiglione della Pescaia"/>
+    <tag k="addr:postcode" v="58043"/>
+    <tag k="addr:street" v="Via Carlo Cattaneo"/>
+    <tag k="beds" v="3"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="currency:XLT" v="yes"/>
+    <tag k="email" v="iacopo.raspolli@gmail.com"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="name" v="Casavacanze a Castiglione della Pescaia"/>
+    <tag k="operator" v="Iacopo"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="reservation" v="required"/>
+    <tag k="rooms" v="5"/>
+    <tag k="survey:date" v="2024-11-03"/>
+    <tag k="tourism" v="apartment"/>
+    <tag k="website" v="https://www.airbnb.it/rooms/911401039919882337?guests=1&amp;adults=1&amp;s=67&amp;unique_share_id=773655d3-2be8-484c-80b5-0cbaee021789"/>
   </node>
   <node id="11990610357" lat="28.7263014" lon="-13.8666469" version="1" timestamp="2024-06-18T17:58:48Z" changeset="152860269" uid="20309960" user="Joeydd">
     <tag k="addr:city" v="Corralejo"/>
@@ -3608,6 +3631,16 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="website" v="https://www.instagram.com/toledo_car_estetica?igsh=OG9iaWgzeXhjcTY1"/>
+  </node>
+  <node id="12379441398" lat="13.5317721" lon="-89.7589430" version="1" timestamp="2024-11-27T19:26:52Z" changeset="159674544" uid="21876143" user="daerazop">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="NAIA Miravalle"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2024-08-01"/>
+    <tag k="website" v="https://naiamiravalle.com/"/>
   </node>
 
 </osm>
