@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-29T05:29:58Z"/>
+<meta osm_base="2024-11-30T05:28:43Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -1949,11 +1949,12 @@
     <tag k="phone" v="+502 3655 8084"/>
     <tag k="shop" v="health_food"/>
   </node>
-  <node id="12250165495" lat="27.3074643" lon="88.5690518" version="2" timestamp="2024-10-14T10:20:38Z" changeset="157869550" uid="17429" user="thevikas">
+  <node id="12250165495" lat="27.3074643" lon="88.5690518" version="3" timestamp="2024-11-30T02:36:02Z" changeset="159761670" uid="17429" user="thevikas">
     <tag k="company" v="software"/>
     <tag k="computer:software" v="application;web"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="thevikas.com"/>
+    <tag k="office" v="it"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="no"/>
@@ -3598,6 +3599,50 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="survey:date" v="2024-08-01"/>
     <tag k="website" v="https://naiamiravalle.com/"/>
+  </node>
+  <node id="12384768455" lat="-30.7316062" lon="-55.3905406" version="2" timestamp="2024-11-29T17:13:36Z" changeset="159750278" uid="22235227" user="danielrortega">
+    <tag k="addr:city" v="Santana do Livramento"/>
+    <tag k="addr:housenumber" v="1350"/>
+    <tag k="addr:postcode" v="97.573-180"/>
+    <tag k="addr:street" v="Estrada Assentamento Tafona I, Esq"/>
+    <tag k="addr:suburb" v="Campanha"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="contato@ourodesantana.com.br"/>
+    <tag k="man_made" v="works"/>
+    <tag k="mobile" v="+55 55 9-9990-8312"/>
+    <tag k="name" v="Azeite Ouro de Santana - Fazenda Olivopampa"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="product" v="olive_oil;olives"/>
+    <tag k="survey:date" v="2024-11-29"/>
+    <tag k="website" v="https://www.ourodesantana.com.br"/>
+  </node>
+  <node id="12385541129" lat="27.3284318" lon="88.6129619" version="3" timestamp="2024-11-30T02:57:52Z" changeset="159761900" uid="17429" user="thevikas">
+    <tag k="addr:city" v="Gangtok"/>
+    <tag k="addr:district" v="Gangtok"/>
+    <tag k="addr:full" v="Tibet Rd, Arithang, Gangtok, Sikkim 737101"/>
+    <tag k="addr:postcode" v="737101"/>
+    <tag k="addr:state" v="Sikkim"/>
+    <tag k="addr:street" v="Tibet Rd, Arithang"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Hotel Ambrosia"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+917001689591"/>
+    <tag k="rooms" v="20"/>
+    <tag k="survey:date" v="2024-11-30"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://hotelambrosia.co.in"/>
   </node>
 
 </osm>
