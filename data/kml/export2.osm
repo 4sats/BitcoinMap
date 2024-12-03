@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-02T05:31:13Z"/>
+<meta osm_base="2024-12-03T05:30:13Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -170,6 +170,20 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="shop" v="tool_hire"/>
     <tag k="website" v="https://www.focusplant.uk/"/>
+  </node>
+  <node id="4740252706" lat="44.1701981" lon="9.6103251" version="4" timestamp="2024-12-02T11:46:13Z" changeset="159839421" uid="21657170" user="IacR">
+    <tag k="WLAN" v="yes"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:street" v="Via Olivi"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="guest_house" v="guest_house"/>
+    <tag k="name" v="Amar Levanto"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="rooms" v="5"/>
+    <tag k="tourism" v="guest_house"/>
+    <tag k="website" v="https://amarlevanto.com/"/>
   </node>
   <node id="5373046123" lat="-34.1967866" lon="18.3749931" version="4" timestamp="2024-07-24T07:58:01Z" changeset="154337115" uid="21782067" user="DanieScarb">
     <tag k="amenity" v="restaurant"/>
@@ -2168,10 +2182,10 @@
     <tag k="phone" v="+2547 99 713 037"/>
     <tag k="taxi_vehicle" v="motorcycle"/>
   </node>
-  <node id="12254752062" lat="-1.3081110" lon="36.7821390" version="3" timestamp="2024-10-22T12:18:48Z" changeset="158209169" uid="7522075" user="Rockedf">
+  <node id="12254752062" lat="-1.3081110" lon="36.7821390" version="4" timestamp="2024-12-02T13:52:15Z" changeset="159844115" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="Makina Kibera"/>
     <tag k="check_date" v="2024-10-15"/>
-    <tag k="check_date:currency:XBT" v="2024-10-22"/>
+    <tag k="check_date:currency:XBT" v="2024-12-02"/>
     <tag k="currency:KSH" v="yes"/>
     <tag k="currency:USD" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
