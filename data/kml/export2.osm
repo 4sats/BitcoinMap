@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-03T05:30:13Z"/>
+<meta osm_base="2024-12-04T05:30:29Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -308,6 +308,18 @@
     <tag k="phone" v="+48509122806"/>
     <tag k="survey:date" v="2024-09-23"/>
     <tag k="website" v="https://gabinetpsychiatra.pl"/>
+  </node>
+  <node id="8261781459" lat="41.1641238" lon="-8.6628016" version="5" timestamp="2024-12-03T13:07:41Z" changeset="159880452" uid="22249831" user="Pedro_squash">
+    <tag k="addr:housenumber" v="47"/>
+    <tag k="addr:street" v="Avenida Doutor Antunes Guimarães"/>
+    <tag k="male" v="yes"/>
+    <tag k="name" v="Barbearia Maria Cruz"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-13:00; Mo-Fr 15:00-19:30; Fr 00:00-13:00; Sa 15:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="918515092"/>
+    <tag k="shop" v="hairdresser"/>
   </node>
   <node id="9099240665" lat="38.8540901" lon="-9.1433703" version="6" timestamp="2024-11-20T13:02:52Z" changeset="159365044" uid="22200764" user="Chamucinha Fabrico Artesanal Lda">
     <tag k="addr:city" v="Santo Antão do Tojal"/>
@@ -3519,7 +3531,7 @@
     <tag k="phone" v="+55 12 36662653"/>
     <tag k="shop" v="computer"/>
   </node>
-  <node id="12374579253" lat="30.1949792" lon="-97.8356258" version="3" timestamp="2024-11-25T23:13:52Z" changeset="159593281" uid="22220628" user="House To House Lawn and Landscaping">
+  <node id="12374579253" lat="30.1949792" lon="-97.8356258" version="4" timestamp="2024-12-03T19:16:34Z" changeset="159894019" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Austin"/>
     <tag k="addr:housenumber" v="8606"/>
     <tag k="addr:postcode" v="78745"/>
@@ -3533,7 +3545,7 @@
     <tag k="operator" v="Andy Combs"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="512-736-2550"/>
-    <tag k="website" v="housetohouselawncare.com"/>
+    <tag k="website" v="https://www.housetohouselawncare.com/"/>
   </node>
   <node id="12377191507" lat="-22.8248907" lon="-45.6682841" version="1" timestamp="2024-11-26T21:23:20Z" changeset="159635148" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antonio do pinhal"/>
@@ -3724,6 +3736,48 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 997476931"/>
     <tag k="website" v="https://www.instagram.com/imperiusbarerestaurante/"/>
+  </node>
+  <node id="12393508757" lat="-22.8260456" lon="-45.6599363" version="1" timestamp="2024-12-03T11:38:02Z" changeset="159877216" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="12450-000"/>
+    <tag k="addr:street" v="Travessa padre Sebastião Hugo Santana"/>
+    <tag k="addr:suburb" v="centro"/>
+    <tag k="check_date:currency:XBT" v="2024-12-03"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Bike shop, oficina especializada em bicicletas, venda de bicicletas e acessórios somado com uma estética de motos"/>
+    <tag k="email" v="felipezoffoliexc@hotmail.com"/>
+    <tag k="name" v="The Doctor Pipo"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:30"/>
+    <tag k="operator" v="Felippe Michelle Zoffoli Nicolau"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+55 12 992330713"/>
+    <tag k="shop" v="car_repair"/>
+  </node>
+  <node id="12393849252" lat="41.1081906" lon="16.8762117" version="2" timestamp="2024-12-03T14:57:25Z" changeset="159884856" uid="22250098" user="fabiogl">
+    <tag k="addr:city" v="Bari"/>
+    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:postcode" v="70125"/>
+    <tag k="addr:street" v="Via Angelo Bertolini"/>
+    <tag k="addr:unit" v="Sub"/>
+    <tag k="name" v="Galleria 1957"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:currency:xbt=yes" v="yes"/>
+    <tag k="tourism" v="gallery"/>
+  </node>
+  <node id="12394022843" lat="51.0697580" lon="13.7567881" version="1" timestamp="2024-12-03T15:08:47Z" changeset="159885316" uid="22246408" user="brgtvfd">
+    <tag k="brand" v="dm"/>
+    <tag k="brand:wikidata" v="Q266572"/>
+    <tag k="name" v="dm"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Drogenmarkt"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="shop" v="chemist"/>
   </node>
 
 </osm>
