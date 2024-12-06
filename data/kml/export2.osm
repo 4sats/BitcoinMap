@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-05T05:30:28Z"/>
+<meta osm_base="2024-12-06T05:30:30Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -1924,12 +1924,13 @@
     <tag k="start_date" v="2023-10-01"/>
     <tag k="website" v="https://www.ingaz.com.br"/>
   </node>
-  <node id="12237335135" lat="40.7691663" lon="-111.9043278" version="1" timestamp="2024-10-09T06:48:57Z" changeset="157657296" uid="22046395" user="jacoblyman">
+  <node id="12237335135" lat="40.7691663" lon="-111.9043278" version="2" timestamp="2024-12-05T18:19:40Z" changeset="159967413" uid="22046395" user="jacoblyman">
     <tag k="addr:city" v="Salt Lake City"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="84101"/>
     <tag k="addr:state" v="Utah"/>
     <tag k="addr:street" v="S Rio Grande St"/>
+    <tag k="currency:BTC" v="yes"/>
     <tag k="description" v="The Sat Store is a Bitcoin-first shop that sells vintage and secondhand items at the SLC Urban Flea Market in exchange for Bitcoin over the Lightning Network. It also sells products online at www.satstore.shop"/>
     <tag k="name" v="The Sat Store"/>
     <tag k="opening_hours" v="24/7"/>
@@ -3758,17 +3759,18 @@
     <tag k="phone" v="+55 12 992330713"/>
     <tag k="shop" v="car_repair"/>
   </node>
-  <node id="12393849252" lat="41.1081906" lon="16.8762117" version="2" timestamp="2024-12-03T14:57:25Z" changeset="159884856" uid="22250098" user="fabiogl">
+  <node id="12393849252" lat="41.1081906" lon="16.8762117" version="7" timestamp="2024-12-05T13:54:11Z" changeset="159958393" uid="616774" user="mueschel">
     <tag k="addr:city" v="Bari"/>
-    <tag k="addr:housenumber" v="14"/>
+    <tag k="addr:housenumber" v="14sub 5"/>
     <tag k="addr:postcode" v="70125"/>
     <tag k="addr:street" v="Via Angelo Bertolini"/>
-    <tag k="addr:unit" v="Sub"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Galleria 1957"/>
+    <tag k="opening_hours" v="galleria1957.it"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:currency:xbt=yes" v="yes"/>
     <tag k="tourism" v="gallery"/>
+    <tag k="website" v="galleria1957.it"/>
   </node>
 
 </osm>
