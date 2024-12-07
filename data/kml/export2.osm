@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-06T05:30:30Z"/>
+<meta osm_base="2024-12-07T05:29:44Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -3331,14 +3331,14 @@
     <tag k="survey:date" v="2020-11-16"/>
     <tag k="website" v="https://germansmokehouse.co.za/"/>
   </node>
-  <node id="12354540115" lat="-25.5094202" lon="-54.6443010" version="4" timestamp="2024-11-25T16:42:01Z" changeset="159581529" uid="19380224" user="Escuelita Bitcoin">
+  <node id="12354540115" lat="-25.5094202" lon="-54.6443010" version="5" timestamp="2024-12-06T20:04:58Z" changeset="160007662" uid="22220036" user="Simonescuelitabtc">
     <tag k="addr:city" v="Ciudad del Este"/>
     <tag k="addr:street" v="Herminio Gimenez"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="healthcare" v="physiotherapist"/>
-    <tag k="healthcare:speciality" v="traditional_chinese_medicine"/>
+    <tag k="healthcare:speciality" v="traditional_chinese_medicine;reflexology;tratamiento_de_columna;protrucción;_ciatica_lumbago;hernia_discal"/>
     <tag k="name" v="Centro de Terapia Belen"/>
-    <tag k="operator" v="Terapeuta Avelino Nuñez"/>
+    <tag k="operator" v="Terapeuta Oriental Avelino Nuñez"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+595981158444"/>
@@ -3771,6 +3771,21 @@
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="tourism" v="gallery"/>
     <tag k="website" v="galleria1957.it"/>
+  </node>
+  <node id="12400768345" lat="-3.1072085" lon="-60.0095945" version="1" timestamp="2024-12-06T18:18:05Z" changeset="160004837" uid="21817273" user="DropZone btc">
+    <tag k="addr:city" v="Manaus"/>
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:postcode" v="69057-970"/>
+    <tag k="addr:street" v="Avenida André Araújo"/>
+    <tag k="addr:suburb" v="Adrianópolis"/>
+    <tag k="name" v="DropZone BTC"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-19:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:satoshi" v="yes"/>
+    <tag k="phone" v="+5592991037021"/>
+    <tag k="shop" v="mobile_phone"/>
   </node>
 
 </osm>
