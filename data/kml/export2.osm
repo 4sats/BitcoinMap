@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-07T05:29:44Z"/>
+<meta osm_base="2024-12-08T05:28:42Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -201,6 +201,52 @@
     <tag k="phone" v="(+27) 21-780-1047"/>
     <tag k="survey:date" v="2024-07-24"/>
     <tag k="website" v="https://www.thevillagehub.co.za"/>
+  </node>
+  <node id="5602730924" lat="48.8626955" lon="2.3521138" version="27" timestamp="2024-12-07T15:45:29Z" changeset="160031464" uid="22267102" user="Tonisuplife">
+    <tag k="addr:city" v="Paris"/>
+    <tag k="addr:housenumber" v="177"/>
+    <tag k="addr:postcode" v="75003"/>
+    <tag k="addr:street" v="Rue Saint-Martin"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="brewery" v="yes;various"/>
+    <tag k="check_date" v="2023-03-14"/>
+    <tag k="check_date:currency:XBT" v="2024-04-23"/>
+    <tag k="contact:city" v="Paris 3eme Arrondissement"/>
+    <tag k="contact:facebook" v="LeCarlie"/>
+    <tag k="contact:housenumber" v="177"/>
+    <tag k="contact:instagram" v="le_carlie"/>
+    <tag k="contact:phone" v="+33 6 21 08 71 24"/>
+    <tag k="contact:postcode" v="75003"/>
+    <tag k="contact:street" v="Rue Saint-Martin"/>
+    <tag k="contact:website" v="https://www.lecarlie.fr/"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="currency:XMR" v="yes"/>
+    <tag k="currency:others" v="yes"/>
+    <tag k="description" v="Bar à cocktails et bar à bières"/>
+    <tag k="happy_hours" v="Mo-Sa 16:00-24:00"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Le Carlie"/>
+    <tag k="opening_hours" v="Mo-Fr 16:00-02:00; Sa 15:00-02:00"/>
+    <tag k="outdoor_seating" v="no"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:apple_pay" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:google_pay" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:swissbitcoinpay" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="smoking" v="no"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
@@ -3331,17 +3377,24 @@
     <tag k="survey:date" v="2020-11-16"/>
     <tag k="website" v="https://germansmokehouse.co.za/"/>
   </node>
-  <node id="12354540115" lat="-25.5094202" lon="-54.6443010" version="5" timestamp="2024-12-06T20:04:58Z" changeset="160007662" uid="22220036" user="Simonescuelitabtc">
+  <node id="12354540115" lat="-25.5094202" lon="-54.6443010" version="6" timestamp="2024-12-07T19:06:45Z" changeset="160036959" uid="22220036" user="Simonescuelitabtc">
     <tag k="addr:city" v="Ciudad del Este"/>
+    <tag k="addr:postcode" v="7000"/>
     <tag k="addr:street" v="Herminio Gimenez"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="healthcare" v="physiotherapist"/>
-    <tag k="healthcare:speciality" v="traditional_chinese_medicine;reflexology;tratamiento_de_columna;protrucción;_ciatica_lumbago;hernia_discal"/>
-    <tag k="name" v="Centro de Terapia Belen"/>
+    <tag k="healthcare:speciality" v="traditional_chinese_medicine;reflexology;tratamiento_de_columna;protrucción;_ciatica_lumbago;hernia_discal;psicologíaclinica;testvocacional_y_orientacion"/>
+    <tag k="healthcare:speciality:de" v="psicología clínica"/>
+    <tag k="name" v="CENTRO DE TERAPIA BELEN"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-17:00"/>
     <tag k="operator" v="Terapeuta Oriental Avelino Nuñez"/>
+    <tag k="operator:en" v="Psicologo Bernardo Brizuela"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+595981158444"/>
+    <tag k="phone:mobile" v="+595984698870"/>
+    <tag k="source:date" v="2024-11-24"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="12356646640" lat="37.2856515" lon="49.5838554" version="1" timestamp="2024-11-19T21:14:42Z" changeset="159342839" uid="4914387" user="Rasht24">
     <tag k="addr:city" v="رشت"/>
