@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-11T05:30:40Z"/>
+<meta osm_base="2024-12-12T05:31:11Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -3933,14 +3933,14 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 19 998614931"/>
   </node>
-  <node id="12410034755" lat="-22.8256561" lon="-45.6647111" version="1" timestamp="2024-12-10T18:55:30Z" changeset="160140841" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12410034755" lat="-22.8256561" lon="-45.6647111" version="3" timestamp="2024-12-11T12:32:11Z" changeset="160167026" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antônio do Pinhal"/>
     <tag k="addr:housenumber" v="303"/>
     <tag k="addr:postcode" v="12450000"/>
     <tag k="addr:street" v="Avenida Ministro Nelson Hungria"/>
     <tag k="addr:suburb" v="Centro"/>
     <tag k="amenity" v="studio"/>
-    <tag k="check_date:currency:XBT" v="2021-12-10"/>
+    <tag k="check_date:currency:XBT" v="2024-12-10"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Um estudio pra produção de vídeos, vídeo aula, e vinhetas para propagandas"/>
     <tag k="email" v="Guitarristadequarto162@gmail.com"/>
@@ -3949,7 +3949,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:coinos" v="yes"/>
-    <tag k="payment:lighting" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 992531336"/>
     <tag k="studio" v="video"/>
     <tag k="website" v="https://youtube.com/@guitarrista_geek?si=V61dMC4FjrRkwpDC"/>
@@ -3975,6 +3975,58 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 988399218"/>
     <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="12413782994" lat="-22.8288083" lon="-45.6657171" version="1" timestamp="2024-12-11T21:01:38Z" changeset="160185281" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo antonio do pinhal"/>
+    <tag k="addr:housenumber" v="131"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Rua Procópio Marcondes de Azevedo"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2024-12-11"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="contatoguiapinhal@gmail.com"/>
+    <tag k="name" v="Guia Pinhal"/>
+    <tag k="office" v="guide"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 997026786"/>
+    <tag k="website" v="www.guiapinhal.com.br"/>
+  </node>
+  <node id="12413799196" lat="-22.8245424" lon="-45.6677392" version="1" timestamp="2024-12-11T20:56:10Z" changeset="160185136" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antonio do pinhal"/>
+    <tag k="addr:housenumber" v="608"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Avenida Ministro Nelson Hungria"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="fast_food"/>
+    <tag k="check_date:currency:XBT" v="2024-12-10"/>
+    <tag k="cuisine" v="burger"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Lanches artesanais e tradicionais"/>
+    <tag k="email" v="zap.burguer.sap@gmail.com"/>
+    <tag k="name" v="Zap Burguer Delivery"/>
+    <tag k="opening_hours" v="Tu-Su 18:30-23:00"/>
+    <tag k="operator" v="Carlos Roberto da Silva"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 997990802"/>
+  </node>
+  <node id="12413928954" lat="-23.0248479" lon="-45.5751615" version="1" timestamp="2024-12-11T23:10:38Z" changeset="160188219" uid="8253919" user="DglBr">
+    <tag k="addr:housenumber" v="781"/>
+    <tag k="addr:street" v="Av. Charles Schnneider,  Barranco, Taubaté - SP, 12040-001"/>
+    <tag k="description" v="Psicóloga"/>
+    <tag k="healthcare" v="psychotherapist"/>
+    <tag k="name" v="Psicóloga"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="(12) 9973-79060"/>
   </node>
 
 </osm>
