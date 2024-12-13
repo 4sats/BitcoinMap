@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-12T05:31:11Z"/>
+<meta osm_base="2024-12-13T05:30:42Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -2456,9 +2456,8 @@
     <tag k="phone" v="+55 11 99517 7655"/>
     <tag k="website" v="https://senhorasobremesa.com.br/"/>
   </node>
-  <node id="12278851045" lat="-22.6754282" lon="-45.6621918" version="6" timestamp="2024-11-11T22:48:37Z" changeset="159029366" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12278851045" lat="-22.6754282" lon="-45.6621918" version="7" timestamp="2024-12-12T12:23:43Z" changeset="160205868" uid="10292935" user="kaartense">
     <tag k="addr:city" v="São Bento do Sapucai"/>
-    <tag k="addr:housenumber" v="s/n"/>
     <tag k="addr:postcode" v="12490-000"/>
     <tag k="addr:street" v="Rua das Hortensias"/>
     <tag k="addr:suburb" v="Bairro Paiol Grande"/>
@@ -2468,6 +2467,7 @@
     <tag k="email" v="Emily.i.barbosa@gmail.com"/>
     <tag k="image" v="https://image.nostr.build/8e4a1546e62facb0ffdb984adefb9d895f4b4d2f9f54ba607cc9add16fd72c56.png"/>
     <tag k="name" v="Viva Nawe"/>
+    <tag k="nohousenumber" v="yes"/>
     <tag k="office" v="guide"/>
     <tag k="opening_hours" v="Mo-Su 09:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -3018,10 +3018,9 @@
     <tag k="tourism" v="alpine_hut"/>
     <tag k="website" v="https://www.anossacasinha.com.br/"/>
   </node>
-  <node id="12332373835" lat="-22.7918524" lon="-45.6648802" version="2" timestamp="2024-11-12T21:11:01Z" changeset="159068496" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12332373835" lat="-22.7918524" lon="-45.6648802" version="3" timestamp="2024-12-12T12:23:43Z" changeset="160205868" uid="10292935" user="kaartense">
     <tag k="addr:city" v="Santo Antônio do Pinhal"/>
-    <tag k="addr:housenumber" v="s/n"/>
-    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:postcode" v="12450-000"/>
     <tag k="addr:street" v="Pedro Joaquim lopes"/>
     <tag k="addr:suburb" v="Lageado"/>
     <tag k="check_date:currency:XBT" v="2024-11-12"/>
@@ -3031,6 +3030,7 @@
     <tag k="email" v="silva7464@gmail.com"/>
     <tag k="image" v="https://image.nostr.build/264511a598a1232ebb625809d20c4f528e9f5e52895cce3e0bb11c2501ba280f.png"/>
     <tag k="name" v="Lopes paisagismo e jardinagem"/>
+    <tag k="nohousenumber" v="yes"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-18:00"/>
     <tag k="operator" v="Felipe Fernandes Lopes"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -3456,19 +3456,19 @@
     <tag k="phone" v="+55 12 997201516"/>
     <tag k="website" v="https://www.instagram.com/start_estetica_automotiva?igsh=MW1sYWY0OHp0cHkwcw=="/>
   </node>
-  <node id="12373970712" lat="-22.8236539" lon="-45.6700609" version="1" timestamp="2024-11-25T16:06:36Z" changeset="159580048" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12373970712" lat="-22.8236539" lon="-45.6700609" version="2" timestamp="2024-12-12T12:23:43Z" changeset="160205868" uid="10292935" user="kaartense">
     <tag k="addr:city" v="Santo Antonio do Pinhal"/>
-    <tag k="addr:housenumber" v="s/n"/>
-    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:postcode" v="12450-000"/>
     <tag k="addr:street" v="Estádio Maurício Nader"/>
     <tag k="addr:suburb" v="Centro"/>
     <tag k="amenity" v="pub"/>
     <tag k="check_date:currency:XBT" v="2024-11-25"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bar popular de esporte, servimos porções, comida caseira, cerveja gelada e transmitimos eventos esportivos  na tv."/>
+    <tag k="description" v="Bar popular de esporte, servimos porções, comida caseira, cerveja gelada e transmitimos eventos esportivos na tv."/>
     <tag k="email" v="dbsconect@gmail.com"/>
     <tag k="image" v="https://image.nostr.build/fa5c8e8cc46ecefed15295c28a913ff8330b95d0547f88557bb35efdb3b0477f.png"/>
     <tag k="name" v="Samba &amp;Gol"/>
+    <tag k="nohousenumber" v="yes"/>
     <tag k="opening_hours" v="Mo-Sa 11:00-15:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
