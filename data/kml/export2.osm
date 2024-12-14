@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-13T05:30:42Z"/>
+<meta osm_base="2024-12-14T05:28:30Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -3634,11 +3634,12 @@
     <tag k="survey:date" v="2024-08-01"/>
     <tag k="website" v="https://naiamiravalle.com/"/>
   </node>
-  <node id="12384768455" lat="-30.7316062" lon="-55.3905406" version="2" timestamp="2024-11-29T17:13:36Z" changeset="159750278" uid="22235227" user="danielrortega">
+  <node id="12384768455" lat="-30.7316062" lon="-55.3905406" version="3" timestamp="2024-12-13T16:45:37Z" changeset="160253801" uid="10292935" user="kaartense">
     <tag k="addr:city" v="Santana do Livramento"/>
+    <tag k="addr:full" v="Estrada Assentamento Tafona I, Esq"/>
     <tag k="addr:housenumber" v="1350"/>
-    <tag k="addr:postcode" v="97.573-180"/>
-    <tag k="addr:street" v="Estrada Assentamento Tafona I, Esq"/>
+    <tag k="addr:postcode" v="97573-180"/>
+    <tag k="addr:street" v="Estrada Assentamento Tafona I"/>
     <tag k="addr:suburb" v="Campanha"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="contato@ourodesantana.com.br"/>
@@ -4027,6 +4028,41 @@
     <tag k="name" v="Psicóloga"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="(12) 9973-79060"/>
+  </node>
+  <node id="12420394520" lat="-20.3268946" lon="-40.3923533" version="6" timestamp="2024-12-14T02:31:25Z" changeset="160267058" uid="22291096" user="hsbdjsbdjcc">
+    <tag k="addr:city" v="Cariacica"/>
+    <tag k="addr:country" v="BR"/>
+    <tag k="addr:housenumber" v="152"/>
+    <tag k="addr:postcode" v="29149-424"/>
+    <tag k="addr:street" v="Rua Cachoeiro do Itapemirim"/>
+    <tag k="addr:suburb" v="Nova Brasília"/>
+    <tag k="check_date:currency:XBT" v="2024-12-13"/>
+    <tag k="contact:facebook" v="facebook.com/armarinhobmp"/>
+    <tag k="contact:phone" v="+55 27 99802-5937"/>
+    <tag k="currency:BRL" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="BMP’s stationery, haberdashery and sewing supply in-store shops"/>
+    <tag k="email" v="bmpproducoes1018@gmail.com"/>
+    <tag k="haberdashery shop" v="yes"/>
+    <tag k="image" v="thumbs2.imgbox.com/5d/38/CRihQA57_t.png"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="mobile" v="+55 27 99224-0523"/>
+    <tag k="name" v="BMP"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning=yes" v="yes"/>
+    <tag k="phone" v="+55 27 99802-5937"/>
+    <tag k="shop" v="sewing"/>
+    <tag k="start_date" v="1995-06-01"/>
+    <tag k="stationery shop" v="yes"/>
+    <tag k="stroller" v="no"/>
+    <tag k="survey:date" v="2024-12-13"/>
+    <tag k="toilets" v="no"/>
+    <tag k="website" v="bmp.sigeloja.com.br"/>
+    <tag k="wheelchair" v="no"/>
   </node>
 
 </osm>
