@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-18T05:29:15Z"/>
+<meta osm_base="2024-12-19T05:29:13Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -879,7 +879,7 @@
     <tag k="phone" v="+255763052308"/>
     <tag k="survey:date" v="2024-07-02"/>
   </node>
-  <node id="12028936873" lat="-29.7252320" lon="31.0843067" version="1" timestamp="2024-07-02T11:35:09Z" changeset="153451878" uid="21301664" user="yBitcoinza">
+  <node id="12028936873" lat="-29.7252320" lon="31.0843067" version="2" timestamp="2024-12-18T05:54:12Z" changeset="160334136" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Umhlanga"/>
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:postcode" v="4319"/>
@@ -893,6 +893,7 @@
     <tag k="name" v="BRWD Proppa Coffee"/>
     <tag k="opening_hours" v="Mo-Su 06:30-17:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
     <tag k="phone" v="0311401199"/>
     <tag k="website" v="https://www.instagram.com/brwd.proppa.coffee/"/>
   </node>
@@ -3980,7 +3981,7 @@
     <tag k="phone" v="+55 12 988399218"/>
     <tag k="shop" v="hairdresser"/>
   </node>
-  <node id="12413782994" lat="-22.8288083" lon="-45.6657171" version="1" timestamp="2024-12-11T21:01:38Z" changeset="160185281" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12413782994" lat="-22.8288083" lon="-45.6657171" version="2" timestamp="2024-12-19T01:42:15Z" changeset="160374169" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Santo antonio do pinhal"/>
     <tag k="addr:housenumber" v="131"/>
     <tag k="addr:postcode" v="12450000"/>
@@ -3998,7 +3999,7 @@
     <tag k="payment:coinos" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 997026786"/>
-    <tag k="website" v="www.guiapinhal.com.br"/>
+    <tag k="website" v="https://www.guiapinhal.com.br/"/>
   </node>
   <node id="12413799196" lat="-22.8245424" lon="-45.6677392" version="1" timestamp="2024-12-11T20:56:10Z" changeset="160185136" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antonio do pinhal"/>
@@ -4032,7 +4033,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="phone" v="(12) 9973-79060"/>
   </node>
-  <node id="12420394520" lat="-20.3268946" lon="-40.3923533" version="6" timestamp="2024-12-14T02:31:25Z" changeset="160267058" uid="22291096" user="hsbdjsbdjcc">
+  <node id="12420394520" lat="-20.3268946" lon="-40.3923533" version="7" timestamp="2024-12-19T02:35:14Z" changeset="160375176" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Cariacica"/>
     <tag k="addr:country" v="BR"/>
     <tag k="addr:housenumber" v="152"/>
@@ -4064,7 +4065,7 @@
     <tag k="stroller" v="no"/>
     <tag k="survey:date" v="2024-12-13"/>
     <tag k="toilets" v="no"/>
-    <tag k="website" v="bmp.sigeloja.com.br"/>
+    <tag k="website" v="https://bmp.sigeloja.com.br/"/>
     <tag k="wheelchair" v="no"/>
   </node>
   <node id="12424951847" lat="-20.3362371" lon="-40.2823268" version="6" timestamp="2024-12-17T18:42:11Z" changeset="160315780" uid="22296749" user="Giselly Bergami - Estética Clinica Avançada">
@@ -4090,6 +4091,93 @@
     <tag k="phone" v="+55 27 99837-2226"/>
     <tag k="shop" v="beauty"/>
     <tag k="survey:date" v="2024-12-15"/>
+  </node>
+  <node id="12429558364" lat="-29.7247676" lon="31.0890646" version="1" timestamp="2024-12-18T05:58:54Z" changeset="160334220" uid="21301664" user="yBitcoinza">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Rox Coffee"/>
+    <tag k="opening_hours" v="Mo-Su 6:00-19:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+  </node>
+  <node id="12430348991" lat="49.4851562" lon="8.4187970" version="2" timestamp="2024-12-18T11:09:27Z" changeset="160345651" uid="22298923" user="KFZ Werkstatt Schweinfurth GmbH">
+    <tag k="addr:city" v="Ludwigshafen am Rhein"/>
+    <tag k="addr:housenumber" v="188"/>
+    <tag k="addr:postcode" v="67059"/>
+    <tag k="addr:street" v="Frankenthaler Straße"/>
+    <tag k="currency:BCH" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:USDC" v="yes"/>
+    <tag k="currency:USDT" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Schweinfurth GmbH KFZ Werkstatt"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-17:00"/>
+    <tag k="payment:account_cards" v="yes"/>
+    <tag k="payment:app" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:girocard" v="yes"/>
+    <tag k="payment:google_pay" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:solana" v="yes"/>
+    <tag k="payment:visa_debit" v="yes"/>
+    <tag k="phone" v="+49621524110"/>
+    <tag k="service:vehicle:air_conditioning" v="yes"/>
+    <tag k="service:vehicle:audi" v="yes"/>
+    <tag k="service:vehicle:batteries" v="yes"/>
+    <tag k="service:vehicle:bmw" v="yes"/>
+    <tag k="service:vehicle:brakes" v="yes"/>
+    <tag k="service:vehicle:bremsen" v="yes"/>
+    <tag k="service:vehicle:car_repair" v="yes"/>
+    <tag k="service:vehicle:citroen" v="yes"/>
+    <tag k="service:vehicle:diagnose" v="yes"/>
+    <tag k="service:vehicle:electrical" v="yes"/>
+    <tag k="service:vehicle:elektrik" v="yes"/>
+    <tag k="service:vehicle:expert" v="yes"/>
+    <tag k="service:vehicle:glass" v="yes"/>
+    <tag k="service:vehicle:gutachten" v="yes"/>
+    <tag k="service:vehicle:inspection" v="yes"/>
+    <tag k="service:vehicle:inspektion" v="yes"/>
+    <tag k="service:vehicle:karosserie" v="yes"/>
+    <tag k="service:vehicle:kia" v="yes"/>
+    <tag k="service:vehicle:klimaanlage" v="yes"/>
+    <tag k="service:vehicle:lackierer" v="yes"/>
+    <tag k="service:vehicle:mazda" v="yes"/>
+    <tag k="service:vehicle:mercedes" v="yes"/>
+    <tag k="service:vehicle:motorrad" v="yes"/>
+    <tag k="service:vehicle:oil_change" v="yes"/>
+    <tag k="service:vehicle:painting" v="yes"/>
+    <tag k="service:vehicle:peugeot" v="yes"/>
+    <tag k="service:vehicle:pkw" v="yes"/>
+    <tag k="service:vehicle:renault" v="yes"/>
+    <tag k="service:vehicle:repair" v="yes"/>
+    <tag k="service:vehicle:reparatur" v="yes"/>
+    <tag k="service:vehicle:seat" v="yes"/>
+    <tag k="service:vehicle:skoda" v="yes"/>
+    <tag k="service:vehicle:transporter" v="yes"/>
+    <tag k="service:vehicle:tyres" v="yes"/>
+    <tag k="service:vehicle:unfall" v="yes"/>
+    <tag k="service:vehicle:vw" v="yes"/>
+    <tag k="service:vehicle:wartung" v="yes"/>
+    <tag k="service:vehicle:wohnmobil" v="yes"/>
+    <tag k="service:vehicle:ölwechsel" v="yes"/>
+    <tag k="shop" v="car_repair"/>
+    <tag k="survey:date" v="2024-12-18"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="website" v="https://schweinfurth-kfz.de/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
