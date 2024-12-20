@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-19T05:29:13Z"/>
+<meta osm_base="2024-12-20T05:28:15Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -4068,7 +4068,7 @@
     <tag k="website" v="https://bmp.sigeloja.com.br/"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="12424951847" lat="-20.3362371" lon="-40.2823268" version="6" timestamp="2024-12-17T18:42:11Z" changeset="160315780" uid="22296749" user="Giselly Bergami - Estética Clinica Avançada">
+  <node id="12424951847" lat="-20.3362371" lon="-40.2823268" version="7" timestamp="2024-12-19T13:49:04Z" changeset="160395930" uid="22296749" user="Giselly Bergami - Estética Clinica Avançada">
     <tag k="addr:city" v="Vila Velha"/>
     <tag k="addr:housenumber" v="90"/>
     <tag k="addr:postcode" v="29101330"/>
@@ -4089,7 +4089,6 @@
     <tag k="payment:pix" v="yes"/>
     <tag k="payment:transferencia" v="yes"/>
     <tag k="phone" v="+55 27 99837-2226"/>
-    <tag k="shop" v="beauty"/>
     <tag k="survey:date" v="2024-12-15"/>
   </node>
   <node id="12429558364" lat="-29.7247676" lon="31.0890646" version="1" timestamp="2024-12-18T05:58:54Z" changeset="160334220" uid="21301664" user="yBitcoinza">
@@ -4102,82 +4101,36 @@
     <tag k="payment:coinos" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
   </node>
-  <node id="12430348991" lat="49.4851562" lon="8.4187970" version="2" timestamp="2024-12-18T11:09:27Z" changeset="160345651" uid="22298923" user="KFZ Werkstatt Schweinfurth GmbH">
-    <tag k="addr:city" v="Ludwigshafen am Rhein"/>
-    <tag k="addr:housenumber" v="188"/>
-    <tag k="addr:postcode" v="67059"/>
-    <tag k="addr:street" v="Frankenthaler Straße"/>
-    <tag k="currency:BCH" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:USDC" v="yes"/>
-    <tag k="currency:USDT" v="yes"/>
+  <node id="12433482869" lat="-28.4403536" lon="-49.0235572" version="2" timestamp="2024-12-19T14:38:18Z" changeset="160397864" uid="22303895" user="Construgil Materiais de Construção">
+    <tag k="addr:city" v="Tubarão"/>
+    <tag k="addr:housenumber" v="4270"/>
+    <tag k="addr:postcode" v="88708800"/>
+    <tag k="addr:street" v="Rodovia Ivane Fretta Moreira"/>
+    <tag k="addr:suburb" v="São Martinho"/>
+    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Schweinfurth GmbH KFZ Werkstatt"/>
+    <tag k="name" v="CONSTRUGIL MAT. DE CONSTRUÇÃO"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-17:00"/>
-    <tag k="payment:account_cards" v="yes"/>
-    <tag k="payment:app" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:girocard" v="yes"/>
-    <tag k="payment:google_pay" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:solana" v="yes"/>
-    <tag k="payment:visa_debit" v="yes"/>
-    <tag k="phone" v="+49621524110"/>
-    <tag k="service:vehicle:air_conditioning" v="yes"/>
-    <tag k="service:vehicle:audi" v="yes"/>
-    <tag k="service:vehicle:batteries" v="yes"/>
-    <tag k="service:vehicle:bmw" v="yes"/>
-    <tag k="service:vehicle:brakes" v="yes"/>
-    <tag k="service:vehicle:bremsen" v="yes"/>
-    <tag k="service:vehicle:car_repair" v="yes"/>
-    <tag k="service:vehicle:citroen" v="yes"/>
-    <tag k="service:vehicle:diagnose" v="yes"/>
-    <tag k="service:vehicle:electrical" v="yes"/>
-    <tag k="service:vehicle:elektrik" v="yes"/>
-    <tag k="service:vehicle:expert" v="yes"/>
-    <tag k="service:vehicle:glass" v="yes"/>
-    <tag k="service:vehicle:gutachten" v="yes"/>
-    <tag k="service:vehicle:inspection" v="yes"/>
-    <tag k="service:vehicle:inspektion" v="yes"/>
-    <tag k="service:vehicle:karosserie" v="yes"/>
-    <tag k="service:vehicle:kia" v="yes"/>
-    <tag k="service:vehicle:klimaanlage" v="yes"/>
-    <tag k="service:vehicle:lackierer" v="yes"/>
-    <tag k="service:vehicle:mazda" v="yes"/>
-    <tag k="service:vehicle:mercedes" v="yes"/>
-    <tag k="service:vehicle:motorrad" v="yes"/>
-    <tag k="service:vehicle:oil_change" v="yes"/>
-    <tag k="service:vehicle:painting" v="yes"/>
-    <tag k="service:vehicle:peugeot" v="yes"/>
-    <tag k="service:vehicle:pkw" v="yes"/>
-    <tag k="service:vehicle:renault" v="yes"/>
-    <tag k="service:vehicle:repair" v="yes"/>
-    <tag k="service:vehicle:reparatur" v="yes"/>
-    <tag k="service:vehicle:seat" v="yes"/>
-    <tag k="service:vehicle:skoda" v="yes"/>
-    <tag k="service:vehicle:transporter" v="yes"/>
-    <tag k="service:vehicle:tyres" v="yes"/>
-    <tag k="service:vehicle:unfall" v="yes"/>
-    <tag k="service:vehicle:vw" v="yes"/>
-    <tag k="service:vehicle:wartung" v="yes"/>
-    <tag k="service:vehicle:wohnmobil" v="yes"/>
-    <tag k="service:vehicle:ölwechsel" v="yes"/>
-    <tag k="shop" v="car_repair"/>
-    <tag k="survey:date" v="2024-12-18"/>
-    <tag k="toilets" v="yes"/>
-    <tag k="website" v="https://schweinfurth-kfz.de/"/>
-    <tag k="wheelchair" v="yes"/>
+    <tag k="phone" v="+55048999800038"/>
+    <tag k="shop" v="hardware"/>
+  </node>
+  <node id="12434547965" lat="13.6922075" lon="-89.2383384" version="2" timestamp="2024-12-19T23:22:09Z" changeset="160413932" uid="22292657" user="rgarcia92">
+    <tag k="addr:city" v="San Salvador"/>
+    <tag k="addr:housenumber" v="206"/>
+    <tag k="addr:street" v="Avenida las Magnolias"/>
+    <tag k="check_date" v="2024-12-19"/>
+    <tag k="check_date:currency:XBT" v="2024-12-19"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Vivo Latam - Bienes Raices El Salvador"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+503 7653 1000"/>
+    <tag k="survey:date" v="2024-12-19"/>
+    <tag k="website" v="https://www.vivolatam.com"/>
   </node>
 
 </osm>
