@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-25T05:28:10Z"/>
+<meta osm_base="2024-12-26T05:28:04Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -3419,26 +3419,6 @@
     <tag k="survey:date" v="2024-11-20"/>
     <tag k="website" v="https://bitsuite.co/"/>
   </node>
-  <node id="12365289649" lat="-29.9309729" lon="-51.0773974" version="5" timestamp="2024-11-26T12:40:24Z" changeset="159614375" uid="22209500" user="SCHERER AUTOPEÇAS">
-    <tag k="addr:city" v="Cachoeirinha"/>
-    <tag k="addr:housenumber" v="93"/>
-    <tag k="addr:postcode" v="94945-000"/>
-    <tag k="addr:street" v="Avenida José Brambila"/>
-    <tag k="addr:suburb" v="Vista Alegre"/>
-    <tag k="name" v="Scherer Autopeças"/>
-    <tag k="opening_hours" v="Mo-Fr 08:00-18:00"/>
-    <tag k="operator" v="Scherer"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:visa_electron" v="yes"/>
-    <tag k="phone" v="+555134697174"/>
-    <tag k="shop" v="car_parts"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
   <node id="12373942281" lat="-22.8237936" lon="-45.6705893" version="2" timestamp="2024-11-25T16:07:07Z" changeset="159580078" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antonio do Pinhal"/>
     <tag k="addr:housenumber" v="906"/>
@@ -4078,6 +4058,32 @@
     <tag k="phone" v="+503 7653 1000"/>
     <tag k="survey:date" v="2024-12-19"/>
     <tag k="website" v="https://www.vivolatam.com"/>
+  </node>
+  <node id="12451563339" lat="-17.5744488" lon="-149.6126957" version="4" timestamp="2024-12-25T19:09:21Z" changeset="160614289" uid="22321252" user="HikiteaEvent">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Punaʻauiʻa"/>
+    <tag k="addr:place" v="Polynésie française (terres)"/>
+    <tag k="addr:postcode" v="98718"/>
+    <tag k="amenity" v="events_venue"/>
+    <tag k="check_date" v="2024-12-25"/>
+    <tag k="check_date:currency:XBT" v="2024-12-25"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="currency:xpf" v="yes"/>
+    <tag k="dog" v="leashed"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="loc_name" v="HikiteaEvent"/>
+    <tag k="name" v="Hikitea Event"/>
+    <tag k="opening_hours" v="Mo-Su 17:00-24:00"/>
+    <tag k="operator" v="Hikitea Event"/>
+    <tag k="operator:type" v="business"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2024-12-25"/>
+    <tag k="website" v="www.hikiteaevent.com"/>
   </node>
 
 </osm>
