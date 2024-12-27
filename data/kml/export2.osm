@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-26T05:28:04Z"/>
+<meta osm_base="2024-12-27T05:27:53Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -4028,21 +4028,6 @@
     <tag k="payment:coinos" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
   </node>
-  <node id="12433482869" lat="-28.4403536" lon="-49.0235572" version="2" timestamp="2024-12-19T14:38:18Z" changeset="160397864" uid="22303895" user="Construgil Materiais de Construção">
-    <tag k="addr:city" v="Tubarão"/>
-    <tag k="addr:housenumber" v="4270"/>
-    <tag k="addr:postcode" v="88708800"/>
-    <tag k="addr:street" v="Rodovia Ivane Fretta Moreira"/>
-    <tag k="addr:suburb" v="São Martinho"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="CONSTRUGIL MAT. DE CONSTRUÇÃO"/>
-    <tag k="opening_hours" v="Mo-Fr 08:00-17:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+55048999800038"/>
-    <tag k="shop" v="hardware"/>
-  </node>
   <node id="12434547965" lat="13.6922075" lon="-89.2383384" version="2" timestamp="2024-12-19T23:22:09Z" changeset="160413932" uid="22292657" user="rgarcia92">
     <tag k="addr:city" v="San Salvador"/>
     <tag k="addr:housenumber" v="206"/>
@@ -4059,31 +4044,59 @@
     <tag k="survey:date" v="2024-12-19"/>
     <tag k="website" v="https://www.vivolatam.com"/>
   </node>
-  <node id="12451563339" lat="-17.5744488" lon="-149.6126957" version="4" timestamp="2024-12-25T19:09:21Z" changeset="160614289" uid="22321252" user="HikiteaEvent">
-    <tag k="access" v="yes"/>
-    <tag k="addr:city" v="Punaʻauiʻa"/>
-    <tag k="addr:place" v="Polynésie française (terres)"/>
-    <tag k="addr:postcode" v="98718"/>
-    <tag k="amenity" v="events_venue"/>
-    <tag k="check_date" v="2024-12-25"/>
-    <tag k="check_date:currency:XBT" v="2024-12-25"/>
+  <node id="12453190371" lat="40.6185218" lon="22.9526842" version="2" timestamp="2024-12-26T15:54:24Z" changeset="160643427" uid="22323524" user="Ulysses Jewellery">
+    <tag k="Baraka" v="Baraka"/>
+    <tag k="Mikimoto" v="Mikimoto"/>
+    <tag k="Pasquale Bruni" v="Pasquale Bruni"/>
+    <tag k="Privacy" v="Privacy"/>
+    <tag k="Roberto Coin" v="Roberto Coin"/>
+    <tag k="Safety" v="Safety"/>
+    <tag k="addr:city" v="Θεσσαλονίκη"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="54640"/>
+    <tag k="addr:street" v="Μεγάλου Αλεξάνδρου"/>
+    <tag k="air_conditioning" v="no"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="currency:xpf" v="yes"/>
-    <tag k="dog" v="leashed"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="internet_access:fee" v="customers"/>
-    <tag k="loc_name" v="HikiteaEvent"/>
-    <tag k="name" v="Hikitea Event"/>
-    <tag k="opening_hours" v="Mo-Su 17:00-24:00"/>
-    <tag k="operator" v="Hikitea Event"/>
-    <tag k="operator:type" v="business"/>
+    <tag k="name" v="Ulysses Jewellery"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="payment:apple_pay" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
-    <tag k="survey:date" v="2024-12-25"/>
-    <tag k="website" v="www.hikiteaevent.com"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:tether" v="yes"/>
+    <tag k="phone" v="2310849911"/>
+    <tag k="shop" v="jewelry"/>
+    <tag k="watch" v="watches"/>
+  </node>
+  <node id="12453242660" lat="40.0910446" lon="23.3099658" version="1" timestamp="2024-12-26T16:01:15Z" changeset="160643753" uid="22323524" user="Ulysses Jewellery">
+    <tag k="addr:city" v="Kassandreia, Halkidiki"/>
+    <tag k="addr:postcode" v="63077"/>
+    <tag k="addr:street" v="Sani Club"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Ulysses Jewellery"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="payment:apple_pay" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:tether" v="yes"/>
+    <tag k="payment:unionpay" v="yes"/>
+    <tag k="shop" v="jewelry"/>
   </node>
 
 </osm>
