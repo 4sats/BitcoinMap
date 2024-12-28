@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-27T05:27:53Z"/>
+<meta osm_base="2024-12-28T05:27:07Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -4044,38 +4044,6 @@
     <tag k="survey:date" v="2024-12-19"/>
     <tag k="website" v="https://www.vivolatam.com"/>
   </node>
-  <node id="12453190371" lat="40.6185218" lon="22.9526842" version="2" timestamp="2024-12-26T15:54:24Z" changeset="160643427" uid="22323524" user="Ulysses Jewellery">
-    <tag k="Baraka" v="Baraka"/>
-    <tag k="Mikimoto" v="Mikimoto"/>
-    <tag k="Pasquale Bruni" v="Pasquale Bruni"/>
-    <tag k="Privacy" v="Privacy"/>
-    <tag k="Roberto Coin" v="Roberto Coin"/>
-    <tag k="Safety" v="Safety"/>
-    <tag k="addr:city" v="Θεσσαλονίκη"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="54640"/>
-    <tag k="addr:street" v="Μεγάλου Αλεξάνδρου"/>
-    <tag k="air_conditioning" v="no"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Ulysses Jewellery"/>
-    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
-    <tag k="payment:apple_pay" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:tether" v="yes"/>
-    <tag k="phone" v="2310849911"/>
-    <tag k="shop" v="jewelry"/>
-    <tag k="watch" v="watches"/>
-  </node>
   <node id="12453242660" lat="40.0910446" lon="23.3099658" version="1" timestamp="2024-12-26T16:01:15Z" changeset="160643753" uid="22323524" user="Ulysses Jewellery">
     <tag k="addr:city" v="Kassandreia, Halkidiki"/>
     <tag k="addr:postcode" v="63077"/>
@@ -4097,6 +4065,44 @@
     <tag k="payment:tether" v="yes"/>
     <tag k="payment:unionpay" v="yes"/>
     <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="12456342452" lat="-29.4569278" lon="-51.9722240" version="1" timestamp="2024-12-27T17:48:22Z" changeset="160686556" uid="22326774" user="CSN Suplementos">
+    <tag k="addr:city" v="Lajeado"/>
+    <tag k="addr:housenumber" v="520"/>
+    <tag k="addr:postcode" v="95900610"/>
+    <tag k="addr:street" v="Rua Olavo Billac"/>
+    <tag k="addr:suburb" v="Florestal"/>
+    <tag k="name" v="CSN SUPLEMENTOS"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bitcoincash" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="51981614061"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="12456377101" lat="-30.1029237" lon="-51.2344975" version="1" timestamp="2024-12-27T18:15:27Z" changeset="160687454" uid="22326774" user="CSN Suplementos">
+    <tag k="addr:city" v="PORTO ALEGRE"/>
+    <tag k="addr:housenumber" v="2500 LOJA 101"/>
+    <tag k="addr:postcode" v="91910-001"/>
+    <tag k="addr:street" v="Avenida Otto Niemeyer"/>
+    <tag k="addr:suburb" v="TRISTEZA"/>
+    <tag k="name" v="CSN SUPLEMENTOS ATACADO"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bitcoincash" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="51996200851"/>
+    <tag k="shop" v="supermarket"/>
   </node>
 
 </osm>
