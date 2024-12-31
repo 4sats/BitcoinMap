@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-30T05:28:13Z"/>
+<meta osm_base="2024-12-31T05:28:05Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -4103,6 +4103,29 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="phone" v="51996200851"/>
     <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="12463584835" lat="-17.8606701" lon="-41.5078308" version="2" timestamp="2024-12-30T19:04:03Z" changeset="160804950" uid="22334816" user="Leonardo Alves Cardiologista">
+    <tag k="addr:city" v="Teófilo Otoni"/>
+    <tag k="addr:housenumber" v="568"/>
+    <tag k="addr:postcode" v="39800118"/>
+    <tag k="addr:street" v="Avenida Visconde do Rio Branco"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="email" v="agendar@cardiovasc.com.br"/>
+    <tag k="healthcare" v="hospital"/>
+    <tag k="healthcare:speciality" v="cardiology;general;internal;eletrocardiograma;ecocardiograma"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="mobile" v="+5533988093454"/>
+    <tag k="name" v="Cardiovasc Cardiologia"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="operator" v="Leonardo Alves"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:money_order" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
