@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-02T05:27:42Z"/>
+<meta osm_base="2025-01-03T05:28:04Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -225,6 +225,16 @@
     <tag k="survey:date" v="2024-07-24"/>
     <tag k="website" v="https://www.thevillagehub.co.za"/>
   </node>
+  <node id="5423043921" lat="50.1043952" lon="8.6413005" version="8" timestamp="2025-01-02T14:15:47Z" changeset="160909222" uid="14221803" user="Gegenwind84">
+    <tag k="amenity" v="bar"/>
+    <tag k="check_date:opening_hours" v="2023-07-22"/>
+    <tag k="indoor_seating" v="yes"/>
+    <tag k="name" v="Normalkneipe"/>
+    <tag k="opening_hours" v="Mo-Sa 16:00-01:00; Su off"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="smoking" v="yes"/>
+  </node>
   <node id="6482236870" lat="-29.5025899" lon="31.2376279" version="2" timestamp="2024-04-18T14:24:31Z" changeset="150178056" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Salt Rock"/>
     <tag k="addr:housenumber" v="Shop G9"/>
@@ -251,11 +261,13 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.pangeli.co.za/"/>
   </node>
-  <node id="6853720953" lat="45.5246290" lon="10.2102430" version="6" timestamp="2024-08-20T07:10:05Z" changeset="155493199" uid="1496865" user="mauropili">
+  <node id="6853720953" lat="45.5246290" lon="10.2102430" version="7" timestamp="2025-01-02T16:46:35Z" changeset="160916701" uid="350864" user="demon_box">
     <tag k="addr:city" v="Brescia"/>
     <tag k="addr:housenumber" v="66"/>
     <tag k="addr:postcode" v="25124"/>
     <tag k="addr:street" v="Via Cipro"/>
+    <tag k="contact:phone" v="+39 347 637 8826"/>
+    <tag k="contact:website" v="https://bitcoinpeople.it/"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Bitcoin People è una startup che offre soluzioni software e consulenza per facilitare l'uso di Bitcoin come metodo di pagamento, attraverso il suo gateway BPay."/>
     <tag k="name" v="Bitcoin People"/>
@@ -265,9 +277,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+39 347 637 8826"/>
     <tag k="survey:date" v="2024-08-09"/>
-    <tag k="website" v="https://bitcoinpeople.it/"/>
   </node>
   <node id="6938319387" lat="-24.2100495" lon="151.9058504" version="4" timestamp="2024-08-04T05:48:46Z" changeset="154796690" uid="21803935" user="Bayani Mills">
     <tag k="addr:housenumber" v="7"/>
@@ -4126,47 +4136,6 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:money_order" v="yes"/>
     <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="12466870068" lat="13.7988704" lon="100.5952173" version="2" timestamp="2025-01-01T13:49:59Z" changeset="160863763" uid="22338667" user="Changnoi Pawn Shop">
-    <tag k="addr:district" v="วังทองหลาง"/>
-    <tag k="addr:housenumber" v="171/1"/>
-    <tag k="addr:place" v="ทิพรัตน์อพาร์ทเม้น"/>
-    <tag k="addr:postcode" v="10310"/>
-    <tag k="addr:province" v="กรุงเทพมหานคร"/>
-    <tag k="addr:street" v="โชคชัย 4"/>
-    <tag k="addr:subdistrict" v="สะพานสอง"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Chagnoi Pawn Shop จำนำช้างน้อย"/>
-    <tag k="payment:app" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin_lightning_wallet" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+66923979996"/>
-    <tag k="shop" v="pawnbroker"/>
-  </node>
-  <node id="12468020286" lat="44.4102056" lon="8.9358385" version="8" timestamp="2025-01-02T01:41:40Z" changeset="160890792" uid="10396321" user="saunter">
-    <tag k="addr:city" v="Genova"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="16123"/>
-    <tag k="addr:street" v="Salita di Santa Caterina"/>
-    <tag k="check_date" v="2025-01-01"/>
-    <tag k="currency:BTC" v="yes"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="currency:bitcoin" v="yes"/>
-    <tag k="name" v="Sartoria BATISTA"/>
-    <tag k="opening_hours" v="Su appuntamento."/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+39 3284959922"/>
-    <tag k="shop" v="tailor"/>
-    <tag k="survey:date" v="2024-01-02"/>
   </node>
 
 </osm>
