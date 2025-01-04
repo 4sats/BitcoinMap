@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-03T05:28:04Z"/>
+<meta osm_base="2025-01-04T05:27:25Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -4136,6 +4136,24 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:money_order" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12471269911" lat="16.4384143" lon="102.8359468" version="3" timestamp="2025-01-04T04:53:03Z" changeset="160973792" uid="10396321" user="saunter">
+    <tag k="amenity" v="motorcycle_rental"/>
+    <tag k="check_date:currency:XBT" v="2025-01-03"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="CSM motorcycle rental Khonkaen"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
+    <tag k="operator" v="Honda CSM"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:wechat" v="yes"/>
+    <tag k="phone" v="+66613320999"/>
   </node>
 
 </osm>
