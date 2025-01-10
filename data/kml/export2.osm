@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-09T05:27:12Z"/>
+<meta osm_base="2025-01-10T05:28:28Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -1884,7 +1884,7 @@
     <tag k="start_date" v="2023-10-01"/>
     <tag k="website" v="https://www.ingaz.com.br"/>
   </node>
-  <node id="12237335135" lat="40.7691663" lon="-111.9043278" version="2" timestamp="2024-12-05T18:19:40Z" changeset="159967413" uid="22046395" user="jacoblyman">
+  <node id="12237335135" lat="40.7691663" lon="-111.9043278" version="3" timestamp="2025-01-09T16:25:59Z" changeset="161176427" uid="1722488" user="Mateusz Konieczny">
     <tag k="addr:city" v="Salt Lake City"/>
     <tag k="addr:housenumber" v="12"/>
     <tag k="addr:postcode" v="84101"/>
@@ -1893,7 +1893,6 @@
     <tag k="currency:BTC" v="yes"/>
     <tag k="description" v="The Sat Store is a Bitcoin-first shop that sells vintage and secondhand items at the SLC Urban Flea Market in exchange for Bitcoin over the Lightning Network. It also sells products online at www.satstore.shop"/>
     <tag k="name" v="The Sat Store"/>
-    <tag k="opening_hours" v="24/7"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="shop" v="thrift"/>
@@ -4072,22 +4071,40 @@
     <tag k="payment:wechat" v="yes"/>
     <tag k="phone" v="+66613320999"/>
   </node>
-  <node id="12482466642" lat="-23.5115419" lon="-47.5169400" version="1" timestamp="2025-01-08T01:25:04Z" changeset="161116473" uid="22358614" user="gpineda">
-    <tag k="addr:city" v="Sorocaba"/>
-    <tag k="addr:housenumber" v="91"/>
-    <tag k="addr:postcode" v="18051-740"/>
-    <tag k="addr:street" v="Av. Mario José Azevedo de Almeida, de - Azevedo"/>
-    <tag k="addr:suburb" v="Jardim Piazza Di Roma"/>
-    <tag k="amenity" v="doctors"/>
-    <tag k="healthcare" v="doctor"/>
-    <tag k="healthcare:speciality" v="nutricionista"/>
-    <tag k="name" v="Nutricionista Sorocaba"/>
+  <node id="12487181744" lat="-23.5416534" lon="-47.4493075" version="1" timestamp="2025-01-09T20:44:27Z" changeset="161184092" uid="22358614" user="gpineda">
+    <tag k="addr:city" v="Votorantim"/>
+    <tag k="addr:housenumber" v="135"/>
+    <tag k="addr:postcode" v="18110200"/>
+    <tag k="addr:street" v="Rua Segundo Lopes Carmona"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="healthcare:speciality" v="dentist;dental_oral_maxillo_facial_surgery"/>
+    <tag k="mobile" v="+55 (15) 3353-9143"/>
+    <tag k="name" v="Prodonto Votorantim"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
     <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
-    <tag k="survey:date" v="2025-07-01"/>
-    <tag k="website" v="https://giulianutri.com/"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="website" v="https://prodontovotorantim.com.br/"/>
+  </node>
+  <node id="12487464698" lat="-19.5880800" lon="-40.1968313" version="2" timestamp="2025-01-10T00:33:19Z" changeset="161188487" uid="22366534" user="Valfre Informática e Tecnologia">
+    <tag k="addr:city" v="Aracruz"/>
+    <tag k="addr:housenumber" v="189"/>
+    <tag k="addr:postcode" v="29196115"/>
+    <tag k="addr:street" v="Rua David Lecchi"/>
+    <tag k="addr:suburb" v="Jacupemba"/>
+    <tag k="name" v="Valfre Informatica e Tecnologia"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:wallet" v="yes"/>
+    <tag k="phone" v="27981273091"/>
+    <tag k="shop" v="computer"/>
   </node>
 
 </osm>
