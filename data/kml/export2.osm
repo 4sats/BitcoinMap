@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-10T05:28:28Z"/>
+<meta osm_base="2025-01-11T05:27:12Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -3645,14 +3645,16 @@
     <tag k="phone" v="+55 12 997542300"/>
     <tag k="website" v="www.cachoeiralageado.com.br"/>
   </node>
-  <node id="12388751595" lat="-22.8248048" lon="-45.6669222" version="1" timestamp="2024-12-01T19:12:51Z" changeset="159817270" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12388751595" lat="-22.8248048" lon="-45.6669222" version="2" timestamp="2025-01-10T07:25:48Z" changeset="161194261" uid="6251065" user="carlosassuncao92">
     <tag k="addr:city" v="Santo Antonio do pinhal"/>
     <tag k="addr:housenumber" v="06"/>
     <tag k="addr:postcode" v="12450000"/>
     <tag k="addr:street" v="Rua Sebastião Marcondes da Silva"/>
     <tag k="addr:suburb" v="Centro"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="bar" v="yes"/>
     <tag k="check_date:currency:XBT" v="2024-12-01"/>
+    <tag k="cuisine" v="brazilian"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Restaurantes típico Brasileiro focado em cortes nobres"/>
     <tag k="name" v="Imperiu's bar e restaurante"/>
@@ -4093,18 +4095,57 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="website" v="https://prodontovotorantim.com.br/"/>
   </node>
-  <node id="12487464698" lat="-19.5880800" lon="-40.1968313" version="2" timestamp="2025-01-10T00:33:19Z" changeset="161188487" uid="22366534" user="Valfre Informática e Tecnologia">
-    <tag k="addr:city" v="Aracruz"/>
-    <tag k="addr:housenumber" v="189"/>
-    <tag k="addr:postcode" v="29196115"/>
-    <tag k="addr:street" v="Rua David Lecchi"/>
-    <tag k="addr:suburb" v="Jacupemba"/>
-    <tag k="name" v="Valfre Informatica e Tecnologia"/>
+  <node id="12489379490" lat="-29.1690754" lon="-51.1880047" version="2" timestamp="2025-01-10T21:26:21Z" changeset="161220867" uid="22369798" user="game show caxias">
+    <tag k="addr:city" v="Caxias do Sul"/>
+    <tag k="addr:housenumber" v="2610"/>
+    <tag k="addr:postcode" v="95020-520"/>
+    <tag k="addr:street" v="Rua Sinimbu"/>
+    <tag k="addr:suburb" v="São Pelegrino"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/gameshoweventos"/>
+    <tag k="currency:BRL" v="yes"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="image" v="https://www.facebook.com/photo/?fbid=2646584675633567&amp;set=a.483229783825450"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="GAME SHOW"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-18:30"/>
+    <tag k="payment:apple_pay" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:btc" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:wallet" v="yes"/>
-    <tag k="phone" v="27981273091"/>
-    <tag k="shop" v="computer"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:google_pay" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:mastercard_contactless" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_debit" v="yes"/>
+    <tag k="phone" v="+55 54 30140840"/>
+    <tag k="second_hand" v="yes"/>
+    <tag k="shop" v="video_games"/>
+    <tag k="website" v="https://www.instagram.com/gameshowcaxias/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12490282033" lat="-17.5651947" lon="-52.5535374" version="4" timestamp="2025-01-11T01:30:46Z" changeset="161225027" uid="22370132" user="LADO-DE-FORA">
+    <tag k="addr:city" v="Mineiros"/>
+    <tag k="addr:housenumber" v="48"/>
+    <tag k="addr:postcode" v="75.830-092"/>
+    <tag k="addr:street" v="Sexta Avenida"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="marketplace"/>
+    <tag k="building" v="house"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="LADO DE FORA"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="survey:date" v="2025-01-10"/>
+    <tag k="website" v="https://ladodeforawear.com.br/"/>
   </node>
 
 </osm>
