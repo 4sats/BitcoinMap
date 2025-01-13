@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-12T05:27:11Z"/>
+<meta osm_base="2025-01-13T05:29:01Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -431,6 +431,24 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 99607-7163"/>
     <tag k="website" v="https://senhorasobremesa.com.br/"/>
+  </node>
+  <node id="11739971034" lat="-22.7359532" lon="-47.6534275" version="6" timestamp="2025-01-12T15:22:30Z" changeset="161277063" uid="21214951" user="Rodrigofbsal">
+    <tag k="addr:city" v="Piracicaba"/>
+    <tag k="addr:housenumber" v="1757"/>
+    <tag k="addr:postcode" v="13400-853"/>
+    <tag k="addr:street" v="Avenida Doutor Paulo de Moraes"/>
+    <tag k="addr:suburb" v="Paulista"/>
+    <tag k="check_date" v="2025-01-11"/>
+    <tag k="currency:USDT" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="RTEC SMARTPHONES"/>
+    <tag k="operator" v="RODRIGO"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="mobile_phone"/>
   </node>
   <node id="11819746997" lat="-29.5134768" lon="31.2305956" version="4" timestamp="2024-04-15T18:30:04Z" changeset="150053268" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Shaka's Rock"/>
@@ -2843,46 +2861,6 @@
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://www.fontedashortensias.com.br/"/>
   </node>
-  <node id="12308807641" lat="14.4086096" lon="102.8582988" version="4" timestamp="2024-11-03T04:42:54Z" changeset="158684757" uid="22135627" user="BallKM">
-    <tag k="addr:district" v="Lahan Sai"/>
-    <tag k="addr:postcode" v="31170"/>
-    <tag k="addr:province" v="Buri Ram"/>
-    <tag k="addr:street" v="Lahan Sai Hospital"/>
-    <tag k="addr:subdistrict" v="Lahan Sai"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="amenity" v="clinic"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/profile.php?id=61553982547616&amp;mibextid=LQQJ4d"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="healthcare" v="clinic"/>
-    <tag k="healthcare:speciality" v="paediatrics;child_psychiatry;neonatology;general"/>
-    <tag k="name" v="Pattaraporn Clinic"/>
-    <tag k="name:th" v="คลินิคหมอพัทราภรณ์"/>
-    <tag k="opening_hours" v="Mo-Su 17:00-19:30"/>
-    <tag k="operator" v="พญ.พัทราภรณ์ เธียรวรรณ"/>
-    <tag k="operator:type" v="public"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+66 92 466 3661"/>
-    <tag k="survey:date" v="2024-11-03"/>
-  </node>
-  <node id="12308817898" lat="14.8937711" lon="102.0438579" version="2" timestamp="2024-11-03T04:15:45Z" changeset="158684451" uid="22135627" user="BallKM">
-    <tag k="addr:postcode" v="30000"/>
-    <tag k="addr:province" v="นครราชสีมา"/>
-    <tag k="addr:street" v="ถนนมหาวิทยาลัย"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="ADALINE"/>
-    <tag k="name:th" v="อดาลีน"/>
-    <tag k="office" v="company"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="survey:date" v="2024-11-03"/>
-    <tag k="website" v="http://www.adaline.co.th"/>
-  </node>
   <node id="12315825437" lat="-22.7914755" lon="-45.6584730" version="2" timestamp="2024-11-12T21:11:43Z" changeset="159068523" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antônio do Pinhal"/>
     <tag k="addr:housenumber" v="17"/>
@@ -4055,23 +4033,44 @@
     <tag k="payment:money_order" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12471269911" lat="16.4384143" lon="102.8359468" version="3" timestamp="2025-01-04T04:53:03Z" changeset="160973792" uid="10396321" user="saunter">
-    <tag k="amenity" v="motorcycle_rental"/>
-    <tag k="check_date:currency:XBT" v="2025-01-03"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="CSM motorcycle rental Khonkaen"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
-    <tag k="operator" v="Honda CSM"/>
+  <node id="12489379490" lat="-29.1690754" lon="-51.1880047" version="5" timestamp="2025-01-13T02:45:14Z" changeset="161293703" uid="22369798" user="game show caxias">
+    <tag k="addr:city" v="Caxias do Sul"/>
+    <tag k="addr:housenumber" v="2610"/>
+    <tag k="addr:postcode" v="95020-520"/>
+    <tag k="addr:street" v="Rua Sinimbu"/>
+    <tag k="addr:suburb" v="São Pelegrino"/>
+    <tag k="contact:facebook" v="gameshoweventos"/>
+    <tag k="currency:BRL" v="yes"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:USDC" v="yes"/>
+    <tag k="currency:USDT" v="yes"/>
+    <tag k="image" v="https://www.facebook.com/photo/?fbid=2646584675633567&amp;set=a.483229783825450"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="GAME SHOW"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-18:30"/>
+    <tag k="payment:apple_pay" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:btc" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
     <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:google_pay" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
     <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:mastercard_contactless" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
     <tag k="payment:visa" v="yes"/>
-    <tag k="payment:wechat" v="yes"/>
-    <tag k="phone" v="+66613320999"/>
+    <tag k="payment:visa_debit" v="yes"/>
+    <tag k="payment:visa_electron" v="yes"/>
+    <tag k="phone" v="+55 54 30140840"/>
+    <tag k="second_hand" v="yes"/>
+    <tag k="shop" v="video_games"/>
+    <tag k="website" v="https://www.instagram.com/gameshowcaxias/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="12490282033" lat="-17.5651947" lon="-52.5535374" version="4" timestamp="2025-01-11T01:30:46Z" changeset="161225027" uid="22370132" user="LADO-DE-FORA">
     <tag k="addr:city" v="Mineiros"/>
@@ -4090,6 +4089,24 @@
     <tag k="payment:onchain" v="no"/>
     <tag k="survey:date" v="2025-01-10"/>
     <tag k="website" v="https://ladodeforawear.com.br/"/>
+  </node>
+  <node id="12496332631" lat="-28.5232336" lon="-49.3229071" version="6" timestamp="2025-01-13T00:59:45Z" changeset="161292405" uid="7522075" user="Rockedf">
+    <tag k="addr:city" v="Urussanga"/>
+    <tag k="addr:housenumber" v="170"/>
+    <tag k="addr:postcode" v="88840-000"/>
+    <tag k="addr:street" v="Rua Vidal Ramos"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="check_date:currency:XBT" v="2025-01-12"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="healthcare:speciality" v="dentist;orthodontics;implantology;paediatrics;periodontia;dental_oral_maxillo_facial_surgery;invisalign;harmonização_facial"/>
+    <tag k="name" v="Consultório odontológico Dra Fabiola Zanin"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="048996572209"/>
+    <tag k="website" v="www.fabiolazanin.com.br"/>
   </node>
 
 </osm>
