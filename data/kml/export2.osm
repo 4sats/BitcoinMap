@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-13T05:29:01Z"/>
+<meta osm_base="2025-01-14T05:27:15Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -4033,7 +4033,7 @@
     <tag k="payment:money_order" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12489379490" lat="-29.1690754" lon="-51.1880047" version="5" timestamp="2025-01-13T02:45:14Z" changeset="161293703" uid="22369798" user="game show caxias">
+  <node id="12489379490" lat="-29.1690754" lon="-51.1880047" version="6" timestamp="2025-01-13T21:19:58Z" changeset="161325362" uid="22369798" user="game show caxias">
     <tag k="addr:city" v="Caxias do Sul"/>
     <tag k="addr:housenumber" v="2610"/>
     <tag k="addr:postcode" v="95020-520"/>
@@ -4042,6 +4042,7 @@
     <tag k="contact:facebook" v="gameshoweventos"/>
     <tag k="currency:BRL" v="yes"/>
     <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:ETH" v="yes"/>
     <tag k="currency:USDC" v="yes"/>
     <tag k="currency:USDT" v="yes"/>
     <tag k="image" v="https://www.facebook.com/photo/?fbid=2646584675633567&amp;set=a.483229783825450"/>
@@ -4107,6 +4108,107 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="048996572209"/>
     <tag k="website" v="www.fabiolazanin.com.br"/>
+  </node>
+  <node id="12497555562" lat="13.4283747" lon="99.9623174" version="1" timestamp="2025-01-13T06:45:19Z" changeset="161297110" uid="22377096" user="PINSUWAN VENTURE GROUP">
+    <tag k="addr:district" v="Ampawa"/>
+    <tag k="addr:housenumber" v="32/3"/>
+    <tag k="addr:postcode" v="75110"/>
+    <tag k="addr:province" v="Samutsongkhram"/>
+    <tag k="addr:subdistrict" v="Bang-chang"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="name" v="PINSUWAN VENTURE GROUP"/>
+    <tag k="opening_hours" v="Fr-Su 12:00-00:00"/>
+    <tag k="operator" v="BENJARONG FACTORY"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+66874006059"/>
+    <tag k="shop" v="pottery"/>
+    <tag k="website" v="https://linktr.ee/pinsuwanmetaverse"/>
+  </node>
+  <node id="12498329430" lat="-22.8264298" lon="-45.6293357" version="1" timestamp="2025-01-13T15:18:07Z" changeset="161314094" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
+    <tag k="addr:housenumber" v="166"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Rodovia Oswaldo Barbosa Guisardi"/>
+    <tag k="addr:suburb" v="Estacao eugenio lefreve"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date:currency:XBT" v="2025-01-13"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Nosso empório conta com uma variedade de queijos premiados direto de minas gerais temos vinho cachaça artesanais produtos da região cerveja artesanal doces mel pão com linguiça  pastel"/>
+    <tag k="email" v="Marcossoaresmvs@live.comm"/>
+    <tag k="name" v="Empório restaurante sabor mineiro"/>
+    <tag k="opening_hours" v="06:00-18:00"/>
+    <tag k="operator" v="Marcos vinicius e Patrícia"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 997714511"/>
+  </node>
+  <node id="12498679669" lat="-26.9713798" lon="-48.6369542" version="4" timestamp="2025-01-14T01:53:45Z" changeset="161330061" uid="22375642" user="Davi BTC">
+    <tag k="addr:city" v="Balneário Camboriú"/>
+    <tag k="addr:housenumber" v="190"/>
+    <tag k="addr:postcode" v="88331-005"/>
+    <tag k="addr:street" v="Rua Isidoro Caetano"/>
+    <tag k="addr:suburb" v="Pioneiros"/>
+    <tag k="check_date:currency:XBT" v="2025-01-13"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="hairdresser" v="barber"/>
+    <tag k="name" v="Barbearia Coronado"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="047 99776-4266"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="12499328642" lat="-26.9976249" lon="-48.6280425" version="2" timestamp="2025-01-14T01:53:45Z" changeset="161330061" uid="22375642" user="Davi BTC">
+    <tag k="addr:city" v="Balneário Camboriú"/>
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:postcode" v="88330-334"/>
+    <tag k="addr:street" v="Rua 2950"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="healthcare:speciality" v="tratamento_do_ronco;orthodontics;invisalign;clinica_geral;botox;preenchimento_labial"/>
+    <tag k="name" v="Dra Fabiola Zanin"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="047 3367-8941"/>
+  </node>
+  <node id="12499344131" lat="-26.9528373" lon="-48.6401879" version="2" timestamp="2025-01-14T01:53:45Z" changeset="161330061" uid="22375642" user="Davi BTC">
+    <tag k="addr:city" v="Itajaí"/>
+    <tag k="addr:housenumber" v="3281, sala 1510"/>
+    <tag k="addr:postcode" v="88336-773"/>
+    <tag k="addr:street" v="Avenida Osvaldo Reis"/>
+    <tag k="addr:suburb" v="Praia Brava"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="healthcare:speciality" v="tratamento_do_ronco;orthodontics;invisalign;clinica_geral;botox;preenchimento_labial"/>
+    <tag k="name" v="Dra Fabiola Zanin"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="047 99624-5040"/>
+  </node>
+  <node id="12499344133" lat="-23.6510253" lon="-46.5340195" version="2" timestamp="2025-01-14T02:04:28Z" changeset="161330163" uid="22375642" user="Davi BTC">
+    <tag k="addr:city" v="Santo André"/>
+    <tag k="addr:housenumber" v="176"/>
+    <tag k="addr:postcode" v="09090-770"/>
+    <tag k="addr:street" v="Rua das Esmeraldas"/>
+    <tag k="addr:suburb" v="Jardim"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="doctor"/>
+    <tag k="healthcare:speciality" v="especialista_em_dor;anaesthetics"/>
+    <tag k="name" v="Dr Daniel Landim"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="01125341777"/>
+    <tag k="website" v="https://linktr.ee/drdanielhlandim"/>
   </node>
 
 </osm>
