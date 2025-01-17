@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-16T05:27:41Z"/>
+<meta osm_base="2025-01-17T05:27:19Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -4073,26 +4073,6 @@
     <tag k="phone" v="+55 11 99373-9270"/>
     <tag k="website" v="https://www.instagram.com/drdaniellandim/"/>
   </node>
-  <node id="12501364591" lat="-22.8258800" lon="-45.6664444" version="1" timestamp="2025-01-14T18:38:45Z" changeset="161355460" uid="22025649" user="Bitcoin Amantikir">
-    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
-    <tag k="addr:housenumber" v="31"/>
-    <tag k="addr:postcode" v="12450000"/>
-    <tag k="addr:street" v="Rua Gumercindo Jacinto da Silva"/>
-    <tag k="addr:suburb" v="Centro"/>
-    <tag k="check_date:currency:XBT" v="2025-01-14"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Papelaria Cores da Terra"/>
-    <tag k="opening_hours" v="Mo-Sa 09:00-17:30"/>
-    <tag k="operator" v="Roneide Costa"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coinos" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lightin" v="yes"/>
-    <tag k="phone" v="+55 12 998006429"/>
-    <tag k="shop" v="stationery"/>
-  </node>
   <node id="12502931723" lat="-21.7582893" lon="-48.8338866" version="1" timestamp="2025-01-14T22:42:58Z" changeset="161361679" uid="22384097" user="Restaurante O Portal">
     <tag k="addr:city" v="ibitinga"/>
     <tag k="addr:housenumber" v="1119"/>
@@ -4129,6 +4109,19 @@
     <tag k="payment:lightning_contactless" v="no"/>
     <tag k="phone" v="(47) 99260-4004"/>
   </node>
+  <node id="12503960294" lat="17.9572796" lon="102.6279400" version="5" timestamp="2025-01-17T02:57:28Z" changeset="161440060" uid="22368622" user="Molly’s eatery">
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date:currency:XBT" v="2025-01-16"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="name" v="Molly's cafe"/>
+    <tag k="opening_hours" v="Tu-Su 8:00-17:30"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+  </node>
   <node id="12505487316" lat="-25.5719671" lon="-52.0491263" version="2" timestamp="2025-01-15T22:42:32Z" changeset="161398223" uid="22370830" user="eduardo ruan">
     <tag k="addr:city" v="Candói"/>
     <tag k="addr:housenumber" v="2372"/>
@@ -4162,6 +4155,41 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="011 99373-9270"/>
     <tag k="website" v="https://www.instagram.com/draanamondragon/"/>
+  </node>
+  <node id="12507609580" lat="-20.4648586" lon="-41.4120474" version="3" timestamp="2025-01-16T20:21:18Z" changeset="161432782" uid="22391715" user="Newsystem Software House">
+    <tag k="addr:city" v="Muniz Freire"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="29380-000"/>
+    <tag k="addr:street" v="Rua Cônego José Bazzarella"/>
+    <tag k="addr:suburb" v="centro"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Newsystem"/>
+    <tag k="office" v="it"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+5528999597007"/>
+    <tag k="website" v="https:///newsystem.net.br"/>
+  </node>
+  <node id="12507825636" lat="-23.0207896" lon="-46.9860330" version="1" timestamp="2025-01-16T21:39:08Z" changeset="161434824" uid="22391859" user="Abrastol">
+    <tag k="addr:city" v="Vinhedo"/>
+    <tag k="addr:housenumber" v="230"/>
+    <tag k="addr:postcode" v="13284-192"/>
+    <tag k="addr:street" v="Rua Antônio Vendramini"/>
+    <tag k="addr:suburb" v="Nova Vinhedo"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="ABRASTOL FERRAMENTAS"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-17:45"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+551938463127"/>
+    <tag k="shop" v="doityourself"/>
+    <tag k="stroller" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
