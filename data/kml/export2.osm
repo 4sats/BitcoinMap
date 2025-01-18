@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-17T05:27:19Z"/>
+<meta osm_base="2025-01-18T05:25:29Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -4122,24 +4122,6 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="yes"/>
   </node>
-  <node id="12505487316" lat="-25.5719671" lon="-52.0491263" version="2" timestamp="2025-01-15T22:42:32Z" changeset="161398223" uid="22370830" user="eduardo ruan">
-    <tag k="addr:city" v="Candói"/>
-    <tag k="addr:housenumber" v="2372"/>
-    <tag k="addr:postcode" v="85140000"/>
-    <tag k="addr:street" v="Avenida Newton Marcondes de Oliveira"/>
-    <tag k="addr:suburb" v="Pioneiros"/>
-    <tag k="amenity" v="bar"/>
-    <tag k="brewery" v="various"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="min_age" v="16"/>
-    <tag k="name" v="Digão Pub"/>
-    <tag k="opening_hours" v="Segunda à sexta das 18:30 às 23:30"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="website:menu" v="https://delivery.digaopub.com.br/"/>
-  </node>
   <node id="12505489611" lat="-23.6445318" lon="-46.5409046" version="4" timestamp="2025-01-15T23:59:26Z" changeset="161399591" uid="22375642" user="Davi BTC">
     <tag k="addr:city" v="Santo André"/>
     <tag k="addr:housenumber" v="186"/>
@@ -4190,6 +4172,59 @@
     <tag k="shop" v="doityourself"/>
     <tag k="stroller" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12508975313" lat="-43.5394969" lon="172.6293915" version="1" timestamp="2025-01-17T09:40:01Z" changeset="161447790" uid="20397327" user="HGW39">
+    <tag k="addr:city" v="Christchurch"/>
+    <tag k="addr:housenumber" v="171"/>
+    <tag k="addr:postcode" v="8011"/>
+    <tag k="addr:street" v="Moorhouse Avenue"/>
+    <tag k="addr:suburb" v="Sydenham"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Wheeler Motor Company"/>
+    <tag k="opening_hours" v="08:30-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="03 3666369"/>
+    <tag k="second_hand" v="yes"/>
+    <tag k="service:vehicle:used_car_sales" v="yes"/>
+    <tag k="shop" v="car"/>
+    <tag k="survey_date" v="2025-01-17"/>
+    <tag k="website" v="http://www.wheelermotors.co.nz/"/>
+  </node>
+  <node id="12509797881" lat="-28.6235838" lon="-49.0173353" version="1" timestamp="2025-01-17T17:24:13Z" changeset="161464615" uid="22395053" user="JOAO VICTOR GARCIA">
+    <tag k="addr:city" v="Jaguaruna"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:postcode" v="88715000"/>
+    <tag k="addr:street" v="Rua Basílio Cruz"/>
+    <tag k="addr:suburb" v="Beija Flor"/>
+    <tag k="clothes" v="women;men"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Fadav"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:pix" v="yes"/>
+    <tag k="phone" v="5548996192336"/>
+    <tag k="shop" v="clothes"/>
+  </node>
+  <node id="12511353794" lat="-25.3788420" lon="-49.1875154" version="1" timestamp="2025-01-18T01:01:14Z" changeset="161475632" uid="22395888" user="Chezso">
+    <tag k="addr:city" v="COLOMBO"/>
+    <tag k="addr:housenumber" v="324"/>
+    <tag k="addr:postcode" v="83408090"/>
+    <tag k="addr:street" v="Avenida Allan Kardec"/>
+    <tag k="addr:suburb" v="Jardim Campo Alto"/>
+    <tag k="contact:whatsapp" v="+55 41 8448 6415"/>
+    <tag k="craft" v="electrician"/>
+    <tag k="name" v="HM Eletricista"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Hiarly Eletricista"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 41 8448 6415"/>
   </node>
 
 </osm>
