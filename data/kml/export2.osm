@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-22T05:27:45Z"/>
+<meta osm_base="2025-01-23T05:27:39Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -314,6 +314,44 @@
     <tag k="phone" v="+48509122806"/>
     <tag k="survey:date" v="2024-09-23"/>
     <tag k="website" v="https://gabinetpsychiatra.pl"/>
+  </node>
+  <node id="9550218139" lat="-23.5786718" lon="-46.6624591" version="3" timestamp="2025-01-22T19:10:32Z" changeset="161649931" uid="7522075" user="Rockedf">
+    <tag k="addr:city" v="São Paulo"/>
+    <tag k="addr:housenumber" v="101;1"/>
+    <tag k="addr:postcode" v="01431-000"/>
+    <tag k="addr:street" v="Avenida Brasil"/>
+    <tag k="alt_name" v="AtacadoSuplemento.com.br"/>
+    <tag k="building" v="warehouse"/>
+    <tag k="check_date" v="2025-01-21"/>
+    <tag k="check_date:currency:XBT" v="2025-01-22"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/atacado.suplemento/"/>
+    <tag k="country" v="BR"/>
+    <tag k="currency:BRL" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Site online de suplementos alimentares com ofertas para compras no varejo e no atacado. Aceita Bitcoin como meio de pagamento."/>
+    <tag k="email" v="sac@atacadosuplemento.com.br"/>
+    <tag k="image" v="https://atacadosuplemento.com.br/wp-content/uploads/logo-atacadosuplemento.png"/>
+    <tag k="mobile" v="+55 11 95092-5417"/>
+    <tag k="name" v="Atacado Suplemento"/>
+    <tag k="nat_name" v="www.AtacadoSuplemento.com.br"/>
+    <tag k="official_name" v="AtacadoSuplemento.com.br"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:pix" v="yes"/>
+    <tag k="phone" v="+55 11 3280-0700"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="survey:date" v="2025-01-21"/>
+    <tag k="website" v="https://www.atacadosuplemento.com.br/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="10103488116" lat="-29.7330435" lon="31.0830025" version="5" timestamp="2024-11-13T19:23:50Z" changeset="159104434" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Umhlanga"/>
@@ -4277,19 +4315,6 @@
     <tag k="phone" v="13974131009"/>
     <tag k="shop" v="kiosk"/>
   </node>
-  <node id="12518676203" lat="28.6497100" lon="-81.2053569" version="1" timestamp="2025-01-20T17:16:32Z" changeset="161572119" uid="22404753" user="Abode Kitchen &amp; Home Goods">
-    <tag k="description" v="Warm up to better prices from the forgotten and returned. We source all our kitchen and home goods from big name brands and big box stores at half the price."/>
-    <tag k="name" v="Abode Kitchen &amp; Home Goods"/>
-    <tag k="note" v="Call to discuss pricing and availability. Sales are by appointment only.&#x0a;&#x0a;All products are A/B grade returns from Costco. New in box and some extra discounts for out of box items.&#x0a;&#x0a;All items have a 100% cash back or exchange guarantee."/>
-    <tag k="operator" v="Aje Sales and Marketing"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="7862735031"/>
-    <tag k="shop" v="variety_store"/>
-    <tag k="website" v="https://www.facebook.com/marketplace/profile/696385112/"/>
-  </node>
   <node id="12519239240" lat="45.5439496" lon="-94.1988113" version="1" timestamp="2025-01-20T22:16:22Z" changeset="161580196" uid="20309960" user="Joeydd">
     <tag k="addr:city" v="St. Cloud"/>
     <tag k="addr:housenumber" v="3337"/>
@@ -4307,16 +4332,22 @@
     <tag k="self_service" v="no"/>
     <tag k="website" v="https://dirtydetailsinteriorspa.com/"/>
   </node>
-  <node id="12520477395" lat="15.7031076" lon="100.1163526" version="2" timestamp="2025-01-22T00:11:12Z" changeset="161619335" uid="22407583" user="Udomken1">
+  <node id="12520477395" lat="15.7031076" lon="100.1163526" version="4" timestamp="2025-01-23T02:13:59Z" changeset="161658168" uid="22376515" user="wired4ncer">
+    <tag k="addr:district" v="nakhonsawan"/>
     <tag k="addr:housenumber" v="392"/>
+    <tag k="addr:place" v="moo10"/>
     <tag k="addr:postcode" v="60000"/>
     <tag k="addr:province" v="nakhonsawan"/>
     <tag k="addr:street" v="ถนนพหลโยธิน"/>
+    <tag k="addr:subdistrict" v="nakhonsawantok"/>
     <tag k="books" v="comic;dc_comic;marvel"/>
+    <tag k="check_date:currency:XBT" v="2025-01-22"/>
     <tag k="contact:facebook" v="https://www.facebook.com/profile.php?id=61571866899893"/>
     <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="udomkhenlueang@gmail.com"/>
     <tag k="mobile" v="+66636643465"/>
-    <tag k="name" v="paplern comic"/>
+    <tag k="name" v="Paplern Comic"/>
+    <tag k="note" v="contact me my email udomkhenlueang@gmail.com"/>
     <tag k="opening_hours" v="mo-su 09.00-17.00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
@@ -4350,41 +4381,20 @@
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://www.thevictoria.gg"/>
   </node>
-  <node id="12521545322" lat="-23.5608785" lon="-46.6570112" version="3" timestamp="2025-01-21T22:41:05Z" changeset="161617798" uid="22409590" user="Meu Mundo Fit">
-    <tag k="addr:city" v="São Paulo"/>
-    <tag k="alt_name" v="AtacadoSuplemento.com.br"/>
-    <tag k="building" v="warehouse"/>
-    <tag k="check_date" v="2025-01-21"/>
-    <tag k="check_date:currency:XBT" v="2025-01-21"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/atacado.suplemento/"/>
-    <tag k="country" v="BR"/>
-    <tag k="currency:BRL" v="yes"/>
-    <tag k="currency:BTC" v="yes"/>
+  <node id="12524965448" lat="49.7139079" lon="-2.2048027" version="1" timestamp="2025-01-22T22:18:20Z" changeset="161654821" uid="22398382" user="Andrei Zmeu">
+    <tag k="addr:city" v="Alderney"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="GY9 3UG"/>
+    <tag k="addr:street" v="High Street"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Site online de suplementos alimentares com ofertas para compras no varejo e no atacado. Aceita Bitcoin como meio de pagamento."/>
-    <tag k="email" v="sac@atacadosuplemento.com.br"/>
-    <tag k="image" v="https://atacadosuplemento.com.br/wp-content/uploads/logo-atacadosuplemento.png"/>
-    <tag k="mobile" v="+55 11 95092-5417"/>
-    <tag k="name" v="Atacado Suplemento"/>
-    <tag k="nat_name" v="www.AtacadoSuplemento.com.br"/>
-    <tag k="official_name" v="AtacadoSuplemento.com.br"/>
-    <tag k="opening_hours" v="24/7"/>
+    <tag k="facebook" v="https://www.facebook.com/profile.php?id=100039385396008"/>
+    <tag k="name" v="Bonjour Guest House"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:pix" v="yes"/>
-    <tag k="phone" v="+55 11 3280-0700"/>
-    <tag k="shop" v="supermarket"/>
     <tag k="survey:date" v="2025-01-21"/>
-    <tag k="website" v="https://www.atacadosuplemento.com.br/"/>
-    <tag k="wheelchair" v="yes"/>
+    <tag k="tourism" v="guest_house"/>
+    <tag k="website" v="https://bonjour-guesthouse.my.canva.site/bonjour-alderney"/>
   </node>
 
 </osm>
