@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-24T05:27:54Z"/>
+<meta osm_base="2025-01-25T05:26:00Z"/>
 
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -871,7 +871,7 @@
     <tag k="phone" v="+255763052308"/>
     <tag k="survey:date" v="2024-07-02"/>
   </node>
-  <node id="12028936873" lat="-29.7252320" lon="31.0843067" version="2" timestamp="2024-12-18T05:54:12Z" changeset="160334136" uid="21301664" user="yBitcoinza">
+  <node id="12028936873" lat="-29.7252320" lon="31.0843067" version="3" timestamp="2025-01-24T09:53:37Z" changeset="161705037" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Umhlanga"/>
     <tag k="addr:housenumber" v="21"/>
     <tag k="addr:postcode" v="4319"/>
@@ -881,7 +881,7 @@
     <tag k="cuisine" v="coffee_shop;coffee"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="internet_access" v="yes"/>
-    <tag k="internet_access:fee" v="no"/>
+    <tag k="internet_access:fee" v="yes"/>
     <tag k="name" v="BRWD Proppa Coffee"/>
     <tag k="opening_hours" v="Mo-Su 06:30-17:00"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -4395,6 +4395,111 @@
     <tag k="survey:date" v="2025-01-21"/>
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="https://bonjour-guesthouse.my.canva.site/bonjour-alderney"/>
+  </node>
+  <node id="12528973263" lat="-29.6746671" lon="31.0453932" version="3" timestamp="2025-01-24T09:58:44Z" changeset="161705236" uid="21301664" user="yBitcoinza">
+    <tag k="addr:city" v="Durban"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="4339"/>
+    <tag k="addr:street" v="Tottum Road"/>
+    <tag k="amenity" v="Wall Paper"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="last_checked" v="2025-01-24"/>
+    <tag k="name" v="23 Interiors"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="071 855 4797"/>
+    <tag k="shop" v="interior_decoration"/>
+    <tag k="website" v="www.23interiors.co.za"/>
+  </node>
+  <node id="12529886874" lat="-22.8334952" lon="-45.6693907" version="1" timestamp="2025-01-24T19:19:45Z" changeset="161725211" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
+    <tag k="addr:housenumber" v="1060"/>
+    <tag k="addr:postcode" v="12450-000,"/>
+    <tag k="addr:street" v="Dr Lourenço de Sa"/>
+    <tag k="addr:suburb" v="Sertãozinho"/>
+    <tag k="brand" v="Marcio Franco"/>
+    <tag k="check_date:currency:XBT" v="2025-01-24"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="adm@hoteisreserva.com.br"/>
+    <tag k="name" v="Reserva Santo Antonio do Pinhal"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightin" v="yes"/>
+    <tag k="phone" v="+55 11 934156466"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="www.reservasantoantonio.com.br"/>
+  </node>
+  <node id="12529901975" lat="-22.8213326" lon="-45.6777110" version="1" timestamp="2025-01-24T19:05:11Z" changeset="161724841" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
+    <tag k="addr:housenumber" v="383"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Rua Maria Ferreira de Lima"/>
+    <tag k="addr:suburb" v="Joaquim Alves"/>
+    <tag k="check_date:currency:XBT" v="2025-01-24"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Depósito de material de construção, com excelente atendimento e rápida entrega"/>
+    <tag k="email" v="marciomacielmello@hotmail.com"/>
+    <tag k="name" v="Doutor Repara"/>
+    <tag k="opening_hours" v="MO-SA 07:00-18:18"/>
+    <tag k="operator" v="Marcio Maciel"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+55 12 997049931"/>
+    <tag k="shop" v="hardware"/>
+  </node>
+  <node id="12529946488" lat="-22.8335391" lon="-45.6694345" version="1" timestamp="2025-01-24T19:27:06Z" changeset="161725415" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
+    <tag k="addr:housenumber" v="1060"/>
+    <tag k="addr:postcode" v="12450-000,"/>
+    <tag k="addr:street" v="Dr. Lourenço de Sá"/>
+    <tag k="addr:suburb" v="Sertãozinho"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date:currency:XBT" v="2025-01-24"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Estamos situados num Vale totalmente integrado a natureza, com uma vista mágica para a Mantiqueira e em especial para a Pedra do Baú. Vale a pena tirar um tempinho para apreciar a vista e se reconectar. Além de cafés especiais que foram escolhidos a dedo,"/>
+    <tag k="email" v="saint.coffe01@gmail.com"/>
+    <tag k="name" v="Saint Coffee Mantiqueira"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lighting" v="yes"/>
+    <tag k="phone" v="+55 12 997262315"/>
+    <tag k="website" v="https://www.instagram.com/saintcoffeemantiqueira?igsh=MWc2dHYwdGdtcHl0bg%3D%3D&amp;utm_source=qr"/>
+  </node>
+  <node id="12529956147" lat="-22.8246572" lon="-45.6681139" version="1" timestamp="2025-01-24T19:33:38Z" changeset="161725633" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antonio do pinhal"/>
+    <tag k="addr:housenumber" v="615"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Avenida Ministro Nelson Hungria"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2025-01-24"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="A Alto da Mantiqueira Marketing tem como missão ajudar empresas a se destacarem no ambiente digital. Nosso foco está no gerenciamento estratégico e na criação de conteúdo criativo e personalizado para redes sociais, garantindo que a sua marca ganhe visibi"/>
+    <tag k="email" v="matheusdionisio27@hotmail.com"/>
+    <tag k="name" v="Alto da Mantiqueira - Marketing"/>
+    <tag k="office" v="advertising_agency"/>
+    <tag k="opening_hours" v="MO-FR 08:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lighting" v="yes"/>
+    <tag k="phone" v="+55 12 991745203"/>
   </node>
 
 </osm>
