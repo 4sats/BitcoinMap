@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-25T05:26:00Z"/>
+<meta osm_base="2025-01-26T05:26:59Z"/>
 
+  <node id="271980866" lat="48.1537956" lon="17.1741877" version="4" timestamp="2025-01-25T12:41:36Z" changeset="161744202" uid="22394492" user="Robin Bird">
+    <tag k="addr:city" v="Bratislava"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="821 03"/>
+    <tag k="addr:street" v="Borodáčova"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="name" v="La Vita Ristorante"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="website" v="https://la-vita.sk/"/>
+  </node>
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
     <tag k="addr:postcode" v="2482"/>
@@ -487,6 +500,30 @@
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="11744976894" lat="47.2520775" lon="11.4001869" version="8" timestamp="2025-01-25T14:54:59Z" changeset="161749456" uid="22423639" user="peter-eventation">
+    <tag k="addr:city" v="Innsbruck"/>
+    <tag k="addr:postcode" v="6020"/>
+    <tag k="addr:street" v="Klostergasse 4"/>
+    <tag k="amenity" v="events_venue"/>
+    <tag k="check_date" v="2025-01-25"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="info@eventation.at"/>
+    <tag k="image" v="https://www.eventation.at/static/fb7a5d8c6b4d87070f036a3b0fc67555/47498/team_luftballon.jpg"/>
+    <tag k="name" v="eventation GmbH"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:30"/>
+    <tag k="operator" v="Peter Taschler"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+43 512 305077"/>
+    <tag k="ref:vatin" v="ATU52314605"/>
+    <tag k="website" v="https://www.eventation.at/"/>
   </node>
   <node id="11819746997" lat="-29.5134768" lon="31.2305956" version="4" timestamp="2024-04-15T18:30:04Z" changeset="150053268" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Shaka's Rock"/>
@@ -2931,14 +2968,14 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 996075442"/>
   </node>
-  <node id="12332587536" lat="-22.8264880" lon="-45.6642091" version="2" timestamp="2024-11-12T21:22:14Z" changeset="159068889" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12332587536" lat="-22.8264880" lon="-45.6642091" version="3" timestamp="2025-01-25T20:26:33Z" changeset="161760209" uid="22376515" user="wired4ncer">
     <tag k="addr:city" v="Santo Antonio do Pinhal"/>
     <tag k="addr:housenumber" v="335"/>
     <tag k="addr:postcode" v="12450000"/>
     <tag k="addr:street" v="Rua Mário Machado"/>
     <tag k="addr:suburb" v="Centro"/>
-    <tag k="check_date:currency:XBT" v="2024-11-12"/>
-    <tag k="currency:XBT" v="yes"/>
+    <tag k="check_date:currency:XBT" v="2025-01-25"/>
+    <tag k="currency:XBT" v="no"/>
     <tag k="description" v="Hospedaria"/>
     <tag k="email" v="jmpinhal@yahoo.com.br"/>
     <tag k="name" v="Pousada Pinhalense"/>
@@ -4413,28 +4450,6 @@
     <tag k="shop" v="interior_decoration"/>
     <tag k="website" v="www.23interiors.co.za"/>
   </node>
-  <node id="12529886874" lat="-22.8334952" lon="-45.6693907" version="1" timestamp="2025-01-24T19:19:45Z" changeset="161725211" uid="22025649" user="Bitcoin Amantikir">
-    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
-    <tag k="addr:housenumber" v="1060"/>
-    <tag k="addr:postcode" v="12450-000,"/>
-    <tag k="addr:street" v="Dr Lourenço de Sa"/>
-    <tag k="addr:suburb" v="Sertãozinho"/>
-    <tag k="brand" v="Marcio Franco"/>
-    <tag k="check_date:currency:XBT" v="2025-01-24"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="adm@hoteisreserva.com.br"/>
-    <tag k="name" v="Reserva Santo Antonio do Pinhal"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lightin" v="yes"/>
-    <tag k="phone" v="+55 11 934156466"/>
-    <tag k="tourism" v="hotel"/>
-    <tag k="website" v="www.reservasantoantonio.com.br"/>
-  </node>
   <node id="12529901975" lat="-22.8213326" lon="-45.6777110" version="1" timestamp="2025-01-24T19:05:11Z" changeset="161724841" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antônio do Pinhal"/>
     <tag k="addr:housenumber" v="383"/>
@@ -4457,49 +4472,6 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+55 12 997049931"/>
     <tag k="shop" v="hardware"/>
-  </node>
-  <node id="12529946488" lat="-22.8335391" lon="-45.6694345" version="1" timestamp="2025-01-24T19:27:06Z" changeset="161725415" uid="22025649" user="Bitcoin Amantikir">
-    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
-    <tag k="addr:housenumber" v="1060"/>
-    <tag k="addr:postcode" v="12450-000,"/>
-    <tag k="addr:street" v="Dr. Lourenço de Sá"/>
-    <tag k="addr:suburb" v="Sertãozinho"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="check_date:currency:XBT" v="2025-01-24"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Estamos situados num Vale totalmente integrado a natureza, com uma vista mágica para a Mantiqueira e em especial para a Pedra do Baú. Vale a pena tirar um tempinho para apreciar a vista e se reconectar. Além de cafés especiais que foram escolhidos a dedo,"/>
-    <tag k="email" v="saint.coffe01@gmail.com"/>
-    <tag k="name" v="Saint Coffee Mantiqueira"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coinos" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lighting" v="yes"/>
-    <tag k="phone" v="+55 12 997262315"/>
-    <tag k="website" v="https://www.instagram.com/saintcoffeemantiqueira?igsh=MWc2dHYwdGdtcHl0bg%3D%3D&amp;utm_source=qr"/>
-  </node>
-  <node id="12529956147" lat="-22.8246572" lon="-45.6681139" version="1" timestamp="2025-01-24T19:33:38Z" changeset="161725633" uid="22025649" user="Bitcoin Amantikir">
-    <tag k="addr:city" v="Santo Antonio do pinhal"/>
-    <tag k="addr:housenumber" v="615"/>
-    <tag k="addr:postcode" v="12450000"/>
-    <tag k="addr:street" v="Avenida Ministro Nelson Hungria"/>
-    <tag k="addr:suburb" v="Centro"/>
-    <tag k="check_date:currency:XBT" v="2025-01-24"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="A Alto da Mantiqueira Marketing tem como missão ajudar empresas a se destacarem no ambiente digital. Nosso foco está no gerenciamento estratégico e na criação de conteúdo criativo e personalizado para redes sociais, garantindo que a sua marca ganhe visibi"/>
-    <tag k="email" v="matheusdionisio27@hotmail.com"/>
-    <tag k="name" v="Alto da Mantiqueira - Marketing"/>
-    <tag k="office" v="advertising_agency"/>
-    <tag k="opening_hours" v="MO-FR 08:00-17:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coinos" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lighting" v="yes"/>
-    <tag k="phone" v="+55 12 991745203"/>
   </node>
 
 </osm>
