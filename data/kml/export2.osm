@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-28T05:26:57Z"/>
+<meta osm_base="2025-01-29T05:26:48Z"/>
 
   <node id="271980866" lat="48.1537956" lon="17.1741877" version="4" timestamp="2025-01-25T12:41:36Z" changeset="161744202" uid="22394492" user="Robin Bird">
     <tag k="addr:city" v="Bratislava"/>
@@ -327,6 +327,26 @@
     <tag k="phone" v="+48509122806"/>
     <tag k="survey:date" v="2024-09-23"/>
     <tag k="website" v="https://gabinetpsychiatra.pl"/>
+  </node>
+  <node id="8895322727" lat="45.8833810" lon="13.8920013" version="2" timestamp="2025-01-28T15:11:03Z" changeset="161861468" uid="22434459" user="Gian0x">
+    <tag k="addr:city" v="Ajdovscina"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="5270"/>
+    <tag k="addr:street" v="Mirce"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Bistro LUFT"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-14:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="040 166 932"/>
+    <tag k="survey:date" v="2025-01-28"/>
+    <tag k="website" v="https://www.facebook.com/bistroluft/"/>
   </node>
   <node id="9550218139" lat="-23.5786718" lon="-46.6624591" version="3" timestamp="2025-01-22T19:10:32Z" changeset="161649931" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="São Paulo"/>
