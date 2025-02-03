@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-02T05:26:23Z"/>
+<meta osm_base="2025-02-03T05:27:58Z"/>
 
   <node id="271980866" lat="48.1537956" lon="17.1741877" version="4" timestamp="2025-01-25T12:41:36Z" changeset="161744202" uid="22394492" user="Robin Bird">
     <tag k="addr:city" v="Bratislava"/>
@@ -407,6 +407,30 @@
     <tag k="survey:date" v="2025-01-21"/>
     <tag k="website" v="https://www.atacadosuplemento.com.br/"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="9900625731" lat="12.9030088" lon="100.8711272" version="7" timestamp="2025-02-02T21:15:43Z" changeset="162063407" uid="164424" user="rife">
+    <tag k="addr:city" v="Pattaya"/>
+    <tag k="addr:housenumber" v="315/170-171"/>
+    <tag k="addr:postcode" v="20150"/>
+    <tag k="addr:street" v="Thappraya Road"/>
+    <tag k="description" v="Experienced psychotherapist, couple therapist and sex therapist R.L.Fellner provides professional counseling and coaching in English and German languages. NO WALK-IN'S, please arrange appointments by phone or email first."/>
+    <tag k="healthcare" v="counselling"/>
+    <tag k="healthcare:speciality" v="counseling;psychotherapy;sex_therapy;couple_therapy;marriage_counseling;counselling;psychotherapist;counselor"/>
+    <tag k="name" v="Counseling Center Pattaya"/>
+    <tag k="note" v="Office open in View Talay 2A building whenever we are in Pattaya. Please inquire by email (see contact form link above) if &amp; when we are available.&#x0a;No walk-in's.&#x0a;ONLINE consultations/sessions available at all times, see our website."/>
+    <tag k="opening_hours" v="&quot;by appointment only&quot;"/>
+    <tag k="operator" v="Counseling Center Pattaya"/>
+    <tag k="payment:bank_deposits" v="yes"/>
+    <tag k="payment:bank_transfer" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:monero" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:qr_pay" v="yes"/>
+    <tag k="phone" v="+66854370470"/>
+    <tag k="website" v="https://www.counseling-office.com/counseling-center-thailand.phtml"/>
   </node>
   <node id="10103488116" lat="-29.7330435" lon="31.0830025" version="5" timestamp="2024-11-13T19:23:50Z" changeset="159104434" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Umhlanga"/>
@@ -4523,35 +4547,6 @@
     <tag k="phone" v="+55 12 992475222"/>
     <tag k="shop" v="electrical"/>
   </node>
-  <node id="12548054548" lat="-29.1162264" lon="-51.1321668" version="4" timestamp="2025-02-01T23:35:23Z" changeset="162029643" uid="22447453" user="MarfecEletricaAutomotiva">
-    <tag k="addr:city" v="Caxias do Sul"/>
-    <tag k="addr:housenumber" v="1504"/>
-    <tag k="addr:postcode" v="95059590"/>
-    <tag k="addr:street" v="Rua Noralina Julieta Ribeiro da Silva"/>
-    <tag k="addr:suburb" v="Serrano"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Elétrica Automotiva e Ar condicionado"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Marfec Eletrica Automotiva LTDA"/>
-    <tag k="opening_hours" v="08:00-18-00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:pix" v="yes"/>
-    <tag k="phone" v="5554992739290"/>
-    <tag k="service:vehicle:alternador" v="yes"/>
-    <tag k="service:vehicle:ar_condicionado" v="yes"/>
-    <tag k="service:vehicle:elétrica" v="yes"/>
-    <tag k="service:vehicle:higienização" v="yes"/>
-    <tag k="service:vehicle:motor_de_partida" v="yes"/>
-    <tag k="shop" v="car_repair"/>
-    <tag k="toilets" v="yes"/>
-    <tag k="website" v="https://www.instagram.com/marfecbrasiloficial?igsh=MTZmNHZwOWhwaG0xYQ=="/>
-  </node>
   <node id="12550411358" lat="-22.6612331" lon="-46.5998646" version="5" timestamp="2025-02-02T03:38:02Z" changeset="162032972" uid="22450092" user="Recanto Rancho do Peixe">
     <tag k="addr:city" v="Socorro"/>
     <tag k="addr:street" v="Estr. Mun. do Oratório, 13574-13596"/>
@@ -4573,6 +4568,42 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+55 19 99115-7873"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12551615530" lat="45.4836362" lon="9.2424284" version="4" timestamp="2025-02-02T23:33:37Z" changeset="162066418" uid="22435069" user="eengelmann">
+    <tag k="addr:city" v="Milano"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:street" v="Via Conte Rosso"/>
+    <tag k="check_date" v="2025-01-29"/>
+    <tag k="check_date:currency:XBT" v="2025-01-29"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Very welcoming place where you can taste good wines and various snacks such as cold cuts, veal with tuna sauce, paté etc..."/>
+    <tag k="name" v="Tuttaltrosuono e il vino"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="02 546 5924"/>
+    <tag k="postal_code" v="20134"/>
+    <tag k="shop" v="wine"/>
+    <tag k="website" v="http://www.tuttaltrosuono.it/"/>
+  </node>
+  <node id="12552133706" lat="32.7479032" lon="-117.1338420" version="1" timestamp="2025-02-02T19:31:56Z" changeset="162060158" uid="544235" user="cuzi">
+    <tag k="facebook" v="https://www.facebook.com/redideostudio"/>
+    <tag k="name" v="Redideo Studio"/>
+    <tag k="office" v="advertising_agency"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-17:00; Sa 08:00-12:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+1 858 8591289"/>
+    <tag k="website" v="https://redideostudio.com/"/>
   </node>
 
 </osm>
