@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-03T05:27:58Z"/>
+<meta osm_base="2025-02-04T05:27:44Z"/>
 
   <node id="271980866" lat="48.1537956" lon="17.1741877" version="4" timestamp="2025-01-25T12:41:36Z" changeset="161744202" uid="22394492" user="Robin Bird">
     <tag k="addr:city" v="Bratislava"/>
@@ -4569,7 +4569,7 @@
     <tag k="phone" v="+55 19 99115-7873"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12551615530" lat="45.4836362" lon="9.2424284" version="4" timestamp="2025-02-02T23:33:37Z" changeset="162066418" uid="22435069" user="eengelmann">
+  <node id="12551615530" lat="45.4836362" lon="9.2424284" version="5" timestamp="2025-02-03T07:53:39Z" changeset="162073956" uid="175882" user="MarcoR">
     <tag k="addr:city" v="Milano"/>
     <tag k="addr:housenumber" v="23"/>
     <tag k="addr:street" v="Via Conte Rosso"/>
@@ -4586,7 +4586,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="02 546 5924"/>
+    <tag k="phone" v="+39 02 546 5924"/>
     <tag k="postal_code" v="20134"/>
     <tag k="shop" v="wine"/>
     <tag k="website" v="http://www.tuttaltrosuono.it/"/>
@@ -4604,6 +4604,21 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+1 858 8591289"/>
     <tag k="website" v="https://redideostudio.com/"/>
+  </node>
+  <node id="12554812404" lat="-22.9552736" lon="-46.9998959" version="3" timestamp="2025-02-03T22:25:52Z" changeset="162104451" uid="22455549" user="JCI Esquadrias de Aluminio">
+    <tag k="addr:city" v="Valinhos"/>
+    <tag k="addr:housenumber" v="920"/>
+    <tag k="addr:postcode" v="13272-300"/>
+    <tag k="addr:street" v="Rua Elso Previtale"/>
+    <tag k="addr:suburb" v="Jardim Alto da Colina"/>
+    <tag k="craft" v="window_construction"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="JCI Esquadrias de Alumínio"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="55 19 97147-5055"/>
   </node>
 
 </osm>
