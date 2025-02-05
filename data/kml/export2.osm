@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-04T05:27:44Z"/>
+<meta osm_base="2025-02-05T05:29:28Z"/>
 
   <node id="271980866" lat="48.1537956" lon="17.1741877" version="4" timestamp="2025-01-25T12:41:36Z" changeset="161744202" uid="22394492" user="Robin Bird">
     <tag k="addr:city" v="Bratislava"/>
@@ -4619,6 +4619,49 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="55 19 97147-5055"/>
+  </node>
+  <node id="12556792180" lat="-22.8254284" lon="-45.6655993" version="1" timestamp="2025-02-04T16:22:06Z" changeset="162132901" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
+    <tag k="addr:housenumber" v="446"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Avenida Ministro Nelson Hungria"/>
+    <tag k="addr:suburb" v="centro"/>
+    <tag k="check_date:currency:XBT" v="2025-02-04"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="Pgabriel.ssoliv@gmail.com"/>
+    <tag k="name" v="Padaria Pão da Serra"/>
+    <tag k="opening_hours" v="MO-MO 06:00-21:00"/>
+    <tag k="operator" v="Pedro Gabriel Santos de Oliveira"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 996263900"/>
+    <tag k="shop" v="bakery"/>
+  </node>
+  <node id="12556819508" lat="-22.6850520" lon="-45.7313123" version="1" timestamp="2025-02-04T16:14:42Z" changeset="162132576" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="São Bento do Sapucaí"/>
+    <tag k="addr:housenumber" v="173"/>
+    <tag k="addr:postcode" v="12490-000"/>
+    <tag k="addr:street" v="Rua Abade Predoso"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2025-02-04"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="ecosss.ad@gmail.com"/>
+    <tag k="name" v="Ecosss"/>
+    <tag k="opening_hours" v="WE-Sa 09:00-18:00"/>
+    <tag k="operator" v="Rodrigo Prieto Mariano"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="12 988325044"/>
+    <tag k="shop" v="art"/>
+    <tag k="website" v="www.ecosdanatureza.com.br"/>
   </node>
 
 </osm>
