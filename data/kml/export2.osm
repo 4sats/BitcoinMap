@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-06T05:30:16Z"/>
+<meta osm_base="2025-02-07T05:28:27Z"/>
 
   <node id="271980866" lat="48.1537956" lon="17.1741877" version="4" timestamp="2025-01-25T12:41:36Z" changeset="161744202" uid="22394492" user="Robin Bird">
     <tag k="addr:city" v="Bratislava"/>
@@ -548,6 +548,85 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 99607-7163"/>
     <tag k="website" v="https://senhorasobremesa.com.br/"/>
+  </node>
+  <node id="11235476026" lat="-27.4445306" lon="-48.4942131" version="4" timestamp="2025-02-06T22:25:48Z" changeset="162225301" uid="21743672" user="FloripaCoin">
+    <tag k="addr:city" v="Florianópolis"/>
+    <tag k="addr:street" v="Rua das Algas 733"/>
+    <tag k="addr:suburb" v="Jurerê"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date:currency:XBT" v="2023-11-26"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="R. das Algas, 733 - loja 01 - Jurerê, Florianópolis - SC, 88053-505, Brasil"/>
+    <tag k="name" v="Otto Café &amp; Prosa"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55(48)8861-6695"/>
+  </node>
+  <node id="11541047983" lat="-27.5961293" lon="-48.5471658" version="2" timestamp="2025-02-06T21:11:41Z" changeset="162223440" uid="21743672" user="FloripaCoin">
+    <tag k="addr:city" v="Florianópolis"/>
+    <tag k="addr:housenumber" v="119/1007"/>
+    <tag k="addr:postcode" v="88105-220"/>
+    <tag k="addr:street" v="Rua Araújo Figueiredo"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="check_date" v="2025-02-06"/>
+    <tag k="contact:email" v="gibrankg@gmail.com"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="healthcare:speciality" v="orthodontics;dentistry"/>
+    <tag k="name" v="Consultório Odontológico Gibran Guimarães"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 48 9960 85756"/>
+  </node>
+  <node id="11700772883" lat="-27.5786366" lon="-48.5111392" version="4" timestamp="2025-02-06T22:05:37Z" changeset="162224895" uid="21743672" user="FloripaCoin">
+    <tag k="addr:city" v="Florianópolis"/>
+    <tag k="addr:housenumber" v="20, ap 106A"/>
+    <tag k="addr:postcode" v="88034-050"/>
+    <tag k="addr:street" v="Rua Professor Ayrton Roberto de Oliveira"/>
+    <tag k="addr:suburb" v="Itacorubi"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="check_date" v="2025-02-06"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Endereço referente aos atendimentos online. Presencialmente, na Nova Psiquiatria, procurando por dr. Rayli."/>
+    <tag k="email" v="drraylisales@gmail.com"/>
+    <tag k="healthcare" v="doctor"/>
+    <tag k="healthcare:speciality" v="psychiatry"/>
+    <tag k="image" v="https://s3-sa-east-1.amazonaws.com/doctoralia.com.br/doctor/8277f7/8277f790fcc88312af6da929a11914e8_large.jpg"/>
+    <tag k="mobile" v="+55 48 9127-6124 - apenas WhatsApp"/>
+    <tag k="name" v="dr. Rayli - médico psiquiatra - atendimento online"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00"/>
+    <tag k="operator" v="dr. Rayli"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:pix" v="yes"/>
+    <tag k="survey:date" v="2024-03-07"/>
+    <tag k="website" v="https://www.doctoralia.com.br/rayli-sales/"/>
+  </node>
+  <node id="11732307384" lat="-27.5963788" lon="-48.5209381" version="3" timestamp="2025-02-06T21:59:23Z" changeset="162224736" uid="21743672" user="FloripaCoin">
+    <tag k="addr:city" v="Florianópolis"/>
+    <tag k="addr:housenumber" v="2010. Sala 405, torre A."/>
+    <tag k="addr:postcode" v="88036-002"/>
+    <tag k="addr:street" v="Rua Lauro Linhares"/>
+    <tag k="addr:suburb" v="Trindade"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="contact:whatsapp" v="5548991633516"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="healthcare:speciality" v="implantodontia;prótese_dentária;clareamento_dental;tratamento_de_canal;extração_de_siso;facetas_de_porcelana;facetas_de_resina;coroas_de_porcelana;prótese_protocolo;profilaxia_dental"/>
+    <tag k="mobile" v="+55 48 991633516"/>
+    <tag k="name" v="Centro Odontológico Focos"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 48 3222 0061"/>
+    <tag k="survey:date" v="2024-03-14"/>
+    <tag k="website" v="https://focosodontologia.com.br/"/>
   </node>
   <node id="11739971034" lat="-22.7359223" lon="-47.6534094" version="7" timestamp="2025-02-01T14:33:46Z" changeset="162013141" uid="1799626" user="AjBelnuovo">
     <tag k="addr:city" v="Piracicaba"/>
@@ -3302,7 +3381,7 @@
     <tag k="shop" v="general"/>
     <tag k="store" v="شیرآلات چدنی"/>
   </node>
-  <node id="12356673718" lat="-27.4455461" lon="-48.3980888" version="7" timestamp="2025-02-05T12:06:31Z" changeset="162162532" uid="21743672" user="FloripaCoin">
+  <node id="12356673718" lat="-27.4455461" lon="-48.3980888" version="8" timestamp="2025-02-06T20:17:08Z" changeset="162221780" uid="21743672" user="FloripaCoin">
     <tag k="addr:city" v="Florianópolis - SC"/>
     <tag k="addr:housenumber" v="745"/>
     <tag k="addr:postcode" v="88058-400"/>
@@ -3312,8 +3391,9 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+5548 99617-4297"/>
+    <tag k="service:vehicle:repairs" v="yes"/>
     <tag k="shop" v="motorcycle_repair"/>
-    <tag k="survey:date" v="2024-12-01"/>
+    <tag k="survey:date" v="2025-02-04"/>
   </node>
   <node id="12357206892" lat="22.3381947" lon="114.1469596" version="2" timestamp="2024-11-20T03:54:22Z" changeset="159349920" uid="22198693" user="Trudeaupotato">
     <tag k="addr:city" v="九龍荔枝角Kowloon, Lai Chi Kok"/>
@@ -4653,6 +4733,48 @@
     <tag k="shop" v="garden_centre"/>
     <tag k="website" v="http://fujibonsai.com.br/"/>
   </node>
+  <node id="12559521844" lat="10.4451488" lon="-85.7662379" version="2" timestamp="2025-02-06T16:30:45Z" changeset="162215115" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="sushi"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Cobak Sushi"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="12559529273" lat="10.3828399" lon="-85.7881183" version="3" timestamp="2025-02-06T16:28:40Z" changeset="162215041" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="craft" v="brewery"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Brothers of Ale"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="product" v="beer;food"/>
+  </node>
+  <node id="12559541314" lat="10.4218507" lon="-85.7850663" version="2" timestamp="2025-02-06T16:29:34Z" changeset="162215069" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Flamingo Cowork &amp; Connect"/>
+    <tag k="office" v="coworking"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-19:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+  </node>
   <node id="12560103479" lat="-22.8250253" lon="-45.6670410" version="1" timestamp="2025-02-05T21:45:27Z" changeset="162184465" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antonio do pinhal"/>
     <tag k="addr:housenumber" v="569"/>
@@ -4673,6 +4795,37 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 996393409"/>
+  </node>
+  <node id="12563279714" lat="10.3084548" lon="-85.8311911" version="2" timestamp="2025-02-06T16:27:37Z" changeset="162215005" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="empanada;burger"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Chop House"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="12563316677" lat="10.4472034" lon="-85.7728511" version="1" timestamp="2025-02-06T16:38:48Z" changeset="162215380" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Marjorie Massotherapy"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+50689006300"/>
+    <tag k="shop" v="massage"/>
+  </node>
+  <node id="12563321486" lat="10.4392128" lon="-85.7893029" version="1" timestamp="2025-02-06T16:40:52Z" changeset="162215441" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Ricardo Castro Personal Training"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="sport" v="fitness"/>
   </node>
 
 </osm>
