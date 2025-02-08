@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-07T05:28:27Z"/>
+<meta osm_base="2025-02-08T05:26:21Z"/>
 
   <node id="271980866" lat="48.1537956" lon="17.1741877" version="4" timestamp="2025-01-25T12:41:36Z" changeset="161744202" uid="22394492" user="Robin Bird">
     <tag k="addr:city" v="Bratislava"/>
@@ -607,7 +607,7 @@
     <tag k="survey:date" v="2024-03-07"/>
     <tag k="website" v="https://www.doctoralia.com.br/rayli-sales/"/>
   </node>
-  <node id="11732307384" lat="-27.5963788" lon="-48.5209381" version="3" timestamp="2025-02-06T21:59:23Z" changeset="162224736" uid="21743672" user="FloripaCoin">
+  <node id="11732307384" lat="-27.5963788" lon="-48.5209381" version="4" timestamp="2025-02-07T21:58:45Z" changeset="162262427" uid="21743672" user="FloripaCoin">
     <tag k="addr:city" v="Florianópolis"/>
     <tag k="addr:housenumber" v="2010. Sala 405, torre A."/>
     <tag k="addr:postcode" v="88036-002"/>
@@ -626,6 +626,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 48 3222 0061"/>
     <tag k="survey:date" v="2024-03-14"/>
+    <tag k="survey_date" v="2025-02-07"/>
     <tag k="website" v="https://focosodontologia.com.br/"/>
   </node>
   <node id="11739971034" lat="-22.7359223" lon="-47.6534094" version="7" timestamp="2025-02-01T14:33:46Z" changeset="162013141" uid="1799626" user="AjBelnuovo">
@@ -4826,6 +4827,73 @@
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="sport" v="fitness"/>
+  </node>
+  <node id="12564120825" lat="37.1298309" lon="-8.7851289" version="3" timestamp="2025-02-07T17:58:07Z" changeset="162255529" uid="7522075" user="Rockedf">
+    <tag k="camp_site" v="standard"/>
+    <tag k="caravans" v="yes"/>
+    <tag k="check_date" v="2025-02-06"/>
+    <tag k="check_date:currency:XBT" v="2025-02-07"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="dog" v="leashed"/>
+    <tag k="drinking_water" v="yes"/>
+    <tag k="email" v="contact@stateofbeing.nl"/>
+    <tag k="fee" v="yes"/>
+    <tag k="name" v="State Of Being"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="picnic_table" v="yes"/>
+    <tag k="static_caravans" v="yes"/>
+    <tag k="tents" v="yes"/>
+    <tag k="tourism" v="camp_site"/>
+    <tag k="website" v="https://stateofbeing.nl/"/>
+  </node>
+  <node id="12566605222" lat="-12.9304210" lon="-38.3227104" version="1" timestamp="2025-02-08T00:37:57Z" changeset="162265238" uid="22473702" user="Gugas Tabacaria">
+    <tag k="addr:city" v="Salvador"/>
+    <tag k="addr:housenumber" v="Qd 12, Lt 5"/>
+    <tag k="addr:postcode" v="41603-090"/>
+    <tag k="addr:street" v="Rua Professor Antônio Augusto Machado"/>
+    <tag k="addr:suburb" v="Praia do Flamengo"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Guga's Tabacria e Headshop"/>
+    <tag k="opening_hours" v="Segunda a Sábado 14:00 - 22:00"/>
+    <tag k="operator" v="Guga"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:pix" v="yes"/>
+    <tag k="phone" v="+55 71 98182-48"/>
+    <tag k="shop" v="tobacco"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12566708429" lat="45.8431057" lon="-73.4284677" version="3" timestamp="2025-02-08T04:05:51Z" changeset="162267503" uid="22473884" user="Alex-Solide">
+    <tag k="addr:city" v="L'Assomption"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:postcode" v="J5W 4N9"/>
+    <tag k="addr:province" v="Quebec"/>
+    <tag k="addr:street" v="Boulevard Turgeon"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Piscinesolide/"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Vente et installation de piscine Hors-Terre, Montréal, Laval et RIVE-NORD"/>
+    <tag k="email" v="info@piscinesolide.com"/>
+    <tag k="image" v="https://www.facebook.com/Piscinesolide/photos"/>
+    <tag k="name" v="PISCINE SOLIDE"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="operator" v="Piscine Solide"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:financement" v="yes"/>
+    <tag k="payment:interac" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="1-800-808-0499"/>
+    <tag k="shop" v="swimming_pool"/>
+    <tag k="survey:date" v="2025-02-06"/>
+    <tag k="website" v="www.piscinesolide.com"/>
   </node>
 
 </osm>
