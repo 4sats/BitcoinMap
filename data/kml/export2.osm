@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-08T05:26:21Z"/>
+<meta osm_base="2025-02-09T05:26:51Z"/>
 
   <node id="271980866" lat="48.1537956" lon="17.1741877" version="4" timestamp="2025-01-25T12:41:36Z" changeset="161744202" uid="22394492" user="Robin Bird">
     <tag k="addr:city" v="Bratislava"/>
@@ -4849,32 +4849,32 @@
     <tag k="tourism" v="camp_site"/>
     <tag k="website" v="https://stateofbeing.nl/"/>
   </node>
-  <node id="12566605222" lat="-12.9304210" lon="-38.3227104" version="1" timestamp="2025-02-08T00:37:57Z" changeset="162265238" uid="22473702" user="Gugas Tabacaria">
+  <node id="12566605222" lat="-12.9304210" lon="-38.3227104" version="3" timestamp="2025-02-08T22:40:05Z" changeset="162296922" uid="22473702" user="Gugas Tabacaria">
     <tag k="addr:city" v="Salvador"/>
     <tag k="addr:housenumber" v="Qd 12, Lt 5"/>
     <tag k="addr:postcode" v="41603-090"/>
     <tag k="addr:street" v="Rua Professor Antônio Augusto Machado"/>
     <tag k="addr:suburb" v="Praia do Flamengo"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Guga's Tabacria e Headshop"/>
     <tag k="opening_hours" v="Segunda a Sábado 14:00 - 22:00"/>
     <tag k="operator" v="Guga"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:pix" v="yes"/>
-    <tag k="phone" v="+55 71 98182-48"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 71 981824818"/>
     <tag k="shop" v="tobacco"/>
     <tag k="toilets" v="yes"/>
+    <tag k="website" v="https://linktr.ee/gugastabacaria"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12566708429" lat="45.8431057" lon="-73.4284677" version="3" timestamp="2025-02-08T04:05:51Z" changeset="162267503" uid="22473884" user="Alex-Solide">
+  <node id="12566708429" lat="45.8431057" lon="-73.4284677" version="4" timestamp="2025-02-08T13:08:04Z" changeset="162278901" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="L'Assomption"/>
     <tag k="addr:housenumber" v="118"/>
     <tag k="addr:postcode" v="J5W 4N9"/>
     <tag k="addr:province" v="Quebec"/>
     <tag k="addr:street" v="Boulevard Turgeon"/>
+    <tag k="check_date:currency:XBT" v="2025-02-08"/>
     <tag k="contact:facebook" v="https://www.facebook.com/Piscinesolide/"/>
     <tag k="currency:BTC" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
