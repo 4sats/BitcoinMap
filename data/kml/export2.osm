@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-09T05:26:51Z"/>
+<meta osm_base="2025-02-10T05:28:25Z"/>
 
   <node id="271980866" lat="48.1537956" lon="17.1741877" version="4" timestamp="2025-01-25T12:41:36Z" changeset="161744202" uid="22394492" user="Robin Bird">
     <tag k="addr:city" v="Bratislava"/>
@@ -4868,14 +4868,14 @@
     <tag k="website" v="https://linktr.ee/gugastabacaria"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12566708429" lat="45.8431057" lon="-73.4284677" version="4" timestamp="2025-02-08T13:08:04Z" changeset="162278901" uid="7522075" user="Rockedf">
+  <node id="12566708429" lat="45.8431057" lon="-73.4284677" version="6" timestamp="2025-02-09T18:48:21Z" changeset="162325167" uid="616774" user="mueschel">
     <tag k="addr:city" v="L'Assomption"/>
     <tag k="addr:housenumber" v="118"/>
     <tag k="addr:postcode" v="J5W 4N9"/>
     <tag k="addr:province" v="Quebec"/>
     <tag k="addr:street" v="Boulevard Turgeon"/>
     <tag k="check_date:currency:XBT" v="2025-02-08"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/Piscinesolide/"/>
+    <tag k="contact:facebook" v="Piscinesolide"/>
     <tag k="currency:BTC" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="Vente et installation de piscine Hors-Terre, Montréal, Laval et RIVE-NORD"/>
@@ -4886,8 +4886,9 @@
     <tag k="operator" v="Piscine Solide"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:financement" v="yes"/>
+    <tag k="payment:financing" v="yes"/>
     <tag k="payment:interac" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="1-800-808-0499"/>
