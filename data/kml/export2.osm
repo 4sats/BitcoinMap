@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-12T05:28:05Z"/>
+<meta osm_base="2025-02-13T05:28:10Z"/>
 
   <node id="271980866" lat="48.1537956" lon="17.1741877" version="4" timestamp="2025-01-25T12:41:36Z" changeset="161744202" uid="22394492" user="Robin Bird">
     <tag k="addr:city" v="Bratislava"/>
@@ -4206,7 +4206,7 @@
     <tag k="survey:date" v="2025-01-10"/>
     <tag k="website" v="https://ladodeforawear.com.br/"/>
   </node>
-  <node id="12496332631" lat="-28.5232336" lon="-49.3229071" version="7" timestamp="2025-01-21T13:42:08Z" changeset="161601166" uid="9451067" user="b-jazz-bot">
+  <node id="12496332631" lat="-28.5232336" lon="-49.3229071" version="8" timestamp="2025-02-12T15:17:22Z" changeset="162434425" uid="22375642" user="Davi BTC">
     <tag k="addr:city" v="Urussanga"/>
     <tag k="addr:housenumber" v="170"/>
     <tag k="addr:postcode" v="88840-000"/>
@@ -4217,6 +4217,7 @@
     <tag k="currency:XBT" v="yes"/>
     <tag k="healthcare" v="dentist"/>
     <tag k="healthcare:speciality" v="dentist;orthodontics;implantology;paediatrics;periodontia;dental_oral_maxillo_facial_surgery;invisalign;harmonização_facial"/>
+    <tag k="instagram" v="https://www.instagram.com/drafabiolazanin"/>
     <tag k="name" v="Consultório odontológico Dra Fabiola Zanin"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -4279,7 +4280,24 @@
     <tag k="phone" v="047 99776-4266"/>
     <tag k="shop" v="hairdresser"/>
   </node>
-  <node id="12499344131" lat="-26.9528373" lon="-48.6401879" version="3" timestamp="2025-01-15T22:22:54Z" changeset="161397744" uid="22375642" user="Davi BTC">
+  <node id="12499328642" lat="-26.9976249" lon="-48.6280425" version="5" timestamp="2025-02-12T15:15:28Z" changeset="162434357" uid="22375642" user="Davi BTC">
+    <tag k="addr:city" v="Balneário Camboriú"/>
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:postcode" v="88330-334"/>
+    <tag k="addr:street" v="Rua 2950"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="check_date:currency:XBT" v="2025-01-16"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="healthcare:speciality" v="tratamento_do_ronco;orthodontics;invisalign;clinica_geral;botox;preenchimento_labial"/>
+    <tag k="instagram" v="https://www.instagram.com/drafabiolazanin"/>
+    <tag k="name" v="Dra Fabiola Zanin - Dentista"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="047 3367-8941"/>
+  </node>
+  <node id="12499344131" lat="-26.9528373" lon="-48.6401879" version="4" timestamp="2025-02-12T15:13:57Z" changeset="162434306" uid="22375642" user="Davi BTC">
     <tag k="addr:city" v="Itajaí"/>
     <tag k="addr:housenumber" v="3281, sala 1510"/>
     <tag k="addr:postcode" v="88336-773"/>
@@ -4289,6 +4307,7 @@
     <tag k="currency:XBT" v="yes"/>
     <tag k="healthcare" v="dentist"/>
     <tag k="healthcare:speciality" v="tratamento_do_ronco;orthodontics;invisalign;clinica_geral;botox;preenchimento_labial"/>
+    <tag k="instagram" v="https://www.instagram.com/drafabiolazanin"/>
     <tag k="name" v="Dra Fabiola Zanin - Dentista"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
@@ -5017,12 +5036,13 @@
     <tag k="phone" v="047 32415555"/>
     <tag k="website" v="https://icrdiagnostico.com.br/"/>
   </node>
-  <node id="12580438547" lat="-26.9929146" lon="-48.6361428" version="1" timestamp="2025-02-11T23:11:06Z" changeset="162410160" uid="22375642" user="Davi BTC">
+  <node id="12580438547" lat="-26.9929146" lon="-48.6361428" version="2" timestamp="2025-02-12T13:25:30Z" changeset="162430156" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="Balneário Camboriú"/>
     <tag k="addr:housenumber" v="710, sala 01"/>
     <tag k="addr:postcode" v="88330-524"/>
     <tag k="addr:street" v="Rua 1500"/>
     <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2025-02-12"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="mobile" v="047 999252282"/>
     <tag k="name" v="Extreme Body Suplementos Nutricionais"/>
@@ -5032,6 +5052,80 @@
     <tag k="phone" v="047 3366-8746"/>
     <tag k="shop" v="nutrition_supplements"/>
     <tag k="website" v="https://www.extremebody.com.br/"/>
+  </node>
+  <node id="12582319336" lat="-26.9114506" lon="-48.6593679" version="1" timestamp="2025-02-12T15:11:35Z" changeset="162434212" uid="22375642" user="Davi BTC">
+    <tag k="addr:city" v="Itajaí"/>
+    <tag k="addr:housenumber" v="1207, 12º andar, sala 121"/>
+    <tag k="addr:postcode" v="88301-302"/>
+    <tag k="addr:street" v="Avenida Coronel Marcos Konder"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="doctor"/>
+    <tag k="healthcare:speciality" v="dermatology"/>
+    <tag k="instagram" v="https://www.instagram.com/dra.anacarolinadermato"/>
+    <tag k="level" v="12"/>
+    <tag k="mobile" v="047 96001324"/>
+    <tag k="name" v="Clinica de Dermatologia Ana Carolina Duarte"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-11:00, 12:30-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="047 35150550"/>
+    <tag k="website" v="https://anacarolinadermatologia.com.br"/>
+  </node>
+  <node id="12583069344" lat="-22.7433114" lon="-45.6035324" version="1" timestamp="2025-02-12T20:58:38Z" changeset="162445166" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Campos do Jordao"/>
+    <tag k="addr:housenumber" v="03"/>
+    <tag k="addr:postcode" v="1245000"/>
+    <tag k="addr:street" v="Av frei Orestes girardi"/>
+    <tag k="addr:suburb" v="Fracalanza"/>
+    <tag k="check_date:currency:XBT" v="2025-02-12"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="guilhermecentofante83@gmail.com"/>
+    <tag k="name" v="Hotel Platanus"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 991517137"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.hotelplatanus.com"/>
+  </node>
+  <node id="12583154036" lat="-27.1377435" lon="-48.5963964" version="1" timestamp="2025-02-12T22:16:02Z" changeset="162447000" uid="22375642" user="Davi BTC">
+    <tag k="addr:city" v="Itapema"/>
+    <tag k="addr:housenumber" v="65"/>
+    <tag k="addr:postcode" v="88220-000"/>
+    <tag k="addr:street" v="Rua 296, sala 4 - Ed. Manhattan"/>
+    <tag k="addr:suburb" v="Meia Praia"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="instagram" v="https://www.instagram.com/lavanderiah2osec"/>
+    <tag k="mobile" v="047 99970-4636"/>
+    <tag k="name" v="H2O Sec Lavanderia Meia Praia"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-19:00 - sat 09:00-12:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="047 35171680"/>
+    <tag k="shop" v="laundry"/>
+    <tag k="website" v="https://h2osec.com.br"/>
+  </node>
+  <node id="12583175368" lat="-26.9902199" lon="-48.6352518" version="1" timestamp="2025-02-12T22:05:06Z" changeset="162446750" uid="22375642" user="Davi BTC">
+    <tag k="addr:city" v="Balneário Camboriú"/>
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:postcode" v="88330-590"/>
+    <tag k="addr:street" v="Rua 904"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="instagram" v="https://www.instagram.com/lavanderiah2osec"/>
+    <tag k="mobile" v="047 99640-1683"/>
+    <tag k="name" v="Lavanderia H2O Sec"/>
+    <tag k="opening_hours" v="Mo-Sa 08:30-18:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="047 3360-6988"/>
+    <tag k="shop" v="laundry"/>
+    <tag k="website" v="https://h2osec.com.br"/>
   </node>
 
 </osm>
