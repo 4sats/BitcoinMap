@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
+<osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-14T05:28:25Z"/>
+<meta osm_base="2025-02-15T05:28:01Z"/>
 
   <node id="271980866" lat="48.1537956" lon="17.1741877" version="4" timestamp="2025-01-25T12:41:36Z" changeset="161744202" uid="22394492" user="Robin Bird">
     <tag k="addr:city" v="Bratislava"/>
@@ -4886,7 +4886,7 @@
     <tag k="phone" v="+55 12 997730473"/>
     <tag k="shop" v="car_repair"/>
   </node>
-  <node id="12577062125" lat="-16.5149706" lon="-151.7366817" version="5" timestamp="2025-02-11T07:53:31Z" changeset="162379465" uid="22477108" user="Octobob">
+  <node id="12577062125" lat="-16.5149706" lon="-151.7366817" version="6" timestamp="2025-02-14T18:59:17Z" changeset="162514582" uid="22477108" user="Octobob">
     <tag k="addr:city" v="Vaitape"/>
     <tag k="addr:postcode" v="98730"/>
     <tag k="addr:street" v="Pago"/>
@@ -4907,6 +4907,7 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+689 87 26 92 81"/>
     <tag k="website" v="https://www.facebook.com/profile.php?id=100090040898008"/>
   </node>
@@ -5038,26 +5039,54 @@
     <tag k="shop" v="laundry"/>
     <tag k="website" v="https://h2osec.com.br"/>
   </node>
-  <node id="12586026389" lat="36.5196410" lon="-6.2858856" version="3" timestamp="2025-02-13T20:53:18Z" changeset="162480824" uid="22482951" user="Apartamento playa Santa Maria del Mar">
-    <tag k="addr:city" v="Cádiz"/>
-    <tag k="addr:housenumber" v="2"/>
-    <tag k="addr:postcode" v="11008"/>
-    <tag k="addr:street" v="Plaza de la Almudaina"/>
+  <node id="12587597833" lat="-23.6060029" lon="-46.4793681" version="1" timestamp="2025-02-14T13:32:17Z" changeset="162503617" uid="22498663" user="JoseElias">
+    <tag k="addr:city" v="São Paulo"/>
+    <tag k="addr:housenumber" v="2861"/>
+    <tag k="addr:postcode" v="03949-012"/>
+    <tag k="addr:street" v="Avenida Mateo Bei"/>
+    <tag k="addr:suburb" v="Cidade São Mateus"/>
+    <tag k="amenity" v="dentist"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="info@playasantamariacadiz.es"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="internet_access:fee" v="customers"/>
-    <tag k="name" v="Apartamento Playa Santa Maria del Mar"/>
+    <tag k="email" v="lealptais@gmail.com"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="healthcare:speciality" v="cirurgia_implantes;cirurgia_ortognática;sisos;dtm;ortodontia_aparelhos_fixos;ortodontia_aparelhos_invisíveis;clinico_geral;endodontia;harmonização"/>
+    <tag k="mobile" v="+5511991333352"/>
+    <tag k="name" v="Leal Clinic Odontologia"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-17:00"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="website" v="https://lealclinic.com.br"/>
+  </node>
+  <node id="12587702148" lat="-27.0269637" lon="-48.6549104" version="1" timestamp="2025-02-14T14:50:57Z" changeset="162506292" uid="22498663" user="JoseElias">
+    <tag k="addr:city" v="Camboriú"/>
+    <tag k="addr:housenumber" v="497"/>
+    <tag k="addr:postcode" v="88340206"/>
+    <tag k="addr:street" v="Avenida José Francisco Bernardes"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="lealptais@gmail.com"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="healthcare:speciality" v="implantes_dentários;cirurgia_ortognática;sisos;dtm;orthodontics;aparelho_fixo;aparelho_invisivel;clinico_geral;endodontia;harmonização"/>
+    <tag k="name" v="Leal Clinic Odontologia"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+5547996312283"/>
+    <tag k="website" v="https://lealclinic.com.br"/>
+  </node>
+  <node id="12588908992" lat="-16.5056337" lon="-151.7535152" version="2" timestamp="2025-02-15T04:41:58Z" changeset="162525217" uid="22477108" user="Octobob">
+    <tag k="addr:country" v="Bora Bora"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="facebook" v="https://www.facebook.com/borawellness"/>
+    <tag k="name" v="Bora Bora Wellness"/>
+    <tag k="note" v="Massage &amp; Yoga Bora Bora"/>
+    <tag k="object:city" v="Vaitape"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="phone" v="+34650292799"/>
-    <tag k="rooms" v="3"/>
-    <tag k="survey:date" v="2012-10-28"/>
-    <tag k="tourism" v="apartment"/>
-    <tag k="website" v="https://playasantamariacadiz.es"/>
+    <tag k="phone:mobile" v="+689 89 36 19 50"/>
   </node>
 
 </osm>
