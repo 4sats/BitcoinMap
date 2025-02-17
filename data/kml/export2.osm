@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-16T05:27:35Z"/>
+<meta osm_base="2025-02-17T05:29:34Z"/>
 
   <node id="271980866" lat="48.1537956" lon="17.1741877" version="4" timestamp="2025-01-25T12:41:36Z" changeset="161744202" uid="22394492" user="Robin Bird">
     <tag k="addr:city" v="Bratislava"/>
@@ -4694,7 +4694,7 @@
     <tag k="survey:date" v="2025-02-04"/>
     <tag k="survey_date" v="2025-02-11"/>
   </node>
-  <node id="12558808425" lat="-27.6436271" lon="-48.6989779" version="3" timestamp="2025-02-11T18:00:28Z" changeset="162401643" uid="21743672" user="FloripaCoin">
+  <node id="12558808425" lat="-27.6436271" lon="-48.6989779" version="4" timestamp="2025-02-16T09:47:50Z" changeset="162563708" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Palhoça - SC"/>
     <tag k="addr:housenumber" v="156"/>
     <tag k="addr:postcode" v="88131-270"/>
@@ -4707,7 +4707,7 @@
     <tag k="phone" v="+55(48)98403-6960"/>
     <tag k="shop" v="garden_centre"/>
     <tag k="survey:date" v="2025-02-11"/>
-    <tag k="website" v="http://fujibonsai.com.br/"/>
+    <tag k="website" v="https://fujibonsai.com.br/"/>
   </node>
   <node id="12559521844" lat="10.4451488" lon="-85.7662379" version="3" timestamp="2025-02-11T20:01:44Z" changeset="162405367" uid="10396321" user="saunter">
     <tag k="amenity" v="restaurant"/>
@@ -4763,12 +4763,13 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="sport" v="fitness"/>
   </node>
-  <node id="12566605222" lat="-12.9304210" lon="-38.3227104" version="3" timestamp="2025-02-08T22:40:05Z" changeset="162296922" uid="22473702" user="Gugas Tabacaria">
+  <node id="12566605222" lat="-12.9304210" lon="-38.3227104" version="4" timestamp="2025-02-17T00:20:30Z" changeset="162591641" uid="22301586" user="brp2pCripto">
     <tag k="addr:city" v="Salvador"/>
     <tag k="addr:housenumber" v="Qd 12, Lt 5"/>
     <tag k="addr:postcode" v="41603-090"/>
     <tag k="addr:street" v="Rua Professor Antônio Augusto Machado"/>
     <tag k="addr:suburb" v="Praia do Flamengo"/>
+    <tag k="check_date" v="2025-02-16"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="level" v="0"/>
     <tag k="name" v="Guga's Tabacria e Headshop"/>
@@ -5087,6 +5088,72 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone:mobile" v="+689 89 36 19 50"/>
+  </node>
+  <node id="12593445475" lat="-26.9937692" lon="-48.6339059" version="1" timestamp="2025-02-16T18:51:44Z" changeset="162582666" uid="22375642" user="Davi BTC">
+    <tag k="addr:city" v="Balneário Camboriú"/>
+    <tag k="addr:housenumber" v="520, sala 1"/>
+    <tag k="addr:postcode" v="88330-472"/>
+    <tag k="addr:street" v="Rua 1950"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="physiotherapist"/>
+    <tag k="instagram" v="https://www.instagram.com/institutotratabc"/>
+    <tag k="mobile" v="47 99903-2498"/>
+    <tag k="name" v="Clínica de Fisioterapia Instituto Trata e ITC Vertebral"/>
+    <tag k="opening_hours" v="Mo-fr 07:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="047 99749-8902"/>
+    <tag k="website" v="https://www.institutotrata.com.br"/>
+  </node>
+  <node id="12593626272" lat="-27.1410411" lon="-48.5947637" version="2" timestamp="2025-02-16T19:08:23Z" changeset="162583175" uid="22375642" user="Davi BTC">
+    <tag k="addr:city" v="Itapema"/>
+    <tag k="addr:housenumber" v="sala 1"/>
+    <tag k="addr:postcode" v="88220-000"/>
+    <tag k="addr:street" v="Rua 308 A, com a rua 314"/>
+    <tag k="addr:suburb" v="Meia praia"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="physiotherapist"/>
+    <tag k="instagram" v="https://www.instagram.com/institutotrataitapema"/>
+    <tag k="name" v="Clínica de Fisioterapia Instituto Trata e ITC Vertebral"/>
+    <tag k="opening_hours" v="Mo-fr 07:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="047 99749-8902"/>
+    <tag k="website" v="https://www.institutotrata.com.br"/>
+  </node>
+  <node id="12593657544" lat="-26.9108598" lon="-48.6632627" version="1" timestamp="2025-02-16T19:06:55Z" changeset="162583141" uid="22375642" user="Davi BTC">
+    <tag k="addr:city" v="Itajaí"/>
+    <tag k="addr:housenumber" v="160, sala térrea"/>
+    <tag k="addr:postcode" v="88302-200"/>
+    <tag k="addr:street" v="Rua Uruguai"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="physiotherapist"/>
+    <tag k="instagram" v="https://www.instagram.com/institutotrataitajai"/>
+    <tag k="name" v="Clínica de Fisioterapia Instituto Trata e ITC Vertebral"/>
+    <tag k="opening_hours" v="Mo-fr 07:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="047 99169-7641"/>
+    <tag k="website" v="https://www.institutotrata.com.br"/>
+  </node>
+  <node id="12593696790" lat="-26.9685769" lon="-48.6395715" version="2" timestamp="2025-02-16T19:39:18Z" changeset="162584304" uid="22375642" user="Davi BTC">
+    <tag k="addr:city" v="Balneário Camboriú"/>
+    <tag k="addr:housenumber" v="1350"/>
+    <tag k="addr:postcode" v="88338-640"/>
+    <tag k="addr:street" v="Avenida do Estado"/>
+    <tag k="addr:suburb" v="Ariribá"/>
+    <tag k="amenity" v="doctors"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="doctor"/>
+    <tag k="healthcare:speciality" v="urology"/>
+    <tag k="name" v="Dr. Gustavo Corguinha - Urologista"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="047 99725-0852"/>
+    <tag k="website" v="https://www.drgustavocorguinha.com.br"/>
   </node>
 
 </osm>
