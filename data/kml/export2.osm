@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-18T05:29:02Z"/>
+<meta osm_base="2025-02-19T05:27:45Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="7" timestamp="2025-02-17T12:54:08Z" changeset="162610866" uid="22526313" user="Hollins Mill">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -5313,6 +5313,59 @@
     <tag k="phone" v="+55 11 973123356"/>
     <tag k="tourism" v="alpine_hut"/>
     <tag k="website" v="www.reservanativida.com.br"/>
+  </node>
+  <node id="12598623349" lat="40.4985490" lon="17.6434156" version="3" timestamp="2025-02-18T15:38:59Z" changeset="162666090" uid="22525435" user="btcitnet">
+    <tag k="addr:city" v="Oria"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="72024"/>
+    <tag k="addr:street" v="Corso Umberto 1°"/>
+    <tag k="check_date" v="2025-02-18"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/bottegaoscuradelcuoio/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/bottegaoscuradelcuoio/"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Bottega Oscura del Cuoio"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless_contactless" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="survey:date" v="2025-02-18"/>
+  </node>
+  <node id="12598785924" lat="47.4722890" lon="8.3093640" version="5" timestamp="2025-02-18T20:27:36Z" changeset="162676228" uid="22531908" user="TestName42">
+    <tag k="addr:city" v="Baden"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="5400"/>
+    <tag k="addr:street" v="Obere Halde"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="tibetan"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="name" v="Mini Tibet Momos"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:twint" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="survey:date" v="2025-02-18"/>
+    <tag k="website" v="https://de.restaurantguru.com/Mini-Tibet-Takeaway-Baden"/>
+  </node>
+  <node id="12599738208" lat="-7.2239346" lon="-39.3282596" version="1" timestamp="2025-02-19T01:53:30Z" changeset="162682746" uid="22534228" user="MNobre Sistemas e Impressoras">
+    <tag k="addr:city" v="Juazeiro do Norte/CE"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:postcode" v="63022050"/>
+    <tag k="addr:street" v="Rua das Laranjeiras"/>
+    <tag k="addr:suburb" v="Cajuína São Geraldo"/>
+    <tag k="name" v="MNOBRE Sistemas e Impressoras"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="88994924331"/>
+    <tag k="shop" v="computer"/>
   </node>
 
 </osm>
