@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-19T05:27:45Z"/>
+<meta osm_base="2025-02-20T05:28:16Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="7" timestamp="2025-02-17T12:54:08Z" changeset="162610866" uid="22526313" user="Hollins Mill">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -212,6 +212,19 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="gift"/>
     <tag k="source" v="Reconocimiento cartográfico por KG 2016."/>
+  </node>
+  <node id="4312797489" lat="49.2768986" lon="-122.8470970" version="4" timestamp="2025-02-20T05:19:26Z" changeset="162725095" uid="503610" user="asoltys">
+    <tag k="addr:city" v="Port Moody"/>
+    <tag k="addr:housenumber" v="2910"/>
+    <tag k="addr:province" v="BC"/>
+    <tag k="addr:street" v="Saint Johns Street"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Vancouver Auto Parts"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="car_parts"/>
   </node>
   <node id="4379042414" lat="51.4251073" lon="-0.0834934" version="5" timestamp="2024-09-29T19:02:19Z" changeset="157267719" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="London"/>
@@ -4341,7 +4354,7 @@
     <tag k="stroller" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12508975313" lat="-43.5394969" lon="172.6293915" version="2" timestamp="2025-01-18T20:36:33Z" changeset="161505173" uid="10823038" user="Mortein">
+  <node id="12508975313" lat="-43.5394969" lon="172.6293915" version="3" timestamp="2025-02-19T10:25:53Z" changeset="162694477" uid="136220" user="Numbergod">
     <tag k="addr:city" v="Christchurch"/>
     <tag k="addr:housenumber" v="171"/>
     <tag k="addr:postcode" v="8011"/>
@@ -4357,7 +4370,7 @@
     <tag k="second_hand" v="yes"/>
     <tag k="service:vehicle:used_car_sales" v="yes"/>
     <tag k="shop" v="car"/>
-    <tag k="survey_date" v="2025-01-17"/>
+    <tag k="survey:date" v="2025-01-17"/>
     <tag k="website" v="https://www.wheelermotors.co.nz/"/>
   </node>
   <node id="12509797881" lat="-28.6235838" lon="-49.0173353" version="1" timestamp="2025-01-17T17:24:13Z" changeset="161464615" uid="22395053" user="JOAO VICTOR GARCIA">
@@ -5314,25 +5327,6 @@
     <tag k="tourism" v="alpine_hut"/>
     <tag k="website" v="www.reservanativida.com.br"/>
   </node>
-  <node id="12598623349" lat="40.4985490" lon="17.6434156" version="3" timestamp="2025-02-18T15:38:59Z" changeset="162666090" uid="22525435" user="btcitnet">
-    <tag k="addr:city" v="Oria"/>
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:postcode" v="72024"/>
-    <tag k="addr:street" v="Corso Umberto 1°"/>
-    <tag k="check_date" v="2025-02-18"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/bottegaoscuradelcuoio/"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/bottegaoscuradelcuoio/"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Bottega Oscura del Cuoio"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless_contactless" v="yes"/>
-    <tag k="payment:onchain" v="no"/>
-    <tag k="survey:date" v="2025-02-18"/>
-  </node>
   <node id="12598785924" lat="47.4722890" lon="8.3093640" version="5" timestamp="2025-02-18T20:27:36Z" changeset="162676228" uid="22531908" user="TestName42">
     <tag k="addr:city" v="Baden"/>
     <tag k="addr:housenumber" v="18"/>
@@ -5355,17 +5349,128 @@
     <tag k="survey:date" v="2025-02-18"/>
     <tag k="website" v="https://de.restaurantguru.com/Mini-Tibet-Takeaway-Baden"/>
   </node>
-  <node id="12599738208" lat="-7.2239346" lon="-39.3282596" version="1" timestamp="2025-02-19T01:53:30Z" changeset="162682746" uid="22534228" user="MNobre Sistemas e Impressoras">
+  <node id="12599738208" lat="-7.2239346" lon="-39.3282596" version="2" timestamp="2025-02-19T13:56:10Z" changeset="162702339" uid="22534228" user="MNobre Sistemas e Impressoras">
     <tag k="addr:city" v="Juazeiro do Norte/CE"/>
     <tag k="addr:housenumber" v="62"/>
     <tag k="addr:postcode" v="63022050"/>
     <tag k="addr:street" v="Rua das Laranjeiras"/>
     <tag k="addr:suburb" v="Cajuína São Geraldo"/>
     <tag k="name" v="MNOBRE Sistemas e Impressoras"/>
+    <tag k="opening_hours" v="Segunda a Sexta 08 as 17h, Sábado 08 as 12h"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="88994924331"/>
     <tag k="shop" v="computer"/>
+  </node>
+  <node id="12600313058" lat="-31.0907180" lon="150.9247221" version="2" timestamp="2025-02-19T10:34:36Z" changeset="162694759" uid="5381299" user="Tamworth Heart Clinic">
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="2340"/>
+    <tag k="addr:state" v="NSW"/>
+    <tag k="addr:street" v="Carter"/>
+    <tag k="addr:suburb" v="West Tamworth"/>
+    <tag k="addr:unit" v="3"/>
+    <tag k="craft" v="plasterer"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Tamworth Plaster Works"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="02 67 658 384"/>
+    <tag k="website" v="https://www.facebook.com/tamworthplasterworks/"/>
+  </node>
+  <node id="12600349517" lat="-30.3250265" lon="149.7823096" version="2" timestamp="2025-02-19T10:36:55Z" changeset="162694830" uid="5381299" user="Tamworth Heart Clinic">
+    <tag k="craft" v="plumber"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Nimrod Mor Plumbing"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="0410 602 521"/>
+    <tag k="website" v="https://narrabrinow.com.au/businesses/nimrod-mor-plumbing/"/>
+  </node>
+  <node id="12601531772" lat="40.4656639" lon="-3.9494963" version="1" timestamp="2025-02-19T18:12:43Z" changeset="162712275" uid="22537326" user="Viddal">
+    <tag k="addr:city" v="Villanueva de la Cañada"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="28692"/>
+    <tag k="addr:street" v="Calle del Valle de Esteribar"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="description" v="Dentista en Villafranca del Castillo. Clinica dental en Villafranca del Castillo. Ortodoncia, Estetica dental, Endodoncia e Implantologia dental."/>
+    <tag k="emergency" v="yes"/>
+    <tag k="healthcare" v="hospital"/>
+    <tag k="healthcare:speciality" v="dentist;orthodontics;general"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Villafranca dental"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-22:00"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:btc" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:eth" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:mastercard_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:usdt" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_debit" v="yes"/>
+    <tag k="payment:visa_electron" v="yes"/>
+    <tag k="phone" v="+34918102628"/>
+    <tag k="survey:date" v="2025-02-19"/>
+    <tag k="website" v="https://www.villafrancadental.es"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12601752951" lat="-24.7155759" lon="-53.7361343" version="1" timestamp="2025-02-19T20:03:59Z" changeset="162715705" uid="22538109" user="Luisreichert">
+    <tag k="addr:city" v="Toledo"/>
+    <tag k="addr:housenumber" v="1202"/>
+    <tag k="addr:postcode" v="85905290"/>
+    <tag k="addr:street" v="Rua Borges de Medeiros"/>
+    <tag k="addr:suburb" v="Jd Gisela"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="C&amp;R CONTABILIDADE"/>
+    <tag k="office" v="accountant"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="12602194562" lat="-19.9525202" lon="-43.9452900" version="7" timestamp="2025-02-20T02:42:31Z" changeset="162722830" uid="22538620" user="DomPatronBarbearia">
+    <tag k="addr:city" v="Belo Horizonte"/>
+    <tag k="addr:housenumber" v="3098"/>
+    <tag k="addr:street" v="Avenida Artur Bernardes"/>
+    <tag k="addr:suburb" v="Santa Lúcia"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="hairdresser" v="barber"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="male" v="yes"/>
+    <tag k="name" v="Barbearia Dom Patron"/>
+    <tag k="opening_hours" v="08h as 20h terça a sabado"/>
+    <tag k="operator" v="leandro"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="31989576116"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="website" v="https://www.instagram.com/eusouleandrobarreto_?igsh=ejM0d3c2YXAybzIw"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12603093243" lat="49.1935890" lon="-122.8472797" version="1" timestamp="2025-02-20T05:27:41Z" changeset="162725230" uid="503610" user="asoltys">
+    <tag k="addr:city" v="Surrey"/>
+    <tag k="addr:housenumber" v="10509"/>
+    <tag k="addr:postcode" v="V3T 4C9"/>
+    <tag k="addr:province" v="BC"/>
+    <tag k="addr:street" v="135A Street"/>
+    <tag k="addr:unit" v="2"/>
+    <tag k="name" v="VAP Auto Parts"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-18:00; Sa 08:00-17:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+16045815464"/>
+    <tag k="shop" v="car_parts"/>
   </node>
 
 </osm>
