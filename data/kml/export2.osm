@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-20T05:28:16Z"/>
+<meta osm_base="2025-02-21T05:27:44Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="7" timestamp="2025-02-17T12:54:08Z" changeset="162610866" uid="22526313" user="Hollins Mill">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -539,23 +539,6 @@
     <tag k="payment:onchain" v="no"/>
     <tag k="payment:paypay" v="yes"/>
     <tag k="website" v="https://cocorotus.com"/>
-  </node>
-  <node id="10740165791" lat="-28.6352048" lon="153.5807376" version="3" timestamp="2024-08-02T12:49:02Z" changeset="154735399" uid="21803935" user="Bayani Mills">
-    <tag k="addr:housenumber" v="5"/>
-    <tag k="addr:state" v="NSW"/>
-    <tag k="addr:street" v="Woolongbar"/>
-    <tag k="addr:suburb" v="Byron Bay"/>
-    <tag k="addr:unit" v="1"/>
-    <tag k="check_date" v="2024-08-02"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="info@beautiflora.com"/>
-    <tag k="name" v="Beautiflora"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+61 421 904 176"/>
-    <tag k="shop" v="florist"/>
-    <tag k="website" v="https://www.beautiflora.com/"/>
   </node>
   <node id="10897848651" lat="-24.2082894" lon="151.9024145" version="2" timestamp="2024-08-02T13:41:49Z" changeset="154737414" uid="21803935" user="Bayani Mills">
     <tag k="amenity" v="restaurant"/>
@@ -5457,13 +5440,14 @@
     <tag k="website" v="https://www.instagram.com/eusouleandrobarreto_?igsh=ejM0d3c2YXAybzIw"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="12603093243" lat="49.1935890" lon="-122.8472797" version="1" timestamp="2025-02-20T05:27:41Z" changeset="162725230" uid="503610" user="asoltys">
+  <node id="12603093243" lat="49.1935890" lon="-122.8472797" version="2" timestamp="2025-02-20T05:57:39Z" changeset="162725688" uid="503610" user="asoltys">
     <tag k="addr:city" v="Surrey"/>
     <tag k="addr:housenumber" v="10509"/>
     <tag k="addr:postcode" v="V3T 4C9"/>
     <tag k="addr:province" v="BC"/>
     <tag k="addr:street" v="135A Street"/>
     <tag k="addr:unit" v="2"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="VAP Auto Parts"/>
     <tag k="opening_hours" v="Mo-Fr 08:00-18:00; Sa 08:00-17:30"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -5471,6 +5455,14 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+16045815464"/>
     <tag k="shop" v="car_parts"/>
+  </node>
+  <node id="12605176912" lat="-0.2237364" lon="-78.5072500" version="1" timestamp="2025-02-20T20:53:19Z" changeset="162756929" uid="22542735" user="Vintageclothes">
+    <tag k="currency:USD" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="no"/>
+    <tag k="survey_date" v="2012-10-28"/>
   </node>
 
 </osm>
