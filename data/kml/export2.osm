@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-24T05:29:00Z"/>
+<meta osm_base="2025-02-25T05:29:02Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="7" timestamp="2025-02-17T12:54:08Z" changeset="162610866" uid="22526313" user="Hollins Mill">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -4393,11 +4393,12 @@
     <tag k="tourism" v="motel"/>
     <tag k="website" v="https://www.gumtree.com/p/holiday-rentals/mountain-cabin-apartment-sleeps-46-self-catered-italian-alps/1492315843"/>
   </node>
-  <node id="12512912885" lat="49.7158588" lon="-2.2036218" version="4" timestamp="2025-01-21T23:33:07Z" changeset="161618782" uid="22398382" user="Andrei Zmeu">
+  <node id="12512912885" lat="49.7158588" lon="-2.2036218" version="5" timestamp="2025-02-24T20:39:58Z" changeset="162908297" uid="22398382" user="Andrei Zmeu">
     <tag k="addr:postcode" v="GY9 3UF"/>
     <tag k="addr:street" v="Victoria St, St Anne"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="The Georgian House is a family-run hotel on the cobbled street of St Annes in Alderney."/>
     <tag k="name" v="The Georgian House"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
@@ -4474,12 +4475,13 @@
     <tag k="self_service" v="no"/>
     <tag k="website" v="https://dirtydetailsinteriorspa.com/"/>
   </node>
-  <node id="12521320953" lat="49.7223061" lon="-2.2003390" version="1" timestamp="2025-01-21T20:50:37Z" changeset="161615025" uid="22398382" user="Andrei Zmeu">
+  <node id="12521320953" lat="49.7223061" lon="-2.2003390" version="2" timestamp="2025-02-24T20:37:05Z" changeset="162908228" uid="22398382" user="Andrei Zmeu">
     <tag k="addr:city" v="Alderney"/>
     <tag k="addr:postcode" v="GY9 3XT"/>
     <tag k="addr:street" v="Braye Street"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="The Moorings is a relaxed, family-friendly beach bar and restaurant positioned just a stone's throw from the stunning Braye Bay."/>
     <tag k="name" v="The Moorings Alderney"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
@@ -4487,11 +4489,12 @@
     <tag k="survey:date" v="2025-01-20"/>
     <tag k="website" v="https://www.themoorings.gg/"/>
   </node>
-  <node id="12521392537" lat="49.7162477" lon="-2.2031711" version="1" timestamp="2025-01-21T21:06:11Z" changeset="161615484" uid="22398382" user="Andrei Zmeu">
+  <node id="12521392537" lat="49.7162477" lon="-2.2031711" version="2" timestamp="2025-02-24T20:38:38Z" changeset="162908263" uid="22398382" user="Andrei Zmeu">
     <tag k="addr:city" v="Alderney"/>
     <tag k="addr:postcode" v="GY9 3UF"/>
     <tag k="addr:street" v="Victoria Street"/>
     <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Situated on the cobbled streets of St Annes, the family-run Georgian House is at the heart of the magical island of Alderney."/>
     <tag k="name" v="Victoria Hotel Alderney"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
@@ -4500,12 +4503,13 @@
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://www.thevictoria.gg"/>
   </node>
-  <node id="12524965448" lat="49.7139079" lon="-2.2048027" version="1" timestamp="2025-01-22T22:18:20Z" changeset="161654821" uid="22398382" user="Andrei Zmeu">
+  <node id="12524965448" lat="49.7139079" lon="-2.2048027" version="2" timestamp="2025-02-24T20:44:02Z" changeset="162908396" uid="22398382" user="Andrei Zmeu">
     <tag k="addr:city" v="Alderney"/>
     <tag k="addr:housenumber" v="16"/>
     <tag k="addr:postcode" v="GY9 3UG"/>
     <tag k="addr:street" v="High Street"/>
     <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Bonjour is a family run Guesthouse, Nestled in the&#x0a;heart of St. Anne. A budget friendly, home from&#x0a;home...The perfect getaway from your busy life."/>
     <tag k="facebook" v="https://www.facebook.com/profile.php?id=100039385396008"/>
     <tag k="name" v="Bonjour Guest House"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -5307,7 +5311,7 @@
     <tag k="phone" v="88994924331"/>
     <tag k="shop" v="computer"/>
   </node>
-  <node id="12600313058" lat="-31.0907180" lon="150.9247221" version="2" timestamp="2025-02-19T10:34:36Z" changeset="162694759" uid="5381299" user="Tamworth Heart Clinic">
+  <node id="12600313058" lat="-31.0907180" lon="150.9247221" version="3" timestamp="2025-02-25T05:10:07Z" changeset="162916800" uid="712752" user="tastrax">
     <tag k="addr:housenumber" v="5"/>
     <tag k="addr:postcode" v="2340"/>
     <tag k="addr:state" v="NSW"/>
@@ -5319,16 +5323,16 @@
     <tag k="name" v="Tamworth Plaster Works"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="02 67 658 384"/>
+    <tag k="phone" v="+61 2 67 658 384"/>
     <tag k="website" v="https://www.facebook.com/tamworthplasterworks/"/>
   </node>
-  <node id="12600349517" lat="-30.3250265" lon="149.7823096" version="2" timestamp="2025-02-19T10:36:55Z" changeset="162694830" uid="5381299" user="Tamworth Heart Clinic">
+  <node id="12600349517" lat="-30.3250265" lon="149.7823096" version="3" timestamp="2025-02-25T05:09:22Z" changeset="162916787" uid="712752" user="tastrax">
     <tag k="craft" v="plumber"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Nimrod Mor Plumbing"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="0410 602 521"/>
+    <tag k="phone" v="+61 410 602 521"/>
     <tag k="website" v="https://narrabrinow.com.au/businesses/nimrod-mor-plumbing/"/>
   </node>
   <node id="12601752951" lat="-24.7155759" lon="-53.7361343" version="1" timestamp="2025-02-19T20:03:59Z" changeset="162715705" uid="22538109" user="Luisreichert">
@@ -5401,6 +5405,29 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="047 99940-7191"/>
+  </node>
+  <node id="12615944780" lat="49.7230935" lon="-2.2010762" version="2" timestamp="2025-02-24T15:11:54Z" changeset="162896976" uid="22398382" user="Andrei Zmeu">
+    <tag k="address" v="Braye Saltworks, The Crusher Site, GY9 3XX"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Producers of high quality, hand harvested, natural sea salt. Located on the beautiful Channel Island of Alderney."/>
+    <tag k="name" v="Alderney Island Sea Salt"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2025-02-23"/>
+    <tag k="website" v="https://www.aysalt.co.uk/"/>
+  </node>
+  <node id="12616293274" lat="-34.5979535" lon="-58.4165896" version="2" timestamp="2025-02-24T17:57:32Z" changeset="162903257" uid="22178353" user="Formreader">
+    <tag k="addr:city" v="Ciudad Autónoma de Buenos Aires"/>
+    <tag k="addr:housenumber" v="3544"/>
+    <tag k="addr:postcode" v="C1188"/>
+    <tag k="addr:street" v="Avenida Córdoba"/>
+    <tag k="amenity" v="motorcycle_rental"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Motohoy"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:tether" v="yes"/>
   </node>
 
 </osm>
