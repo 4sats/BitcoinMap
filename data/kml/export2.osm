@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-05T05:29:00Z"/>
+<meta osm_base="2025-03-06T05:28:45Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="7" timestamp="2025-02-17T12:54:08Z" changeset="162610866" uid="22526313" user="Hollins Mill">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -3428,15 +3428,6 @@
     <tag k="survey:date" v="2024-11-20"/>
     <tag k="website" v="https://www.play-asia.com"/>
   </node>
-  <node id="12358033292" lat="35.9221594" lon="14.4876120" version="2" timestamp="2024-11-20T12:35:16Z" changeset="159363962" uid="22200689" user="Bitsuite">
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Bitsuite"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="survey:date" v="2024-11-20"/>
-    <tag k="website" v="https://bitsuite.co/"/>
-  </node>
   <node id="12373942281" lat="-22.8237936" lon="-45.6705893" version="2" timestamp="2024-11-25T16:07:07Z" changeset="159580078" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antonio do Pinhal"/>
     <tag k="addr:housenumber" v="906"/>
@@ -5637,6 +5628,23 @@
     <tag k="phone" v="5583999483001"/>
     <tag k="shop" v="art"/>
     <tag k="website" v="@artemosaicoatelier"/>
+  </node>
+  <node id="12639880319" lat="45.8068561" lon="15.9916764" version="1" timestamp="2025-03-06T03:31:14Z" changeset="163268286" uid="52552" user="Matija Nalis">
+    <tag k="amenity" v="luggage_locker"/>
+    <tag k="contact:instagram" v="baghero.lockers"/>
+    <tag k="contact:linkedin" v="https://www.linkedin.com/company/baghero"/>
+    <tag k="contact:telegram" v="@baghero"/>
+    <tag k="contact:twitter" v="BagHero_lockers"/>
+    <tag k="email" v="help@baghero.eu"/>
+    <tag k="fee" v="yes"/>
+    <tag k="fixme" v="approximate location"/>
+    <tag k="maxweight" v="35 kg"/>
+    <tag k="mobile" v="+385 91 5161 539"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Bag Hero"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="website" v="https://baghero.eu/"/>
   </node>
 
 </osm>
