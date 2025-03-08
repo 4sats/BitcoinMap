@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-07T05:28:32Z"/>
+<meta osm_base="2025-03-08T05:24:14Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -342,20 +342,6 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="survey:date" v="2024-08-09"/>
   </node>
-  <node id="6938319387" lat="-24.2100495" lon="151.9058504" version="5" timestamp="2025-03-02T00:35:15Z" changeset="163106644" uid="2622285" user="TheSwavu">
-    <tag k="addr:housenumber" v="7"/>
-    <tag k="addr:street" v="Agnes Street"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="check_date:currency:XBT" v="2022-11-14"/>
-    <tag k="cuisine" v="mexican;burger;pizza"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Codie's Place"/>
-    <tag k="opening_hours" v="Mo-Fr 07:30-20:30"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+61 7 4974 7004"/>
-    <tag k="website" v="https://www.codiesplace.com/"/>
-  </node>
   <node id="7660154838" lat="50.3884511" lon="18.8823044" version="8" timestamp="2024-09-25T17:50:35Z" changeset="157094987" uid="11410610" user="gabinetpsychiatra">
     <tag k="addr:city" v="Bytom"/>
     <tag k="addr:housenumber" v="196/12"/>
@@ -421,44 +407,6 @@
     <tag k="phone" v="040 166 932"/>
     <tag k="survey:date" v="2025-01-28"/>
     <tag k="website" v="https://www.facebook.com/bistroluft/"/>
-  </node>
-  <node id="9550218139" lat="-23.5786718" lon="-46.6624591" version="3" timestamp="2025-01-22T19:10:32Z" changeset="161649931" uid="7522075" user="Rockedf">
-    <tag k="addr:city" v="São Paulo"/>
-    <tag k="addr:housenumber" v="101;1"/>
-    <tag k="addr:postcode" v="01431-000"/>
-    <tag k="addr:street" v="Avenida Brasil"/>
-    <tag k="alt_name" v="AtacadoSuplemento.com.br"/>
-    <tag k="building" v="warehouse"/>
-    <tag k="check_date" v="2025-01-21"/>
-    <tag k="check_date:currency:XBT" v="2025-01-22"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/atacado.suplemento/"/>
-    <tag k="country" v="BR"/>
-    <tag k="currency:BRL" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Site online de suplementos alimentares com ofertas para compras no varejo e no atacado. Aceita Bitcoin como meio de pagamento."/>
-    <tag k="email" v="sac@atacadosuplemento.com.br"/>
-    <tag k="image" v="https://atacadosuplemento.com.br/wp-content/uploads/logo-atacadosuplemento.png"/>
-    <tag k="mobile" v="+55 11 95092-5417"/>
-    <tag k="name" v="Atacado Suplemento"/>
-    <tag k="nat_name" v="www.AtacadoSuplemento.com.br"/>
-    <tag k="official_name" v="AtacadoSuplemento.com.br"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:pix" v="yes"/>
-    <tag k="phone" v="+55 11 3280-0700"/>
-    <tag k="shop" v="supermarket"/>
-    <tag k="survey:date" v="2025-01-21"/>
-    <tag k="website" v="https://www.atacadosuplemento.com.br/"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="9900625731" lat="12.9030088" lon="100.8711272" version="7" timestamp="2025-02-02T21:15:43Z" changeset="162063407" uid="164424" user="rife">
     <tag k="addr:city" v="Pattaya"/>
@@ -535,14 +483,6 @@
     <tag k="payment:onchain" v="no"/>
     <tag k="payment:paypay" v="yes"/>
     <tag k="website" v="https://cocorotus.com"/>
-  </node>
-  <node id="10897848651" lat="-24.2082894" lon="151.9024145" version="2" timestamp="2024-08-02T13:41:49Z" changeset="154737414" uid="21803935" user="Bayani Mills">
-    <tag k="amenity" v="restaurant"/>
-    <tag k="check_date:currency:XBT" v="2024-08-01"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Drift &amp; Wood"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="website" v="https://driftandwood.com.au"/>
   </node>
   <node id="10980930381" lat="-33.2668884" lon="151.5493921" version="3" timestamp="2024-08-02T06:32:46Z" changeset="154720498" uid="21803935" user="Bayani Mills">
     <tag k="addr:housenumber" v="327"/>
@@ -4461,23 +4401,6 @@
     <tag k="phone" v="13974131009"/>
     <tag k="shop" v="kiosk"/>
   </node>
-  <node id="12519239240" lat="45.5439496" lon="-94.1988113" version="1" timestamp="2025-01-20T22:16:22Z" changeset="161580196" uid="20309960" user="Joeydd">
-    <tag k="addr:city" v="St. Cloud"/>
-    <tag k="addr:housenumber" v="3337"/>
-    <tag k="addr:postcode" v="56301"/>
-    <tag k="addr:state" v="MN"/>
-    <tag k="addr:street" v="West Saint Germain Street"/>
-    <tag k="amenity" v="car_wash"/>
-    <tag k="automated" v="no"/>
-    <tag k="name" v="Dirty Details Interior Spa"/>
-    <tag k="opening_hours" v="Mo-Fr 08:00-17:00 by appointment"/>
-    <tag k="operator" v="Auto Detailer"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="320-491-8616"/>
-    <tag k="self_service" v="no"/>
-    <tag k="website" v="https://dirtydetailsinteriorspa.com/"/>
-  </node>
   <node id="12521320953" lat="49.7223061" lon="-2.2003390" version="2" timestamp="2025-02-24T20:37:05Z" changeset="162908228" uid="22398382" user="Andrei Zmeu">
     <tag k="addr:city" v="Alderney"/>
     <tag k="addr:postcode" v="GY9 3XT"/>
@@ -5649,6 +5572,22 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="website" v="https://baghero.eu/"/>
+  </node>
+  <node id="12643278203" lat="40.1259983" lon="18.1293605" version="2" timestamp="2025-03-07T13:02:43Z" changeset="163326694" uid="22583613" user="SalentoBitcoin">
+    <tag k="addr:city" v="Aradeo"/>
+    <tag k="addr:housenumber" v="147"/>
+    <tag k="addr:postcode" v="73040"/>
+    <tag k="addr:street" v="Via S. Biagio"/>
+    <tag k="craft" v="brewery"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="info@bivitime.com"/>
+    <tag k="instagram" v="https://www.instagram.com/bivitime_apulianbeer/"/>
+    <tag k="name" v="Lu Birrocciu by Bivitime"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+39 324 082 1912"/>
+    <tag k="product" v="beer"/>
   </node>
 
 </osm>
