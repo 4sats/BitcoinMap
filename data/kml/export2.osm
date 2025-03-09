@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-08T05:24:14Z"/>
+<meta osm_base="2025-03-09T05:22:44Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -502,6 +502,31 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="survey:date" v="2024-08-02"/>
     <tag k="website" v="https://risemofo.square.site"/>
+  </node>
+  <node id="11179405297" lat="19.0563229" lon="-98.2988235" version="12" timestamp="2025-03-09T02:42:38Z" changeset="163385342" uid="7522075" user="Rockedf">
+    <tag k="addr:city" v="San Andrés Cholula"/>
+    <tag k="addr:housenumber" v="1302"/>
+    <tag k="addr:neighbourhood" v="San Juan Aquiahuac"/>
+    <tag k="addr:postcode" v="72810"/>
+    <tag k="addr:state" v="Puebla"/>
+    <tag k="addr:street" v="3 Norte"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date:currency:XBT" v="2025-03-09"/>
+    <tag k="cuisine" v="steak_house;burger;eggs"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="diet:carnivore" v="yes"/>
+    <tag k="diet:eggs" v="yes"/>
+    <tag k="diet:healthy" v="yes"/>
+    <tag k="diet:meat" v="yes"/>
+    <tag k="name" v="La Carnivoría"/>
+    <tag k="opening_hours" v="Tu-Su 09:00-21:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+52 222 108 3756"/>
+    <tag k="website" v="www.lacarnivoria.mx"/>
   </node>
   <node id="11191203249" lat="39.8438677" lon="18.3747415" version="6" timestamp="2025-03-03T18:07:12Z" changeset="163172519" uid="20115622" user="unodeitanti">
     <tag k="addr:city" v="Gagliano del Capo"/>
@@ -1571,9 +1596,8 @@
     <tag k="survey:date" v="2024-07-16"/>
     <tag k="website" v="https://kangu.ro"/>
   </node>
-  <node id="12088849467" lat="-31.7424417" lon="115.7696501" version="1" timestamp="2024-08-02T12:20:30Z" changeset="154734265" uid="21803935" user="Bayani Mills">
+  <node id="12088849467" lat="-31.7424417" lon="115.7696501" version="2" timestamp="2025-03-09T03:56:57Z" changeset="163386129" uid="2622285" user="TheSwavu">
     <tag k="addr:housenumber" v="126"/>
-    <tag k="addr:postcode" v="6000"/>
     <tag k="addr:state" v="WA"/>
     <tag k="addr:street" v="Grand Blvd"/>
     <tag k="addr:suburb" v="Joondalup"/>
@@ -1901,12 +1925,11 @@
     <tag k="tourism" v="alpine_hut"/>
     <tag k="website" v="https://munaypousada.com.br/"/>
   </node>
-  <node id="12227887046" lat="52.3654328" lon="4.8851271" version="11" timestamp="2024-12-09T03:11:16Z" changeset="160076468" uid="7522075" user="Rockedf">
+  <node id="12227887046" lat="52.3654328" lon="4.8851271" version="12" timestamp="2025-03-08T12:07:17Z" changeset="163361190" uid="553736" user="A67-A67">
     <tag k="addr:city" v="Amsterdam"/>
-    <tag k="addr:housenumber" v="41"/>
+    <tag k="addr:housenumber" v="41B"/>
     <tag k="addr:postcode" v="1013EJ"/>
     <tag k="addr:street" v="Haarlemmerstraat"/>
-    <tag k="addr:unit" v="B"/>
     <tag k="amenity" v="cafe"/>
     <tag k="check_date:currency:XBT" v="2024-12-09"/>
     <tag k="contact:facebook" v="Rhumaa"/>
@@ -5260,6 +5283,33 @@
     <tag k="payment:contactless" v="no"/>
     <tag k="survey_date" v="2012-10-28"/>
   </node>
+  <node id="12607170451" lat="-5.1150507" lon="-36.6320796" version="5" timestamp="2025-03-09T02:38:37Z" changeset="163385298" uid="7522075" user="Rockedf">
+    <tag k="addr:city" v="Macau"/>
+    <tag k="addr:housenumber" v="84a"/>
+    <tag k="addr:postcode" v="59500000"/>
+    <tag k="addr:street" v="Rua Amaro Cavalcante"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="brand" v="Maria Bonita Macau"/>
+    <tag k="check_date:currency:XBT" v="2025-03-09"/>
+    <tag k="currency:BRL" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Pousada no centro de Macau, procurar 84988152426 para mais informações."/>
+    <tag k="email" v="maria-bonita.service761@passinbox.com"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="mobile" v="5584988152426"/>
+    <tag k="name" v="Pousada Maria Bonita Macau"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="84988152426"/>
+    <tag k="rooms" v="8"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.instagram.com/pousada_mariabonita?igsh=MWwxeWpucHE4ejhvag=="/>
+  </node>
   <node id="12608786937" lat="-26.9927767" lon="-48.6473184" version="2" timestamp="2025-02-22T02:17:17Z" changeset="162801752" uid="22375642" user="Davi BTC">
     <tag k="addr:city" v="Balneário Camboriú"/>
     <tag k="addr:postcode" v="88339-005"/>
@@ -5588,6 +5638,40 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+39 324 082 1912"/>
     <tag k="product" v="beer"/>
+  </node>
+  <node id="12644759652" lat="13.8589096" lon="-89.8050480" version="3" timestamp="2025-03-08T06:40:53Z" changeset="163351607" uid="22602478" user="Ruta de las Flores">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza;burger;wings;fries;hot_dog"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="TEXIXAL PIZZA 🍕"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+  </node>
+  <node id="12644763536" lat="13.8588512" lon="-89.8047968" version="3" timestamp="2025-03-08T06:50:46Z" changeset="163351756" uid="22602478" user="Ruta de las Flores">
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Ratatuiĺle"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+  </node>
+  <node id="12645399837" lat="-33.9840493" lon="22.5115014" version="1" timestamp="2025-03-08T13:25:49Z" changeset="163364207" uid="413346" user="Bitcoin Sedgefield">
+    <tag k="addr:city" v="George"/>
+    <tag k="addr:street" v="Outeniqua Family Market"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/knapdoen"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Knapdoen Leather"/>
+    <tag k="opening_hours" v="Sa 8:00-14:00"/>
+    <tag k="operator" v="Koos Lessing"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+27 82 689 0533"/>
+    <tag k="shop" v="leather"/>
+    <tag k="survey:date" v="2025-03-08"/>
   </node>
 
 </osm>
