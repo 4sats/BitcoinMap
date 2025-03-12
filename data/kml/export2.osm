@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-11T05:29:04Z"/>
+<meta osm_base="2025-03-12T05:29:14Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -3593,7 +3593,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="website" v="https://www.instagram.com/toledo_car_estetica?igsh=OG9iaWgzeXhjcTY1"/>
   </node>
-  <node id="12379441398" lat="13.5317721" lon="-89.7589430" version="1" timestamp="2024-11-27T19:26:52Z" changeset="159674544" uid="21876143" user="daerazop">
+  <node id="12379441398" lat="13.5317721" lon="-89.7589430" version="2" timestamp="2025-03-11T09:04:06Z" changeset="163475018" uid="2104834" user="yhic4uw">
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="NAIA Miravalle"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -3601,6 +3601,7 @@
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="survey:date" v="2024-08-01"/>
+    <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://naiamiravalle.com/"/>
   </node>
   <node id="12384768455" lat="-30.7316062" lon="-55.3905406" version="3" timestamp="2024-12-13T16:45:37Z" changeset="160253801" uid="10292935" user="kaartense">
@@ -5432,13 +5433,14 @@
     <tag k="tourism" v="alpine_hut"/>
     <tag k="website" v="http://www.pousadacaminito.com.br"/>
   </node>
-  <node id="12620499918" lat="-34.0481005" lon="23.0474980" version="1" timestamp="2025-02-26T12:24:49Z" changeset="162969516" uid="413346" user="Bitcoin Sedgefield">
+  <node id="12620499918" lat="-34.0481005" lon="23.0474980" version="3" timestamp="2025-03-11T05:52:17Z" changeset="163469833" uid="22612280" user="Swamp Thang">
     <tag k="addr:city" v="Thesen Island, Knysna"/>
     <tag k="addr:housenumber" v="6"/>
     <tag k="addr:street" v="Boatshed Close"/>
     <tag k="contact:facebook" v="https://www.facebook.com/SybarisShops/"/>
     <tag k="contact:instagram" v="https://www.instagram.com/sybaris_southafrica"/>
     <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Visit our Shop and Showroom to create the perfect space in your home. We have a beautiful range of Home Decor, Furniture, Gifts and more."/>
     <tag k="email" v="info@sybaris.co.za"/>
     <tag k="name" v="Sybaris Shop"/>
     <tag k="opening_hours" v="Tu-Th 9:30-16:00, Fr 9:30-14:00"/>
@@ -5448,7 +5450,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+27 44 302 5731"/>
     <tag k="shop" v="catalogue"/>
-    <tag k="survey:date" v="2020-02-26"/>
+    <tag k="survey:date" v="2025-03-10"/>
     <tag k="website" v="https://www.sybaris.co.za/"/>
   </node>
   <node id="12621336738" lat="-22.8248780" lon="-45.6668203" version="1" timestamp="2025-02-26T21:13:17Z" changeset="162988852" uid="22025649" user="Bitcoin Amantikir">
@@ -5752,6 +5754,40 @@
     <tag k="phone" v="+55 12 991842900"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://reservacamburi.com.br/lp/?utm_source=GoogleAds&amp;utm_medium=Search&amp;utm_campaign=Pesquisa-nome-do-hotel&amp;utm_content=Exata-nome-do-hotel&amp;utm_term=reserva%20camburi&amp;gad_source=1"/>
+  </node>
+  <node id="12652460872" lat="-19.9027047" lon="-43.9203381" version="1" timestamp="2025-03-11T15:15:32Z" changeset="163489598" uid="22616699" user="Maxxi Ar Condicionado Automotivo">
+    <tag k="addr:city" v="Belo Horizonte"/>
+    <tag k="addr:housenumber" v="346"/>
+    <tag k="addr:postcode" v="31030370"/>
+    <tag k="addr:street" v="Avenida Petrolina"/>
+    <tag k="addr:suburb" v="Sagrada Familia"/>
+    <tag k="name" v="Maxxi Ar Condicioando"/>
+    <tag k="opening_hours" v="Segunda a Sexta de 8:00 as 18:00 e Sabádo de 8:00 as 12:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bitcoincash" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="phone" v="55 31 996104417"/>
+    <tag k="service:vehicle:air_conditioning" v="yes"/>
+    <tag k="shop" v="car_repair"/>
+  </node>
+  <node id="12652974073" lat="40.0561599" lon="17.9885972" version="2" timestamp="2025-03-11T19:41:52Z" changeset="163499977" uid="22583613" user="SalentoBitcoin">
+    <tag k="addr:city" v="Gallipoli"/>
+    <tag k="addr:housenumber" v="84"/>
+    <tag k="addr:postcode" v="73014"/>
+    <tag k="addr:street" v="Corso Roma"/>
+    <tag k="clothes" v="underwear"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="info@paolafiorini.com"/>
+    <tag k="name" v="Il Bianco di Paola Fiorini"/>
+    <tag k="opening_hours" v="09:30 - 13:00  17:30 - 23:00"/>
+    <tag k="operator" v="Salento Bitcoin"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="3248452273"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="website" v="www.paolafiorini.com"/>
   </node>
 
 </osm>
