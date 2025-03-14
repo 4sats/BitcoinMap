@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-13T05:28:30Z"/>
+<meta osm_base="2025-03-14T05:28:22Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -5788,6 +5788,19 @@
     <tag k="phone" v="3248452273"/>
     <tag k="shop" v="clothes"/>
     <tag k="website" v="www.paolafiorini.com"/>
+  </node>
+  <node id="12657198832" lat="43.8740660" lon="10.2462964" version="6" timestamp="2025-03-13T12:00:33Z" changeset="163567119" uid="22621748" user="Bar Leone">
+    <tag k="addr:city" v="Viareggio"/>
+    <tag k="addr:housenumber" v="279"/>
+    <tag k="addr:postcode" v="55049"/>
+    <tag k="addr:street" v="Via Antonio Fratti"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Bar Leone"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
   </node>
 
 </osm>
