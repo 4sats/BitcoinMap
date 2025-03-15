@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-14T05:28:22Z"/>
+<meta osm_base="2025-03-15T05:27:14Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -244,11 +244,10 @@
     <tag k="shop" v="tool_hire"/>
     <tag k="website" v="https://www.focusplant.uk/"/>
   </node>
-  <node id="4740252706" lat="44.1701981" lon="9.6103251" version="4" timestamp="2024-12-02T11:46:13Z" changeset="159839421" uid="21657170" user="IacR">
+  <node id="4740252706" lat="44.1701981" lon="9.6103251" version="5" timestamp="2025-03-14T19:52:10Z" changeset="163624997" uid="21660678" user="MapMasterMike">
     <tag k="WLAN" v="yes"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:street" v="Via Olivi"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="guest_house" v="guest_house"/>
     <tag k="name" v="Amar Levanto"/>
@@ -407,6 +406,26 @@
     <tag k="phone" v="040 166 932"/>
     <tag k="survey:date" v="2025-01-28"/>
     <tag k="website" v="https://www.facebook.com/bistroluft/"/>
+  </node>
+  <node id="9289134513" lat="-29.6504984" lon="-50.5673527" version="2" timestamp="2025-03-14T20:10:40Z" changeset="163625601" uid="22631061" user="Rede Gasfort">
+    <tag k="addr:city" v="Rolante"/>
+    <tag k="addr:housenumber" v="661"/>
+    <tag k="addr:postcode" v="95690-000"/>
+    <tag k="addr:street" v="Avenida Tenente Pedro von Mühlen"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="brand" v="Gasfort"/>
+    <tag k="check_date" v="12-02-2024"/>
+    <tag k="check_date:currency" v="12-02-2024"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:diesel_s10_comum" v="yes"/>
+    <tag k="fuel:diesel_s500_comum" v="yes"/>
+    <tag k="fuel:gasolina_aditivada" v="yes"/>
+    <tag k="fuel:gasolina_comum" v="yes"/>
+    <tag k="name" v="Rede Gasfort"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="12-02-2024"/>
   </node>
   <node id="9900625731" lat="12.9030088" lon="100.8711272" version="7" timestamp="2025-02-02T21:15:43Z" changeset="162063407" uid="164424" user="rife">
     <tag k="addr:city" v="Pattaya"/>
@@ -779,13 +798,12 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="source:date" v="2024-04-22"/>
   </node>
-  <node id="11844616571" lat="39.0271600" lon="-8.7917721" version="13" timestamp="2024-07-23T05:43:17Z" changeset="154288875" uid="2104834" user="yhic4uw">
+  <node id="11844616571" lat="39.0271600" lon="-8.7917721" version="14" timestamp="2025-03-14T19:54:28Z" changeset="163625062" uid="21660678" user="MapMasterMike">
     <tag k="addr:city" v="Salvaterra de Magos"/>
     <tag k="addr:housenumber" v="loja B"/>
     <tag k="addr:postcode" v="2120-071"/>
     <tag k="addr:street" v="Largo dos Combatatentes"/>
     <tag k="craft" v="photographer"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:EUR" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Hugo Nunes Photo - Fotografo"/>
@@ -943,12 +961,11 @@
     <tag k="phone" v="+61 7 3899 3212"/>
     <tag k="shop" v="hairdresser"/>
   </node>
-  <node id="11980315851" lat="42.7652105" lon="10.8723377" version="23" timestamp="2024-11-27T15:50:14Z" changeset="159666469" uid="21657170" user="IacR">
+  <node id="11980315851" lat="42.7652105" lon="10.8723377" version="24" timestamp="2025-03-14T19:55:43Z" changeset="163625108" uid="21660678" user="MapMasterMike">
     <tag k="addr:city" v="Castiglione della Pescaia"/>
     <tag k="addr:postcode" v="58043"/>
     <tag k="addr:street" v="Via Carlo Cattaneo"/>
     <tag k="beds" v="3"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="currency:XLT" v="yes"/>
     <tag k="email" v="iacopo.raspolli@gmail.com"/>
@@ -1002,11 +1019,10 @@
     <tag k="website" v="https://newliteracy.online"/>
     <tag k="wheelchair" v="limited"/>
   </node>
-  <node id="12028787538" lat="-3.3473985" lon="37.3440506" version="1" timestamp="2024-07-02T10:15:48Z" changeset="153448119" uid="21627926" user="Pambit21">
+  <node id="12028787538" lat="-3.3473985" lon="37.3440506" version="2" timestamp="2025-03-14T19:56:11Z" changeset="163625125" uid="21660678" user="MapMasterMike">
     <tag k="addr:city" v="Kilimanjaro"/>
     <tag k="addr:street" v="Tanzania"/>
     <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:TSH" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="description" v="ChapSmart is a simplified p2p exchange platform. Satoshi to Fiat (Tsh) in Tanzania via mobile wallets M-PESA, TIGOPESA &amp; AIRTEL MONEY.&#x0a;Direct access of buying and selling Satoshi with Tanzanian shillings"/>
@@ -1692,9 +1708,8 @@
     <tag k="shop" v="supermarket"/>
     <tag k="survey:date" v="2024-08-03"/>
   </node>
-  <node id="12104131268" lat="41.7157959" lon="21.7832722" version="1" timestamp="2024-08-11T11:49:48Z" changeset="155098500" uid="14721445" user="he who knows">
+  <node id="12104131268" lat="41.7157959" lon="21.7832722" version="2" timestamp="2025-03-14T19:56:20Z" changeset="163625135" uid="21660678" user="MapMasterMike">
     <tag k="amenity" v="bureau_de_change"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:EUR" v="yes"/>
     <tag k="currency:MKD" v="yes"/>
     <tag k="currency:USD" v="yes"/>
@@ -3382,13 +3397,12 @@
     <tag k="shop" v="motorcycle_repair"/>
     <tag k="survey:date" v="2025-02-04"/>
   </node>
-  <node id="12357206892" lat="22.3381947" lon="114.1469596" version="2" timestamp="2024-11-20T03:54:22Z" changeset="159349920" uid="22198693" user="Trudeaupotato">
+  <node id="12357206892" lat="22.3381947" lon="114.1469596" version="3" timestamp="2025-03-14T19:59:33Z" changeset="163625234" uid="21660678" user="MapMasterMike">
     <tag k="addr:city" v="九龍荔枝角Kowloon, Lai Chi Kok"/>
     <tag k="addr:district" v="Cheung Sha Wan"/>
     <tag k="addr:housenumber" v="688-690"/>
     <tag k="addr:postcode" v="00000"/>
     <tag k="addr:street" v="青山道 Castle Peak Road, Block B, 8/F, Ka Ming Court"/>
-    <tag k="currency:BTC" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Playasia"/>
     <tag k="opening_hours" v="Mo-Fr 10:00-18:00"/>
