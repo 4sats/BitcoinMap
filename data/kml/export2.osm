@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-15T05:27:14Z"/>
+<meta osm_base="2025-03-16T05:26:52Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -5340,17 +5340,6 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="047 99940-7191"/>
   </node>
-  <node id="12615944780" lat="49.7230935" lon="-2.2010762" version="2" timestamp="2025-02-24T15:11:54Z" changeset="162896976" uid="22398382" user="Andrei Zmeu">
-    <tag k="address" v="Braye Saltworks, The Crusher Site, GY9 3XX"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Producers of high quality, hand harvested, natural sea salt. Located on the beautiful Channel Island of Alderney."/>
-    <tag k="name" v="Alderney Island Sea Salt"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="survey:date" v="2025-02-23"/>
-    <tag k="website" v="https://www.aysalt.co.uk/"/>
-  </node>
   <node id="12616293274" lat="-34.5979535" lon="-58.4165896" version="2" timestamp="2025-02-24T17:57:32Z" changeset="162903257" uid="22178353" user="Formreader">
     <tag k="addr:city" v="Ciudad Autónoma de Buenos Aires"/>
     <tag k="addr:housenumber" v="3544"/>
@@ -5709,7 +5698,7 @@
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://reservacampos.com.br/"/>
   </node>
-  <node id="12650481206" lat="-22.8083294" lon="-45.6546490" version="1" timestamp="2025-03-10T18:37:13Z" changeset="163455380" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12650481206" lat="-22.8083294" lon="-45.6546490" version="2" timestamp="2025-03-15T06:35:17Z" changeset="163637628" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Santo Antonio do pinhal"/>
     <tag k="addr:housenumber" v="319"/>
     <tag k="addr:postcode" v="12450000"/>
@@ -5728,7 +5717,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 997456694"/>
     <tag k="tourism" v="alpine_hut"/>
-    <tag k="website" v="www.pousadaalpes.com.br"/>
+    <tag k="website" v="https://www.pousadaalpes.com.br/"/>
   </node>
   <node id="12650522705" lat="-23.8482451" lon="-45.4102411" version="1" timestamp="2025-03-10T18:54:57Z" changeset="163455942" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Ilhabela"/>
@@ -5803,18 +5792,19 @@
     <tag k="shop" v="clothes"/>
     <tag k="website" v="www.paolafiorini.com"/>
   </node>
-  <node id="12657198832" lat="43.8740660" lon="10.2462964" version="6" timestamp="2025-03-13T12:00:33Z" changeset="163567119" uid="22621748" user="Bar Leone">
-    <tag k="addr:city" v="Viareggio"/>
-    <tag k="addr:housenumber" v="279"/>
-    <tag k="addr:postcode" v="55049"/>
-    <tag k="addr:street" v="Via Antonio Fratti"/>
-    <tag k="amenity" v="cafe"/>
+  <node id="12668730876" lat="49.7230806" lon="-2.2011447" version="1" timestamp="2025-03-15T18:22:16Z" changeset="163662465" uid="6794624" user="Comino">
+    <tag k="addr:city" v="Alderney"/>
+    <tag k="addr:postcode" v="GY9 3XX"/>
+    <tag k="address" v="Braye Saltworks, The Crusher Site, GY9 3XX"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Bar Leone"/>
-    <tag k="opening_hours" v="Mo-Su 08:00-20:00"/>
+    <tag k="description" v="Producers of high quality, hand harvested, natural sea salt. Located on the beautiful Channel Island of Alderney."/>
+    <tag k="name" v="Alderney Island Sea Salt"/>
+    <tag k="office" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2025-02-23"/>
+    <tag k="website" v="https://www.aysalt.co.uk/"/>
   </node>
 
 </osm>
