@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-18T05:29:03Z"/>
+<meta osm_base="2025-03-19T05:29:11Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -323,6 +323,19 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.pangeli.co.za/"/>
   </node>
+  <node id="6742205328" lat="48.6390703" lon="-2.0174899" version="3" timestamp="2025-03-18T09:32:33Z" changeset="163765450" uid="20965815" user="Saint-Malo BTC">
+    <tag k="addr:city" v="Saint-Malo"/>
+    <tag k="addr:housenumber" v="59"/>
+    <tag k="addr:postcode" v="35400"/>
+    <tag k="addr:street" v="Rue Georges Clémenceau"/>
+    <tag k="craft" v="watchmaker"/>
+    <tag k="name" v="L'HorloBroc"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-19:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bitcoin:lightning" v="yes"/>
+    <tag k="phone" v="+33 2 99 19 22 18"/>
+    <tag k="website" v="https://lhorlobroc.com/"/>
+  </node>
   <node id="6853720953" lat="45.5246290" lon="10.2102430" version="7" timestamp="2025-01-02T16:46:35Z" changeset="160916701" uid="350864" user="demon_box">
     <tag k="addr:city" v="Brescia"/>
     <tag k="addr:housenumber" v="66"/>
@@ -407,7 +420,7 @@
     <tag k="survey:date" v="2025-01-28"/>
     <tag k="website" v="https://www.facebook.com/bistroluft/"/>
   </node>
-  <node id="9289134513" lat="-29.6504984" lon="-50.5673527" version="3" timestamp="2025-03-16T22:56:19Z" changeset="163709399" uid="22631061" user="Rede Gasfort">
+  <node id="9289134513" lat="-29.6504984" lon="-50.5673527" version="5" timestamp="2025-03-18T19:57:45Z" changeset="163790451" uid="6794624" user="Comino">
     <tag k="addr:city" v="Rolante"/>
     <tag k="addr:housenumber" v="661"/>
     <tag k="addr:postcode" v="95690-000"/>
@@ -415,8 +428,9 @@
     <tag k="addr:suburb" v="Centro"/>
     <tag k="amenity" v="fuel"/>
     <tag k="brand" v="Gasfort"/>
-    <tag k="check_date" v="12-02-2024"/>
-    <tag k="check_date:currency" v="12-02-2024"/>
+    <tag k="check_date" v="2024-02-12"/>
+    <tag k="check_date:currency" v="2024-02-12"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="fuel:diesel" v="yes"/>
     <tag k="fuel:diesel_s10_comum" v="yes"/>
     <tag k="fuel:diesel_s500_comum" v="yes"/>
@@ -426,7 +440,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
-    <tag k="survey:date" v="12-02-2024"/>
+    <tag k="survey:date" v="2024-02-12"/>
   </node>
   <node id="9900625731" lat="12.9030088" lon="100.8711272" version="7" timestamp="2025-02-02T21:15:43Z" changeset="162063407" uid="164424" user="rife">
     <tag k="addr:city" v="Pattaya"/>
@@ -1940,34 +1954,6 @@
     <tag k="phone" v="+5519997676412"/>
     <tag k="tourism" v="alpine_hut"/>
     <tag k="website" v="https://munaypousada.com.br/"/>
-  </node>
-  <node id="12227887046" lat="52.3654328" lon="4.8851271" version="12" timestamp="2025-03-08T12:07:17Z" changeset="163361190" uid="553736" user="A67-A67">
-    <tag k="addr:city" v="Amsterdam"/>
-    <tag k="addr:housenumber" v="41B"/>
-    <tag k="addr:postcode" v="1013EJ"/>
-    <tag k="addr:street" v="Haarlemmerstraat"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="check_date:currency:XBT" v="2024-12-09"/>
-    <tag k="contact:facebook" v="Rhumaa"/>
-    <tag k="contact:instagram" v="rhumaa_official"/>
-    <tag k="contact:twitter" v="RhumaaBV"/>
-    <tag k="cuisine" v="peruvian"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="inside Six and Sons"/>
-    <tag k="internet_access" v="no"/>
-    <tag k="name" v="Rhumaa Cacao Bar &amp; Cafe"/>
-    <tag k="opening_hours" v="Mo-Su 11:00-18:00"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="no"/>
-    <tag k="phone" v="+31126558888"/>
-    <tag k="survey:date" v="2024-10-04"/>
-    <tag k="website" v="https://www.rhumaa.com/"/>
   </node>
   <node id="12227986892" lat="-23.5367951" lon="-46.6496593" version="16" timestamp="2024-10-06T12:10:01Z" changeset="157536971" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="São Paulo"/>
@@ -5776,6 +5762,94 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="kiosk"/>
+  </node>
+  <node id="12675824868" lat="13.6741412" lon="100.5348541" version="2" timestamp="2025-03-18T09:20:36Z" changeset="163764981" uid="22643900" user="TigerGyu">
+    <tag k="addr:district" v="ยานนาวา"/>
+    <tag k="addr:housenumber" v="762/2"/>
+    <tag k="addr:place" v="TigerGyu"/>
+    <tag k="addr:postcode" v="10120"/>
+    <tag k="addr:province" v="กรุงเทพมหานคร"/>
+    <tag k="addr:street" v="ถนนพระรามที่ 3"/>
+    <tag k="addr:subdistrict" v="บางโพงพาง"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="thai;japanese;barbecue;grill"/>
+    <tag k="diet:beef" v="yes"/>
+    <tag k="diet:meat" v="yes"/>
+    <tag k="diet:pork" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="name" v="TigerGyu หมูกระทะ"/>
+    <tag k="opening_hours" v="Mo-Su 17:00-00:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="0645429659"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="website" v="https://www.instagram.com/tigergyu.bkk?igsh=MXdmZHJkcDgwbXBxbw%3D%3D&amp;utm_source=qr"/>
+  </node>
+  <node id="12676919159" lat="-29.7692465" lon="31.0381012" version="4" timestamp="2025-03-18T17:56:26Z" changeset="163786400" uid="21301664" user="yBitcoinza">
+    <tag k="addr:city" v="Durban"/>
+    <tag k="addr:housenumber" v="5"/>
+    <tag k="addr:postcode" v="4051"/>
+    <tag k="addr:street" v="Terence Place"/>
+    <tag k="check_date" v="2025-03-17"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="hairdresser" v="barber"/>
+    <tag k="name" v="Lazlo's Barbershop"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="0799314047"/>
+    <tag k="shop" v="hairdresser"/>
+    <tag k="website" v="http://lazlos.booksy.com/"/>
+  </node>
+  <node id="12676945299" lat="21.0355133" lon="-89.5938939" version="1" timestamp="2025-03-18T16:24:32Z" changeset="163782757" uid="19349327" user="AmandaBitcasa">
+    <tag k="addr:city" v="Mérida"/>
+    <tag k="addr:housenumber" v="310"/>
+    <tag k="addr:neighbourhood" v="Santa Gertrudis Copo"/>
+    <tag k="addr:postcode" v="97305"/>
+    <tag k="addr:state" v="Yuc"/>
+    <tag k="addr:street" v="calle 12A"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Urbaz Desarrollos"/>
+    <tag k="office" v="estate_agent"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+529995767411"/>
+    <tag k="website" v="https://urbaz.mx/"/>
+  </node>
+  <node id="12677024052" lat="21.3392201" lon="-89.3008496" version="3" timestamp="2025-03-18T17:04:07Z" changeset="163784380" uid="19349327" user="AmandaBitcasa">
+    <tag k="addr:city" v="Telchac Puerto"/>
+    <tag k="addr:housenumber" v="km 38.5"/>
+    <tag k="addr:neighbourhood" v="Telchac Puerto"/>
+    <tag k="addr:postcode" v="97407"/>
+    <tag k="addr:state" v="Yuc"/>
+    <tag k="addr:street" v="Yuc 27"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Sayachaltun Ecotours and Restaurant"/>
+    <tag k="operator" v="Rodolfo"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="phone:mobile" v="+529992308119"/>
+    <tag k="tourism" v="attraction"/>
+    <tag k="website" v="https://sayachaltun.com/"/>
+  </node>
+  <node id="12677405905" lat="20.9683280" lon="-89.6228167" version="1" timestamp="2025-03-18T20:07:50Z" changeset="163790803" uid="6794624" user="Comino">
+    <tag k="addr:city" v="Merida"/>
+    <tag k="addr:housenumber" v="498"/>
+    <tag k="addr:neighbourhood" v="Merida Centro"/>
+    <tag k="addr:postcode" v="97000"/>
+    <tag k="addr:state" v="Yuc"/>
+    <tag k="addr:street" v="calle 60"/>
+    <tag k="contact:phone" v="+529992237399"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="We are manufacturers of quality Guayaberas, fabrics and Yucatecan handicrafts."/>
+    <tag k="name" v="La Catedral De La Guayaberas"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="shop" v="fabric"/>
   </node>
 
 </osm>
