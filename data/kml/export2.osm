@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-19T05:29:11Z"/>
+<meta osm_base="2025-03-20T05:29:40Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -322,19 +322,6 @@
     <tag k="survey:date" v="2024-04-18"/>
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.pangeli.co.za/"/>
-  </node>
-  <node id="6742205328" lat="48.6390703" lon="-2.0174899" version="3" timestamp="2025-03-18T09:32:33Z" changeset="163765450" uid="20965815" user="Saint-Malo BTC">
-    <tag k="addr:city" v="Saint-Malo"/>
-    <tag k="addr:housenumber" v="59"/>
-    <tag k="addr:postcode" v="35400"/>
-    <tag k="addr:street" v="Rue Georges Clémenceau"/>
-    <tag k="craft" v="watchmaker"/>
-    <tag k="name" v="L'HorloBroc"/>
-    <tag k="opening_hours" v="Mo-Su 10:00-19:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin:lightning" v="yes"/>
-    <tag k="phone" v="+33 2 99 19 22 18"/>
-    <tag k="website" v="https://lhorlobroc.com/"/>
   </node>
   <node id="6853720953" lat="45.5246290" lon="10.2102430" version="7" timestamp="2025-01-02T16:46:35Z" changeset="160916701" uid="350864" user="demon_box">
     <tag k="addr:city" v="Brescia"/>
@@ -5763,16 +5750,16 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="kiosk"/>
   </node>
-  <node id="12675824868" lat="13.6741412" lon="100.5348541" version="2" timestamp="2025-03-18T09:20:36Z" changeset="163764981" uid="22643900" user="TigerGyu">
+  <node id="12675824868" lat="13.6741412" lon="100.5348541" version="3" timestamp="2025-03-19T06:34:23Z" changeset="163802753" uid="22643900" user="TigerGyu">
     <tag k="addr:district" v="ยานนาวา"/>
     <tag k="addr:housenumber" v="762/2"/>
-    <tag k="addr:place" v="TigerGyu"/>
     <tag k="addr:postcode" v="10120"/>
     <tag k="addr:province" v="กรุงเทพมหานคร"/>
     <tag k="addr:street" v="ถนนพระรามที่ 3"/>
     <tag k="addr:subdistrict" v="บางโพงพาง"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="cuisine" v="thai;japanese;barbecue;grill"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="diet:beef" v="yes"/>
     <tag k="diet:meat" v="yes"/>
     <tag k="diet:pork" v="yes"/>
