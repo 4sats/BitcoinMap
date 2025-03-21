@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-20T05:29:40Z"/>
+<meta osm_base="2025-03-21T05:28:29Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -257,6 +257,22 @@
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="https://amarlevanto.com/"/>
   </node>
+  <node id="4835402421" lat="20.9766663" lon="-89.6190566" version="5" timestamp="2025-03-20T15:22:12Z" changeset="163868025" uid="19349327" user="AmandaBitcasa">
+    <tag k="addr:city" v="Mérida"/>
+    <tag k="addr:housenumber" v="496"/>
+    <tag k="addr:postcode" v="97000"/>
+    <tag k="addr:street" v="Paseo Montejo"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="french"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Zinc - Comfort Food"/>
+    <tag k="opening_hours" v="Tu-Su 13:00-00:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="phone" v="+52 99 9219 1247"/>
+    <tag k="website" v="https://www.facebook.com/zinccomfortfoodmerida"/>
+  </node>
   <node id="5268399490" lat="42.2652810" lon="2.9633016" version="6" timestamp="2024-12-17T19:17:49Z" changeset="160317593" uid="18586507" user="steve_leader">
     <tag k="addr:city" v="Figueres"/>
     <tag k="addr:housenumber" v="32"/>
@@ -407,7 +423,7 @@
     <tag k="survey:date" v="2025-01-28"/>
     <tag k="website" v="https://www.facebook.com/bistroluft/"/>
   </node>
-  <node id="9289134513" lat="-29.6504984" lon="-50.5673527" version="5" timestamp="2025-03-18T19:57:45Z" changeset="163790451" uid="6794624" user="Comino">
+  <node id="9289134513" lat="-29.6504984" lon="-50.5673527" version="6" timestamp="2025-03-20T11:41:39Z" changeset="163858948" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="Rolante"/>
     <tag k="addr:housenumber" v="661"/>
     <tag k="addr:postcode" v="95690-000"/>
@@ -417,6 +433,7 @@
     <tag k="brand" v="Gasfort"/>
     <tag k="check_date" v="2024-02-12"/>
     <tag k="check_date:currency" v="2024-02-12"/>
+    <tag k="check_date:currency:XBT" v="2025-03-20"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="fuel:diesel" v="yes"/>
     <tag k="fuel:diesel_s10_comum" v="yes"/>
@@ -5837,6 +5854,75 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="shop" v="fabric"/>
+  </node>
+  <node id="12683806903" lat="13.4697200" lon="-89.0915800" version="1" timestamp="2025-03-20T07:57:55Z" changeset="163849281" uid="22651103" user="tiankii maker">
+    <tag k="description" v="Desarrollador freelance que acepta pagos Lightning y Bitcoin"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Moises Developer 2020 test 2"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lnurl" v="yes"/>
+    <tag k="shop" v="computer"/>
+  </node>
+  <node id="12683807102" lat="13.4663700" lon="-89.0875300" version="1" timestamp="2025-03-20T08:10:20Z" changeset="163849281" uid="22651103" user="tiankii maker">
+    <tag k="description" v="Servicios de desarrollo de software que acepta pagos Lightning y Bitcoin."/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Moises Developer 2020"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lnurl" v="yes"/>
+    <tag k="shop" v="computer"/>
+    <tag k="website" v="https://moises.dev"/>
+  </node>
+  <node id="12683867701" lat="13.4663700" lon="-89.0875300" version="1" timestamp="2025-03-20T08:12:21Z" changeset="163849763" uid="22651103" user="tiankii maker">
+    <tag k="description" v="Servicios de desarrollo de software que acepta pagos Lightning y Bitcoin."/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Moises Developer 2020"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lnurl" v="yes"/>
+    <tag k="shop" v="computer"/>
+    <tag k="website" v="https://moises.dev"/>
+  </node>
+  <node id="12683936901" lat="13.4673700" lon="-89.0766800" version="1" timestamp="2025-03-20T08:51:16Z" changeset="163851200" uid="22651103" user="tiankii maker">
+    <tag k="description" v="Servicios de desarrollo de software que acepta pagos Lightning y Bitcoin."/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Moises Developer 2020"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lnurl" v="yes"/>
+    <tag k="shop" v="computer"/>
+    <tag k="website" v="https://moises.dev"/>
+  </node>
+  <node id="12684793202" lat="13.4585550" lon="-89.0916990" version="2" timestamp="2025-03-20T16:04:09Z" changeset="163869948" uid="22651103" user="tiankii maker">
+    <tag k="contact:email" v="moises1@blink.sv"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Servicios de desarrollo de software que acepta pagos Lightning y Bitcoin."/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="lightning_address" v="moises1@blink.sv"/>
+    <tag k="name" v="Moises test 1 editado"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lnurl" v="yes"/>
+    <tag k="shop" v="computer"/>
+    <tag k="survey:date" v="2025-03-20"/>
+    <tag k="website" v="https://github.com/JMoises-XCode"/>
+  </node>
+  <node id="12684796501" lat="13.4579910" lon="-89.0905780" version="2" timestamp="2025-03-20T14:58:07Z" changeset="163866965" uid="22651103" user="tiankii maker">
+    <tag k="contact:email" v="moises1@blink.sv"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Servicios de desarrollo de software que acepta pagos Lightning y Bitcoin."/>
+    <tag k="email" v="moises1@blink.sv"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="lightning_address" v="moises1@blink.sv"/>
+    <tag k="name" v="Moises Developer 2020"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lnurl" v="yes"/>
+    <tag k="payment:uri" v="lightning:moises1@blink.sv"/>
+    <tag k="shop" v="computer"/>
+    <tag k="survey:date" v="2025-03-20"/>
+    <tag k="website" v="https://moises.dev"/>
   </node>
 
 </osm>
