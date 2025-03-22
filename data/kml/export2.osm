@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-21T05:28:29Z"/>
+<meta osm_base="2025-03-22T05:28:27Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -5923,6 +5923,23 @@
     <tag k="shop" v="computer"/>
     <tag k="survey:date" v="2025-03-20"/>
     <tag k="website" v="https://moises.dev"/>
+  </node>
+  <node id="12688482231" lat="-26.9904157" lon="-48.6296214" version="3" timestamp="2025-03-21T20:15:33Z" changeset="163923074" uid="22658971" user="Tennis Action">
+    <tag k="addr:city" v="Balneário Camboriú"/>
+    <tag k="addr:housenumber" v="2440 loja 2"/>
+    <tag k="addr:postcode" v="88330015"/>
+    <tag k="addr:street" v="Avenida Atlântica"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="clothes" v="sports"/>
+    <tag k="name" v="Tennis Action"/>
+    <tag k="name:pt" v="Loja Tennis Action"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="5511983159229"/>
+    <tag k="shop" v="clothes"/>
   </node>
 
 </osm>
