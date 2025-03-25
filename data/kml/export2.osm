@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-24T05:29:34Z"/>
+<meta osm_base="2025-03-25T05:29:43Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -486,6 +486,39 @@
     <tag k="payment:coinos" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="0727372110"/>
+  </node>
+  <node id="10130402356" lat="7.8271750" lon="98.3406161" version="5" timestamp="2025-03-25T04:01:20Z" changeset="164058613" uid="22656236" user="enigma nakamoto">
+    <tag k="addr:city" v="Phuket"/>
+    <tag k="addr:housenumber" v="5/13"/>
+    <tag k="addr:postcode" v="83000"/>
+    <tag k="addr:street" v="M.B T Chalong"/>
+    <tag k="alt_name" v="BTC Space - Blockchain Technology Center"/>
+    <tag k="alt_name_1" v="blockinvest"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="brand:en" v="Blockinvest"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Crypto-Coff-109910778095219/"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:GEL" v="yes"/>
+    <tag k="currency:RUB" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="currency:others" v="yes"/>
+    <tag k="email" v="cryptocoffphuket@gmail.com"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Crypto Coff"/>
+    <tag k="name:en" v="Crypto Cof Phuket"/>
+    <tag k="office" v="co_working"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-18:00"/>
+    <tag k="operator:en" v="Blockinvest"/>
+    <tag k="owned_by" v="Blockinvest"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+66 (0)76 682 245"/>
+    <tag k="survey:date" v="2025-03-16"/>
   </node>
   <node id="10567455182" lat="-24.2233969" lon="151.8917693" version="4" timestamp="2024-08-02T12:44:24Z" changeset="154735226" uid="21803935" user="Bayani Mills">
     <tag k="check_date" v="2024-08-02"/>
@@ -5470,7 +5503,7 @@
     <tag k="phone" v="+55 12 981184341"/>
     <tag k="shop" v="household_linen"/>
   </node>
-  <node id="12622660874" lat="-10.8367244" lon="-38.5447182" version="2" timestamp="2025-02-28T12:43:57Z" changeset="163050789" uid="7522075" user="Rockedf">
+  <node id="12622660874" lat="-10.8367244" lon="-38.5447182" version="3" timestamp="2025-03-24T23:16:49Z" changeset="164055006" uid="22560764" user="Carlos Domini">
     <tag k="addr:city" v="Ribeira do Pombal"/>
     <tag k="addr:housenumber" v="711"/>
     <tag k="addr:postcode" v="48400-000"/>
@@ -5485,7 +5518,6 @@
     <tag k="currency:USDC" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="email" v="consultoria@caminhodoalfa.com.br"/>
-    <tag k="internet_access" v="wlan"/>
     <tag k="loc_name" v="Caminho do Alfa"/>
     <tag k="name" v="Alfa Consultoria e Investimentos"/>
     <tag k="office" v="consulting"/>
@@ -5855,22 +5887,102 @@
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="shop" v="fabric"/>
   </node>
-  <node id="12688482231" lat="-26.9904157" lon="-48.6296214" version="3" timestamp="2025-03-21T20:15:33Z" changeset="163923074" uid="22658971" user="Tennis Action">
-    <tag k="addr:city" v="Balneário Camboriú"/>
-    <tag k="addr:housenumber" v="2440 loja 2"/>
-    <tag k="addr:postcode" v="88330015"/>
-    <tag k="addr:street" v="Avenida Atlântica"/>
-    <tag k="addr:suburb" v="Centro"/>
-    <tag k="clothes" v="sports"/>
-    <tag k="name" v="Tennis Action"/>
-    <tag k="name:pt" v="Loja Tennis Action"/>
+  <node id="12696022833" lat="45.5413388" lon="9.3364817" version="1" timestamp="2025-03-24T08:21:13Z" changeset="164018896" uid="22666766" user="SIMTECH SRL">
+    <tag k="addr:city" v="Cernusco sul Naviglio"/>
+    <tag k="addr:housenumber" v="4"/>
+    <tag k="addr:postcode" v="20063"/>
+    <tag k="addr:street" v="Via Amilcare Ponchielli"/>
+    <tag k="addr:unit" v="C"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="SIMTECH Srl"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:contactless" v="no"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survay:date" v="2025-03-24"/>
+    <tag k="website" v="https://www.simtech.it"/>
+  </node>
+  <node id="12696252242" lat="47.3651364" lon="8.5539419" version="4" timestamp="2025-03-24T12:49:35Z" changeset="164031044" uid="22667398" user="stuzzzurich">
+    <tag k="addr:city" v="Zürich"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="8032"/>
+    <tag k="addr:street" v="Kreuzplatz"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="info@stuzz.ch"/>
+    <tag k="name" v="STUZZ (Finanzcoaching &amp;-Beratung)"/>
+    <tag k="note" v="Financial Education and Financial Advice"/>
+    <tag k="office" v="financial_advisor"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bitcoincash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2025-03-24"/>
+    <tag k="website" v="https://www.stuzz.ch/"/>
+  </node>
+  <node id="12697024181" lat="7.8270970" lon="98.3409109" version="5" timestamp="2025-03-25T04:31:24Z" changeset="164059152" uid="2104834" user="yhic4uw">
+    <tag k="addr:housenumber" v="5/13"/>
+    <tag k="addr:place" v="Building2"/>
+    <tag k="addr:postcode" v="83130"/>
+    <tag k="addr:province" v="phuket"/>
+    <tag k="addr:street" v="ถนนเจ้าฟ้าตะวันตก"/>
+    <tag k="brand:en" v="Blockinvest"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/varlivephuket/"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="info@varlivephuket.com"/>
+    <tag k="leisure" v="amusement_arcade"/>
+    <tag k="name" v="VR Games Park Phuket - VAR LIVE"/>
+    <tag k="operator" v="Blockinvest"/>
+    <tag k="operator:en" v="Blockinvest"/>
+    <tag k="owned_by" v="Blockinvest"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="065 349 4826"/>
+    <tag k="survey:date" v="2023-04-22"/>
+  </node>
+  <node id="12697396908" lat="-21.1223855" lon="-44.2191658" version="1" timestamp="2025-03-24T20:11:33Z" changeset="164050067" uid="22667764" user="Rodrigo bitrei">
+    <tag k="addr:city" v="Santa Crus de Minas"/>
+    <tag k="addr:housenumber" v="1642"/>
+    <tag k="addr:postcode" v="36340-000"/>
+    <tag k="addr:street" v="Avenida Ministro Gabriel Passos"/>
+    <tag k="name" v="Shop MultProdut"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
+    <tag k="pagamento: Lightning" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="5511983159229"/>
-    <tag k="shop" v="clothes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="shop" v="craft"/>
+  </node>
+  <node id="12697651862" lat="-10.8407606" lon="-38.5374883" version="1" timestamp="2025-03-24T23:16:49Z" changeset="164055006" uid="22560764" user="Carlos Domini">
+    <tag k="addr:city" v="Ribeira do Pombal"/>
+    <tag k="addr:housenumber" v="547"/>
+    <tag k="addr:postcode" v="48400-000"/>
+    <tag k="addr:street" v="Rua João Fernsndes da Gama"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="currency:brl" v="yes"/>
+    <tag k="currencyBRL" v="yes"/>
+    <tag k="healthcare" v="occupational_therapist"/>
+    <tag k="healthcare:speciality" v="terapia_ocupacional;fonoaudiologia;psicologia_infantil"/>
+    <tag k="name" v="Centro Terapêutico Multi Sensory"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_card" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="phone" v="+5575999991349"/>
+    <tag k="website" v="https://www.instagram.com/_multisensory?igsh=MWpkc2J3aHEyeThraQ=="/>
   </node>
 
 </osm>
