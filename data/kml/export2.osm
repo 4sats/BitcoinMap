@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-26T05:29:56Z"/>
+<meta osm_base="2025-03-27T05:29:30Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -6153,6 +6153,72 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="restaurant" v="fastfood"/>
     <tag k="takeaway" v="yes"/>
+  </node>
+  <node id="12701801168" lat="43.9677390" lon="12.7318539" version="2" timestamp="2025-03-26T09:34:25Z" changeset="164112793" uid="1768045" user="Marco Barulli">
+    <tag k="addr:city" v="Cattolica"/>
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:postcode" v="47841"/>
+    <tag k="addr:street" v="Via Giosuè Carducci"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="bar" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="info@hboston.it"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Hotel Boston"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+39 0541 961152"/>
+    <tag k="survey:date" v="2025-03-26"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://www.hboston.it"/>
+  </node>
+  <node id="12702479739" lat="-34.0104148" lon="22.7794708" version="3" timestamp="2025-03-26T15:26:26Z" changeset="164127108" uid="413346" user="Bitcoin Sedgefield">
+    <tag k="addr:city" v="Sedgefield"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Mosaic Market, N2"/>
+    <tag k="contact:email" v="tribesleathercraft@gmail.com"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/tribesleathercraft"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Tribes Leather Craft"/>
+    <tag k="opening_hours" v="Sa 08:00 - 14:00"/>
+    <tag k="operator" v="Clinton"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="+27717663409"/>
+    <tag k="shop" v="leather"/>
+    <tag k="survey:date" v="2025-03-26"/>
+  </node>
+  <node id="12702542400" lat="-34.0103730" lon="22.7794612" version="2" timestamp="2025-03-26T15:26:48Z" changeset="164127127" uid="413346" user="Bitcoin Sedgefield">
+    <tag k="addr:city" v="Sedgefield"/>
+    <tag k="addr:housenumber" v="38"/>
+    <tag k="addr:street" v="Mosaic Market, N2"/>
+    <tag k="contact:email" v="tribesleathercraft@gmail.com"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Tribes Silver"/>
+    <tag k="opening_hours" v="Sa 08:00 - 14:00"/>
+    <tag k="operator" v="Netti"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+27784341006"/>
+    <tag k="shop" v="jewelry"/>
+    <tag k="survey:date" v="2025-03-26"/>
+  </node>
+  <node id="12703648576" lat="10.4463140" lon="-85.7669649" version="1" timestamp="2025-03-26T22:08:09Z" changeset="164140649" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Mango Mono"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="mangomono.com"/>
   </node>
 
 </osm>
