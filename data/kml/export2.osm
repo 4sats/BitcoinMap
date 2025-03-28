@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-27T05:29:30Z"/>
+<meta osm_base="2025-03-28T05:30:49Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -6193,13 +6193,13 @@
     <tag k="shop" v="leather"/>
     <tag k="survey:date" v="2025-03-26"/>
   </node>
-  <node id="12702542400" lat="-34.0103730" lon="22.7794612" version="2" timestamp="2025-03-26T15:26:48Z" changeset="164127127" uid="413346" user="Bitcoin Sedgefield">
+  <node id="12702542400" lat="-34.0103730" lon="22.7794612" version="3" timestamp="2025-03-27T07:28:47Z" changeset="164150554" uid="413346" user="Bitcoin Sedgefield">
     <tag k="addr:city" v="Sedgefield"/>
     <tag k="addr:housenumber" v="38"/>
     <tag k="addr:street" v="Mosaic Market, N2"/>
     <tag k="contact:email" v="tribesleathercraft@gmail.com"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Tribes Silver"/>
+    <tag k="name" v="Tribes Silver Craft"/>
     <tag k="opening_hours" v="Sa 08:00 - 14:00"/>
     <tag k="operator" v="Netti"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -6219,6 +6219,48 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="mangomono.com"/>
+  </node>
+  <node id="12704162462" lat="-34.0618140" lon="23.3628447" version="1" timestamp="2025-03-27T08:32:30Z" changeset="164152537" uid="413346" user="Bitcoin Sedgefield">
+    <tag k="addr:city" v="Plettenberg bay"/>
+    <tag k="addr:postcode" v="6600"/>
+    <tag k="addr:street" v="Piesang Valley Road"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/profile.php?id=61573058603851"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="Knysna33@yahoo.com"/>
+    <tag k="name" v="The little Crafters MARKET"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-16:30"/>
+    <tag k="operator" v="Mila"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="+27720323999"/>
+    <tag k="shop" v="gift"/>
+    <tag k="survey:date" v="2025-03-27"/>
+  </node>
+  <node id="12705798217" lat="-22.8267656" lon="-45.7383968" version="1" timestamp="2025-03-27T20:08:32Z" changeset="164181238" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
+    <tag k="addr:housenumber" v="194"/>
+    <tag k="addr:postcode" v="1245000"/>
+    <tag k="addr:street" v="Estrada Municipal Sebastião Onório Pereira"/>
+    <tag k="addr:suburb" v="Rio Preto"/>
+    <tag k="check_date:currency:XBT" v="2025-27-03"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Em Santo Antonio do Pinhal, a menos de 20 minutos de Campos do Jordão, descanso, conforto e muito verde faz da Pousada Chalé Sol Nascente, referência na hora de se hospedar bem. O rústico e a elegância juntos em chalés com lareira, frigobar, deck com vist"/>
+    <tag k="email" v="ericklys19998@gmail.com"/>
+    <tag k="name" v="Pousada Chalé Sol Nascente"/>
+    <tag k="operator" v="Ericklys Alan dos Santos"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 997228777"/>
+    <tag k="tourism" v="alpine_hut"/>
+    <tag k="website" v="www.chalesolnascente.com.br"/>
   </node>
 
 </osm>
