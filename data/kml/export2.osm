@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-28T05:30:49Z"/>
+<meta osm_base="2025-03-29T05:28:06Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -257,12 +257,13 @@
     <tag k="tourism" v="guest_house"/>
     <tag k="website" v="https://amarlevanto.com/"/>
   </node>
-  <node id="4835402421" lat="20.9766663" lon="-89.6190566" version="5" timestamp="2025-03-20T15:22:12Z" changeset="163868025" uid="19349327" user="AmandaBitcasa">
+  <node id="4835402421" lat="20.9766663" lon="-89.6190566" version="6" timestamp="2025-03-28T23:16:49Z" changeset="164230458" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="Mérida"/>
     <tag k="addr:housenumber" v="496"/>
     <tag k="addr:postcode" v="97000"/>
     <tag k="addr:street" v="Paseo Montejo"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="check_date:currency:XBT" v="2025-03-28"/>
     <tag k="cuisine" v="french"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Zinc - Comfort Food"/>
@@ -487,39 +488,6 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="0727372110"/>
   </node>
-  <node id="10130402356" lat="7.8271750" lon="98.3406161" version="5" timestamp="2025-03-25T04:01:20Z" changeset="164058613" uid="22656236" user="enigma nakamoto">
-    <tag k="addr:city" v="Phuket"/>
-    <tag k="addr:housenumber" v="5/13"/>
-    <tag k="addr:postcode" v="83000"/>
-    <tag k="addr:street" v="M.B T Chalong"/>
-    <tag k="alt_name" v="BTC Space - Blockchain Technology Center"/>
-    <tag k="alt_name_1" v="blockinvest"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="brand:en" v="Blockinvest"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/Crypto-Coff-109910778095219/"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:GEL" v="yes"/>
-    <tag k="currency:RUB" v="yes"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="currency:others" v="yes"/>
-    <tag k="email" v="cryptocoffphuket@gmail.com"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Crypto Coff"/>
-    <tag k="name:en" v="Crypto Cof Phuket"/>
-    <tag k="office" v="co_working"/>
-    <tag k="opening_hours" v="Mo-Su 08:00-18:00"/>
-    <tag k="operator:en" v="Blockinvest"/>
-    <tag k="owned_by" v="Blockinvest"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+66 (0)76 682 245"/>
-    <tag k="survey:date" v="2025-03-16"/>
-  </node>
   <node id="10567455182" lat="-24.2233969" lon="151.8917693" version="4" timestamp="2024-08-02T12:44:24Z" changeset="154735226" uid="21803935" user="Bayani Mills">
     <tag k="check_date" v="2024-08-02"/>
     <tag k="contact:twitter" v="https://twitter.com/Electra_Frost"/>
@@ -574,9 +542,9 @@
     <tag k="survey:date" v="2024-08-02"/>
     <tag k="website" v="https://risemofo.square.site"/>
   </node>
-  <node id="11179405297" lat="19.0563229" lon="-98.2988235" version="13" timestamp="2025-03-09T20:24:15Z" changeset="163416462" uid="20210096" user="La Carnivoría">
+  <node id="11179405297" lat="19.0563229" lon="-98.2988235" version="14" timestamp="2025-03-29T01:26:27Z" changeset="164232227" uid="20210096" user="La Carnivoría">
     <tag k="addr:city" v="San Andrés Cholula"/>
-    <tag k="addr:housenumber" v="1001"/>
+    <tag k="addr:housenumber" v="1003"/>
     <tag k="addr:neighbourhood" v="San Juan Aquiahuac"/>
     <tag k="addr:postcode" v="72810"/>
     <tag k="addr:state" v="Puebla"/>
@@ -5922,57 +5890,15 @@
     <tag k="survey:date" v="2025-03-24"/>
     <tag k="website" v="https://www.stuzz.ch/"/>
   </node>
-  <node id="12697024181" lat="7.8270970" lon="98.3409109" version="6" timestamp="2025-03-25T06:56:38Z" changeset="164062275" uid="22656236" user="enigma nakamoto">
-    <tag k="addr:housenumber" v="5/13"/>
-    <tag k="addr:place" v="Building2"/>
-    <tag k="addr:postcode" v="83130"/>
-    <tag k="addr:province" v="phuket"/>
-    <tag k="addr:street" v="ถนนเจ้าฟ้าตะวันตก"/>
-    <tag k="brand:en" v="Blockinvest"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/varlivephuket/"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="info@varlivephuket.com"/>
-    <tag k="leisure" v="amusement_arcade"/>
-    <tag k="name" v="VR Games Park Phuket - VAR LIVE"/>
-    <tag k="operator" v="Blockinvest"/>
-    <tag k="operator:en" v="Blockinvest"/>
-    <tag k="owned_by" v="Blockinvest"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="065 349 4826"/>
-    <tag k="survey:date" v="2025-02-22"/>
-  </node>
-  <node id="12697396908" lat="-21.1223855" lon="-44.2191658" version="1" timestamp="2025-03-24T20:11:33Z" changeset="164050067" uid="22667764" user="Rodrigo bitrei">
-    <tag k="addr:city" v="Santa Crus de Minas"/>
-    <tag k="addr:housenumber" v="1642"/>
-    <tag k="addr:postcode" v="36340-000"/>
-    <tag k="addr:street" v="Avenida Ministro Gabriel Passos"/>
-    <tag k="name" v="Shop MultProdut"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
-    <tag k="pagamento: Lightning" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="shop" v="craft"/>
-  </node>
-  <node id="12697651862" lat="-10.8407606" lon="-38.5374883" version="1" timestamp="2025-03-24T23:16:49Z" changeset="164055006" uid="22560764" user="Carlos Domini">
+  <node id="12697651862" lat="-10.8407606" lon="-38.5374883" version="3" timestamp="2025-03-28T23:18:14Z" changeset="164230492" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="Ribeira do Pombal"/>
     <tag k="addr:housenumber" v="547"/>
     <tag k="addr:postcode" v="48400-000"/>
     <tag k="addr:street" v="Rua João Fernsndes da Gama"/>
     <tag k="addr:suburb" v="Centro"/>
-    <tag k="currency:BTC" v="yes"/>
+    <tag k="check_date:currency:XBT" v="2025-03-28"/>
+    <tag k="currency:BRL" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="currency:brl" v="yes"/>
-    <tag k="currencyBRL" v="yes"/>
     <tag k="healthcare" v="occupational_therapist"/>
     <tag k="healthcare:speciality" v="terapia_ocupacional;fonoaudiologia;psicologia_infantil"/>
     <tag k="name" v="Centro Terapêutico Multi Sensory"/>
@@ -5983,7 +5909,7 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="phone" v="+5575999991349"/>
-    <tag k="website" v="https://www.instagram.com/_multisensory?igsh=MWpkc2J3aHEyeThraQ=="/>
+    <tag k="website" v="https://www.instagram.com/_multisensory"/>
   </node>
   <node id="12699191401" lat="-22.8254255" lon="-45.6643562" version="1" timestamp="2025-03-25T15:50:31Z" changeset="164083686" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antônio do Pinhal"/>
@@ -6239,28 +6165,15 @@
     <tag k="shop" v="gift"/>
     <tag k="survey:date" v="2025-03-27"/>
   </node>
-  <node id="12705798217" lat="-22.8267656" lon="-45.7383968" version="1" timestamp="2025-03-27T20:08:32Z" changeset="164181238" uid="22025649" user="Bitcoin Amantikir">
-    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
-    <tag k="addr:housenumber" v="194"/>
-    <tag k="addr:postcode" v="1245000"/>
-    <tag k="addr:street" v="Estrada Municipal Sebastião Onório Pereira"/>
-    <tag k="addr:suburb" v="Rio Preto"/>
-    <tag k="check_date:currency:XBT" v="2025-27-03"/>
-    <tag k="currency:USD" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Em Santo Antonio do Pinhal, a menos de 20 minutos de Campos do Jordão, descanso, conforto e muito verde faz da Pousada Chalé Sol Nascente, referência na hora de se hospedar bem. O rústico e a elegância juntos em chalés com lareira, frigobar, deck com vist"/>
-    <tag k="email" v="ericklys19998@gmail.com"/>
-    <tag k="name" v="Pousada Chalé Sol Nascente"/>
-    <tag k="operator" v="Ericklys Alan dos Santos"/>
+  <node id="12707736949" lat="51.4565195" lon="-2.5891711" version="1" timestamp="2025-03-28T14:51:09Z" changeset="164211430" uid="22685202" user="MatchaBoxTea">
+    <tag k="addr:housename" v="CG25, Galleries Shopping Center"/>
+    <tag k="name" v="Matcha Box"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coinos" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+55 12 997228777"/>
-    <tag k="tourism" v="alpine_hut"/>
-    <tag k="website" v="www.chalesolnascente.com.br"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="shop" v="tea"/>
   </node>
 
 </osm>
