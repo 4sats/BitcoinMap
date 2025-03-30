@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-29T05:28:06Z"/>
+<meta osm_base="2025-03-30T05:28:29Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -6165,15 +6165,67 @@
     <tag k="shop" v="gift"/>
     <tag k="survey:date" v="2025-03-27"/>
   </node>
-  <node id="12707736949" lat="51.4565195" lon="-2.5891711" version="1" timestamp="2025-03-28T14:51:09Z" changeset="164211430" uid="22685202" user="MatchaBoxTea">
+  <node id="12707736949" lat="51.4565195" lon="-2.5891711" version="3" timestamp="2025-03-29T12:13:20Z" changeset="164246936" uid="22685202" user="MatchaBoxTea">
     <tag k="addr:housename" v="CG25, Galleries Shopping Center"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Matcha Box"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:contactless" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="tea"/>
+  </node>
+  <node id="12709623332" lat="-34.0102941" lon="22.7795142" version="1" timestamp="2025-03-29T10:57:49Z" changeset="164244075" uid="413346" user="Bitcoin Sedgefield">
+    <tag k="addr:city" v="Sedgefield"/>
+    <tag k="addr:housenumber" v="60"/>
+    <tag k="addr:street" v="Mosaic market, N2"/>
+    <tag k="contact:email" v="nicky-anne@mweb.co.za"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/cmented"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Cmented"/>
+    <tag k="opening_hours" v="Sa 08:00-14:00"/>
+    <tag k="operator" v="Anton and Nicky-Anne"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="+27 72 108 3730"/>
+    <tag k="shop" v="yes"/>
+    <tag k="survey:date" v="2025-03-29"/>
+  </node>
+  <node id="12709627688" lat="-34.0103027" lon="22.7797299" version="3" timestamp="2025-03-29T15:00:55Z" changeset="164252766" uid="413346" user="Bitcoin Sedgefield">
+    <tag k="addr:city" v="Sedgefield"/>
+    <tag k="addr:street" v="Mosaic Market, N2"/>
+    <tag k="contact:email" v="gutsensibility@gmail.com"/>
+    <tag k="contact:facebook" v="francois.harris@gmail.com"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Gut Sense Kombucha"/>
+    <tag k="opening_hours" v="Sa 08:00-14:00"/>
+    <tag k="operator" v="Riana"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="phone" v="+27 76 715 1083"/>
+    <tag k="shop" v="beverages"/>
+    <tag k="survey:date" v="2025-03-29"/>
+  </node>
+  <node id="12709648807" lat="-34.0105349" lon="22.7795058" version="1" timestamp="2025-03-29T11:29:40Z" changeset="164245342" uid="413346" user="Bitcoin Sedgefield">
+    <tag k="addr:city" v="Sedgefield"/>
+    <tag k="addr:street" v="Mosaic Market, N2"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Fantasy Wings and Things"/>
+    <tag k="opening_hours" v="Sa 08:00-14:00"/>
+    <tag k="operator" v="Hannelie"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="+27 81 244 1717"/>
+    <tag k="shop" v="yes"/>
+    <tag k="survey:date" v="2025-03-29"/>
   </node>
 
 </osm>
