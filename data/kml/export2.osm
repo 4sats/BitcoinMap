@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-01T05:30:32Z"/>
+<meta osm_base="2025-04-02T05:30:44Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -5832,16 +5832,17 @@
     <tag k="survey:date" v="2025-03-24"/>
     <tag k="website" v="https://www.simtech.it"/>
   </node>
-  <node id="12696252242" lat="47.3651364" lon="8.5539419" version="4" timestamp="2025-03-24T12:49:35Z" changeset="164031044" uid="22667398" user="stuzzzurich">
+  <node id="12696252242" lat="47.3651364" lon="8.5539419" version="5" timestamp="2025-04-01T15:40:00Z" changeset="164381285" uid="3930252" user="Lezurex">
     <tag k="addr:city" v="Zürich"/>
     <tag k="addr:housenumber" v="2"/>
     <tag k="addr:postcode" v="8032"/>
     <tag k="addr:street" v="Kreuzplatz"/>
     <tag k="currency:BTC" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Finanzcoaching &amp;-Beratung"/>
+    <tag k="description:en" v="Financial Education and Financial Advice"/>
     <tag k="email" v="info@stuzz.ch"/>
-    <tag k="name" v="STUZZ (Finanzcoaching &amp;-Beratung)"/>
-    <tag k="note" v="Financial Education and Financial Advice"/>
+    <tag k="name" v="STUZZ"/>
     <tag k="office" v="financial_advisor"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -6163,6 +6164,57 @@
     <tag k="phone" v="+19372982667"/>
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://getyourdna.com/"/>
+  </node>
+  <node id="12719346818" lat="-26.9919792" lon="-48.6290317" version="1" timestamp="2025-04-01T18:13:42Z" changeset="164387855" uid="22356608" user="Arthur Gustavo">
+    <tag k="addr:city" v="Balneário Camboriú"/>
+    <tag k="addr:housenumber" v="Sala 19 B"/>
+    <tag k="addr:postcode" v="88330-906"/>
+    <tag k="addr:street" v="Edifício Imperatriz - Av. Atlântica"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="tutikgx@gmail.com"/>
+    <tag k="name" v="Adicione seu negócio no BTC map! Entre em contato:"/>
+    <tag k="name:en" v="Add your business in BTC map! Send a message:"/>
+    <tag k="note" v="Entre em contato e cadastre o seu negócio no BTC MAP para ganhar visibilidade e mostrar essa disponibilidade de pagamento para os clientes na região!"/>
+    <tag k="office" v="graphic_design"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="phone" v="47 99715-3719"/>
+  </node>
+  <node id="12719558969" lat="64.8434809" lon="-147.7259395" version="1" timestamp="2025-04-01T18:28:18Z" changeset="164388470" uid="22356608" user="Arthur Gustavo">
+    <tag k="addr:city" v="Fairbanks"/>
+    <tag k="addr:housenumber" v="714"/>
+    <tag k="addr:postcode" v="99701"/>
+    <tag k="addr:state" v="AK"/>
+    <tag k="addr:street" v="3rd Avenue"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="tutikgx@gmail.com"/>
+    <tag k="name" v="Add your business in BTC map! Contact:"/>
+    <tag k="name:pt" v="Adicione seu negócio no BTC map! Entre em contato:"/>
+    <tag k="note" v="Get in touch and register your business on BTC MAP to gain visibility and show this payment availability to customers in the region!"/>
+    <tag k="office" v="graphic_design"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="phone" v="+55 47 99715-3719"/>
+  </node>
+  <node id="12719567630" lat="-7.9275430" lon="-14.4139904" version="2" timestamp="2025-04-01T18:49:38Z" changeset="164389271" uid="22356608" user="Arthur Gustavo">
+    <tag k="addr:city" v="Georgetown"/>
+    <tag k="addr:housenumber" v="125"/>
+    <tag k="addr:postcode" v="04547"/>
+    <tag k="addr:street" v="PO, box, ME"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Adicione seu negócio no BTC map! Entre em contato:"/>
+    <tag k="name:en" v="Add your business in BTC map! Send a message:"/>
+    <tag k="note" v="Entre em contato e cadastre o seu negócio no BTC MAP para ganhar visibilidade e mostrar essa disponibilidade de pagamento para os clientes na sua região!"/>
+    <tag k="office" v="graphic_design"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+55 47 99715-3719"/>
   </node>
 
 </osm>
