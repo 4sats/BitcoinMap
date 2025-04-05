@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-04T05:29:54Z"/>
+<meta osm_base="2025-04-05T05:29:16Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -5728,7 +5728,7 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="kiosk"/>
   </node>
-  <node id="12675824868" lat="13.6741412" lon="100.5348541" version="3" timestamp="2025-03-19T06:34:23Z" changeset="163802753" uid="22643900" user="TigerGyu">
+  <node id="12675824868" lat="13.6741412" lon="100.5348541" version="4" timestamp="2025-04-05T04:33:37Z" changeset="164535243" uid="2104834" user="yhic4uw">
     <tag k="addr:district" v="ยานนาวา"/>
     <tag k="addr:housenumber" v="762/2"/>
     <tag k="addr:postcode" v="10120"/>
@@ -5736,6 +5736,7 @@
     <tag k="addr:street" v="ถนนพระรามที่ 3"/>
     <tag k="addr:subdistrict" v="บางโพงพาง"/>
     <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2025-04-05"/>
     <tag k="cuisine" v="thai;japanese;barbecue;grill"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="diet:beef" v="yes"/>
@@ -6085,8 +6086,9 @@
     <tag k="shop" v="gift"/>
     <tag k="survey:date" v="2025-03-27"/>
   </node>
-  <node id="12707736949" lat="51.4565195" lon="-2.5891711" version="3" timestamp="2025-03-29T12:13:20Z" changeset="164246936" uid="22685202" user="MatchaBoxTea">
+  <node id="12707736949" lat="51.4565195" lon="-2.5891711" version="4" timestamp="2025-04-04T17:07:05Z" changeset="164520306" uid="7522075" user="Rockedf">
     <tag k="addr:housename" v="CG25, Galleries Shopping Center"/>
+    <tag k="check_date:currency:XBT" v="2025-04-04"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Matcha Box"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -6147,74 +6149,6 @@
     <tag k="shop" v="yes"/>
     <tag k="survey:date" v="2025-03-29"/>
   </node>
-  <node id="12715098428" lat="39.7012341" lon="-84.1226533" version="2" timestamp="2025-04-02T21:14:05Z" changeset="164440074" uid="22692642" user="aps41961">
-    <tag k="addr:city" v="Kettering"/>
-    <tag k="addr:housenumber" v="2280"/>
-    <tag k="addr:postcode" v="45420"/>
-    <tag k="addr:state" v="OH"/>
-    <tag k="addr:street" v="East Dorothy Lane"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/getyourdna"/>
-    <tag k="email" v="support@getyourdna.com"/>
-    <tag k="name" v="DNA Computers"/>
-    <tag k="opening_hours" v="Mo-Fri 09:00-18:00; Sa-Su off"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin_cash" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="phone" v="+19372982667"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="https://getyourdna.com/"/>
-  </node>
-  <node id="12719346818" lat="-26.9919792" lon="-48.6290317" version="1" timestamp="2025-04-01T18:13:42Z" changeset="164387855" uid="22356608" user="Arthur Gustavo">
-    <tag k="addr:city" v="Balneário Camboriú"/>
-    <tag k="addr:housenumber" v="Sala 19 B"/>
-    <tag k="addr:postcode" v="88330-906"/>
-    <tag k="addr:street" v="Edifício Imperatriz - Av. Atlântica"/>
-    <tag k="addr:suburb" v="Centro"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="tutikgx@gmail.com"/>
-    <tag k="name" v="Adicione seu negócio no BTC map! Entre em contato:"/>
-    <tag k="name:en" v="Add your business in BTC map! Send a message:"/>
-    <tag k="note" v="Entre em contato e cadastre o seu negócio no BTC MAP para ganhar visibilidade e mostrar essa disponibilidade de pagamento para os clientes na região!"/>
-    <tag k="office" v="graphic_design"/>
-    <tag k="opening_hours" v="Mo-Fr 08:30-17:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="phone" v="47 99715-3719"/>
-  </node>
-  <node id="12719558969" lat="64.8434809" lon="-147.7259395" version="1" timestamp="2025-04-01T18:28:18Z" changeset="164388470" uid="22356608" user="Arthur Gustavo">
-    <tag k="addr:city" v="Fairbanks"/>
-    <tag k="addr:housenumber" v="714"/>
-    <tag k="addr:postcode" v="99701"/>
-    <tag k="addr:state" v="AK"/>
-    <tag k="addr:street" v="3rd Avenue"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="tutikgx@gmail.com"/>
-    <tag k="name" v="Add your business in BTC map! Contact:"/>
-    <tag k="name:pt" v="Adicione seu negócio no BTC map! Entre em contato:"/>
-    <tag k="note" v="Get in touch and register your business on BTC MAP to gain visibility and show this payment availability to customers in the region!"/>
-    <tag k="office" v="graphic_design"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="phone" v="+55 47 99715-3719"/>
-  </node>
-  <node id="12719567630" lat="-7.9275430" lon="-14.4139904" version="2" timestamp="2025-04-01T18:49:38Z" changeset="164389271" uid="22356608" user="Arthur Gustavo">
-    <tag k="addr:city" v="Georgetown"/>
-    <tag k="addr:housenumber" v="125"/>
-    <tag k="addr:postcode" v="04547"/>
-    <tag k="addr:street" v="PO, box, ME"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Adicione seu negócio no BTC map! Entre em contato:"/>
-    <tag k="name:en" v="Add your business in BTC map! Send a message:"/>
-    <tag k="note" v="Entre em contato e cadastre o seu negócio no BTC MAP para ganhar visibilidade e mostrar essa disponibilidade de pagamento para os clientes na sua região!"/>
-    <tag k="office" v="graphic_design"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+55 47 99715-3719"/>
-  </node>
   <node id="12724329798" lat="-22.7881952" lon="-45.6889843" version="1" timestamp="2025-04-02T21:19:30Z" changeset="164440221" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo Antônio do Pinhal"/>
     <tag k="addr:housenumber" v="555"/>
@@ -6256,6 +6190,164 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 997683338"/>
+  </node>
+  <node id="12729307025" lat="-29.3782826" lon="-51.1133502" version="2" timestamp="2025-04-04T17:27:07Z" changeset="164521044" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Nova Petrópolis"/>
+    <tag k="addr:housenumber" v="1080"/>
+    <tag k="addr:postcode" v="95150-000"/>
+    <tag k="addr:street" v="Avenida 15 de Novembro"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="name" v="Nordweg"/>
+    <tag k="opening_hours" v="Friday 09:30–18:30  Saturday 09:30–18:30  Sunday 09:30–18:30  Monday 09:30–18:30  Tuesday 09:30–18:30  Wednesday 09:30–18:30  Thursday 09:30–18:30"/>
+    <tag k="operator" v="Igor"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+55 (54) 99660-0791"/>
+    <tag k="shop" v="bag"/>
+    <tag k="website" v="https://nordweg.com/collections/mochilas?srsltid=AfmBOoqN9TJZjcn7z7teMXoKYqFnwJQMtsfdddzvwnD45bP4q6PwMwrH"/>
+  </node>
+  <node id="12729330298" lat="-29.4599984" lon="-50.5797607" version="1" timestamp="2025-04-04T16:19:17Z" changeset="164518276" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="São Francisco de Paula"/>
+    <tag k="addr:housenumber" v="968"/>
+    <tag k="addr:postcode" v="95400-000"/>
+    <tag k="addr:street" v="Estr. da Serra Velha"/>
+    <tag k="name" v="Lareiras &amp; Cia"/>
+    <tag k="opening_hours" v="Friday 09:30–18:00  Saturday 09:30–18:00  Sunday 10:00–16:00  Monday Closed  Tuesday 09:30–18:00  Wednesday 09:30–18:00  Thursday 09:30–18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 (54) 98122-1242"/>
+    <tag k="shop" v="furniture"/>
+  </node>
+  <node id="12729360490" lat="-29.3765501" lon="-51.1121516" version="1" timestamp="2025-04-04T16:40:50Z" changeset="164519180" uid="21451889" user="Bitcoin Forte">
+    <tag k="name" v="Mel da Terra - Cosméticos Naturais (Online)"/>
+    <tag k="opening_hours" v="Sa 8:00 -12:00"/>
+    <tag k="operator" v="Mel"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 51 92003-1205"/>
+    <tag k="shop" v="chemist"/>
+    <tag k="website" v="https://www.instagram.com/mel.was.wondering?igsh=Y254eWljODE2MGl2"/>
+  </node>
+  <node id="12729440905" lat="-30.0423917" lon="-51.1798608" version="1" timestamp="2025-04-04T17:33:20Z" changeset="164521302" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Porto Alegre"/>
+    <tag k="addr:housenumber" v="2934"/>
+    <tag k="addr:postcode" v="90410-004"/>
+    <tag k="addr:street" v="Av. Protásio Alves"/>
+    <tag k="addr:suburb" v="Petrópolis"/>
+    <tag k="name" v="Postal Digital Gráfica"/>
+    <tag k="opening_hours" v="Friday 09:00–18:00  Saturday Closed  Sunday Closed  Monday 09:00–18:00  Tuesday 09:00–18:00  Wednesday 09:00–18:00  Thursday 09:00–18:00"/>
+    <tag k="operator" v="Richard"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 51 3026 0666"/>
+    <tag k="shop" v="copyshop"/>
+    <tag k="website" v="http://www.postaldigitalrs.com.br/"/>
+  </node>
+  <node id="12729518098" lat="-29.3669312" lon="-51.0973758" version="1" timestamp="2025-04-04T18:50:09Z" changeset="164524389" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Nova Petrópolis"/>
+    <tag k="addr:housenumber" v="137"/>
+    <tag k="addr:postcode" v="95150-000"/>
+    <tag k="addr:street" v="R. Caxias do Sul"/>
+    <tag k="addr:suburb" v="Pousada da Neve"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Terapia Restaurante e Lancheria"/>
+    <tag k="opening_hours" v="Friday 09:00–22:00  Saturday 09:00–22:00  Sunday 14:00–22:00  Monday 09:00–22:00  Tuesday 09:00–22:00  Wednesday 09:00–22:00  Thursday 09:00–22:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="website" v="terapia.restaurante.lancheria"/>
+  </node>
+  <node id="12729599946" lat="-27.0690995" lon="-48.9251304" version="1" timestamp="2025-04-04T19:25:02Z" changeset="164525542" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Brusque"/>
+    <tag k="addr:postcode" v="88351-631"/>
+    <tag k="addr:street" v="R. Elvira Horner"/>
+    <tag k="addr:suburb" v="São Pedro"/>
+    <tag k="craft" v="painter"/>
+    <tag k="name" v="Pintura de Moveis Bruslack"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 47 98881 4443"/>
+    <tag k="website" v="https://linktr.ee/bruslack"/>
+  </node>
+  <node id="12729656819" lat="-25.5853825" lon="-49.2976518" version="1" timestamp="2025-04-04T19:48:26Z" changeset="164526271" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Curitiba"/>
+    <tag k="addr:housenumber" v="1600"/>
+    <tag k="addr:postcode" v="81940-340"/>
+    <tag k="addr:street" v="R. Ângelo Gai"/>
+    <tag k="addr:suburb" v="Umbará"/>
+    <tag k="amenity" v="events_venue"/>
+    <tag k="mobile" v="55 41 99777 8608"/>
+    <tag k="name" v="Chácara Baldan Eventos em Curitiba"/>
+    <tag k="opening_hours" v="Friday 09:00–18:00  Saturday Closed  Sunday Closed  Monday Closed  Tuesday 09:00–18:00  Wednesday 09:00–18:00  Thursday 09:00–18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="website" v="https://chacarabaldaneventos.com/"/>
+  </node>
+  <node id="12729674626" lat="-23.6690946" lon="-46.5631158" version="1" timestamp="2025-04-04T20:04:16Z" changeset="164526814" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="São Bernardo do Campo"/>
+    <tag k="addr:housenumber" v="467"/>
+    <tag k="addr:postcode" v="09618-100"/>
+    <tag k="addr:street" v="R. Paulo di Favari"/>
+    <tag k="addr:suburb" v="Vila Caminho do Mar"/>
+    <tag k="amenity" v="clinic"/>
+    <tag k="email" v="rafaelroyalsaude@hotmail.com"/>
+    <tag k="healthcare" v="clinic"/>
+    <tag k="healthcare:speciality" v="plano_de_saúde"/>
+    <tag k="mobile" v="+55 11 99781 9167"/>
+    <tag k="name" v="Royal Saúde"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="website" v="https://bit.ly/41X5fW2"/>
+  </node>
+  <node id="12729683999" lat="-3.7863805" lon="-38.5219406" version="1" timestamp="2025-04-04T20:20:44Z" changeset="164527286" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Fortaleza"/>
+    <tag k="addr:housenumber" v="365"/>
+    <tag k="addr:street" v="Rua Chico Mota"/>
+    <tag k="addr:suburb" v="Dias Macêdo"/>
+    <tag k="name" v="Pousada Victória"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 85 99634 8132"/>
+    <tag k="tourism" v="motel"/>
+    <tag k="website" v="https://www.airbnb.com.br/rooms/1291313501205605084?viralityEntryPoint=1&amp;s=76"/>
+  </node>
+  <node id="12729695468" lat="-19.9549255" lon="-43.9520954" version="1" timestamp="2025-04-04T20:28:34Z" changeset="164527543" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Belo Horizonte"/>
+    <tag k="addr:housenumber" v="130"/>
+    <tag k="addr:postcode" v="30350-342"/>
+    <tag k="addr:street" v="Rua Professor José Renault"/>
+    <tag k="addr:suburb" v="São Bento"/>
+    <tag k="name" v="Zig Aluguel de Máquinas"/>
+    <tag k="opening_hours" v="Friday 07:00–16:00  Saturday Closed  Sunday Closed  Monday 07:00–16:00  Tuesday 07:00–16:00  Wednesday 07:00–16:00  Thursday 07:00–16:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 31 97575 8250"/>
+    <tag k="shop" v="tool_hire"/>
+    <tag k="website" v="http://zigloc.com.br/"/>
+  </node>
+  <node id="12729735765" lat="-16.6147132" lon="-49.3206272" version="1" timestamp="2025-04-04T20:42:50Z" changeset="164528075" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Goiânia"/>
+    <tag k="addr:street" v="Avenida mangalo"/>
+    <tag k="addr:suburb" v="setor: jardim das Hortências"/>
+    <tag k="currency:BTC" v="yes"/>
+    <tag k="name" v="D Refrigeração"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 62 99130 7791"/>
+    <tag k="shop" v="tool_hire"/>
+  </node>
+  <node id="12729842661" lat="-9.5737121" lon="-35.7428040" version="1" timestamp="2025-04-04T21:24:33Z" changeset="164529168" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Antares"/>
+    <tag k="addr:housenumber" v="406"/>
+    <tag k="addr:street" v="Av. Dr. Milton Henio Netto de Gouveia"/>
+    <tag k="healthcare" v="alternative"/>
+    <tag k="name" v="Santo Prazer - Casas das Primas"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 82 99649 6638"/>
+    <tag k="website" v="https://www.skokky.com/listagem?id=740"/>
   </node>
 
 </osm>
