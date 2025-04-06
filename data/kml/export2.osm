@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-05T05:29:16Z"/>
+<meta osm_base="2025-04-06T05:27:41Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -273,6 +273,29 @@
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="phone" v="+52 99 9219 1247"/>
     <tag k="website" v="https://www.facebook.com/zinccomfortfoodmerida"/>
+  </node>
+  <node id="4935627381" lat="47.3545311" lon="8.5560474" version="8" timestamp="2025-04-06T00:22:03Z" changeset="164571846" uid="22315207" user="pi_ng">
+    <tag k="addr:city" v="Zürich"/>
+    <tag k="addr:country" v="CH"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="8008"/>
+    <tag k="addr:street" v="Fröhlichstrasse"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2025-04-06"/>
+    <tag k="cuisine" v="italian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Restaurant Bar Miracle"/>
+    <tag k="opening_hours" v="Mo-Tu 11:30-23:30, We-Fr 11:30-24:00, Su 17:45-22:55"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+41 44 382 20 05"/>
+    <tag k="smoking" v="outside"/>
+    <tag k="survey:date" v="2025-04-06"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="website" v="https://miracleseefeld.ch/"/>
+    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="5268399490" lat="42.2652810" lon="2.9633016" version="6" timestamp="2024-12-17T19:17:49Z" changeset="160317593" uid="18586507" user="steve_leader">
     <tag k="addr:city" v="Figueres"/>
@@ -6348,6 +6371,79 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 82 99649 6638"/>
     <tag k="website" v="https://www.skokky.com/listagem?id=740"/>
+  </node>
+  <node id="12730678917" lat="-34.0100522" lon="22.7811538" version="1" timestamp="2025-04-05T10:52:30Z" changeset="164545251" uid="413346" user="Bitcoin Sedgefield">
+    <tag k="addr:city" v="Sedgefield"/>
+    <tag k="addr:housenumber" v="8A"/>
+    <tag k="addr:street" v="Scarab Arts &amp; Crafts Village, N2"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/deliciously.deli"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Your Food &amp; Beverage Deli in Sedgefield. Farm fresh Milk on Tap, Yoghurt and ‘Stofpad Boere’ Biltong."/>
+    <tag k="name" v="Deli’ciously Deli"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-15:00, Sa 07:30-1500"/>
+    <tag k="operator" v="Christo Pretorious"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="+27 76 307 6615"/>
+    <tag k="shop" v="deli"/>
+    <tag k="survey:date" v="2025-04-05"/>
+  </node>
+  <node id="12730731965" lat="-34.0102413" lon="22.7795339" version="1" timestamp="2025-04-05T11:44:23Z" changeset="164547274" uid="413346" user="Bitcoin Sedgefield">
+    <tag k="addr:city" v="Sedgefield"/>
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:street" v="Mosaic Market, N2"/>
+    <tag k="clothes" v="hats;women;men"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="zwayfam@netactive.co.za"/>
+    <tag k="name" v="Pachamama Africa"/>
+    <tag k="opening_hours" v="Sa 08:00-14:00"/>
+    <tag k="operator" v="Patti Zway"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="+27 82 660 9266"/>
+    <tag k="shop" v="fashion_accessories"/>
+    <tag k="survey:date" v="2025-04-05"/>
+    <tag k="website" v="https://panamahats.co.za/"/>
+  </node>
+  <node id="12730990344" lat="-34.0098347" lon="22.7818497" version="1" timestamp="2025-04-05T13:30:20Z" changeset="164551460" uid="413346" user="Bitcoin Sedgefield">
+    <tag k="addr:city" v="Sedgefield"/>
+    <tag k="addr:street" v="Scarab Arts and Crafts Village, N2"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Satori Graceful"/>
+    <tag k="opening_hours" v="Sa 08:00-14:00"/>
+    <tag k="operator" v="Sanette Stradling"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="+2773292700"/>
+    <tag k="shop" v="yes"/>
+    <tag k="survey:date" v="2025-04-05"/>
+  </node>
+  <node id="12731205978" lat="-34.0098277" lon="22.7817938" version="1" timestamp="2025-04-05T13:45:15Z" changeset="164552127" uid="413346" user="Bitcoin Sedgefield">
+    <tag k="addr:city" v="Sedgefield"/>
+    <tag k="addr:street" v="Scarab Arts &amp; Crafts Village, N2"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Power of one love"/>
+    <tag k="opening_hours" v="Sa 08:00-14:00"/>
+    <tag k="operator" v="Ruth"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="+27760611429"/>
+    <tag k="shop" v="clothes"/>
+    <tag k="survey:date" v="2025-04-05"/>
   </node>
 
 </osm>
