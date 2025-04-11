@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-10T05:29:51Z"/>
+<meta osm_base="2025-04-11T05:31:40Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -6635,6 +6635,27 @@
     <tag k="payment:litecoin" v="yes"/>
     <tag k="phone" v="+1-800-896-6411"/>
     <tag k="sells:XBT" v="yes"/>
+  </node>
+  <node id="12745373490" lat="-22.8248626" lon="-45.6642130" version="1" timestamp="2025-04-10T20:16:26Z" changeset="164786356" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
+    <tag k="addr:housenumber" v="520"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Rua Governador Carvalho Pinto"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2025-04-10"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Centro de Treinamento de modalidades mistas : levantamento de peso , ginástica , atletismo , dança , pilates , Cross fit"/>
+    <tag k="email" v="williamminorukatayama86@gmail.com"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="Nativo Centro de treinamento"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 997868699"/>
   </node>
 
 </osm>
