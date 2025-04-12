@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-11T05:31:40Z"/>
+<meta osm_base="2025-04-12T05:28:22Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -41,6 +41,20 @@
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="website" v="https://la-vita.sk/"/>
+  </node>
+  <node id="1233070569" lat="44.4081956" lon="8.9329147" version="3" timestamp="2025-04-11T16:03:52Z" changeset="164823215" uid="2164478" user="OFFICINE IADR">
+    <tag k="addr:city" v="Genova"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="16123"/>
+    <tag k="addr:street" v="Salita San Matteo"/>
+    <tag k="addr:unit" v="8"/>
+    <tag k="name" v="The Meter Srl"/>
+    <tag k="office" v="company"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="phone" v="+39 010 2473385"/>
+    <tag k="website" v="www.themeter.it"/>
   </node>
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -200,6 +214,22 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="website" v="https://kuzina.bg"/>
+  </node>
+  <node id="2947470708" lat="44.4082384" lon="8.9328060" version="13" timestamp="2025-04-11T15:58:31Z" changeset="164823017" uid="2164478" user="OFFICINE IADR">
+    <tag k="addr:city" v="Genova"/>
+    <tag k="addr:housenumber" v="19/8"/>
+    <tag k="addr:postcode" v="16123"/>
+    <tag k="addr:street" v="Salita San Matteo"/>
+    <tag k="contact:email" v="info@officineiadr.com"/>
+    <tag k="contact:website" v="http://www.officineiadr.com"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Officine IADR"/>
+    <tag k="office" v="engineering"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="phone" v="+39 010 2473385"/>
+    <tag k="website" v="http://www.officineiadr.com"/>
   </node>
   <node id="3575666513" lat="-34.5901790" lon="-58.4282050" version="8" timestamp="2025-02-11T14:39:15Z" changeset="162394002" uid="22178353" user="Formreader">
     <tag k="addr:city" v="Ciudad Autónoma de Buenos Aires"/>
@@ -3121,11 +3151,12 @@
     <tag k="tourism" v="alpine_hut"/>
     <tag k="website" v="https://www.pousadacesar.com.br/"/>
   </node>
-  <node id="12332981826" lat="50.6096931" lon="-1.9591720" version="1" timestamp="2024-11-11T22:44:04Z" changeset="159029251" uid="13666626" user="RedAuburn">
+  <node id="12332981826" lat="50.6096931" lon="-1.9591720" version="2" timestamp="2025-04-11T16:33:16Z" changeset="164824414" uid="13666626" user="RedAuburn">
     <tag k="addr:city" v="Swanage"/>
     <tag k="addr:housenumber" v="47"/>
     <tag k="addr:postcode" v="BH19 1AD"/>
     <tag k="addr:street" v="Station Road"/>
+    <tag k="check_date" v="2025-04-11"/>
     <tag k="fhrs:authority" v="Purbeck"/>
     <tag k="fhrs:id" v="977012"/>
     <tag k="name" v="Swanage News"/>
@@ -6464,7 +6495,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 11 995289911"/>
   </node>
-  <node id="12739605405" lat="-22.8238226" lon="-45.6719435" version="1" timestamp="2025-04-08T18:33:52Z" changeset="164693156" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12739605405" lat="-22.8238226" lon="-45.6719435" version="2" timestamp="2025-04-11T07:23:14Z" changeset="164801199" uid="5359" user="user_5359">
     <tag k="addr:city" v="Santo Antonio do Pinhal"/>
     <tag k="addr:housenumber" v="991"/>
     <tag k="addr:postcode" v="12450000"/>
@@ -6480,7 +6511,6 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="paymente:coinos" v="yes"/>
     <tag k="phone" v="+55 12 9997096011"/>
   </node>
   <node id="12741697250" lat="-22.8256391" lon="-45.6650224" version="1" timestamp="2025-04-09T15:01:37Z" changeset="164729214" uid="22025649" user="Bitcoin Amantikir">
