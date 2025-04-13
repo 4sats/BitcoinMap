@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-12T05:28:22Z"/>
+<meta osm_base="2025-04-13T05:32:57Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -70,6 +70,19 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+61 2 6684 2415"/>
     <tag k="website" v="https://lulus-cafe.com.au/"/>
+  </node>
+  <node id="1643619978" lat="46.7614172" lon="7.6294882" version="3" timestamp="2025-04-12T09:43:06Z" changeset="164847827" uid="22748042" user="fjvmvc">
+    <tag k="addr:city" v="Thun"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="3600"/>
+    <tag k="addr:street" v="Burgstrasse"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="asian"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="chops. l sushi &amp; more"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+41 33 229 32 82"/>
   </node>
   <node id="2550660390" lat="-22.8006062" lon="-45.6952505" version="4" timestamp="2025-01-31T12:45:01Z" changeset="161975891" uid="22025649" user="Bitcoin Amantikir">
     <tag k="addr:city" v="Santo antonio do pinhal"/>
@@ -523,6 +536,12 @@
     <tag k="payment:qr_pay" v="yes"/>
     <tag k="phone" v="+66854370470"/>
     <tag k="website" v="https://www.counseling-office.com/counseling-center-thailand.phtml"/>
+  </node>
+  <node id="10083261940" lat="47.3495906" lon="8.4913704" version="2" timestamp="2025-04-12T13:18:09Z" changeset="164855730" uid="4430457" user="stillhart">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="Marktstand"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:eth" v="yes"/>
   </node>
   <node id="10103488116" lat="-29.7330435" lon="31.0830025" version="5" timestamp="2024-11-13T19:23:50Z" changeset="159104434" uid="21301664" user="yBitcoinza">
     <tag k="addr:city" v="Umhlanga"/>
