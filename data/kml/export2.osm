@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-20T05:29:00Z"/>
+<meta osm_base="2025-04-21T05:31:27Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -42,7 +42,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="website" v="https://la-vita.sk/"/>
   </node>
-  <node id="1233070569" lat="44.4081956" lon="8.9329147" version="3" timestamp="2025-04-11T16:03:52Z" changeset="164823215" uid="2164478" user="OFFICINE IADR">
+  <node id="1233070569" lat="44.4081956" lon="8.9329147" version="4" timestamp="2025-04-21T04:43:39Z" changeset="165219297" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Genova"/>
     <tag k="addr:housenumber" v="19"/>
     <tag k="addr:postcode" v="16123"/>
@@ -54,7 +54,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:coins" v="yes"/>
     <tag k="phone" v="+39 010 2473385"/>
-    <tag k="website" v="www.themeter.it"/>
+    <tag k="website" v="https://www.themeter.it/"/>
   </node>
   <node id="1504386666" lat="-28.5538886" lon="153.4997101" version="4" timestamp="2024-09-16T06:37:17Z" changeset="156673233" uid="20518161" user="GeeMaps!">
     <tag k="addr:housenumber" v="104"/>
@@ -6815,6 +6815,28 @@
     <tag k="takeaway" v="yes"/>
     <tag k="website" v="https://www.instagram.com/gofit.lifestyle"/>
     <tag k="website:menu" v="https://www.whatsapp.com/catalog/553175244266"/>
+  </node>
+  <node id="12770505660" lat="52.5501835" lon="13.3877290" version="2" timestamp="2025-04-20T15:33:04Z" changeset="165200201" uid="22810898" user="BerlinExxer">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="13357"/>
+    <tag k="addr:street" v="Heidebrinker Straße"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="currency:btc" v="yes"/>
+    <tag k="name" v="Crypto Exchange BTC zu Cash @ExxerBerlin"/>
+    <tag k="office" v="it"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="@exxerberlin"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:corrency:xbt" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="survey:date" v="2025-04-20"/>
+    <tag k="vending" v="crypto;btc"/>
+    <tag k="website" v="https://t.me/Exxerberlin"/>
   </node>
 
 </osm>
