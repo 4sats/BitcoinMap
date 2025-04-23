@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-22T05:30:32Z"/>
+<meta osm_base="2025-04-23T05:30:11Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -439,6 +439,32 @@
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="survey:date" v="2024-08-09"/>
+  </node>
+  <node id="7212774085" lat="41.4995776" lon="1.8379811" version="5" timestamp="2025-04-22T13:31:07Z" changeset="165286291" uid="22820506" user="Faulharo">
+    <tag k="addr:city" v="La Beguda Alta"/>
+    <tag k="addr:housenumber" v="57"/>
+    <tag k="addr:postcode" v="08782"/>
+    <tag k="addr:street" v="Carrer dels Horts"/>
+    <tag k="brand" v="Dropcampers"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USDC" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="info@dropcampers.com"/>
+    <tag k="name" v="Drop Campers"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-18:00"/>
+    <tag k="payment:bank_transfer" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="service:vehicle:4x4_repairs" v="yes"/>
+    <tag k="service:vehicle:camping" v="yes"/>
+    <tag k="service:vehicle:overland" v="yes"/>
+    <tag k="service:vehicle:rv" v="yes"/>
+    <tag k="service:vehicle:trailers" v="yes"/>
+    <tag k="shop" v="caravan"/>
+    <tag k="website" v="https://www.dropcampers.com/"/>
   </node>
   <node id="7660154838" lat="50.3884511" lon="18.8823044" version="8" timestamp="2024-09-25T17:50:35Z" changeset="157094987" uid="11410610" user="gabinetpsychiatra">
     <tag k="addr:city" v="Bytom"/>
@@ -6883,6 +6909,40 @@
     <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="farm"/>
+  </node>
+  <node id="12776356114" lat="-29.3654702" lon="-51.0901516" version="1" timestamp="2025-04-22T13:58:48Z" changeset="165287654" uid="21451889" user="Bitcoin Forte">
+    <tag k="addr:city" v="Nova Petrópolis"/>
+    <tag k="addr:housenumber" v="118"/>
+    <tag k="addr:postcode" v="95150-000"/>
+    <tag k="addr:street" v="R. dos Ackerman, - , RS,"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="JNA REPARAÇÃO E ESTÉTICA AUTOMOTIVA"/>
+    <tag k="opening_hours" v="Tuesday 08:00–18:00  Wednesday 08:00–18:00  Thursday 08:00–18:00  Friday 08:00–18:00  Saturday Closed  Sunday Closed  Monday 08:00–18:00"/>
+    <tag k="operator" v="Jones"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="phone" v="054984323190"/>
+    <tag k="shop" v="repair"/>
+    <tag k="website" v="https://www.instagram.com/jnareparacaoautomotiva/"/>
+  </node>
+  <node id="12777121570" lat="10.3938118" lon="-85.7908656" version="1" timestamp="2025-04-22T21:01:46Z" changeset="165304354" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="leisure" v="fitness_centre"/>
+    <tag k="name" v="The Village Gym"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="12777173392" lat="10.3089354" lon="-85.8146617" version="1" timestamp="2025-04-22T21:26:03Z" changeset="165304952" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="amenity" v="cafe"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Let's Play Kids Cafe"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
   </node>
 
 </osm>
