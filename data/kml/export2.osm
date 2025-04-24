@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-23T05:30:11Z"/>
+<meta osm_base="2025-04-24T05:30:36Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -284,6 +284,17 @@
     <tag k="shop" v="gift"/>
     <tag k="source" v="Reconocimiento cartográfico por KG 2016."/>
   </node>
+  <node id="3954396519" lat="10.2875153" lon="-85.8505374" version="6" timestamp="2025-04-23T16:33:12Z" changeset="165342692" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="El Sapo"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="source" v="KG Ground Survey 2015"/>
+  </node>
   <node id="4379042414" lat="51.4251073" lon="-0.0834934" version="5" timestamp="2024-09-29T19:02:19Z" changeset="157267719" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="London"/>
     <tag k="addr:housenumber" v="140"/>
@@ -439,32 +450,6 @@
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="survey:date" v="2024-08-09"/>
-  </node>
-  <node id="7212774085" lat="41.4995776" lon="1.8379811" version="5" timestamp="2025-04-22T13:31:07Z" changeset="165286291" uid="22820506" user="Faulharo">
-    <tag k="addr:city" v="La Beguda Alta"/>
-    <tag k="addr:housenumber" v="57"/>
-    <tag k="addr:postcode" v="08782"/>
-    <tag k="addr:street" v="Carrer dels Horts"/>
-    <tag k="brand" v="Dropcampers"/>
-    <tag k="currency:EUR" v="yes"/>
-    <tag k="currency:USDC" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="info@dropcampers.com"/>
-    <tag k="name" v="Drop Campers"/>
-    <tag k="opening_hours" v="Mo-Su 08:00-18:00"/>
-    <tag k="payment:bank_transfer" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="service:vehicle:4x4_repairs" v="yes"/>
-    <tag k="service:vehicle:camping" v="yes"/>
-    <tag k="service:vehicle:overland" v="yes"/>
-    <tag k="service:vehicle:rv" v="yes"/>
-    <tag k="service:vehicle:trailers" v="yes"/>
-    <tag k="shop" v="caravan"/>
-    <tag k="website" v="https://www.dropcampers.com/"/>
   </node>
   <node id="7660154838" lat="50.3884511" lon="18.8823044" version="8" timestamp="2024-09-25T17:50:35Z" changeset="157094987" uid="11410610" user="gabinetpsychiatra">
     <tag k="addr:city" v="Bytom"/>
@@ -630,6 +615,16 @@
     <tag k="payment:onchain" v="no"/>
     <tag k="payment:paypay" v="yes"/>
     <tag k="website" v="https://cocorotus.com"/>
+  </node>
+  <node id="10595272410" lat="10.2967749" lon="-85.8391169" version="2" timestamp="2025-04-23T16:15:17Z" changeset="165342004" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date" v="2023-01-30"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Zolu Taco Bar"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
   </node>
   <node id="10980930381" lat="-33.2668884" lon="151.5493921" version="3" timestamp="2024-08-02T06:32:46Z" changeset="154720498" uid="21803935" user="Bayani Mills">
     <tag k="addr:housenumber" v="327"/>
@@ -4752,6 +4747,25 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="sport" v="fitness"/>
   </node>
+  <node id="12565682415" lat="10.2978832" lon="-85.8406430" version="2" timestamp="2025-04-23T16:30:25Z" changeset="165342581" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="amenity" v="dentist"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="name" v="Solside Dental Studio"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="12565772835" lat="10.3001717" lon="-85.8413237" version="2" timestamp="2025-04-23T16:29:10Z" changeset="165342526" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Tama Onda Beachfront Restaurant"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+  </node>
   <node id="12566605222" lat="-12.9304210" lon="-38.3227104" version="4" timestamp="2025-02-17T00:20:30Z" changeset="162591641" uid="22301586" user="brp2pCripto">
     <tag k="addr:city" v="Salvador"/>
     <tag k="addr:housenumber" v="Qd 12, Lt 5"/>
@@ -4847,24 +4861,6 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 997730473"/>
     <tag k="shop" v="car_repair"/>
-  </node>
-  <node id="12580160406" lat="46.7564846" lon="14.0283301" version="2" timestamp="2025-02-11T20:49:43Z" changeset="162406895" uid="22488278" user="ABU338">
-    <tag k="addr:city" v="Himmelberg"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:postcode" v="9562"/>
-    <tag k="addr:street" v="Oberboden"/>
-    <tag k="name" v="hochbeet.com"/>
-    <tag k="opening_hours" v="Mo-Fr 07:00-16:00"/>
-    <tag k="operator" v="Buttazoni Stahlbau"/>
-    <tag k="payment:bancomat" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="phone" v="+4342762556"/>
-    <tag k="shop" v="hochbeete,_tomatenhäuser,_komposter"/>
   </node>
   <node id="12580364793" lat="-26.9216529" lon="-48.6527860" version="1" timestamp="2025-02-11T22:58:08Z" changeset="162409973" uid="22375642" user="Davi BTC">
     <tag k="addr:city" v="Itajaí"/>
@@ -6879,13 +6875,12 @@
     <tag k="website" v="https://www.instagram.com/gofit.lifestyle"/>
     <tag k="website:menu" v="https://www.whatsapp.com/catalog/553175244266"/>
   </node>
-  <node id="12773088756" lat="47.3873601" lon="9.6558938" version="1" timestamp="2025-04-21T21:09:28Z" changeset="165258490" uid="21379345" user="frei-kusterag">
+  <node id="12773088756" lat="47.3873601" lon="9.6558938" version="3" timestamp="2025-04-23T14:43:56Z" changeset="165337617" uid="21379345" user="frei-kusterag">
     <tag k="addr:city" v="Diepoldsau"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="9444"/>
     <tag k="addr:street" v="Wiesgasse"/>
     <tag k="name" v="Drive-In Bäckerei Konditorei Fuchs GmbH"/>
-    <tag k="opening_hours" v="Mo-Sa 06:00-13:00"/>
     <tag k="operator" v="Raffaela Fuchs"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
@@ -6893,9 +6888,10 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+41 71 733 11 87"/>
     <tag k="shop" v="bakery"/>
+    <tag k="survey:date" v="2025-04-23"/>
     <tag k="website" v="https://www.bäckereikonditorei-fuchs.ch/drive-in"/>
   </node>
-  <node id="12773108489" lat="47.3828500" lon="9.6239277" version="1" timestamp="2025-04-21T21:27:41Z" changeset="165258972" uid="21379345" user="frei-kusterag">
+  <node id="12773108489" lat="47.3828500" lon="9.6239277" version="2" timestamp="2025-04-23T07:16:36Z" changeset="165316870" uid="21379345" user="frei-kusterag">
     <tag k="addr:city" v="Balgach"/>
     <tag k="addr:housenumber" v="49"/>
     <tag k="addr:postcode" v="9436"/>
@@ -6909,6 +6905,7 @@
     <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="farm"/>
+    <tag k="survey:date" v="2025-04-23"/>
   </node>
   <node id="12776356114" lat="-29.3654702" lon="-51.0901516" version="1" timestamp="2025-04-22T13:58:48Z" changeset="165287654" uid="21451889" user="Bitcoin Forte">
     <tag k="addr:city" v="Nova Petrópolis"/>
@@ -6943,6 +6940,98 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="12778893528" lat="9.9383118" lon="-84.1432955" version="1" timestamp="2025-04-23T15:40:54Z" changeset="165340522" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Funes &amp; Matthys Abogados - Attorneys at Law"/>
+    <tag k="office" v="lawyer"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="12778898227" lat="10.2990036" lon="-85.8410178" version="1" timestamp="2025-04-23T15:47:30Z" changeset="165340912" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Ollies Surf Shop"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="shop" v="yes"/>
+  </node>
+  <node id="12778900885" lat="10.3082906" lon="-85.8308881" version="1" timestamp="2025-04-23T15:44:51Z" changeset="165340774" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="optometrist"/>
+    <tag k="name" v="Ojos del Mar - Eye Care Clinic"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="12778905337" lat="10.2992372" lon="-85.8410989" version="1" timestamp="2025-04-23T15:51:04Z" changeset="165341067" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Bliss Art Fair &amp; Photography"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="shop" v="art"/>
+  </node>
+  <node id="12778915099" lat="10.2965234" lon="-85.8390484" version="1" timestamp="2025-04-23T16:16:41Z" changeset="165342042" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Mariajuana Restobar Tamarindo"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="12778922469" lat="10.2881610" lon="-85.7951410" version="1" timestamp="2025-04-23T15:55:14Z" changeset="165341259" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Amor de Villa Real Tamarindo"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="tourism" v="apartment"/>
+  </node>
+  <node id="12778940657" lat="10.3082854" lon="-85.8309224" version="1" timestamp="2025-04-23T16:26:46Z" changeset="165342438" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="amenity" v="doctors"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="doctor"/>
+    <tag k="healthcare:speciality" v="dermatology"/>
+    <tag k="name" v="Pacific Medi Spa"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="12778947838" lat="10.2993349" lon="-85.8419446" version="1" timestamp="2025-04-23T16:03:44Z" changeset="165341603" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Arkaburo handcrafted silver jewelry"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
+  <node id="12778965259" lat="10.2983231" lon="-85.8411388" version="1" timestamp="2025-04-23T16:09:03Z" changeset="165341789" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="La Berrakera Tamarindo"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="12778992107" lat="10.3086682" lon="-85.8309739" version="1" timestamp="2025-04-23T16:31:49Z" changeset="165342637" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="The Green Spot"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="shop" v="nutrition_supplements"/>
   </node>
 
 </osm>
