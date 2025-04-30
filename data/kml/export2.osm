@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-29T05:30:14Z"/>
+<meta osm_base="2025-04-30T05:29:58Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -7102,6 +7102,55 @@
     <tag k="phone" v="+55 12 987069897"/>
     <tag k="shop" v="pet"/>
     <tag k="website" v="www.aumiboutiquepet.com.br"/>
+  </node>
+  <node id="12798229228" lat="-24.9462120" lon="-50.1246611" version="2" timestamp="2025-04-29T18:30:52Z" changeset="165604839" uid="22730885" user="dverschoor78">
+    <tag k="addr:city" v="Carambeí"/>
+    <tag k="addr:housenumber" v="1380"/>
+    <tag k="addr:postcode" v="84145000"/>
+    <tag k="addr:street" v="Avenida dos Pioneiros"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Verschoor Investimentos Imobiliários"/>
+    <tag k="office" v="construction_company"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="source" v="Aceita Bitcoin?"/>
+    <tag k="source:date" v="2025-04-29"/>
+    <tag k="source:url" v="https://aceita-bitcoin.br-ln.com/"/>
+  </node>
+  <node id="12798312515" lat="-24.9462273" lon="-50.1246200" version="2" timestamp="2025-04-29T18:29:55Z" changeset="165604820" uid="22730885" user="dverschoor78">
+    <tag k="addr:city" v="Carambeí"/>
+    <tag k="addr:housenumber" v="1380"/>
+    <tag k="addr:postcode" v="84145-000"/>
+    <tag k="addr:street" v="Avenida dos Pioneiros"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Agropecuária Verschoor"/>
+    <tag k="office" v="agro_office"/>
+    <tag k="opening_hours" v="Mo-Th 07:30-17:30, Fr 7:30-16:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="source:date" v="2024-04-29"/>
+    <tag k="source:name" v="aceita bitcoin"/>
+    <tag k="source:url" v="https://aceita-bitcoin.br-ln.com/"/>
+  </node>
+  <node id="12798360276" lat="-24.9462391" lon="-50.1245845" version="1" timestamp="2025-04-29T18:29:55Z" changeset="165604820" uid="22730885" user="dverschoor78">
+    <tag k="addr:city" v="Carambeí"/>
+    <tag k="addr:housenumber" v="1380"/>
+    <tag k="addr:postcode" v="84145-000"/>
+    <tag k="addr:street" v="Avenida dos Pioneiros"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Willy Agropecuária"/>
+    <tag k="office" v="agro_company"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="source:date" v="2025-04-29"/>
+    <tag k="source:name" v="aceita bitcoin"/>
+    <tag k="source:url" v="https://aceita-bitcoin.br-ln.com"/>
   </node>
 
 </osm>
