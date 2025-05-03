@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-02T05:31:26Z"/>
+<meta osm_base="2025-05-03T05:30:16Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -360,29 +360,6 @@
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="phone" v="+52 99 9219 1247"/>
     <tag k="website" v="https://www.facebook.com/zinccomfortfoodmerida"/>
-  </node>
-  <node id="4935627381" lat="47.3545311" lon="8.5560474" version="9" timestamp="2025-04-08T21:26:16Z" changeset="164698395" uid="22315207" user="pi_ng">
-    <tag k="addr:city" v="Zürich"/>
-    <tag k="addr:country" v="CH"/>
-    <tag k="addr:housenumber" v="37"/>
-    <tag k="addr:postcode" v="8008"/>
-    <tag k="addr:street" v="Fröhlichstrasse"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="check_date" v="2025-04-08"/>
-    <tag k="cuisine" v="italian"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Restaurant Bar Miracle"/>
-    <tag k="opening_hours" v="Mo-Tu 11:30-23:30, We-Fr 11:30-24:00, Su 17:30-23:30"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+41 44 382 20 05"/>
-    <tag k="smoking" v="outside"/>
-    <tag k="survey:date" v="2025-04-08"/>
-    <tag k="takeaway" v="yes"/>
-    <tag k="website" v="https://miracleseefeld.ch/"/>
-    <tag k="wheelchair" v="limited"/>
   </node>
   <node id="5268399490" lat="42.2652810" lon="2.9633016" version="6" timestamp="2024-12-17T19:17:49Z" changeset="160317593" uid="18586507" user="steve_leader">
     <tag k="addr:city" v="Figueres"/>
@@ -7311,6 +7288,65 @@
     <tag k="shop" v="computer"/>
     <tag k="survey:date" v="2025-05-01"/>
     <tag k="website" v="www.hardwaresupport.eu"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12804055595" lat="-2.9026514" lon="37.5181210" version="1" timestamp="2025-05-02T13:33:48Z" changeset="165719961" uid="22856061" user="Amboseli Trails">
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="00209"/>
+    <tag k="addr:street" v="Amboseli"/>
+    <tag k="email" v="amboselitrails@gmail.com"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="name" v="Amboseli Trails"/>
+    <tag k="operator" v="Amboseli Trails"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bitcoincash" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:mpesa" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="phone" v="0701041682"/>
+    <tag k="tourism" v="chalet"/>
+  </node>
+  <node id="12805080797" lat="-27.3022846" lon="-55.8850429" version="1" timestamp="2025-05-02T23:00:33Z" changeset="165739764" uid="22855909" user="DLUL">
+    <tag k="addr:city" v="ENCARNACIÓN"/>
+    <tag k="addr:housenumber" v="890"/>
+    <tag k="addr:postcode" v="070101"/>
+    <tag k="addr:street" v="NARANJAL"/>
+    <tag k="air_conditioning" v="no"/>
+    <tag k="bar" v="yes"/>
+    <tag k="brand" v="HTE"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Hostel-Travel-Encarnación-1570610873182104/"/>
+    <tag k="email" v="hostaltravelencarnacion@gmail.com"/>
+    <tag k="image" v="https://www.instagram.com/hostel_travel_encarnacion"/>
+    <tag k="internet_access" v="wired"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="mobile" v="+595985711100"/>
+    <tag k="name" v="HOTEL TRAVEL ENCARNACIÓN"/>
+    <tag k="official_name" v="HOTEL TRAVEL ENCARNACIÓN"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-19:00"/>
+    <tag k="payment:account_cards" v="yes"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:blackcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+595985711100"/>
+    <tag k="reservation" v="recommended"/>
+    <tag k="rooms" v="14"/>
+    <tag k="short_name" v="HTE"/>
+    <tag k="smoking" v="isolated"/>
+    <tag k="stars" v="5"/>
+    <tag k="start_date" v="2015 01 29"/>
+    <tag k="tourism" v="hotel"/>
+    <tag k="website" v="https://wa.me/595985711100"/>
     <tag k="wheelchair" v="yes"/>
   </node>
 
