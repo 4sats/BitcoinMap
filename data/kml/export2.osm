@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-03T05:30:16Z"/>
+<meta osm_base="2025-05-04T05:30:04Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -7348,6 +7348,42 @@
     <tag k="tourism" v="hotel"/>
     <tag k="website" v="https://wa.me/595985711100"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12805974818" lat="-34.0105330" lon="22.7794707" version="1" timestamp="2025-05-03T11:16:43Z" changeset="165753969" uid="413346" user="Bitcoin Sedgefield">
+    <tag k="addr:city" v="Sedgefield"/>
+    <tag k="addr:street" v="Mosaic Market, N2"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Scrap metal art for sale"/>
+    <tag k="name" v="Creatures Great and Small"/>
+    <tag k="opening_hours" v="Sa 08:00-14:00"/>
+    <tag k="operator" v="Steve Kirsten"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="shop" v="scrap_metal_art"/>
+    <tag k="survey:date" v="2025-05-03"/>
+  </node>
+  <node id="12805985796" lat="-34.0105332" lon="22.7795250" version="1" timestamp="2025-05-03T11:12:14Z" changeset="165753812" uid="413346" user="Bitcoin Sedgefield">
+    <tag k="addr:city" v="Sedgefield"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:street" v="Mosaic market, N2"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="shelleyduplessis1@gmail.com"/>
+    <tag k="name" v="Shelley du Plessis Art"/>
+    <tag k="opening_hours" v="Sa 08:00-14:00"/>
+    <tag k="operator" v="Shelley du Plessis"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="phone" v="+27 72 397 9477"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="survey:date" v="2025-05-03"/>
   </node>
 
 </osm>
