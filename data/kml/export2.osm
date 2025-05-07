@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-06T05:31:14Z"/>
+<meta osm_base="2025-05-07T05:31:14Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -7116,7 +7116,7 @@
     <tag k="phone" v="+55 12 996379826"/>
     <tag k="shop" v="pastry"/>
   </node>
-  <node id="12795785878" lat="-22.8259431" lon="-45.6583995" version="1" timestamp="2025-04-28T17:04:30Z" changeset="165558070" uid="22025649" user="Bitcoin Amantikir">
+  <node id="12795785878" lat="-22.8259431" lon="-45.6583995" version="2" timestamp="2025-05-07T02:57:15Z" changeset="165917670" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Santo Antônio do Pinhal"/>
     <tag k="addr:housenumber" v="345"/>
     <tag k="addr:postcode" v="12450-000"/>
@@ -7137,7 +7137,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+55 12 987069897"/>
     <tag k="shop" v="pet"/>
-    <tag k="website" v="www.aumiboutiquepet.com.br"/>
+    <tag k="website" v="https://www.aumiboutiquepet.com.br/"/>
   </node>
   <node id="12798229228" lat="-24.9462120" lon="-50.1246611" version="3" timestamp="2025-04-30T14:29:32Z" changeset="165638282" uid="22730885" user="dverschoor78">
     <tag k="addr:city" v="Carambeí"/>
@@ -7272,7 +7272,7 @@
     <tag k="phone" v="+55 12 988585933"/>
     <tag k="website" v="https://araukarien.com.br/"/>
   </node>
-  <node id="12803081378" lat="48.8868172" lon="18.0095066" version="1" timestamp="2025-05-01T21:27:39Z" changeset="165694934" uid="22853853" user="bitcorex">
+  <node id="12803081378" lat="48.8868172" lon="18.0095066" version="2" timestamp="2025-05-06T11:47:08Z" changeset="165887950" uid="9451067" user="b-jazz-bot">
     <tag k="addr:city" v="Trenčín"/>
     <tag k="addr:housenumber" v="2417"/>
     <tag k="addr:postcode" v="91105"/>
@@ -7289,7 +7289,7 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="computer"/>
     <tag k="survey:date" v="2025-05-01"/>
-    <tag k="website" v="www.hardwaresupport.eu"/>
+    <tag k="website" v="https://www.hardwaresupport.eu/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
   <node id="12804055595" lat="-2.9026514" lon="37.5181210" version="1" timestamp="2025-05-02T13:33:48Z" changeset="165719961" uid="22856061" user="Amboseli Trails">
@@ -7386,6 +7386,21 @@
     <tag k="phone" v="+27 72 397 9477"/>
     <tag k="shop" v="supermarket"/>
     <tag k="survey:date" v="2025-05-03"/>
+  </node>
+  <node id="12814189206" lat="47.8640558" lon="12.0090539" version="1" timestamp="2025-05-06T12:34:58Z" changeset="165889920" uid="22869502" user="Handystopaibling">
+    <tag k="addr:city" v="Bad Aibling"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="83043"/>
+    <tag k="addr:street" v="Münchner Straße"/>
+    <tag k="name" v="Handystop Aibling"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:ec_cards" v="yes"/>
+    <tag k="phone" v="080619380604"/>
+    <tag k="shop" v="mobile_phone"/>
+    <tag k="website" v="https://www.handystop-badaibling.de/"/>
   </node>
 
 </osm>
