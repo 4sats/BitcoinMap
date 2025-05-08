@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-07T05:31:14Z"/>
+<meta osm_base="2025-05-08T05:31:58Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -4634,12 +4634,13 @@
     <tag k="phone" v="+55 12 992475222"/>
     <tag k="shop" v="electrical"/>
   </node>
-  <node id="12550411358" lat="-22.6612331" lon="-46.5998646" version="5" timestamp="2025-02-02T03:38:02Z" changeset="162032972" uid="22450092" user="Recanto Rancho do Peixe">
+  <node id="12550411358" lat="-22.6612331" lon="-46.5998646" version="6" timestamp="2025-05-07T15:14:11Z" changeset="165943880" uid="7522075" user="Rockedf">
     <tag k="addr:city" v="Socorro"/>
     <tag k="addr:street" v="Estr. Mun. do Oratório, 13574-13596"/>
     <tag k="addr:suburb" v="Agudo"/>
     <tag k="amenity" v="restaurant"/>
     <tag k="bar" v="yes"/>
+    <tag k="check_date:currency:XBT" v="2025-05-07"/>
     <tag k="cuisine" v="fish;juice;brazilian;brunch;regional"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="internet_access" v="yes"/>
@@ -7401,6 +7402,155 @@
     <tag k="phone" v="080619380604"/>
     <tag k="shop" v="mobile_phone"/>
     <tag k="website" v="https://www.handystop-badaibling.de/"/>
+  </node>
+  <node id="12817287981" lat="-22.7213899" lon="-45.5667999" version="1" timestamp="2025-05-07T15:03:04Z" changeset="165943426" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Campos do Jordão"/>
+    <tag k="addr:housenumber" v="76"/>
+    <tag k="addr:postcode" v="12460-000"/>
+    <tag k="addr:street" v="Rua paulo Riba"/>
+    <tag k="addr:suburb" v="Capivari"/>
+    <tag k="check_date:currency:XBT" v="2025-05-07"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Maior encanto de Vinho , Gastronomia e noegocis da Serra da Mantiqueira"/>
+    <tag k="email" v="renatoviotti@gmail.com"/>
+    <tag k="name" v="Vinhos na Serra"/>
+    <tag k="operator" v="Renato Nogueira dos Santos"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 982512158"/>
+    <tag k="shop" v="wine"/>
+  </node>
+  <node id="12817316994" lat="-22.8250501" lon="-45.6664470" version="1" timestamp="2025-05-07T15:25:55Z" changeset="165944378" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
+    <tag k="addr:housenumber" v="556"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Avenida Ministro Nelson Hungria"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date:currency:XBT" v="2025-05-07"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Servimos cafés , salgados e lanches"/>
+    <tag k="email" v="josecarlosdac70@gmail.com"/>
+    <tag k="name" v="Café ponto Chic"/>
+    <tag k="opening_hours" v="Mo-Sa 05:00-19:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 996231890"/>
+  </node>
+  <node id="12817320074" lat="-22.8300559" lon="-45.6673869" version="1" timestamp="2025-05-07T15:09:18Z" changeset="165943683" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
+    <tag k="addr:housenumber" v="720"/>
+    <tag k="addr:postcode" v="12450-000"/>
+    <tag k="addr:street" v="Rua Doutor Lourenço de Sá"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2025-05-07"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Wellnes e Estética, com mais de 30 anos experiência é uma vasta opção de terapia integrativas"/>
+    <tag k="email" v="spamantiqueira@gmail.com"/>
+    <tag k="name" v="Spa Mantiqueira"/>
+    <tag k="opening_hours" v="Mo-Mo 09:00-18:00"/>
+    <tag k="operator" v="Tânia Maria dos Santos Clemente"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 996502479"/>
+    <tag k="shop" v="massage"/>
+  </node>
+  <node id="12817329110" lat="-22.8260478" lon="-45.6667207" version="1" timestamp="2025-05-07T15:18:52Z" changeset="165944053" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
+    <tag k="addr:housenumber" v="102"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Rua Maria Jacinto de Faria"/>
+    <tag k="addr:suburb" v="centro"/>
+    <tag k="check_date:currency:XBT" v="2025-05-07"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Bicicletaria , manutenção e vendas de peças , acessórios e bikes"/>
+    <tag k="email" v="josemarsantosap@gmail.com"/>
+    <tag k="name" v="Bicicletiaria do Josi"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-17:30"/>
+    <tag k="operator" v="Josemar dos Santos"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 997930902"/>
+    <tag k="shop" v="bicycle"/>
+  </node>
+  <node id="12817338340" lat="-22.2970030" lon="-44.9347232" version="1" timestamp="2025-05-07T15:32:47Z" changeset="165944689" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Itanhandu"/>
+    <tag k="addr:housenumber" v="145"/>
+    <tag k="addr:postcode" v="37464000"/>
+    <tag k="addr:street" v="Rua Nicolau Scarpa"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="check_date:currency:XBT" v="2025-05-07"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:USD" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="A Dra. Jaqueline Rabelo oferece atendimentos odontológicos com foco em ortodontia e estética — incluindo lentes de contato cerâmicas — além de cuidados completos em odontologia geral. Tecnologia, precisão e estética em um só lugar."/>
+    <tag k="email" v="drajaquelinerabelo@gmail.com"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="name" v="Dra. Jaqueline Rabelo - Consultório Odontológico"/>
+    <tag k="opening_hours" v="Mo-Sa 08:30-19:30"/>
+    <tag k="operator" v="Jaqueline de Souza Rabelo Mancilha"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 988775338"/>
+  </node>
+  <node id="12817376038" lat="-22.3352498" lon="-44.9037875" version="1" timestamp="2025-05-07T15:48:21Z" changeset="165945383" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Itanhandu"/>
+    <tag k="addr:postcode" v="37464000"/>
+    <tag k="addr:street" v="Estrada do Jardim"/>
+    <tag k="addr:suburb" v="Olaria"/>
+    <tag k="check_date:currency:XBT" v="2025-05-07"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Oferecemos uma experiência de hospedagem em casas de temporada modernas e tecnológicas, no coração da Serra da Mantiqueira e com vistas 360°.   Conforto absoluto para momentos românticos e de relaxamento inesquecíveis com cinema privativo, SPAs aquecidos "/>
+    <tag k="email" v="solariummantiqueira@gmail.com"/>
+    <tag k="name" v="Solarium Mantiqueira"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Lucas Mancilha"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 35 984075652"/>
+    <tag k="tourism" v="alpine_hut"/>
+    <tag k="website" v="www.solariummantiqueira.com"/>
+  </node>
+  <node id="12818103249" lat="-29.7912387" lon="31.0192352" version="1" timestamp="2025-05-07T22:13:25Z" changeset="165959358" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="man_made" v="works"/>
+    <tag k="name" v="JONDAY Foods"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="12818111989" lat="10.4588713" lon="-85.7672330" version="1" timestamp="2025-05-07T22:09:30Z" changeset="165959256" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="name" v="The Sausage Guy"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="shop" v="butcher"/>
   </node>
 
 </osm>
