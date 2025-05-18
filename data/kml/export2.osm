@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-17T05:28:56Z"/>
+<meta osm_base="2025-05-18T05:29:55Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -7658,8 +7658,9 @@
     <tag k="outdoor_seating" v="no"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="12837581607" lat="44.0602049" lon="9.8822579" version="7" timestamp="2025-05-14T20:58:10Z" changeset="166277001" uid="14619930" user="zorrotenai">
+  <node id="12837581607" lat="44.0601837" lon="9.8820594" version="9" timestamp="2025-05-17T22:18:41Z" changeset="166410465" uid="14619930" user="zorrotenai">
     <tag k="amenity" v="bitcoin_consultant"/>
+    <tag k="consulting" v="bitcoin"/>
     <tag k="contact:email" v="info@bitcons.it"/>
     <tag k="contact:phone" v="+39 351 649 8890"/>
     <tag k="currency:XBT" v="yes"/>
@@ -7669,6 +7670,7 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
+    <tag k="service" v="consulting"/>
     <tag k="service:area" v="Golfo dei Poeti"/>
     <tag k="survey:date" v="2025-05-14"/>
     <tag k="website" v="https://www.bitcons.it"/>
@@ -7690,28 +7692,24 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
   </node>
-  <node id="12840742215" lat="41.0282030" lon="0.9618635" version="4" timestamp="2025-05-16T16:55:10Z" changeset="166360550" uid="7522075" user="Rockedf">
-    <tag k="addr:city" v="Mont-roig del Camp"/>
-    <tag k="addr:housenumber" v="3"/>
-    <tag k="addr:postcode" v="43300"/>
-    <tag k="addr:street" v="Avinguda de les Palmeres"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="check_date:currency:XBT" v="2025-05-16"/>
-    <tag k="currency:USDT" v="yes"/>
+  <node id="12844711840" lat="26.5818401" lon="-81.8737704" version="1" timestamp="2025-05-17T18:29:49Z" changeset="166404206" uid="22910202" user="Justin33901">
+    <tag k="addr:city" v="Fort Myers"/>
+    <tag k="addr:housenumber" v="1902"/>
+    <tag k="addr:postcode" v="33907"/>
+    <tag k="addr:state" v="Fl"/>
+    <tag k="addr:street" v="Boy Scout Drive"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="alvaromoran1717@gmail.com"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="spiaggia dorata"/>
-    <tag k="operator" v="alvaro"/>
+    <tag k="name" v="Downtown Vapor, Inc."/>
+    <tag k="opening_hours" v="M W T F 10am - 7pm. Sat 10am - 6pm."/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoincash" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:usdt" v="yes"/>
-    <tag k="phone" v="+34619343043"/>
-    <tag k="tourism" v="chalet"/>
-    <tag k="website" v="https://my.matterport.com/show/?m=6R8ezDDgjzt"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:google_pay" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="239-628-3232"/>
+    <tag k="shop" v="e-cigarette"/>
+    <tag k="survey:date" v="05/17/2025"/>
+    <tag k="website" v="downtownvapor.com"/>
   </node>
 
 </osm>
