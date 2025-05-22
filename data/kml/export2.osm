@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-21T05:31:29Z"/>
+<meta osm_base="2025-05-22T05:31:10Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -7691,6 +7691,54 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="12852668344" lat="-33.9386049" lon="18.8568052" version="1" timestamp="2025-05-21T08:58:49Z" changeset="166557619" uid="21891599" user="Airbtc">
+    <tag k="addr:city" v="Stellenbosch"/>
+    <tag k="addr:postcode" v="7600"/>
+    <tag k="addr:street" v="Schroder Road"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="support@airbtc.onnline"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Stellenbosch Semi Attached Flatlet"/>
+    <tag k="operator" v="Airbtc"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="rooms" v="1"/>
+    <tag k="tourism" v="apartment"/>
+    <tag k="website" v="https://airbtc.online/properties/stellenbosch-semi-detached-flatlet/"/>
+  </node>
+  <node id="12853222862" lat="52.4246474" lon="13.5856438" version="2" timestamp="2025-05-21T13:29:40Z" changeset="166569646" uid="22923585" user="ACT Computer TEAM Köpenick">
+    <tag k="addr:city" v="Berlin"/>
+    <tag k="addr:housenumber" v="366"/>
+    <tag k="addr:postcode" v="12557"/>
+    <tag k="addr:street" v="Wendenschloßstraße"/>
+    <tag k="description" v="Computer Service, Problemlösungen, Server- und Netzwerk-Administration, Bitcoin Akzeptanzstelle"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="A.C.T. Computer TEAM"/>
+    <tag k="name:de" v="A.C.T. Computer TEAM"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="operator" v="Jan Auert"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+493081859901"/>
+    <tag k="shop" v="computer"/>
+    <tag k="website" v="https://www.act-computer.de"/>
+  </node>
+  <node id="12854372131" lat="4.8607334" lon="-74.0603959" version="2" timestamp="2025-05-21T23:41:26Z" changeset="166589525" uid="22925321" user="joyeria Big ben">
+    <tag k="addr:city" v="Chía"/>
+    <tag k="addr:housenumber" v="10-35"/>
+    <tag k="addr:postcode" v="250001"/>
+    <tag k="addr:street" v="Calle 11"/>
+    <tag k="name" v="Joyeria Big Ben"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="3022054432"/>
+    <tag k="shop" v="jewelry"/>
   </node>
 
 </osm>
