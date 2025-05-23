@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-22T05:31:10Z"/>
+<meta osm_base="2025-05-23T05:30:56Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -2137,7 +2137,7 @@
     <tag k="tourism" v="alpine_hut"/>
     <tag k="website" v="https://munaypousada.com.br/"/>
   </node>
-  <node id="12227986892" lat="-23.5367951" lon="-46.6496593" version="16" timestamp="2024-10-06T12:10:01Z" changeset="157536971" uid="7522075" user="Rockedf">
+  <node id="12227986892" lat="-23.5367951" lon="-46.6496593" version="17" timestamp="2025-05-23T02:48:23Z" changeset="166635507" uid="22033174" user="ingaz consulenza">
     <tag k="addr:city" v="São Paulo"/>
     <tag k="addr:postcode" v="01215-001"/>
     <tag k="addr:street" v="Alameda Glete"/>
@@ -2145,7 +2145,6 @@
     <tag k="check_date:currency:XBT" v="2024-10-06"/>
     <tag k="contact:email" v="contato@ingaz.com.br"/>
     <tag k="contact:facebook" v="https://facebook.com/ingazconsulenza"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/ingazconsulenza"/>
     <tag k="contact:telegram" v="https://t.me/ingazconsulenza"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="ingaz consulenza"/>
@@ -2156,7 +2155,7 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+55 11 91314-0535"/>
+    <tag k="phone" v="+55 11 972059471"/>
     <tag k="shop" v="yes"/>
     <tag k="start_date" v="2023-10-01"/>
     <tag k="website" v="https://www.ingaz.com.br"/>
@@ -6503,17 +6502,18 @@
     <tag k="phone" v="+55 47 98881 4443"/>
     <tag k="website" v="https://linktr.ee/bruslack"/>
   </node>
-  <node id="12729656819" lat="-25.5853825" lon="-49.2976518" version="2" timestamp="2025-04-16T13:34:57Z" changeset="165029892" uid="21451889" user="Bitcoin Forte">
+  <node id="12729656819" lat="-25.5853825" lon="-49.2976518" version="3" timestamp="2025-05-23T03:32:48Z" changeset="166636215" uid="16441199" user="LeandroFF21">
     <tag k="addr:city" v="Curitiba"/>
     <tag k="addr:housenumber" v="1600"/>
     <tag k="addr:postcode" v="81940-340"/>
     <tag k="addr:street" v="R. Ângelo Gai"/>
     <tag k="addr:suburb" v="Umbará"/>
     <tag k="amenity" v="events_venue"/>
+    <tag k="check_date:currency:XBT" v="2025-05-22"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="mobile" v="55 41 99777 8608"/>
     <tag k="name" v="Chácara Baldan Eventos em Curitiba"/>
-    <tag k="opening_hours" v="Friday 09:00–18:00  Saturday Closed  Sunday Closed  Monday Closed  Tuesday 09:00–18:00  Wednesday 09:00–18:00  Thursday 09:00–18:00"/>
+    <tag k="opening_hours" v="Tu-Fr 9:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:lightning_contactless" v="yes"/>
@@ -7727,18 +7727,54 @@
     <tag k="shop" v="computer"/>
     <tag k="website" v="https://www.act-computer.de"/>
   </node>
-  <node id="12854372131" lat="4.8607334" lon="-74.0603959" version="2" timestamp="2025-05-21T23:41:26Z" changeset="166589525" uid="22925321" user="joyeria Big ben">
-    <tag k="addr:city" v="Chía"/>
-    <tag k="addr:housenumber" v="10-35"/>
-    <tag k="addr:postcode" v="250001"/>
-    <tag k="addr:street" v="Calle 11"/>
-    <tag k="name" v="Joyeria Big Ben"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-20:00"/>
+  <node id="12856282690" lat="42.5051551" lon="1.5150038" version="1" timestamp="2025-05-22T20:15:12Z" changeset="166628786" uid="20580510" user="Bitcoin_Andorra">
+    <tag k="addr:city" v="Andorra la Vella"/>
+    <tag k="addr:housenumber" v="86"/>
+    <tag k="addr:postcode" v="AD500"/>
+    <tag k="addr:street" v="Av. Príncep Benlloch"/>
+    <tag k="brand" v="Porsche, Ferrari, Lamborghini, Aston Martin..."/>
+    <tag k="name" v="Off Market Cars"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-19:00"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+376643888"/>
+    <tag k="second_hand" v="yes"/>
+    <tag k="service:vehicle:new_car_sales" v="yes"/>
+    <tag k="service:vehicle:used_car_sales" v="yes"/>
+    <tag k="shop" v="car"/>
+  </node>
+  <node id="12856314405" lat="42.5049612" lon="1.5159464" version="1" timestamp="2025-05-22T20:18:27Z" changeset="166628866" uid="20580510" user="Bitcoin_Andorra">
+    <tag k="addr:city" v="Andorra la Vella"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="AD500"/>
+    <tag k="addr:street" v="Carrer Prada Motxilla,"/>
+    <tag k="brand" v="Ferrari, Lamborghini, Porsche, Aston Martin, AMG, McLaren..."/>
+    <tag k="name" v="KARS AUTOMÒBILS"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-19:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="3022054432"/>
-    <tag k="shop" v="jewelry"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+376800100"/>
+    <tag k="second_hand" v="yes"/>
+    <tag k="service:vehicle:inspection" v="yes"/>
+    <tag k="service:vehicle:new_car_sales" v="yes"/>
+    <tag k="service:vehicle:used_car_sales" v="yes"/>
+    <tag k="shop" v="car"/>
+  </node>
+  <node id="12856597840" lat="43.5534717" lon="-79.8695216" version="1" timestamp="2025-05-23T01:05:23Z" changeset="166634137" uid="22928831" user="Garyklutt">
+    <tag k="addr:city" v="Halton Hills"/>
+    <tag k="addr:housenumber" v="8220"/>
+    <tag k="addr:postcode" v="L7G4S6"/>
+    <tag k="addr:province" v="Ontario"/>
+    <tag k="addr:street" v="Fifth Line"/>
+    <tag k="name" v="Legendary Motorcar Company"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="9058782574"/>
+    <tag k="second_hand" v="yes"/>
+    <tag k="service:vehicle:car_repair" v="yes"/>
+    <tag k="service:vehicle:used_car_sales" v="yes"/>
+    <tag k="shop" v="car"/>
   </node>
 
 </osm>
