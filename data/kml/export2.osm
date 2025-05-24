@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-23T05:30:56Z"/>
+<meta osm_base="2025-05-24T05:29:04Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -5699,6 +5699,21 @@
     <tag k="shop" v="art"/>
     <tag k="website" v="@artemosaicoatelier"/>
   </node>
+  <node id="12625435358" lat="51.0821218" lon="6.1922191" version="5" timestamp="2025-05-23T07:20:45Z" changeset="166641836" uid="112465" user="tux67">
+    <tag k="addr:city" v="Hückelhoven"/>
+    <tag k="addr:housenumber" v="62"/>
+    <tag k="addr:postcode" v="41836"/>
+    <tag k="addr:street" v="Dorfstraße"/>
+    <tag k="addr:suburb" v="Altmyhl"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:mobile" v="+49 15789491275"/>
+    <tag k="contact:website" v="https://www.altmyhl62.de/"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="description" v="Akzeptiert Bitcoin-Zahlung per Coinbase Commerce. Zahlung möglich per QR-Code oder direkt auf dem Handy."/>
+    <tag k="name" v="Gaststätte Altmyhl62"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+  </node>
   <node id="12639880319" lat="45.8068561" lon="15.9916764" version="1" timestamp="2025-03-06T03:31:14Z" changeset="163268286" uid="52552" user="Matija Nalis">
     <tag k="amenity" v="luggage_locker"/>
     <tag k="contact:instagram" v="baghero.lockers"/>
@@ -7707,26 +7722,6 @@
     <tag k="tourism" v="apartment"/>
     <tag k="website" v="https://airbtc.online/properties/stellenbosch-semi-detached-flatlet/"/>
   </node>
-  <node id="12853222862" lat="52.4246474" lon="13.5856438" version="2" timestamp="2025-05-21T13:29:40Z" changeset="166569646" uid="22923585" user="ACT Computer TEAM Köpenick">
-    <tag k="addr:city" v="Berlin"/>
-    <tag k="addr:housenumber" v="366"/>
-    <tag k="addr:postcode" v="12557"/>
-    <tag k="addr:street" v="Wendenschloßstraße"/>
-    <tag k="description" v="Computer Service, Problemlösungen, Server- und Netzwerk-Administration, Bitcoin Akzeptanzstelle"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="level" v="1"/>
-    <tag k="name" v="A.C.T. Computer TEAM"/>
-    <tag k="name:de" v="A.C.T. Computer TEAM"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
-    <tag k="operator" v="Jan Auert"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+493081859901"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="https://www.act-computer.de"/>
-  </node>
   <node id="12856282690" lat="42.5051551" lon="1.5150038" version="1" timestamp="2025-05-22T20:15:12Z" changeset="166628786" uid="20580510" user="Bitcoin_Andorra">
     <tag k="addr:city" v="Andorra la Vella"/>
     <tag k="addr:housenumber" v="86"/>
@@ -7775,6 +7770,29 @@
     <tag k="service:vehicle:car_repair" v="yes"/>
     <tag k="service:vehicle:used_car_sales" v="yes"/>
     <tag k="shop" v="car"/>
+  </node>
+  <node id="12857597027" lat="-26.2508426" lon="-49.3808489" version="1" timestamp="2025-05-23T13:43:29Z" changeset="166657523" uid="22514191" user="Kareca_Bebidas">
+    <tag k="addr:city" v="São Bento do Sul"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:postcode" v="89280-342"/>
+    <tag k="addr:street" v="Rua Marechal Floriano"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="name" v="FR AutoCenter"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="phone" v="04736350005"/>
+    <tag k="shop" v="repair"/>
+  </node>
+  <node id="12857884189" lat="-23.1824792" lon="-50.6564355" version="1" timestamp="2025-05-23T15:22:50Z" changeset="166662041" uid="22931428" user="G4Pay HQ">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="G4Pay HQ"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2024-03-01"/>
   </node>
 
 </osm>
