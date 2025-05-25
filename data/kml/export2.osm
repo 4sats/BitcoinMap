@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-24T05:29:04Z"/>
+<meta osm_base="2025-05-25T05:29:06Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -1323,20 +1323,22 @@
     <tag k="payment:paypay" v="yes"/>
     <tag k="website" v="https://cocorotus.com"/>
   </node>
-  <node id="12035307502" lat="35.6608723" lon="139.7133370" version="2" timestamp="2024-07-05T09:10:47Z" changeset="153578915" uid="18414647" user="ch0meji">
+  <node id="12035307502" lat="35.6608723" lon="139.7133370" version="3" timestamp="2025-05-24T11:39:08Z" changeset="166692894" uid="7130304" user="gc27">
     <tag k="addr:block_number" v="14"/>
     <tag k="addr:city" v="港区"/>
     <tag k="addr:housenumber" v="1"/>
-    <tag k="addr:neighbourhood" v="5丁目"/>
+    <tag k="addr:neighbourhood" v="南青山5丁目"/>
     <tag k="addr:postcode" v="107-0062"/>
     <tag k="addr:province" v="東京都"/>
-    <tag k="addr:quarter" v="南青山"/>
     <tag k="amenity" v="fast_food"/>
+    <tag k="branch" v="骨董通り店"/>
     <tag k="contact:twitter" v="https://x.com/ch0meji"/>
     <tag k="cuisine" v="asian"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="COCOROTUS FOODTRUCK【ココロータス骨董通り店】"/>
-    <tag k="opening_hours" v="月曜日 11:30-14:30"/>
+    <tag k="name" v="ココロータス"/>
+    <tag k="name:en" v="COCOROTUS FOODTRUCK"/>
+    <tag k="name:ja" v="ココロータス"/>
+    <tag k="opening_hours" v="Mo 11:30-14:30"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
@@ -1477,19 +1479,19 @@
     <tag k="payment:paypay" v="yes"/>
     <tag k="website" v="https://cocorotus.com/map"/>
   </node>
-  <node id="12042721366" lat="35.6548590" lon="139.6928787" version="1" timestamp="2024-07-09T03:28:15Z" changeset="153726739" uid="18414647" user="ch0meji">
-    <tag k="addr:block_number" v="8"/>
+  <node id="12042721366" lat="35.6548590" lon="139.6928787" version="2" timestamp="2025-05-25T04:22:27Z" changeset="166719160" uid="7130304" user="gc27">
+    <tag k="addr:block_number" v="9"/>
     <tag k="addr:city" v="渋谷区"/>
-    <tag k="addr:housenumber" v="Usen渋谷ビル"/>
-    <tag k="addr:neighbourhood" v="9"/>
+    <tag k="addr:housename" v="Usen渋谷ビル"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:neighbourhood" v="神泉町"/>
     <tag k="addr:postcode" v="150-0045"/>
     <tag k="addr:province" v="東京都"/>
-    <tag k="addr:quarter" v="神泉町"/>
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="asian"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="COCOROTUS FOODTRUCK【USEN店】"/>
-    <tag k="opening_hours" v="火曜日 11:30-14:30"/>
+    <tag k="opening_hours" v="Tu 11:30-14:30"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
@@ -1616,18 +1618,18 @@
     <tag k="payment:paypay" v="yes"/>
     <tag k="website" v="https://cocorotus.com/map"/>
   </node>
-  <node id="12042878656" lat="35.6569002" lon="139.6943274" version="1" timestamp="2024-07-09T05:54:19Z" changeset="153729289" uid="18414647" user="ch0meji">
-    <tag k="addr:block_number" v="2"/>
+  <node id="12042878656" lat="35.6569002" lon="139.6943274" version="2" timestamp="2025-05-25T04:22:27Z" changeset="166719160" uid="7130304" user="gc27">
+    <tag k="addr:block_number" v="18"/>
     <tag k="addr:city" v="渋谷区"/>
-    <tag k="addr:neighbourhood" v="18"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:neighbourhood" v="円山町"/>
     <tag k="addr:postcode" v="150-0044"/>
     <tag k="addr:province" v="東京都"/>
-    <tag k="addr:quarter" v="円山町"/>
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="asian"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="COCOROTUS FOODTRUCK【神泉】"/>
-    <tag k="opening_hours" v="水曜日 11:30-14:30"/>
+    <tag k="opening_hours" v="We 11:30-14:30; "/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
@@ -7443,18 +7445,18 @@
     <tag k="shop" v="supermarket"/>
     <tag k="survey:date" v="2025-05-03"/>
   </node>
-  <node id="12814189206" lat="47.8640558" lon="12.0090539" version="1" timestamp="2025-05-06T12:34:58Z" changeset="165889920" uid="22869502" user="Handystopaibling">
+  <node id="12814189206" lat="47.8640273" lon="12.0090318" version="2" timestamp="2025-05-24T06:32:04Z" changeset="166682409" uid="10619256" user="thobrist">
     <tag k="addr:city" v="Bad Aibling"/>
     <tag k="addr:housenumber" v="1"/>
     <tag k="addr:postcode" v="83043"/>
     <tag k="addr:street" v="Münchner Straße"/>
     <tag k="name" v="Handystop Aibling"/>
-    <tag k="opening_hours" v="Mo-Fr 10:00-18:00"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-18:00; PH,Sa,Su off"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:ec_cards" v="yes"/>
-    <tag k="phone" v="080619380604"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+49 8061 93 80 604"/>
     <tag k="shop" v="mobile_phone"/>
     <tag k="website" v="https://www.handystop-badaibling.de/"/>
   </node>
@@ -7793,6 +7795,30 @@
     <tag k="payment:lightning_contactless" v="no"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="survey:date" v="2024-03-01"/>
+  </node>
+  <node id="12860331935" lat="19.9923500" lon="99.8602687" version="4" timestamp="2025-05-24T10:37:03Z" changeset="166690375" uid="22897358" user="jack The Reaper">
+    <tag k="addr:district" v="Nanglae"/>
+    <tag k="addr:housenumber" v="170/1"/>
+    <tag k="addr:place" v="moo 13"/>
+    <tag k="addr:postcode" v="57100"/>
+    <tag k="addr:province" v="Chiang Rai"/>
+    <tag k="addr:street" v="ถนนบ้านดำ"/>
+    <tag k="addr:subdistrict" v="Muang"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="steak_house;coffee_shop;burger;sandwich;chicken;asian;thai;cake"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="diet:meat" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="name" v="Jack The Reaper"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="survey:date" v="2025-05-24"/>
+    <tag k="website" v="https://www.facebook.com/share/1CQGmeAbq6/?mibextid=wwXIfr"/>
   </node>
 
 </osm>
