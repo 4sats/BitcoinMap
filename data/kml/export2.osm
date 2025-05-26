@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-25T05:29:06Z"/>
+<meta osm_base="2025-05-26T05:32:26Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -290,29 +290,6 @@
     <tag k="name" v="Rita Cafe"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-  </node>
-  <node id="3588227828" lat="53.5530126" lon="9.9294704" version="16" timestamp="2025-05-04T20:31:14Z" changeset="165818337" uid="483075" user="lyctkel">
-    <tag k="addr:city" v="Hamburg"/>
-    <tag k="addr:country" v="DE"/>
-    <tag k="addr:housenumber" v="121"/>
-    <tag k="addr:postcode" v="22765"/>
-    <tag k="addr:street" v="Bahrenfelder Straße"/>
-    <tag k="check_date" v="2023-11-16"/>
-    <tag k="check_date:currency:XBT" v="2024-12-05"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Küchenladen Ottensen"/>
-    <tag k="opening_hours" v="Mo-Fr 11:00-18:00; Sa 11:00-17:00; PH off"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+49 40 76753461"/>
-    <tag k="shop" v="kitchen"/>
-    <tag k="source" v="survey"/>
-    <tag k="website" v="https://www.kuechenladen-ottensen.de/"/>
-    <tag k="wheelchair" v="yes"/>
   </node>
   <node id="3904561345" lat="14.5856794" lon="-90.4856430" version="4" timestamp="2024-10-16T16:23:37Z" changeset="157973293" uid="22057438" user="anellrod">
     <tag k="currency:XBT" v="yes"/>
@@ -7773,12 +7750,13 @@
     <tag k="service:vehicle:used_car_sales" v="yes"/>
     <tag k="shop" v="car"/>
   </node>
-  <node id="12857597027" lat="-26.2508426" lon="-49.3808489" version="1" timestamp="2025-05-23T13:43:29Z" changeset="166657523" uid="22514191" user="Kareca_Bebidas">
+  <node id="12857597027" lat="-26.2508426" lon="-49.3808489" version="2" timestamp="2025-05-26T03:22:40Z" changeset="166757310" uid="22514191" user="São Bento Bitcoin">
     <tag k="addr:city" v="São Bento do Sul"/>
     <tag k="addr:housenumber" v="55"/>
     <tag k="addr:postcode" v="89280-342"/>
     <tag k="addr:street" v="Rua Marechal Floriano"/>
     <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date" v="2025-05-26"/>
     <tag k="name" v="FR AutoCenter"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
