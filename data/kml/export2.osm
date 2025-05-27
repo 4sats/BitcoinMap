@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-26T05:32:26Z"/>
+<meta osm_base="2025-05-27T05:31:02Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -7639,19 +7639,6 @@
     <tag k="name" v="Lodestone Library"/>
     <tag k="payment:bitcoin" v="yes"/>
   </node>
-  <node id="12833603908" lat="58.3018862" lon="-134.4075134" version="1" timestamp="2025-05-13T12:42:38Z" changeset="166200894" uid="5359" user="user_5359">
-    <tag k="addr:city" v="Juneau"/>
-    <tag k="addr:housenumber" v="299"/>
-    <tag k="addr:postcode" v="99801"/>
-    <tag k="addr:state" v="AK"/>
-    <tag k="addr:street" v="North Franklin Street"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="cuisine" v="tea"/>
-    <tag k="description" v="Lending library. They also have a cool cafe vibe, they sell tea, scones, and burritos."/>
-    <tag k="name" v="Lodestone Library"/>
-    <tag k="outdoor_seating" v="no"/>
-    <tag k="payment:bitcoin" v="yes"/>
-  </node>
   <node id="12837581607" lat="44.0601837" lon="9.8820594" version="9" timestamp="2025-05-17T22:18:41Z" changeset="166410465" uid="14619930" user="zorrotenai">
     <tag k="amenity" v="bitcoin_consultant"/>
     <tag k="consulting" v="bitcoin"/>
@@ -7750,13 +7737,15 @@
     <tag k="service:vehicle:used_car_sales" v="yes"/>
     <tag k="shop" v="car"/>
   </node>
-  <node id="12857597027" lat="-26.2508426" lon="-49.3808489" version="2" timestamp="2025-05-26T03:22:40Z" changeset="166757310" uid="22514191" user="São Bento Bitcoin">
+  <node id="12857597027" lat="-26.2508426" lon="-49.3808489" version="3" timestamp="2025-05-27T00:51:04Z" changeset="166802195" uid="22514191" user="São Bento Bitcoin">
     <tag k="addr:city" v="São Bento do Sul"/>
     <tag k="addr:housenumber" v="55"/>
     <tag k="addr:postcode" v="89280-342"/>
     <tag k="addr:street" v="Rua Marechal Floriano"/>
     <tag k="addr:suburb" v="Centro"/>
     <tag k="check_date" v="2025-05-26"/>
+    <tag k="currency:BRL" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="FR AutoCenter"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
@@ -7797,6 +7786,31 @@
     <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="survey:date" v="2025-05-24"/>
     <tag k="website" v="https://www.facebook.com/share/1CQGmeAbq6/?mibextid=wwXIfr"/>
+  </node>
+  <node id="12864742731" lat="-15.8172039" lon="-43.3136103" version="2" timestamp="2025-05-26T17:01:43Z" changeset="166789603" uid="22939818" user="arthurrzx7">
+    <tag k="addr:city" v="Janaúba"/>
+    <tag k="addr:housenumber" v="1760"/>
+    <tag k="addr:postcode" v="39445428"/>
+    <tag k="addr:street" v="Avenida Santa Mônica"/>
+    <tag k="addr:suburb" v="planalto"/>
+    <tag k="hairdresser" v="barber"/>
+    <tag k="male" v="yes"/>
+    <tag k="name" v="Amsterdam Barbearia"/>
+    <tag k="opening_hours" v="08:00-20:00"/>
+    <tag k="operator" v="Bruno"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bitcoincash" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+5538991760187"/>
+    <tag k="shop" v="hairdresser"/>
   </node>
 
 </osm>
