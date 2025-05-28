@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-27T05:31:02Z"/>
+<meta osm_base="2025-05-28T05:31:15Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -7811,6 +7811,39 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+5538991760187"/>
     <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="12866727414" lat="-31.3853555" lon="-64.1963818" version="3" timestamp="2025-05-27T20:01:39Z" changeset="166842286" uid="22922573" user="TodSak">
+    <tag k="addr:city" v="Córdoba"/>
+    <tag k="addr:housenumber" v="593"/>
+    <tag k="addr:postcode" v="X5008"/>
+    <tag k="addr:street" v="Avenida Cornelio Saavedra"/>
+    <tag k="name" v="Orvema Tostadores"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-13:00 &amp; Mo-Fr 16:00-19:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+54 9 351 632-9160"/>
+    <tag k="shop" v="coffee"/>
+    <tag k="website" v="https://www.instagram.com/orvemacafe/"/>
+  </node>
+  <node id="12869385902" lat="52.3554332" lon="9.7368502" version="3" timestamp="2025-05-27T21:24:09Z" changeset="166844661" uid="22944898" user="Leine- Erlebnis Kanutouristik">
+    <tag k="amenity" v="boat_rental"/>
+    <tag k="contact:facebook" v="https://leine-erlebnis.de"/>
+    <tag k="description" v="Kanuvermietung, SUP, Kajak, Teamevents, Wassersport Veranstalter"/>
+    <tag k="email" v="info@leine-erlebnis.de"/>
+    <tag k="fee" v="yes"/>
+    <tag k="name" v="Leine-Erlebnis Kanutouristik"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="operator" v="Leine-Erlebnis Kanutouristik"/>
+    <tag k="operator:type" v="business"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+49 05533 40 84 64"/>
+    <tag k="survey:date" v="2025-05-27-"/>
   </node>
 
 </osm>
