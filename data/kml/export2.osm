@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-28T05:31:15Z"/>
+<meta osm_base="2025-05-29T05:31:24Z"/>
 
   <node id="236019804" lat="53.7088805" lon="-1.9127683" version="8" timestamp="2025-03-06T19:38:50Z" changeset="163299390" uid="61942" user="SomeoneElse">
     <tag k="addr:city" v="Sowerby Bridge"/>
@@ -4195,6 +4195,17 @@
     <tag k="payment:money_order" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
+  <node id="12486742125" lat="-19.8377666" lon="-43.9196839" version="3" timestamp="2025-05-29T00:10:48Z" changeset="166897041" uid="12513193" user="Fabrício Ferreira">
+    <tag k="addr:city" v="Belo Horizonte"/>
+    <tag k="addr:housenumber" v="75"/>
+    <tag k="addr:postcode" v="31842460"/>
+    <tag k="addr:street" v="Rua Lucílio de Albuquerque"/>
+    <tag k="addr:suburb" v="Tupi B"/>
+    <tag k="name" v="Zer01T.I - Soluções em informatica LTDA"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+  </node>
   <node id="12490282033" lat="-17.5651947" lon="-52.5535374" version="4" timestamp="2025-01-11T01:30:46Z" changeset="161225027" uid="22370132" user="LADO-DE-FORA">
     <tag k="addr:city" v="Mineiros"/>
     <tag k="addr:housenumber" v="48"/>
@@ -7844,6 +7855,23 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="phone" v="+49 05533 40 84 64"/>
     <tag k="survey:date" v="2025-05-27-"/>
+  </node>
+  <node id="12871940409" lat="43.5534931" lon="-79.8695145" version="1" timestamp="2025-05-28T20:52:35Z" changeset="166893265" uid="22928831" user="Garyklutt">
+    <tag k="addr:city" v="Halton Hills"/>
+    <tag k="addr:housenumber" v="8220"/>
+    <tag k="addr:postcode" v="L7G4S6"/>
+    <tag k="addr:province" v="Ontario"/>
+    <tag k="addr:street" v="Fifth Line"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Legendary Motorcar Company"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="9058774700"/>
+    <tag k="second_hand" v="yes"/>
+    <tag k="service:vehicle:car_repair" v="yes"/>
+    <tag k="shop" v="car"/>
+    <tag k="survey:date" v="2025-05-28"/>
+    <tag k="website" v="https://legendarymotorcar.com/"/>
   </node>
 
 </osm>
