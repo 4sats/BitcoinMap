@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-31T05:29:41Z"/>
+<meta osm_base="2025-06-01T05:30:45Z"/>
 
   <node id="12876028782" lat="-34.5992751" lon="-58.5877735" version="3" timestamp="2025-05-30T20:58:33Z" changeset="166990296" uid="22944636" user="leonacostaok">
     <tag k="addr:city" v="Ciudad Jardin Lomas de Palomar"/>
@@ -24,6 +24,27 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="source" v="WeAreBitcoin.org user submission"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="12878252244" lat="16.7832769" lon="100.2581272" version="1" timestamp="2025-06-01T04:50:04Z" changeset="167035037" uid="22338898" user="Crackers Books">
+    <tag k="addr:district" v="Muang"/>
+    <tag k="addr:housenumber" v="555 Moo 10"/>
+    <tag k="addr:postcode" v="65000"/>
+    <tag k="addr:province" v="Phitsanulok"/>
+    <tag k="addr:street" v="Soi Puangphet Nua"/>
+    <tag k="addr:subdistrict" v="Buengphra"/>
+    <tag k="books" v="textbook"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Crackers Books"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+66953394114"/>
+    <tag k="shop" v="books"/>
+    <tag k="website" v="https://crackersbooks.com"/>
+    <tag k="website:menu" v="https://www.crackersbooks-shop.com"/>
   </node>
 
 </osm>
