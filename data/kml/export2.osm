@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-01T05:30:45Z"/>
+<meta osm_base="2025-06-02T05:33:15Z"/>
 
-  <node id="12876028782" lat="-34.5992751" lon="-58.5877735" version="3" timestamp="2025-05-30T20:58:33Z" changeset="166990296" uid="22944636" user="leonacostaok">
-    <tag k="addr:city" v="Ciudad Jardin Lomas de Palomar"/>
-    <tag k="addr:country" v="Argentina"/>
-    <tag k="addr:housenumber" v="6142"/>
-    <tag k="addr:postcode" v="B1684"/>
-    <tag k="addr:state" v="Provincia de Buenos Aires"/>
-    <tag k="addr:street" v="Boulevard F.i.n.c.a"/>
-    <tag k="amenity" v="school"/>
-    <tag k="category" v="education"/>
-    <tag k="contact:phone" v="+54 011 3416-2288"/>
-    <tag k="contact:website" v="http://teclasciudadjardin.com.ar/"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Educación Musical para Niños (desde 4 años) Adolescentes y Adultos 🎹 Clases de Piano 🎼 Seminarios / Intensivos 👩‍🏫 Clases Abiertas y Muestras"/>
-    <tag k="music:instrument" v="Piano"/>
-    <tag k="name" v="Teclas Ciudad Jardin"/>
-    <tag k="operator" v="Roxana Arena"/>
-    <tag k="operator:type" v="private"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="source" v="WeAreBitcoin.org user submission"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="12878252244" lat="16.7832769" lon="100.2581272" version="1" timestamp="2025-06-01T04:50:04Z" changeset="167035037" uid="22338898" user="Crackers Books">
+  <node id="12878252244" lat="16.7832769" lon="100.2581272" version="2" timestamp="2025-06-01T06:51:12Z" changeset="167037016" uid="22338898" user="Crackers Books">
     <tag k="addr:district" v="Muang"/>
     <tag k="addr:housenumber" v="555 Moo 10"/>
     <tag k="addr:postcode" v="65000"/>
@@ -36,6 +14,7 @@
     <tag k="internet_access" v="wlan"/>
     <tag k="name" v="Crackers Books"/>
     <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Crackers Books Publishing House"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
@@ -45,6 +24,30 @@
     <tag k="shop" v="books"/>
     <tag k="website" v="https://crackersbooks.com"/>
     <tag k="website:menu" v="https://www.crackersbooks-shop.com"/>
+  </node>
+  <node id="12879599421" lat="-12.9803639" lon="-38.4630063" version="1" timestamp="2025-06-01T19:46:40Z" changeset="167065868" uid="22960044" user="ajldc">
+    <tag k="addr:city" v="Salvador"/>
+    <tag k="addr:housenumber" v="274"/>
+    <tag k="addr:postcode" v="41820-020"/>
+    <tag k="addr:street" v="Avenida Tancredo Neves - Sala 503 B"/>
+    <tag k="addr:suburb" v="Caminho das Árvores"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="debora@donnadeby.com.br"/>
+    <tag k="instagram" v="donnadebymk"/>
+    <tag k="mobile" v="+5571993530517"/>
+    <tag k="name" v="Donna Deby"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:pix" v="yes"/>
+    <tag k="payment:usdt" v="yes"/>
+    <tag k="phone" v="+557135992450"/>
+    <tag k="shop" v="cosmetics"/>
+    <tag k="suvery:date" v="01/01/2025"/>
+    <tag k="website" v="http://www.donnadeby.com.br"/>
   </node>
 
 </osm>
