@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-02T05:33:15Z"/>
+<meta osm_base="2025-06-03T05:32:15Z"/>
 
   <node id="12878252244" lat="16.7832769" lon="100.2581272" version="2" timestamp="2025-06-01T06:51:12Z" changeset="167037016" uid="22338898" user="Crackers Books">
     <tag k="addr:district" v="Muang"/>
@@ -25,16 +25,19 @@
     <tag k="website" v="https://crackersbooks.com"/>
     <tag k="website:menu" v="https://www.crackersbooks-shop.com"/>
   </node>
-  <node id="12879599421" lat="-12.9803639" lon="-38.4630063" version="1" timestamp="2025-06-01T19:46:40Z" changeset="167065868" uid="22960044" user="ajldc">
+  <node id="12879599421" lat="-12.9803639" lon="-38.4630063" version="2" timestamp="2025-06-02T22:09:55Z" changeset="167111076" uid="251543" user="ChrissW-R1">
     <tag k="addr:city" v="Salvador"/>
+    <tag k="addr:country" v="BR"/>
     <tag k="addr:housenumber" v="274"/>
     <tag k="addr:postcode" v="41820-020"/>
     <tag k="addr:street" v="Avenida Tancredo Neves - Sala 503 B"/>
     <tag k="addr:suburb" v="Caminho das Árvores"/>
+    <tag k="contact:email" v="debora@donnadeby.com.br"/>
+    <tag k="contact:instagram" v="donnadebymk"/>
+    <tag k="contact:mobile" v="+55 71 993530517"/>
+    <tag k="contact:phone" v="+55 71 35992450"/>
+    <tag k="contact:website" v="http://www.donnadeby.com.br"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="debora@donnadeby.com.br"/>
-    <tag k="instagram" v="donnadebymk"/>
-    <tag k="mobile" v="+5571993530517"/>
     <tag k="name" v="Donna Deby"/>
     <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
     <tag k="payment:bitcoin" v="yes"/>
@@ -44,10 +47,21 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="payment:pix" v="yes"/>
     <tag k="payment:usdt" v="yes"/>
-    <tag k="phone" v="+557135992450"/>
     <tag k="shop" v="cosmetics"/>
-    <tag k="suvery:date" v="01/01/2025"/>
-    <tag k="website" v="http://www.donnadeby.com.br"/>
+    <tag k="survey:date" v="2025-01-01"/>
+  </node>
+  <node id="12881298768" lat="-18.9276712" lon="-48.2185325" version="1" timestamp="2025-06-02T17:23:22Z" changeset="167102135" uid="22963040" user="Bitconize">
+    <tag k="addr:city" v="Uberlândia"/>
+    <tag k="addr:street" v="Ceasa"/>
+    <tag k="addr:suburb" v="Segismundo Pereira"/>
+    <tag k="name" v="Akmos - Adilson"/>
+    <tag k="opening_hours" v="Mo-Su 07:00 - 12:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="34997949257"/>
+    <tag k="shop" v="cosmetics"/>
   </node>
 
 </osm>
