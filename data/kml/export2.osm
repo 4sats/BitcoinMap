@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-13T05:31:24Z"/>
+<meta osm_base="2025-06-14T05:31:11Z"/>
 
   <node id="5486797113" lat="42.1545896" lon="12.2476169" version="3" timestamp="2025-06-12T13:19:11Z" changeset="167533661" uid="22996011" user="c_cipollini">
     <tag k="addr:city" v="Trevignano Romano"/>
@@ -50,6 +50,22 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+66851714550"/>
     <tag k="shop" v="bag"/>
+  </node>
+  <node id="12913053018" lat="-25.8412100" lon="-55.1172464" version="5" timestamp="2025-06-13T19:03:51Z" changeset="167588489" uid="23000344" user="DougCripto">
+    <tag k="addr:city" v="Nueva Asunción - 14 de Mayo"/>
+    <tag k="addr:street" v="Ruta Nacional Juan León Mallorquín"/>
+    <tag k="check_date:currency:XBT" v="2025-06-13"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="MVStar E.A.S"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-17:00 sat 07:00-12:00"/>
+    <tag k="operator" v="MVStar E.A.S"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="shop" v="yes"/>
   </node>
 
 </osm>
