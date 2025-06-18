@@ -1,96 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-17T05:32:35Z"/>
+<meta osm_base="2025-06-18T05:32:16Z"/>
 
-  <node id="5486797113" lat="42.1545896" lon="12.2476169" version="3" timestamp="2025-06-12T13:19:11Z" changeset="167533661" uid="22996011" user="c_cipollini">
-    <tag k="addr:city" v="Trevignano Romano"/>
-    <tag k="addr:housenumber" v="73"/>
-    <tag k="addr:postcode" v="00069"/>
-    <tag k="addr:street" v="Via Giuseppe Garibaldi"/>
-    <tag k="air_conditioning" v="yes"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/TrattoriaLaTavernetta"/>
-    <tag k="cuisine" v="italian"/>
+  <node id="10566191226" lat="16.0339572" lon="103.6434422" version="10" timestamp="2025-06-18T00:13:49Z" changeset="167760046" uid="20081799" user="Ruangsak">
+    <tag k="addr:city" v="บ้านเหล่าบักเล"/>
+    <tag k="addr:district" v="เมือง"/>
+    <tag k="addr:housenumber" v="260"/>
+    <tag k="addr:postcode" v="45000"/>
+    <tag k="addr:province" v="ร้อยเอ็ด"/>
+    <tag k="addr:street" v="ถนนปัทมานนท์"/>
+    <tag k="addr:subdistrict" v="ในเมือง"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="check_date" v="2024-03-10"/>
+    <tag k="cuisine" v="coffee_shop;regional"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="info@trattorialatavernetta.it"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Trattoria La Tavernetta"/>
-    <tag k="opening_hours" v="Mo-Tu-Su 12:00-15:00; Th-Sa 12:00-15:00, 19:00-22:30"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:lightning" v="no"/>
-    <tag k="payment:lightning_contactless" v="no"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:satispay" v="yes"/>
-    <tag k="phone" v="+39 06 999 9026"/>
-    <tag k="reservation" v="yes"/>
-    <tag k="website" v="trattorialatavernetta.net"/>
-    <tag k="website:menu" v="https://www.menudigitale.io/trattoria-la-tavernetta"/>
-  </node>
-  <node id="12903248032" lat="-9.5696327" lon="-35.7141324" version="2" timestamp="2025-06-15T13:58:13Z" changeset="167652547" uid="21743896" user="Fideles Mercadinho">
-    <tag k="addr:city" v="Maceió"/>
-    <tag k="addr:housenumber" v="02"/>
-    <tag k="addr:street" v="Conjunto Cidade Sorriso II"/>
-    <tag k="addr:suburb" v="Benedito Bentes II"/>
-    <tag k="description" v="Panificação há mais de 16 anos no mercado. &quot;Fideles, você merece a melhor&quot;!"/>
-    <tag k="email" v="fidelespaes@gmail.com"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="name" v="Fideles - Panificação - Mercadinho E Lanchonete"/>
-    <tag k="opening_hours" v="Monday-Saturday 06:00 - 11:00 / 15:00 - 20:00"/>
+    <tag k="name" v="Double T coffee"/>
+    <tag k="name:th" v="ต้นเตย"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-16:30"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:bitcoin_lighting" v="yes"/>
-    <tag k="payment:cartão_de_crédito" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:pix" v="yes"/>
-    <tag k="shop" v="convenience"/>
-    <tag k="toilets" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="12913053018" lat="-25.8412100" lon="-55.1172464" version="5" timestamp="2025-06-13T19:03:51Z" changeset="167588489" uid="23000344" user="DougCripto">
-    <tag k="addr:city" v="Nueva Asunción - 14 de Mayo"/>
-    <tag k="addr:street" v="Ruta Nacional Juan León Mallorquín"/>
-    <tag k="check_date:currency:XBT" v="2025-06-13"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="MVStar E.A.S"/>
-    <tag k="opening_hours" v="Mo-Fr 07:00-17:00 sat 07:00-12:00"/>
-    <tag k="operator" v="MVStar E.A.S"/>
-    <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="shop" v="yes"/>
-  </node>
-  <node id="12918575654" lat="16.0474663" lon="108.2350925" version="1" timestamp="2025-06-16T04:01:07Z" changeset="167674638" uid="22944636" user="leonacostaok">
-    <tag k="addr:city" v="Ngũ Hành Sơn"/>
-    <tag k="addr:country" v="Vietnam"/>
-    <tag k="addr:housenumber" v="68"/>
-    <tag k="addr:postcode" v="500000"/>
-    <tag k="addr:state" v="Đà Nẵng"/>
-    <tag k="addr:street" v="Nguyễn Tư Giản"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="category" v="food-and-drink"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/westwood.danang"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/westwood.danang/"/>
-    <tag k="contact:phone" v="0866 392 300"/>
-    <tag k="contact:website" v="http://westwooddanang.com/"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Wood fired kitchen. Try our 8-course set."/>
-    <tag k="google:place_id" v="ChIJ8SbIr4MZQjERbUNNnOBslSk"/>
-    <tag k="lgbt" v="yes"/>
-    <tag k="name" v="Westwood Da Nang"/>
-    <tag k="note" v="Please park in front, not on the side."/>
-    <tag k="note:submitted_by_role" v="customer"/>
-    <tag k="opening_hours" v="Mo-Su 18:00-22:00"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="source" v="WeAreBitcoin.org user submission"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="phone" v="0862281109"/>
   </node>
 
 </osm>
