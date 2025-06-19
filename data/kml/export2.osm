@@ -1,32 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-18T05:32:16Z"/>
+<meta osm_base="2025-06-19T05:32:00Z"/>
 
-  <node id="10566191226" lat="16.0339572" lon="103.6434422" version="10" timestamp="2025-06-18T00:13:49Z" changeset="167760046" uid="20081799" user="Ruangsak">
-    <tag k="addr:city" v="บ้านเหล่าบักเล"/>
-    <tag k="addr:district" v="เมือง"/>
-    <tag k="addr:housenumber" v="260"/>
-    <tag k="addr:postcode" v="45000"/>
-    <tag k="addr:province" v="ร้อยเอ็ด"/>
-    <tag k="addr:street" v="ถนนปัทมานนท์"/>
-    <tag k="addr:subdistrict" v="ในเมือง"/>
-    <tag k="amenity" v="cafe"/>
-    <tag k="check_date" v="2024-03-10"/>
-    <tag k="cuisine" v="coffee_shop;regional"/>
+  <node id="3476584167" lat="10.3001201" lon="-85.8407327" version="5" timestamp="2025-06-18T16:35:39Z" changeset="167790563" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="amenity" v="casino"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Double T coffee"/>
-    <tag k="name:th" v="ต้นเตย"/>
-    <tag k="opening_hours" v="Mo-Su 06:00-16:30"/>
+    <tag k="name" v="Diria Petit Casino"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoin_lighting" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:contactless" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
-    <tag k="phone" v="0862281109"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="source" v="KG Ground Survey 2015"/>
+    <tag k="website" v="http://www.casinodiria.com"/>
+  </node>
+  <node id="12386236860" lat="32.2307049" lon="-110.8141973" version="2" timestamp="2025-06-19T02:57:12Z" changeset="167805490" uid="22238625" user="Gover Property Management">
+    <tag k="company" v="Handyman Service"/>
+    <tag k="craft" v="carpenter"/>
+    <tag k="name" v="GOVER PROPERTY MANAGEMENT"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="operator" v="WILLIAM GOVER"/>
+    <tag k="payment:apple_pay" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="phone" v="5209552122"/>
+  </node>
+  <node id="12923611290" lat="10.3066478" lon="-85.8351863" version="1" timestamp="2025-06-18T16:42:37Z" changeset="167790914" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="healthcare" v="alternative"/>
+    <tag k="healthcare:speciality" v="chiropractic"/>
+    <tag k="name" v="Bruces Chiropractor"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="12923622484" lat="10.3085627" lon="-85.8308423" version="1" timestamp="2025-06-18T16:44:30Z" changeset="167790984" uid="21218941" user="Pura Vida Bitcoin">
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Tama Green Spot"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="shop" v="nutrition_supplements"/>
   </node>
 
 </osm>
