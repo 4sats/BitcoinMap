@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-11T05:35:40Z"/>
+<meta osm_base="2025-07-12T05:32:45Z"/>
 
-  <node id="12988503060" lat="39.8509524" lon="18.1839379" version="1" timestamp="2025-07-08T21:16:10Z" changeset="168668681" uid="819653" user="ssnep">
+  <node id="12988503060" lat="39.8509524" lon="18.1839379" version="2" timestamp="2025-07-11T12:43:21Z" changeset="168794735" uid="819653" user="ssnep">
     <tag k="addr:housenumber" v="8"/>
     <tag k="addr:street" v="Via Duca degli Abruzzi"/>
     <tag k="air_conditioning" v="yes"/>
@@ -14,11 +14,12 @@
     <tag k="name" v="APPARTAMENTO 50m DAL MARE"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="rooms" v="2"/>
-    <tag k="tourism" v="guest_house"/>
+    <tag k="tourism" v="apartment"/>
     <tag k="website" v="http://airbnb.com/h/casa-vacanza-lido-marini"/>
   </node>
   <node id="12991004036" lat="50.8354345" lon="-118.9863323" version="5" timestamp="2025-07-10T04:43:38Z" changeset="168722567" uid="23082434" user="LexFunk">
@@ -57,6 +58,27 @@
     <tag k="payment:onchain" v="yes"/>
     <tag k="survey:date" v="2025-06-28"/>
     <tag k="website" v="https://www.rusbitbank.com/"/>
+  </node>
+  <node id="12995067679" lat="-22.1929336" lon="-46.7466546" version="1" timestamp="2025-07-11T23:28:49Z" changeset="168816911" uid="22857398" user="BitPinhall">
+    <tag k="addr:city" v="Espírito Santo do Pinhal"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:postcode" v="13990061"/>
+    <tag k="addr:street" v="Rua XV de Novembro"/>
+    <tag k="addr:suburb" v="centro"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Pimentas Las Ardidas"/>
+    <tag k="note" v="Feira gastrônomica com funcionamento somente a cada 15 dias, segunda e ultima quinta feira do mês."/>
+    <tag k="opening_hours" v="fifth 18:00-23:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="shop" v="spices"/>
+    <tag k="website" v="https://www.instagram.com/dessapepper14?igsh=MTYxNjF2Z25zOXVjZg=="/>
   </node>
 
 </osm>
