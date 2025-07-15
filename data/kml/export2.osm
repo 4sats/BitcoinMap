@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-14T05:39:29Z"/>
+<meta osm_base="2025-07-15T05:38:26Z"/>
 
   <node id="12988503060" lat="39.8509524" lon="18.1839379" version="2" timestamp="2025-07-11T12:43:21Z" changeset="168794735" uid="819653" user="ssnep">
     <tag k="addr:housenumber" v="8"/>
@@ -79,6 +79,78 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="shop" v="spices"/>
     <tag k="website" v="https://www.instagram.com/dessapepper14?igsh=MTYxNjF2Z25zOXVjZg=="/>
+  </node>
+  <node id="12999354077" lat="-22.8264272" lon="-45.6676705" version="2" timestamp="2025-07-14T15:17:28Z" changeset="168923007" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
+    <tag k="addr:housenumber" v="204"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Doutor Lourenço de Sá"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2025-07-14"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="Martafaria.Rodrigues@gmail.com"/>
+    <tag k="name" v="Marta Cabelereira"/>
+    <tag k="opening_hours" v="Tu-Sa 08:00-18:00"/>
+    <tag k="operator" v="Marta maria de Faria Rodrigues"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coinos" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 997577504"/>
+    <tag k="shop" v="hairdresser"/>
+  </node>
+  <node id="12999421530" lat="-22.8253722" lon="-45.6693214" version="1" timestamp="2025-07-14T15:14:59Z" changeset="168922885" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antonio do pinhal"/>
+    <tag k="addr:housenumber" v="16"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Rua dos Lírios"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2025-07-14"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Empresa de construção civil"/>
+    <tag k="email" v="ferreraeng@outlook.com"/>
+    <tag k="name" v="Ferrera Engenharia"/>
+    <tag k="office" v="company"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lighting" v="yes"/>
+    <tag k="phone" v="+55 12 997343861"/>
+  </node>
+  <node id="12999451757" lat="-22.8258294" lon="-45.6615743" version="1" timestamp="2025-07-14T15:31:56Z" changeset="168923738" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antonio do Pinhal"/>
+    <tag k="addr:housenumber" v="247"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Rua Antônio Joaquim de Oliveira"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2025-07-14"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Empresa de fisioterapia e pilates"/>
+    <tag k="email" v="ferreraeng@outlook.com"/>
+    <tag k="healthcare" v="physiotherapist"/>
+    <tag k="name" v="Meraki fisioterapia e pilates"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-20:00"/>
+    <tag k="operator" v="Felipe Ferrera"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 997343861"/>
+  </node>
+  <node id="13000547714" lat="-27.3657249" lon="-53.5703309" version="1" timestamp="2025-07-15T02:40:00Z" changeset="168942054" uid="23096338" user="Eloisa Ferrari">
+    <tag k="addr:city" v="palmitinho"/>
+    <tag k="addr:housenumber" v="123"/>
+    <tag k="addr:postcode" v="98430000"/>
+    <tag k="addr:street" v="bairro"/>
+    <tag k="amenity" v="car_wash"/>
+    <tag k="name" v="estetica automotiva"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="operator" v="rai quadros"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
   </node>
 
 </osm>
