@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-17T05:37:59Z"/>
+<meta osm_base="2025-07-18T05:41:20Z"/>
 
   <node id="13003368074" lat="-27.3686793" lon="-53.1733331" version="2" timestamp="2025-07-16T01:16:37Z" changeset="168989939" uid="23096338" user="Eloisa Ferrari">
     <tag k="amenity" v="car_wash"/>
@@ -24,7 +24,7 @@
     <tag k="phone" v="260976834697"/>
     <tag k="shop" v="kiosk"/>
   </node>
-  <node id="13005293480" lat="-17.8480620" lon="25.8366965" version="1" timestamp="2025-07-16T22:51:01Z" changeset="169035759" uid="21651923" user="Bitcoin Diary">
+  <node id="13005293480" lat="-17.8480620" lon="25.8366965" version="2" timestamp="2025-07-17T06:41:40Z" changeset="169044772" uid="21651923" user="Bitcoin Diary">
     <tag k="addr:city" v="Livingstone"/>
     <tag k="business_type" v="Grocery &amp; Clothing Store"/>
     <tag k="check_date" v="2025-07-17"/>
@@ -35,18 +35,7 @@
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="260774037903"/>
-  </node>
-  <node id="13005293481" lat="-17.8415624" lon="25.8334724" version="1" timestamp="2025-07-16T22:51:01Z" changeset="169035759" uid="21651923" user="Bitcoin Diary">
-    <tag k="addr:city" v="Livingstone"/>
-    <tag k="business_type" v="Grocery Store"/>
-    <tag k="check_date" v="2025-07-17"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Miyoba Groceries"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
-    <tag k="operator" v="Miyoba Kasozwe"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="260970736022"/>
+    <tag k="shop" v="kiosk"/>
   </node>
   <node id="13005293482" lat="-17.8368396" lon="25.8221136" version="2" timestamp="2025-07-16T23:09:59Z" changeset="169036052" uid="21651923" user="Bitcoin Diary">
     <tag k="addr:city" v="Livingstone"/>
@@ -192,29 +181,66 @@
     <tag k="phone" v="260974325217"/>
     <tag k="shop" v="mobile_phone"/>
   </node>
-  <node id="13005293495" lat="-17.8624663" lon="25.8550469" version="1" timestamp="2025-07-16T22:51:01Z" changeset="169035759" uid="21651923" user="Bitcoin Diary">
-    <tag k="addr:city" v="Livingstone"/>
-    <tag k="business_type" v="Bar, Restuarant &amp; Gym"/>
-    <tag k="check_date" v="2025-07-17"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Bhive Complex"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
-    <tag k="operator" v="Bridget Mutinta"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="260977432400"/>
-  </node>
-  <node id="13005293496" lat="-17.8285666" lon="25.8212621" version="1" timestamp="2025-07-16T22:51:01Z" changeset="169035759" uid="21651923" user="Bitcoin Diary">
+  <node id="13005293496" lat="-17.8284996" lon="25.8212846" version="3" timestamp="2025-07-17T06:43:14Z" changeset="169044831" uid="21651923" user="Bitcoin Diary">
     <tag k="addr:city" v="Livingstone"/>
     <tag k="business_type" v="Accomodation"/>
     <tag k="check_date" v="2025-07-17"/>
     <tag k="currency:XBT" v="yes"/>
+    <tag k="landuse" v="residential"/>
     <tag k="name" v="Hive Apartmentes"/>
     <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
     <tag k="operator" v="Bridget Mutinta"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="260977432400"/>
+    <tag k="residential" v="apartments"/>
+  </node>
+  <node id="13006591044" lat="-27.6700329" lon="-48.6624619" version="2" timestamp="2025-07-17T13:45:58Z" changeset="169062454" uid="23103018" user="RADAMESH1234">
+    <tag k="addr:city" v="PALHOÇA"/>
+    <tag k="addr:street" v="Avenida Aleixo Alves de Souza"/>
+    <tag k="addr:suburb" v="NOVA PALHOÇA"/>
+    <tag k="name" v="SEU ZE BEBIDAS NOVA PALHOÇA"/>
+    <tag k="opening_hours" v="10:00 - 23:59"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:wallet" v="yes"/>
+    <tag k="phone" v="48998365751"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="13006905795" lat="-22.7806640" lon="-45.6610360" version="1" timestamp="2025-07-17T16:03:48Z" changeset="169068885" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Campos do Jordão"/>
+    <tag k="addr:postcode" v="12471052"/>
+    <tag k="addr:street" v="Rua Lídio Gonçalves da Silva"/>
+    <tag k="addr:suburb" v="Bairro dos melos"/>
+    <tag k="check_date:currency:XBT" v="2025-07-17"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Um espaço de hospedagem terapêutico individual e retiros"/>
+    <tag k="name" v="Aldeia do Holon"/>
+    <tag k="opening_hours" v="Mo-Mo 08:00-18:00"/>
+    <tag k="operator" v="Miguel Kuntur Andino"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 997452716"/>
+    <tag k="tourism" v="alpine_hut"/>
+    <tag k="website" v="www.aldeiadoholon.com.br"/>
+  </node>
+  <node id="13008200881" lat="9.1337749" lon="99.3458580" version="1" timestamp="2025-07-18T03:43:10Z" changeset="169087749" uid="23106519" user="COPPYJKP">
+    <tag k="addr:district" v="Mueang Surat Thani"/>
+    <tag k="addr:housenumber" v="288/23"/>
+    <tag k="addr:postcode" v="84000"/>
+    <tag k="addr:province" v="Surat Thani"/>
+    <tag k="addr:street" v="Donnok Rd"/>
+    <tag k="addr:subdistrict" v="Makham Tia"/>
+    <tag k="name" v="เจ๊เล็ก ผลไม้ (Je Lek Fruit Shop)"/>
+    <tag k="opening_hours" v="Daily: 6:00 AM – 8:00 PM"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="086‑946‑6422"/>
+    <tag k="shop" v="greengrocer"/>
   </node>
 
 </osm>
