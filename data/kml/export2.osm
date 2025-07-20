@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-19T04:44:55Z"/>
+<meta osm_base="2025-07-20T05:37:56Z"/>
 
-  <node id="13009372493" lat="-27.3686864" lon="-53.1732472" version="1" timestamp="2025-07-18T16:07:37Z" changeset="169117232" uid="23096338" user="Eloisa Ferrari">
-    <tag k="addr:city" v="ametista"/>
-    <tag k="addr:street" v="123"/>
-    <tag k="name" v="estética automotiva"/>
-    <tag k="opening_hours" v="Mo-Fr 09:00-17:00"/>
-    <tag k="operator" v="rai quadros"/>
+  <node id="11118367627" lat="36.2537933" lon="-5.9665943" version="9" timestamp="2025-07-19T18:31:13Z" changeset="169165640" uid="20080959" user="Casa Lunarito">
+    <tag k="addr:city" v="Vejer de La Frontera"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="11150"/>
+    <tag k="addr:street" v="Calle San Filmo"/>
+    <tag k="check_date:currency:XBT" v="2025-07-17"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="casa@lunarito.com"/>
+    <tag k="guest_house" v="guest_house"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Casa Lunarito"/>
+    <tag k="operator" v="Casa Lunarito SL"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="service:vehicle:películas_carros" v="yes"/>
-    <tag k="service:vehicle:polimentos" v="yes"/>
-    <tag k="shop" v="car_repair"/>
+    <tag k="payment:monero" v="yes"/>
+    <tag k="phone" v="+34686747563"/>
+    <tag k="rooms" v="9"/>
+    <tag k="tourism" v="guest_house"/>
+    <tag k="website" v="https://lunarito.com/"/>
   </node>
 
 </osm>
