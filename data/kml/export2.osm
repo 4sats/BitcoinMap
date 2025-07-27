@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-26T05:34:58Z"/>
+<meta osm_base="2025-07-27T05:39:07Z"/>
 
-  <node id="13019140034" lat="-22.7786215" lon="-45.6505391" version="1" timestamp="2025-07-23T14:19:05Z" changeset="169347575" uid="22025649" user="Bitcoin Amantikir">
-    <tag k="addr:city" v="Campos do Jordão"/>
-    <tag k="addr:postcode" v="12460000"/>
-    <tag k="addr:street" v="Rua Joaquim Ferreira Lúcio"/>
-    <tag k="addr:suburb" v="Dos Melos"/>
-    <tag k="check_date:currency:XBT" v="2025-07-23"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Camping e glamoing"/>
-    <tag k="name" v="Camping Paraíso Na Serra"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Fábio Felipe de Faria lucio"/>
+  <node id="12767041229" lat="13.5100788" lon="-88.9401592" version="2" timestamp="2025-07-26T06:54:16Z" changeset="169488987" uid="6288991" user="tuxsv">
+    <tag k="addr:city" v="Santiago Nonualco"/>
+    <tag k="addr:street" v="Calle Francisco Gavidia"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="coffee_shop"/>
+    <tag k="name" v="Delistepeque Coffee"/>
+    <tag k="opening_hours" v="Mo-Su 12:00-22:00"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bitcoincash" v="yes"/>
     <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="tourism" v="camp_site"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+50373069231"/>
+    <tag k="website" v="https://delistepeque.kyte.site/es"/>
   </node>
   <node id="13022717838" lat="-9.4160366" lon="-36.6349637" version="1" timestamp="2025-07-25T11:12:46Z" changeset="169448127" uid="23128154" user="palmeiradosindios">
     <tag k="addr:city" v="Palmeira dos Indios"/>
