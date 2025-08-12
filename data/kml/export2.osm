@@ -1,55 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-11T05:42:38Z"/>
+<meta osm_base="2025-08-12T05:32:11Z"/>
 
-  <node id="1477613086" lat="45.8954554" lon="11.0408186" version="3" timestamp="2025-08-08T14:44:07Z" changeset="170159776" uid="23172525" user="Bmanity srl">
-    <tag k="access" v="yes"/>
-    <tag k="addr:city" v="Rovereto"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="38068"/>
-    <tag k="addr:street" v="Via Piomarta"/>
-    <tag k="check_date" v="2025-08-08"/>
-    <tag k="door" v="sliding"/>
-    <tag k="entrance" v="shop"/>
-    <tag k="name" v="Pescheria Tognotti"/>
-    <tag k="payment:bancomat" v="yes"/>
+  <node id="13064693542" lat="10.3085141" lon="-85.8308256" version="2" timestamp="2025-08-12T03:50:37Z" changeset="170320003" uid="23181998" user="OjosDelMar">
+    <tag k="addr:city" v="Tamarindo"/>
+    <tag k="addr:housenumber" v="9"/>
+    <tag k="addr:postcode" v="50309"/>
+    <tag k="addr:street" v="Garden Plaza"/>
+    <tag k="amenity" v="clinic"/>
+    <tag k="brand" v="Maui Jim, Raen, Garrett Leight, Etnia, LGR, Woow"/>
+    <tag k="contact:facebook" v="@ojosdelmar.cr"/>
+    <tag k="description" v="#1 Rated Eye Care Clinic in Costa Rica. We provided world class , comprehensive eye care, problem diagnosis and treatment, contact lens evaluations, dry eye and pain relief. We also have the largest selection of glasses, sunglasses &amp; contact lenses."/>
+    <tag k="email" v="Info@ojosdelmar.com"/>
+    <tag k="healthcare" v="clinic"/>
+    <tag k="healthcare:speciality" v="optometry"/>
+    <tag k="image" v="https://photos.app.goo.gl/uyyeMbkwbwQt6NZQ6"/>
+    <tag k="name" v="Ojos Del Mar -  Eye Care Clinic &amp; Eyewear Gallery"/>
+    <tag k="opening_hours" v="Tuesday - Thur 8am-5pm, Fri 7am-4pm"/>
+    <tag k="operator" v="Ojos Del Mar"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="payment:american_express" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="shop" v="seafood"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="13057927031" lat="52.5077145" lon="9.7794306" version="1" timestamp="2025-08-08T12:23:01Z" changeset="170152886" uid="23172139" user="Jahama51">
-    <tag k="addr:city" v="Wedemark"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="30900"/>
-    <tag k="addr:street" v="Rügener Weg"/>
-    <tag k="amenity" v="veterinary"/>
-    <tag k="name" v="Tierheilpraktikerin Tanja Niemann"/>
-    <tag k="opening_hours" v="Terminbuchung unter https://www.tierheilpraktiker-wedemark.de/Terminanfrage/"/>
-    <tag k="operator" v="Tanja Niemann"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-  </node>
-  <node id="13058140565" lat="45.8954341" lon="11.0408092" version="2" timestamp="2025-08-09T07:17:55Z" changeset="170186144" uid="23172525" user="Bmanity srl">
-    <tag k="addr:city" v="Rovereto"/>
-    <tag k="addr:housenumber" v="4"/>
-    <tag k="addr:postcode" v="38068"/>
-    <tag k="addr:street" v="Via Piomarta"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Pescheria Tognotti"/>
-    <tag k="payment:bancomat" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cashless" v="yes"/>
     <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:currency:xbt" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="0464431301"/>
-    <tag k="shop" v="seafood"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:square" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+506.2653.3937"/>
+    <tag k="website" v="ojosdelmar.com"/>
   </node>
 
 </osm>
