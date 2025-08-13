@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-12T05:32:11Z"/>
+<meta osm_base="2025-08-13T05:33:14Z"/>
 
   <node id="13064693542" lat="10.3085141" lon="-85.8308256" version="2" timestamp="2025-08-12T03:50:37Z" changeset="170320003" uid="23181998" user="OjosDelMar">
     <tag k="addr:city" v="Tamarindo"/>
@@ -34,6 +34,23 @@
     <tag k="payment:visa" v="yes"/>
     <tag k="phone" v="+506.2653.3937"/>
     <tag k="website" v="ojosdelmar.com"/>
+  </node>
+  <node id="13066488798" lat="45.6920542" lon="11.4322133" version="3" timestamp="2025-08-12T19:08:10Z" changeset="170357257" uid="23184404" user="prof Denis Costalunga">
+    <tag k="addr:city" v="Marano Vicentino"/>
+    <tag k="addr:housenumber" v="5/B"/>
+    <tag k="addr:postcode" v="36035"/>
+    <tag k="addr:street" v="Via Aldo Moro"/>
+    <tag k="amenity" v="prep_school"/>
+    <tag k="description" v="Insegnante di Matematica e Fisica per studenti delle scuole superiori e università"/>
+    <tag k="email" v="studio.matematica.fisica@gmail.com"/>
+    <tag k="name" v="prof. Denis Costalunga"/>
+    <tag k="operator" v="Denis Costalunga"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:bonifico_bancario" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="website" v="www.deniscostalunga.it"/>
   </node>
 
 </osm>
