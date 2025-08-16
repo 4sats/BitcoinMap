@@ -1,7 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-15T05:32:44Z"/>
+<meta osm_base="2025-08-16T05:31:01Z"/>
 
+  <node id="13072416554" lat="-22.9552590" lon="-46.9999283" version="3" timestamp="2025-08-15T13:23:20Z" changeset="170480972" uid="23191916" user="JCI esquadrias de alumínio">
+    <tag k="addr:city" v="Valinhos"/>
+    <tag k="addr:housenumber" v="920"/>
+    <tag k="addr:postcode" v="13272-300"/>
+    <tag k="addr:street" v="Rua Elso Previtale"/>
+    <tag k="addr:suburb" v="Jardim Alto da Colina"/>
+    <tag k="craft" v="window_construction"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="JCI Esquadrias de Alumínio"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="55 19 99294-1210"/>
+    <tag k="website" v="https://www.instagram.com/jciesquadrias?igsh=MXhrZGg1bmZveHJjcQ=="/>
+  </node>
+  <node id="13072591985" lat="-20.4723291" lon="-45.8024023" version="1" timestamp="2025-08-15T14:17:34Z" changeset="170483351" uid="23184069" user="Auto Peças Lopes">
+    <tag k="addr:city" v="Pimenta"/>
+    <tag k="addr:housenumber" v="344"/>
+    <tag k="addr:postcode" v="35585000"/>
+    <tag k="addr:street" v="Rua Olinto Fonseca"/>
+    <tag k="addr:suburb" v="Santa Rita"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Auto Peças Lopes"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="37998637086"/>
+    <tag k="shop" v="car_parts"/>
+    <tag k="website" v="https://www.instagram.com/autoplopes/"/>
+  </node>
+  <node id="13072600768" lat="-20.4722844" lon="-45.8022397" version="2" timestamp="2025-08-15T15:06:04Z" changeset="170485460" uid="23184069" user="Auto Peças Lopes">
+    <tag k="addr:city" v="Pimenta"/>
+    <tag k="addr:housenumber" v="353"/>
+    <tag k="addr:postcode" v="35585000"/>
+    <tag k="addr:street" v="Rua Olinto Fonseca"/>
+    <tag k="addr:suburb" v="Santa Rita"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="ICAR Auto Center"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="379 99664464"/>
+    <tag k="service:vehicle:brakes" v="yes"/>
+    <tag k="service:vehicle:diagnostics" v="yes"/>
+    <tag k="service:vehicle:inspection" v="yes"/>
+    <tag k="service:vehicle:oil_change" v="yes"/>
+    <tag k="shop" v="car_repair"/>
+  </node>
+  <node id="13072642455" lat="-20.4731498" lon="-45.8019833" version="1" timestamp="2025-08-15T14:50:28Z" changeset="170484777" uid="23184069" user="Auto Peças Lopes">
+    <tag k="addr:city" v="Pimenta"/>
+    <tag k="addr:housenumber" v="247"/>
+    <tag k="addr:postcode" v="35585000"/>
+    <tag k="addr:street" v="Rua Olinto Fonseca"/>
+    <tag k="addr:suburb" v="Santa Rita"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Oficina do XuXu"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="37999178215"/>
+    <tag k="service:vehicle:brakes" v="yes"/>
+    <tag k="service:vehicle:car_repair" v="yes"/>
+    <tag k="service:vehicle:diagnostics" v="yes"/>
+    <tag k="service:vehicle:electrical" v="yes"/>
+    <tag k="service:vehicle:oil_change" v="yes"/>
+    <tag k="shop" v="car_repair"/>
+  </node>
+  <node id="13072705016" lat="-20.4711671" lon="-45.8027254" version="1" timestamp="2025-08-15T15:06:04Z" changeset="170485460" uid="23184069" user="Auto Peças Lopes">
+    <tag k="addr:city" v="Pimenta"/>
+    <tag k="addr:housenumber" v="650"/>
+    <tag k="addr:postcode" v="35585000"/>
+    <tag k="addr:street" v="Rua Olinto Fonseca"/>
+    <tag k="addr:suburb" v="Santa Rita"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="MILLER MOTO CENTER"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-18:00"/>
+    <tag k="operator" v="OTAVIO MILLER"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="37999991155"/>
+    <tag k="service:vehicle:brakes" v="yes"/>
+    <tag k="service:vehicle:car_repair" v="yes"/>
+    <tag k="service:vehicle:inspection" v="yes"/>
+    <tag k="service:vehicle:oil_change" v="yes"/>
+    <tag k="shop" v="motorcycle_repair"/>
+  </node>
+  <node id="13073496357" lat="12.3606491" lon="102.3839637" version="2" timestamp="2025-08-16T04:43:55Z" changeset="170505996" uid="23194798" user="Napatter">
+    <tag k="amenity" v="cafe"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="internet_access" v="yes"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="ฤดูตราด Trat's Season"/>
+    <tag k="opening_hours" v="sat-wed 10.00-17.00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:bank_transfer" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="phone" v="083 073 6933"/>
+    <tag k="survey:date" v="2025-08-16"/>
+    <tag k="website" v="https://www.facebook.com/tratseason"/>
+  </node>
 
 </osm>
