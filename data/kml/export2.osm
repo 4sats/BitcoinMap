@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-16T05:31:01Z"/>
+<meta osm_base="2025-08-17T05:32:19Z"/>
 
   <node id="13072416554" lat="-22.9552590" lon="-46.9999283" version="3" timestamp="2025-08-15T13:23:20Z" changeset="170480972" uid="23191916" user="JCI esquadrias de alumínio">
     <tag k="addr:city" v="Valinhos"/>
@@ -100,20 +100,26 @@
     <tag k="service:vehicle:oil_change" v="yes"/>
     <tag k="shop" v="motorcycle_repair"/>
   </node>
-  <node id="13073496357" lat="12.3606491" lon="102.3839637" version="2" timestamp="2025-08-16T04:43:55Z" changeset="170505996" uid="23194798" user="Napatter">
-    <tag k="amenity" v="cafe"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="internet_access" v="yes"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="ฤดูตราด Trat's Season"/>
-    <tag k="opening_hours" v="sat-wed 10.00-17.00"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bank_transfer" v="yes"/>
+  <node id="13074873849" lat="-22.9831610" lon="-43.2021997" version="1" timestamp="2025-08-16T19:40:11Z" changeset="170539162" uid="23196686" user="Vasconza">
+    <tag k="addr:city" v="Rio de Janeiro"/>
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:postcode" v="22411-000"/>
+    <tag k="addr:street" v="Rua Barão da Torre"/>
+    <tag k="addr:suburb" v="Ipanema"/>
+    <tag k="contact:facebook" v="https://web.facebook.com/zonasulsupermercado?_rdc=1&amp;_rdr#"/>
+    <tag k="email" v="faleconosco@zonasul.com.br"/>
+    <tag k="image" v="https://zonasul.vtexassets.com/assets/vtex.file-manager-graphql/images/db19798b-b9d2-41d0-8210-50675ac0dc23___4f4b07cb1c766d8923104cf264261a32.jpg"/>
+    <tag k="name" v="Zona Sul Supermercado Ipanema"/>
+    <tag k="opening_hours" v="Mo-Su 06:30-22:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
-    <tag k="phone" v="083 073 6933"/>
-    <tag k="survey:date" v="2025-08-16"/>
-    <tag k="website" v="https://www.facebook.com/tratseason"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+55 (21) 2122-7070"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.zonasul.com.br/"/>
   </node>
 
 </osm>
