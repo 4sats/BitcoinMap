@@ -1,46 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-21T05:30:59Z"/>
+<meta osm_base="2025-08-22T05:30:04Z"/>
 
-  <node id="6138136285" lat="36.4154742" lon="54.9786031" version="8" timestamp="2025-08-19T07:09:26Z" changeset="170652393" uid="9238381" user="Amihan_ir">
-    <tag k="addr:city" v="shahroud"/>
-    <tag k="addr:housenumber" v="بلوار آزادی"/>
-    <tag k="addr:street" v="بلوار آزادی، نرسیده به مسجد امام رضا"/>
-    <tag k="description" v="طراحی اپلیکیشن موبایل ، طراحی سایت، برنامه نویسی یکپارچه&#x0a;هوش مصنوعی"/>
-    <tag k="email" v="info@amihan.ir"/>
-    <tag k="instagram" v="amihan_ir"/>
-    <tag k="name" v="ای میهن ( طراحی سایت | برنامه نویسی هوش مصنوعی)"/>
-    <tag k="name:en" v="Amihan.ir"/>
-    <tag k="nat_name" v="شرکت ایده پردازان میهن"/>
-    <tag k="opening_hours" v="Sa-Th 08:00-14:00, 16:00-22:00; Fr 16:00-22:00"/>
-    <tag k="operator" v="amihan.ir"/>
+  <node id="10687995134" lat="-21.7218254" lon="-44.9852194" version="5" timestamp="2025-08-22T02:42:12Z" changeset="170807032" uid="18909163" user="Lucas Leiva de Castro">
+    <tag k="addr:city" v="São Tomé das Letras"/>
+    <tag k="addr:street" v="Rua Capitão Pedro Jose Martins"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2024-04-08"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Candeia Store"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+5535991548054"/>
+    <tag k="shop" v="clothes"/>
+  </node>
+  <node id="13086575954" lat="42.3985073" lon="27.7072814" version="1" timestamp="2025-08-21T10:49:35Z" changeset="170771894" uid="23211586" user="Sveti Nikola">
+    <tag k="addr:city" v="Созопол"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="8130"/>
+    <tag k="addr:street" v="124"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="bar" v="yes"/>
+    <tag k="capacity" v="150"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/share/1CVgb2Tphb/"/>
+    <tag k="cuisine" v="seafood;pizza;coffee_shop;pasta;salad;italian"/>
+    <tag k="delivery" v="yes"/>
+    <tag k="diet:halal" v="yes"/>
+    <tag k="diet:kosher" v="yes"/>
+    <tag k="diet:vegan" v="yes"/>
+    <tag k="diet:vegetarian" v="yes"/>
+    <tag k="email" v="snkavatsite@gmail.com"/>
+    <tag k="name" v="RESTAURANT SVETI NIKOLA"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="outdoor_seating" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cards" v="yes"/>
     <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="phone" v="+98 9353318769"/>
-    <tag k="seamark:beacon_special_purpose:category" v="web design"/>
-    <tag k="shop" v="computer"/>
-    <tag k="website" v="https://amihan.ir/"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa_debit" v="yes"/>
+    <tag k="payment:visa_electron" v="yes"/>
+    <tag k="phone" v="+359877089473"/>
+    <tag k="website" v="https://sveti-nikola-kavatsite.com/"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="13081863700" lat="-20.4736195" lon="-45.8025329" version="2" timestamp="2025-08-20T20:03:20Z" changeset="170745615" uid="23184069" user="Auto Peças Lopes">
-    <tag k="addr:city" v="Pimenta"/>
-    <tag k="addr:housenumber" v="317"/>
-    <tag k="addr:postcode" v="35585-000"/>
-    <tag k="addr:street" v="Rua Quincas Adolfo"/>
-    <tag k="addr:suburb" v="Santa Rita"/>
+  <node id="13087351557" lat="-22.8244902" lon="-45.6685486" version="1" timestamp="2025-08-21T18:11:35Z" changeset="170794273" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antonio do pinhal"/>
+    <tag k="addr:housenumber" v="787"/>
+    <tag k="addr:postcode" v="12450-000"/>
+    <tag k="addr:street" v="Av.ministro Nelson Hungria"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="check_date:currency:XBT" v="2025-08-21"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="NZ Empreendimentos"/>
-    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
-    <tag k="operator" v="Douglas Adao"/>
+    <tag k="description" v="Trabalhamos com atendimentos agendados masculino e feminino"/>
+    <tag k="email" v="Wilianjeferson153@gmail.com"/>
+    <tag k="name" v="Couple Beauty Salon"/>
+    <tag k="operator" v="Jeferson Wilian Lopes de Oliveira"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
-    <tag k="phone" v="+5537 999226812"/>
-    <tag k="shop" v="hardware"/>
+    <tag k="phone" v="+55 12 997600908"/>
+    <tag k="shop" v="beauty"/>
+  </node>
+  <node id="13087469120" lat="-20.4720103" lon="-45.8025201" version="1" timestamp="2025-08-21T19:06:02Z" changeset="170796424" uid="23184069" user="Auto Peças Lopes">
+    <tag k="addr:city" v="Pimenta"/>
+    <tag k="addr:postcode" v="35585000"/>
+    <tag k="addr:street" v="Rua Olinto Fonseca"/>
+    <tag k="addr:suburb" v="Santa Rita"/>
+    <tag k="name" v="Super Pão"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="phone" v="+5537999347784"/>
+    <tag k="shop" v="bakery"/>
+  </node>
+  <node id="13088337187" lat="-21.7216060" lon="-44.9849586" version="1" timestamp="2025-08-22T02:33:43Z" changeset="170806817" uid="18909163" user="Lucas Leiva de Castro">
+    <tag k="name" v="Loja do Raul"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="clothes"/>
+  </node>
+  <node id="13088391233" lat="-21.7242093" lon="-44.9836191" version="1" timestamp="2025-08-22T02:32:57Z" changeset="170806791" uid="18909163" user="Lucas Leiva de Castro">
+    <tag k="name" v="Tripta"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="clothes"/>
+  </node>
+  <node id="13088391234" lat="-21.7242496" lon="-44.9837963" version="1" timestamp="2025-08-22T02:32:57Z" changeset="170806791" uid="18909163" user="Lucas Leiva de Castro">
+    <tag k="name" v="Dig's Bar"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="beverages"/>
+  </node>
+  <node id="13088391235" lat="-21.7225797" lon="-44.9862926" version="1" timestamp="2025-08-22T02:32:57Z" changeset="170806791" uid="18909163" user="Lucas Leiva de Castro">
+    <tag k="name" v="Camilo Bikes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="clothes"/>
+  </node>
+  <node id="13088391236" lat="-21.7209287" lon="-44.9844470" version="1" timestamp="2025-08-22T02:32:57Z" changeset="170806791" uid="18909163" user="Lucas Leiva de Castro">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Lendas Grill"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+  </node>
+  <node id="13088391237" lat="-21.7213713" lon="-44.9846391" version="1" timestamp="2025-08-22T02:32:57Z" changeset="170806791" uid="18909163" user="Lucas Leiva de Castro">
+    <tag k="name" v="Chopp do Camilo"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="shop" v="beverages"/>
   </node>
 
 </osm>
