@@ -1,109 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-23T05:28:41Z"/>
+<meta osm_base="2025-08-24T05:30:08Z"/>
 
-  <node id="10687995134" lat="-21.7218254" lon="-44.9852194" version="5" timestamp="2025-08-22T02:42:12Z" changeset="170807032" uid="18909163" user="Lucas Leiva de Castro">
-    <tag k="addr:city" v="São Tomé das Letras"/>
-    <tag k="addr:street" v="Rua Capitão Pedro Jose Martins"/>
-    <tag k="addr:suburb" v="Centro"/>
-    <tag k="check_date:currency:XBT" v="2024-04-08"/>
+  <node id="9910655192" lat="-13.4214994" lon="-71.8486568" version="3" timestamp="2025-08-23T18:24:22Z" changeset="170894408" uid="23219002" user="I Am Smiling">
+    <tag k="amenity" v="cafe"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Candeia Store"/>
+    <tag k="name" v="Café París"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+5535991548054"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="13086575954" lat="42.3985073" lon="27.7072814" version="1" timestamp="2025-08-21T10:49:35Z" changeset="170771894" uid="23211586" user="Sveti Nikola">
-    <tag k="addr:city" v="Созопол"/>
-    <tag k="addr:housenumber" v="8"/>
-    <tag k="addr:postcode" v="8130"/>
-    <tag k="addr:street" v="124"/>
-    <tag k="amenity" v="restaurant"/>
-    <tag k="bar" v="yes"/>
-    <tag k="capacity" v="150"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/share/1CVgb2Tphb/"/>
-    <tag k="cuisine" v="seafood;pizza;coffee_shop;pasta;salad;italian"/>
-    <tag k="delivery" v="yes"/>
-    <tag k="diet:halal" v="yes"/>
-    <tag k="diet:kosher" v="yes"/>
-    <tag k="diet:vegan" v="yes"/>
-    <tag k="diet:vegetarian" v="yes"/>
-    <tag k="email" v="snkavatsite@gmail.com"/>
-    <tag k="name" v="RESTAURANT SVETI NIKOLA"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="outdoor_seating" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cards" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa_debit" v="yes"/>
-    <tag k="payment:visa_electron" v="yes"/>
-    <tag k="phone" v="+359877089473"/>
-    <tag k="website" v="https://sveti-nikola-kavatsite.com/"/>
-    <tag k="wheelchair" v="yes"/>
-  </node>
-  <node id="13087351557" lat="-22.8244902" lon="-45.6685486" version="1" timestamp="2025-08-21T18:11:35Z" changeset="170794273" uid="22025649" user="Bitcoin Amantikir">
-    <tag k="addr:city" v="Santo Antonio do pinhal"/>
-    <tag k="addr:housenumber" v="787"/>
-    <tag k="addr:postcode" v="12450-000"/>
-    <tag k="addr:street" v="Av.ministro Nelson Hungria"/>
-    <tag k="addr:suburb" v="Centro"/>
-    <tag k="check_date:currency:XBT" v="2025-08-21"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Trabalhamos com atendimentos agendados masculino e feminino"/>
-    <tag k="email" v="Wilianjeferson153@gmail.com"/>
-    <tag k="name" v="Couple Beauty Salon"/>
-    <tag k="operator" v="Jeferson Wilian Lopes de Oliveira"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="phone" v="+55 12 997600908"/>
-    <tag k="shop" v="beauty"/>
-  </node>
-  <node id="13088337187" lat="-21.7216060" lon="-44.9849586" version="2" timestamp="2025-08-22T15:58:04Z" changeset="170840158" uid="18909163" user="Lucas Leiva de Castro">
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Loja do Raul"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="13088391233" lat="-21.7242093" lon="-44.9836191" version="2" timestamp="2025-08-22T15:58:04Z" changeset="170840158" uid="18909163" user="Lucas Leiva de Castro">
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Tripta"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="13088391234" lat="-21.7242496" lon="-44.9837963" version="2" timestamp="2025-08-22T15:58:04Z" changeset="170840158" uid="18909163" user="Lucas Leiva de Castro">
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Dig's Bar"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="shop" v="beverages"/>
-  </node>
-  <node id="13088391235" lat="-21.7225797" lon="-44.9862926" version="2" timestamp="2025-08-22T15:58:04Z" changeset="170840158" uid="18909163" user="Lucas Leiva de Castro">
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Camilo Bikes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="shop" v="clothes"/>
-  </node>
-  <node id="13088391236" lat="-21.7209287" lon="-44.9844470" version="2" timestamp="2025-08-22T15:58:04Z" changeset="170840158" uid="18909163" user="Lucas Leiva de Castro">
-    <tag k="amenity" v="restaurant"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Lendas Grill"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-  </node>
-  <node id="13088391237" lat="-21.7213713" lon="-44.9846391" version="3" timestamp="2025-08-22T15:58:04Z" changeset="170840158" uid="18909163" user="Lucas Leiva de Castro">
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Chopp Uai"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="shop" v="beverages"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2025-8-23"/>
   </node>
 
 </osm>
