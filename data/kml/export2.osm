@@ -1,30 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-28T05:29:11Z"/>
+<meta osm_base="2025-08-29T05:29:00Z"/>
 
-  <node id="13098541996" lat="-24.0163366" lon="-47.1525292" version="2" timestamp="2025-08-26T15:20:53Z" changeset="171036217" uid="336232" user="jtrnka">
-    <tag k="addr:city" v="Miracatu"/>
-    <tag k="addr:postcode" v="11850-000"/>
-    <tag k="addr:street" v="Rua Dois"/>
-    <tag k="addr:suburb" v="Cafezal"/>
-    <tag k="ele" v="690"/>
-    <tag k="email" v="contato@espinheironegro.com"/>
-    <tag k="guest_house" v="eco_lodge"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="Espinheiro-Negro"/>
+  <node id="13104051123" lat="50.3885281" lon="8.0638699" version="2" timestamp="2025-08-28T17:27:19Z" changeset="171147233" uid="19756689" user="BTC4Ever">
+    <tag k="addr:city" v="Limburg an der Lahn"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="65549"/>
+    <tag k="addr:street" v="Salzgasse"/>
+    <tag k="check_date" v="2025-08-28"/>
+    <tag k="check_date:currency:XBT" v="2025-08-28"/>
+    <tag k="currency:EUR" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Villa Lavendel Limburg"/>
+    <tag k="opening_hours" v="Mo-Fr 11:00-18:00, Sa 10:00-16:00"/>
+    <tag k="operator" v="Anke Wilhelm"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="phone" v="+55 11 95888-2394"/>
-    <tag k="rooms" v="5"/>
-    <tag k="tourism" v="guest_house"/>
-    <tag k="website" v="https://www.espinheironegro.com"/>
+    <tag k="payment:onchain_contactless" v="yes"/>
+    <tag k="phone" v="+4964315840501"/>
+    <tag k="shop" v="gift"/>
+    <tag k="website" v="https://villalavendel.de"/>
+  </node>
+  <node id="13104439486" lat="-22.1936841" lon="-46.7479693" version="2" timestamp="2025-08-28T21:35:27Z" changeset="171156166" uid="22857398" user="BitPinhall">
+    <tag k="addr:city" v="Espírito Santo do Pinhal"/>
+    <tag k="addr:housenumber" v="88 A"/>
+    <tag k="addr:postcode" v="13990-125"/>
+    <tag k="addr:street" v="R. Silvestre Machado,"/>
+    <tag k="addr:suburb" v="centro"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="La Pizzaria Napoletana"/>
+    <tag k="opening_hours" v="Sa 19:00-23:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="website" v="https://www.instagram.com/lapizzanapoletanapinhal/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13104699765" lat="-22.2027092" lon="-46.7683615" version="3" timestamp="2025-08-29T00:34:09Z" changeset="171159728" uid="22857398" user="BitPinhall">
+    <tag k="addr:city" v="Espirito Santo do Pinhal"/>
+    <tag k="addr:housenumber" v="235"/>
+    <tag k="addr:postcode" v="13992-606"/>
+    <tag k="addr:street" v="Rua Alvaro Corsi Silva"/>
+    <tag k="addr:suburb" v="Jardim Haydee"/>
+    <tag k="amenity" v="food_court"/>
+    <tag k="bitcoin" v="lightning"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="loc_name" v="Feira Noturna Jardim Haydee. Toda quarta das 18 as 22hs"/>
+    <tag k="name" v="Espetaria Familia Faria"/>
+    <tag k="opening_hours" v="Wed 18:00-22:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="website" v="https://www.instagram.com/marcelo.672/"/>
   </node>
 
 </osm>
