@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-29T05:29:00Z"/>
+<meta osm_base="2025-08-30T05:27:14Z"/>
 
-  <node id="13104051123" lat="50.3885281" lon="8.0638699" version="2" timestamp="2025-08-28T17:27:19Z" changeset="171147233" uid="19756689" user="BTC4Ever">
-    <tag k="addr:city" v="Limburg an der Lahn"/>
-    <tag k="addr:housenumber" v="20"/>
-    <tag k="addr:postcode" v="65549"/>
-    <tag k="addr:street" v="Salzgasse"/>
-    <tag k="check_date" v="2025-08-28"/>
-    <tag k="check_date:currency:XBT" v="2025-08-28"/>
-    <tag k="currency:EUR" v="yes"/>
+  <node id="12995067679" lat="-22.1929336" lon="-46.7466546" version="5" timestamp="2025-08-29T12:24:38Z" changeset="171181394" uid="22857398" user="BitPinhall">
+    <tag k="addr:city" v="Espírito Santo do Pinhal"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:postcode" v="13990061"/>
+    <tag k="addr:street" v="Rua XV de Novembro"/>
+    <tag k="addr:suburb" v="centro"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Villa Lavendel Limburg"/>
-    <tag k="opening_hours" v="Mo-Fr 11:00-18:00, Sa 10:00-16:00"/>
-    <tag k="operator" v="Anke Wilhelm"/>
+    <tag k="name" v="Pimentas Las Ardidas"/>
+    <tag k="note" v="Feira gastrônomica com funcionamento somente a cada 15 dias no centro da cidade."/>
+    <tag k="opening_hours" v="fifth 18:00-23:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:onchain_contactless" v="yes"/>
-    <tag k="phone" v="+4964315840501"/>
-    <tag k="shop" v="gift"/>
-    <tag k="website" v="https://villalavendel.de"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+55 19 992371497"/>
+    <tag k="shop" v="spices"/>
+    <tag k="website" v="https://www.instagram.com/dessapepper14?igsh=MTYxNjF2Z25zOXVjZg=="/>
   </node>
   <node id="13104439486" lat="-22.1936841" lon="-46.7479693" version="2" timestamp="2025-08-28T21:35:27Z" changeset="171156166" uid="22857398" user="BitPinhall">
     <tag k="addr:city" v="Espírito Santo do Pinhal"/>
@@ -42,7 +44,32 @@
     <tag k="website" v="https://www.instagram.com/lapizzanapoletanapinhal/"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="13104699765" lat="-22.2027092" lon="-46.7683615" version="3" timestamp="2025-08-29T00:34:09Z" changeset="171159728" uid="22857398" user="BitPinhall">
+  <node id="13104529796" lat="-22.1924133" lon="-46.7469270" version="6" timestamp="2025-08-29T15:21:24Z" changeset="171190447" uid="22857398" user="BitPinhall">
+    <tag k="addr:city" v="Espírito Santo do Pinhal"/>
+    <tag k="addr:housenumber" v="01"/>
+    <tag k="addr:postcode" v="13990-133"/>
+    <tag k="addr:street" v="Praça da Independência"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="brewery" v="yes;chopp_ashby"/>
+    <tag k="check_date" v="2025-08-28"/>
+    <tag k="check_date:currency:XBT" v="2025-08-28"/>
+    <tag k="contact:instagram" v="mega.chopp_pinhal"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="microbrewery" v="yes"/>
+    <tag k="name" v="Mega Gelo e Chopp"/>
+    <tag k="note" v="Feira Gastronômica com funcionamento somente a cada 15 dias no centro da cidade, igreja matriz"/>
+    <tag k="opening_hours" v="Th 18:00-23:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="payment:visa" v="yes"/>
+  </node>
+  <node id="13104699765" lat="-22.2027092" lon="-46.7683615" version="4" timestamp="2025-08-29T12:16:53Z" changeset="171181084" uid="22857398" user="BitPinhall">
     <tag k="addr:city" v="Espirito Santo do Pinhal"/>
     <tag k="addr:housenumber" v="235"/>
     <tag k="addr:postcode" v="13992-606"/>
@@ -55,8 +82,27 @@
     <tag k="name" v="Espetaria Familia Faria"/>
     <tag k="opening_hours" v="Wed 18:00-22:00"/>
     <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
     <tag k="website" v="https://www.instagram.com/marcelo.672/"/>
+  </node>
+  <node id="13106068735" lat="45.4903881" lon="12.2471575" version="1" timestamp="2025-08-29T14:55:50Z" changeset="171189107" uid="16146608" user="McCio">
+    <tag k="addr:city" v="Mestre"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="30172"/>
+    <tag k="addr:street" v="Via Guglielmo Pepe"/>
+    <tag k="contact:phone" v="+39 041 980500"/>
+    <tag k="contact:website" v="http://studiolegalesimonetti.eu/"/>
+    <tag k="name" v="Studio Legale Simonetti"/>
+    <tag k="office" v="lawyer"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:wire_transfer" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
