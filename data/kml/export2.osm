@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-31T05:27:58Z"/>
+<meta osm_base="2025-09-01T05:30:15Z"/>
 
+  <node id="13110690965" lat="-25.9901601" lon="-49.3354300" version="2" timestamp="2025-08-31T17:06:09Z" changeset="171279379" uid="23230699" user="Restaurante Copacabana">
+    <tag k="addr:city" v="Agudos do Sul"/>
+    <tag k="addr:housenumber" v="433"/>
+    <tag k="addr:postcode" v="83850000"/>
+    <tag k="addr:street" v="Avenida Getúlio Vargas"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Restaurante Copacabana"/>
+    <tag k="opening_hours" v="Mo-Sa 11:00-15:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+55 41 998491493"/>
+  </node>
+  <node id="13110744938" lat="-27.0267360" lon="-48.6594415" version="1" timestamp="2025-08-31T17:23:16Z" changeset="171280033" uid="23243612" user="ADrak Corporation">
+    <tag k="addr:housenumber" v="321"/>
+    <tag k="addr:street" v="Rua São Paulo"/>
+    <tag k="branch" v="das Portas"/>
+    <tag k="brand" v="Atacadão"/>
+    <tag k="brand:wikidata" v="Q2868739"/>
+    <tag k="name" v="Atacadão"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
 
 </osm>
