@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-01T05:30:15Z"/>
+<meta osm_base="2025-09-02T05:30:00Z"/>
 
   <node id="13110690965" lat="-25.9901601" lon="-49.3354300" version="2" timestamp="2025-08-31T17:06:09Z" changeset="171279379" uid="23230699" user="Restaurante Copacabana">
     <tag k="addr:city" v="Agudos do Sul"/>
@@ -32,6 +32,42 @@
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
     <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="13112877031" lat="-22.8259090" lon="-45.6584500" version="1" timestamp="2025-09-01T18:56:46Z" changeset="171330167" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antônio do Pinhal"/>
+    <tag k="addr:housenumber" v="339"/>
+    <tag k="addr:postcode" v="12450-000"/>
+    <tag k="addr:street" v="avenida Antônio Joaquim de Oliveira"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="check_date:currency:XBT" v="2025-09-01"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Restaurante especializado em hambúrguer artesanal, petisco e Chopp"/>
+    <tag k="name" v="Buteco ZigZag"/>
+    <tag k="opening_hours" v="We-Mo 12:00-22:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lighting" v="yes"/>
+  </node>
+  <node id="13112897171" lat="-22.8246908" lon="-45.6672488" version="1" timestamp="2025-09-01T18:49:53Z" changeset="171329923" uid="22025649" user="Bitcoin Amantikir">
+    <tag k="addr:city" v="Santo Antonio do pinhal"/>
+    <tag k="addr:housenumber" v="827"/>
+    <tag k="addr:postcode" v="12450000"/>
+    <tag k="addr:street" v="Avenida Ministro Nelson Hungria"/>
+    <tag k="addr:suburb" v="centro"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="check_date:currency:XBT" v="2025-09-01"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Bistrô especializado em risoto e pasta"/>
+    <tag k="name" v="Riso Bistrô da Mantiqueira"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+55 12 996286963"/>
   </node>
 
 </osm>
