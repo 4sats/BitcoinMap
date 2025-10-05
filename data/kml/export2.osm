@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-04T05:26:43Z"/>
+<meta osm_base="2025-10-05T05:25:49Z"/>
 
+  <node id="13194205875" lat="45.6554153" lon="10.4206462" version="1" timestamp="2025-10-04T17:58:15Z" changeset="172841090" uid="23361856" user="Kikera">
+    <tag k="addr:city" v="Sabbio Chiese"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="25070"/>
+    <tag k="addr:street" v="Via Antonio Zani"/>
+    <tag k="description" v="Vendita Capsule Caffè, Tè, Tisane e Articoli Regalo Personalizzati"/>
+    <tag k="name" v="Mbazar"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-18:00"/>
+    <tag k="operator" v="Maurizio Bianchi"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="phone" v="+39 3511119911"/>
+    <tag k="shop" v="coffee"/>
+    <tag k="website" v="mbazar.it"/>
+  </node>
+  <node id="13194579999" lat="45.6554315" lon="10.4206713" version="1" timestamp="2025-10-04T22:10:46Z" changeset="172848130" uid="23361856" user="Kikera">
+    <tag k="addr:city" v="Sabbio Chiese"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="25070"/>
+    <tag k="addr:street" v="Via Antonio Zani"/>
+    <tag k="craft" v="handicraft"/>
+    <tag k="description" v="Vendita articoli personalizzati Tazze, Mug, Portachiavi ecc..."/>
+    <tag k="name" v="Kikera"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-18:00"/>
+    <tag k="payment:bancomat" v="yes"/>
+    <tag k="payment:binance" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:polygon" v="yes"/>
+    <tag k="payment:tron" v="yes"/>
+    <tag k="phone" v="+39 3511119911"/>
+    <tag k="website" v="https://kikera.com/"/>
+  </node>
 
 </osm>
