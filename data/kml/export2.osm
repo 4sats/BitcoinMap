@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-05T05:25:49Z"/>
+<meta osm_base="2025-10-06T05:28:07Z"/>
 
   <node id="13194205875" lat="45.6554153" lon="10.4206462" version="1" timestamp="2025-10-04T17:58:15Z" changeset="172841090" uid="23361856" user="Kikera">
     <tag k="addr:city" v="Sabbio Chiese"/>
@@ -40,6 +40,30 @@
     <tag k="payment:tron" v="yes"/>
     <tag k="phone" v="+39 3511119911"/>
     <tag k="website" v="https://kikera.com/"/>
+  </node>
+  <node id="13196088608" lat="52.2313468" lon="20.9703754" version="1" timestamp="2025-10-05T16:57:56Z" changeset="172877402" uid="23364273" user="Karodent Stomatologia">
+    <tag k="addr:city" v="Warszawa"/>
+    <tag k="addr:housenumber" v="7"/>
+    <tag k="addr:postcode" v="01-204"/>
+    <tag k="addr:street" v="Siedmiogrodzka"/>
+    <tag k="amenity" v="dentist"/>
+    <tag k="contact:facebook" v="https://www.instagram.com/karodent.stomatologia?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw=="/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="High-tech smiles for high-value minds &#x0a;Biomimetic reconstructions· Implantology · Innovation&#x0a;· Private practice of Rafał Sulej&#x0a;💬 PL · EN · UA&#x0a;📍 Wola, Warsaw"/>
+    <tag k="healthcare" v="dentist"/>
+    <tag k="healthcare:speciality" v="dentist;implantology;dental_oral_maxillo_facial_surgery;dentistry"/>
+    <tag k="mobile" v="+48506555666"/>
+    <tag k="name" v="Karodent Stomatologia"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-18:00"/>
+    <tag k="operator" v="Rafał Sulej"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="survey:date" v="2025-10-05"/>
+    <tag k="website" v="https://karodent.pl/"/>
   </node>
 
 </osm>
