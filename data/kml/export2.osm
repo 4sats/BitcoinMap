@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-07T05:28:42Z"/>
+<meta osm_base="2025-10-08T05:29:00Z"/>
 
-  <node id="13194205875" lat="45.6554153" lon="10.4206462" version="1" timestamp="2025-10-04T17:58:15Z" changeset="172841090" uid="23361856" user="Kikera">
-    <tag k="addr:city" v="Sabbio Chiese"/>
-    <tag k="addr:housenumber" v="10"/>
-    <tag k="addr:postcode" v="25070"/>
-    <tag k="addr:street" v="Via Antonio Zani"/>
-    <tag k="description" v="Vendita Capsule Caffè, Tè, Tisane e Articoli Regalo Personalizzati"/>
-    <tag k="name" v="Mbazar"/>
-    <tag k="opening_hours" v="Mo-Sa 09:00-18:00"/>
-    <tag k="operator" v="Maurizio Bianchi"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="phone" v="+39 3511119911"/>
-    <tag k="shop" v="coffee"/>
-    <tag k="website" v="mbazar.it"/>
-  </node>
   <node id="13198609504" lat="-29.9008753" lon="-51.1712493" version="3" timestamp="2025-10-06T21:08:54Z" changeset="172933961" uid="23368824" user="Suavittá Comercio de Fraldas">
     <tag k="addr:city" v="Canoas"/>
     <tag k="addr:housenumber" v="183"/>
@@ -32,6 +15,23 @@
     <tag k="payment:bitcoincash" v="yes"/>
     <tag k="phone" v="+5551984097320"/>
     <tag k="shop" v="medical_supply"/>
+  </node>
+  <node id="13201511228" lat="-22.1942937" lon="-46.7454068" version="3" timestamp="2025-10-08T01:50:36Z" changeset="172982433" uid="22857398" user="BitPinhall">
+    <tag k="addr:city" v="Espírito Santo do Pinhal"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="13990069"/>
+    <tag k="addr:street" v="Rua Marquês do Herval"/>
+    <tag k="addr:suburb" v="Centro"/>
+    <tag k="amenity" v="food_court"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="mobile" v="5519988359701"/>
+    <tag k="name" v="Delicia do Alho e Espetinhos Fernando"/>
+    <tag k="operator" v="Fernando"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
   </node>
 
 </osm>
