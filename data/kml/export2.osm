@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-08T05:29:00Z"/>
+<meta osm_base="2025-10-09T05:29:25Z"/>
 
   <node id="13198609504" lat="-29.9008753" lon="-51.1712493" version="3" timestamp="2025-10-06T21:08:54Z" changeset="172933961" uid="23368824" user="Suavittá Comercio de Fraldas">
     <tag k="addr:city" v="Canoas"/>
@@ -16,22 +16,99 @@
     <tag k="phone" v="+5551984097320"/>
     <tag k="shop" v="medical_supply"/>
   </node>
-  <node id="13201511228" lat="-22.1942937" lon="-46.7454068" version="3" timestamp="2025-10-08T01:50:36Z" changeset="172982433" uid="22857398" user="BitPinhall">
+  <node id="13201511228" lat="-22.1942937" lon="-46.7454068" version="9" timestamp="2025-10-08T22:56:53Z" changeset="173026022" uid="22857398" user="BitPinhall">
     <tag k="addr:city" v="Espírito Santo do Pinhal"/>
-    <tag k="addr:housenumber" v="15"/>
     <tag k="addr:postcode" v="13990069"/>
-    <tag k="addr:street" v="Rua Marquês do Herval"/>
-    <tag k="addr:suburb" v="Centro"/>
-    <tag k="amenity" v="food_court"/>
+    <tag k="addr:street" v="Rua Marquês do Herval, 15 - Centro"/>
+    <tag k="amenity" v="fast_food"/>
     <tag k="currency:XBT" v="yes"/>
     <tag k="mobile" v="5519988359701"/>
-    <tag k="name" v="Delicia do Alho e Espetinhos Fernando"/>
+    <tag k="name" v="Delícia do Alho e Espetinhos Fernando"/>
     <tag k="operator" v="Fernando"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+  </node>
+  <node id="13203032785" lat="42.0675179" lon="-85.1355771" version="4" timestamp="2025-10-08T20:36:22Z" changeset="173022710" uid="23375812" user="jessrinehart">
+    <tag k="addr:city" v="Union City"/>
+    <tag k="addr:housenumber" v="303"/>
+    <tag k="addr:postcode" v="49094"/>
+    <tag k="addr:state" v="MI"/>
+    <tag k="addr:street" v="North Broadway Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Five Star Pizza"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="1 (517) 741-3751"/>
+    <tag k="website" v="www.fivestarpizzami.com"/>
+  </node>
+  <node id="13203032786" lat="41.8714579" lon="-85.1985660" version="3" timestamp="2025-10-08T17:20:34Z" changeset="173015836" uid="23375812" user="jessrinehart">
+    <tag k="addr:city" v="Bronson"/>
+    <tag k="addr:housenumber" v="307"/>
+    <tag k="addr:postcode" v="49028"/>
+    <tag k="addr:state" v="MI"/>
+    <tag k="addr:street" v="West Chicago Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Five Star Pizza"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="1 (517) 369-7318"/>
+    <tag k="website" v="www.fivestarpizzami.com"/>
+  </node>
+  <node id="13203032787" lat="42.1455828" lon="-84.8077558" version="3" timestamp="2025-10-08T17:19:53Z" changeset="173015811" uid="23375812" user="jessrinehart">
+    <tag k="addr:city" v="Homer"/>
+    <tag k="addr:housenumber" v="115"/>
+    <tag k="addr:postcode" v="49245"/>
+    <tag k="addr:state" v="MI"/>
+    <tag k="addr:street" v="West Main Street"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="pizza"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Five Star Pizza"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="1 (517) 568-4422"/>
+    <tag k="website" v="www.fivestarpizzami.com"/>
+  </node>
+  <node id="13203289079" lat="-22.1896533" lon="-46.7476032" version="3" timestamp="2025-10-08T22:56:53Z" changeset="173026022" uid="22857398" user="BitPinhall">
+    <tag k="addr:city" v="Espirito Santo do Pinhal"/>
+    <tag k="addr:postcode" v="13.990-061"/>
+    <tag k="addr:street" v="Rua XV de Novembro, 303 - Centro"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Grafica CBM"/>
+    <tag k="opening_hours" v="Mo-fr 07:00-17:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="5519999808186"/>
+    <tag k="shop" v="copyshop"/>
+    <tag k="website" v="https://www.instagram.com/graficacbm/"/>
+  </node>
+  <node id="13203894283" lat="-22.1931619" lon="-46.7473071" version="2" timestamp="2025-10-08T23:50:07Z" changeset="173026767" uid="22857398" user="BitPinhall">
+    <tag k="addr:city" v="Espírito Santo do Pinhal"/>
+    <tag k="addr:postcode" v="13990133"/>
+    <tag k="addr:street" v="Praça da Independência, 334 - Centro"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Ezinho Garçon Profissional"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
   </node>
 
 </osm>
