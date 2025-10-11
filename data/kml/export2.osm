@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-10T05:28:59Z"/>
+<meta osm_base="2025-10-11T05:27:27Z"/>
 
+  <node id="6401672686" lat="13.9845322" lon="-89.6792396" version="4" timestamp="2025-10-10T15:30:03Z" changeset="173100804" uid="23355914" user="bitcoin chalchuapa">
+    <tag k="check_date:currency:XBT" v="2023-09-03"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Hostal Doña Angelina"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
   <node id="13203032785" lat="42.0675179" lon="-85.1355771" version="4" timestamp="2025-10-08T20:36:22Z" changeset="173022710" uid="23375812" user="jessrinehart">
     <tag k="addr:city" v="Union City"/>
     <tag k="addr:housenumber" v="303"/>
@@ -59,10 +68,11 @@
     <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="19997676412"/>
   </node>
-  <node id="13206183678" lat="13.4968641" lon="-89.4395512" version="1" timestamp="2025-10-10T05:06:54Z" changeset="173076435" uid="23335264" user="Bitmap Adoption">
+  <node id="13206183678" lat="13.4968641" lon="-89.4395512" version="2" timestamp="2025-10-10T05:39:28Z" changeset="173077041" uid="23335264" user="Bitmap Adoption">
     <tag k="addr:street" v="Playa El zonte"/>
     <tag k="amenity" v="fast_food"/>
     <tag k="cuisine" v="sandwich"/>
+    <tag k="currency:XBT" v="yes"/>
     <tag k="name" v="Tortas Ruby"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
