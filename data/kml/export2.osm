@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-01T05:28:46Z"/>
+<meta osm_base="2025-11-02T05:29:01Z"/>
 
+  <node id="13075583868" lat="46.8832165" lon="8.6411003" version="3" timestamp="2025-11-01T21:09:42Z" changeset="174080468" uid="23460392" user="numbernine bikeWERK">
+    <tag k="addr:city" v="Altdorf UR"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="6460"/>
+    <tag k="addr:street" v="Vogelsanggasse"/>
+    <tag k="currency:ETH" v="yes"/>
+    <tag k="currency:SOL" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Bikewerk"/>
+    <tag k="opening_hours" v="Nach Vereinbarung"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="service:bicycle:repair" v="yes"/>
+    <tag k="service:bicycle:retail" v="no"/>
+    <tag k="shop" v="bicycle"/>
+    <tag k="website" v="https://www.numbernine.ch/bikewerk/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="13274423135" lat="35.8663036" lon="-101.9747716" version="1" timestamp="2025-11-01T19:03:09Z" changeset="174076592" uid="12862167" user="DeeeSeee">
+    <tag k="addr:city" v="Dumas"/>
+    <tag k="addr:housenumber" v="212"/>
+    <tag k="addr:postcode" v="79029"/>
+    <tag k="addr:state" v="TX"/>
+    <tag k="addr:street" v="West 1st Street"/>
+    <tag k="name" v="Bealls"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:apple_pay" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:venmo" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+1-806-710-2165"/>
+    <tag k="shop" v="department_store"/>
+    <tag k="website" v="https://stores.bealls.com/tx/dumas/212-w-1st-street"/>
+  </node>
+  <node id="13274926076" lat="9.7122467" lon="99.9864717" version="1" timestamp="2025-11-02T02:53:57Z" changeset="174086156" uid="23431612" user="JunglerKP">
+    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/Koh-Phangan-Currency-Exchange-189366381846657/"/>
+    <tag k="currency:USDT" v="yes"/>
+    <tag k="currency:baht" v="yes"/>
+    <tag k="currency:bitcoin" v="yes"/>
+    <tag k="currency:ethereum" v="yes"/>
+    <tag k="currency:usdc" v="yes"/>
+    <tag k="name" v="B.E. Money Exchange"/>
+    <tag k="operator" v="Local Operator"/>
+    <tag k="payment:bank_transfer" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:ethereum" v="yes"/>
+    <tag k="payment:usdc" v="yes"/>
+    <tag k="payment:usdt" v="yes"/>
+  </node>
 
 </osm>
