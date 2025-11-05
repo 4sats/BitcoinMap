@@ -1,39 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-04T05:31:10Z"/>
+<meta osm_base="2025-11-05T05:31:00Z"/>
 
-  <node id="13274926076" lat="9.7122467" lon="99.9864717" version="1" timestamp="2025-11-02T02:53:57Z" changeset="174086156" uid="23431612" user="JunglerKP">
-    <tag k="amenity" v="bureau_de_change"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/Koh-Phangan-Currency-Exchange-189366381846657/"/>
-    <tag k="currency:USDT" v="yes"/>
-    <tag k="currency:baht" v="yes"/>
-    <tag k="currency:bitcoin" v="yes"/>
-    <tag k="currency:ethereum" v="yes"/>
-    <tag k="currency:usdc" v="yes"/>
-    <tag k="name" v="B.E. Money Exchange"/>
-    <tag k="operator" v="Local Operator"/>
-    <tag k="payment:bank_transfer" v="yes"/>
+  <node id="13281945936" lat="13.9842350" lon="-89.6786880" version="1" timestamp="2025-11-05T00:23:19Z" changeset="174218121" uid="23355914" user="bitcoin chalchuapa">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="local"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Restaurante Los Antojitos"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:ethereum" v="yes"/>
-    <tag k="payment:usdc" v="yes"/>
-    <tag k="payment:usdt" v="yes"/>
-  </node>
-  <node id="13278381989" lat="13.7026203" lon="-89.2316088" version="2" timestamp="2025-11-03T20:43:28Z" changeset="174166040" uid="23466546" user="HugoMiguel89">
-    <tag k="addr:city" v="San Salvador"/>
-    <tag k="addr:postcode" v="CP 1101"/>
-    <tag k="addr:street" v="1a Calle Poniente"/>
-    <tag k="amenity" v="hospital"/>
-    <tag k="currency BTC" v="btc"/>
-    <tag k="healthcare" v="hospital"/>
-    <tag k="healthcare:speciality" v="surgery;transplant"/>
-    <tag k="name" v="Clinica Médica"/>
-    <tag k="operator" v="Dr. Hugo Miguel"/>
-    <tag k="operator:type" v="private"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="lightning"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning_contactless" v="no"/>
+    <tag k="payment:onchain" v="no"/>
+    <tag k="survey:date" v="2025-10-4"/>
   </node>
 
 </osm>
