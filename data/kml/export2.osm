@@ -1,7 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-06T05:30:56Z"/>
+<meta osm_base="2025-11-07T05:30:04Z"/>
 
+  <node id="13285203414" lat="48.3083012" lon="18.0990339" version="1" timestamp="2025-11-06T13:40:59Z" changeset="174288965" uid="23477127" user="KvaPay">
+    <tag k="addr:city" v="Nitra"/>
+    <tag k="addr:housenumber" v="1651/1A"/>
+    <tag k="addr:postcode" v="94901"/>
+    <tag k="addr:street" v="Akademická"/>
+    <tag k="addr:suburb" v="Chrenová"/>
+    <tag k="amenity" v="atm"/>
+    <tag k="atm:type" v="cryptocurrency"/>
+    <tag k="cash_in" v="yes"/>
+    <tag k="cash_out" v="yes"/>
+    <tag k="cryptocurrency:Litecoin" v="yes"/>
+    <tag k="cryptocurrency:bitcoin" v="yes"/>
+    <tag k="cryptocurrency:ethereum" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Bitcoinový bankomat (nákup/predaj); podporované meny: BTC, Lightning BTC, ETH, LTC, TRX, DOGE, USDC (ERC-20), XRP, ADA, BNB."/>
+    <tag k="description:en" v="Bitcoin ATM (buy/sell); supported currencies: BTC, Lightning BTC, ETH, LTC, TRX, DOGE, USDC (ERC-20), XRP, ADA, BNB."/>
+    <tag k="email" v="support@kvakomat.com"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Bitcoin ATM Kvakomat - OC Centro Nitra"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-20:00"/>
+    <tag k="operator" v="Kvakomat by KvaPay"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="phone" v="+421905355829"/>
+    <tag k="website" v="https://kvakomat.com/sk/map/slovakia/nitra/p49Pg0-oc-centro"/>
+  </node>
+  <node id="13285270032" lat="48.3083012" lon="18.0990339" version="1" timestamp="2025-11-06T14:34:13Z" changeset="174291567" uid="23477127" user="KvaPay">
+    <tag k="addr:city" v="Nitra"/>
+    <tag k="addr:housenumber" v="1651/1A"/>
+    <tag k="addr:postcode" v="94901"/>
+    <tag k="addr:street" v="Akademická"/>
+    <tag k="addr:suburb" v="Chrenová"/>
+    <tag k="amenity" v="atm"/>
+    <tag k="atm:type" v="cryptocurrency"/>
+    <tag k="cash_in" v="yes"/>
+    <tag k="cash_out" v="yes"/>
+    <tag k="cryptocurrency:Litecoin" v="yes"/>
+    <tag k="cryptocurrency:bitcoin" v="yes"/>
+    <tag k="cryptocurrency:ethereum" v="yes"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="description" v="Bitcoinový bankomat (nákup/predaj); podporované meny: BTC, Lightning BTC, ETH, LTC, TRX, DOGE, USDC (ERC-20), XRP, ADA, BNB."/>
+    <tag k="description:en" v="Bitcoin ATM (buy/sell); supported currencies: BTC, Lightning BTC, ETH, LTC, TRX, DOGE, USDC (ERC-20), XRP, ADA, BNB."/>
+    <tag k="email" v="support@kvakomat.com"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Bitcoin ATM Kvakomat - OC Centro Nitra"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-20:00"/>
+    <tag k="operator" v="Kvakomat by KvaPay"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+421905355829"/>
+    <tag k="website" v="https://kvakomat.com/sk/map/slovakia/nitra/p49Pg0-oc-centro"/>
+  </node>
+  <node id="13286194159" lat="-12.0997317" lon="-38.9776316" version="3" timestamp="2025-11-06T22:13:42Z" changeset="174309414" uid="23478527" user="Padaria do Lié">
+    <tag k="addr:city" v="Feira de Santana"/>
+    <tag k="addr:housenumber" v="900"/>
+    <tag k="addr:street" v="Corredor de Nova Délhi"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Padaria do Lié"/>
+    <tag k="opening_hours" v="Sa 15:00-18:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="payment:sats" v="yes"/>
+    <tag k="shop" v="bakery"/>
+  </node>
+  <node id="13286471415" lat="38.5802650" lon="-121.4970506" version="2" timestamp="2025-11-07T02:42:41Z" changeset="174314003" uid="23478903" user="BigGaySanta">
+    <tag k="addr:city" v="Sacramento"/>
+    <tag k="addr:housenumber" v="717"/>
+    <tag k="addr:postcode" v="95814"/>
+    <tag k="addr:state" v="CA"/>
+    <tag k="addr:street" v="K Street"/>
+    <tag k="addr:unit" v="204"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="brand" v="Zero Point Advanced Myofascial Release"/>
+    <tag k="email" v="paul@paulbrown.net"/>
+    <tag k="lgbtq owned" v="yes"/>
+    <tag k="name" v="Paul Brown Massage Therapy"/>
+    <tag k="opening_hours" v="Mo `12:00 - 20:00 Tu-Fr 10:00-1800 Sa 08:30-14:30 By Appt Only"/>
+    <tag k="operator" v="Paul Brown, CMT"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:apple_pay" v="yes"/>
+    <tag k="payment:bi" v="yes"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:cashapp" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:etherium" v="yes"/>
+    <tag k="payment:fsa_account" v="yes"/>
+    <tag k="payment:gold" v="yes"/>
+    <tag k="payment:hsa" v="yes"/>
+    <tag k="payment:paypal" v="yes"/>
+    <tag k="payment:venmo" v="yes"/>
+    <tag k="payment:zelle" v="yes"/>
+    <tag k="phone" v="+1 916 534 8772"/>
+    <tag k="shop" v="massage"/>
+    <tag k="start_date" v="2003"/>
+    <tag k="toilets" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="veteran owned" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
 
 </osm>
