@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-07T05:30:04Z"/>
+<meta osm_base="2025-11-08T05:29:01Z"/>
 
   <node id="13285203414" lat="48.3083012" lon="18.0990339" version="1" timestamp="2025-11-06T13:40:59Z" changeset="174288965" uid="23477127" user="KvaPay">
     <tag k="addr:city" v="Nitra"/>
@@ -25,32 +25,6 @@
     <tag k="opening_hours" v="Mo-Su 09:00-20:00"/>
     <tag k="operator" v="Kvakomat by KvaPay"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="phone" v="+421905355829"/>
-    <tag k="website" v="https://kvakomat.com/sk/map/slovakia/nitra/p49Pg0-oc-centro"/>
-  </node>
-  <node id="13285270032" lat="48.3083012" lon="18.0990339" version="1" timestamp="2025-11-06T14:34:13Z" changeset="174291567" uid="23477127" user="KvaPay">
-    <tag k="addr:city" v="Nitra"/>
-    <tag k="addr:housenumber" v="1651/1A"/>
-    <tag k="addr:postcode" v="94901"/>
-    <tag k="addr:street" v="Akademická"/>
-    <tag k="addr:suburb" v="Chrenová"/>
-    <tag k="amenity" v="atm"/>
-    <tag k="atm:type" v="cryptocurrency"/>
-    <tag k="cash_in" v="yes"/>
-    <tag k="cash_out" v="yes"/>
-    <tag k="cryptocurrency:Litecoin" v="yes"/>
-    <tag k="cryptocurrency:bitcoin" v="yes"/>
-    <tag k="cryptocurrency:ethereum" v="yes"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Bitcoinový bankomat (nákup/predaj); podporované meny: BTC, Lightning BTC, ETH, LTC, TRX, DOGE, USDC (ERC-20), XRP, ADA, BNB."/>
-    <tag k="description:en" v="Bitcoin ATM (buy/sell); supported currencies: BTC, Lightning BTC, ETH, LTC, TRX, DOGE, USDC (ERC-20), XRP, ADA, BNB."/>
-    <tag k="email" v="support@kvakomat.com"/>
-    <tag k="level" v="0"/>
-    <tag k="name" v="Bitcoin ATM Kvakomat - OC Centro Nitra"/>
-    <tag k="opening_hours" v="Mo-Su 09:00-20:00"/>
-    <tag k="operator" v="Kvakomat by KvaPay"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
     <tag k="phone" v="+421905355829"/>
     <tag k="website" v="https://kvakomat.com/sk/map/slovakia/nitra/p49Pg0-oc-centro"/>
   </node>
@@ -103,6 +77,20 @@
     <tag k="toilets:wheelchair" v="yes"/>
     <tag k="veteran owned" v="yes"/>
     <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="13288089307" lat="10.3235781" lon="-85.8007853" version="1" timestamp="2025-11-07T21:45:26Z" changeset="174353084" uid="23478265" user="Sol Gallery">
+    <tag k="addr:city" v="Villareal"/>
+    <tag k="addr:housenumber" v="375m Sur"/>
+    <tag k="addr:street" v="de la bomba JSM"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="email" v="info@solgallery.cr"/>
+    <tag k="mobile" v="+506 63694796"/>
+    <tag k="name" v="Sol Gallery"/>
+    <tag k="opening_hours" v="Tu-Fri 10:00-17:00; Sa 10:00-1500"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="survey:date" v="2026-11-07"/>
+    <tag k="tourism" v="gallery"/>
+    <tag k="website" v="solgallery.cr"/>
   </node>
 
 </osm>
