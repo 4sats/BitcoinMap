@@ -1,36 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-14T05:30:37Z"/>
+<meta osm_base="2025-11-15T05:30:03Z"/>
 
-  <node id="13301052746" lat="30.0424553" lon="76.3119938" version="1" timestamp="2025-11-13T08:45:32Z" changeset="174593247" uid="23500597" user="Velvet Vision">
-    <tag k="addr:city" v="Cheeka"/>
-    <tag k="addr:district" v="Kaithal"/>
-    <tag k="addr:postcode" v="136035"/>
-    <tag k="addr:street" v="Opposite DAV College Guhla Road"/>
+  <node id="13305155290" lat="40.2192768" lon="-74.0867358" version="2" timestamp="2025-11-14T20:51:40Z" changeset="174665020" uid="5359" user="user_5359">
+    <tag k="addr:city" v="Neptune Township"/>
+    <tag k="addr:housenumber" v="502"/>
+    <tag k="addr:postcode" v="07753"/>
+    <tag k="addr:state" v="NJ"/>
+    <tag k="addr:street" v="Waverly Avenue"/>
     <tag k="air_conditioning" v="yes"/>
-    <tag k="brand" v="Velvet Vision"/>
-    <tag k="changing_table" v="yes"/>
-    <tag k="clothes" v="custom_design_dresses;punjabi_traditional_wear;punjabi_dress;punjabi_designer"/>
-    <tag k="name" v="Velvet Vision"/>
-    <tag k="opening_hours" v="24/7"/>
-    <tag k="operator" v="Harmanjot Kaur"/>
-    <tag k="payment:app" v="yes"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="contact:facebook" v="www.facebook.com/daisysdelineptune"/>
+    <tag k="cuisine" v="sandwich;burger;chicken;breakfast;lunch;american;italian;german;salad;pasta;fries;soup"/>
+    <tag k="email" v="Daisysdeli@pm.me"/>
+    <tag k="name" v="Daisy's Deli"/>
+    <tag k="opening_hours" v="Mo, Tu, Th, Su 08:00-15:00; We off; Fr-Sa 08:00-16:00"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="payment:apple_pay" v="yes"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
     <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
     <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:discover_card" v="yes"/>
     <tag k="payment:google_pay" v="yes"/>
-    <tag k="payment:jcb" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:maestro" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+917419222445"/>
-    <tag k="shop" v="clothes"/>
-    <tag k="toilets" v="yes"/>
-    <tag k="website" v="https://www.instagram.com/velvetvisionz_cheeka/"/>
+    <tag k="phone" v="+1-732-361-3561"/>
+    <tag k="website" v="www.daisysdeli.com"/>
+    <tag k="website:menu" v="www.daisysdeli.com/menu"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
