@@ -1,30 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
-<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-02T06:11:40Z"/>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
+  <title>OSM3S Response</title>
+</head>
+<body>
 
-  <node id="13507338690" lat="-34.5647998" lon="-58.4430568" version="4" timestamp="2026-02-01T23:02:26Z" changeset="177984520" uid="22944636" user="leonacostaok">
-    <tag k="addr:city" v="Colegiales"/>
-    <tag k="addr:country" v="AR"/>
-    <tag k="addr:district" v="Palermo"/>
-    <tag k="addr:housenumber" v="1361"/>
-    <tag k="addr:postcode" v="C1426ABA"/>
-    <tag k="addr:state" v="Buenos Aires F.D."/>
-    <tag k="addr:street" v="Villanueva"/>
-    <tag k="amenity" v="church"/>
-    <tag k="category" v="places-of-worship"/>
-    <tag k="check_date:currency:XBT" v="2026-02-01"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/lacryptaokk"/>
-    <tag k="contact:instagram" v="https://instagram.com/lacryptaok"/>
-    <tag k="contact:linkedin" v="https://www.linkedin.com/company/lacryptaok/"/>
-    <tag k="contact:website" v="https://lacrypta.ar"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="La Crypta is an Argentine organization dedicated to the development, education, and sharing of knowledge within the Bitcoin and Nostr ecosystems."/>
-    <tag k="name" v="La Crypta"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="source" v="MappingBitcoin.com user submission"/>
-  </node>
+<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
+<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
 
-</osm>
+</body>
+</html>
