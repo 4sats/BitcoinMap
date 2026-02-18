@@ -1,61 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-17T06:07:58Z"/>
+<meta osm_base="2026-02-18T06:11:41Z"/>
 
-  <node id="8701286579" lat="45.9622358" lon="10.9116349" version="15" timestamp="2026-02-15T22:20:25Z" changeset="178601961" uid="14166821" user="Salute Costituzionale">
-    <tag k="addr:city" v="Dro"/>
-    <tag k="addr:housenumber" v="6"/>
-    <tag k="addr:postcode" v="38074"/>
-    <tag k="addr:street" v="Via Torre"/>
-    <tag k="check_date" v="2026-01-26"/>
-    <tag k="check_date:currency:XBT" v="2026-01-26"/>
-    <tag k="cuisine" v="italian;regional;international"/>
+  <node id="13296887253" lat="30.3103917" lon="-81.6936980" version="2" timestamp="2026-02-17T17:44:17Z" changeset="178690830" uid="23838245" user="levelone">
+    <tag k="addr:city" v="Jacksonville"/>
+    <tag k="addr:housenumber" v="2700"/>
+    <tag k="addr:postcode" v="32205"/>
+    <tag k="addr:state" v="FL"/>
+    <tag k="addr:street" v="Park Street"/>
+    <tag k="amenity" v="ice_cream"/>
+    <tag k="check_date" v="2026-02-17"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/screamingcat.icecream.coffee"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="currency:XBT:discount" v="10%"/>
-    <tag k="diet:gluten_free" v="yes"/>
-    <tag k="diet:vegan" v="yes"/>
-    <tag k="email" v="info@untempoperte.it"/>
-    <tag k="guest_house" v="bed_and_breakfast"/>
-    <tag k="internet_access" v="wlan"/>
-    <tag k="internet_access:fee" v="no"/>
-    <tag k="name" v="Un tempo per Te"/>
-    <tag k="opening_hours" v="&quot;by appointment&quot;"/>
+    <tag k="description" v="Screaming Cat Ice Cream &amp; Coffee serves locally roasted coffee and delicious Wisconsin ice cream in a fun, retro-style shop in Riverside, Jacksonville."/>
+    <tag k="image" v="https://s3-media0.fl.yelpcdn.com/bphoto/J3SKURA6GoojHLjWbFeqRw/o.jpg"/>
+    <tag k="name" v="Screaming Cat Ice Cream &amp; Coffee"/>
+    <tag k="opening_hours" v="Mo 08:00-18:00; Fr-Sa 08:00-22:00; Su,Tu,We,Th 08:00-21:00"/>
+    <tag k="outdoor_seating" v="no"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:bitcoincash" v="yes"/>
     <tag k="payment:cash" v="yes"/>
-    <tag k="payment:coins" v="yes"/>
-    <tag k="payment:cryptocurrencies" v="yes"/>
-    <tag k="payment:dash" v="yes"/>
-    <tag k="payment:gold" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
+    <tag k="payment:lightning:operator" v="square"/>
     <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:notes" v="yes"/>
     <tag k="payment:onchain" v="yes"/>
-    <tag k="payment:silver" v="yes"/>
-    <tag k="phone" v="+39 333 364 9554"/>
-    <tag k="tourism" v="guest_house"/>
-    <tag k="website" v="https://www.untempoperte.it"/>
-  </node>
-  <node id="13545168894" lat="34.1039503" lon="-81.2021049" version="3" timestamp="2026-02-14T22:13:55Z" changeset="178563159" uid="251543" user="ChrissW-R1">
-    <tag k="addr:city" v="Irmo"/>
-    <tag k="addr:country" v="US"/>
-    <tag k="addr:housenumber" v="607"/>
-    <tag k="addr:postcode" v="29063"/>
-    <tag k="addr:state" v="SC"/>
-    <tag k="addr:street" v="West Royal Tower Drive"/>
-    <tag k="contact:email" v="waddystees@hotmail.com"/>
-    <tag k="contact:fax" v="+1 803-732-7727"/>
-    <tag k="contact:phone" v="+1 803-732-7179"/>
-    <tag k="contact:website" v="https://waddystees.com"/>
-    <tag k="name" v="Waddy's Tees"/>
-    <tag k="operator" v="Ed Wadelington"/>
-    <tag k="payment:american_express" v="yes"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:mastercard" v="yes"/>
-    <tag k="payment:paypal" v="yes"/>
-    <tag k="payment:visa" v="yes"/>
-    <tag k="shop" v="printing"/>
+    <tag k="phone" v="+1-904-419-7850"/>
+    <tag k="stroller" v="yes"/>
+    <tag k="website" v="https://screamingcatco.com"/>
+    <tag k="wheelchair" v="yes"/>
   </node>
 
 </osm>
