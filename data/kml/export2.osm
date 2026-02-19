@@ -1,35 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-18T06:11:41Z"/>
+<meta osm_base="2026-02-19T06:11:00Z"/>
 
-  <node id="13296887253" lat="30.3103917" lon="-81.6936980" version="2" timestamp="2026-02-17T17:44:17Z" changeset="178690830" uid="23838245" user="levelone">
-    <tag k="addr:city" v="Jacksonville"/>
-    <tag k="addr:housenumber" v="2700"/>
-    <tag k="addr:postcode" v="32205"/>
-    <tag k="addr:state" v="FL"/>
-    <tag k="addr:street" v="Park Street"/>
-    <tag k="amenity" v="ice_cream"/>
-    <tag k="check_date" v="2026-02-17"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/screamingcat.icecream.coffee"/>
+  <node id="13232816739" lat="40.5781202" lon="8.3212233" version="5" timestamp="2026-02-18T10:03:04Z" changeset="178717343" uid="23396275" user="Heart of Sardinia">
+    <tag k="addr:city" v="Alghero"/>
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="07041"/>
+    <tag k="addr:street" v="Via Tiziano Vecellio"/>
+    <tag k="air_conditioning" v="yes"/>
     <tag k="currency:XBT" v="yes"/>
-    <tag k="description" v="Screaming Cat Ice Cream &amp; Coffee serves locally roasted coffee and delicious Wisconsin ice cream in a fun, retro-style shop in Riverside, Jacksonville."/>
-    <tag k="image" v="https://s3-media0.fl.yelpcdn.com/bphoto/J3SKURA6GoojHLjWbFeqRw/o.jpg"/>
-    <tag k="name" v="Screaming Cat Ice Cream &amp; Coffee"/>
-    <tag k="opening_hours" v="Mo 08:00-18:00; Fr-Sa 08:00-22:00; Su,Tu,We,Th 08:00-21:00"/>
-    <tag k="outdoor_seating" v="no"/>
+    <tag k="email" v="heartofsardinia@outlook.com"/>
+    <tag k="guest_house" v="apartment"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="customers"/>
+    <tag k="name" v="Heart of Sardinia"/>
+    <tag k="operator" v="Antonio"/>
     <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
     <tag k="payment:lightning" v="yes"/>
-    <tag k="payment:lightning:operator" v="square"/>
     <tag k="payment:lightning_contactless" v="yes"/>
-    <tag k="payment:onchain" v="yes"/>
-    <tag k="phone" v="+1-904-419-7850"/>
-    <tag k="stroller" v="yes"/>
-    <tag k="website" v="https://screamingcatco.com"/>
-    <tag k="wheelchair" v="yes"/>
+    <tag k="phone" v="+44 7488911525"/>
+    <tag k="rooms" v="2"/>
+    <tag k="tourism" v="guest_house"/>
+    <tag k="website" v="https://www.airbnb.it/rooms/865638294258665345?source_impression_id=p3_1760448465_P3vvrcw4RI5s_6jQ"/>
   </node>
 
 </osm>
