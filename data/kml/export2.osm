@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
-<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-17T06:10:56Z"/>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
+  <title>OSM3S Response</title>
+</head>
+<body>
 
-  <node id="13652848562" lat="6.6965358" lon="3.4852359" version="1" timestamp="2026-03-16T17:05:22Z" changeset="179962325" uid="23946346" user="Omega (Bitcoin Ikorodu)">
-    <tag k="addr:city" v="Ikorodu"/>
-    <tag k="addr:postcode" v="100014"/>
-    <tag k="addr:street" v="Bamgbose street"/>
-    <tag k="name" v="Game House"/>
-    <tag k="operator" v="Alvin"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="08061791198"/>
-    <tag k="shop" v="video_games"/>
-  </node>
+<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
+<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
 
-</osm>
+</body>
+</html>
