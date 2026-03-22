@@ -1,75 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-21T05:51:59Z"/>
+<meta osm_base="2026-03-22T06:04:00Z"/>
 
-  <node id="12601944438" lat="-34.0345397" lon="23.3729824" version="4" timestamp="2026-03-18T09:43:12Z" changeset="180049211" uid="23350575" user="Bitcoinplett">
-    <tag k="addr:city" v="Plettenberg Bay"/>
-    <tag k="addr:housenumber" v="N2"/>
-    <tag k="addr:postcode" v="6600"/>
-    <tag k="addr:street" v="Old Nick Village Market"/>
-    <tag k="check_date:currency:XBT" v="2026-03-17"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="name" v="Mr Marc's  Marinade"/>
-    <tag k="opening_hours" v="We 09:00-14:00"/>
-    <tag k="operator" v="Marc"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+27 76 037 1439"/>
-    <tag k="shop" v="deli"/>
-    <tag k="survey:date" v="2026-02-17"/>
-    <tag k="website" v="https://mrmarcsmarinade.my.canva.site/"/>
-  </node>
-  <node id="12647051495" lat="-34.0345756" lon="23.3728095" version="2" timestamp="2026-03-18T09:32:30Z" changeset="180048480" uid="23350575" user="Bitcoinplett">
-    <tag k="addr:city" v="Plettenberg Bay"/>
-    <tag k="addr:housenumber" v="N2"/>
-    <tag k="addr:postcode" v="6600"/>
-    <tag k="addr:street" v="Old Nick Village market"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/HashtagBamboo1"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/hashtag_bamboo/"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="orders@hashtagbamboo.co.za"/>
-    <tag k="name" v="Hashtag Bamboo"/>
-    <tag k="opening_hours" v="We 09:00-14:00"/>
+  <node id="13666653061" lat="52.2656012" lon="104.3037798" version="1" timestamp="2026-03-21T12:42:35Z" changeset="180206427" uid="21257287" user="braid">
+    <tag k="addr:housenumber" v="61"/>
+    <tag k="addr:street" v="Коммунистическая улица"/>
+    <tag k="addr:street:en" v="Communist street"/>
+    <tag k="amenity" v="bureau_de_change"/>
+    <tag k="description" v="На входе нет вывески, позвоните в дверь."/>
+    <tag k="description:en" v="No sign outside, ring the door bell."/>
+    <tag k="description:uk" v="Зовні немає вивіски, подзвоніть у дзвінок."/>
+    <tag k="name" v="Cripthub"/>
+    <tag k="opening_hours" v="Mo-Su 10:00-20:00"/>
     <tag k="payment:bitcoin" v="yes"/>
     <tag k="payment:cash" v="yes"/>
-    <tag k="payment:credit_cards" v="yes"/>
-    <tag k="payment:debit_cards" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+27 67 031 0141"/>
-    <tag k="shop" v="catalogue"/>
-    <tag k="survey:date" v="2026-02-22"/>
-    <tag k="website" v="https://hashtagbamboo.co.za/"/>
-  </node>
-  <node id="13652848562" lat="6.6965358" lon="3.4852359" version="1" timestamp="2026-03-16T17:05:22Z" changeset="179962325" uid="23946346" user="Omega (Bitcoin Ikorodu)">
-    <tag k="addr:city" v="Ikorodu"/>
-    <tag k="addr:postcode" v="100014"/>
-    <tag k="addr:street" v="Bamgbose street"/>
-    <tag k="name" v="Game House"/>
-    <tag k="operator" v="Alvin"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:cash" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="08061791198"/>
-    <tag k="shop" v="video_games"/>
-  </node>
-  <node id="13658288747" lat="-34.0718301" lon="23.3681369" version="4" timestamp="2026-03-20T06:43:07Z" changeset="180143440" uid="242345" user="confusedbuffalo">
-    <tag k="addr:city" v="Plettenberg Bay"/>
-    <tag k="addr:postcode" v="6600"/>
-    <tag k="addr:street" v="Mobile"/>
-    <tag k="amenity" v="car_wash"/>
-    <tag k="automated" v="no"/>
-    <tag k="check_date:currency:XBT" v="2026-03-18"/>
-    <tag k="contact:facebook" v="https://www.facebook.com/people/Emys-Mobile-Car-Wash/61577414484384/"/>
-    <tag k="currency:XBT" v="yes"/>
-    <tag k="email" v="emyscarwash@gmail.com"/>
-    <tag k="name" v="Emy's Mobile Carwash"/>
-    <tag k="operator" v="Emy"/>
-    <tag k="payment:bitcoin" v="yes"/>
-    <tag k="payment:lightning" v="yes"/>
-    <tag k="phone" v="+27 82 650 0563"/>
-    <tag k="self_service" v="no"/>
-    <tag k="survey:date" v="2026-03-18"/>
+    <tag k="payment:credit_cards" v="no"/>
+    <tag k="payment:cryptocurrencies" v="yes"/>
+    <tag k="payment:debit_cards" v="no"/>
+    <tag k="payment:mir" v="no"/>
+    <tag k="phone" v="+79140072431"/>
+    <tag k="website" v="https://cripthub.ru/"/>
+    <tag k="website:en" v="https://cripthub.ru/en/"/>
+    <tag k="wheelchair" v="no"/>
   </node>
 
 </osm>
