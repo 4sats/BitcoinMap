@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-20T05:42:51Z"/>
+<meta osm_base="2026-08-21T05:44:02Z"/>
 
+  <node id="9082476988" lat="49.9523767" lon="-119.3894139" version="3" timestamp="2026-08-20T17:28:13Z" changeset="187757018" uid="18866545" user="jpc_BTC">
+    <tag k="addr:city" v="Kelowna"/>
+    <tag k="addr:housenumber" v="1730"/>
+    <tag k="addr:postcode" v="V1V 3E7"/>
+    <tag k="addr:province" v="BC"/>
+    <tag k="addr:street" v="Pier Mac Way"/>
+    <tag k="addr:unit" v="103"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="name" v="Mavara Indian Bistro"/>
+    <tag k="opening_hours" v="Fr-Sa 11:00-21:00, Su-Th 11:00-22:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="778-940-1600"/>
+    <tag k="website" v="https://mavara.yogodine.com/"/>
+  </node>
 
 </osm>
