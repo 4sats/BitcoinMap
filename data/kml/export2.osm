@@ -1,15 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" lang="en"/>
-  <title>OSM3S Response</title>
-</head>
-<body>
+<osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2026-08-24T05:49:36Z"/>
 
-<p>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</p>
-<p><strong style="color:#FF0000">Error</strong>: runtime error: open64: 0 Success /osm3s_osm_base Dispatcher_Client::request_read_and_idx::timeout. The server is probably too busy to handle your request. </p>
+  <node id="9082476988" lat="49.9523767" lon="-119.3894139" version="4" timestamp="2026-08-22T03:14:39Z" changeset="187823804" uid="23492813" user="confusedbuffalo-bot">
+    <tag k="addr:city" v="Kelowna"/>
+    <tag k="addr:housenumber" v="1730"/>
+    <tag k="addr:postcode" v="V1V 3E7"/>
+    <tag k="addr:province" v="BC"/>
+    <tag k="addr:street" v="Pier Mac Way"/>
+    <tag k="addr:unit" v="103"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="indian"/>
+    <tag k="name" v="Mavara Indian Bistro"/>
+    <tag k="opening_hours" v="Fr-Sa 11:00-21:00, Su-Th 11:00-22:00"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:lightning" v="yes"/>
+    <tag k="phone" v="+1-778-940-1600"/>
+    <tag k="website" v="https://mavara.yogodine.com/"/>
+  </node>
+  <node id="14111250436" lat="40.0411972" lon="-86.1069054" version="1" timestamp="2026-08-21T21:31:10Z" changeset="187817941" uid="22121897" user="Relatively Irrelevant">
+    <tag k="addr:city" v="Westfield"/>
+    <tag k="addr:housenumber" v="17425"/>
+    <tag k="addr:postcode" v="46074"/>
+    <tag k="addr:state" v="IN"/>
+    <tag k="addr:street" v="Carey Road"/>
+    <tag k="currency:XBT" v="yes"/>
+    <tag k="name" v="Jewelry Gallery"/>
+    <tag k="opening_hours" v="Mo-Fr 10:00-17:30"/>
+    <tag k="payment:bitcoin" v="yes"/>
+    <tag k="payment:onchain" v="yes"/>
+    <tag k="phone" v="+1-317-896-8744"/>
+    <tag k="shop" v="jewelry"/>
+  </node>
 
-</body>
-</html>
+</osm>
